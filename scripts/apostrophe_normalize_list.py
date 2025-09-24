@@ -9,30 +9,36 @@ def normalize_apostrophes():
         po_file_path (str): The path to the .po file.
     """
     files: list = glob.glob("locale/*.po")
-    print(files)
+
     for file in files:
         # Load the .po file
-        print(file)
+        print("Load the .po file", file)
 
         po = polib.pofile(file)
-
-        # Define a regex pattern to match different apostrophe characters
-        # apostrophe_pattern = re.compile(r"[’‘`]")
 
         # Iterate through each entry in the .po file
         for entry in po:
             if entry.msgstr:
                 # Replace all variations of apostrophes with the standard single quote
                 entry.msgstr = re.sub("O'", "Oʻ", entry.msgstr)
+                entry.msgstr = re.sub("O‘", "Oʻ", entry.msgstr)
+                entry.msgstr = re.sub("O’", "Oʻ", entry.msgstr)
+                entry.msgstr = re.sub("O`", "Oʻ", entry.msgstr)
+
                 entry.msgstr = re.sub("o'", "oʻ", entry.msgstr)
-                entry.msgstr = re.sub("O‘", "O‘", entry.msgstr)
-                entry.msgstr = re.sub("o‘", "o‘", entry.msgstr)
+                entry.msgstr = re.sub("o‘", "oʻ", entry.msgstr)
+                entry.msgstr = re.sub("o’", "oʻ", entry.msgstr)
+                entry.msgstr = re.sub("o`", "oʻ", entry.msgstr)
+
                 entry.msgstr = re.sub("G'", "Gʻ", entry.msgstr)
+                entry.msgstr = re.sub("G‘", "Gʻ", entry.msgstr)
+                entry.msgstr = re.sub("G’", "Gʻ", entry.msgstr)
+                entry.msgstr = re.sub("G’", "oʻ", entry.msgstr)
+
                 entry.msgstr = re.sub("g'", "gʻ", entry.msgstr)
-                entry.msgstr = re.sub("G‘", "G‘", entry.msgstr)
-                entry.msgstr = re.sub("g‘", "g‘", entry.msgstr)
-                entry.msgstr = re.sub("’", "ʼ", entry.msgstr)
-                entry.msgstr = re.sub("'", "ʼ", entry.msgstr)
+                entry.msgstr = re.sub("g‘", "gʻ", entry.msgstr)
+                entry.msgstr = re.sub("g’", "gʻ", entry.msgstr)
+                entry.msgstr = re.sub("g`", "oʻ", entry.msgstr)
 
         # Save the changes back to the .po file
         po.save(file)

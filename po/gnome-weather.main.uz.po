@@ -1,0 +1,234 @@
+# Uzbek (Latin) translation for gnome-weather.
+# Copyright (C) 2025 gnome-weather's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-weather package.
+# bahrom04 <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-weather main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-weather/issues/\n"
+"POT-Creation-Date: 2025-09-20 09:40+0000\n"
+"PO-Revision-Date: 2025-03-29 21:59+0500\n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/org.gnome.Weather.desktop.in.in:3
+#: data/org.gnome.Weather.metainfo.xml.in.in:5 data/window.ui:82
+msgid "Weather"
+msgstr "Ob-havo"
+
+#: data/org.gnome.Weather.desktop.in.in:4
+#: data/org.gnome.Weather.metainfo.xml.in.in:6
+msgid "Show weather conditions and forecast"
+msgstr "Ob-havo sharoiti va prognozini koʻrsatish"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.Weather.desktop.in.in:12
+msgid "Weather;Forecast;"
+msgstr "Ob-havo; Prognoz;"
+
+#: data/org.gnome.Weather.desktop.in.in:13
+msgid "Allows weather information to be displayed for your location."
+msgstr ""
+"Sizning joylashuvingiz uchun ob-havo maʼlumotlarini koʻrsatishga imkon "
+"beradi."
+
+#: data/org.gnome.Weather.gschema.xml:6
+msgid "Configured cities to show weather for"
+msgstr "Ob-havoni koʻrsatish uchun sozlangan shaharlar"
+
+#: data/org.gnome.Weather.gschema.xml:7
+msgid ""
+"The locations shown in the world view of gnome-weather. Each value is a "
+"GVariant returned by gweather_location_serialize()."
+msgstr ""
+"Gnome-ob-havoning dunyo koʻrinishida koʻrsatilgan joylar. Har bir qiymat "
+"gweather_location_serialize() tomonidan qaytariladigan GVariantdir."
+
+#: data/org.gnome.Weather.gschema.xml:14
+msgid "The width of the main window."
+msgstr "Asosiy oyna uzunligi."
+
+#: data/org.gnome.Weather.gschema.xml:18
+msgid "The height of the main window."
+msgstr "Asosiy oyna balandligi."
+
+#: data/org.gnome.Weather.gschema.xml:22
+msgid "Window maximized"
+msgstr "Kattalashgan oyna"
+
+#: data/org.gnome.Weather.gschema.xml:23
+msgid "Whether or not the window is maximized."
+msgstr "Oyna kattalashtiriladimi yoki yoʼqmi."
+
+#: data/org.gnome.Weather.metainfo.xml.in.in:16
+msgid ""
+"A small application that allows you to monitor the current weather "
+"conditions for your city, or anywhere in the world."
+msgstr ""
+"Sizning shahringiz yoki dunyoning istalgan nuqtasi uchun joriy ob-havo "
+"sharoitlarini kuzatish imkonini beruvchi kichik dastur."
+
+#: data/org.gnome.Weather.metainfo.xml.in.in:20
+msgid ""
+"It provides access to detailed forecasts, up to 7 days, with hourly details "
+"for the current and next day, using various internet services."
+msgstr ""
+"Bu turli internet xizmatlaridan foydalangan holda joriy va keyingi kun uchun"
+" soatlik maʼlumotlar bilan 7 kungacha boʻlgan batafsil prognozlarga kirish "
+"imkonini beradi."
+
+#: data/org.gnome.Weather.metainfo.xml.in.in:24
+msgid ""
+"It also optionally integrates with the GNOME Shell, allowing you to see the "
+"current conditions of the most recently searched cities by just typing the "
+"name in the Activities Overview."
+msgstr ""
+"Shuningdek, u ixtiyoriy ravishda GNOME Shell bilan integratsiyalanadi, bu "
+"sizga Faoliyatlar haqida umumiy maʼlumotga faqat nomini kiritish orqali eng "
+"soʻnggi qidirilgan shaharlarning joriy sharoitlarini koʻrish imkonini "
+"beradi."
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/org.gnome.Weather.metainfo.xml.in.in:482
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
+
+#: data/day-entry.ui:20
+msgid "Night"
+msgstr "Qorongʼu"
+
+#: data/day-entry.ui:33
+msgid "Morning"
+msgstr "Ertalab"
+
+#: data/day-entry.ui:46
+msgid "Afternoon"
+msgstr "Peshindan keyin"
+
+#: data/day-entry.ui:59
+msgid "Evening"
+msgstr "Kechqurun"
+
+#: data/places-popover.ui:15 data/places-popover.ui:76
+msgid "Search for a city"
+msgstr "Shahar qidiring"
+
+#: data/weather-widget.ui:42
+msgid "Places"
+msgstr "Joylar"
+
+#: data/weather-widget.ui:92
+msgid "_Hourly"
+msgstr "_Soatiga"
+
+#: data/weather-widget.ui:124
+msgid "_Daily"
+msgstr "_Kuniga"
+
+#: data/window.ui:6
+msgid "Temperature Unit"
+msgstr "Harorat birligi"
+
+#: data/window.ui:8
+msgid "_Celsius"
+msgstr "_Telsiy"
+
+#: data/window.ui:13
+msgid "_Fahrenheit"
+msgstr "_Farengeyt"
+
+#: data/window.ui:21
+msgid "_About Weather"
+msgstr "_ Ob-havo haqida"
+
+#: data/window.ui:47
+msgid "Welcome to Weather!"
+msgstr "Ob-havoga xush kelibsiz!"
+
+#: data/window.ui:48
+msgid "To get started, select a location."
+msgstr "Boshlash uchun joyni tanlang."
+
+#: data/window.ui:54
+msgid "Search for a city or country"
+msgstr "Shahar yoki mamlakatni qidiring"
+
+#: data/window.ui:73
+msgid "Refresh"
+msgstr "Yangilash"
+
+#: data/window.ui:87
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#, javascript-format
+#~ msgid "Feels like %.0f°"
+#~ msgstr "%.0f° kabi tuyulmoqda"
+
+#~ msgid "Updated just now."
+#~ msgstr "Hozir yangilandi."
+
+#, javascript-format
+#~ msgid "Updated %d minute ago."
+#~ msgid_plural "Updated %d minutes ago."
+#~ msgstr[0] "%d daqiqa oldin yangilandi."
+
+#, javascript-format
+#~ msgid "Updated %d hour ago."
+#~ msgid_plural "Updated %d hours ago."
+#~ msgstr[0] "%d soat oldin yangilandi."
+
+#, javascript-format
+#~ msgid "Updated %d day ago."
+#~ msgid_plural "Updated %d days ago."
+#~ msgstr[0] "%d kun oldin yangilandi."
+
+#, javascript-format
+#~ msgid "Updated %d week ago."
+#~ msgid_plural "Updated %d weeks ago."
+#~ msgstr[0] "%d hafta oldin yangilandi."
+
+#, javascript-format
+#~ msgid "Updated %d month ago."
+#~ msgid_plural "Updated %d months ago."
+#~ msgstr[0] "%d oy oldin yangilangan."
+
+#~ msgid "Daily Forecast"
+#~ msgstr "Kunlik prognoz"
+
+#~ msgid "Forecast not Available"
+#~ msgstr "Prognoz mavjud emas"
+
+#~ msgid "%b %e"
+#~ msgstr "%b %e"
+
+#~ msgid "Hourly Forecast"
+#~ msgstr "Soatlik prognoz"
+
+#~ msgid "Now"
+#~ msgstr "Hozir"
+
+#~ msgid "%l∶%M %p"
+#~ msgstr "%l∶%M %p"
+
+#~ msgid "translator-credits"
+#~ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
+
+#~ msgid "World view"
+#~ msgstr "Dunyo koʼrinishi"
+
+#, javascript-format
+#~ msgid "%s / %s"
+#~ msgstr "%s / %s"
+
+#, javascript-format
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
