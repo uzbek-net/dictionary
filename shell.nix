@@ -19,8 +19,7 @@ in
 
       # Python
       pythonEnv
-      nodejs
-
       poetry
+      nodejs
     ];
   }
