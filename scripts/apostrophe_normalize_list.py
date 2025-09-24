@@ -1,4 +1,4 @@
-import polib, re, argparse, glob
+import polib, re, glob
 
 
 def normalize_apostrophes():
@@ -8,7 +8,7 @@ def normalize_apostrophes():
     Args:
         po_file_path (str): The path to the .po file.
     """
-    files: list = glob.glob("locale/*.po")
+    files: list[str] = glob.glob("locale/*.po")
 
     for file in files:
         # Load the .po file
@@ -45,12 +45,5 @@ def normalize_apostrophes():
 
 
 if __name__ == "__main__":
-    # parser = argparse.ArgumentParser(description="Normalize apostrophes in a .po file.")
-    # parser.add_argument(
-    #     "--po_file", help="Path to the .po file to normalize.", required=True
-    # )
-
-    # args = parser.parse_args()
-
     normalize_apostrophes()
-    print(f"Apostrophes in '' have been normalized.")
+    print(f"Apostrophes in have been normalized.")
