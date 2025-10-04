@@ -1,0 +1,689 @@
+# Uzbek (Latin) translation for boatswain.
+# Copyright (C) 2025 boatswain's COPYRIGHT HOLDER
+# This file is distributed under the same license as the boatswain package.
+# BeMeritus <bemerituss@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: boatswain main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/boatswain/issues\n"
+"POT-Creation-Date: 2025-10-03 14:27+0000\n"
+"PO-Revision-Date: 2025-10-03 19:25+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/com.feaneron.Boatswain.desktop.in.in:2
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:6
+msgid "Boatswain"
+msgstr "Boatswain"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/com.feaneron.Boatswain.desktop.in.in:10
+msgid "stream deck;streaming;deck;elgato;"
+msgstr "stream deck;streaming;deck;elgato;"
+
+#: data/com.feaneron.Boatswain.gschema.xml:7
+#: data/com.feaneron.Boatswain.gschema.xml:8
+msgid "Restore token for the desktop controller"
+msgstr "Ish stoli kontrolleri tokenini tiklash"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:12
+msgid "Control your Elgato Stream Decks"
+msgstr "Elgato striming paketlaringizni boshqaring"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:14
+msgid "Boatswain allows you to control Elgato Stream Deck devices."
+msgstr "Boatswain Elgato Stream Deck qurilmalarini boshqarish imkonini beradi."
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:15
+msgid "With Boatswain you will be able to:"
+msgstr "Boatswain bilan siz quyidagilarni bajara olasiz:"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:17
+msgid "Organize your actions in pages and profiles"
+msgstr "Sahifalar va profillarda harakatlaringizni tartibga soling"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:18
+msgid "Set custom icons to actions"
+msgstr "Amallarga maxsus belgilarni sozlash"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:19
+msgid "Control your music player"
+msgstr "Musiqiy pleyerni boshqarish"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:20
+msgid "Play sound effects during your streams"
+msgstr "Strim paytida tovush effektlarini ijro qiling"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:21
+msgid ""
+"Control OBS Studio using Stream Deck (requires the obs-websocket extension)"
+msgstr ""
+"OBS Studioni Stream Deck yordamida boshqarish (ob-websocket kengaytmasini "
+"talab qiladi)"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:22
+msgid "Send network requests"
+msgstr "Tarmoq so‘rovlarini yuborish"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:23
+msgid "Keep track of your gaming score"
+msgstr "O‘yin ballaringizni kuzatib boring"
+
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:24
+msgid "Open files and launch applications"
+msgstr "Fayllarni ochish va ilovalarni ishga tushirish"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-mini.c:223
+msgid "Elgato Stream Deck Mini"
+msgstr "Elgato Stream Deck Mini"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-mk2.c:73
+msgid "Elgato Stream Deck MK.2"
+msgstr "Elgato Stream Deck MK.2"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-neo.c:72
+msgid "Elgato Stream Deck Neo"
+msgstr "Elgato Stream Deck Neo"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-original.c:250
+#: lib/devices/elgato/elgato-stream-deck-original-v2.c:73
+msgid "Elgato Stream Deck"
+msgstr "Elgato Stream Deck"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-pedal.c:92
+msgid "Elgato Stream Deck Pedal"
+msgstr "Elgato Stream Deck Pedal"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-plus.c:384
+msgid "Elgato Stream Deck Plus"
+msgstr "Elgato Stream Deck Plus"
+
+#. Translators: this is a product name. In most cases, it is not translated.
+#. * Please verify if Elgato translates their product names on your locale.
+#.
+#: lib/devices/elgato/elgato-stream-deck-xl.c:73
+msgid "Elgato Stream Deck XL"
+msgstr "Elgato Stream Deck XL"
+
+#: lib/devices/mock/mock-device.c:108
+msgid "Feaneron Hangar Mild"
+msgstr "Feaneron Hangar Mild"
+
+#: lib/devices/mock/mock-device.c:125
+msgid "Feaneron Hangar XL"
+msgstr "Feaneron Hangar XL"
+
+#: lib/bs-device.c:361
+msgid "Default"
+msgstr "Standart"
+
+#: lib/bs-profile.c:185
+msgid "Unnamed profile"
+msgstr "Nomsiz profil"
+
+#: src/bs-application.c:48
+msgid "Enable debug messages"
+msgstr "Debag xabarlarini yoqish"
+
+#: src/bs-application.c:85
+#, c-format
+msgid "Connected to %d device"
+msgid_plural "Connected to %d devices"
+msgstr[0] "%d ta qurilmaga ulangan"
+
+#: src/bs-application.c:137
+msgid ""
+"Boatswain needs to run in background to detect and execute Stream Deck "
+"actions."
+msgstr ""
+"Stream Deck harakatlarini aniqlash va bajarish uchun Boatswain fonda "
+"ishlashi kerak."
+
+#: src/bs-button-editor.c:327
+msgid "All supported formats"
+msgstr "Barcha mos formatlar"
+
+#: src/bs-button-editor.c:336
+msgid "Select icon"
+msgstr "Belgini tanlang"
+
+#: src/bs-button-editor.c:337
+#: src/plugins/network/network-http-action-prefs.c:147
+msgid "Open"
+msgstr "Ochiq"
+
+#: src/bs-button-editor.ui:13
+msgid "Button Properties"
+msgstr "Tugma xususiyatlari"
+
+#: src/bs-button-editor.ui:189
+msgid "Name"
+msgstr "Ism"
+
+#: src/bs-button-editor.ui:196
+msgid "Background Color"
+msgstr "Fon rangi"
+
+#: src/bs-button-editor.ui:232 src/bs-touchscreen-slot-editor.ui:63
+msgid "Select Action"
+msgstr "Amalni tanlang"
+
+#: src/bs-button-editor.ui:250 src/bs-touchscreen-slot-editor.ui:81
+msgid "Remove Action"
+msgstr "Amalni olib tashlash"
+
+#: src/bs-button-editor.ui:272 src/bs-touchscreen-slot-editor.ui:103
+#: src/plugins/default/default-multi-action-editor.ui:67
+msgid "Actions"
+msgstr "Harakatlar"
+
+#: src/bs-device-editor.ui:65
+msgid "Select a button"
+msgstr "Bir tugmani tanlang"
+
+#: src/bs-profile-row.ui:8 src/bs-profile-row.ui:87
+msgid "Rename"
+msgstr "Qayta nomlash"
+
+#: src/bs-profile-row.ui:14
+msgid "Move up"
+msgstr "Yuqoriga surish"
+
+#: src/bs-profile-row.ui:18
+msgid "Move down"
+msgstr "Pastga surish"
+
+#: src/bs-profile-row.ui:24
+msgid "Delete"
+msgstr "O‘chirish"
+
+#. Adwaita
+#: src/bs-touchscreen-background-dialog.c:63
+#: src/bs-touchscreen-background-dialog.ui:44
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: src/bs-touchscreen-background-dialog.c:64
+msgid "Glass"
+msgstr "Shisha"
+
+#: src/bs-touchscreen-background-dialog.c:65
+msgid "Oh Sheet!"
+msgstr "Ey varaq!"
+
+#: src/bs-touchscreen-background-dialog.c:66
+msgid "Pills"
+msgstr "Tabletkalar"
+
+#: src/bs-touchscreen-background-dialog.c:67
+msgid "Swoosh"
+msgstr "Svuch"
+
+#: src/bs-touchscreen-background-dialog.ui:28
+#: src/bs-touchscreen-background-dialog.ui:29
+msgid "No Background"
+msgstr "Orqa fon mavjud emas"
+
+#: src/bs-touchscreen-slot-editor.ui:14
+msgid "Touchscreen Properties"
+msgstr "Sensorli ekran xususiyatlari"
+
+#: src/bs-touchscreen-slot-editor.ui:33
+msgid "Touchscreen"
+msgstr "Sensorli ekran"
+
+#: src/bs-touchscreen-slot-editor.ui:51 src/bs-touchscreen-slot-editor.ui:58
+msgid "Action"
+msgstr "Harakat"
+
+#: src/bs-window.ui:38
+msgid "No Stream Deck Found"
+msgstr "Stream Deck topilmadi"
+
+#: src/bs-window.ui:39
+msgid "Plug in a Stream Deck device to use it"
+msgstr "Undan foydalanish uchun Stream Deck qurilmasini ulang"
+
+#: src/bs-window.ui:155
+msgid "New profile…"
+msgstr "Yangi profil…"
+
+#: src/bs-window.ui:180 src/plugins/default/default-action-factory.c:53
+msgid "Brightness"
+msgstr "Yorugʻlik"
+
+#: src/bs-window.ui:216
+msgid "Firmware"
+msgstr "Mikrodastur"
+
+#: src/bs-window.ui:275
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: src/bs-window.ui:279
+msgid "_About Boatswain"
+msgstr "Boatswain haqida"
+
+#: src/bs-window.ui:283
+msgid "_Quit"
+msgstr "Chiqish"
+
+#: src/gtk/help-overlay.ui:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: src/gtk/help-overlay.ui:14
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni ko‘rsatish"
+
+#: src/gtk/help-overlay.ui:20
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: src/plugins/default/default-action-factory.c:41
+msgid "Folder"
+msgstr "Jild"
+
+#: src/plugins/default/default-action-factory.c:47
+msgid "Switch Profile"
+msgstr "Profilni almashtirish"
+
+#: src/plugins/default/default-action-factory.c:59
+msgid "Multiple Actions"
+msgstr "Bir nechta amal"
+
+#: src/plugins/default/default-action-factory.c:65
+msgid "Go Up"
+msgstr "Yuqoriga"
+
+#. Translators: "Constant" as in "Constant value of brightness"
+#: src/plugins/default/default-brightness-action.c:141
+msgid "Constant"
+msgstr "Doimiy"
+
+#: src/plugins/default/default-brightness-action.c:142
+msgid "Increase"
+msgstr "Ko‘paytirmoq"
+
+#: src/plugins/default/default-brightness-action.c:143
+msgid "Decrease"
+msgstr "Kamaymoq"
+
+#: src/plugins/default/default-brightness-action.c:146
+msgid "Mode"
+msgstr "Rejim"
+
+#: src/plugins/default/default-brightness-action.c:153
+msgid "Value"
+msgstr "Qiymat"
+
+#: src/plugins/default/default-multi-action-editor.c:303
+#: src/plugins/default/default-multi-action-row.c:141
+msgid "Delay"
+msgstr "Kechikish"
+
+#: src/plugins/default/default-multi-action-editor.ui:31
+msgid "Add action"
+msgstr "Amal kiritish"
+
+#: src/plugins/default/default-multi-action-editor.ui:49
+msgid "Add Action"
+msgstr "Amal kiritish"
+
+#: src/plugins/default/default-multi-action-editor.ui:73
+msgid "Others"
+msgstr "Boshqalar"
+
+#: src/plugins/default/default-multi-action-editor.ui:83
+msgid "Settings"
+msgstr "Sozlamalar"
+
+#: src/plugins/default/default-switch-profile-action.c:264
+#: src/plugins/default/default.plugin.desktop.in:2
+msgid "Stream Deck"
+msgstr "Stream Deck"
+
+#: src/plugins/default/default-switch-profile-action.c:287
+msgid "Profile"
+msgstr "Profil"
+
+#: src/plugins/desktop/desktop-action-factory.c:38
+#: src/plugins/desktop/desktop-keyboard-shortcut-action.c:277
+msgid "Keyboard Shortcut"
+msgstr "Klaviatura yorlig‘i"
+
+#: src/plugins/desktop/desktop-action-factory.c:39
+msgid "Trigger a keyboard shortcut"
+msgstr "Tezkor tugmani ishga tushirish"
+
+#: src/plugins/desktop/desktop-shortcut-dialog.ui:7
+msgid "Set Shortcut"
+msgstr "Yorliqni sozlash"
+
+#: src/plugins/desktop/desktop-shortcut-dialog.ui:66
+msgid "Press Esc to cancel"
+msgstr "Bekor qilish uchun Esc tugmasini bosing"
+
+#: src/plugins/desktop/desktop-shortcut-dialog.ui:100
+msgid "_Cancel"
+msgstr "Bekor qilish"
+
+#: src/plugins/desktop/desktop-shortcut-dialog.ui:109
+msgid "_Set"
+msgstr "To‘plam"
+
+#: src/plugins/desktop/desktop.plugin.desktop.in:2
+msgid "Desktop"
+msgstr "Ish stoli"
+
+#: src/plugins/gaming/gaming.js:37
+msgid "Score"
+msgstr "Hisob"
+
+#: src/plugins/gaming/gaming.js:38
+msgid "Keep track of your score. Reset with a long press."
+msgstr "Ballaringizni kuzatib boring. Uzoq bosib asliga qaytarish."
+
+#: src/plugins/gaming/gaming.plugin.desktop.in:2
+msgid "Gaming"
+msgstr "O‘yin oʻynash"
+
+#: src/plugins/gaming/score.js:39
+msgid "score.txt"
+msgstr "score.txt"
+
+#. Restore score
+#: src/plugins/gaming/score.js:352
+msgid "Restore Score"
+msgstr "Hisobni tiklash"
+
+#: src/plugins/gaming/score.js:371
+msgid "Text Color"
+msgstr "Matn rangi"
+
+#: src/plugins/gaming/score.js:384
+msgid "Save to File"
+msgstr "Faylga saqlash"
+
+#: src/plugins/gaming/score.js:385
+msgid ""
+"Save score to a text file. Other apps such as OBS Studio may read from it."
+msgstr ""
+"Hisobni matnli faylga saqlang. OBS Studio kabi boshqa ilovalar undan o‘qishi "
+"mumkin."
+
+#: src/plugins/gaming/score.js:394
+#: src/plugins/launcher/launcher-open-file-action.c:213
+#: src/plugins/network/network-http-action-prefs.ui:61
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:8
+msgid "File"
+msgstr "Fayl"
+
+#: src/plugins/gaming/score.js:413
+msgid "Text File (.txt)"
+msgstr "Matnli fayl (.txt)"
+
+#: src/plugins/launcher/launcher-action-factory.c:39
+msgid "Launch Application"
+msgstr "Ilovani ishga tushirish"
+
+#: src/plugins/launcher/launcher-action-factory.c:45
+msgid "Open File"
+msgstr "Faylni ochish"
+
+#: src/plugins/launcher/launcher-action-factory.c:51
+msgid "Open URL"
+msgstr "URL manzilni ochish"
+
+#: src/plugins/launcher/launcher-launch-preferences.ui:8
+msgid "Choose Application"
+msgstr "Ilovani tanlash"
+
+#: src/plugins/launcher/launcher-open-file-action.c:68
+msgid "No file selected"
+msgstr "Hech qanday fayl belgilanmagan"
+
+#: src/plugins/launcher/launcher-open-file-action.c:156
+msgid "Select File"
+msgstr "Faylni tanlash"
+
+#: src/plugins/launcher/launcher-open-url-action.c:108
+msgid "URL"
+msgstr "URL"
+
+#: src/plugins/launcher/launcher.plugin.desktop.in:2
+msgid "Launcher"
+msgstr "Ishga tushirgich"
+
+#: src/plugins/network/network-action-factory.c:39
+msgid "HTTP Request"
+msgstr "HTTP so‘rovi"
+
+#: src/plugins/network/network-action-factory.c:40
+msgid "Send GET and POST requests to a webserver"
+msgstr "Veb-serverga GET va POST so‘rovlarini yuborish"
+
+#: src/plugins/network/network-http-action-prefs.c:146
+msgid "Select payload file"
+msgstr "Faylni tanlang"
+
+#: src/plugins/network/network-http-action-prefs.ui:14
+msgid "URI"
+msgstr "URI"
+
+#: src/plugins/network/network-http-action-prefs.ui:22
+msgid "Method"
+msgstr "Metod"
+
+#: src/plugins/network/network-http-action-prefs.ui:45
+msgid "Payload source"
+msgstr "Yuklama manbai"
+
+#: src/plugins/network/network-http-action-prefs.ui:82
+msgid "Edit payload"
+msgstr "Yuklamani tahrirlash"
+
+#: src/plugins/network/network-http-action-prefs.ui:99
+msgid "HTTP Request Payload"
+msgstr "HTTP so‘rov yuklamasi"
+
+#: src/plugins/network/network.plugin.desktop.in:2
+msgid "Network"
+msgstr "Tarmoq"
+
+#: src/plugins/obs-studio/obs-action-factory.c:44
+msgid "Switch Scene"
+msgstr "Sahnani almashtirish"
+
+#. Translators: "Record" is a verb here
+#: src/plugins/obs-studio/obs-action-factory.c:51
+msgid "Record"
+msgstr "Yozib olish"
+
+#. Translators: "Stream" is a verb here
+#: src/plugins/obs-studio/obs-action-factory.c:58
+msgid "Stream"
+msgstr "Stream"
+
+#: src/plugins/obs-studio/obs-action-factory.c:64
+msgid "Virtual Camera"
+msgstr "Virtual kamera"
+
+#: src/plugins/obs-studio/obs-action-factory.c:70
+msgid "Toggle Mute"
+msgstr "Ovozni yoqish/oʻchirish tugmasi"
+
+#: src/plugins/obs-studio/obs-action-factory.c:76
+msgid "Show / Hide Source"
+msgstr "Manbani ko‘rsatish / berkitish"
+
+#: src/plugins/obs-studio/obs-connection.c:800
+msgid "Invalid password"
+msgstr "Parol notoʻgʻri"
+
+#: src/plugins/obs-studio/obs-connection-settings.ui:8
+msgid "Connection Settings"
+msgstr "Ulanish sozlamalari"
+
+#: src/plugins/obs-studio/obs-connection-settings.ui:12
+msgid "Host"
+msgstr "Xost"
+
+#: src/plugins/obs-studio/obs-connection-settings.ui:20
+msgid "Port"
+msgstr "Port"
+
+#: src/plugins/obs-studio/obs-connection-settings.ui:45
+msgid "Password"
+msgstr "Parol"
+
+#: src/plugins/obs-studio/obs-switch-scene-action.c:286
+msgid "Scene"
+msgstr "Manzara"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:123
+msgid "Toggle mute"
+msgstr "Ovozni yoqish/oʻchirish tugmasi"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:124
+msgid "Mute"
+msgstr "Ovozsiz"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:125
+msgid "Unmute"
+msgstr "Ovozni yoqish"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:129
+msgid "Toggle visibility"
+msgstr "Ko‘rinishni almashtirish"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:130
+msgid "Hide"
+msgstr "Yashirish"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:131
+msgid "Show"
+msgstr "Koʻrsatish"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:482
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:22
+msgid "Behavior"
+msgstr "Xulq-atvor"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:493
+msgid "Audio Source"
+msgstr "Audio manbasi"
+
+#: src/plugins/obs-studio/obs-toggle-source-action.c:495
+msgid "Source"
+msgstr "Manba"
+
+#: src/plugins/obs-studio/obs-studio.plugin.desktop.in:2
+msgid "OBS Studio"
+msgstr "OBS Studio"
+
+#: src/plugins/soundboard/soundboard-action-factory.c:40
+msgid "Music Player"
+msgstr "Musiqiy pleyer"
+
+#: src/plugins/soundboard/soundboard-action-factory.c:41
+msgid "Control the active music player"
+msgstr "Faol musiqa pleyerini boshqarish"
+
+#: src/plugins/soundboard/soundboard-action-factory.c:46
+msgid "Play Audio"
+msgstr "Audioni ijro etish"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:201
+msgid "Next"
+msgstr "Keyingi"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:202
+msgid "Pause"
+msgstr "Pauza"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:203
+msgid "Play"
+msgstr "O‘yin"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:204
+msgid "Previous"
+msgstr "Avvalgi"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:205
+msgid "Stop"
+msgstr "To‘xtatmoq"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:206
+msgid "Play / Pause"
+msgstr "Ijro / Pauza"
+
+#: src/plugins/soundboard/soundboard-mpris-action.c:209
+msgid "Playback Action"
+msgstr "Ijro amali"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.c:96
+msgid "Audio Files"
+msgstr "Audio fayllar"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.c:103
+msgid "Select audio file"
+msgstr "Audio faylni tanlash"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:27
+msgid "Play / Stop"
+msgstr "Ijro / To‘xtatish"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:28
+msgid "Play / Overlap"
+msgstr "Ijro / Ustma-ust tushish"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:29
+msgid "Play / Restart"
+msgstr "Ijro / Qayta ishga tushirish"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:30
+msgid "Loop / Stop"
+msgstr "Cheksiz / To‘xtash"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:31
+msgid "Press & Hold"
+msgstr "Bosish va ushlash"
+
+#: src/plugins/soundboard/soundboard-play-action-prefs.ui:40
+msgid "Volume"
+msgstr "Tovush"
+
+# nima ma'noni anglatadi bu tarjima?
+#: src/plugins/soundboard/soundboard.plugin.desktop.in:2
+#, fuzzy
+msgid "Soundboard"
+msgstr "Saundbord"

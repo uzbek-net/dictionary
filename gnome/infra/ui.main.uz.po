@@ -1,0 +1,1672 @@
+# Uzbek (Latin) translation for welcome-gnome-org.
+# Copyright (C) 2025 welcome-gnome-org's COPYRIGHT HOLDER
+# This file is distributed under the same license as the welcome-gnome-org package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: welcome-gnome-org main\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "#i18n:gnome.org"
+msgstr "#i18n:gnome.org"
+
+msgid "Adwaita Demo"
+msgstr "Adwaita demo"
+
+msgid ""
+"All information about the Vala programming language for users, its syntax, "
+"tooling, and many code examples"
+msgstr ""
+"Foydalanuvchilar uchun Vala dasturlash tili haqidagi barcha ma'lumotlar, "
+"uning sintaksisi, asboblari va ko'plab kod misollari"
+
+msgid "All participants are expected to follow this Code of Conduct"
+msgstr "Barcha ishtirokchilar ushbu Xulq-atvor kodeksiga amal qilishlari kerak"
+
+msgid "App name…"
+msgstr "Ilova nomi…"
+
+msgid "Apps for GNOME"
+msgstr "GNOME uchun ilovalar"
+
+msgid ""
+"As a Core app, it is also pre-installed on [GNOME OS Nightly](https://"
+"os.gnome.org/) which you can install as a virtual machine."
+msgstr ""
+"Yadro ilovasi sifatida u [GNOME OS Nightly](https://os.gnome.org/) da "
+"oldindan oʻrnatilgan boʻlib, uni virtual mashina sifatida oʻrnatishingiz "
+"mumkin."
+
+msgid "Brand Book"
+msgstr "Brend kitobi"
+
+msgid "Building blocks for modern GNOME apps"
+msgstr "Zamonaviy GNOME ilovalari uchun qurilish bloklari"
+
+msgid "Building blocks for modern adaptive GNOME apps"
+msgstr "Zamonaviy moslashuvchan GNOME ilovalari uchun qurilish bloklari"
+
+msgid "Chat for discussing websites"
+msgstr "Veb-saytlarni muhokama qilish uchun chat"
+
+msgid "Clone Repository"
+msgstr "Repositoriyni klon qilish"
+
+msgid "Clone Repository…"
+msgstr "Repositoriyni klon qilish…"
+
+msgid "Close Language Selection"
+msgstr "Til tanlashni yoping"
+
+msgid "Code Repository"
+msgstr "Kod Repositoriysi"
+
+msgid "Code of Conduct"
+msgstr "Odob-axloq qoidalari"
+
+msgid "Codeberg"
+msgstr "Codeberg"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "Design"
+msgstr "Dizayn"
+
+msgid "Design Team on GitLab"
+msgstr "GitLab-da dizayn jamoasi"
+
+msgid "Design team issue tracking and work archive"
+msgstr "Dizayn jamoasi muammolarni kuzatish va ish arxivi"
+
+msgid "Design user interfaces, user experience, and visuals"
+msgstr "Foydalanuvchi interfeyslarini, foydalanuvchi tajribasini va ingl"
+
+msgid "Developer Center"
+msgstr "Dasturchilar markazi"
+
+msgid "Development Platform"
+msgstr "Rivojlanish platformasi"
+
+msgid "Documentation"
+msgstr "Hujjatlar"
+
+msgid "Edit this Page"
+msgstr "Ushbu Sahifani tahrirlang"
+
+msgid "Engage"
+msgstr "Ishtirok etish"
+
+msgid "Explore all the GNOME-related chat rooms in our Matrix space"
+msgstr ""
+"Matrix makonimizdagi GNOME bilan bog'liq barcha chat xonalarini o'rganing"
+
+msgid "Explore which languages can be used to write GNOME apps"
+msgstr ""
+"GNOME ilovalarini yozish uchun qaysi tillardan foydalanish mumkinligini "
+"o‘rganing"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Feedback"
+msgstr "Fikr-mulohaza"
+
+#. Translators: The {0} will be replaced with the correct URL and {1} with 'GitLab' or 'GitHub, and {2} with the app name'
+msgid ""
+"First, you can fork *{2}* via the [{1} page]({0}). You only need to do this "
+"once for every project you work on."
+msgstr ""
+"Birinchidan, siz [{1} sahifa]({0}) orqali *{2}* tugmachasini bosishingiz "
+"mumkin. Siz ishlayotgan har bir loyiha uchun buni faqat bir marta "
+"qilishingiz kerak."
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Foundation News"
+msgstr "Jamg'arma yangiliklari"
+
+msgid "GNOME Circle"
+msgstr "GNOME doirasi"
+
+msgid "GNOME Code of Conduct"
+msgstr "GNOME axloq kodeksi"
+
+msgid "GNOME Development Center"
+msgstr "GNOME rivojlantirish markazi"
+
+msgid "GNOME Foundation"
+msgstr "GNOME fondi"
+
+msgid "GNOME GitLab"
+msgstr "GNOME GitLab"
+
+msgid "GNOME Handbook"
+msgstr "GNOME qo'llanma"
+
+msgid "GNOME Nightly"
+msgstr "GNOME kechasi"
+
+msgid ""
+"GSoC is an online mentoring program focused on introducing new contributors "
+"to open source software development."
+msgstr ""
+"GSoC - bu ochiq kodli dasturiy ta'minotni ishlab chiqishda yangi hissa "
+"qo'shuvchilarni tanishtirishga qaratilgan onlayn murabbiylik dasturi."
+
+msgid "GTK is built on libraries like GLib and GIO"
+msgstr "GTK GLib va GIO kabi kutubxonalarda qurilgan"
+
+msgid "GTK is the underlying library for the user interface"
+msgstr "GTK foydalanuvchi interfeysi uchun asosiy kutubxona hisoblanadi"
+
+msgid "GTK&nbsp;3 Docs"
+msgstr "GTK 3 Hujjatlar"
+
+msgid "GTK&nbsp;4 Docs"
+msgstr "GTK 4 Hujjatlar"
+
+msgid "GTK&nbsp;4 docs"
+msgstr "GTK 4 hujjatlari"
+
+msgid "Get help in the matrix channel of the translation project"
+msgstr "Tarjima loyihasining matritsa kanalida yordam oling"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "GitLab"
+msgstr "GitLab"
+
+msgid "Google Summer of Code"
+msgstr "Google Summer of Code"
+
+msgid "Help to translate software and websites into your language"
+msgstr ""
+"Dasturiy ta'minot va veb-saytlarni tilingizga tarjima qilishga yordam bering"
+
+msgid "Home of the Websites Team on GitLab"
+msgstr "GitLab-dagi veb-saytlar jamoasining uyi"
+
+msgid ""
+"How to use GTK, the underlying library for user interfaces, and other "
+"libraries"
+msgstr ""
+"GTK, foydalanuvchi interfeyslari uchun asosiy kutubxona va boshqa "
+"kutubxonalardan qanday foydalanish kerak"
+
+msgid ""
+"If you are overwhelmed by working on an existing GNOME app, you can also "
+"look into [building your own app]({0}) for learning purposes first."
+msgstr ""
+"Mavjud GNOME ilovasi ustida ishlayotgan bo‘lsangiz, avval o‘rganish "
+"maqsadida [o‘z ilovangizni yaratish]({0}) ni ham ko‘rib chiqishingiz mumkin."
+
+msgid ""
+"If you found an issue or want to propose a change you should try to make "
+"sure you have tried out the latest version of {0}. You can check the current "
+"version in the app’s “About” section."
+msgstr ""
+"Agar muammo topsangiz yoki o‘zgartirishni taklif qilmoqchi bo‘lsangiz, {0} "
+"ilovasining so‘nggi versiyasini sinab ko‘rganingizga ishonch hosil qiling. "
+"Joriy versiyani ilovaning \"Haqida\" bo'limida tekshirishingiz mumkin."
+
+msgid "Install Builder"
+msgstr "Builder-ni o'rnating"
+
+msgid "Install Nightly"
+msgstr "Nightly-ni o'rnating"
+
+msgid "Install from Flathub"
+msgstr "Flathub-dan o'rnating"
+
+msgid "Install latest build of the app"
+msgstr "Ilovaning so'nggi versiyasini o'rnating"
+
+msgid "Install latest version of the app from Flathub"
+msgstr "Flathub-dan ilovaning so'nggi versiyasini o'rnating"
+
+msgid "Install the Builder app from Flathub"
+msgstr "Flathub-dan Builder ilovasini o'rnating"
+
+msgid "Issue Tracker"
+msgstr "Muammo kuzatuvchisi"
+
+msgid "JavaScript Bindings Reference"
+msgstr "JavaScript ulanishlari uchun havola"
+
+msgid "Latest Release"
+msgstr "Oxirgi nashr"
+
+msgid "Learn how you can contribute to the GNOME project"
+msgstr "GNOME loyihasiga qanday hissa qo'shishingiz mumkinligini bilib oling"
+
+msgid "Learn how you can publish your app on Flathub"
+msgstr ""
+"Ilovangizni Flathub-da qanday nashr etishingiz mumkinligini bilib oling"
+
+msgid "Learn more about GNOME nightly apps."
+msgstr "GNOME tungi ilovalari haqida ko'proq bilib oling."
+
+msgid "Learn more about how to translate this app"
+msgstr "Ushbu ilovani qanday tarjima qilish haqida ko'proq bilib oling"
+
+msgid "Learn more about this app on apps.gnome.org"
+msgstr "Apps.gnome.org saytida ushbu ilova haqida batafsil maʼlumot oling"
+
+msgid "Libadwaita Docs"
+msgstr "Libadwaita hujjatlari"
+
+msgid "Libadwaita docs"
+msgstr "Libadwaita hujjatlari"
+
+msgid "Libhandy Docs"
+msgstr "Libhandy hujjatlari"
+
+msgid ""
+"Main development repository of the Vala language and compiler, issue tracker "
+"and contribution platform"
+msgstr ""
+"Vala tilining asosiy rivojlanish ombori va kompilyator, emissiya "
+"kuzatuvchisi va hissa platformasi"
+
+msgid "Maintain websites and create content"
+msgstr "Veb-saytlarni saqlang va kontent yarating"
+
+msgid "Mastodon Account"
+msgstr "Mastodon hisobi"
+
+msgid "Matrix Community"
+msgstr "Matritsa hamjamiyati"
+
+msgid "Matrix channel for all Vala related questions"
+msgstr "Vala bilan bog'liq barcha savollar uchun matritsa kanali"
+
+msgid "Matrix channel for all questions related to JavaScript in GNOME"
+msgstr ""
+"GNOME'da JavaScript bilan bog'liq barcha savollar uchun matritsali kanal"
+
+msgid "Matrix channel for all questions related to Python in GNOME"
+msgstr "GNOME-da Python bilan bog'liq barcha savollar uchun matritsali kanal"
+
+msgid "Merch"
+msgstr "Tovar"
+
+msgid "More API References"
+msgstr "Ko'proq API havolalari"
+
+msgid "More about the translation project in GNOME"
+msgstr "GNOME-da tarjima loyihasi haqida ko'proq"
+
+msgid "More documentation for GObject libraries"
+msgstr "GObject kutubxonalari uchun qo'shimcha hujjatlar"
+
+msgid "News"
+msgstr "Yangiliklar"
+
+#. Translators: The {0} will be replaced with 'GitLab' or 'GitHub'
+msgid ""
+"Next, we want to make sure that git on your computer can also use your {0} "
+"account. For this, you need an SSH key. If you don't have an SSH key yet you "
+"can [generate a new one](https://docs.gitlab.com/ee/user/ssh.html#generate-"
+"an-ssh-key-pair) using [Console](https://apps.gnome.org/Console/). "
+"Alternatively, you can generate one using the [Passwords and Keys](https://"
+"flathub.org/apps/org.gnome.seahorse.Application) app."
+msgstr ""
+"Keyinchalik, kompyuteringizdagi git sizning {0} hisobingizdan ham "
+"foydalanishi mumkinligiga ishonch hosil qilmoqchimiz. Buning uchun sizga SSH "
+"kaliti kerak bo'ladi. Agar sizda hali SSH kaliti boʻlmasa, [Console](https://"
+"apps.gnome.org/Console/) yordamida [yangisini yaratishingiz](https://"
+"docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair) mumkin. Shu bilan "
+"bir qatorda, siz [Parollar va kalitlar](https://flathub.org/apps/"
+"org.gnome.seahorse.Application) ilovasidan foydalanib yaratishingiz mumkin."
+
+msgid "No apps matching the given search found."
+msgstr "Berilgan qidiruvga mos keladigan ilovalar topilmadi."
+
+#. Translators: The {0} will be replaced with 'GitLab' or 'GitHub'
+msgid ""
+"Now, we have to let git in your local project know of your personal copy on "
+"{0} via this URL. For this we need to go back to the command line. First, "
+"you have to change ([`cd`](https://www.gnu.org/software/bash/manual/"
+"bash.html#index-cd)) into the project you have been working on. Afterwards "
+"you can use the command"
+msgstr ""
+"Endi biz mahalliy loyihangizdagi git-ga ushbu URL orqali {0} saytidagi "
+"shaxsiy nusxangiz haqida xabar berishimiz kerak. Buning uchun biz buyruq "
+"satriga qaytishimiz kerak. Avval siz ishlayotgan loyihaga ([`cd`](https://"
+"www.gnu.org/software/bash/manual/bash.html#index-cd)) o'zgartirishingiz "
+"kerak. Shundan so'ng siz buyruqdan foydalanishingiz mumkin"
+
+msgid "Official Vala Documentation"
+msgstr "Rasmiy Vala hujjatlari"
+
+msgid ""
+"On this page you can learn how to contribute to *{0}*. If you are interested "
+"in general information about this app, please visit the [Apps for GNOME page]"
+"({1})."
+msgstr ""
+"Ushbu sahifada siz *{0}* ga qanday hissa qo'shishni o'rganishingiz mumkin. "
+"Agar siz ushbu ilova haqida umumiy maʼlumotga qiziqsangiz, [GNOME uchun "
+"ilovalar sahifasiga]({1}) tashrif buyuring."
+
+msgid "Outreachy"
+msgstr "Aloqa"
+
+msgid ""
+"Outreachy provides internships to people subject to systemic bias and "
+"impacted by underrepresentation in the technical industry where they are "
+"living."
+msgstr ""
+"Autreachy tizimli tarafkashlikka duchor bo'lgan va ular yashayotgan texnik "
+"sohada kam vakillik ta'siriga uchragan odamlarga amaliyot o'tashini "
+"ta'minlaydi."
+
+msgid "Overview"
+msgstr "Umumiy nuqtai"
+
+msgid "Overview of many important development resources for GNOME"
+msgstr "GNOME uchun ko'plab muhim rivojlanish resurslariga umumiy nuqtai"
+
+#. Translators: The {0} will be replaced with a tranlsated date and time.
+msgid "Page generated {0}"
+msgstr "Sahifa yaratildi: {0}"
+
+msgid "Palette"
+msgstr "Palitra"
+
+msgid "Planet GNOME"
+msgstr "GNOME sayyorasi"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "Programming"
+msgstr "Dasturlash"
+
+msgid "Programming Languages"
+msgstr "Dasturlash tillari"
+
+msgid "Programming language…"
+msgstr "Dasturlash tili…"
+
+msgid "Project translation on Weblate hosting"
+msgstr "Weblate xostingida loyiha tarjimasi"
+
+msgid "Publish on Flathub"
+msgstr "Flathub-da nashr qilish"
+
+msgid "Random suggestions out of available apps."
+msgstr "Mavjud ilovalardan tasodifiy takliflar."
+
+msgid "Repository URL"
+msgstr "Repozitoriy URL"
+
+msgid "Resources"
+msgstr "Resurslar"
+
+msgid "Rust GTK Core docs"
+msgstr "Rust GTK Core hujjatlari"
+
+msgid "Rust GTK&nbsp;4 docs"
+msgstr "Rust GTK 4 hujjatlari"
+
+msgid "Rust libadwaita docs"
+msgstr "Rust libadwaita docs"
+
+msgid "Select Language"
+msgstr "Tilni tanlang"
+
+msgid ""
+"Some of our websites are translated into different languages. You can find "
+"the translations in the [*Infrastructure* category]({0})."
+msgstr ""
+"Ba'zi veb-saytlarimiz turli tillarga tarjima qilingan. Tarjimalarni "
+"[*Infratuzilma* turkumi]({0})da topishingiz mumkin."
+
+msgid "Style guide for designing print material and websites for GNOME"
+msgstr ""
+"GNOME uchun bosma materiallar va veb-saytlarni loyihalash uchun uslublar "
+"qo'llanmasi"
+
+msgid ""
+"The URL is available next to the “HTTPS” and “SSH” buttons after clicking "
+"the “SSH” button."
+msgstr ""
+"URL \"SSH\" tugmasini bosgandan so'ng \"HTTPS\" va \"SSH\" tugmalari yonida "
+"mavjud."
+
+msgid "The URL is available under the button “Code” below “SSH.”"
+msgstr "URL manzili “SSH” ostidagi “Kod” tugmasi ostida mavjud."
+
+msgid "The app’s Matrix chat for project specific questions"
+msgstr "Loyihaga oid savollar uchun ilovaning Matrix suhbati"
+
+msgid "The app’s translation status on GNOME’s localization system"
+msgstr "GNOME mahalliylashtirish tizimida ilovaning tarjima holati"
+
+#. Translators: The {0} will be replaced with the correct URL and {1} with 'GitLab' or 'GitHub'
+msgid ""
+"The first step is to create a [new {0} account]({1}) if you don’t own one "
+"already. You just have to use the linked webform for that."
+msgstr ""
+"Birinchi qadam, agar sizda hali bo'lmasa, [yangi {0} hisob]({1}) yaratish. "
+"Buning uchun faqat bog'langan veb-shakldan foydalanishingiz kerak."
+
+msgid "The latest released version on Flathub is version {0}."
+msgstr "Flathub-da eng so'nggi chiqarilgan versiya {0}."
+
+msgid "The main channel for GNOME design discussions"
+msgstr "GNOME dizayn muhokamalari uchun asosiy kanal"
+
+msgid "The project’s home, keeping the source code and more information"
+msgstr "Loyihaning uyi, manba kodini va qo'shimcha ma'lumotlarni saqlaydi"
+
+msgid "The “GNOME Newcomers” chat can help you get started"
+msgstr "“GNOME yangi kelganlar” suhbati sizga boshlashingizga yordam beradi"
+
+msgid "The “Rust ❤️ GNOME” Matrix channel: All about using Rust in GNOME"
+msgstr ""
+"\"Rust ❤️ GNOME\" Matrix kanali: GNOME-da Rustdan foydalanish haqida hamma "
+"narsa"
+
+msgid "This Week in GNOME"
+msgstr "Bu hafta GNOME-da"
+
+msgid "This app is built with the *{0}* programming language."
+msgstr "Bu ilova *{0}* dasturlash tili bilan yaratilgan."
+
+msgid ""
+"This is especially helpful during the [feature freeze period](https://"
+"wiki.gnome.org/ReleasePlanning/Freezes) which is dedicated to finding and "
+"fixing bugs."
+msgstr ""
+"Bu, ayniqsa, xatolarni topish va tuzatishga bag'ishlangan [funksiyani "
+"muzlatish davri](https://wiki.gnome.org/ReleasePlanning/Freezes) paytida "
+"foydalidir."
+
+msgid "This page"
+msgstr "Bu sahifa"
+
+#. Translators: The {0} will be replaced with 'GitLab' or 'GitHub'
+msgid ""
+"To suggest changes to a project, you first have to create your own copy of "
+"the project on {0}. Creating this copy is also referred to as *forking*. You "
+"will need your own copy – or *fork* – of the project to upload your changes "
+"to this copy."
+msgstr ""
+"Loyihaga oʻzgartirish taklif qilish uchun avvalo loyihaning oʻz nusxasini "
+"{0} da yaratishingiz kerak. Ushbu nusxani yaratish *forking* deb ham "
+"ataladi. Ushbu nusxaga o'zgartirishlaringizni yuklash uchun sizga loyihaning "
+"shaxsiy nusxasi yoki *vilka* kerak bo'ladi."
+
+msgid "Translate on Weblate"
+msgstr "Weblate orqali tarjima qiling"
+
+msgid "Translate this app"
+msgstr "Ushbu ilovani tarjima qiling"
+
+msgid "Translation"
+msgstr "Tarjima"
+
+msgid "Translation Project"
+msgstr "Tarjima loyihasi"
+
+msgid "Translation on Damned Lies"
+msgstr "Damned Lies haqida tarjima"
+
+msgid "Typography"
+msgstr "Tipografiya"
+
+msgid "Use GNOME’s infrastructure to host your project"
+msgstr "Loyihangizni joylashtirish uchun GNOME infratuzilmasidan foydalaning"
+
+msgid "Vala Bindings API References"
+msgstr "Vala Bindings API havolalari"
+
+msgid "View all GNOME Teams"
+msgstr "Barcha GNOME jamoalarini ko'ring"
+
+msgid "View existing issues and feature requests or add new ones"
+msgstr ""
+"Mavjud muammolar va xususiyat so'rovlarini ko'ring yoki yangilarini qo'shing"
+
+msgid "View issues labeled “Newcomer” in the issue tracker"
+msgstr "Muammo kuzatuvchisida “Yangi kelgan” deb nomlangan muammolarni ko'ring"
+
+#. Translators: The {0} will be replaced with 'GitLab' or 'GitHub'
+msgid ""
+"We begin with some preparations on {0}, where the project is hosted. This "
+"process might look quite involved if you are going through it for the first "
+"time, but you will become much more accustomed to it over time."
+msgstr ""
+"Biz loyihaga mezbonlik qilgan {0} da ba'zi tayyorgarliklarni boshlaymiz. "
+"Agar siz buni birinchi marta boshdan kechirayotgan bo'lsangiz, bu jarayon "
+"juda murakkab ko'rinishi mumkin, ammo vaqt o'tishi bilan siz bunga ko'proq "
+"o'rganib qolasiz."
+
+msgid ""
+"We now have to find out the SSH URL for your fork. You can find it on the "
+"page you are redirected to after creating the fork. The page of the fork "
+"will also be listed on your profile."
+msgstr ""
+"Endi vilkangiz uchun SSH URL manzilini topishimiz kerak. Siz uni vilkalar "
+"yaratgandan so'ng yo'naltirilgan sahifada topishingiz mumkin. Vilkaning "
+"sahifasi ham profilingizda ko'rsatiladi."
+
+msgid "Websites"
+msgstr "Veb-saytlar"
+
+msgid "Websites Team"
+msgstr "Veb-saytlar jamoasi"
+
+msgid "Welcome to GNOME"
+msgstr "GNOME ga xush kelibsiz"
+
+msgid "Write code and engineer technical solutions"
+msgstr "Kodni yozing va texnik echimlarni ishlab chiqing"
+
+msgid "Write documentation, help pages, and manuals"
+msgstr "Hujjatlarni, yordam sahifalarini va qo'llanmalarni yozing"
+
+msgid ""
+"You can do this by [manually building the app](#getting-the-app-to-build) "
+"and trying it out."
+msgstr ""
+"Buni [ilovani qoʻlda yaratish](#getting-the-app-to-build) va uni sinab "
+"koʻrish orqali qilishingiz mumkin."
+
+#. Translators: The {0} will be replaced with the correct URL and {1} with 'GitLab' or 'GitHub'
+msgid ""
+"You now have to add your public SSH key to the [“SSH Keys” setting]({0}) on "
+"{1}. Public SSH keys are stored in the `.ssh` folder in your home directory "
+"as files with the ending `.pub`. You can print all your public SSH keys via "
+"the command `cat ~/.ssh/*.pub`. You can also view the public SSH keys using "
+"the *Passwords and Keys* app."
+msgstr ""
+"Endi siz umumiy SSH kalitingizni {1} da [“SSH kalitlari” sozlamasiga]({0}) "
+"qoʻshishingiz kerak. Umumiy SSH kalitlari uy katalogingizdagi “.ssh” jildida "
+"“.pub” tugaydigan fayllar sifatida saqlanadi. Siz barcha ochiq SSH "
+"kalitlaringizni `cat ~/.ssh/*.pub` buyrug'i orqali chop etishingiz mumkin. "
+"Shuningdek, siz *Parollar va kalitlar* ilovasi yordamida umumiy SSH "
+"kalitlarini ko'rishingiz mumkin."
+
+msgid "YouTube Channel"
+msgstr "YouTube kanali"
+
+msgid "gitg"
+msgstr "gitg"
+
+#. Translators: The {} will be replacest with a year.
+msgid "© 2022–{} The “Welcome to GNOME” contributors"
+msgstr "© 2022–{} “GNOME’ga xush kelibsiz” mualliflari"
+
+msgid "“Newcomer” issues"
+msgstr "\"Yangi kelganlar\" muammolari"
+
+#: templates/app.md:22
+msgid "Translating the app"
+msgstr "Ilova tarjima qilinmoqda"
+
+#: templates/app.md:24
+msgid ""
+"The original text in apps is usually written in American English. The "
+"translation into other languages can be added by translators separately. The "
+"translation usually encompasses the apps’ user interface as well as the "
+"metadata shown in places like [Software](https://apps.gnome.org/app/"
+"org.gnome.Software/) or [apps.gnome.org](https://apps.gnome.org). Common "
+"abbreviations used in this context are *l10n* (localization) and *i18n* "
+"(internationalization)."
+msgstr ""
+"Ilovalardagi asl matn odatda amerikacha ingliz tilida yoziladi. Boshqa "
+"tillarga tarjima tarjimonlar tomonidan alohida qo'shilishi mumkin. Tarjima "
+"odatda ilovalarning foydalanuvchi interfeysini hamda [Software](https://"
+"apps.gnome.org/app/org.gnome.Software/) yoki [apps.gnome.org](https://"
+"apps.gnome.org) kabi joylarda koʻrsatilgan metamaʼlumotlarni oʻz ichiga "
+"oladi. Ushbu kontekstda ishlatiladigan umumiy qisqartmalar *l10n* "
+"(lokalizatsiya) va *i18n* (xalqarolashtirish)."
+
+#: templates/app.md:26
+msgid ""
+"It looks like this app does not provide a way to be translated, yet. Feel "
+"free to file an issue against the project to ask for a way to translate this "
+"app."
+msgstr ""
+"Bu ilova hali tarjima qilish usulini taqdim etmaganga o‘xshaydi. Ushbu "
+"ilovani tarjima qilish yoʻlini soʻrash uchun loyihaga qarshi muammo "
+"qoʻyishingiz mumkin."
+
+#: templates/app.md:26
+msgid ""
+"The translation of this project is managed via Weblate hosting. This "
+"platform is not part of the GNOME project."
+msgstr ""
+"Ushbu loyihaning tarjimasi Weblate hosting orqali boshqariladi. Ushbu "
+"platforma GNOME loyihasining bir qismi emas."
+
+#: templates/app.md:26
+msgid ""
+"This app is translated via the [GNOME translation system](https://"
+"l10n.gnome.org) called *Damned Lies*."
+msgstr ""
+"Bu ilova [GNOME tarjima tizimi](https://l10n.gnome.org) orqali *La'nati "
+"yolg'on* deb tarjima qilingan."
+
+#: templates/app.md:61 templates/app.md:42 templates/app.md:30
+msgid "Trying the latest version"
+msgstr "Eng soʻnggi versiya sinab koʻrilmoqda"
+
+#: templates/app.md:64
+msgid ""
+"For technical reasons, the latest version of this app cannot be easily "
+"tested. This is the case for very few apps that need tight integration with "
+"the system."
+msgstr ""
+"Texnik sabablarga ko'ra, ushbu ilovaning so'nggi versiyasini osongina sinab "
+"ko'rish mumkin emas. Bu tizim bilan qattiq integratsiyaga muhtoj bo'lgan "
+"juda kam sonli ilovalarga tegishli."
+
+#: templates/app.md:64 templates/app.md:45 templates/app.md:33
+msgid ""
+"When reporting an issue or suggesting a feature, it can be helpful to base "
+"the report on the latest version of the app. To this end, you can check the "
+"installation methods below."
+msgstr ""
+"Muammo haqida xabar berayotganda yoki biror xususiyatni taklif qilganda, "
+"hisobotni ilovaning so‘nggi versiyasiga asoslash foydali bo‘lishi mumkin. "
+"Shu maqsadda siz quyidagi o'rnatish usullarini tekshirishingiz mumkin."
+
+#: templates/app.md:69 templates/app.md:50 templates/app.md:38
+msgid "Installation from Flathub"
+msgstr "Flathub-dan o'rnatish"
+
+#: templates/app.md:75 templates/app.md:94 templates/app.md:93
+msgid "Installing a nightly build"
+msgstr "Kecha qurilishini o'rnatish"
+
+#: templates/app.md:77 templates/app.md:96 templates/app.md:95
+msgid ""
+"This app allows to install a version of its current development status. Such "
+"installations were traditionally generated each night, giving them the name "
+"“nightly builds.” Nowadays, they are usually regenerated whenever the main "
+"development version changes."
+msgstr ""
+"Ushbu ilova uning joriy rivojlanish holatining versiyasini o'rnatish "
+"imkonini beradi. Bunday o'rnatishlar an'anaviy ravishda har kecha ishlab "
+"chiqarilgan va ularga \"tungi inshootlar\" nomini bergan. Hozirgi vaqtda "
+"ular odatda asosiy ishlab chiqish versiyasi o'zgarganda qayta tiklanadi."
+
+#: templates/app.md:81 templates/app.md:100 templates/app.md:99
+msgid ""
+"**Warning:** Nightly builds of apps should only be used for testing and not "
+"for actual tasks. You can identify nightly builds of the app on your system "
+"via the stripes in the app’s icon and the stripes in the app’s headerbar. "
+"They usually use a different configuration than other installations of this "
+"app. However, there is no guarantee that the installation of these apps will "
+"work as intended. Never work on data with nightly builds of apps without "
+"having backups available."
+msgstr ""
+"**Ogohlantirish:** Ilovalarning tungi tuzilmalari haqiqiy vazifalar uchun "
+"emas, balki faqat sinov uchun ishlatilishi kerak. Siz ilovaning "
+"piktogrammasidagi chiziqlar va ilovaning sarlavhasidagi chiziqlar orqali "
+"tizimingizdagi ilovaning tungi tuzilishini aniqlashingiz mumkin. Ular odatda "
+"ushbu ilovaning boshqa oʻrnatishlaridan farqli konfiguratsiyadan "
+"foydalanadilar. Biroq, ushbu ilovalarning o'rnatilishi mo'ljallangan tarzda "
+"ishlashiga kafolat yo'q. Hech qachon zaxira nusxalari mavjud bo'lmasdan, "
+"tungi ilovalar bilan ma'lumotlar ustida ishlamang."
+
+#: templates/app.md:87
+msgid ""
+"This app does not currently provide information on where to inspect issues."
+msgstr ""
+"Bu ilova hozirda muammolarni qayerda tekshirish kerakligi haqida maʼlumot "
+"bermaydi."
+
+#: templates/app.md:96 templates/app.md:119 templates/app.md:138
+msgid "Quality testing"
+msgstr "Sifat sinovi"
+
+#: templates/app.md:98 templates/app.md:121 templates/app.md:67
+msgid ""
+"Catching issues and regressions before they land in a stable release is very "
+"valuable for a project. You can help with this by trying out an upcoming "
+"release."
+msgstr ""
+"Muammolar va regressiyalarni barqaror nashrga tushishidan oldin ushlash "
+"loyiha uchun juda qimmatlidir. Kelgusi versiyani sinab ko'rish orqali bunga "
+"yordam berishingiz mumkin."
+
+#: templates/app.md:103 templates/app.md:129 templates/app.md:144
+msgid "Chasing issues"
+msgstr "Muammolarni ta'qib qilish"
+
+#: templates/app.md:105 templates/app.md:131 templates/app.md:146
+msgid ""
+"For many apps, the issue tracker is a central place for coordination of app "
+"development. It is not only used to track all existing problems but also to "
+"plan new features and other miscellaneous tasks."
+msgstr ""
+"Ko'pgina ilovalar uchun muammolarni kuzatuvchisi ilovalarni ishlab chiqishni "
+"muvofiqlashtirish uchun markaziy joydir. U nafaqat barcha mavjud muammolarni "
+"kuzatish, balki yangi xususiyatlar va boshqa turli vazifalarni "
+"rejalashtirish uchun ham qo'llaniladi."
+
+#: templates/app.md:111 templates/app.md:130 templates/app.md:129
+msgid ""
+"The nightly version can also be installed via [Console](https://"
+"apps.gnome.org/app/org.gnome.Console/) if the nightly repository is already "
+"[configured](http://nightly.gnome.org)."
+msgstr ""
+"Tungi versiyani [Console](https://apps.gnome.org/app/org.gnome.Console/) "
+"orqali ham oʻrnatish mumkin, agar tungi ombor allaqachon [konfiguratsiya "
+"qilingan](http://nightly.gnome.org)."
+
+#: templates/app.md:121 templates/app.md:147 templates/app.md:162
+msgid "Reporting found issues"
+msgstr "Topilgan muammolar haqida xabar berish"
+
+#: templates/app.md:123 templates/app.md:149 templates/app.md:164
+msgid ""
+"Reporting issues you found when using the app can be of high value for app "
+"maintainers. However, processing issue reports can also take considerable "
+"amount of time. You can take on some of the work by trying the following "
+"steps:"
+msgstr ""
+"Ilovadan foydalanishda topilgan muammolar haqida xabar berish ilova "
+"ta’minotchilari uchun katta ahamiyatga ega bo‘lishi mumkin. Biroq, muammo "
+"hisobotlarini qayta ishlash ham ancha vaqt talab qilishi mumkin. Quyidagi "
+"amallarni bajarib, ba'zi ishlarni bajarishingiz mumkin:"
+
+#: templates/app.md:124 templates/app.md:143 templates/app.md:119
+msgid "You can do this by trying out the nightly build of the app."
+msgstr ""
+"Buni ilovaning tungi tuzilishini sinab ko'rish orqali qilishingiz mumkin."
+
+#: templates/app.md:125 templates/app.md:151 templates/app.md:166
+msgid ""
+"Search the issue tracker to find out if the issue has already been reported."
+msgstr ""
+"Muammo allaqachon xabar qilingan yoki yo'qligini bilish uchun muammo "
+"kuzatuvchisini qidiring."
+
+#: templates/app.md:126 templates/app.md:152 templates/app.md:167
+msgid ""
+"Check if the issue also exists in the [latest version of the app](#trying-"
+"the-latest-version)."
+msgstr ""
+"Muammo [ilovaning so‘nggi versiyasida] ham bor yoki yo‘qligini tekshiring "
+"(#eng so‘nggi versiyada sinab ko‘ring)."
+
+#: templates/app.md:127 templates/app.md:153 templates/app.md:168
+msgid ""
+"If applicable, try to find out under which exact circumstances the problem "
+"occurs."
+msgstr ""
+"Agar mavjud bo'lsa, muammo aynan qaysi holatlarda yuzaga kelganini "
+"aniqlashga harakat qiling."
+
+#: templates/app.md:128 templates/app.md:154 templates/app.md:169
+msgid ""
+"Report all potentially relevant information, like the version of the app "
+"that expose the behavior."
+msgstr ""
+"Ilovaning xatti-harakatini ko‘rsatadigan versiyasi kabi barcha potentsial "
+"tegishli ma’lumotlar haqida xabar bering."
+
+#: templates/app.md:130 templates/app.md:156 templates/app.md:171
+msgid "Diagnosing listed issues"
+msgstr "Ro'yxatdagi muammolarni diagnostika qilish"
+
+#: templates/app.md:132 templates/app.md:158 templates/app.md:173
+msgid ""
+"Tracking down the exact cause of an issue can be a very important task. "
+"Especially for issues tagged with labels like “Needs Diagnosis” or “Needs "
+"Information.” If you can reproduce, that is, trigger the reported problem "
+"yourself, you can try to dig deeper. This can go from finding out under "
+"which exact conditions the issue appears, over running the app with [debug "
+"output enabled](https://developer-old.gnome.org/glib/unstable/glib-"
+"running.html), to adding debug outputs to the code that narrow down the "
+"problem."
+msgstr ""
+"Muammoning aniq sababini kuzatish juda muhim vazifa bo'lishi mumkin. "
+"Ayniqsa, \"Tashxisga muhtoj\" yoki \"Ma'lumot kerak\" kabi yorliqlar bilan "
+"belgilangan muammolar uchun. Agar siz ko'paytira olsangiz, ya'ni xabar "
+"qilingan muammoni o'zingiz qo'zg'atsangiz, chuqurroq qazishga harakat "
+"qilishingiz mumkin. Bu muammo aynan qaysi sharoitlarda paydo boʻlishini "
+"aniqlashdan, ilovani [debug output enabled] (https://developer-old.gnome.org/"
+"glib/unstable/glib-running.html) bilan ishga tushirishdan tortib, muammoni "
+"toraytiruvchi kodga disk raskadrovka natijalarini qoʻshishgacha borishi "
+"mumkin."
+
+#: templates/app.md:134 templates/app.md:160 templates/app.md:175
+msgid "Suggesting features"
+msgstr "Xususiyatlarni taklif qilish"
+
+#: templates/app.md:136 templates/app.md:162 templates/app.md:177
+msgid ""
+"Most apps handle feature requests via the issue tracker as well. Note that "
+"implementing features and maintaining them as part of the codebase in the "
+"future can require a significant amount of additional work. Therefore, you "
+"should consider whether a new feature could even be relevant enough to be "
+"part of this app."
+msgstr ""
+"Aksariyat ilovalar xususiyat so'rovlarini muammo kuzatuvchisi orqali ham "
+"bajaradi. E'tibor bering, funktsiyalarni amalga oshirish va ularni kelajakda "
+"kodlar bazasining bir qismi sifatida saqlash katta hajmdagi qo'shimcha "
+"ishlarni talab qilishi mumkin. Shuning uchun, yangi xususiyat hatto ushbu "
+"ilovaning bir qismi bo'lish uchun etarli bo'lishi mumkinligini o'ylab "
+"ko'rishingiz kerak."
+
+#: templates/app.md:138 templates/app.md:164 templates/app.md:179
+msgid ""
+"When suggesting a new feature, it is helpful to focus on the question of "
+"what practical problem the feature should solve. Not on how the app should "
+"solve the problem or how exactly an implementation would look like. "
+"Preferably, you can also give a practical example where you needed the "
+"feature."
+msgstr ""
+"Yangi xususiyatni taklif qilganda, bu xususiyat qanday amaliy muammoni hal "
+"qilishi kerakligi haqidagi savolga e'tibor qaratish foydali bo'ladi. Ilova "
+"muammoni qanday hal qilishi yoki dastur qanday ko'rinishi haqida emas. "
+"Afzal, siz xususiyat kerak bo'lgan joyda amaliy misol ham keltirishingiz "
+"mumkin."
+
+#: templates/app.md:140 templates/app.md:121 templates/app.md:139
+msgid ""
+"Catching issues and regressions before they land in a stable release is very "
+"valuable for a project. You can help with this by trying out an upcoming "
+"release.\n"
+"You can do this by trying out the nightly build of the app."
+msgstr ""
+"Muammolar va regressiyalarni barqaror versiyaga tushishidan oldin ushlash "
+"loyiha uchun juda qimmatlidir. Kelgusi versiyani sinab ko'rish orqali bunga "
+"yordam berishingiz mumkin.\n"
+"Buni ilovaning tungi tuzilishini sinab ko'rish orqali qilishingiz mumkin."
+
+#: templates/app.md:140 templates/app.md:181 templates/app.md:109
+msgid "Finding a task"
+msgstr "Vazifani topish"
+
+#: templates/app.md:142 templates/app.md:183 templates/app.md:111
+msgid ""
+"The issue tracker can also help you find open tasks you could tackle. Before "
+"implementing a new feature, it is usually a good idea to check in with the "
+"maintainers if merge requests for this feature would be accepted."
+msgstr ""
+"Muammoni kuzatuvchisi, shuningdek, hal qilishingiz mumkin bo'lgan ochiq "
+"vazifalarni topishga yordam beradi. Yangi xususiyatni amalga oshirishdan "
+"oldin, odatda, ushbu xususiyat uchun birlashma so'rovlari qabul qilinadimi "
+"yoki yo'qligini ta'minlovchilar bilan tekshirish yaxshi bo'ladi."
+
+#: templates/app.md:146 templates/app.md:187 templates/app.md:201
+msgid "Working on the code"
+msgstr "Kod ustida ishlash"
+
+#: templates/app.md:148 templates/app.md:189 templates/app.md:203
+msgid ""
+"Whether you want to fix a typo, change the user interface, or work on the "
+"code of the app, the following information can help you get started. The "
+"first step will be to get the app built on your computer, allowing you to "
+"play around with your changes. Afterward, you can check the provided "
+"documentation on how to get respective tasks done. The subsequent section "
+"will show you how to submit your changes."
+msgstr ""
+"Yozuv xatosini tuzatmoqchimisiz, foydalanuvchi interfeysini "
+"o‘zgartirmoqchimisiz yoki ilova kodi ustida ishlashni xohlaysizmi, quyidagi "
+"ma’lumotlar ishga kirishishda yordam beradi. Birinchi qadam, "
+"o'zgartirishlaringiz bilan o'ynashga imkon beruvchi ilovani kompyuteringizga "
+"o'rnatish bo'ladi. Shundan so'ng, siz tegishli topshiriqlarni qanday "
+"bajarish haqida taqdim etilgan hujjatlarni tekshirishingiz mumkin. Keyingi "
+"bo'lim sizga o'zgartirishlaringizni qanday yuborishni ko'rsatib beradi."
+
+#: templates/app.md:150 templates/app.md:191 templates/app.md:205
+msgid ""
+"If you are planning a somewhat larger change or addition to the app, it is "
+"often a good idea to check in with the maintainers of the app to find out if "
+"that change would be accepted. For this, you should first convince yourself "
+"that you can tackle the task at hand by doing the very first implementation "
+"steps and then check in with the maintainers via the issue tracker. This is "
+"also a good way to check if the project has an active maintainer who can "
+"accept your contribution. Despite our best efforts, not all projects are "
+"always continuously maintained."
+msgstr ""
+"Agar siz ilovaga biroz kattaroq oʻzgartirish yoki qoʻshimcha kiritishni "
+"rejalashtirmoqchi boʻlsangiz, ushbu oʻzgarish qabul qilinadimi yoki "
+"yoʻqligini bilish uchun ilovaning xizmat koʻrsatuvchilari bilan bogʻlanish "
+"yaxshi boʻladi. Buning uchun siz birinchi amalga oshirish bosqichlarini "
+"bajarib, vazifani engishingiz mumkinligiga o'zingizni ishontirishingiz "
+"kerak, so'ngra muammolarni kuzatuvchisi orqali ta'minotchilarga murojaat "
+"qiling. Bu, shuningdek, loyihada sizning hissangizni qabul qila oladigan "
+"faol xizmat ko'rsatuvchisi mavjudligini tekshirishning yaxshi usuli. Bizning "
+"barcha sa'y-harakatlarimizga qaramay, barcha loyihalar doimo doimiy ravishda "
+"davom etavermaydi."
+
+#: templates/app.md:152 templates/app.md:193 templates/app.md:207
+msgid ""
+"Note that while many community members are happy to help you out when you "
+"are stuck, maintainers oftentimes might not have the resources to guide you "
+"through a contribution."
+msgstr ""
+"Shuni esda tutingki, ko'plab hamjamiyat a'zolari tiqilib qolganingizda sizga "
+"yordam berishdan xursand bo'lishsa-da, xizmat ko'rsatuvchilar ko'pincha "
+"sizga hissa qo'shishda sizga yordam berish uchun resurslarga ega bo'lmasligi "
+"mumkin."
+
+#: templates/app.md:182 templates/app.md:193 templates/app.md:223
+msgid "Getting the app to build"
+msgstr "Ilova yaratish uchun olinmoqda"
+
+#: templates/app.md:185 templates/app.md:170 templates/app.md:189
+msgid ""
+"This app also has tasks which are labeled with the “Newcomer” tag. Those "
+"tasks usually require less prior knowledge or are less complex."
+msgstr ""
+"Ushbu ilovada \"Yangi kelganlar\" yorlig'i bilan belgilangan vazifalar ham "
+"mavjud. Bu vazifalar odatda kamroq bilim talab qiladi yoki kamroq "
+"murakkabdir."
+
+#: templates/app.md:186 templates/app.md:197 templates/app.md:227
+msgid ""
+"When making changes to an app you will usually want to build and test the "
+"app with its changes on your computer. For most apps this process can be "
+"simplified a lot by using the Builder app."
+msgstr ""
+"Ilovaga o'zgartirishlar kiritishda siz odatda dasturni o'z kompyuteringizda "
+"o'zgartirishlari bilan tuzib, sinab ko'rishni xohlaysiz. Aksariyat ilovalar "
+"uchun bu jarayonni Builder ilovasi yordamida ancha soddalashtirish mumkin."
+
+#: templates/app.md:202 templates/app.md:213 templates/app.md:243
+msgid ""
+"After starting Builder, you can choose to *clone* a project. This will "
+"download the app to your computer."
+msgstr ""
+"Builder-ni ishga tushirgandan so'ng, siz loyihani *klonlashni* tanlashingiz "
+"mumkin. Bu ilovani kompyuteringizga yuklab oladi."
+
+#: templates/app.md:214 templates/app.md:225 templates/app.md:255
+msgid ""
+"You have to enter the repository location. The correct URL can be copied "
+"from below."
+msgstr ""
+"Siz saqlash joyini kiritishingiz kerak. To'g'ri URLni pastdan nusxalash "
+"mumkin."
+
+#: templates/app.md:226
+msgid "There is no information available on how to build this app."
+msgstr "Ushbu ilovani qanday yaratish haqida hech qanday ma'lumot yo'q."
+
+#: templates/app.md:232 templates/app.md:243 templates/app.md:273
+msgid ""
+"Depending on your internet connection and the size of the project, cloning "
+"the project might take a while. After Builder has completed this step, the "
+"project window should open. You might have to confirm the installation of "
+"some required dependencies. To try if you can successfully build and start "
+"the app, you can now press the “Run Project” button."
+msgstr ""
+"Internetga ulanishingiz va loyiha hajmiga qarab, loyihani klonlash biroz "
+"vaqt talab qilishi mumkin. Builder ushbu bosqichni tugatgandan so'ng, loyiha "
+"oynasi ochilishi kerak. Ba'zi kerakli bog'liqliklarni o'rnatishni "
+"tasdiqlashingiz kerak bo'lishi mumkin. Ilovani muvaffaqiyatli yaratib, ishga "
+"tushirishga harakat qilish uchun endi “Loyihani ishga tushirish” tugmasini "
+"bosishingiz mumkin."
+
+#: templates/app.md:242 templates/app.md:253 templates/app.md:283
+msgid ""
+"If everything goes right, the app should be built. After the build has been "
+"completed, the built app should start automatically."
+msgstr ""
+"Agar hamma narsa to'g'ri bo'lsa, dasturni yaratish kerak. Qurilish "
+"tugallangandan so'ng, qurilgan ilova avtomatik ravishda ishga tushishi kerak."
+
+#: templates/app.md:247 templates/app.md:226 templates/app.md:228
+msgid "Python language"
+msgstr "Python tili"
+
+#: templates/app.md:258 templates/app.md:299 templates/app.md:317
+msgid "Rust language"
+msgstr "Zang tili"
+
+#: templates/app.md:287 templates/app.md:216 templates/app.md:228
+msgid "JavaScript language"
+msgstr "JavaScript tili"
+
+#: templates/app.md:288 templates/app.md:302 templates/app.md:216
+msgid "C language"
+msgstr "C tili"
+
+#: templates/app.md:302 templates/app.md:306 templates/app.md:228
+msgid "Vala language"
+msgstr "Vala tili"
+
+#: templates/app.md:317 templates/app.md:296 templates/app.md:278
+msgid "Setting up GitHub"
+msgstr "GitHub-ni sozlash"
+
+#: templates/app.md:346 templates/app.md:366 templates/app.md:324
+msgid "Submitting your work"
+msgstr "Ishingizni topshirish"
+
+#: templates/app.md:348 templates/app.md:368 templates/app.md:326
+msgid ""
+"After making changes to a project, you can submit them for review. Our goal "
+"is to create what’s called a *merge request* or *pull request*. That means "
+"suggesting a change to a project’s code and data."
+msgstr ""
+"Loyihaga o'zgartirish kiritganingizdan so'ng ularni ko'rib chiqish uchun "
+"yuborishingiz mumkin. Bizning maqsadimiz * birlashtirish so'rovi * yoki * "
+"tortish so'rovi * deb nomlangan narsani yaratishdir. Bu loyiha kodi va "
+"ma'lumotlarini o'zgartirishni taklif qilishni anglatadi."
+
+#: templates/app.md:360 templates/app.md:380 templates/app.md:338
+msgid "Setting up GitLab"
+msgstr "GitLab o'rnatilmoqda"
+
+#: templates/app.md:388 templates/app.md:408 templates/app.md:366
+msgid "Creating your own project copy"
+msgstr "O'zingizning loyiha nusxangizni yaratish"
+
+#: templates/app.md:408 templates/app.md:428 templates/app.md:386
+msgid ""
+"where `<ssh-fork-url>` has to be replaced with the SSH URL you looked up in "
+"the previous step."
+msgstr ""
+"qayerda `<ssh-fork-url> ` oldingi bosqichda qidirgan SSH URL bilan "
+"almashtirilishi kerak."
+
+#: templates/app.md:413 templates/app.md:433 templates/app.md:391
+msgid "Creating a merge request"
+msgstr "Birlashtirish so'rovi yaratilmoqda"
+
+#: templates/app.md:415 templates/app.md:435 templates/app.md:393
+msgid "We now arrive at what are more regular tasks when working with git."
+msgstr "Endi biz git bilan ishlashda qanday oddiy vazifalarga erishamiz."
+
+#: templates/app.md:420 templates/app.md:440 templates/app.md:398
+msgid ""
+"First, we want to switch to what’s called a different *branch*. Branches are "
+"variants of the original code where you can, for example, develop a feature, "
+"until it is ready to go into the actually used code. To do this you can call"
+msgstr ""
+"Birinchidan, biz boshqa * filial * deb ataladigan narsaga o'tmoqchimiz. "
+"Filiallar asl kodning variantlari bo'lib, unda siz, masalan, amalda "
+"foydalanilgan kodga o'tishga tayyor bo'lgunga qadar xususiyatni ishlab "
+"chiqishingiz mumkin. Buning uchun siz qo'ng'iroq qilishingiz mumkin"
+
+#: templates/app.md:426 templates/app.md:446 templates/app.md:404
+msgid ""
+"where `my-changes` is a short description of what you are working on, "
+"without spaces."
+msgstr ""
+"bu yerda “mening o‘zgarishlarim” bo‘sh joysiz, nima ustida "
+"ishlayotganingizning qisqacha tavsifi."
+
+#: templates/app.md:431 templates/app.md:451 templates/app.md:409
+msgid ""
+"Next, we want to save the changes you made with git. That’s usually referred "
+"to as creating a *commit*. You can do this with the command"
+msgstr ""
+"Keyinchalik, biz git yordamida kiritilgan o'zgarishlarni saqlamoqchimiz. Bu "
+"odatda * majburiyat * yaratish deb ataladi. Buni buyruq bilan qilishingiz "
+"mumkin"
+
+#: templates/app.md:437 templates/app.md:457 templates/app.md:415
+msgid ""
+"The commit messages should describe your changes. You can learn more about "
+"[choosing a fitting commit message](https://handbook.gnome.org/development/"
+"commit-messages.html)."
+msgstr ""
+"Qabul qilish xabarlari sizning o'zgarishlaringizni tasvirlashi kerak. Siz "
+"[to'g'ri kelishilgan xabarni tanlash] (https://handbook.gnome.org/"
+"development/commit-messages.html) haqida ko'proq bilib olishingiz mumkin."
+
+#: templates/app.md:442 templates/app.md:462 templates/app.md:420
+msgid ""
+"Now, we have to get your saved changes onto GitLab. Luckily, we have already "
+"done all the setup with using `git remote add` in the previous section. All "
+"that’s left to do is now to call"
+msgstr ""
+"Endi biz saqlangan o'zgarishlarni GitLab-ga olishimiz kerak. Yaxshiyamki, "
+"biz oldingi bo'limda \"git remote add\" dan foydalanib, barcha sozlashlarni "
+"amalga oshirdik. Endi faqat qo'ng'iroq qilish qoldi"
+
+#: templates/app.md:451 templates/app.md:471 templates/app.md:429
+msgid ""
+"We are finally at the last step. If you check the output in Console after "
+"our previous `git push` command, you will probably already see a website "
+"link showing you the way to create a *pull* or *merge request*. You can open "
+"it by pressing the *Ctrl* key while clicking on it. All that is left is to "
+"follow the website to finalize submitting your changes."
+msgstr ""
+"Biz nihoyat oxirgi bosqichdamiz. Oldingi `git push` buyrug'imizdan so'ng "
+"Console-da chiqishni tekshirsangiz, sizda *tortish* yoki *birlashtirish "
+"so'rovini* yaratish yo'lini ko'rsatadigan veb-sayt havolasini ko'rasiz. Uni "
+"bosish paytida * Ctrl * tugmachasini bosib ochishingiz mumkin. "
+"O'zgarishlarni topshirishni yakunlash uchun veb-saytga rioya qilish qoladi."
+
+#: templates/index.md:3
+msgid "Contribute to existing apps"
+msgstr "Mavjud ilovalarga hissa qo'shing"
+
+#: templates/index.md:3
+msgid "Our community"
+msgstr "Bizning jamoamiz"
+
+#: templates/index.md:5
+msgid ""
+"A very warm welcome to the GNOME project. We want everyone to have an "
+"enjoyable and fulfilling experience. For this, the GNOME community "
+"prioritizes marginalized people’s safety over privileged people’s comfort. "
+"To learn more about how you can find support and what is expected from "
+"contributors, please have a look at our [GNOME Code of Conduct](https://"
+"conduct.gnome.org)."
+msgstr ""
+"GNOME loyihasiga juda samimiy xush kelibsiz. Biz hammaga yoqimli va "
+"qoniqarli tajribaga ega bo'lishini xohlaymiz. Buning uchun GNOME hamjamiyati "
+"imtiyozli odamlarning qulayligidan ko'ra marginal odamlarning xavfsizligini "
+"birinchi o'ringa qo'yadi. Qanday qilib yordam topishingiz mumkinligi va "
+"hissa qo'shuvchilardan nima kutilishi haqida ko'proq bilish uchun bizning "
+"[GNOME o'zini tutish kodeksi](https://conduct.gnome.org) ni ko'rib chiqing."
+
+#: templates/index.md:5
+msgid ""
+"Below, you can find instructions on how to build and work on specific apps. "
+"If you are not sure where to contribute, consider choosing an app that you "
+"use yourself or select a programming language with which you are already "
+"familiar. Try to solve a problem or implement a feature that is important to "
+"you or where you feel an inner motivation."
+msgstr ""
+"Quyida ma'lum ilovalarni yaratish va ular ustida ishlash bo'yicha "
+"ko'rsatmalarni topishingiz mumkin. Qaerga hissa qo'shishni bilmasangiz, "
+"o'zingiz foydalanadigan ilovani yoki o'zingizga tanish bo'lgan dasturlash "
+"tilini tanlang. Muammoni hal qilishga harakat qiling yoki siz uchun muhim "
+"bo'lgan yoki ichki motivatsiyani his qiladigan xususiyatni amalga oshirishga "
+"harakat qiling."
+
+#: templates/index.md:21
+msgid ""
+"In GNOME we use Matrix chat to hang out together and discuss projects. You "
+"can get started in the [\\#newcomers room](https://matrix.to/#/"
+"#newcomers:gnome.org) or directly reach out in a more specific chat room."
+msgstr ""
+"GNOME-da biz birgalikda suhbatlashish va loyihalarni muhokama qilish uchun "
+"Matrix chatidan foydalanamiz. Siz [\\#newcomers room](https://matrix.to/#/"
+"#newcomers:gnome.org) da boshlashingiz yoki to'g'ridan-to'g'ri aniqroq chat "
+"xonasida bog'lanishingiz mumkin."
+
+#: templates/index.md:34
+msgid "Creating a new app"
+msgstr "Yangi ilova yaratish"
+
+#: templates/index.md:36
+msgid ""
+"Creating your own app will not only allow you to implement your own ideas at "
+"will. It is also an opportunity to understand how all the pieces in the "
+"GNOME ecosystem fit together."
+msgstr ""
+"O'z ilovangizni yaratish nafaqat o'z g'oyalaringizni o'z xohishingizga ko'ra "
+"amalga oshirish imkonini beradi. Bu, shuningdek, GNOME ekotizimidagi barcha "
+"qismlar bir-biriga qanday mos kelishini tushunish imkoniyatidir."
+
+#: templates/index.md:38
+msgid ""
+"It is possible to write apps for GNOME in several different programming "
+"languages. You can check our list of the [most frequently used languages]"
+"(https://developer.gnome.org/documentation/introduction/languages.html)."
+msgstr ""
+"GNOME uchun ilovalarni turli xil dasturlash tillarida yozish mumkin. Siz "
+"bizning [eng tez-tez ishlatiladigan tillar] ro'yxatini tekshirishingiz "
+"mumkin (https://developer.gnome.org/documentation/introduction/"
+"languages.html)."
+
+#: templates/index.md:40
+msgid ""
+"You can publish your app on [Flathub](https://docs.flathub.org/docs/for-app-"
+"authors/submission/) to make it easily available to many people. If your app "
+"is polished and ready for everyday usage, you can consider submitting it to "
+"[GNOME Circle](https://circle.gnome.org). The Circle membership makes your "
+"project eligible for support through the GNOME Foundation."
+msgstr ""
+"Ilovangizni [Flathub](https://docs.flathub.org/docs/for-app-authors/"
+"submission/) da chop etishingiz mumkin, bu uni ko‘pchilikka osonlik bilan "
+"taqdim etadi. Agar ilovangiz jilolangan va kundalik foydalanishga tayyor "
+"boʻlsa, uni [GNOME Circle] (https://circle.gnome.org) ga yuborishingiz "
+"mumkin. Circle a'zoligi sizning loyihangizni GNOME fondi orqali qo'llab-"
+"quvvatlash huquqini beradi."
+
+#: templates/index.md:53 templates/team/design.md:42
+msgid "Where to contribute"
+msgstr "Qaerda hissa qo'shish kerak"
+
+#: templates/index.md:55
+msgid ""
+"Within GNOME there are many areas where you can contribute and a plethora of "
+"skills that are appreciated."
+msgstr ""
+"GNOME ichida siz o'z hissangizni qo'shishingiz mumkin bo'lgan ko'plab "
+"sohalar va ko'plab ko'nikmalar mavjud."
+
+#: templates/index.md:89
+msgid "Programming languages"
+msgstr "Dasturlash tillari"
+
+#: templates/index.md:90
+msgid "Contribute to an app"
+msgstr "Ilovaga hissa qo'shing"
+
+#: templates/index.md:91
+msgid ""
+"Below, you can find an overview of the most popular languages for writing "
+"GNOME apps."
+msgstr ""
+"Quyida GNOME ilovalarini yozish uchun eng mashhur tillar haqida umumiy "
+"ma’lumotni topishingiz mumkin."
+
+#: templates/index.md:92
+msgid ""
+"Below, you can find specific contribution guides for all GNOME apps. If you "
+"are not sure where to contribute, consider choosing an app that you use "
+"yourself. Try to solve something that is important to you or where you feel "
+"an inner motivation."
+msgstr ""
+"Quyida siz barcha GNOME ilovalari uchun maxsus hissa qoʻllanmalarini "
+"topishingiz mumkin. Qaerga hissa qo'shishni bilmasangiz, o'zingiz "
+"foydalanadigan ilovani tanlashni o'ylab ko'ring. Siz uchun muhim bo'lgan "
+"yoki ichki motivatsiyani his qiladigan narsani hal qilishga harakat qiling."
+
+#: templates/index.md:112 templates/app.md:292 templates/app.md:306
+#: templates/app.md:220
+msgid ""
+"To get started with developing GNOME apps with C we recommend the [Beginners "
+"Tutorial](https://developer.gnome.org/documentation/tutorials/beginners/"
+"getting_started.html) that also covers the C language. You can find other "
+"important resources below."
+msgstr ""
+"GNOME ilovalarini C bilan ishlab chiqishni boshlash uchun biz C tilini ham "
+"qamrab olgan [Beginners Tutorial](https://developer.gnome.org/documentation/"
+"tutorials/beginners/getting_started.html) ni tavsiya qilamiz. Quyida boshqa "
+"muhim manbalarni topishingiz mumkin."
+
+#: templates/index.md:126
+msgid "Internships"
+msgstr "Amaliyot"
+
+#: templates/index.md:128
+msgid ""
+"You can begin or continue your journey with GNOME with a remote internship "
+"including mentoring and a stipend. You can both choose from suggested "
+"projects or suggest your own."
+msgstr ""
+"GNOME bilan sayohatingizni masofaviy stajirovka, jumladan, murabbiylik va "
+"stipendiya bilan boshlashingiz yoki davom ettirishingiz mumkin. Siz taklif "
+"qilingan loyihalardan birini tanlashingiz yoki o'zingiznikini taklif "
+"qilishingiz mumkin."
+
+#: templates/index.md:141
+msgid "Something missing?"
+msgstr "Nimadir etishmayaptimi?"
+
+#: templates/index.md:143
+msgid ""
+"The *Welcome to GNOME* pages are new. [Let us know](https://gitlab.gnome.org/"
+"Teams/Websites/welcome.gnome.org/-/issues) if you couldn’t find what you "
+"were hoping to find on this website."
+msgstr ""
+"*GNOME ga xush kelibsiz* sahifalari yangi. Agar siz ushbu veb-saytda "
+"qidirayotgan narsangizni topa olmasangiz, [Bizga xabar bering](https://"
+"gitlab.gnome.org/Teams/Websites/welcome.gnome.org/-/issues)."
+
+#: templates/index.md:154 templates/app.md:291 templates/app.md:220
+#: templates/app.md:232
+msgid ""
+"We recommend the [GJS Developer Guide](https://gjs.guide/guides/) to get "
+"started with JavaScript in GNOME. You can find other important resources "
+"below."
+msgstr ""
+"GNOME’da JavaScript bilan ishlashni boshlash uchun [GJS Developer Guide]"
+"(https://gjs.guide/guides/) ni tavsiya qilamiz. Boshqa muhim manbalarni "
+"quyida topishingiz mumkin."
+
+#: templates/index.md:184 templates/app.md:251 templates/app.md:230
+#: templates/app.md:232
+msgid ""
+"If you are familiar with the basics of the [Python language](https://"
+"www.python.org/), we recommend the [Beginners Tutorial](https://"
+"developer.gnome.org/documentation/tutorials/beginners/getting_started.html) "
+"which also covers the Python language. You can find other important "
+"resources below."
+msgstr ""
+"Agar siz [Python tili](https://www.python.org/) asoslari bilan tanish "
+"boʻlsangiz, Python tilini ham oʻz ichiga olgan [Beginners Tutorial](https://"
+"developer.gnome.org/documentation/tutorials/beginners/"
+"getting_started.html)ni tavsiya qilamiz. Quyida boshqa muhim manbalarni "
+"topishingiz mumkin."
+
+#: templates/index.md:225 templates/app.md:262 templates/app.md:303
+#: templates/app.md:321
+msgid ""
+"If you are familiar with the basics of the [Rust language](https://www.rust-"
+"lang.org), we recommend the online book [GUI development with Rust and GTK 4]"
+"(https://gtk-rs.org/gtk4-rs/stable/latest/book/). This book explains how "
+"Rust can be used to create apps in the GNOME ecosystem. You can find other "
+"important resources below."
+msgstr ""
+"Agar siz [Rust language](https://www.rust-lang.org) asoslari bilan tanish "
+"boʻlsangiz, onlayn kitobni [Rust va GTK 4 bilan GUI ishlab chiqish](https://"
+"gtk-rs.org/gtk4-rs/stable/latest/book/)ni tavsiya qilamiz. Ushbu kitob Rust-"
+"dan GNOME ekotizimida ilovalar yaratish uchun qanday foydalanish "
+"mumkinligini tushuntiradi. Quyida boshqa muhim manbalarni topishingiz mumkin."
+
+#: templates/index.md:277 templates/app.md:306 templates/app.md:310
+#: templates/app.md:232
+msgid ""
+"For getting started with the [Vala language](https://vala.dev/), we "
+"recommend the [Vala Tutorial](https://docs.vala.dev/tutorials/programming-"
+"language/main.html) or the [Beginners Tutorial](https://developer.gnome.org/"
+"documentation/tutorials/beginners/getting_started.html), which also covers "
+"Vala. You can find other important resources below."
+msgstr ""
+"[Vala tilini](https://vala.dev/) bilan boshlash uchun biz [Vala oʻquv "
+"qoʻllanmasi](https://docs.vala.dev/tutorials/programming-language/main.html) "
+"yoki [Yangi boshlanuvchilar uchun qoʻllanma](https://developer.gnome.org/"
+"documentation/tutorials/ which also covers.html), tavsiya qilamiz. Vala. "
+"Quyida boshqa muhim manbalarni topishingiz mumkin."
+
+#: templates/index.md:332
+msgid ""
+"The following apps are worth trying out to get started with development "
+"within GNOME. For more apps you can check the [Development Tools section]"
+"(https://apps.gnome.org/#development) on *Apps for GNOME*."
+msgstr ""
+"GNOME ichida ishlab chiqishni boshlash uchun quyidagi ilovalarni sinab "
+"ko'rishga arziydi. Koʻproq ilovalar uchun *GNOME uchun ilovalar* boʻlimidagi "
+"[Ishlab chiqish vositalari boʻlimi](https://apps.gnome.org/#development) "
+"boʻlimini tekshirishingiz mumkin."
+
+#: templates/team/design.md:3
+msgid ""
+"The GNOME design team is responsible for GNOME user experience and visual "
+"design. This includes:"
+msgstr ""
+"GNOME dizayn jamoasi GNOME foydalanuvchi tajribasi va vizual dizayn uchun "
+"javobgardir. Bunga quyidagilar kiradi:"
+
+#: templates/team/design.md:5
+msgid "the design of the GNOME desktop, core apps, and app toolkit components"
+msgstr ""
+"GNOME ish stoli dizayni, asosiy ilovalari va ilovalar to'plami komponentlari"
+
+#: templates/team/design.md:6
+msgid "icon and wallpaper design"
+msgstr "ikonka va fon rasmi dizayni"
+
+#: templates/team/design.md:7
+msgid "interface styling"
+msgstr "interfeys uslubi"
+
+#: templates/team/design.md:8
+msgid "maintaining GNOME’s design guidelines"
+msgstr "GNOME-ning dizayn ko'rsatmalariga rioya qilish"
+
+#: templates/team/design.md:9
+msgid "usability testing and research"
+msgstr "yaroqlilik sinovi va tadqiqot"
+
+#: templates/team/design.md:11
+msgid "Help is needed in all of these areas, and contributions are welcome."
+msgstr ""
+"Ushbu sohalarning barchasida yordam kerak va hissalar mamnuniyat bilan qabul "
+"qilinadi."
+
+#: templates/team/design.md:13
+msgid "Get involved"
+msgstr "Ishtirok eting"
+
+#: templates/team/design.md:15
+msgid ""
+"New contributors should join the GNOME design chat channel and see the GNOME "
+"design team GitLab space."
+msgstr ""
+"Yangi ishtirokchilar GNOME dizayn chat kanaliga qo'shilishlari va GNOME "
+"dizayn jamoasi GitLab maydonini ko'rishlari kerak."
+
+#: templates/team/design.md:44
+msgid ""
+"GNOME design work happens in a variety of places, depending on the type of "
+"contribution:"
+msgstr "GNOME dizayn ishi hissa turiga qarab turli joylarda amalga oshiriladi:"
+
+#: templates/team/design.md:46
+msgid ""
+"To contribute directly to the design of an app or module, use its project in "
+"GitLab or its Matrix chat channel."
+msgstr ""
+"Ilova yoki modul dizayniga bevosita hissa qo'shish uchun uning loyihasidan "
+"GitLab yoki Matrix chat kanalida foydalaning."
+
+#: templates/team/design.md:47
+msgid ""
+"Many contributions happen through discussion with other designers and "
+"developers, often in chat on Matrix."
+msgstr ""
+"Ko'pgina hissalar boshqa dizaynerlar va ishlab chiquvchilar bilan, ko'pincha "
+"Matrix-dagi chatda muhokama qilish orqali amalga oshiriladi."
+
+#: templates/team/design.md:48
+msgid ""
+"Contributions to icons and wallpapers happen in dedicated GitLab projects, "
+"whose details can be found in [GNOME design team GitLab space](https://"
+"gitlab.gnome.org/Teams/Design)."
+msgstr ""
+"Belgilar va fon rasmlariga hissalar GitLab maxsus loyihalarida amalga "
+"oshiriladi, ularning tafsilotlarini [GNOME dizayn jamoasi GitLab maydoni] "
+"(https://gitlab.gnome.org/Teams/Design) da topish mumkin."
+
+#: templates/team/design.md:49
+msgid ""
+"Ideas for design changes can be suggested in the [design team’s whiteboard "
+"project](https://gitlab.gnome.org/Teams/Design/whiteboards)."
+msgstr ""
+"Dizaynni o'zgartirish g'oyalarini [dizayn jamoasining doska loyihasida] "
+"taklif qilish mumkin (https://gitlab.gnome.org/Teams/Design/whiteboards)."
+
+#: templates/team/design.md:50
+msgid ""
+"New user experience designs are stored and tracked in the team’s public "
+"mockup repositories, which can also be found in GitLab."
+msgstr ""
+"Yangi foydalanuvchi tajribasi dizaynlari GitLab-da ham topilishi mumkin "
+"bo'lgan jamoaning umumiy maket omborlarida saqlanadi va kuzatiladi."
+
+#: templates/team/design.md:52
+msgid "Getting up to speed"
+msgstr "Tezlikni oshirish"
+
+#: templates/team/design.md:54
+msgid ""
+"Everyone who works on GNOME user experience and design should be familiar "
+"with:"
+msgstr ""
+"GNOME foydalanuvchi tajribasi va dizayni ustida ishlaydigan har bir kishi "
+"quyidagilarni bilishi kerak:"
+
+#: templates/team/design.md:56
+msgid ""
+"GNOME’s design guidelines, called the [GNOME Human Interface Guidelines]"
+"(https://developer.gnome.org/hig/)."
+msgstr ""
+"GNOME dizayn ko'rsatmalari [GNOME Inson interfeysi bo'yicha ko'rsatmalar] "
+"(https://developer.gnome.org/hig/)."
+
+#: templates/team/design.md:57
+msgid ""
+"Existing GNOME design work, including the current state of GNOME itself, as "
+"well as our latest design work."
+msgstr ""
+"Mavjud GNOME dizayn ishlari, shu jumladan GNOME ning hozirgi holati, "
+"shuningdek, bizning so'nggi dizayn ishimiz."
+
+#: templates/team/design.md:58
+msgid ""
+"The posts in the design team’s [recommended reading list](https://"
+"hedgedoc.gnome.org/design-reading?view#), particularly those by Havoc "
+"Pennington (for some insight into the history behind GNOME design work)."
+msgstr ""
+"Dizayn jamoasining [tavsiya etilgan o'qish ro'yxatidagi] (https://"
+"hedgedoc.gnome.org/design-reading?view#) yozuvlari, xususan, Xavoc "
+"Penningtonning (GNOME dizayn ishlari ortidagi tarixni tushunish uchun)."
+
+#: templates/team/design.md:60
+msgid ""
+"Participating in GNOME design does not entail any other requirements for "
+"experience or training. However, the role that you are able to play in GNOME "
+"design will depend on your existing level of expertise: experienced "
+"designers may be able to take on design initiatives relatively quickly, but "
+"if you are new to design work, you may need to gain experience on smaller "
+"tasks to begin with."
+msgstr ""
+"GNOME dizaynida ishtirok etish tajriba yoki trening uchun boshqa hech qanday "
+"talablarni talab qilmaydi. Biroq, GNOME dizaynida o'ynashingiz mumkin "
+"bo'lgan rol sizning mavjud tajriba darajangizga bog'liq bo'ladi: tajribali "
+"dizaynerlar dizayn tashabbuslarini nisbatan tez o'z zimmalariga olishlari "
+"mumkin, ammo agar siz dizayn ishida yangi bo'lsangiz, boshlash uchun "
+"kichikroq vazifalarda tajriba orttirishingiz kerak bo'lishi mumkin."
+
+#: templates/team/design.md:62
+msgid "Joining the team"
+msgstr "Jamoaga qo'shilish"
+
+#: templates/team/design.md:64
+msgid ""
+"Becoming a core member of the design team requires a time commitment, since "
+"you must work closely with the rest of the team and build up a detailed "
+"knowledge of our design language and practices. If this is something that "
+"you’d like to do, making contact with an existing team member for guidance "
+"is a good first step."
+msgstr ""
+"Dizayn jamoasining asosiy a'zosi bo'lish vaqtni talab qiladi, chunki siz "
+"jamoaning qolgan a'zolari bilan yaqindan hamkorlik qilishingiz va dizayn "
+"tilimiz va amaliyotimiz haqida batafsil bilimga ega bo'lishingiz kerak. Agar "
+"bu siz qilmoqchi bo'lgan narsa bo'lsa, yo'l-yo'riq uchun mavjud jamoa a'zosi "
+"bilan bog'lanish yaxshi birinchi qadamdir."
+
+#: templates/team/design.md:66
+msgid "Other ways to help"
+msgstr "Yordam berishning boshqa usullari"
+
+#: templates/team/design.md:68
+msgid ""
+"There are many ways to contribute to GNOME user experience. If you are new "
+"and want to help out, here are some great ways to get started:"
+msgstr ""
+"GNOME foydalanuvchi tajribasiga hissa qo'shishning ko'plab usullari mavjud. "
+"Agar siz yangi bo'lsangiz va yordam berishni istasangiz, bu erda "
+"boshlashning ajoyib usullari mavjud:"
+
+#: templates/team/design.md:70
+msgid ""
+"Try contributing user experience changes directly to GNOME modules. This can "
+"include even simple changes such as icon or text label changes."
+msgstr ""
+"Foydalanuvchi tajribasidagi oʻzgarishlarni bevosita GNOME modullariga "
+"qoʻshishga harakat qiling. Bu hatto oddiy o'zgarishlarni ham o'z ichiga "
+"olishi mumkin, masalan, piktogramma yoki matn yorlig'i o'zgarishi."
+
+#: templates/team/design.md:71
+msgid "Report user experience problems in GNOME’s issue trackers."
+msgstr ""
+"GNOME muammolarini kuzatuvchilarida foydalanuvchi tajribasi muammolari "
+"haqida xabar bering."
+
+#: templates/team/design.md:72
+msgid ""
+"Help out in the issue trackers of GNOME modules, to review reports and help "
+"to find solutions to design problems."
+msgstr ""
+"Hisobotlarni ko'rib chiqish va dizayn muammolarini hal qilishda yordam "
+"berish uchun GNOME modullari muammolarini izlashda yordam bering."
+
+#: templates/team/design.md:74
+msgid ""
+"These activities will often require you to work with the design team to come "
+"up with solutions to design problems."
+msgstr ""
+"Ushbu tadbirlar ko'pincha dizayn muammolarini hal qilish uchun dizayn "
+"jamoasi bilan ishlashingizni talab qiladi."
+
+#: templates/team/websites.md:3
+msgid ""
+"The Websites Team maintains pages like [This Week in GNOME](https://"
+"thisweek.gnome.org/), [Apps for GNOME](https://apps.gnome.org/), and many "
+"more. You can find an overview of all websites on our [team page](https://"
+"gitlab.gnome.org/Teams/Websites/). The websites team is supported by the "
+"work of the design and infrastructure teams."
+msgstr ""
+"Veb-saytlar jamoasi [Bu hafta GNOME-da](https://thisweek.gnome.org/), [GNOME "
+"uchun ilovalar](https://apps.gnome.org/) va boshqa koʻplab sahifalarni "
+"yuritadi. Barcha veb-saytlar haqida umumiy ma’lumotni [jamoa sahifamiz]"
+"(https://gitlab.gnome.org/Teams/Websites/) orqali topishingiz mumkin. Veb-"
+"saytlar jamoasi dizayn va infratuzilma guruhlari tomonidan qo'llab-"
+"quvvatlanadi."
+
+#: templates/team/websites.md:41
+msgid "Translating websites"
+msgstr "Veb-saytlarni tarjima qilish"
+
+#: templates/team/websites.md:51
+msgid "Reporting issues"
+msgstr "Xabar berish muammolari"
+
+#: templates/team/websites.md:53
+msgid ""
+"Oftentimes a website has a link to its repository at the bottom of the page. "
+"If you can’t figure out the correct place to report an issue you can check "
+"the [Website Team’s page](https://gitlab.gnome.org/Teams/Websites/) for the "
+"respective website. This page also gives you a place to report issues "
+"without knowing the correct website or for more general issues."
+msgstr ""
+"Ko'pincha veb-sayt sahifaning pastki qismida o'z omboriga havolaga ega. Agar "
+"muammo haqida xabar berish uchun toʻgʻri joyni topa olmasangiz, tegishli veb-"
+"sayt uchun [Veb-sayt jamoasi sahifasini](https://gitlab.gnome.org/Teams/"
+"Websites/) tekshiring. Bu sahifa, shuningdek, sizga to'g'ri veb-saytni "
+"bilmasdan yoki umumiy muammolar haqida xabar berish uchun joy beradi."
+
+#: templates/team/websites.md:55
+msgid "Working on websites"
+msgstr "Veb-saytlarda ishlash"
+
+#: templates/team/websites.md:57
+msgid ""
+"The work on websites highly differs from website to website. For getting "
+"started it is a good idea to resist the temptation to redesign a whole "
+"website or even the whole of all websites. Instead, you can check the "
+"[team’s issue tracker](https://gitlab.gnome.org/groups/Teams/Websites/-/"
+"issues/) for open issues. You can also check what website suits you "
+"technology wise: While some websites are written in Sphinx, Jekyll, or plain "
+"HTML, others are based on more complex Rust code."
+msgstr ""
+"Veb-saytlardagi ish veb-saytdan veb-saytga juda farq qiladi. Boshlash uchun "
+"butun veb-saytni yoki hatto butun veb-saytlarni qayta loyihalash vasvasasiga "
+"qarshi turish yaxshi fikrdir. Buning o'rniga, ochiq muammolar mavjudligini "
+"[jamoaning muammolarni kuzatuvchisi](https://gitlab.gnome.org/groups/Teams/"
+"Websites/-/issues/) orqali tekshirishingiz mumkin. Shuningdek, qaysi veb-"
+"sayt sizga texnologiya nuqtai nazaridan mos kelishini tekshirishingiz "
+"mumkin: Ba'zi veb-saytlar Sphinx, Jekyll yoki oddiy HTML-da yozilgan bo'lsa, "
+"boshqalari murakkabroq Rust kodiga asoslangan."
+
+#: templates/team/websites.md:59 templates/index.md:330 templates/app.md:293
+#: templates/app.md:315 templates/app.md:335
+msgid "Useful apps"
+msgstr "Foydali ilovalar"

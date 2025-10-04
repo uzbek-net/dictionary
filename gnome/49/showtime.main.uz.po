@@ -1,0 +1,376 @@
+# Uzbek (Latin) translation for showtime.
+# Copyright (C) 2025 showtime's COPYRIGHT HOLDER
+# This file is distributed under the same license as the showtime package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: showtime main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/showtime/-/issues\n"
+"POT-Creation-Date: 2025-10-03 10:25+0000\n"
+"PO-Revision-Date: 2025-04-04 18:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+#: data/org.gnome.Showtime.desktop.in:2
+#: data/org.gnome.Showtime.metainfo.xml.in:6 showtime/gtk/window.blp:37
+msgid "Video Player"
+msgstr "Video pleer"
+
+#: data/org.gnome.Showtime.desktop.in:3
+msgid "Play videos"
+msgstr "Videolarni ijro eting"
+
+#: data/org.gnome.Showtime.desktop.in:9
+msgid "Video;Movie;Film;Clip;Player;Showtime;"
+msgstr "Video; Kino; Film; Klip; O'yinchi; Namoyish vaqti;"
+
+#: data/org.gnome.Showtime.desktop.in:17 showtime/application_delegate.py:27
+#: showtime/gtk/shortcuts-dialog.blp:29
+msgid "New Window"
+msgstr "Yangi oyna"
+
+#: data/org.gnome.Showtime.metainfo.xml.in:7
+msgid "Watch without distraction"
+msgstr "Chalg'itmasdan tomosha qiling"
+
+#: data/org.gnome.Showtime.metainfo.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "Play your favorite movies and video files without hassle. Showtime "
+#| "features simple playback controls that fade out of your way when you're "
+#| "watching, fullscreen, adjustable playback speed, multiple language and "
+#| "subtitle tracks, and screenshots — everything you need for a "
+#| "straightforward viewing experience."
+msgid ""
+"Play your favorite movies and video files without hassle. Video Player "
+"features simple playback controls that fade out of your way when you're "
+"watching, fullscreen, adjustable playback speed, multiple language and "
+"subtitle tracks, and screenshots — everything you need for a straightforward "
+"viewing experience."
+msgstr ""
+"Sevimli filmlaringiz va video fayllaringizni muammosiz ijro eting. Showtime "
+"tomosha qilayotganda yo‘qoladigan oddiy ijro nazorati, to‘liq ekran, "
+"sozlanishi ijro tezligi, bir nechta til va subtitr treklari va skrinshotlar "
+"– to‘g‘ridan-to‘g‘ri ko‘rish tajribasi uchun kerak bo‘lgan barcha narsalarni "
+"o‘z ichiga oladi."
+
+#: data/org.gnome.Showtime.metainfo.xml.in:37
+msgid "The app playing a video"
+msgstr "Ilova video o'ynaydi"
+
+#: data/org.gnome.Showtime.gschema.xml.in:12
+msgid "What to show in the end timestamp position"
+msgstr "Yakuniy vaqt tamg'asi pozitsiyasida nimani ko'rsatish kerak"
+
+#: data/org.gnome.Showtime.gschema.xml.in:13
+msgid "E.g. total duration of the video or the amount of time remaining"
+msgstr "Masalan, videoning umumiy davomiyligi yoki qolgan vaqt miqdori"
+
+#: showtime/application_delegate.py:31 showtime/gtk/window.blp:75
+msgid "Open…"
+msgstr "Ochish…"
+
+#: showtime/application_delegate.py:39
+msgid "File"
+msgstr ""
+
+#: showtime/application_delegate.py:47
+#, fuzzy
+#| msgid "New Window"
+msgid "Window"
+msgstr "Yangi oyna"
+
+#: showtime/application_delegate.py:56
+#, fuzzy
+#| msgid "_Keyboard Shortcuts"
+msgid "Keyboard Shortcuts"
+msgstr "_Klaviatura yorliqlari"
+
+#: showtime/application_delegate.py:64
+msgid "Help"
+msgstr ""
+
+#: showtime/main.py:103
+msgid "Playing a video"
+msgstr "Video ijro etilmoqda"
+
+#: showtime/mpris.py:288 showtime/widgets/window.py:1044
+msgid "Unknown Title"
+msgstr "Noma'lum sarlavha"
+
+#. Translators: The variable is the number of channels
+#. in an audio track
+#: showtime/widgets/options.py:94
+msgid "Undetermined, {} Channel"
+msgid_plural "Undetermined, {} Channels"
+msgstr[0] "Aniqlanmagan, {} kanal"
+msgstr[1] "Aniqlanmagan, {} ta kanal"
+
+#: showtime/widgets/options.py:99
+msgid "Undetermined"
+msgstr "Aniqlanmagan"
+
+#: showtime/widgets/options.py:112
+msgid "No Audio"
+msgstr "CD _Audio"
+
+#: showtime/widgets/options.py:117
+msgid "None"
+msgstr "Hech biri"
+
+#: showtime/widgets/options.py:123
+msgid "Undetermined Language"
+msgstr "Aniqlanmagan til"
+
+#: showtime/widgets/options.py:134
+msgid "Add Subtitle File…"
+msgstr "Subtitr faylini qo‘shish…"
+
+#: showtime/widgets/window.py:182 showtime/gtk/window.blp:147
+msgid "Play"
+msgstr "O'ynang"
+
+#: showtime/widgets/window.py:182
+msgid "Pause"
+msgstr "Pauza"
+
+#: showtime/widgets/window.py:757
+msgid "Details copied"
+msgstr "Tafsilotlar nusxalandi"
+
+#: showtime/widgets/window.py:759
+msgid "Copy Technical Details"
+msgstr "Texnik ma'lumotlarni nusxalash"
+
+#: showtime/widgets/window.py:762
+#, fuzzy
+#| msgid "Start Again"
+msgid "Try Again"
+msgstr "Qaytadan boshlash"
+
+#: showtime/widgets/window.py:792
+msgid "The “{}” codecs required to play this video could not be found"
+msgstr ""
+"Bu videoni ijro etish uchun zarur bo‘lgan “{}” kodeklarini topib bo‘lmadi"
+
+#: showtime/widgets/window.py:810
+msgid "No plugin available for this media type"
+msgstr "Ushbu turdagi media uchun plagin mavjud emas"
+
+#: showtime/widgets/window.py:816
+msgid "Unable to install the required plugin"
+msgstr "Kerakli plaginni oʻrnatib boʻlmadi"
+
+#: showtime/widgets/window.py:819
+msgid "Install Plugin"
+msgstr "Plaginni o'rnating"
+
+#: showtime/widgets/window.py:827
+msgid "Installing…"
+msgstr "Oʻrnatilmoqda…"
+
+#: showtime/widgets/window.py:835
+msgid "“{}” codecs are required to play this video"
+msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
+
+#. Translators: Replace this with your name for it to show up in the about dialog
+#: showtime/widgets/window.py:1013
+msgid "translator_credits"
+msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
+
+#: showtime/widgets/window.py:1052
+msgid "Screenshot captured"
+msgstr "Skrinshot olindi"
+
+#: showtime/widgets/window.py:1054
+msgid "Show in Files"
+msgstr "Fayllarda ko'rsatish"
+
+#: showtime/gtk/options.blp:17
+msgid "_Language"
+msgstr "_Til"
+
+#: showtime/gtk/options.blp:21
+msgid "_Subtitles"
+msgstr "Subtitrlar"
+
+#: showtime/gtk/options.blp:26
+msgid "_Repeat"
+msgstr "Takrorlang"
+
+#: showtime/gtk/options.blp:30
+msgid "Rotate"
+msgstr "Avtomatik aylantirish"
+
+#: showtime/gtk/options.blp:61
+msgid "Playback Speed"
+msgstr "Ijro tezligi"
+
+#: showtime/gtk/options.blp:107
+msgid "Rotate Left"
+msgstr "Chapga aylantiring"
+
+#: showtime/gtk/options.blp:118
+msgid "Rotate Right"
+msgstr "O'ngga aylantiring"
+
+#: showtime/gtk/options.blp:128
+msgid "Playback Options"
+msgstr "Ijro qilish parametrlari"
+
+#: showtime/gtk/shortcuts-dialog.blp:6
+msgid "General"
+msgstr "Umumiy"
+
+#: showtime/gtk/shortcuts-dialog.blp:9
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni ko’rsatish"
+
+#: showtime/gtk/shortcuts-dialog.blp:14
+msgid "Open Video"
+msgstr "Videoni oching"
+
+#: showtime/gtk/shortcuts-dialog.blp:19
+msgid "Video Options"
+msgstr ""
+
+#: showtime/gtk/shortcuts-dialog.blp:24
+msgid "Take Screenshot"
+msgstr "Skrinshot oling"
+
+#: showtime/gtk/shortcuts-dialog.blp:34
+msgid "Close Window"
+msgstr "Oynani yopish"
+
+#: showtime/gtk/shortcuts-dialog.blp:39
+msgid "Quit"
+msgstr "Chiqish"
+
+#: showtime/gtk/shortcuts-dialog.blp:45
+msgid "Volume"
+msgstr "Ovoz balandligi"
+
+#: showtime/gtk/shortcuts-dialog.blp:48
+msgid "Increase Volume"
+msgstr "Ovozni oshiring"
+
+#: showtime/gtk/shortcuts-dialog.blp:53
+msgid "Decrease Volume"
+msgstr "Ovozni pasaytirish"
+
+#: showtime/gtk/shortcuts-dialog.blp:58 showtime/gtk/sound-options.blp:24
+msgid "Mute/Unmute"
+msgstr "Ovozni o‘chirish/yoqish"
+
+#: showtime/gtk/shortcuts-dialog.blp:64
+msgid "View"
+msgstr "Ko'rish"
+
+#: showtime/gtk/shortcuts-dialog.blp:67 showtime/gtk/window.blp:435
+msgid "Toggle Fullscreen"
+msgstr "Toʻliq ekran rejimiga oʻtish"
+
+#: showtime/gtk/shortcuts-dialog.blp:72
+msgid "Exit Fullscreen"
+msgstr "Toʻliq ekran rejimidan chiqish"
+
+#: showtime/gtk/shortcuts-dialog.blp:78
+msgid "Playback"
+msgstr "Ijro"
+
+#: showtime/gtk/shortcuts-dialog.blp:81
+msgid "Play/Pause"
+msgstr "Tinglash/To'xtatish"
+
+#: showtime/gtk/shortcuts-dialog.blp:86 showtime/gtk/window.blp:128
+msgid "Go Back 10 Seconds"
+msgstr "10 soniya orqaga qayting"
+
+#: showtime/gtk/shortcuts-dialog.blp:91 showtime/gtk/window.blp:164
+msgid "Go Forward 10 Seconds"
+msgstr "10 soniya oldinga o'ting"
+
+#: showtime/gtk/sound-options.blp:48
+msgid "Adjust Volume"
+msgstr "Ovoz balandligini sozlash"
+
+#: showtime/gtk/window.blp:6
+#, fuzzy
+#| msgid "New Window"
+msgid "_New Window"
+msgstr "Yangi oyna"
+
+#: showtime/gtk/window.blp:7
+msgid "_Open…"
+msgstr "_Ochish…"
+
+#: showtime/gtk/window.blp:12
+msgid "Show in _Files"
+msgstr "Fayllarda ko'rsatish"
+
+#: showtime/gtk/window.blp:20
+msgid "Take _Screenshot"
+msgstr "Skrinshot oling"
+
+#: showtime/gtk/window.blp:27
+msgid "_Keyboard Shortcuts"
+msgstr "_Klaviatura yorliqlari"
+
+#: showtime/gtk/window.blp:28
+#, fuzzy
+#| msgid "Video Player"
+msgid "_About Video Player"
+msgstr "Video pleer"
+
+#: showtime/gtk/window.blp:62 showtime/gtk/window.blp:475
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: showtime/gtk/window.blp:71
+msgid "Watch Videos"
+msgstr "Videolarni tomosha qiling"
+
+#: showtime/gtk/window.blp:72
+msgid "Drag and drop videos here"
+msgstr "Videolarni bu yerga sudrab olib tashlang"
+
+#: showtime/gtk/window.blp:88
+msgid "Unable to Play Video"
+msgstr "Videoni ijro qilib bo‘lmadi"
+
+#: showtime/gtk/window.blp:93
+msgid "Missing Plugin"
+msgstr "Plagin etishmayapti"
+
+#: showtime/gtk/window.blp:255
+msgid "Toggle Duration/Remaining"
+msgstr "Davomiylik/qolgan vaqtni almashtirish"
+
+#: showtime/gtk/window.blp:310
+msgid "Resume"
+msgstr "Rezyume; qayta boshlash"
+
+#: showtime/gtk/window.blp:350
+msgid "Start Again"
+msgstr "Qaytadan boshlash"
+
+#: showtime/gtk/window.blp:543
+msgid "Video"
+msgstr "Video"
+
+#: showtime/gtk/window.blp:553
+msgid "Subtitles"
+msgstr "Subtitrlar"
+
+#~ msgid "Showtime"
+#~ msgstr "Namoyish vaqti"
+
+#~ msgid "_About Showtime"
+#~ msgstr "_Showtime haqida"

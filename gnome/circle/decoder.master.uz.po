@@ -1,0 +1,329 @@
+# Uzbek (Latin) translation for decoder.
+# Copyright (C) 2025 decoder's COPYRIGHT HOLDER
+# This file is distributed under the same license as the decoder package.
+# kHamidulloh <toxtayevhamidulloh6997@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: decoder master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Decoder/-/issues\n"
+"POT-Creation-Date: 2025-10-03 10:26+0000\n"
+"PO-Revision-Date: 2025-10-02 13:35+0500\n"
+"Last-Translator: let_rec <https://github.com/let-rec>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/com.belmoussaoui.Decoder.desktop.in.in:2
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:7
+#: data/resources/ui/history_page.ui:14 data/resources/ui/window.ui:18
+#: data/resources/ui/window.ui:34 src/application.rs:47 src/main.rs:18
+msgid "Decoder"
+msgstr "Dekoder"
+
+#: data/com.belmoussaoui.Decoder.desktop.in.in:3
+msgid "Scan and Generate QR Codes"
+msgstr "QR kodlarni skanerlash va yaratish"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/com.belmoussaoui.Decoder.desktop.in.in:9
+msgid "QR;Scan;Generate;Code;"
+msgstr "QR;Skanerlash;Yaratish;Kod;"
+
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:6
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:7
+msgid "Default window width"
+msgstr "Odatiy oyna kengligi"
+
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:11
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:12
+msgid "Default window height"
+msgstr "Odatiy oyna balandligi"
+
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:16
+msgid "Default window maximized behavior"
+msgstr "Odatiy oynaning maksimal xatti-harakati"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:8
+msgid "Scan and generate QR codes"
+msgstr "QR kodlarni skanerlash va yaratish"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:10
+msgid "Fancy yet simple QR Codes scanner and generator."
+msgstr "Zamonaviy, ammo sodda QR kodlar skaneri va generatori."
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:11
+msgid "Features:"
+msgstr "Xususiyatlar:"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:13
+msgid "QR Code generation"
+msgstr "QR kod yaratish"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:14
+msgid "Scanning with a camera"
+msgstr "Kamera bilan skanerlash"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:15
+msgid "Scanning from a screenshot"
+msgstr "Skrinshotdan skanerlanmoqda"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:16
+msgid "Parses and displays QR code content when possible"
+msgstr "Imkon qadar QR kod mazmunini tahlil qilib, namoyish etadi"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:22
+msgid "Generating a QR Code"
+msgstr "QR kod yaratilmoqda"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:26
+msgid "Scanning QR Code with a camera"
+msgstr "Kamera yordamida QR kodni skanerlash"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:30
+msgid "History of the scanner/generated QR codes"
+msgstr "Skaner tarixi/hosil qilingan QR kodlar"
+
+#: data/resources/ui/camera_page.ui:22
+msgid "Missing Camera Permission"
+msgstr "Kamera ruxsati yetishmayapti"
+
+#: data/resources/ui/camera_page.ui:23
+msgid "Allow camera usage in Settings"
+msgstr "Sozlamalar orqali kameradan foydalanishga ruxsat bering"
+
+#: data/resources/ui/camera_page.ui:26 data/resources/ui/camera_page.ui:51
+msgid "_From a Screenshot…"
+msgstr "Skrinshotdan…"
+
+#: data/resources/ui/camera_page.ui:48
+msgid "No Camera Found"
+msgstr "Hech qanday kamera topilmadi"
+
+#: data/resources/ui/camera_page.ui:88
+msgid "Select Camera"
+msgstr "Kamera-ni tanlang"
+
+#: data/resources/ui/camera_page.ui:100
+msgid "Capture From a Screenshot"
+msgstr "Skrinshotdan suratga olish"
+
+#: data/resources/ui/help-overlay.ui:6
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: data/resources/ui/help-overlay.ui:9
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʼrsatish"
+
+#: data/resources/ui/help-overlay.ui:15
+msgctxt "shortcut window"
+msgid "Close Window"
+msgstr "Oynani yopish"
+
+#: data/resources/ui/help-overlay.ui:21
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/resources/ui/help-overlay.ui:29
+msgctxt "shortcut window"
+msgid "Codes"
+msgstr "Kodlar"
+
+#: data/resources/ui/help-overlay.ui:32
+msgctxt "shortcut window"
+msgid "Scan QR Code"
+msgstr "QR kodni skanerlash"
+
+#: data/resources/ui/history_page.ui:15
+msgid "Decode a QR code or create one first"
+msgstr "Avval QR kodni shifrini oching yoki yarating"
+
+#: data/resources/ui/qrcode_create.ui:49
+msgid "_Text"
+msgstr "Matn"
+
+#: data/resources/ui/qrcode_create.ui:59
+msgid "_Wi-Fi"
+msgstr "Wi-fi"
+
+#: data/resources/ui/qrcode_create.ui:76
+#: data/resources/ui/qrcode_scanned_page.ui:96
+msgid "_Export"
+msgstr "Eksport"
+
+#: data/resources/ui/qrcode_create.ui:87
+msgid "_Save"
+msgstr "Saqlash"
+
+#: data/resources/ui/qrcode_create.ui:88
+msgid "Save in History"
+msgstr "Tarixda saqlash"
+
+#: data/resources/ui/qrcode_kind_event.ui:23
+msgid "Summary"
+msgstr "Qisqacha"
+
+#: data/resources/ui/qrcode_kind_event.ui:52
+msgid "Starts At"
+msgstr "Boshlanadi"
+
+#: data/resources/ui/qrcode_kind_event.ui:79
+msgid "Ends At"
+msgstr "Tugaydi"
+
+#: data/resources/ui/qrcode_kind_event.ui:106
+msgid "Location"
+msgstr "Joylashuv"
+
+#: data/resources/ui/qrcode_kind_event.ui:133
+msgid "Description"
+msgstr "Taʼrif"
+
+#: data/resources/ui/qrcode_kind_location.ui:23
+msgid "Latitude"
+msgstr "Kenglik"
+
+#: data/resources/ui/qrcode_kind_location.ui:49
+msgid "Longitude"
+msgstr "Uzunlik"
+
+#: data/resources/ui/qrcode_kind_mail.ui:23
+msgid "Email"
+msgstr "Elektron pochta"
+
+#: data/resources/ui/qrcode_kind_mail.ui:52
+msgid "Subject"
+msgstr "Mavzu"
+
+#: data/resources/ui/qrcode_kind_mail.ui:81
+msgid "Body"
+msgstr "Matn tanasi"
+
+#: data/resources/ui/qrcode_kind_sms.ui:23
+#: data/resources/ui/qrcode_kind_telephone.ui:23
+msgid "Phone"
+msgstr "Telefon raqam"
+
+#: data/resources/ui/qrcode_kind_sms.ui:50
+msgid "Content"
+msgstr "Kontent"
+
+#: data/resources/ui/qrcode_kind_text.ui:24 data/resources/ui/text_page.ui:18
+msgid "Text"
+msgstr "Matn"
+
+#: data/resources/ui/qrcode_kind_url.ui:23
+msgid "Website"
+msgstr "Websayt"
+
+#: data/resources/ui/qrcode_kind_wifi.ui:23
+msgid "Network"
+msgstr "Tarmoq"
+
+#: data/resources/ui/qrcode_kind_wifi.ui:51
+msgid "Encryption"
+msgstr "Shifrlash"
+
+#: data/resources/ui/qrcode_row.ui:44
+#: data/resources/ui/qrcode_scanned_page.ui:65
+msgid "Copy Contents"
+msgstr "Kontentdan nusxa olish"
+
+#: data/resources/ui/qrcode_row.ui:53
+msgid "_Export…"
+msgstr "Eksport qilish…"
+
+#: data/resources/ui/qrcode_row.ui:61
+msgid "_Delete"
+msgstr "Oʻchirish"
+
+#. TRANSLATORS This goes into a file name
+#: data/resources/ui/qrcode_scanned_page.ui:4 src/widgets/qrcode/widget.rs:70
+#: src/widgets/window.rs:275
+msgid "QR Code"
+msgstr "QR kod"
+
+#: data/resources/ui/qrcode_scanned_page.ui:50
+msgid "Contents"
+msgstr "Kontentlar"
+
+#: data/resources/ui/wifi_page.ui:10
+msgid "Network Name"
+msgstr "Tarmoq nomi"
+
+#: data/resources/ui/wifi_page.ui:16
+msgid "Password"
+msgstr "Parol"
+
+#: data/resources/ui/wifi_page.ui:22
+msgid "_Hidden"
+msgstr "Yashirin"
+
+#: data/resources/ui/wifi_page.ui:23
+msgid "Is this a hidden Wi-Fi network?"
+msgstr "Bu yashirin Wi-Fi tarmog‘imi?"
+
+#: data/resources/ui/wifi_page.ui:31
+msgid "_Encryption Algorithm"
+msgstr "Shifrlash algoritmi"
+
+#: data/resources/ui/window.ui:5
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/resources/ui/window.ui:9
+msgid "_About Decoder"
+msgstr "Dekoder haqida"
+
+#: data/resources/ui/window.ui:49
+msgid "Main Menu"
+msgstr "Asosiy Menyu"
+
+#: data/resources/ui/window.ui:62
+msgid "_Create"
+msgstr "Yaratish"
+
+#: data/resources/ui/window.ui:76
+msgid "_Scan"
+msgstr "Skanerlash"
+
+#: data/resources/ui/window.ui:90
+msgid "_History"
+msgstr "Tarix"
+
+#: src/application.rs:45
+msgid "translator-credits"
+msgstr "Hamidulloh To'xtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#. NOTE This is in the context of selecting a wifi encryption
+#. algorithm.
+#: src/qrcode_kind.rs:341
+msgid "None"
+msgstr "Hech biri"
+
+#: src/widgets/qrcode/create.rs:118 src/widgets/qrcode/scanned_page.rs:124
+msgid "Could not generate QR code"
+msgstr "QR kod yaratib bo‘lmadi"
+
+#: src/widgets/qrcode/create.rs:162 src/widgets/qrcode/scanned_page.rs:119
+msgid "QR Code saved in history"
+msgstr "QR kod tarixga saqlandi"
+
+#: src/widgets/qrcode/row.rs:136
+msgid "Copied to clipboard"
+msgstr "Vaqtinchalik xotiraga nusxalandi"
+
+#: src/widgets/window.rs:273
+msgid "_Select"
+msgstr "Tanlash"
+
+#: src/widgets/window.rs:293
+msgid "QR code saved"
+msgstr "QR kod saqlandi"

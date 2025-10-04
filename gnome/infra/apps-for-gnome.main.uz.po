@@ -1,0 +1,326 @@
+# Uzbek (Latin) translation for apps-for-gnome.
+# Copyright (C) 2025 apps-for-gnome's COPYRIGHT HOLDER
+# This file is distributed under the same license as the apps-for-gnome package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apps-for-gnome main\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "About Us"
+msgstr "Biz haqimizda"
+
+msgid "App is translated"
+msgstr "Ilova tarjima qilingan"
+
+msgid "App specific content © The respective app contributors"
+msgstr "Ilovaga xos kontent © Tegishli ilova ishtirokchilari"
+
+msgid "App supports mobile devices"
+msgstr "Ilova mobil qurilmalarni qo'llab-quvvatlaydi"
+
+#. Translators: Main page introductory text (markdown formatted)
+msgid ""
+"Apps featured in this curated overview are all built with the GNOME "
+"philosophy in mind. They are easy to understand and simple to use, feature a "
+"consistent and polished design and provide a noticeable attention to "
+"details. Naturally, they are [free software](https://fsfe.org/freesoftware/) "
+"and have committed to being part of a [welcoming and friendly community]"
+"(https://conduct.gnome.org/). These apps will perfectly integrate with your "
+"[GNOME Desktop](https://www.gnome.org/)."
+msgstr ""
+"Ushbu saralangan umumiy ko'rinishda taqdim etilgan ilovalarning barchasi "
+"GNOME falsafasini hisobga olgan holda yaratilgan. Ular tushunarli va "
+"ishlatish uchun sodda, izchil va sayqallangan dizaynga ega va tafsilotlarga "
+"sezilarli e'tibor beradi. Tabiiyki, ular [bepul dasturiy ta'minot](https://"
+"fsfe.org/freesoftware/) va [mehribon va do'stona hamjamiyat] (https://"
+"conduct.gnome.org/) a'zosi bo'lishni o'z zimmalariga olishgan. Bu ilovalar "
+"[GNOME Desktop](https://www.gnome.org/) bilan mukammal birlashadi."
+
+#. Translators: Page title and main heading
+msgid "Apps for GNOME"
+msgstr "GNOME uchun ilovalar"
+
+msgid "Apps supported on GNOME mobile devices are marked with the mobile icon."
+msgstr ""
+"GNOME mobil qurilmalarida qo'llab-quvvatlanadigan ilovalar mobil belgisi "
+"bilan belgilanadi."
+
+#. Translators: Short for 'GNOME Circle apps.' Navigation link to app section.
+msgid "Circle"
+msgstr "Aylana"
+
+#. Translators: App list section heading
+msgid "Circle Apps"
+msgstr "Circle ilovalari"
+
+msgid "Close Language Selection"
+msgstr "Til tanlashni yoping"
+
+msgid "Contact Us"
+msgstr "Biz bilan bog'lanish"
+
+msgid "Contribute"
+msgstr "Hissa qo‘shish"
+
+msgid "Contribute your ideas or report issues on the app’s issue tracker."
+msgstr ""
+"Ilovaning muammo kuzatuvchisi bo'yicha g'oyalaringizni qo'shing yoki "
+"muammolar haqida xabar bering."
+
+#. Translators: Short for 'GNOME Core apps.' Navigation link to app section.
+msgid "Core"
+msgstr "Yadro"
+
+#. Translators: App list section heading
+msgid "Core Apps"
+msgstr "Asosiy ilovalar"
+
+#. Translators: Short for 'GNOME Development tools.' Navigation link to app section.
+msgid "Development"
+msgstr "Rivojlanish"
+
+#. Translators: App list section heading
+msgid "Development Tools"
+msgstr "Rivojlanish vositalari"
+
+msgid "Discover the best Apps for GNOME"
+msgstr "GNOME uchun eng yaxshi ilovalarni kashf eting"
+
+#. Translators: Page subtitle
+msgid ""
+"Discover the best applications in the GNOME ecosystem and learn how to get "
+"involved."
+msgstr ""
+"GNOME ekotizimidagi eng yaxshi ilovalarni kashf eting va qanday ishtirok "
+"etishni o'rganing."
+
+msgid "Donate money"
+msgstr "Pul xayriya qiling"
+
+msgid "Donate to the GNOME Foundation to support this project."
+msgstr "Ushbu loyihani qo'llab-quvvatlash uchun GNOME fondiga xayriya qiling."
+
+#. Translators: App details section headings
+msgid "Explore the interface"
+msgstr "Interfeysni o'rganing"
+
+#. Translators: App list section text (markdown formatted)
+msgid ""
+"GNOME Circle contains applications extending the GNOME ecosystem. It "
+"champions the great additional software that is available for the GNOME "
+"platform. [Learn more about GNOME Circle.](https://circle.gnome.org/)"
+msgstr ""
+"GNOME Circle GNOME ekotizimini kengaytiruvchi ilovalarni o'z ichiga oladi. U "
+"GNOME platformasi uchun mavjud bo'lgan ajoyib qo'shimcha dasturiy ta'minotni "
+"qo'llab-quvvatlaydi. [GNOME Circle haqida koʻproq maʼlumot oling.](https://"
+"circle.gnome.org/)"
+
+#. Translators: App list section text
+msgid ""
+"GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually "
+"pre-installed on your GNOME system."
+msgstr ""
+"GNOME Core ilovalari GNOME ish stolidagi oddiy vazifalarni qamrab oladi. "
+"Ular odatda GNOME tizimingizda oldindan o'rnatiladi."
+
+#. Translators: App list section text
+msgid ""
+"GNOME Development tools help develop and design new apps and make it easy to "
+"contribute to existing ones."
+msgstr ""
+"GNOME dasturlash vositalari yangi ilovalarni ishlab chiqish va loyihalashda "
+"yordam beradi hamda mavjudlariga hissa qo‘shishni osonlashtiradi."
+
+msgid "Get in touch"
+msgstr "Aloqa qiling"
+
+#. Translators: App details section headings
+msgid "Get involved"
+msgstr "Ishtirok eting"
+
+msgid "Get the app"
+msgstr "Ilovani yuklab oling"
+
+#. Translators: App details section heading
+msgid "Get to know us"
+msgstr "Biz bilan tanishing"
+
+msgid "GitHub account"
+msgstr "GitHub hisobi"
+
+msgid "GitLab account"
+msgstr "GitLab hisobi"
+
+msgid "Give feedback"
+msgstr "Fikr bildiring"
+
+msgid "Help translate this app into your language."
+msgstr "Ushbu ilovani tilingizga tarjima qilishga yordam bering."
+
+msgid "Help translating"
+msgstr "Tarjima qilishga yordam bering"
+
+msgid "Install the latest version from Flathub."
+msgstr "Flathub-dan so'nggi versiyani o'rnating."
+
+msgid "Just chat with the app's community or get help when you are stuck."
+msgstr ""
+"Shunchaki ilova hamjamiyati bilan suhbatlashing yoki qotib qolganingizda "
+"yordam oling."
+
+msgid "Keywords"
+msgstr "Kalit so'zlar"
+
+#. Translators: This is a template string. You can move a pair of curly braces with the keyword in between around. But do not change or translate the keyword in between the braces.
+msgid "Latest version { version_name } released on { date }."
+msgstr "Oxirgi versiya { version_name } { sana} da chiqarilgan."
+
+msgid "Learn how you can contact the project."
+msgstr "Loyiha bilan qanday bog'lanishingiz mumkinligini bilib oling."
+
+msgid "Learn how you can contribute to this app."
+msgstr "Ushbu ilovaga qanday hissa qoʻshishingiz mumkinligini bilib oling."
+
+msgid "Learn how you can donate to the developers of this project."
+msgstr ""
+"Ushbu loyihani ishlab chiquvchilarga qanday xayriya qilishingiz mumkinligini "
+"bilib oling."
+
+msgid "Learn more"
+msgstr "Ko'proq ma'lumot olish"
+
+msgid "Maintainer"
+msgstr "Ta'minotchi"
+
+#. Translators: App details section heading
+msgid "More Information"
+msgstr "Batafsil"
+
+msgid "Newest Release"
+msgstr "Eng yangi nashr"
+
+msgid "Not translated"
+msgstr "Tarjima qilinmagan"
+
+msgid "Only a small part of this app is available in your language."
+msgstr "Bu ilovaning faqat kichik bir qismi sizning tilingizda mavjud."
+
+msgid "Overview"
+msgstr "Umumiy nuqtai"
+
+msgid "Page Software"
+msgstr "Sahifa dasturiy ta'minot"
+
+msgid "Page generated"
+msgstr "Sahifa yaratildi"
+
+msgid "Partially translated"
+msgstr "Qisman tarjima qilingan"
+
+msgid "Privacy"
+msgstr "Maxfiylik"
+
+msgid "Project homepage"
+msgstr "Loyiha bosh sahifasi"
+
+msgid "Releases"
+msgstr "Relizlar"
+
+msgid "Select Language"
+msgstr "Tilni tanlang"
+
+msgid "Some parts of this app are available in your language."
+msgstr "Ushbu ilovaning ayrim qismlari sizning tilingizda mavjud."
+
+msgid "Sparsely translated"
+msgstr "Kamdan-kam tarjima qilingan"
+
+msgid "Switch Language"
+msgstr "Tilni almashtirish"
+
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
+
+msgid "This app is available in your language."
+msgstr "Bu ilova sizning tilingizda mavjud."
+
+msgid "This app is not available in your language."
+msgstr "Bu ilova sizning tilingizda mavjud emas."
+
+msgid "This website is available in many languages"
+msgstr "Ushbu veb-sayt ko'plab tillarda mavjud"
+
+msgid "Visit the dedicated homepage for this project."
+msgstr "Ushbu loyiha uchun maxsus bosh sahifaga tashrif buyuring."
+
+msgid "Visit the online help page for this app."
+msgstr "Ushbu ilova uchun onlayn yordam sahifasiga tashrif buyuring."
+
+msgid "Website"
+msgstr "Websayt"
+
+#. Translators: Information about seasonal header image
+msgid ""
+"[Disability Pride Month](https://en.wikipedia.org/wiki/"
+"Disability_Pride_Month), displaying two [disability flags](https://"
+"en.wikipedia.org/wiki/Disability_flag) and an [autistic flag](https://"
+"en.wikipedia.org/wiki/Autistic_Pride_Day)."
+msgstr ""
+"[Nogironlik bilan faxrlanish oyi](https://en.wikipedia.org/wiki/"
+"Disability_Pride_Month), ikkita [nogironlik bayrog'i](https://"
+"en.wikipedia.org/wiki/Disability_flag) va [otistik bayroq](https://"
+"en.wikipedia.org/wiki/ay) ko'rsatilgan."
+
+#. Translators: Information about seasonal header image
+msgid ""
+"[Queer Pride Month](https://en.wikipedia.org/wiki/Pride_Month), displaying "
+"the [intersex](https://en.wikipedia.org/wiki/Intersex_flag), [trans](https://"
+"en.wikipedia.org/wiki/Transgender_flag), and [rainbow](https://"
+"en.wikipedia.org/wiki/Rainbow_flag_(LGBT)), flags."
+msgstr ""
+"[Queer Pride Month](https://en.wikipedia.org/wiki/Pride_Month), [intersex]"
+"(https://en.wikipedia.org/wiki/Intersex_flag), [trans](https://"
+"en.wikipedia.org/wiki/Transgender_flag) va [kamalak](https://"
+"en.wikipedia.org/wiki/Rainbow_flag_(LGBT)), bayroqlar."
+
+#. Translators: The {} will be replaced with a social media name like 'Mastodon'
+msgid "{} account"
+msgstr "Yangi hisob qo'shing"
+
+msgid "© The “Apps for GNOME” contributors"
+msgstr "© “GNOME uchun ilovalar” ishtirokchilari"
+
+#~ msgid ""
+#~ "Apps featured in this curated overview are all built with the GNOME "
+#~ "philosophy in mind. They are easy to understand and simple to use, "
+#~ "feature a consistent and polished design and provide a noticeable "
+#~ "attention to details. Naturally, they are [free software](https://"
+#~ "fsfe.org/freesoftware/) and have committed to being part of a [welcoming "
+#~ "and friendly community](https://wiki.gnome.org/Foundation/CodeOfConduct). "
+#~ "These apps will perfectly integrate with your [GNOME Desktop](https://"
+#~ "www.gnome.org/)."
+#~ msgstr ""
+#~ "Ushbu saralangan umumiy ko'rinishda taqdim etilgan ilovalarning barchasi "
+#~ "GNOME falsafasini hisobga olgan holda yaratilgan. Ular tushunarli va "
+#~ "ishlatish uchun sodda, izchil va sayqallangan dizaynga ega va "
+#~ "tafsilotlarga sezilarli e'tibor beradi. Tabiiyki, ular [bepul dasturiy "
+#~ "ta'minot](https://fsfe.org/freesoftware/) va [xush kelibsiz va do'stona "
+#~ "hamjamiyat] (https://wiki.gnome.org/Foundation/CodeOfConduct)ning bir "
+#~ "qismi bo'lishni o'z zimmalariga olishgan. Bu ilovalar [GNOME Desktop]"
+#~ "(https://www.gnome.org/) bilan mukammal birlashadi."
+
+#~ msgid "FAQ"
+#~ msgstr "KBS (FAQ)"
+
+#~ msgid "Find answers to the most frequently asked questions."
+#~ msgstr "Eng tez-tez beriladigan savollarga javob toping."

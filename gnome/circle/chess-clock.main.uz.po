@@ -1,0 +1,241 @@
+# Uzbek (Latin) translation for chess-clock.
+# Copyright (C) 2025 chess-clock's COPYRIGHT HOLDER
+# This file is distributed under the same license as the chess-clock package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: chess-clock main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/chess-clock/-/issues/\n"
+"POT-Creation-Date: 2025-09-10 11:32+0000\n"
+"PO-Revision-Date: 2025-03-29 16:42+0500\n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/eu.fortysixandtwo.chessclock.desktop.in:2
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:6 src/gtk/window.ui:6
+msgid "Chess Clock"
+msgstr "Shaxmat soati"
+
+#: data/eu.fortysixandtwo.chessclock.desktop.in:8
+msgid "chess;game;clock;timer;"
+msgstr "shaxmat;o'yin;soat;taymer;"
+
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:7
+msgid "Time games of over-the-board chess"
+msgstr "Doskadan tashqari shaxmat bo'yicha vaqt o'yinlari"
+
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:9
+msgid ""
+"Chess Clock is a simple application to provide time control for over-the-"
+"board chess games. Intended for mobile use, players select the time control "
+"settings desired for their game, then the black player taps their clock to "
+"start white's timer. After each player's turn, they tap the clock to start "
+"their opponent's, until the game is finished or one of the clocks reaches "
+"zero."
+msgstr ""
+"Shaxmat soati taxtadan tashqari shaxmat o'yinlari uchun vaqtni nazorat "
+"qilishni ta'minlaydigan oddiy dasturdir. Mobil foydalanish uchun "
+"mo'ljallangan, o'yinchilar o'z o'yinlari uchun kerakli vaqtni boshqarish "
+"sozlamalarini tanlaydilar, so'ngra qora o'yinchi oq taymerni ishga tushirish "
+"uchun o'z soatiga tegadi. Har bir o'yinchining navbatidan so'ng, ular o'yin "
+"tugaguniga qadar yoki soatlardan biri nolga yetguncha raqibni boshlash uchun "
+"soatni bosadilar."
+
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:18
+msgid ""
+"The main screen, showing timers for the white and black players of a chess "
+"game"
+msgstr ""
+"Shaxmat o’yini oq va qora o’yinchilar uchun taymerlarni ko’rsatadigan asosiy "
+"ekran"
+
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:22
+msgid "The time control selection screen"
+msgstr "Vaqtni boshqarishni tanlash ekrani"
+
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:26
+msgid ""
+"The main screen in a portrait aspect ratio, showing one timer rotated 180 "
+"degrees"
+msgstr ""
+"Portret nisbatdagi asosiy ekran, bitta taymer 180 daraja aylantirilganini "
+"ko’rsatadi"
+
+#: src/gtk/timecontrolentry.ui:23
+msgid "One minute per side, plus zero seconds per turn"
+msgstr ""
+"Har bir tomonga bir daqiqa, shuningdek, har bir burilish uchun nol soniya"
+
+#: src/gtk/timecontrolentry.ui:36
+msgid "Two minutes per side, plus one second per turn"
+msgstr ""
+"Har bir tomonga ikki daqiqa, shuningdek, har bir burilish uchun bir soniya"
+
+#: src/gtk/timecontrolentry.ui:49
+msgid "Five minutes per side, plus zero seconds per turn"
+msgstr ""
+"Har bir tomon uchun besh daqiqa, shuningdek, har bir burilish uchun nol "
+"soniya"
+
+#: src/gtk/timecontrolentry.ui:62
+msgid "Five minutes per side, plus three seconds per turn"
+msgstr "Har bir tomon uchun besh daqiqa, har bir burilish uchun uch soniya"
+
+#: src/gtk/timecontrolentry.ui:75
+msgid "Ten minutes per side, plus zero seconds per turn"
+msgstr ""
+"Har bir tomonga o’n daqiqa, shuningdek, har bir burilish uchun nol soniya"
+
+#: src/gtk/timecontrolentry.ui:88
+msgid "Ten minutes per side, plus five seconds per turn"
+msgstr ""
+"Har bir tomonga o’n daqiqa, shuningdek, har bir burilish uchun besh soniya"
+
+#: src/gtk/timecontrolentry.ui:101
+msgid "Thirty minutes per side, plus zero seconds per turn"
+msgstr "Har bir tomonga o’ttiz daqiqa, har bir burilish uchun nol soniya"
+
+#: src/gtk/timecontrolentry.ui:114
+msgid "Thirty minutes per side, plus twenty seconds per turn"
+msgstr "Har bir tomonga o’ttiz daqiqa, har bir burilish uchun yigirma soniya"
+
+#: src/gtk/timecontrolentry.ui:134
+msgid "Main time minutes"
+msgstr "Asosiy vaqt daqiqalari"
+
+#: src/gtk/timecontrolentry.ui:153
+msgid "Main time seconds"
+msgstr "Asosiy vaqt soniyalari"
+
+#: src/gtk/timecontrolentry.ui:171
+msgid "Increment seconds"
+msgstr "Soniyalarni oshiring"
+
+#: src/gtk/help-overlay.ui:11
+msgctxt "shortcut window"
+msgid "Game"
+msgstr "O’yin"
+
+#: src/gtk/help-overlay.ui:14
+msgctxt "shortcut window"
+msgid "New Time Control"
+msgstr "Yangi vaqtni boshqarish"
+
+#: src/gtk/help-overlay.ui:20
+msgctxt "shortcut window"
+msgid "Restart Timer"
+msgstr "Taymerni qayta ishga tushiring"
+
+#: src/gtk/help-overlay.ui:28
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: src/gtk/help-overlay.ui:31
+msgctxt "shortcut window"
+msgid "Open Main Menu"
+msgstr "Asosiy menyuni oching"
+
+#: src/gtk/help-overlay.ui:37
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni ko’rsatish"
+
+#: src/gtk/help-overlay.ui:43
+msgctxt "shortcut window"
+msgid "Close Window"
+msgstr "Oynani yopish"
+
+#: src/gtk/help-overlay.ui:49
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: src/gtk/window.ui:17
+msgctxt "a11y"
+msgid "Select time controls"
+msgstr "Vaqtni boshqarish vositalarini tanlang"
+
+#: src/gtk/window.ui:44
+msgid "Welcome to Chess Clock"
+msgstr "Shaxmat soatiga xush kelibsiz"
+
+#: src/gtk/window.ui:54
+msgid "Select time controls below to get started"
+msgstr "Boshlash uchun quyida vaqtni boshqarish vositalarini tanlang"
+
+#: src/gtk/window.ui:72
+msgid "Time control method"
+msgstr "Vaqtni nazorat qilish usuli"
+
+#: src/gtk/window.ui:76
+msgid "Increment"
+msgstr "O’sish"
+
+#: src/gtk/window.ui:77
+msgid "Bronstein delay"
+msgstr "Bronshteynning kechikishi"
+
+#: src/gtk/window.ui:78
+msgid "Simple delay"
+msgstr "Oddiy kechikish"
+
+#: src/gtk/window.ui:90
+msgid "Start Game"
+msgstr "O’yinni boshlash"
+
+#: src/gtk/window.ui:180
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: src/gtk/window.ui:197
+msgid "Toggle Pause"
+msgstr "Toʻxtatib turish"
+
+#: src/gtk/window.ui:214
+msgctxt "a11y"
+msgid "Player white timer"
+msgstr "O’yinchi oq taymer"
+
+#: src/gtk/window.ui:225
+msgctxt "a11y"
+msgid "Player black timer"
+msgstr "O’yinchi uchun qora taymer"
+
+#: src/gtk/window.ui:258
+msgid "_New Time Control"
+msgstr "_Yangi vaqtni boshqarish"
+
+#: src/gtk/window.ui:262
+msgid "_Restart Timer"
+msgstr "_Taymerni qayta ishga tushirish"
+
+#: src/gtk/window.ui:268
+msgid "_Mute Alert Sound"
+msgstr "_Ogohlantirish ovozini oʻchirish"
+
+#: src/gtk/window.ui:274
+msgid "_Keyboard Shortcuts"
+msgstr "_Klaviatura yorliqlari"
+
+#: src/gtk/window.ui:278
+msgid "_About Chess Clock"
+msgstr "_Shaxmat soati haqida"
+
+#: src/main.py:63
+msgid "translator-credits"
+msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
+
+#: src/timerbutton.py:58
+msgid "Player white timer"
+msgstr "O’yinchi oq taymer"
+
+#: src/timerbutton.py:63
+msgid "Player black timer"
+msgstr "O’yinchi uchun qora taymer"

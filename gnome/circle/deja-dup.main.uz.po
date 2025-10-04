@@ -1,0 +1,1695 @@
+# Uzbek translation for deja-dup
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# SPDX-License-Identifier: GPL-3.0-or-later
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: deja-dup\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
+"POT-Creation-Date: 2025-10-01 15:09+0000\n"
+"PO-Revision-Date: 2019-01-13 16:10+0000\n"
+"Last-Translator: Michael Terry <mike@mterry.name>\n"
+"Language-Team: Uzbek <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2020-06-23 06:15+0000\n"
+"X-Generator: Launchpad (build 1cbd0aa39df153c901321817f9b57cf3f232b507)\n"
+
+#: app/Background.vala:79
+msgid "Cannot back up automatically"
+msgstr ""
+
+#: app/BrowserPage.vala:130
+msgctxt "noun"
+msgid "Search"
+msgstr ""
+
+#: app/BrowserPage.vala:134 data/ui/Browser.blp:25 data/ui/Browser.blp:69
+msgid "Files"
+msgstr ""
+
+#: app/ConfigAutoBackupRow.vala:22
+msgid "Back Up _Automatically"
+msgstr ""
+
+#. Translators: this is used when automatic updates are enabled
+#: app/ConfigAutoBackupRow.vala:46
+msgid "Next backup is today"
+msgstr ""
+
+#. Translators: this is used when automatic updates are disabled
+#: app/ConfigAutoBackupRow.vala:48
+msgid "Next backup would be today"
+msgstr ""
+
+#. Translators: this is used when automatic updates are enabled
+#: app/ConfigAutoBackupRow.vala:55
+msgid "Next backup is tomorrow"
+msgstr ""
+
+#. Translators: this is used when automatic updates are disabled
+#: app/ConfigAutoBackupRow.vala:57
+msgid "Next backup would be tomorrow"
+msgstr ""
+
+#. Translators: this is used when automatic updates are enabled
+#: app/ConfigAutoBackupRow.vala:65
+#, c-format
+msgid "Next backup is %d day from now"
+msgid_plural "Next backup is %d days from now"
+msgstr[0] ""
+
+#. Translators: this is used when automatic updates are disabled
+#: app/ConfigAutoBackupRow.vala:70
+#, c-format
+msgid "Next backup would be %d day from now"
+msgid_plural "Next backup would be %d days from now"
+msgstr[0] ""
+
+#: app/ConfigDeleteRow.vala:12
+msgid "At least three months"
+msgstr ""
+
+#: app/ConfigDeleteRow.vala:13
+msgid "At least six months"
+msgstr ""
+
+#: app/ConfigDeleteRow.vala:14
+msgid "At least a year"
+msgstr ""
+
+#: app/ConfigDeleteRow.vala:15
+msgid "Forever"
+msgstr ""
+
+#: app/ConfigDeleteRow.vala:22
+#, c-format
+msgid "At least %d day"
+msgid_plural "At least %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/ConfigFolderPage.vala:21
+msgid "Reset All Folders?"
+msgstr ""
+
+#: app/ConfigFolderPage.vala:22
+msgid "All changes to backed up and ignored folders will be lost."
+msgstr ""
+
+#: app/ConfigFolderPage.vala:24 app/OperationWrapper.vala:381
+#: data/ui/ActionDialog.blp:22 data/ui/PassphraseDialog.blp:53
+msgid "_Cancel"
+msgstr ""
+
+#: app/ConfigFolderPage.vala:25
+msgid "Rese_t"
+msgstr ""
+
+#. Keep this list of rules in sync with OperationBackup's
+#. filter on include/excludes.
+#: app/ConfigFolderRow.vala:39
+msgid "This folder cannot be backed up because it is a network folder."
+msgstr ""
+
+#: app/ConfigFolderRow.vala:42
+msgid ""
+"This folder cannot be backed up because Backups does not have access to it."
+msgstr ""
+
+#. *** Basic entries ***
+#: app/ConfigLocationRow.vala:53 libdeja/BackendGoogle.vala:74
+msgid "Google Drive"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:55 libdeja/BackendMicrosoft.vala:70
+msgid "Microsoft OneDrive"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:57 libdeja/BackendRclone.vala:66
+msgid "Rclone"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:59
+msgid "Local Folder"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:61
+msgid "Network Server"
+msgstr ""
+
+#. *** Old deprecated cloud entries, kept just for a kinder migration ***
+#: app/ConfigLocationRow.vala:66
+msgid "Google Cloud Storage"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:68
+msgid "OpenStack Swift"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:70
+msgid "Rackspace Cloud Files"
+msgstr ""
+
+#: app/ConfigLocationRow.vala:72
+msgid "Amazon S3"
+msgstr ""
+
+#: app/ConfigPeriodRow.vala:19
+msgid "Daily"
+msgstr ""
+
+#: app/ConfigPeriodRow.vala:22
+msgid "Weekly"
+msgstr ""
+
+#: app/ConfigPeriodRow.vala:29
+#, c-format
+msgid "Every %d day"
+msgid_plural "Every %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/ConfigResticRow.vala:12
+msgid "Use _Restic for new backups"
+msgstr ""
+
+#: app/FileStore.vala:193
+msgid "File"
+msgstr ""
+
+#: app/FileStore.vala:195
+msgid "Link"
+msgstr ""
+
+#: app/FileStore.vala:197
+msgid "Folder"
+msgstr ""
+
+#: app/FolderChooserButton.vala:21
+msgid "Choose Folder"
+msgstr ""
+
+#: app/Notifications.vala:24
+msgid "Starting scheduled backup"
+msgstr ""
+
+#: app/Notifications.vala:29
+msgid "Scheduled backup delayed"
+msgstr ""
+
+#: app/Notifications.vala:60
+msgid "Keep your files safe by backing up regularly"
+msgstr ""
+
+#: app/Notifications.vala:61
+msgid ""
+"Important documents, data, and settings can be protected by storing them in "
+"a backup. In the case of a disaster, you would be able to recover them from "
+"that backup."
+msgstr ""
+
+#: app/Notifications.vala:66
+msgid "Don’t Show Again"
+msgstr ""
+
+#: app/Notifications.vala:67
+msgid "Open Backups"
+msgstr ""
+
+#: app/OperationLauncher.vala:60
+msgid "Failed to start backup; there's already an ongoing operation"
+msgstr ""
+
+#: app/OperationLauncher.vala:82
+msgid "Failed to restore; there's already an ongoing operation"
+msgstr ""
+
+#: app/OperationLauncher.vala:101 app/OperationLauncher.vala:118
+msgid "There's already an ongoing operation"
+msgstr ""
+
+#: app/OperationLauncher.vala:212
+msgid "Failed to Open URL"
+msgstr ""
+
+#: app/OperationLauncher.vala:261 app/OperationWrapper.vala:189
+msgid "Backup completed"
+msgstr ""
+
+#: app/OperationLauncher.vala:263
+msgid "But not all files were successfully backed up"
+msgstr ""
+
+#: app/OperationLauncher.vala:266 app/OperationWrapper.vala:191
+msgid "Restore completed"
+msgstr ""
+
+#: app/OperationLauncher.vala:268
+msgid "But not all files were successfully restored"
+msgstr ""
+
+#: app/OperationLauncher.vala:284
+#, fuzzy
+#| msgid "Backup Monitor"
+msgid "Backup in progress"
+msgstr "Заҳира олиш кундалиги"
+
+#: app/OperationLauncher.vala:295
+msgid "Restore in progress"
+msgstr ""
+
+#. Note: keep this language in sync with notification sent from OperationLauncher
+#: app/OperationWrapper.vala:172
+msgid "Backup completed, but not all files were successfully backed up"
+msgstr ""
+
+#: app/OperationWrapper.vala:174
+msgid "Restore completed, but not all files were successfully restored"
+msgstr ""
+
+#: app/OperationWrapper.vala:176 app/OperationWrapper.vala:247
+#: app/OperationWrapper.vala:294 app/OperationWrapper.vala:377
+msgid "_Details"
+msgstr ""
+
+#: app/OperationWrapper.vala:179 app/OperationWrapper.vala:252
+msgid "_Close"
+msgstr ""
+
+#: app/OperationWrapper.vala:214
+msgid "_Pause"
+msgstr ""
+
+#: app/OperationWrapper.vala:216
+msgid "_Stop"
+msgstr ""
+
+#: app/OperationWrapper.vala:238
+msgid "Failed to back up"
+msgstr ""
+
+#: app/OperationWrapper.vala:243
+msgid "Failed to list files"
+msgstr ""
+
+#: app/OperationWrapper.vala:245
+msgid "Failed to restore"
+msgstr ""
+
+#: app/OperationWrapper.vala:265
+msgid "E_ncryption password"
+msgstr ""
+
+#: app/OperationWrapper.vala:284 app/OperationWrapper.vala:339
+msgid "_Enter Password…"
+msgstr ""
+
+#: app/OperationWrapper.vala:288
+msgid "Wrong encryption password, try again"
+msgstr ""
+
+#: app/OperationWrapper.vala:289
+msgid "Wrong Encryption Password"
+msgstr ""
+
+#: app/OperationWrapper.vala:290
+msgid "Try again."
+msgstr ""
+
+#: app/OperationWrapper.vala:293
+msgid "Encryption setup needed"
+msgstr ""
+
+#: app/OperationWrapper.vala:295
+msgid "Require Password?"
+msgstr ""
+
+#: app/OperationWrapper.vala:296
+msgid ""
+"You will need your password to restore your files. You might want to write "
+"it down."
+msgstr ""
+
+#: app/OperationWrapper.vala:299
+msgid "Encryption password needed"
+msgstr ""
+
+#: app/OperationWrapper.vala:300
+msgid "Encryption Password Needed"
+msgstr ""
+
+#: app/OperationWrapper.vala:305
+msgid ""
+"In order to check that you will be able to retrieve your files in the case "
+"of an emergency, please enter your encryption password again to perform a "
+"brief restore test."
+msgstr ""
+
+#: app/OperationWrapper.vala:319
+msgid "Enter Password"
+msgstr ""
+
+#: app/OperationWrapper.vala:355
+msgid "Authentication needed"
+msgstr ""
+
+#: app/OperationWrapper.vala:356
+msgid "_Connect…"
+msgstr ""
+
+#: app/OperationWrapper.vala:382
+msgid "Co_ntinue"
+msgstr ""
+
+#: app/OverviewPage.vala:106
+msgid "Automatic backups disabled"
+msgstr ""
+
+#: app/OverviewPage.vala:128
+msgid "None"
+msgstr ""
+
+#. Check for some really simple/common friendly names
+#: app/RecentBackupRow.vala:53
+msgid "Today"
+msgstr ""
+
+#: app/RecentBackupRow.vala:55
+msgid "Yesterday"
+msgstr ""
+
+#. Translators: sentence case
+#: app/RecentBackupRow.vala:64
+#, c-format
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+#. Translators: this is used like "Most Recent Backup: None"
+#: app/RecentBackupRow.vala:82
+msgctxt "backups"
+msgid "None"
+msgstr ""
+
+#: app/SavePasswordRow.vala:14
+msgid "_Remember password"
+msgstr ""
+
+#: app/SavePasswordRow.vala:33
+msgid "Cannot remember password"
+msgstr ""
+
+#: app/SavePasswordRow.vala:34
+msgid "Your desktop session does not support saving passwords."
+msgstr ""
+
+#: app/SnapshotsPage.vala:136
+msgid "Try closing any open file manager windows and trying again."
+msgstr ""
+
+#: app/SnapshotsPage.vala:140
+msgid "Failed to Open Backup"
+msgstr ""
+
+#: app/WidgetUtils.vala:14
+msgid "_OK"
+msgstr ""
+
+#: app/main.vala:15 monitor/monitor.vala:19
+msgid "Show version"
+msgstr ""
+
+#: app/main.vala:16
+msgid "Immediately start a backup"
+msgstr ""
+
+#: app/main.vala:307
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Falonchi aka https://launchpad.net/~falonchi\n"
+"  Maqsudjon Mamarasulov https://launchpad.net/~maqsudjon\n"
+"  Michael Terry https://launchpad.net/~mterry\n"
+"  Shuhrat Dehkanov https://launchpad.net/~shooh"
+
+#. Translators: The name is a play on the French phrase "déjà vu" meaning
+#. "already seen", but with the "vu" replaced with "dup".  "Dup" in this
+#. context is itself a reference to both the underlying command line tool
+#. "duplicity" and the act of duplicating data for backup.  As a whole, the
+#. phrase "Déjà Dup" may not be very translatable.
+#: app/main.vala:367 data/app.metainfo.xml.in:11 data/ui/MainWindow.blp:11
+#: data/ui/OverviewPage.blp:11 data/ui/WelcomePage.blp:11
+msgid "Déjà Dup Backups"
+msgstr ""
+
+#: data/app.desktop.in:5 data/ui/SnapshotsPage.blp:11
+msgid "Backups"
+msgstr ""
+
+#: data/app.desktop.in:6 data/app.metainfo.xml.in:12
+msgid "Protect yourself from data loss"
+msgstr ""
+
+#. These keywords are used when searching for applications in dashes, etc.
+#. Keep the English keywords and add your own keywords in your language, separated by semicolons.
+#: data/app.desktop.in:26
+msgid "déjà;deja;dup;archive;archiving;backup;backups;back up;"
+msgstr ""
+
+#: data/app.desktop.in:34
+msgid "Back Up"
+msgstr ""
+
+#: data/app.gschema.xml.in:25
+msgid "Folders to save"
+msgstr "Сақлаш учун жилдлар"
+
+#: data/app.gschema.xml.in:26
+msgid ""
+"This list of directories will be backed up. Reserved values $HOME, $DESKTOP, "
+"$DOCUMENTS, $DOWNLOAD, $MUSIC, $PICTURES, $PUBLIC_SHARE, $TEMPLATES, $TRASH, "
+"and $VIDEOS are recognized as the user’s special directories and can be at "
+"the start of a longer path ($HOME/subdir). Reserved value $USER is replaced "
+"by the user’s username and can be anywhere in the path. Relative entries are "
+"relative to the user’s home directory."
+msgstr ""
+
+#: data/app.gschema.xml.in:30
+msgid "Folders to ignore"
+msgstr "Рад этилувчи жилдлар"
+
+#: data/app.gschema.xml.in:31
+msgid ""
+"This list of directories will not be backed up. Reserved values $HOME, "
+"$DESKTOP, $DOCUMENTS, $DOWNLOAD, $MUSIC, $PICTURES, $PUBLIC_SHARE, "
+"$TEMPLATES, $TRASH, and $VIDEOS are recognized as the user’s special "
+"directories and can be at the start of a longer path ($HOME/subdir). "
+"Reserved value $USER is replaced by the user’s username and can be anywhere "
+"in the path. Relative entries are relative to the user’s home directory."
+msgstr ""
+
+#: data/app.gschema.xml.in:35
+msgid "The last time Déjà Dup was run"
+msgstr "Déjà Dup охирги марта ишлаган вақт"
+
+#: data/app.gschema.xml.in:36
+msgid ""
+"The last time Déjà Dup was successfully run. This time should be in ISO 8601 "
+"format."
+msgstr ""
+"Déjà Dup охирги марта муваффақиятли ишлаган вақт. Ушбу вақт ISO 8601 "
+"форматида бўлиши лозим."
+
+#: data/app.gschema.xml.in:40
+msgid "The last time Déjà Dup backed up"
+msgstr "Déjà Dup охирги марта заҳира олган вақт"
+
+#: data/app.gschema.xml.in:41
+msgid ""
+"The last time Déjà Dup successfully completed a backup. This time should be "
+"in ISO 8601 format."
+msgstr ""
+"Déjà Dup охирги марта заҳира олишни муваффақиятли тугатган вақт. Ушбу вақт "
+"ISO 8601 форматида бўлиши лозим."
+
+#: data/app.gschema.xml.in:45
+msgid "The last time Déjà Dup restored"
+msgstr "Déjà Dup охирги марта заҳирадан тиклаган вақт"
+
+#: data/app.gschema.xml.in:46
+msgid ""
+"The last time Déjà Dup successfully completed a restore. This time should be "
+"in ISO 8601 format."
+msgstr ""
+"Déjà Dup охирги марта заҳирадан тиклашни муваффақиятли тугаллаган вақт. Ушбу "
+"вақт ISO 8601 форматида бўлиши лозим."
+
+#: data/app.gschema.xml.in:50
+msgid "Whether to periodically back up"
+msgstr ""
+
+#: data/app.gschema.xml.in:51
+msgid "Whether to automatically back up on a regular schedule."
+msgstr ""
+
+#: data/app.gschema.xml.in:55
+msgid "How often to periodically back up"
+msgstr "Қайси оралиқда даврий заҳира олиниши лозим"
+
+#: data/app.gschema.xml.in:56
+msgid "The number of days between backups."
+msgstr "Заҳира олишлар орасидаги кунлар сони"
+
+#. Translators: This tracks the most recent time the user flipped the "automatic backups" switch
+#: data/app.gschema.xml.in:61
+msgid "When automatic backups were enabled"
+msgstr ""
+
+#: data/app.gschema.xml.in:62
+#, fuzzy
+#| msgid ""
+#| "The last time Déjà Dup was successfully run. This time should be in ISO "
+#| "8601 format."
+msgid "This time should be in ISO 8601 format."
+msgstr ""
+"Déjà Dup охирги марта муваффақиятли ишлаган вақт. Ушбу вақт ISO 8601 "
+"форматида бўлиши лозим."
+
+#: data/app.gschema.xml.in:66
+msgid ""
+"The last time Déjà Dup checked whether it should prompt about backing up"
+msgstr ""
+
+#: data/app.gschema.xml.in:67
+msgid ""
+"When a user logs in, the Déjà Dup monitor checks whether it should prompt "
+"about backing up. This is used to increase discoverability for users that "
+"don’t know about backups. This time should be either ‘disabled’ to turn off "
+"this check or in ISO 8601 format."
+msgstr ""
+
+#: data/app.gschema.xml.in:71
+msgid ""
+"The last time Déjà Dup checked whether it should prompt about your password"
+msgstr ""
+
+#: data/app.gschema.xml.in:72
+msgid ""
+"In order to prevent you from forgetting your passwords, Déjà Dup will "
+"occasionally notify you to confirm the password. This time should be either "
+"‘disabled’ to turn off this check or in ISO 8601 format."
+msgstr ""
+
+#: data/app.gschema.xml.in:76
+msgid "How long to keep backup files"
+msgstr "Заҳира файлларини қачонгача сақлаш лозим"
+
+#: data/app.gschema.xml.in:77
+msgid ""
+"The number of days to keep backup files on the backup location. A value of 0 "
+"means forever. This is a minimum number of days; the files may be kept "
+"longer."
+msgstr ""
+"Заҳира файлларини заҳиралаш манзилида сақлашнинг кунларда кўрсатилган сони. "
+"0 қиймати доимий маъносини билдиради. Бу кунларнинг энг кам сонидир, файллар "
+"узоқроқ муддат сақланиши мумкин."
+
+#: data/app.gschema.xml.in:81
+msgid "How long to wait between full backups"
+msgstr ""
+
+#: data/app.gschema.xml.in:82
+msgid ""
+"Déjà Dup needs to occasionally make fresh full backups. This is the number "
+"of days to wait between full backups."
+msgstr ""
+
+#: data/app.gschema.xml.in:86
+msgid "Whether to use metered networks"
+msgstr ""
+
+#: data/app.gschema.xml.in:87
+msgid ""
+"If false, Déjà Dup will refuse to run scheduled backups over metered network "
+"connections (like 4G)."
+msgstr ""
+
+#: data/app.gschema.xml.in:91
+msgid "Whether to ignore Power Saver mode"
+msgstr ""
+
+#: data/app.gschema.xml.in:92
+msgid ""
+"If false, Déjà Dup will refuse to run scheduled backups during Power Saver "
+"mode."
+msgstr ""
+
+#: data/app.gschema.xml.in:96
+msgid "Command to run before the backup tool"
+msgstr ""
+
+#: data/app.gschema.xml.in:97
+msgid ""
+"Useful if you need to manually mount a folder, for example. If this command "
+"fails, the backup won't start."
+msgstr ""
+
+#: data/app.gschema.xml.in:101
+msgid "Command to run after the backup tool"
+msgstr ""
+
+#: data/app.gschema.xml.in:102
+msgid ""
+"Useful if you need to clean up after your setup command. Failures are "
+"ignored."
+msgstr ""
+
+#: data/app.gschema.xml.in:106
+msgid "Command to run around the backup tool"
+msgstr ""
+
+#: data/app.gschema.xml.in:107
+msgid ""
+"Useful if you need to limit resources or otherwise wrap the execution of the "
+"tool command. An example value might be 'trickle -u 500' which would result "
+"in deja-dup running 'trickle -u 500 duplicity …'."
+msgstr ""
+
+#: data/app.gschema.xml.in:147
+msgid "Type of location to store backup"
+msgstr "Заҳира нусҳасини сақлаш манзилини киритинг"
+
+#: data/app.gschema.xml.in:148
+msgid ""
+"The type of backup location. If ‘auto’, a default will be chosen based on "
+"what is available."
+msgstr ""
+
+#: data/app.gschema.xml.in:161 data/app.gschema.xml.in:184
+#: data/app.gschema.xml.in:197 data/app.gschema.xml.in:205
+#: data/app.gschema.xml.in:212 data/app.gschema.xml.in:224
+msgid "The folder where backups are stored"
+msgstr ""
+
+#: data/app.gschema.xml.in:162
+msgid ""
+"The folder hierarchy where backups are stored. Paths can be absolute or "
+"relative to your home directory."
+msgstr ""
+
+#: data/app.gschema.xml.in:169
+msgid "UUID"
+msgstr ""
+
+#: data/app.gschema.xml.in:170
+msgid ""
+"The unique filesystem identifier for the drive, used to recognize the drive "
+"when it is plugged in."
+msgstr ""
+
+#: data/app.gschema.xml.in:174 data/ui/Browser.blp:77
+msgid "Name"
+msgstr ""
+
+#: data/app.gschema.xml.in:175
+msgid "The name of the external drive."
+msgstr ""
+
+#: data/app.gschema.xml.in:179
+msgid "Icon"
+msgstr ""
+
+#: data/app.gschema.xml.in:180
+msgid "The icon of the external drive, as a serialized GIcon."
+msgstr ""
+
+#: data/app.gschema.xml.in:185
+msgid ""
+"The folder hierarchy where backups are stored. Paths are relative to the "
+"drive."
+msgstr ""
+
+#: data/app.gschema.xml.in:192
+msgid "The server address"
+msgstr ""
+
+#: data/app.gschema.xml.in:193
+msgid "The URI of the remote server location."
+msgstr ""
+
+#: data/app.gschema.xml.in:198 data/app.gschema.xml.in:225
+msgid ""
+"The folder hierarchy where backups are stored. Paths can be absolute or "
+"relative to the host."
+msgstr ""
+
+#: data/app.gschema.xml.in:219
+msgid "The Rclone remote"
+msgstr ""
+
+#: data/app.gschema.xml.in:220
+msgid ""
+"The name of a pre-configured Rclone remote. See Rclone documentation for how "
+"to configure one."
+msgstr ""
+
+#: data/app.metainfo.xml.in:14
+msgid ""
+"Déjà Dup is a simple backup tool. It hides the complexity of backing up the "
+"Right Way (encrypted, off-site, and regular) and uses Restic behind the "
+"scenes."
+msgstr ""
+
+#: data/app.metainfo.xml.in:16
+msgid ""
+"Support for local, remote, or cloud backup locations such as Google Drive"
+msgstr ""
+
+#: data/app.metainfo.xml.in:17
+msgid "Securely encrypts and compresses your data"
+msgstr ""
+
+#: data/app.metainfo.xml.in:18
+msgid "Incrementally backs up, letting you restore from any particular backup"
+msgstr ""
+
+#: data/app.metainfo.xml.in:19
+msgid "Schedules regular backups"
+msgstr ""
+
+#: data/app.metainfo.xml.in:20
+msgid "Integrates well into your GNOME desktop"
+msgstr ""
+
+#: data/app.metainfo.xml.in:22
+msgid ""
+"Déjà Dup focuses on ease of use and recovering from personal, accidental "
+"data loss. If you need a full system backup or an archival program, you may "
+"prefer other backup apps."
+msgstr ""
+
+#: data/app.metainfo.xml.in:96 data/app.metainfo.xml.in:112
+msgid "Back up your files automatically — set it and forget it"
+msgstr ""
+
+#: data/app.metainfo.xml.in:100 data/app.metainfo.xml.in:116
+msgid ""
+"Restoring is a breeze — choose a backup and then copy files out using your "
+"file manager"
+msgstr ""
+
+#: data/app.metainfo.xml.in:104 data/app.metainfo.xml.in:120
+msgid "Back up to the cloud, a network server, or a local drive"
+msgstr ""
+
+#: data/app.metainfo.xml.in:108 data/app.metainfo.xml.in:124
+msgid ""
+"Take control of your backup by choosing exactly which folders to include"
+msgstr ""
+
+#. Translators: Monitor in this sense means something akin to 'watcher', not
+#. a computer screen.  This program acts like a daemon that kicks off
+#. backups at scheduled times.
+#: data/monitor.desktop.in:5 monitor/monitor.vala:132
+msgid "Backup Monitor"
+msgstr "Заҳира олиш кундалиги"
+
+#: data/monitor.desktop.in:6
+msgid "Schedules backups at regular intervals"
+msgstr ""
+
+#: data/ui/Browser.blp:40
+#, fuzzy
+#| msgid "Folders to save"
+msgid "Folder is Empty"
+msgstr "Сақлаш учун жилдлар"
+
+#: data/ui/Browser.blp:49
+msgid "No Results Found"
+msgstr ""
+
+#: data/ui/Browser.blp:50
+msgid "Try a different search"
+msgstr ""
+
+#: data/ui/Browser.blp:128
+msgid "Location"
+msgstr ""
+
+#: data/ui/ConfigExcludeFolderGroup.blp:10
+msgid "Add I_gnored Folder…"
+msgstr ""
+
+#: data/ui/ConfigExcludeFolderGroup.blp:12
+msgid "Folders to Ignore"
+msgstr ""
+
+#: data/ui/ConfigExcludeFolderGroup.blp:16
+msgid "These folders are always ignored:"
+msgstr ""
+
+#: data/ui/ConfigFolderPage.blp:11
+#, fuzzy
+#| msgid "Folders to save"
+msgid "Folders"
+msgstr "Сақлаш учун жилдлар"
+
+#: data/ui/ConfigFolderPage.blp:24
+msgid "Re_set All Folders…"
+msgstr ""
+
+#: data/ui/ConfigFolderRow.blp:36
+msgid "Remove"
+msgstr ""
+
+#: data/ui/ConfigIncludeFolderGroup.blp:10
+msgid "Add Backed _Up Folder…"
+msgstr ""
+
+#: data/ui/ConfigIncludeFolderGroup.blp:13
+msgid "Folders to Back Up"
+msgstr ""
+
+#: data/ui/ConfigLocationGroup.blp:17 data/ui/ConfigLocationGroup.blp:42
+#: data/ui/ConfigLocationGroup.blp:81 data/ui/ConfigLocationGroup.blp:88
+#: data/ui/ConfigLocationGroup.blp:96 data/ui/ConfigLocationGroup.blp:146
+#: data/ui/RestoreTargetDialog.blp:57
+msgid "_Folder"
+msgstr ""
+
+#: data/ui/ConfigLocationGroup.blp:27 data/ui/ConfigLocationGroup.blp:52
+msgid "_Reset Account Access"
+msgstr ""
+
+#: data/ui/ConfigLocationGroup.blp:67
+msgid "Ser_ver Address"
+msgstr ""
+
+#: data/ui/ConfigLocationGroup.blp:126
+msgid "_Remote"
+msgstr ""
+
+#: data/ui/ConfigLocationGroup.blp:138
+msgid ""
+"Rclone is an advanced cloud storage tool. Read <a href=\"https://rclone.org/"
+"\">its documentation</a> for how to configure a remote."
+msgstr ""
+
+#: data/ui/ConfigLocationGroup.blp:156
+msgid "_Reset Config Encryption Password"
+msgstr ""
+
+#: data/ui/ConfigLocationRow.blp:32
+msgid "_Location"
+msgstr ""
+
+#: data/ui/FirstBackupDialog.blp:10
+msgctxt "back up is verb"
+msgid "_Back Up"
+msgstr ""
+
+#: data/ui/FirstBackupDialog.blp:13
+msgid "New Backup"
+msgstr ""
+
+#: data/ui/FirstBackupDialog.blp:20 data/ui/MainWindow.blp:68
+msgid "Storage"
+msgstr ""
+
+#: data/ui/HelpButton.blp:26
+msgid "Help"
+msgstr ""
+
+#: data/ui/MainWindow.blp:33
+msgid "Schedule"
+msgstr ""
+
+#: data/ui/MainWindow.blp:39
+msgid "Automatic Backup _Frequency"
+msgstr ""
+
+#: data/ui/MainWindow.blp:44
+msgid "_Keep Backups"
+msgstr ""
+
+#: data/ui/MainWindow.blp:52
+msgid ""
+"The oldest backups will still be deleted earlier if the location is low on "
+"space or kept up to three months longer to avoid deleting related backups."
+msgstr ""
+
+#: data/ui/OverviewPage.blp:20
+msgid "_Schedule"
+msgstr ""
+
+#: data/ui/OverviewPage.blp:39
+#, fuzzy
+#| msgid "Folders to save"
+msgid "_Folders"
+msgstr "Сақлаш учун жилдлар"
+
+#: data/ui/OverviewPage.blp:56
+msgid "Storage _Location"
+msgstr ""
+
+#: data/ui/OverviewPage.blp:85
+msgid "Bro_wse Backups"
+msgstr ""
+
+#: data/ui/OverviewPage.blp:94
+msgid "_Back Up Now"
+msgstr ""
+
+#: data/ui/PassphraseDialog.blp:19
+msgid "_Password-protect your backup"
+msgstr ""
+
+#: data/ui/PassphraseDialog.blp:34
+msgid "Confir_m password"
+msgstr ""
+
+#: data/ui/PassphraseDialog.blp:47
+msgid "Test every two _months"
+msgstr ""
+
+#: data/ui/PassphraseDialog.blp:54
+msgid "Con_tinue"
+msgstr ""
+
+#: data/ui/PrimaryMenuButton.blp:16
+msgid "Main Menu"
+msgstr ""
+
+#: data/ui/PrimaryMenuButton.blp:23
+msgid "_Select All"
+msgstr ""
+
+#: data/ui/PrimaryMenuButton.blp:31
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+#: data/ui/PrimaryMenuButton.blp:36
+msgid "_Help"
+msgstr ""
+
+#: data/ui/PrimaryMenuButton.blp:41
+#, fuzzy
+#| msgid "The last time Déjà Dup backed up"
+msgid "_About Déjà Dup Backups"
+msgstr "Déjà Dup охирги марта заҳира олган вақт"
+
+#: data/ui/RecentBackupRow.blp:12
+msgid "Most Recent Backup"
+msgstr ""
+
+#: data/ui/RestoreLocationDialog.blp:10
+msgctxt "verb"
+msgid "_Search"
+msgstr ""
+
+#: data/ui/RestoreLocationDialog.blp:13
+msgid "Restore From Where?"
+msgstr ""
+
+#: data/ui/RestoreTargetDialog.blp:11
+msgid "_Restore"
+msgstr ""
+
+#: data/ui/RestoreTargetDialog.blp:14
+msgid "Restore to Where?"
+msgstr ""
+
+#: data/ui/RestoreTargetDialog.blp:19
+msgid "Restore files to their _original locations"
+msgstr ""
+
+#: data/ui/RestoreTargetDialog.blp:37
+msgid "Restore files to a _specific folder"
+msgstr ""
+
+#: data/ui/RestoreTargetWarningButton.blp:22
+msgid "Backups does not have permission to restore the following files:"
+msgstr ""
+
+#: data/ui/RestoreToolbarView.blp:23 data/ui/RestoreToolbarView.blp:25
+msgid "Up"
+msgstr ""
+
+#: data/ui/RestoreToolbarView.blp:30 data/ui/RestoreToolbarView.blp:79
+msgid "_Restore…"
+msgstr ""
+
+#: data/ui/RestoreToolbarView.blp:47 data/ui/RestoreToolbarView.blp:49
+#: data/ui/RestoreToolbarView.blp:71 data/ui/RestoreToolbarView.blp:94
+#: data/ui/RestoreToolbarView.blp:96
+msgid "Search"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:15
+msgid "Server Addresses"
+msgstr ""
+
+#. Translators: Translators: This is followed by a list of valid adresses (smb://gnome.org/deja-dup, ssh://192.168.0.1, ftp://[2001:db8::1])
+#: data/ui/ServerAddressHelp.blp:26
+msgid ""
+"Server addresses are made up of a protocol prefix, an address, and sometimes "
+"a path depending on the protocol. Examples:"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:50
+msgid "Available Protocols"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:60
+msgid "AppleTalk"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:70
+msgid "File Transfer Protocol"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:80
+msgid "Network File System"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:90
+msgid "Samba"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:100
+msgid "SSH File Transfer Protocol"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:110
+msgid "WebDAV"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:120
+msgid "Prefix"
+msgstr ""
+
+#. Translators: Translators: do not translate ftp:// and ftps://
+#: data/ui/ServerAddressHelp.blp:141
+msgid "ftp:// or ftps://"
+msgstr ""
+
+#: data/ui/ServerAddressHelp.blp:161
+msgid "smb://"
+msgstr ""
+
+#. Translators: Translators: do not translate sftp:// and ssh://
+#: data/ui/ServerAddressHelp.blp:172
+msgid "sftp:// or ssh://"
+msgstr ""
+
+#. Translators: Translators: do not translate dav:// and davs://
+#: data/ui/ServerAddressHelp.blp:183
+msgid "dav:// or davs://"
+msgstr ""
+
+#: data/ui/SnapshotsPage.blp:51
+#, fuzzy
+#| msgid "Backup Monitor"
+msgid "No Backups Found"
+msgstr "Заҳира олиш кундалиги"
+
+#: data/ui/SnapshotsPage.blp:52
+msgid "This storage location is empty"
+msgstr ""
+
+#: data/ui/WelcomePage.blp:40
+msgid "Create Your First _Backup…"
+msgstr ""
+
+#: data/ui/WelcomePage.blp:63
+msgid "_Restore From a Previous Backup…"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:12
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:16
+msgctxt "shortcut window"
+msgid "Show help"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:21
+msgctxt "shortcut window"
+msgid "Open menu"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:26
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:31
+msgctxt "shortcut window"
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:36
+msgctxt "shortcut window"
+msgid "Browsing Backed Up Files"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:40
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:45
+msgctxt "shortcut window"
+msgid "Go up"
+msgstr ""
+
+#: data/ui/shortcuts-dialog.blp:50
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr ""
+
+#. Translators: %2$s is the name of a removable drive, %1$s is a folder
+#. on that removable drive.
+#. translators: this is "folder-name on server-host"
+#: libdeja/BackendDrive.vala:75 libdeja/CommonUtils.vala:555
+#, c-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: libdeja/BackendDrive.vala:83
+#, c-format
+msgid "Backup will begin when %s is connected."
+msgstr ""
+
+#: libdeja/BackendDrive.vala:251 libdeja/BackendRemote.vala:164
+msgid "Storage location not available"
+msgstr ""
+
+#: libdeja/BackendDrive.vala:251
+#, c-format
+msgid "Waiting for ‘%s’ to become connected…"
+msgstr ""
+
+#: libdeja/BackendGoogle.vala:62 libdeja/BackendMicrosoft.vala:58
+#: libdeja/BackendRclone.vala:43 monitor/ReadyWatcher.vala:164
+msgid "Backup will begin when a network connection becomes available."
+msgstr ""
+
+#. Translators: %s is a folder.
+#: libdeja/BackendGoogle.vala:77
+#, c-format
+msgid "%s on Google Drive"
+msgstr ""
+
+#: libdeja/BackendLocal.vala:69
+msgid ""
+"This folder cannot be used as a storage location because Backups does not "
+"have access to it."
+msgstr ""
+
+#. Translators: %s is a folder.
+#: libdeja/BackendMicrosoft.vala:73
+#, c-format
+msgid "%s on Microsoft OneDrive"
+msgstr ""
+
+#. Duplicity requires a folder, and this is a reasonable restriction.
+#: libdeja/BackendMicrosoft.vala:100
+msgid "You must provide a Microsoft OneDrive folder."
+msgstr ""
+
+#. Translators: %s is a brand name like Microsoft or Google
+#: libdeja/BackendOAuth.vala:93
+#, c-format
+msgid "Could not log into %s servers."
+msgstr ""
+
+#. Translators: %s is a brand name like Google or Microsoft
+#: libdeja/BackendOAuth.vala:201
+#, c-format
+msgid "%s credentials for Déjà Dup"
+msgstr ""
+
+#. We need a random string between 43 and 128 chars. UUIDs are an easy way
+#. to get random strings, but they are only 37 chars long. So just add two.
+#. And show the oauth consent page finally
+#. Translators: %s is a brand name like Google or Microsoft
+#: libdeja/BackendOAuth.vala:260
+#, c-format
+msgid "Access to your %s account is required"
+msgstr ""
+
+#. Translators: %s is a brand name like Google or Microsoft
+#: libdeja/BackendOAuth.vala:262
+#, c-format
+msgid "Grant Access to %s"
+msgstr ""
+
+#. Translators: %s is a folder.
+#: libdeja/BackendRclone.vala:69
+#, c-format
+msgid "%s with Rclone"
+msgstr ""
+
+#: libdeja/BackendRclone.vala:84
+msgid "An Rclone remote needs to be set."
+msgstr ""
+
+#: libdeja/BackendRclone.vala:195
+msgid "Rclone config encryption password"
+msgstr ""
+
+#: libdeja/BackendRclone.vala:227
+msgid "Your Rclone config file is encrypted. Please provide its password."
+msgstr ""
+
+#: libdeja/BackendRclone.vala:228
+msgid "Rclone Config Encryption _Password"
+msgstr ""
+
+#: libdeja/BackendRclone.vala:229
+msgid "Wrong Rclone config encryption password. Try again."
+msgstr ""
+
+#: libdeja/BackendRclone.vala:237
+#, c-format
+msgid "Rclone remote '%s' needs to be configured in Rclone first."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:94
+msgid "The network server is not available"
+msgstr ""
+
+#: libdeja/BackendRemote.vala:154
+msgid ""
+"You must first install FUSE support for GVfs, likely provided by the gvfs-"
+"fuse package. Then log out, log back in, and try again."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:165
+msgid "Waiting for a network connection…"
+msgstr ""
+
+#: libdeja/BackendRemote.vala:177
+msgid "Could not mount storage location."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:181
+msgid ""
+"The server’s network location needs to be specified in the storage location "
+"preferences."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:186
+#, c-format
+msgid ""
+"The server’s network location ‘%s’ does not look like a network location."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:197
+#, c-format
+msgid "‘%s’ does not appear to be a network location."
+msgstr ""
+
+#. This means that we either couldn't talk to the gvfs daemon or the
+#. specific backend we need isn't installed - for whatever reason, the
+#. real scheme isn't being used and a path like the following is being
+#. used instead: file:///home/xxx/ftp:/example.com/
+#: libdeja/BackendRemote.vala:206
+#, c-format
+msgid ""
+"You must first install a gvfs backend that can connect to ‘%s’ network "
+"locations."
+msgstr ""
+
+#. Special sanity check for some edge cases like smb:// where if the user
+#. just puts in smb://server/ as the root, GIO thinks it's a valid root,
+#. but the share never ends up mounted.
+#: libdeja/BackendRemote.vala:214
+msgid "Samba network locations must include both a hostname and a share name."
+msgstr ""
+
+#. Translators: this is the home folder and %s is the user's username
+#: libdeja/CommonUtils.vala:611
+#, c-format
+msgid "Home (%s)"
+msgstr ""
+
+#. Translators: this is the home folder
+#: libdeja/CommonUtils.vala:616
+msgid "Home"
+msgstr ""
+
+#. Translators: this is the trash folder
+#: libdeja/CommonUtils.vala:621
+msgid "Trash"
+msgstr ""
+
+#: libdeja/CommonUtils.vala:685
+msgid "Backup encryption password"
+msgstr ""
+
+#: libdeja/InstallEnvFlatpak.vala:117
+msgid ""
+"Make sure Backups has permission to run in the background in your desktop "
+"session’s settings and try again."
+msgstr ""
+
+#. no portal support :(
+#: libdeja/InstallEnvFlatpak.vala:182
+msgid ""
+"Your desktop session does not support automatically starting Flatpak apps."
+msgstr ""
+
+#: libdeja/MountManager.vala:39
+msgid ""
+"The fusermount command is required, but was not found. Please install FUSE."
+msgstr ""
+
+#: libdeja/Operation.vala:61
+msgid "Backing up…"
+msgstr ""
+
+#: libdeja/Operation.vala:63
+msgid "Restoring…"
+msgstr ""
+
+#: libdeja/Operation.vala:65
+msgid "Checking for backups…"
+msgstr ""
+
+#: libdeja/Operation.vala:67
+msgid "Listing files…"
+msgstr ""
+
+#: libdeja/Operation.vala:70 libdeja/OperationBackup.vala:46
+msgid "Verifying backup…"
+msgstr ""
+
+#: libdeja/Operation.vala:72 libdeja/duplicity/DuplicityJob.vala:306
+#: libdeja/duplicity/DuplicityJob.vala:317
+#: libdeja/duplicity/DuplicityJob.vala:345
+#: libdeja/duplicity/DuplicityJob.vala:359
+msgid "Preparing…"
+msgstr ""
+
+#: libdeja/Operation.vala:141
+msgid "Custom tool setup failed."
+msgstr ""
+
+#: libdeja/Operation.vala:269
+msgid "Once granted, Backups will automatically continue"
+msgstr ""
+
+#: libdeja/Operation.vala:272
+msgid ""
+"Note that you will have to grant access every time because your desktop "
+"session does not support saving credentials"
+msgstr ""
+
+#: libdeja/Operation.vala:277
+msgid "_Grant Access…"
+msgstr ""
+
+#: libdeja/Operation.vala:613
+msgid "In order to continue, the following packages need to be installed:"
+msgstr ""
+
+#: libdeja/Operation.vala:617
+msgid "Required packages need to be installed."
+msgstr ""
+
+#: libdeja/Operation.vala:618
+msgid "Required Packages"
+msgstr ""
+
+#: libdeja/Operation.vala:618
+msgctxt "verb"
+msgid "_Install"
+msgstr ""
+
+#: libdeja/Operation.vala:640
+msgid "Installing packages…"
+msgstr ""
+
+#: libdeja/OperationBackup.vala:29
+msgid ""
+"Could not back up the following files.  Please make sure you are able to "
+"open them."
+msgstr ""
+
+#: libdeja/OperationBackup.vala:70
+msgid ""
+"The following folders cannot be backed up because Backups does not have "
+"access to them:"
+msgstr ""
+
+#: libdeja/OperationRestore.vala:35
+msgid "Restoring files…"
+msgstr ""
+
+#: libdeja/OperationRestore.vala:54
+msgid ""
+"Could not restore the following files.  Please make sure you are able to "
+"write to them."
+msgstr ""
+
+#. Translators: '%s' is a backup tool name like Restic or Borg
+#: libdeja/ToolSupport.vala:17
+#, c-format
+msgid ""
+"%s backups are not supported in this release. Try using another storage "
+"location."
+msgstr ""
+
+#. Error case (unrecognized files)
+#: libdeja/ToolSupport.vala:125
+#, c-format
+msgid ""
+"Unrecognized file in storage location: '%s'. Choose an empty folder instead."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:79
+#: libdeja/duplicity/DuplicityJob.vala:140
+msgid "Paused (no network)"
+msgstr ""
+
+#. Is the disk not even big enough to possibly hold what we need?
+#. Don't bother checking whether this is first or later backup.
+#. If the user adds folders to their backup and the target is just too small, let them know.
+#. Tiny backup location.  Suggest they get a larger one.
+#: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:337
+msgid "Backup location is too small."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:485 libdeja/restic/ResticJob.vala:338
+#, c-format
+msgid "Try using a location with at least %s."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:486
+msgid "(Space for two full backups is required.)"
+msgstr ""
+
+#. Can't delete any more backup chains ourselves. Tell the user, so they can clear out space.
+#: libdeja/duplicity/DuplicityJob.vala:507
+#, c-format
+msgid ""
+"Backup location does not have enough free space. Please free up at least %s."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:509
+#, c-format
+msgid ""
+"Backup location does not have enough free space. Try using a location with "
+"at least %s free."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:529
+#: libdeja/duplicity/DuplicityJob.vala:543
+msgid "Cleaning up…"
+msgstr ""
+
+#. For most, don't do anything special.  Show generic 'unknown error'
+#. message, but provide the exception text for better bug reports.
+#. Plus, sometimes it may clue the user in to what's wrong.
+#. But first, try to restart without a cache, since that seems to quite
+#. frequently fix odd metadata errors with duplicity.  If we hit an error
+#. a second time, we'll show the unknown error message.
+#. Should emit some sort of error...
+#: libdeja/duplicity/DuplicityJob.vala:641
+#: libdeja/duplicity/DuplicityJob.vala:1042 libdeja/libtool/ToolJoblet.vala:102
+#: libdeja/restic/ResticInstance.vala:177
+msgid "Failed with an unknown error."
+msgstr ""
+
+#. notify upper layers, if they want to do anything
+#: libdeja/duplicity/DuplicityJob.vala:851
+msgid "Bad encryption password."
+msgstr ""
+
+#. GPG does not expose the true reason in a machine-readable way for duplicity
+#. to pass on.  So we try to find out why it failed by looking for the
+#. "bad session key" error message that is given if the password was incorrect.
+#. Any other error should be presented to the user so they can maybe fix it
+#. (bad configuration files or something).
+#. We also check the English string in case there's a language misconfig
+#. and gpg isn't giving us the translated strings.
+#: libdeja/duplicity/DuplicityJob.vala:864
+msgid "No secret key"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:866
+msgid "Bad session key"
+msgstr ""
+
+#. make text a little nicer than duplicity gives
+#. duplicity gives something like "home/blah/blah not found in archive,
+#. no files restored".
+#: libdeja/duplicity/DuplicityJob.vala:902
+#, c-format
+msgid "Could not restore ‘%s’: File not found in backup"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:913
+#, c-format
+msgid ""
+"The existing backup is of a computer named %s, but the current computer’s "
+"name is %s.  If this is unexpected, you should back up to a different "
+"location."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:916
+msgid "Unexpected computer name encountered"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:917
+msgid "Computer Name Changed"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:955
+#, c-format
+msgid "Permission denied when trying to create ‘%s’."
+msgstr ""
+
+#. assume error is on backend side
+#: libdeja/duplicity/DuplicityJob.vala:959
+#: libdeja/duplicity/DuplicityJob.vala:963
+#, c-format
+msgid "Permission denied when trying to read ‘%s’."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:967
+#, c-format
+msgid "Permission denied when trying to delete ‘%s’."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:974
+#, c-format
+msgid "Backup location ‘%s’ does not exist."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:980
+#: libdeja/duplicity/DuplicityJob.vala:1013
+msgid "No space left."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:1002
+#, c-format
+msgid "Error reading file ‘%s’."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:1004
+#, c-format
+msgid "Error writing file ‘%s’."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:1015
+#, c-format
+msgid "No space left in ‘%s’."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:1023
+msgid "No backup files found"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:1073
+msgid "Uploading…"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityJob.vala:1542
+msgid "could not restore test file"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityPlugin.vala:36
+#, c-format
+msgid "Could not understand duplicity version ‘%s’."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityPlugin.vala:39
+#, c-format
+msgid ""
+"Backups requires at least version %d.%d.%.2d of duplicity, but only found "
+"version %d.%d.%.2d"
+msgstr ""
+
+#: libdeja/duplicity/DuplicityPlugin.vala:71
+msgid "Could not understand duplicity version."
+msgstr ""
+
+#: libdeja/duplicity/DuplicityPlugin.vala:100
+msgid ""
+"This storage location is no longer supported. You can still use duplicity "
+"directly to back up or restore your files."
+msgstr ""
+
+#: libdeja/libtool/ToolJoblet.vala:112
+#, c-format
+msgid "An error occurred while validating your backup: ‘%s’."
+msgstr ""
+
+#: libdeja/libtool/ToolJoblet.vala:114
+msgid "The backup might be corrupted."
+msgstr ""
+
+#: libdeja/libtool/ToolJoblet.vala:116
+msgid "Please investigate the problem or start a new, separate backup."
+msgstr ""
+
+#: libdeja/restic/ResticJob.vala:185
+#, c-format
+msgid "Could not find storage location ‘%s’."
+msgstr ""
+
+#: libdeja/restic/ResticJob.vala:531
+msgid "The storage location is out of space but busy."
+msgstr ""
+
+#: libdeja/restic/ResticJob.vala:532
+msgid "Try closing any open file manager windows and try again."
+msgstr ""
+
+#. Translators: "external" here means a backup that Deja Dup didn't make
+#: libdeja/restic/ResticJob.vala:611
+msgctxt "non-Deja-Dup backup"
+msgid "external"
+msgstr ""
+
+#: libdeja/restic/ResticPlugin.vala:36
+#, c-format
+msgid "Could not understand restic version ‘%s’."
+msgstr ""
+
+#: libdeja/restic/ResticPlugin.vala:39
+#, c-format
+msgid ""
+"Backups requires at least version %d.%d.%d of restic, but only found version "
+"%d.%d.%d"
+msgstr ""
+
+#: libdeja/restic/ResticPlugin.vala:86
+msgid "Could not understand restic version."
+msgstr ""
+
+#: libdeja/restic/ResticPlugin.vala:115
+msgid "This storage location is not yet supported."
+msgstr ""
+
+#: monitor/ReadyWatcher.vala:155
+msgid "Backup will begin when power saver mode is no longer active."
+msgstr ""
+
+#: monitor/ReadyWatcher.vala:169
+msgid ""
+"Backup will begin when an unmetered network connection becomes available."
+msgstr ""
+
+#~ msgid "Change your backup settings"
+#~ msgstr "Заҳира нусхасини олиш созламаларингизни ўзгартиринг"

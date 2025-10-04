@@ -1,0 +1,59 @@
+# Uzbek (Latin) translation for libcall-ui.
+# Copyright (C) 2025 libcall-ui's COPYRIGHT HOLDER
+# This file is distributed under the same license as the libcall-ui package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libcall-ui main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/libcall-ui/"
+"issues/\n"
+"POT-Creation-Date: 2025-09-21 11:42+0000\n"
+"PO-Revision-Date: 2025-04-04 22:32+0500\n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#: src/cui-call.c:336
+msgid "Call active"
+msgstr "Qo'ng'iroq faol"
+
+#: src/cui-call.c:338
+msgid "Call held"
+msgstr "Qo'ng'iroq ushlab turildi"
+
+#: src/cui-call.c:340
+msgid "Calling…"
+msgstr "Qo‘ng‘iroq qilinmoqda…"
+
+#: src/cui-call.c:342
+msgid "Incoming call"
+msgstr "Kiruvchi qo'ng'iroq"
+
+#: src/cui-call.c:344
+msgid "Call ended"
+msgstr "Qo'ng'iroq tugadi"
+
+#: src/cui-call.c:347 src/cui-call.c:367 src/cui-call-display.c:288
+msgid "Unknown"
+msgstr "Nomaʼlum"
+
+#: src/cui-call.c:362
+msgid "Cellular"
+msgstr ""
+
+#: src/cui-call.c:364
+msgid "SIP Voice"
+msgstr ""
+
+#: src/cui-call-display.c:102
+msgid "Accepting call…"
+msgstr "Qo‘ng‘iroq qabul qilinmoqda…"
+
+#: src/cui-call-display.c:117
+msgid "Hanging up…"
+msgstr "O‘chirilmoqda…"
