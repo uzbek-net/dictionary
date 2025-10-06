@@ -1926,7 +1926,7 @@ msgstr "Bir nechta displeylar"
 #. Translators: 'Join' as in 'Join displays'
 #: panels/display/cc-display-panel.blp:78
 msgid "_Join"
-msgstr "_Qoʼshilish"
+msgstr "_Qoʻshilish"
 
 #: panels/display/cc-display-panel.blp:84
 msgid "_Mirror"
@@ -9472,7 +9472,7 @@ msgstr "Sichqonchaning oʻng tugmachasini bosing"
 #. Translators: this is the "go forward" action of a button
 #: panels/wacom/cc-wacom-stylus-page.c:429
 msgid "Forward"
-msgstr "Oldinga oʼtish"
+msgstr "Oldinga oʻtish"
 
 #: panels/wacom/cc-wacom-stylus-page.c:435
 msgid "Switch Monitor"

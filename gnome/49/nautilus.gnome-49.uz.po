@@ -4399,7 +4399,7 @@ msgstr "Orqaga"
 #: src/nautilus-window-slot.c:169
 #: src/resources/ui/nautilus-history-controls.ui:19
 msgid "Forward"
-msgstr "Oldinga oʼtish"
+msgstr "Oldinga oʻtish"
 
 #: src/nautilus-window-slot.c:893 src/resources/ui/nautilus-file-chooser.ui:27
 #: src/resources/ui/nautilus-window.ui:116
@@ -4518,7 +4518,7 @@ msgstr "Joriy joylashuvni belgilang"
 #: src/resources/gtk/help-overlay.ui:50
 msgctxt "shortcut window"
 msgid "Show Help"
-msgstr "Yordamni koʼrsatish"
+msgstr "Yordamni koʻrsatish"
 
 #: src/resources/gtk/help-overlay.ui:56
 msgctxt "shortcut window"
@@ -4630,7 +4630,7 @@ msgstr "Ortga qaytish"
 #: src/resources/gtk/help-overlay.ui:187 src/resources/gtk/help-overlay.ui:194
 msgctxt "shortcut window"
 msgid "Go Forward"
-msgstr "Oldinga oʼtish"
+msgstr "Oldinga oʻtish"
 
 #: src/resources/gtk/help-overlay.ui:201
 msgctxt "shortcut window"

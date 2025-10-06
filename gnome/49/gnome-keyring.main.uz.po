@@ -39,7 +39,7 @@ msgid ""
 "An application wants to change the password for the “%s” keyring. Enter the "
 "old password for it."
 msgstr ""
-"Ilova “%s” kalit halqasi uchun parolni oʼzgartirmoqchi. Buning uchun eski "
+"Ilova “%s” kalit halqasi uchun parolni oʻzgartirmoqchi. Buning uchun eski "
 "parolni kiriting."
 
 #: daemon/dbus/gkd-secret-change.c:99 daemon/dbus/gkd-secret-change.c:135
@@ -61,8 +61,8 @@ msgid ""
 "An application wants to change the password for the “%s” keyring. Choose the"
 " new password you want to use for it."
 msgstr ""
-"Ilova “%s” kalit halqasi uchun parolni oʼzgartirmoqchi. Buning uchun "
-"foydalanmoqchi boʼlgan yangi parolni tanlang."
+"Ilova “%s” kalit halqasi uchun parolni oʻzgartirmoqchi. Buning uchun "
+"foydalanmoqchi boʻlgan yangi parolni tanlang."
 
 #: daemon/dbus/gkd-secret-change.c:142 daemon/dbus/gkd-secret-create.c:94
 msgid "Store passwords unencrypted?"
@@ -74,17 +74,17 @@ msgid ""
 "safely encrypted. They will be accessible by anyone with access to your "
 "files."
 msgstr ""
-"Boʼsh paroldan foydalanishni tanlasangiz, saqlangan parollaringiz xavfsiz "
-"shifrlanmaydi. Ularga fayllaringizga kirish huquqiga ega boʼlgan har bir "
+"Boʻsh paroldan foydalanishni tanlasangiz, saqlangan parollaringiz xavfsiz "
+"shifrlanmaydi. Ularga fayllaringizga kirish huquqiga ega boʻlgan har bir "
 "kishi foydalanishi mumkin."
 
 #: daemon/dbus/gkd-secret-change.c:152
 msgid "The original password was incorrect"
-msgstr "Asl parol notoʼgʼri edi"
+msgstr "Asl parol notoʻgʻri edi"
 
 #: daemon/dbus/gkd-secret-change.c:348
 msgid "Change Keyring Password"
-msgstr "Kalit halqasi parolini oʼzgartirish"
+msgstr "Kalit halqasi parolini oʻzgartirish"
 
 #: daemon/dbus/gkd-secret-create.c:80
 #, c-format
@@ -93,7 +93,7 @@ msgid ""
 "password you want to use for it."
 msgstr ""
 "Ilova “%s” deb nomlangan yangi kalitn halqasini yaratmoqchi. Buning uchun "
-"foydalanmoqchi boʼlgan parolni tanlang."
+"foydalanmoqchi boʻlgan parolni tanlang."
 
 #: daemon/dbus/gkd-secret-create.c:84
 msgid "Choose password for new keyring"
@@ -180,12 +180,12 @@ msgstr "Qulfdan chiqarish"
 #: daemon/ssh-agent/gkd-ssh-agent-interaction.c:116
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:684
 msgid "The unlock password was incorrect"
-msgstr "Qulfni ochish paroli notoʼgʼri"
+msgstr "Qulfni ochish paroli notoʻgʻri"
 
 #: egg/dotlock.c:668
 #, c-format
 msgid "failed to create temporary file `%s': %s\n"
-msgstr "`%s' vaqtinchalik faylini yaratib boʼlmadi: %s\n"
+msgstr "`%s' vaqtinchalik faylini yaratib boʻlmadi: %s\n"
 
 #: egg/dotlock.c:718
 #, c-format
@@ -195,7 +195,7 @@ msgstr "`%s'ga yozishda xatolik: %s\n"
 #: egg/dotlock.c:782
 #, c-format
 msgid "can't create `%s': %s\n"
-msgstr "`%s'ni yaratib boʼlmadi: %s\n"
+msgstr "`%s'ni yaratib boʻlmadi: %s\n"
 
 #. Note: It is unlikley that we get a race here unless a pid is
 #. reused too fast or a new process with the same pid as the one
@@ -238,11 +238,11 @@ msgstr "Elektron pochta manzili"
 
 #: egg/egg-oid.c:53
 msgid "Date of Birth"
-msgstr "Tugʼilgan sana"
+msgstr "Tugʻilgan sana"
 
 #: egg/egg-oid.c:55
 msgid "Place of Birth"
-msgstr "Tugʼilgan joyi"
+msgstr "Tugʻilgan joyi"
 
 #: egg/egg-oid.c:57
 msgid "Gender"
@@ -282,7 +282,7 @@ msgstr "Shtat"
 
 #: egg/egg-oid.c:76
 msgid "Street"
-msgstr "Koʼcha"
+msgstr "Koʻcha"
 
 #: egg/egg-oid.c:78
 msgid "Organization"
@@ -290,7 +290,7 @@ msgstr "Tashkilot"
 
 #: egg/egg-oid.c:80
 msgid "Organizational Unit"
-msgstr "Tashkiliy boʼlinma"
+msgstr "Tashkiliy boʻlinma"
 
 #: egg/egg-oid.c:82
 msgid "Title"
@@ -371,7 +371,7 @@ msgstr "Nomsiz sertifikat"
 
 #: pkcs11/ssh-store/gkm-ssh-private-key.c:341
 msgid "Couldn’t parse public SSH key"
-msgstr "Ochiq SSH kalitini tahlil qilib boʼlmadi"
+msgstr "Ochiq SSH kalitini tahlil qilib boʻlmadi"
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:529
 msgid "Unlock Login Keyring"
@@ -487,16 +487,16 @@ msgstr ""
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1185
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1216
 msgid "Change Password"
-msgstr "Parolni oʼzgartirish"
+msgstr "Parolni oʻzgartirish"
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1188
 #, c-format
 msgid "To change the password for “%s”, the original password is required"
-msgstr "“%s” parolini oʼzgartirish uchun asl parol talab qilinadi"
+msgstr "“%s” parolini oʻzgartirish uchun asl parol talab qilinadi"
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1217
 msgid "Change password"
-msgstr "Parolni oʼzgartirish"
+msgstr "Parolni oʻzgartirish"
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1219
 #, c-format

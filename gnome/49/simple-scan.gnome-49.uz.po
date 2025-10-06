@@ -239,7 +239,7 @@ msgstr "_Qirqish"
 #. Radio button for no crop
 #: data/ui/app-window.ui:20
 msgid "_None"
-msgstr "_Yoʼq"
+msgstr "_Yoʻq"
 
 #. Radio button for cropping page to A4 size
 #: data/ui/app-window.ui:26
@@ -289,12 +289,12 @@ msgstr "Qirqishni _burish"
 #. Menu item to move the selected page to the left
 #: data/ui/app-window.ui:83
 msgid "Move Left"
-msgstr "Chapga koʼchirish"
+msgstr "Chapga koʻchirish"
 
 #. Menu item to move the selected page to the right
 #: data/ui/app-window.ui:87
 msgid "Move Right"
-msgstr "Oʼngga koʼchirish"
+msgstr "Oʻngga koʻchirish"
 
 #: data/ui/app-window.ui:91
 msgid "Copy"
@@ -364,7 +364,7 @@ msgstr "Sahifani chapga burish (soat miliga teskari)"
 
 #: data/ui/app-window.ui:334
 msgid "Rotate Right (clockwise)"
-msgstr "Sahifani oʼngga burish (soat yoʼnalishi boʼyicha)"
+msgstr "Sahifani oʻngga burish (soat yoʻnalishi boʻyicha)"
 
 #: data/ui/app-window.ui:342
 msgid "Crop Selected Page"
@@ -394,7 +394,7 @@ msgstr "_Ruxsat berish"
 
 #: data/ui/drivers-dialog.ui:17
 msgid "Install drivers"
-msgstr "Drayverlarni oʼrnatish"
+msgstr "Drayverlarni oʻrnatish"
 
 #: data/ui/drivers-dialog.ui:119
 msgid "OK"
@@ -448,7 +448,7 @@ msgstr "Sahifani chapga burish (soat miliga teskari)"
 #: data/ui/help-overlay.ui:61
 msgctxt "shortcut window"
 msgid "Rotate page to the right (clockwise)"
-msgstr "Sahifani oʼngga burish (soat yoʼnalishi boʼyicha)"
+msgstr "Sahifani oʻngga burish (soat yoʻnalishi boʻyicha)"
 
 #: data/ui/help-overlay.ui:67
 msgctxt "shortcut window"
@@ -721,7 +721,7 @@ msgstr "Avtomatik saqlangan kitob mavjud. Uni ochmoqchimisiz?"
 
 #: src/app-window.vala:306
 msgid "_No"
-msgstr "_Yoʼq"
+msgstr "_Yoʻq"
 
 #: src/app-window.vala:307
 msgid "_Yes"
@@ -743,7 +743,7 @@ msgstr "Skanerlangan hujjat"
 
 #: src/app-window.vala:410
 msgid "PDF (multi-page document)"
-msgstr "PDF (koʼp sahifali hujjat)"
+msgstr "PDF (koʻp sahifali hujjat)"
 
 #: src/app-window.vala:416
 msgid "JPEG (compressed)"
@@ -751,7 +751,7 @@ msgstr "JPEG (siqilgan)"
 
 #: src/app-window.vala:423
 msgid "PNG (lossless)"
-msgstr "PNG (yoʼqotishsiz)"
+msgstr "PNG (yoʻqotishsiz)"
 
 #: src/app-window.vala:429
 msgid "WebP (compressed)"
@@ -788,7 +788,7 @@ msgstr "_Postprocessingni yoqish"
 
 #: src/app-window.vala:670
 msgid "If you don’t save, changes will be permanently lost."
-msgstr "Agar saqlamasangiz, oʼzgarishlar butunlay yoʼqoladi."
+msgstr "Agar saqlamasangiz, oʻzgarishlar butunlay yoʻqoladi."
 
 #. Text in dialog warning when a document is about to be lost
 #: src/app-window.vala:718
@@ -816,7 +816,7 @@ msgstr "Bir nechta sahifalarni skanerlash"
 #. Error message display when unable to save image for preview
 #: src/app-window.vala:1025
 msgid "Unable to save image for preview"
-msgstr "Tasvirni oldindan koʼrish uchun saqlab boʼlmadi"
+msgstr "Tasvirni oldindan koʻrish uchun saqlab boʻlmadi"
 
 #: src/app-window.vala:1250
 msgid "translator-credits"
@@ -876,7 +876,7 @@ msgstr "%i sahifani kodlab boʻlmadi"
 #. Message to indicate a Brother scanner has been detected
 #: src/drivers-dialog.vala:76
 msgid "You appear to have a Brother scanner."
-msgstr "Sizda Brother skaneringiz borga oʼxshaydi."
+msgstr "Sizda Brother skaneringiz borga oʻxshaydi."
 
 #. Instructions on how to install Brother scanner drivers
 #: src/drivers-dialog.vala:78
@@ -915,7 +915,7 @@ msgstr ""
 #. Message to indicate a Samsung scanner has been detected
 #: src/drivers-dialog.vala:88
 msgid "You appear to have a Samsung scanner."
-msgstr "Sizda Samsung skaneri borga oʼxshaydi."
+msgstr "Sizda Samsung skaneri borga oʻxshaydi."
 
 #. Instructions on how to install Samsung scanner drivers.
 #. Because HP acquired Samsung's global printing business in 2017, the support
@@ -948,7 +948,7 @@ msgstr ""
 #. Message to indicate an Epson scanner has been detected
 #: src/drivers-dialog.vala:108
 msgid "You appear to have an Epson scanner."
-msgstr "Sizda Epson skaneri borga oʼxshaydi."
+msgstr "Sizda Epson skaneri borga oʻxshaydi."
 
 # a
 #. Instructions on how to install Epson scanner drivers
@@ -982,18 +982,18 @@ msgstr "Drayvlar oʻrnatilmoqda…"
 #. Label shown once drivers successfully installed
 #: src/drivers-dialog.vala:135
 msgid "Drivers installed successfully!"
-msgstr "Drayverlar muvaffaqiyatli oʼrnatildi!"
+msgstr "Drayverlar muvaffaqiyatli oʻrnatildi!"
 
 #. Label shown if failed to install drivers
 #: src/drivers-dialog.vala:145
 #, c-format
 msgid "Failed to install drivers (error code %d)."
-msgstr "Drayverlarni oʼrnatib boʼlmadi (xato kodi %d)."
+msgstr "Drayverlarni oʻrnatib boʻlmadi (xato kodi %d)."
 
 #. Label shown if failed to install drivers
 #: src/drivers-dialog.vala:152
 msgid "Failed to install drivers."
-msgstr "Drayverlarni oʼrnatib boʼlmadi."
+msgstr "Drayverlarni oʻrnatib boʻlmadi."
 
 #: src/drivers-dialog.vala:161
 msgid "Once installed you will need to restart this app."
@@ -1017,7 +1017,7 @@ msgstr "Avtomatik"
 
 #: src/preferences-dialog.vala:162
 msgid "Darker"
-msgstr "Toʼqroq"
+msgstr "Toʻqroq"
 
 #: src/preferences-dialog.vala:164
 msgid "Lighter"
@@ -1029,7 +1029,7 @@ msgstr "Kamroq"
 
 #: src/preferences-dialog.vala:174
 msgid "More"
-msgstr "Koʼproq"
+msgstr "Koʻproq"
 
 #: src/preferences-dialog.vala:181
 msgid "Minimum size"
@@ -1103,7 +1103,7 @@ msgstr "Skaner bilan bogʻlanishda xatolik yuz berdi"
 #. Help string for command line --version flag
 #: src/simple-scan.vala:21
 msgid "Show release version"
-msgstr "Chiqarish versiyasini koʼrsatish"
+msgstr "Chiqarish versiyasini koʻrsatish"
 
 #. Help string for command line --debug flag
 #: src/simple-scan.vala:24
@@ -1150,7 +1150,7 @@ msgstr ""
 #~ msgstr "_Skanerlash"
 
 #~ msgid "_Stop Scan"
-#~ msgstr "Skanerlashni _toʼxtatish"
+#~ msgstr "Skanerlashni _toʻxtatish"
 
 #~ msgid "Photo"
 #~ msgstr "Fotosurat"
@@ -1171,7 +1171,7 @@ msgstr ""
 #~ msgstr "Saqlash"
 
 #~ msgid "Stop the current scan"
-#~ msgstr "Joriy skanerlashni toʼxtatish"
+#~ msgstr "Joriy skanerlashni toʻxtatish"
 
 #~ msgid "Rotate Left"
 #~ msgstr "Chapga burish"
@@ -1198,10 +1198,10 @@ msgstr ""
 #~ msgstr "Fayl formati:"
 
 #~ msgid "Unable to open image preview application"
-#~ msgstr "Rasmni oldindan koʼrish ilovasini ochib boʼlmadi"
+#~ msgstr "Rasmni oldindan koʻrish ilovasini ochib boʻlmadi"
 
 #~ msgid "Keep unchanged"
-#~ msgstr "Oʼzgarishsiz saqlash"
+#~ msgstr "Oʻzgarishsiz saqlash"
 
 #~ msgid ""
 #~ "This program is free software: you can redistribute it and/or modify\n"
@@ -1217,12 +1217,12 @@ msgstr ""
 #~ "You should have received a copy of the GNU General Public License\n"
 #~ "along with this program.  If not, see <http://www.gnu.org/licenses/>."
 #~ msgstr ""
-#~ "Ushbu dastur bepul dasturiy ta'minot: uni qayta tarqatishingiz va/yoki oʼzgartirishingiz mumkin\n"
+#~ "Ushbu dastur bepul dasturiy ta'minot: uni qayta tarqatishingiz va/yoki oʻzgartirishingiz mumkin\n"
 #~ "tomonidan nashr etilgan GNU General Public License shartlariga muvofiq\n"
 #~ "Free Software Foundation, Litsenziyaning 3-versiyasi yoki\n"
-#~ "(ixtiyoringiz boʼyicha) har qanday keyingi versiya.\n"
+#~ "(ixtiyoringiz boʻyicha) har qanday keyingi versiya.\n"
 #~ "\n"
-#~ "Ushbu dastur foydali boʼladi degan umidda tarqatiladi,\n"
+#~ "Ushbu dastur foydali boʻladi degan umidda tarqatiladi,\n"
 #~ "lekin hech qanday KAFOLATSIZ; ning nazarda tutilgan kafolatisiz ham\n"
 #~ "SAVDOGA MUVOFIQLIK yoki MAQSUS MAQSADGA MUVOFIQ. ga qarang\n"
 #~ "Batafsil ma'lumot uchun GNU General Public License.\n"
@@ -1259,7 +1259,7 @@ msgstr ""
 #~ msgstr "Haqida"
 
 #~ msgid "_Install Drivers"
-#~ msgstr "_Drayverlarni oʼrnatish"
+#~ msgstr "_Drayverlarni oʻrnatish"
 
 #~ msgid "Maximum"
 #~ msgstr "Maksimal"

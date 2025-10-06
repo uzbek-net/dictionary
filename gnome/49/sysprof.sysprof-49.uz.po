@@ -502,7 +502,7 @@ msgstr "Oynani yopish"
 #: src/sysprof/gtk/help-overlay.ui:56
 msgctxt "shortcut window"
 msgid "Show Help"
-msgstr "Yordamni koʼrsatish"
+msgstr "Yordamni koʻrsatish"
 
 #: src/sysprof/gtk/help-overlay.ui:62
 msgctxt "shortcut window"

@@ -378,7 +378,7 @@ msgstr "Orqaga"
 
 #: src/yelp-window.ui:86 src/yelp-window.ui:226
 msgid "Forward"
-msgstr "Oldinga oʼtish"
+msgstr "Oldinga oʻtish"
 
 #: src/yelp-window.ui:95
 msgid "Menu"

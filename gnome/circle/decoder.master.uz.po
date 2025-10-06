@@ -120,7 +120,7 @@ msgstr "Umumiy"
 #: data/resources/ui/help-overlay.ui:9
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni koʼrsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: data/resources/ui/help-overlay.ui:15
 msgctxt "shortcut window"

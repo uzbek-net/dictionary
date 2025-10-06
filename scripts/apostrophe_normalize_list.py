@@ -1,5 +1,6 @@
 import polib, re, glob, argparse
 
+
 def normalize_apostrophes(folder_path: str):
     """
     Normalize apostrophes in a .po file to use ʻ (U+02BB) for o' and g', as well as ʼ (U+02BC) for "tutuq belgisi".
@@ -22,11 +23,13 @@ def normalize_apostrophes(folder_path: str):
                 entry.msgstr = re.sub("O'", "Oʻ", entry.msgstr)
                 entry.msgstr = re.sub("O‘", "Oʻ", entry.msgstr)
                 entry.msgstr = re.sub("O’", "Oʻ", entry.msgstr)
+                entry.msgstr = re.sub("Oʼ", "Oʻ", entry.msgstr)
                 entry.msgstr = re.sub("O`", "Oʻ", entry.msgstr)
 
                 entry.msgstr = re.sub("o'", "oʻ", entry.msgstr)
                 entry.msgstr = re.sub("o‘", "oʻ", entry.msgstr)
                 entry.msgstr = re.sub("o’", "oʻ", entry.msgstr)
+                entry.msgstr = re.sub("oʼ", "oʻ", entry.msgstr)
                 entry.msgstr = re.sub("o`", "oʻ", entry.msgstr)
 
                 entry.msgstr = re.sub("G'", "Gʻ", entry.msgstr)
@@ -37,6 +40,7 @@ def normalize_apostrophes(folder_path: str):
                 entry.msgstr = re.sub("g'", "gʻ", entry.msgstr)
                 entry.msgstr = re.sub("g‘", "gʻ", entry.msgstr)
                 entry.msgstr = re.sub("g’", "gʻ", entry.msgstr)
+                entry.msgstr = re.sub("gʼ", "gʻ", entry.msgstr)
                 entry.msgstr = re.sub("g`", "oʻ", entry.msgstr)
 
         # Save the changes back to the .po file

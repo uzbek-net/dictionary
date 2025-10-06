@@ -46,19 +46,19 @@ msgstr "Oyna kattalashtirilgan holati"
 
 #: data/org.gnome.calendar.gschema.xml.in:11
 msgid "Window size"
-msgstr "Oyna oʼlchami"
+msgstr "Oyna oʻlchami"
 
 #: data/org.gnome.calendar.gschema.xml.in:12
 msgid "Window size (width and height)."
-msgstr "Oyna oʼlchami (kenglik va balandlik)."
+msgstr "Oyna oʻlchami (kenglik va balandlik)."
 
 #: data/org.gnome.calendar.gschema.xml.in:16
 msgid "Type of the active view"
-msgstr "Faol koʼrinish turi"
+msgstr "Faol koʻrinish turi"
 
 #: data/org.gnome.calendar.gschema.xml.in:17
 msgid "Type of the active window view, default value is: monthly view"
-msgstr "Faol oyna koʼrinishi turi, standart qiymat: oy koʼrinishi"
+msgstr "Faol oyna koʻrinishi turi, standart qiymat: oy koʻrinishi"
 
 #: data/org.gnome.calendar.gschema.xml.in:21
 msgid "Weather Service Configuration"
@@ -69,7 +69,7 @@ msgid ""
 "Whether weather reports are shown, automatic locations are used and a "
 "location-name"
 msgstr ""
-"Ob-havo hisobotlari koʼrsatilishi, avtomatik joylashuvlar va joy nomi "
+"Ob-havo hisobotlari koʻrsatilishi, avtomatik joylashuvlar va joy nomi "
 "ishlatilishi"
 
 #: data/org.gnome.calendar.gschema.xml.in:26
@@ -130,7 +130,7 @@ msgstr ""
 
 #: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:39
 msgid "Week view"
-msgstr "Hafta koʼrinishi"
+msgstr "Hafta koʻrinishi"
 
 #: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:43
 msgid "Month view"
@@ -170,7 +170,7 @@ msgstr "Faqat oʻqish uchun kalendar"
 
 #: src/gui/calendar-management/calendar-row.blp:29
 msgid "Display Calendar"
-msgstr "Taqvimni koʼrsatish"
+msgstr "Taqvimni koʻrsatish"
 
 #: src/gui/calendar-management/calendar-row.blp:39
 msgid "Edit calendar"
@@ -273,14 +273,14 @@ msgid ""
 "If the calendar belongs to one of your online accounts, you can add it "
 "through the <a href=\"GOA\">online account settings</a>."
 msgstr ""
-"Agar taqvim onlayn hisoblaringizdan biriga tegishli boʼlsa, uni <a "
-"href=\"GOA\">onlayn hisob sozlamalari</a> orqali qoʼshishingiz mumkin."
+"Agar taqvim onlayn hisoblaringizdan biriga tegishli boʻlsa, uni <a "
+"href=\"GOA\">onlayn hisob sozlamalari</a> orqali qoʻshishingiz mumkin."
 
 #: src/gui/calendar-management/gcal-new-calendar-page.blp:126
 #: src/gui/calendar-management/gcal-new-calendar-page.c:124
 msgctxt "button"
 msgid "Add Calendar"
-msgstr "Taqvim qoʼshish"
+msgstr "Taqvim qoʻshish"
 
 #: src/gui/calendar-management/gcal-new-calendar-page.blp:141
 msgid "Credentials"
@@ -553,7 +553,7 @@ msgstr "Izohlar"
 
 #: src/gui/event-editor/gcal-event-editor-dialog.blp:81
 msgid "Delete Event"
-msgstr "Tadbirni oʼchirish"
+msgstr "Tadbirni oʻchirish"
 
 #: src/gui/event-editor/gcal-event-editor-dialog.c:120
 msgid "_Save"
@@ -573,7 +573,7 @@ msgstr "Tadbirni tahrirlash"
 
 #: src/gui/event-editor/gcal-reminders-section.blp:16
 msgid "Add Reminder"
-msgstr "Eslatma qoʼshish"
+msgstr "Eslatma qoʻshish"
 
 #: src/gui/event-editor/gcal-reminders-section.blp:38
 msgid "Event start"
@@ -647,7 +647,7 @@ msgstr "Takrorlash"
 
 #: src/gui/event-editor/gcal-schedule-section.blp:60
 msgid "No Repeat"
-msgstr "Takrorlash yoʼq"
+msgstr "Takrorlash yoʻq"
 
 #: src/gui/event-editor/gcal-schedule-section.blp:61
 msgid "Daily"
@@ -720,7 +720,7 @@ msgstr "GNOME taqvimidan chiqish"
 
 #: src/gui/gcal-application.c:63
 msgid "Display version number"
-msgstr "Versiya raqamini koʼrsatish"
+msgstr "Versiya raqamini koʻrsatish"
 
 #: src/gui/gcal-application.c:68
 msgid "Enable debug messages"
@@ -728,11 +728,11 @@ msgstr "Nosozliklarni tuzatish xabarlarini yoqish"
 
 #: src/gui/gcal-application.c:73
 msgid "Open calendar on the passed date"
-msgstr "Taqvimni oʼtgan sanada ochish"
+msgstr "Taqvimni oʻtgan sanada ochish"
 
 #: src/gui/gcal-application.c:78
 msgid "Open calendar showing the passed event"
-msgstr "Oʼtkazilgan tadbirni koʼrsatadigan taqvimni ochish"
+msgstr "Oʻtkazilgan tadbirni koʻrsatadigan taqvimni ochish"
 
 #: src/gui/gcal-application.c:144
 #, c-format
@@ -772,7 +772,7 @@ msgstr "Tadbirni tahrirlash"
 
 #: src/gui/gcal-event-popover.blp:98
 msgid "No event notes"
-msgstr "Tadbir haqida ma'lumot yoʼq"
+msgstr "Tadbir haqida ma'lumot yoʻq"
 
 #: src/gui/gcal-event-popover.c:126 src/gui/gcal-quick-add-popover.c:253
 msgid "January"
@@ -967,7 +967,7 @@ msgstr "%a %B %d"
 
 #: src/gui/gcal-meeting-row.blp:35
 msgid "_Join"
-msgstr "_Qoʼshilish"
+msgstr "_Qoʻshilish"
 
 #: src/gui/gcal-meeting-row.c:72
 msgid "Unknown Service"
@@ -979,12 +979,12 @@ msgstr "Tafsilotlarni tahrirlash…"
 
 #: src/gui/gcal-quick-add-popover.blp:94
 msgid "Add"
-msgstr "Qoʼshish"
+msgstr "Qoʻshish"
 
 #: src/gui/gcal-quick-add-popover.c:116
 #, c-format
 msgid "%s (this calendar is read-only)"
-msgstr "%s (bu taqvim faqat oʼqish uchun)"
+msgstr "%s (bu taqvim faqat oʻqish uchun)"
 
 #: src/gui/gcal-quick-add-popover.c:231
 msgid "from next Monday"
@@ -1214,7 +1214,7 @@ msgstr "Masofaviy taqvimlar sinxronlanmoqda"
 
 #: src/gui/gcal-weather-settings.blp:17
 msgid "Show Weather"
-msgstr "Ob-havoni koʼrsatish"
+msgstr "Ob-havoni koʻrsatish"
 
 #: src/gui/gcal-weather-settings.blp:31
 msgid "Automatic Location"
@@ -1266,7 +1266,7 @@ msgstr "Bugunga oʻting"
 #: src/gui/gcal-window.blp:291
 msgctxt "tooltip"
 msgid "Add Event"
-msgstr "Yangi tadbir qoʼshish"
+msgstr "Yangi tadbir qoʻshish"
 
 #: src/gui/gcal-window.blp:297
 msgid "Manage Calendars"
@@ -1297,14 +1297,14 @@ msgstr "_Taqvim haqida"
 #| msgctxt "shortcut window"
 #| msgid "Previous View"
 msgid "Previous Week"
-msgstr "Oldingi koʼrinish"
+msgstr "Oldingi koʻrinish"
 
 #: src/gui/gcal-window.c:247
 #, fuzzy
 #| msgctxt "shortcut window"
 #| msgid "Previous View"
 msgid "Previous Month"
-msgstr "Oldingi koʼrinish"
+msgstr "Oldingi koʻrinish"
 
 #: src/gui/gcal-window.c:276
 #, fuzzy
@@ -1388,19 +1388,19 @@ msgstr "Funksiya uchun yomon argument"
 
 #: src/gui/importer/gcal-importer.c:41
 msgid "Failed to allocate a new object in memory"
-msgstr "Xotirada yangi ob'ektni ajratib boʼlmadi"
+msgstr "Xotirada yangi ob'ektni ajratib boʻlmadi"
 
 #: src/gui/importer/gcal-importer.c:44
 msgid "File is malformed, invalid, or corrupted"
-msgstr "Fayl notoʼgʼri tuzilgan, yaroqsiz yoki buzilgan"
+msgstr "Fayl notoʻgʻri tuzilgan, yaroqsiz yoki buzilgan"
 
 #: src/gui/importer/gcal-importer.c:47
 msgid "Failed to parse the calendar contents"
-msgstr "Taqvim tarkibini tahlil qilib boʼlmadi"
+msgstr "Taqvim tarkibini tahlil qilib boʻlmadi"
 
 #: src/gui/importer/gcal-importer.c:50
 msgid "Failed to read file"
-msgstr "Faylni oʼqib boʼlmadi"
+msgstr "Faylni oʻqib boʻlmadi"
 
 #: src/gui/importer/gcal-importer.c:57
 msgid "Internal error"
@@ -1475,7 +1475,7 @@ msgstr "Qidirish"
 #| msgid "Show Help"
 msgctxt "shortcut dialog"
 msgid "Show Help"
-msgstr "Yordamni koʼrsatish"
+msgstr "Yordamni koʻrsatish"
 
 #: src/gui/shortcuts-dialog.blp:49
 #, fuzzy
@@ -1507,7 +1507,7 @@ msgstr "Ortga qaytish"
 #| msgid "Go Forward"
 msgctxt "shortcut dialog"
 msgid "Go Forward"
-msgstr "Oldinga oʼtish"
+msgstr "Oldinga oʻtish"
 
 #: src/gui/shortcuts-dialog.blp:68
 #, fuzzy
@@ -1515,7 +1515,7 @@ msgstr "Oldinga oʼtish"
 #| msgid "Show Today"
 msgctxt "shortcut dialog"
 msgid "Show Today"
-msgstr "Bugungi kunni koʼrsatish"
+msgstr "Bugungi kunni koʻrsatish"
 
 #: src/gui/shortcuts-dialog.blp:73
 #, fuzzy
@@ -1523,7 +1523,7 @@ msgstr "Bugungi kunni koʼrsatish"
 #| msgid "Next View"
 msgctxt "shortcut dialog"
 msgid "Next View"
-msgstr "Keyingi koʼrinish"
+msgstr "Keyingi koʻrinish"
 
 #: src/gui/shortcuts-dialog.blp:78
 #, fuzzy
@@ -1531,7 +1531,7 @@ msgstr "Keyingi koʼrinish"
 #| msgid "Previous View"
 msgctxt "shortcut dialog"
 msgid "Previous View"
-msgstr "Oldingi koʼrinish"
+msgstr "Oldingi koʻrinish"
 
 #: src/gui/shortcuts-dialog.blp:84
 #, fuzzy
@@ -1539,7 +1539,7 @@ msgstr "Oldingi koʼrinish"
 #| msgid "View"
 msgctxt "shortcut dialog"
 msgid "View"
-msgstr "Koʼrinish"
+msgstr "Koʻrinish"
 
 #: src/gui/shortcuts-dialog.blp:87
 #, fuzzy
@@ -1547,7 +1547,7 @@ msgstr "Koʼrinish"
 #| msgid "Month View"
 msgctxt "shortcut dialog"
 msgid "Month View"
-msgstr "Oy koʼrinishi"
+msgstr "Oy koʻrinishi"
 
 #: src/gui/shortcuts-dialog.blp:92
 #, fuzzy
@@ -1555,7 +1555,7 @@ msgstr "Oy koʼrinishi"
 #| msgid "Week View"
 msgctxt "shortcut dialog"
 msgid "Week View"
-msgstr "Hafta koʼrinishi"
+msgstr "Hafta koʻrinishi"
 
 #: src/gui/views/gcal-agenda-view.blp:27
 msgid "No events"
@@ -1593,8 +1593,8 @@ msgid ""
 "The event you are trying to modify is recurring. The changes you have "
 "selected should be applied to:"
 msgstr ""
-"Siz oʼzgartirmoqchi boʼlgan tadbir takrorlanmoqda. Siz tanlagan oʼzgarishlar"
-" quyidagilarga qoʼllanilishi kerak:"
+"Siz oʻzgartirmoqchi boʻlgan tadbir takrorlanmoqda. Siz tanlagan oʻzgarishlar"
+" quyidagilarga qoʻllanilishi kerak:"
 
 #: src/utils/gcal-utils.c:1128
 msgid "_Only This Event"
@@ -1657,7 +1657,7 @@ msgstr "Zoom"
 #| msgctxt "shortcut window"
 #| msgid "View"
 msgid "View Map"
-msgstr "Koʼrinish"
+msgstr "Koʻrinish"
 
 #: src/utils/gcal-utils.c:1255
 msgid "OpenStreetMap"
@@ -1707,8 +1707,8 @@ msgstr ""
 #~ "perfectly fit the GNOME desktop. By reusing the components which the GNOME "
 #~ "desktop is built on, Calendar nicely integrates with the GNOME ecosystem."
 #~ msgstr ""
-#~ "GNOME taqvimi - bu GNOME ish stoliga toʼliq moslashish uchun moʼljallangan "
-#~ "oddiy va chiroyli taqvim ilovasi. GNOME ish stoli oʼrnatilgan "
+#~ "GNOME taqvimi - bu GNOME ish stoliga toʻliq moslashish uchun moʻljallangan "
+#~ "oddiy va chiroyli taqvim ilovasi. GNOME ish stoli oʻrnatilgan "
 #~ "komponentlardan qayta foydalanish orqali taqvim GNOME ekotizimiga yaxshi mos"
 #~ " tushadi."
 
@@ -1717,13 +1717,13 @@ msgstr ""
 #~ "centred usability. No excess, nothing missing. You’ll feel comfortable using"
 #~ " Calendar, like you’ve been using it for ages!"
 #~ msgstr ""
-#~ "Biz yaxshi yaratilgan xususiyatlar va foydalanuvchiga yoʼnaltirilgan "
-#~ "qulaylik oʼrtasidagi mukammal muvozanatni topishni maqsad qilganmiz. "
-#~ "Ortiqcha narsa yoʼq, yetishmaydigan narsa yoʼq. Taqvimdan uzoq vaqtdan beri "
-#~ "foydalanib kelganingizdek, oʼzingizni qulay his qilasiz!"
+#~ "Biz yaxshi yaratilgan xususiyatlar va foydalanuvchiga yoʻnaltirilgan "
+#~ "qulaylik oʻrtasidagi mukammal muvozanatni topishni maqsad qilganmiz. "
+#~ "Ortiqcha narsa yoʻq, yetishmaydigan narsa yoʻq. Taqvimdan uzoq vaqtdan beri "
+#~ "foydalanib kelganingizdek, oʻzingizni qulay his qilasiz!"
 
 #~ msgid "Year view"
-#~ msgstr "Yil koʼrinishi"
+#~ msgstr "Yil koʻrinishi"
 
 #~ msgid "Window position"
 #~ msgstr "Oyna joylashuvi"
@@ -1741,7 +1741,7 @@ msgstr ""
 #~ msgstr "Taqvim nomi"
 
 #~ msgid "Add new events to this calendar by default"
-#~ msgstr "Standart boʼyicha ushbu taqvimga yangi tadbirlar qoʼshish"
+#~ msgstr "Standart boʻyicha ushbu taqvimga yangi tadbirlar qoʻshish"
 
 #~ msgid "Cancel"
 #~ msgstr "Bekor qilish"
@@ -1756,11 +1756,11 @@ msgstr ""
 #~ "Alternatively, enter the web address of an online calendar you want to "
 #~ "import, or open a supported calendar file."
 #~ msgstr ""
-#~ "Shu bilan bir qatorda, import qilmoqchi boʼlgan onlayn taqvimning veb-"
-#~ "manzilini kiriting yoki qoʼllab-quvvatlanadigan taqvim faylini oching."
+#~ "Shu bilan bir qatorda, import qilmoqchi boʻlgan onlayn taqvimning veb-"
+#~ "manzilini kiriting yoki qoʻllab-quvvatlanadigan taqvim faylini oching."
 
 #~ msgid "Toggles the sound of the alarm"
-#~ msgstr "Signal ovozini oʼzgartiradi"
+#~ msgstr "Signal ovozini oʻzgartiradi"
 
 #~ msgid "Click to select the calendar"
 #~ msgstr "Taqvimni tanlash uchun bosish"
@@ -1805,15 +1805,15 @@ msgstr ""
 
 #~ msgctxt "shortcut window"
 #~ msgid "Go back"
-#~ msgstr "Orqaga oʼtish"
+#~ msgstr "Orqaga oʻtish"
 
 #~ msgctxt "shortcut window"
 #~ msgid "Week view"
-#~ msgstr "Hafta koʼrinishi"
+#~ msgstr "Hafta koʻrinishi"
 
 #~ msgctxt "shortcut window"
 #~ msgid "Year view"
-#~ msgstr "Yil koʼrinishi"
+#~ msgstr "Yil koʻrinishi"
 
 #~ msgid "00 AM"
 #~ msgstr "00 AM"

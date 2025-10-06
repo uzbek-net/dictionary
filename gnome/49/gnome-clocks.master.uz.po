@@ -231,7 +231,7 @@ msgstr "General"
 #: data/ui/shortcuts-dialog.ui:10
 msgctxt "shortcut window"
 msgid "Show Help"
-msgstr "Yordamni koʼrsatish"
+msgstr "Yordamni koʻrsatish"
 
 #: data/ui/shortcuts-dialog.ui:16
 msgctxt "shortcut window"
