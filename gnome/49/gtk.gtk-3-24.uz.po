@@ -89,7 +89,6 @@ msgstr ""
 msgid "The current backend does not support OpenGL"
 msgstr ""
 
-#.
 #. * Translators, the strings in the “keyboard label” context are
 #. * display names for keyboard keys. Some of them have prefixes like
 #. * XF86 or ISO_ — these should be removed in the translation. Similarly,
@@ -99,7 +98,6 @@ msgstr ""
 #. * XF86AudioMute - Audio mute
 #. * Scroll_lock   - Scroll lock
 #. * KP_Space      - Space (keypad)
-#.
 #: gdk/keyname-table.h:6843
 msgctxt "keyboard label"
 msgid "BackSpace"
@@ -646,7 +644,6 @@ msgstr ""
 
 #. FIXME these need accelerators when appropriate, and
 #. * need the mnemonics to be rationalized
-#.
 #: gtk/a11y/gtkimageaccessible.c:53 gtk/deprecated/gtkstock.c:345
 msgctxt "Stock label"
 msgid "_About"
@@ -678,15 +675,18 @@ msgctxt "Stock label"
 msgid "_Close"
 msgstr "_Yopish"
 
-#: gtk/a11y/gtkimageaccessible.c:59 gtk/gtkheaderbar.c:415 gtk/gtkwindow.c:9360
+#: gtk/a11y/gtkimageaccessible.c:59 gtk/gtkheaderbar.c:415
+#: gtk/gtkwindow.c:9360
 msgid "Minimize"
 msgstr ""
 
-#: gtk/a11y/gtkimageaccessible.c:60 gtk/gtkheaderbar.c:439 gtk/gtkwindow.c:9369
+#: gtk/a11y/gtkimageaccessible.c:60 gtk/gtkheaderbar.c:439
+#: gtk/gtkwindow.c:9369
 msgid "Maximize"
 msgstr ""
 
-#: gtk/a11y/gtkimageaccessible.c:61 gtk/gtkheaderbar.c:439 gtk/gtkwindow.c:9326
+#: gtk/a11y/gtkimageaccessible.c:61 gtk/gtkheaderbar.c:439
+#: gtk/gtkwindow.c:9326
 msgid "Restore"
 msgstr "Qayta tiklash"
 
@@ -1232,8 +1232,8 @@ msgstr "Rangni bu yerda _saqlash"
 
 #: gtk/deprecated/gtkcolorsel.c:1664
 msgid ""
-"Click this palette entry to make it the current color. To change this entry, "
-"drag a color swatch here or right-click it and select “Save color here.”"
+"Click this palette entry to make it the current color. To change this entry,"
+" drag a color swatch here or right-click it and select “Save color here.”"
 msgstr ""
 
 #: gtk/deprecated/gtkcolorseldialog.c:191 gtk/deprecated/gtkfontsel.c:1689
@@ -1314,9 +1314,9 @@ msgstr "_OK"
 msgid "Font Selection"
 msgstr "Shrift tanlash"
 
-#. Translators: the format here is used to build the string that will be rendered
+#. Translators: the format here is used to build the string that will be
+#. rendered
 #. * in the number emblem.
-#.
 #: gtk/deprecated/gtknumerableicon.c:473
 #, fuzzy, c-format
 #| msgctxt "calendar:day:digits"
@@ -1577,7 +1577,8 @@ msgstr "Roʻyxatni tozalab boʻlmadi"
 msgid "Website"
 msgstr "Veb-sayt"
 
-#. used for the application menu on MacOS.  %s is replaced with the application name.
+#. used for the application menu on MacOS.  %s is replaced with the
+#. application name.
 #: gtk/gtkaboutdialog.c:1093 gtk/ui/gtkapplication-quartz.ui:7
 #, c-format
 msgid "About %s"
@@ -1603,7 +1604,6 @@ msgstr ""
 
 #. Translators: this is the license preamble; the string at the end
 #. * contains the name of the license as link text.
-#.
 #: gtk/gtkaboutdialog.c:2500
 #, c-format
 msgid ""
@@ -1615,7 +1615,6 @@ msgstr ""
 #. * that use the shift key. If the text on this key isn't typically
 #. * translated on keyboards used for your language, don't translate
 #. * this.
-#.
 #: gtk/gtkaccellabel.c:181 gtk/gtkshortcutlabel.c:102
 #: gtk/gtkshortcutlabel.c:138
 msgctxt "keyboard label"
@@ -1626,7 +1625,6 @@ msgstr "Shift"
 #. * that use the control key. If the text on this key isn't typically
 #. * translated on keyboards used for your language, don't translate
 #. * this.
-#.
 #: gtk/gtkaccellabel.c:187 gtk/gtkshortcutlabel.c:105
 #: gtk/gtkshortcutlabel.c:140
 msgctxt "keyboard label"
@@ -1637,7 +1635,6 @@ msgstr "Ctrl"
 #. * that use the alt key. If the text on this key isn't typically
 #. * translated on keyboards used for your language, don't translate
 #. * this.
-#.
 #: gtk/gtkaccellabel.c:193 gtk/gtkshortcutlabel.c:108
 #: gtk/gtkshortcutlabel.c:142
 msgctxt "keyboard label"
@@ -1648,7 +1645,6 @@ msgstr "Alt"
 #. * that use the super key. If the text on this key isn't typically
 #. * translated on keyboards used for your language, don't translate
 #. * this.
-#.
 #: gtk/gtkaccellabel.c:845 gtk/gtkshortcutlabel.c:114
 #: gtk/gtkshortcutlabel.c:152
 msgctxt "keyboard label"
@@ -1659,7 +1655,6 @@ msgstr ""
 #. * that use the hyper key. If the text on this key isn't typically
 #. * translated on keyboards used for your language, don't translate
 #. * this.
-#.
 #: gtk/gtkaccellabel.c:858 gtk/gtkshortcutlabel.c:117
 #: gtk/gtkshortcutlabel.c:154
 msgctxt "keyboard label"
@@ -1670,7 +1665,6 @@ msgstr ""
 #. * that use the meta key. If the text on this key isn't typically
 #. * translated on keyboards used for your language, don't translate
 #. * this.
-#.
 #: gtk/gtkaccellabel.c:872 gtk/gtkshortcutlabel.c:111
 #: gtk/gtkshortcutlabel.c:156
 msgctxt "keyboard label"
@@ -1680,7 +1674,6 @@ msgstr "Meta"
 #. Translators: "KP" means "numeric key pad". This string will
 #. * be used in accelerators such as "Ctrl+Shift+KP 1" in menus,
 #. * and therefore the translation needs to be very short.
-#.
 #: gtk/gtkaccellabel.c:893
 msgctxt "keyboard label"
 msgid "KP"
@@ -1860,7 +1853,6 @@ msgstr ""
 #. * further influenced by BIDI ordering. Thus, if you have a default
 #. * text direction of RTL and specify "calendar:YM", then the year
 #. * will appear to the right of the month.
-#.
 #: gtk/gtkcalendar.c:815
 msgid "calendar:MY"
 msgstr "calendar:MY"
@@ -1868,7 +1860,6 @@ msgstr "calendar:MY"
 #. Translate to calendar:week_start:0 if you want Sunday to be the
 #. * first day of the week to calendar:week_start:1 if you want Monday
 #. * to be the first day of the week, and so on.
-#.
 #: gtk/gtkcalendar.c:853
 msgid "calendar:week_start:0"
 msgstr "calendar:week_start:1"
@@ -1877,7 +1868,6 @@ msgstr "calendar:week_start:1"
 #. * Translate it to the widest year text
 #. *
 #. * If you don't understand this, leave it as "2000"
-#.
 #: gtk/gtkcalendar.c:1881
 msgctxt "year measurement template"
 msgid "2000"
@@ -1892,7 +1882,6 @@ msgstr "2000"
 #. * Note that translating this doesn't guarantee that you get localized
 #. * digits. That needs support from your system and locale definition
 #. * too.
-#.
 #: gtk/gtkcalendar.c:1912 gtk/gtkcalendar.c:2608
 #, c-format
 msgctxt "calendar:day:digits"
@@ -1908,7 +1897,6 @@ msgstr "%d"
 #. * Note that translating this doesn't guarantee that you get localized
 #. * digits. That needs support from your system and locale definition
 #. * too.
-#.
 #: gtk/gtkcalendar.c:1944 gtk/gtkcalendar.c:2474
 #, c-format
 msgctxt "calendar:week:digits"
@@ -1924,7 +1912,6 @@ msgstr "%d"
 #. * msgid.
 #. *
 #. * "%Y" is appropriate for most locales.
-#.
 #: gtk/gtkcalendar.c:2241
 msgctxt "calendar year format"
 msgid "%Y"
@@ -1932,7 +1919,6 @@ msgstr "%Y"
 
 #. This label is displayed in a treeview cell displaying
 #. * a disabled accelerator key combination.
-#.
 #: gtk/gtkcellrendereraccel.c:273
 msgctxt "Accelerator"
 msgid "Disabled"
@@ -1941,7 +1927,6 @@ msgstr "Oʻchirilgan"
 #. This label is displayed in a treeview cell displaying
 #. * an accelerator key combination that is not valid according
 #. * to gtk_accelerator_valid().
-#.
 #: gtk/gtkcellrendereraccel.c:283
 #, fuzzy
 msgctxt "Accelerator"
@@ -1950,7 +1935,6 @@ msgstr "Xato URI"
 
 #. This label is displayed in a treeview cell displaying an accelerator
 #. * when the cell is clicked to change the acelerator.
-#.
 #: gtk/gtkcellrendereraccel.c:414 gtk/gtkcellrendereraccel.c:488
 #, fuzzy
 #| msgid "New accelerator..."
@@ -2261,7 +2245,6 @@ msgstr "Boshqa %sx%s"
 #. * want inches, otherwise translate to default:mm.
 #. * Do *not* translate it to "predefinito:mm", if it
 #. * it isn't default:mm or default:inch it will not work
-#.
 #: gtk/gtkcustompaperunixdialog.c:117
 msgid "default:mm"
 msgstr "default:mm"
@@ -2456,7 +2439,6 @@ msgstr "Qaysi turdagi fayllar koʻrsatilishini tanlang"
 #. Translators: the first string is a path and the second string
 #. * is a hostname. Nautilus and the panel contain the same string
 #. * to translate.
-#.
 #: gtk/gtkfilechooserutils.c:505
 #, c-format
 msgid "%1$s on %2$s"
@@ -2472,7 +2454,8 @@ msgstr "Jild yaratib boʻlmadi"
 
 #: gtk/gtkfilechooserwidget.c:822
 msgid ""
-"The folder could not be created, as a file with the same name already exists."
+"The folder could not be created, as a file with the same name already "
+"exists."
 msgstr ""
 
 #: gtk/gtkfilechooserwidget.c:824
@@ -2837,11 +2820,11 @@ msgstr ""
 msgid "Create Folder"
 msgstr "_Jild yaratish"
 
-#. The pointers we return for a GtkFileSystemVolume are opaque tokens; they are
+#. The pointers we return for a GtkFileSystemVolume are opaque tokens; they
+#. are
 #. * really pointers to GDrive, GVolume or GMount objects.  We need an extra
 #. * token for the fake “File System” volume.  So, we’ll return a pointer to
 #. * this particular string.
-#.
 #: gtk/gtkfilesystem.c:49
 msgid "File System"
 msgstr "Fayl tizimi"
@@ -3142,7 +3125,6 @@ msgstr "GTK+ parametrlarini koʻrsatish"
 #. * to be RTL, otherwise translate to default:LTR.
 #. * Do *not* translate it to "predefinito:LTR", if it
 #. * it isn't default:LTR or default:RTL it will not work
-#.
 #: gtk/gtkmain.c:1279
 msgid "default:LTR"
 msgstr "default:LTR"
@@ -3666,10 +3648,10 @@ msgstr "_Tarmoq"
 msgid "On This Computer"
 msgstr ""
 
-#. Translators: respectively, free and total space of the drive. The plural form
+#. Translators: respectively, free and total space of the drive. The plural
+#. form
 #. * should be based on the free space available.
 #. * i.e. 1 GB / 24 GB available.
-#.
 #: gtk/gtkplacesviewrow.c:134
 #, fuzzy, c-format
 #| msgid "Not available"
@@ -3713,7 +3695,6 @@ msgstr "Mavjud emas"
 #. translators: this string is the default job title for print
 #. * jobs. %s gets replaced by the application name, %d gets replaced
 #. * by the job number.
-#.
 #: gtk/gtkprintoperation.c:259
 #, c-format
 msgid "%s job #%d"
@@ -3787,7 +3768,8 @@ msgstr ""
 
 #: gtk/gtkprintoperation.c:3041
 #, c-format
-msgid "The most probable reason is that a temporary file could not be created."
+msgid ""
+"The most probable reason is that a temporary file could not be created."
 msgstr ""
 
 #. window
@@ -3873,11 +3855,10 @@ msgid "Getting printer information…"
 msgstr ""
 
 #. Translators: These strings name the possible arrangements of
-#. * multiple pages on a sheet when printing (same as in gtkprintbackendcups.c)
-#.
+#. * multiple pages on a sheet when printing (same as in
+#. gtkprintbackendcups.c)
 #. Translators: These strings name the possible arrangements of
 #. * multiple pages on a sheet when printing
-#.
 #: gtk/gtkprintunixdialog.c:3120
 #: modules/printbackends/cups/gtkprintbackendcups.c:5813
 msgid "Left to right, top to bottom"
@@ -3988,7 +3969,6 @@ msgstr "_Shaxsiy manbalarni koʻrsatish"
 #. * right place when idly populating the menu in case the
 #. * user appended or prepended custom menu items to the
 #. * recent chooser menu widget.
-#.
 #: gtk/gtkrecentchoosermenu.c:343
 msgid "No items found"
 msgstr "Hech qanday element topilmadi"
@@ -4011,7 +3991,6 @@ msgstr "Nomaʼlum element"
 #. * in a recent files menu. The %d is the number of the item,
 #. * the %s is the name of the item. Please keep the _ in front
 #. * of the number to give these menu items a mnemonic.
-#.
 #: gtk/gtkrecentchoosermenu.c:830
 #, c-format
 msgctxt "recent menu label"
@@ -4020,7 +3999,6 @@ msgstr "_%d. %s"
 
 #. This is the format that is used for items in a recent files menu.
 #. * The %d is the number of the item, the %s is the name of the item.
-#.
 #: gtk/gtkrecentchoosermenu.c:835
 #, c-format
 msgctxt "recent menu label"
@@ -4049,7 +4027,6 @@ msgstr ""
 #. * keys in the shortcut window (e.g. Control_L vs Control_R). Please keep
 #. * this string very short, ideally just a single character, since it will
 #. * be rendered as part of the key.
-#.
 #: gtk/gtkshortcutlabel.c:80
 msgctxt "keyboard side marker"
 msgid "L"
@@ -4059,7 +4036,6 @@ msgstr ""
 #. * keys in the shortcut window (e.g. Control_L vs Control_R). Please keep
 #. * this string very short, ideally just a single character, since it will
 #. * be rendered as part of the key.
-#.
 #: gtk/gtkshortcutlabel.c:93
 msgctxt "keyboard side marker"
 msgid "R"
@@ -4191,8 +4167,7 @@ msgstr ""
 
 #: gtk/gtktextbufferserialize.c:1197
 #, c-format
-msgid ""
-"\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
+msgid "\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
 msgstr ""
 
 #: gtk/gtktextbufferserialize.c:1206
@@ -4289,7 +4264,6 @@ msgstr "Toʻliq tovush"
 #. * as used in the tooltip, eg. "49 %".
 #. * Translate the "%d" to "%Id" if you want to use localised digits,
 #. * or otherwise translate the "%d" to "%d".
-#.
 #: gtk/gtkvolumebutton.c:249
 #, c-format
 msgctxt "volume percentage"
@@ -4317,8 +4291,8 @@ msgstr ""
 #, c-format
 msgid ""
 "GTK+ Inspector is an interactive debugger that lets you explore and modify "
-"the internals of any GTK+ application. Using it may cause the application to "
-"break or crash."
+"the internals of any GTK+ application. Using it may cause the application to"
+" break or crash."
 msgstr ""
 
 #: gtk/gtkwindow.c:12829
@@ -7564,7 +7538,8 @@ msgstr "_Parametrlar"
 msgid "Services"
 msgstr "_Uskuna:"
 
-#. used for the application menu on MacOS.  %s is replaced with the application name.
+#. used for the application menu on MacOS.  %s is replaced with the
+#. application name.
 #: gtk/ui/gtkapplication-quartz.ui:29
 msgid "Hide %s"
 msgstr ""
@@ -7579,7 +7554,8 @@ msgstr ""
 msgid "Show All"
 msgstr ""
 
-#. used for the application menu on MacOS.  %s is replaced with the application name.
+#. used for the application menu on MacOS.  %s is replaced with the
+#. application name.
 #: gtk/ui/gtkapplication-quartz.ui:49
 #, fuzzy
 #| msgid "About %s"
@@ -7989,12 +7965,14 @@ msgstr "Hujjatni bosib chiqarish"
 msgid "_Now"
 msgstr "_Hozir"
 
-#. this is one of the choices for the print at option in the print dialog. It also serves as the label for an entry that allows the user to enter a time.
+#. this is one of the choices for the print at option in the print dialog. It
+#. also serves as the label for an entry that allows the user to enter a time.
 #: gtk/ui/gtkprintunixdialog.ui:1003
 msgid "A_t:"
 msgstr ""
 
-#. Ability to parse the am/pm format depends on actual locale. You can remove the am/pm values below for your locale if they are not supported.
+#. Ability to parse the am/pm format depends on actual locale. You can remove
+#. the am/pm values below for your locale if they are not supported.
 #: gtk/ui/gtkprintunixdialog.ui:1007 gtk/ui/gtkprintunixdialog.ui:1009
 #: gtk/ui/gtkprintunixdialog.ui:1028 gtk/ui/gtkprintunixdialog.ui:1030
 #: gtk/ui/gtkprintunixdialog.ui:1037
@@ -8007,7 +7985,9 @@ msgstr ""
 msgid "Time of print"
 msgstr ""
 
-#. this is one of the choices for the print at option in the print dialog. It means that the print job will not be printed until it explicitly gets 'released'.
+#. this is one of the choices for the print at option in the print dialog. It
+#. means that the print job will not be printed until it explicitly gets
+#. 'released'.
 #: gtk/ui/gtkprintunixdialog.ui:1050
 msgid "On _hold"
 msgstr ""
@@ -8020,12 +8000,14 @@ msgstr ""
 msgid "Add Cover Page"
 msgstr "Muqova sahifasi qoʻshish"
 
-#. this is the label used for the option in the print dialog that controls the front cover page.
+#. this is the label used for the option in the print dialog that controls the
+#. front cover page.
 #: gtk/ui/gtkprintunixdialog.ui:1115
 msgid "Be_fore:"
 msgstr "_Oldin:"
 
-#. this is the label used for the option in the print dialog that controls the back cover page.
+#. this is the label used for the option in the print dialog that controls the
+#. back cover page.
 #: gtk/ui/gtkprintunixdialog.ui:1139
 msgid "_After:"
 msgstr "_Keyin:"
@@ -8044,7 +8026,8 @@ msgstr "Rasm sifati"
 msgid "Color"
 msgstr "Rang"
 
-#. This will appear as a tab label in the print dialog. It's a typographical term, as in "Binding and finishing"
+#. This will appear as a tab label in the print dialog. It's a typographical
+#. term, as in "Binding and finishing"
 #: gtk/ui/gtkprintunixdialog.ui:1280
 msgid "Finishing"
 msgstr "Tugatilmoqda"
@@ -8661,13 +8644,15 @@ msgctxt "output-bin"
 msgid "Rear Bin"
 msgstr ""
 
-#. Translators: Output bin where one sided output is oriented in the face-up position
+#. Translators: Output bin where one sided output is oriented in the face-up
+#. position
 #: modules/printbackends/cups/gtkprintbackendcups.c:4848
 msgctxt "output-bin"
 msgid "Face Up Bin"
 msgstr ""
 
-#. Translators: Output bin where one sided output is oriented in the face-down position
+#. Translators: Output bin where one sided output is oriented in the face-down
+#. position
 #: modules/printbackends/cups/gtkprintbackendcups.c:4850
 msgctxt "output-bin"
 msgid "Face Down Bin"
@@ -8712,7 +8697,6 @@ msgstr "Printer andozasi"
 
 #. Translators: These strings name the possible values of the
 #. * job priority option in the print dialog
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5808
 msgid "Urgent"
 msgstr "Muhim"
@@ -8731,14 +8715,12 @@ msgstr "Past"
 
 #. Translators, this string is used to label the job priority option
 #. * in the print dialog
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5838
 msgid "Job Priority"
 msgstr "Vazifa ustuvorligi"
 
 #. Translators, this string is used to label the billing info entry
 #. * in the print dialog
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5849
 msgid "Billing Info"
 msgstr ""
@@ -8794,7 +8776,6 @@ msgstr "Tasniflanmagan"
 
 #. Translators, this string is used to label the pages-per-sheet option
 #. * in the print dialog
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5891
 #, fuzzy
 #| msgid "Pages per Sheet"
@@ -8804,7 +8785,6 @@ msgstr "Varaqdagi bet soni"
 
 #. Translators, this string is used to label the option in the print
 #. * dialog that controls in what order multiple pages are arranged
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5908
 #, fuzzy
 #| msgid "Page Ordering"
@@ -8814,7 +8794,6 @@ msgstr "Sahifani tartiblash"
 
 #. Translators, this is the label used for the option in the print
 #. * dialog that controls the front cover page.
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5950
 #, fuzzy
 #| msgid "Be_fore:"
@@ -8824,7 +8803,6 @@ msgstr "_Oldin:"
 
 #. Translators, this is the label used for the option in the print
 #. * dialog that controls the back cover page.
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5965
 #, fuzzy
 #| msgid "After"
@@ -8835,7 +8813,6 @@ msgstr "Keyin"
 #. Translators: this is the name of the option that controls when
 #. * a print job is printed. Possible values are 'now', a specified time,
 #. * or 'on hold'
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5985
 #, fuzzy
 #| msgid "Print"
@@ -8845,7 +8822,6 @@ msgstr "Bosib chiqarish"
 
 #. Translators: this is the name of the option that allows the user
 #. * to specify a time when a print job will be printed.
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:5996
 #, fuzzy
 #| msgid "Print at time"
@@ -8857,7 +8833,6 @@ msgstr "Bosib chiqarish vaqti"
 #. * paper size. The two placeholders are replaced with
 #. * the width and height in points. E.g: "Custom
 #. * 230.4x142.9"
-#.
 #: modules/printbackends/cups/gtkprintbackendcups.c:6042
 #, fuzzy, c-format
 #| msgid "Custom %sx%s"

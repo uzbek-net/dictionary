@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/"
-"issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
 "POT-Creation-Date: 2025-09-30 10:06+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
@@ -33,7 +32,7 @@ msgstr "_Qabul qilmoq"
 
 #: gnome-initial-setup/gis-assistant.c:403
 msgid "_Skip"
-msgstr "_O‘tkazib yuborish"
+msgstr "_Oʻtkazib yuborish"
 
 #: gnome-initial-setup/gis-assistant.c:404
 msgid "_Previous"
@@ -58,24 +57,24 @@ msgstr "Hisobni keshlash amalga oshmadi"
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:231
 msgid "Failed to register account"
-msgstr "Hisob qaydnomasini ro‘yxatdan o‘tkazib bo‘lmadi"
+msgstr "Hisob qaydnomasini roʻyxatdan oʻtkazib boʻlmadi"
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:420
 msgid "No supported way to authenticate with this domain"
 msgstr ""
-"Bu domen bilan autentifikatsiya qilishning qo‘llab-quvvatlanmaydigan usuli"
+"Bu domen bilan autentifikatsiya qilishning qoʻllab-quvvatlanmaydigan usuli"
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:459
 msgid "Failed to join domain"
-msgstr "Domenga qo‘shilmadi"
+msgstr "Domenga qoʻshilmadi"
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:526
 msgid "Failed to log into domain"
-msgstr "Domenga kirib bo‘lmadi"
+msgstr "Domenga kirib boʻlmadi"
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:12
 msgid "Enterprise Login"
-msgstr "Enterprise Login qo'shing"
+msgstr "Enterprise Login qoʻshing"
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:13
 msgid ""
@@ -117,8 +116,8 @@ msgid ""
 "domain. Please have your network administrator type the domain password "
 "here, and choose a unique computer name for your computer."
 msgstr ""
-"Korxona loginlaridan foydalanish uchun ushbu kompyuter domenga ro'yxatdan "
-"o'tgan bo'lishi kerak. Iltimos, tarmoq ma'muringizdan domen parolini shu "
+"Korxona loginlaridan foydalanish uchun ushbu kompyuter domenga roʻyxatdan "
+"oʻtgan boʻlishi kerak. Iltimos, tarmoq ma'muringizdan domen parolini shu "
 "yerga kiriting va kompyuteringiz uchun noyob kompyuter nomini tanlang."
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:179
@@ -139,7 +138,7 @@ msgstr "C_davom etish"
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.c:321
 msgid "We need a few details to complete setup."
-msgstr "O'rnatishni yakunlash uchun bizga bir nechta tafsilotlar kerak."
+msgstr "Oʻrnatishni yakunlash uchun bizga bir nechta tafsilotlar kerak."
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.c:476
 msgid "Administrator"
@@ -149,11 +148,11 @@ msgstr "Administrator"
 #: gnome-initial-setup/pages/account/gis-account-page-local.c:525
 #, c-format
 msgid "Failed to create user '%s': "
-msgstr "“%s” foydalanuvchisini yaratib bo‘lmadi: "
+msgstr "“%s” foydalanuvchisini yaratib boʻlmadi: "
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:28
 msgid "Change Avatar"
-msgstr "Avatarni o’zgartirish"
+msgstr "Avatarni oʻzgartirish"
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:46
 msgid "Remove Avatar"
@@ -162,7 +161,7 @@ msgstr "Avatarni olib tashlang"
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:64
 #: gnome-initial-setup/pages/account/gis-account-page.c:274
 msgid "About You"
-msgstr "O’zingiz haqingizda"
+msgstr "Oʻzingiz haqingizda"
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:65
 msgid "Please provide a name and username. You can choose a picture too."
@@ -172,7 +171,7 @@ msgstr ""
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:81
 msgid "_Full Name"
-msgstr "_To'liq ism"
+msgstr "_Toʻliq ism"
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:159
 msgid "Set up _parental controls for this user"
@@ -181,12 +180,12 @@ msgstr "Ushbu foydalanuvchi uchun _ota-ona nazoratini sozlang"
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:165
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr ""
-"O'z parolini o'rnatishi kerak bo'lgan ota-ona yoki nazoratchi tomonidan "
+"Oʻz parolini oʻrnatishi kerak boʻlgan ota-ona yoki nazoratchi tomonidan "
 "foydalanish uchun."
 
 #: gnome-initial-setup/pages/account/gis-account-page.ui:32
 msgid "_Enterprise Login"
-msgstr "Enterprise Login qo'shing"
+msgstr "Enterprise Login qoʻshing"
 
 #: gnome-initial-setup/pages/account/gis-account-page.ui:41
 msgid "Go online to set up Enterprise Login."
@@ -194,7 +193,7 @@ msgstr "Enterprise Loginni sozlash uchun internetga kiring."
 
 #: gnome-initial-setup/pages/account/um-realm-manager.c:310
 msgid "Cannot automatically join this type of domain"
-msgstr "Bu turdagi domenga avtomatik ravishda qo‘shilib bo‘lmaydi"
+msgstr "Bu turdagi domenga avtomatik ravishda qoʻshilib boʻlmaydi"
 
 #: gnome-initial-setup/pages/account/um-realm-manager.c:373
 #, c-format
@@ -205,22 +204,22 @@ msgstr "Bunday domen yoki soha topilmadi"
 #: gnome-initial-setup/pages/account/um-realm-manager.c:796
 #, c-format
 msgid "Cannot log in as %s at the %s domain"
-msgstr "%s domenida %s sifatida tizimga kirib bo‘lmaydi"
+msgstr "%s domenida %s sifatida tizimga kirib boʻlmaydi"
 
 #: gnome-initial-setup/pages/account/um-realm-manager.c:788
 msgid "Invalid password, please try again"
-msgstr "Parol noto‘g‘ri, qayta urinib ko‘ring"
+msgstr "Parol notoʻgʻri, qayta urinib koʻring"
 
 #: gnome-initial-setup/pages/account/um-realm-manager.c:801
 #, c-format
 msgid "Couldn’t connect to the %s domain: %s"
-msgstr "%s domeniga ulanib bo‘lmadi: %s"
+msgstr "%s domeniga ulanib boʻlmadi: %s"
 
 #: gnome-initial-setup/pages/account/um-utils.c:153
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr ""
 "Kechirasiz, bu foydalanuvchi nomi mavjud emas. Iltimos, boshqasini sinab "
-"ko'ring."
+"koʻring."
 
 #: gnome-initial-setup/pages/account/um-utils.c:156
 #, c-format
@@ -233,12 +232,12 @@ msgstr "Foydalanuvchi nomi a-z dan kichik harf bilan boshlanishi kerak."
 
 #: gnome-initial-setup/pages/account/um-utils.c:162
 msgid "That username isn’t available. Please try another."
-msgstr "Bu foydalanuvchi nomi mavjud emas. Iltimos, boshqasini sinab ko'ring."
+msgstr "Bu foydalanuvchi nomi mavjud emas. Iltimos, boshqasini sinab koʻring."
 
 #: gnome-initial-setup/pages/account/um-utils.c:165
 msgid ""
-"The username should only consist of lower case letters from a-z, digits, and "
-"the following characters: - _"
+"The username should only consist of lower case letters from a-z, digits, and"
+" the following characters: - _"
 msgstr ""
 "Foydalanuvchi nomi faqat a-z gacha boʻlgan kichik harflar, raqamlar va "
 "quyidagi belgilardan iborat boʻlishi kerak: - _"
@@ -246,12 +245,12 @@ msgstr ""
 #: gnome-initial-setup/pages/account/um-utils.c:169
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr ""
-"Bu sizning uy jildingizni nomlash uchun ishlatiladi va uni o'zgartirib "
-"bo'lmaydi."
+"Bu sizning uy jildingizni nomlash uchun ishlatiladi va uni oʻzgartirib "
+"boʻlmaydi."
 
 #: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:257
 msgid "Preview"
-msgstr "Oldindan ko'rish"
+msgstr "Oldindan koʻrish"
 
 #: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:325
 #: gnome-initial-setup/pages/language/cc-language-chooser.c:242
@@ -260,7 +259,6 @@ msgstr "yana %d ta"
 
 #. Translators: a search for input methods or keyboard layouts
 #. * did not yield any results
-#.
 #: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:347
 msgid "No inputs found"
 msgstr "Hech qanday maʼlumot topilmadi"
@@ -294,7 +292,6 @@ msgstr ""
 #. Translators: This is meant to be a warm, engaging welcome message,
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
-#.
 #: gnome-initial-setup/pages/language/gis-welcome-widget.c:132
 msgid "Welcome!"
 msgstr "Xush kelibsiz!"
@@ -316,7 +313,7 @@ msgstr "Boshqa…"
 
 #: gnome-initial-setup/pages/network/gis-network-page.c:379
 msgid "Wireless networking is disabled"
-msgstr "Simsiz tarmoq o'chirilgan"
+msgstr "Simsiz tarmoq oʻchirilgan"
 
 #: gnome-initial-setup/pages/network/gis-network-page.c:386
 msgid "Checking for available wireless networks"
@@ -356,8 +353,8 @@ msgstr "%s uchun ota-ona nazorati"
 #: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:108
 msgid "Set restrictions on what this user can run or install."
 msgstr ""
-"Ushbu foydalanuvchi ishga tushirishi yoki o'rnatishi mumkin bo'lgan "
-"cheklovlarni o'rnating."
+"Ushbu foydalanuvchi ishga tushirishi yoki oʻrnatishi mumkin boʻlgan "
+"cheklovlarni oʻrnating."
 
 #: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:209
 msgid "Parental Controls"
@@ -367,17 +364,18 @@ msgstr "_Ota-ona nazorati"
 #: gnome-initial-setup/pages/password/gis-password-page.c:92
 #, c-format
 msgid "Set a Password for %s"
-msgstr "%s uchun parol o‘rnating"
+msgstr "%s uchun parol oʻrnating"
 
 #: gnome-initial-setup/pages/password/gis-password-page.c:94
 msgid "Be careful not to lose your password."
-msgstr "Parolingizni yo'qotmaslik uchun ehtiyot bo'ling."
+msgstr "Parolingizni yoʻqotmaslik uchun ehtiyot boʻling."
 
 #: gnome-initial-setup/pages/password/gis-password-page.c:99
 msgid "Set a Parent Password"
-msgstr "Ota-ona parolini o'rnating"
+msgstr "Ota-ona parolini oʻrnating"
 
-#. Translators: The placeholder is the full name of the child user on the system.
+#. Translators: The placeholder is the full name of the child user on the
+#. system.
 #: gnome-initial-setup/pages/password/gis-password-page.c:101
 #, c-format
 msgid "This password will control access to the parental controls for %s."
@@ -387,12 +385,12 @@ msgstr "Bu parol %s uchun ota-ona nazoratiga kirishni nazorat qiladi."
 #, fuzzy, c-format
 #| msgid "Password _Hint"
 msgid "Password strength: %s."
-msgstr "Parolni eslatuvchi so’z"
+msgstr "Parolni eslatuvchi soʻz"
 
 #: gnome-initial-setup/pages/password/gis-password-page.c:249
 #: gnome-initial-setup/pages/password/gis-password-page.c:251
 msgid "The passwords do not match."
-msgstr "Parollar o'xshash emas."
+msgstr "Parollar oʻxshash emas."
 
 #: gnome-initial-setup/pages/password/gis-password-page.c:430
 msgid "Password"
@@ -404,11 +402,11 @@ msgstr "_Parolni tasdiqlang"
 
 #: gnome-initial-setup/pages/password/gis-password-page.ui:92
 msgid "Password _Hint"
-msgstr "Parolni eslatuvchi so’z"
+msgstr "Parolni eslatuvchi soʻz"
 
 #: gnome-initial-setup/pages/password/gis-password-page.ui:103
 msgid "Password hint will be shown in case you forget your password."
-msgstr "Parolni unutganingizda parol bo'yicha eslatuvchi so’z ko'rsatiladi."
+msgstr "Parolni unutganingizda parol boʻyicha eslatuvchi soʻz koʻrsatiladi."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:81
 msgctxt "Password hint"
@@ -421,8 +419,8 @@ msgid ""
 "This password is very similar to your last one. Try changing some letters "
 "and numbers."
 msgstr ""
-"Bu parol sizning oxirgi parolingizga juda o'xshaydi. Ba'zi harf va "
-"raqamlarni o'zgartirib ko'ring."
+"Bu parol sizning oxirgi parolingizga juda oʻxshaydi. Ba'zi harf va "
+"raqamlarni oʻzgartirib koʻring."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:85
 #: gnome-initial-setup/pages/password/pw-utils.c:93
@@ -431,15 +429,16 @@ msgid ""
 "This password is very similar to your last one. Try changing the password a "
 "bit more."
 msgstr ""
-"Bu parol sizning oxirgi parolingizga juda o'xshaydi. Parolni biroz "
-"o'zgartirib ko'ring."
+"Bu parol sizning oxirgi parolingizga juda oʻxshaydi. Parolni biroz "
+"oʻzgartirib koʻring."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:87
 msgctxt "Password hint"
 msgid ""
-"This is a weak password. A password without your user name would be stronger."
+"This is a weak password. A password without your user name would be "
+"stronger."
 msgstr ""
-"Bu zaif parol. Sizning foydalanuvchi nomingizsiz parol kuchliroq bo'ladi."
+"Bu zaif parol. Sizning foydalanuvchi nomingizsiz parol kuchliroq boʻladi."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:89
 msgctxt "Password hint"
@@ -452,33 +451,35 @@ msgid ""
 "This is a weak password. Try to avoid some of the words included in the "
 "password."
 msgstr ""
-"Bu zaif parol. Parolga kiritilgan ba'zi so'zlardan qochishga harakat qiling."
+"Bu zaif parol. Parolga kiritilgan ba'zi soʻzlardan qochishga harakat qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:95
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid common words."
-msgstr "Bu zaif parol. Umumiy so'zlardan qochishga harakat qiling."
+msgstr "Bu zaif parol. Umumiy soʻzlardan qochishga harakat qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:97
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid reordering existing words."
 msgstr ""
-"Bu zaif parol. Mavjud so'zlarni qayta tartiblashdan qochishga harakat qiling."
+"Bu zaif parol. Mavjud soʻzlarni qayta tartiblashdan qochishga harakat "
+"qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:99
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more numbers."
-msgstr "Bu zaif parol. Ko'proq raqamlardan foydalanishga harakat qiling."
+msgstr "Bu zaif parol. Koʻproq raqamlardan foydalanishga harakat qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:101
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more uppercase letters."
-msgstr "Bu zaif parol. Ko'proq katta harflardan foydalanishga harakat qiling."
+msgstr "Bu zaif parol. Koʻproq katta harflardan foydalanishga harakat qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:103
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more lowercase letters."
-msgstr "Bu zaif parol. Ko'proq kichik harflardan foydalanishga harakat qiling."
+msgstr ""
+"Bu zaif parol. Koʻproq kichik harflardan foydalanishga harakat qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:105
 msgctxt "Password hint"
@@ -524,7 +525,7 @@ msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to add more letters, numbers and punctuation."
 msgstr ""
-"Bu zaif parol. Ko'proq harflar, raqamlar va tinish belgilarini qo'shishga "
+"Bu zaif parol. Koʻproq harflar, raqamlar va tinish belgilarini qoʻshishga "
 "harakat qiling."
 
 #: gnome-initial-setup/pages/password/pw-utils.c:117
@@ -537,9 +538,10 @@ msgstr ""
 #: gnome-initial-setup/pages/password/pw-utils.c:119
 msgctxt "Password hint"
 msgid ""
-"Adding more letters, numbers and punctuation will make the password stronger."
+"Adding more letters, numbers and punctuation will make the password "
+"stronger."
 msgstr ""
-"Ko'proq harflar, raqamlar va tinish belgilarini qo'shish parolni kuchliroq "
+"Koʻproq harflar, raqamlar va tinish belgilarini qoʻshish parolni kuchliroq "
 "qiladi."
 
 #. TRANSLATORS: this string describes a password as being poor
@@ -565,27 +567,25 @@ msgstr ""
 
 #. Translators: the first parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu".
-#.
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.c:70
 #, c-format
 msgid ""
 "Sends technical reports that do not contain personal information. Data is "
 "collected by %1$s (<a href='%2$s'>privacy policy</a>)."
 msgstr ""
-"Shaxsiy ma'lumotlarni o'z ichiga olmagan texnik hisobotlarni yuboradi. "
-"Maʼlumotlar %1$s tomonidan yigʻiladi ( <a href='%2$s'>maxfiylik siyosati</"
-"a> )."
+"Shaxsiy ma'lumotlarni oʻz ichiga olmagan texnik hisobotlarni yuboradi. "
+"Maʼlumotlar %1$s tomonidan yigʻiladi ( <a href='%2$s'>maxfiylik siyosati</a>"
+" )."
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu".
-#.
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.c:82
 #, c-format
 msgid ""
 "Sends technical reports that do not contain personal information. Data is "
 "collected by %s."
 msgstr ""
-"Shaxsiy ma'lumotlarni o'z ichiga olmagan texnik hisobotlarni yuboradi. "
+"Shaxsiy ma'lumotlarni oʻz ichiga olmagan texnik hisobotlarni yuboradi. "
 "Maʼlumotlar %s tomonidan yigʻiladi."
 
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.c:125
@@ -608,8 +608,8 @@ msgstr "Avtomatik muammolar haqida xabar berish"
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:97
 msgid "Privacy controls can be changed at any time from the Settings app."
 msgstr ""
-"Maxfiylik boshqaruvlarini istalgan vaqtda Sozlamalar ilovasidan oʻzgartirish "
-"mumkin."
+"Maxfiylik boshqaruvlarini istalgan vaqtda Sozlamalar ilovasidan oʻzgartirish"
+" mumkin."
 
 #: gnome-initial-setup/pages/software/gis-software-page.c:127
 #: gnome-initial-setup/pages/software/gis-software-page.ui:11
@@ -619,29 +619,29 @@ msgstr "Uchinchi tomon omborlari"
 #: gnome-initial-setup/pages/software/gis-software-page.c:129
 #, c-format
 msgid ""
-"Third-party repositories provide access to additional software from selected "
-"<a href='%s'>external sources</a>, including popular apps and drivers that "
+"Third-party repositories provide access to additional software from selected"
+" <a href='%s'>external sources</a>, including popular apps and drivers that "
 "are important for some devices. Some proprietary software is included."
 msgstr ""
 "Uchinchi tomon omborlari tanlangan <a href='%s'>tashqi manbalardan</a> "
-"qo'shimcha dasturlarga, jumladan, ba'zi qurilmalar uchun muhim bo'lgan "
+"qoʻshimcha dasturlarga, jumladan, ba'zi qurilmalar uchun muhim boʻlgan "
 "mashhur ilovalar va drayverlarga kirishni ta'minlaydi. Ba'zi xususiy "
 "dasturiy ta'minot kiritilgan."
 
 #: gnome-initial-setup/pages/software/gis-software-page.c:131
 msgid ""
-"Third-party repositories provide access to additional software from selected "
-"external sources, including popular apps and drivers that are important for "
-"some devices. Some proprietary software is included."
+"Third-party repositories provide access to additional software from selected"
+" external sources, including popular apps and drivers that are important for"
+" some devices. Some proprietary software is included."
 msgstr ""
-"Uchinchi tomon omborlari tanlangan tashqi manbalardan qo'shimcha "
-"dasturlarga, jumladan, ba'zi qurilmalar uchun muhim bo'lgan mashhur ilovalar "
-"va drayverlarga kirishni ta'minlaydi. Ba'zi xususiy dasturiy ta'minot "
+"Uchinchi tomon omborlari tanlangan tashqi manbalardan qoʻshimcha "
+"dasturlarga, jumladan, ba'zi qurilmalar uchun muhim boʻlgan mashhur ilovalar"
+" va drayverlarga kirishni ta'minlaydi. Ba'zi xususiy dasturiy ta'minot "
 "kiritilgan."
 
 #: gnome-initial-setup/pages/software/gis-software-page.c:143
 msgid "_Disable Third-Party Repositories"
-msgstr "_Uchinchi tomon repozitoriylarini o'chirib qo'ying"
+msgstr "_Uchinchi tomon repozitoriylarini oʻchirib qoʻying"
 
 #: gnome-initial-setup/pages/software/gis-software-page.c:148
 msgid "_Enable Third-Party Repositories"
@@ -649,7 +649,7 @@ msgstr "_Uchinchi tomon omborlarini yoqish"
 
 #: gnome-initial-setup/pages/summary/gis-summary-page.c:211
 msgid "Setup Failed"
-msgstr "Sozlab bo‘lmadi"
+msgstr "Sozlab boʻlmadi"
 
 #: gnome-initial-setup/pages/summary/gis-summary-page.c:213
 msgid "Close"
@@ -684,10 +684,11 @@ msgid "Search cities"
 msgstr "Shaharlarni qidirish"
 
 #. Recurse, adding the ADM1 name to the country name
-#. Translators: this is the name of a location followed by a region, for example:
+#. Translators: this is the name of a location followed by a region, for
+#. example:
 #. * 'London, United Kingdom'
-#. * You shouldn't need to translate this string unless the language has a different comma.
-#.
+#. * You shouldn't need to translate this string unless the language has a
+#. different comma.
 #: gnome-initial-setup/pages/timezone/gis-location-entry.c:557
 #: gnome-initial-setup/pages/timezone/gis-location-entry.c:589
 #, c-format
@@ -703,7 +704,6 @@ msgstr "%s, %s"
 
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
-#.
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.c:296
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
@@ -740,8 +740,8 @@ msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
 msgstr ""
-"Agar joylashuvingiz topilsa, vaqt mintaqasi avtomatik ravishda o'rnatiladi. "
-"Siz o'zingiz belgilash uchun shaharni ham qidirishingiz mumkin."
+"Agar joylashuvingiz topilsa, vaqt mintaqasi avtomatik ravishda oʻrnatiladi. "
+"Siz oʻzingiz belgilash uchun shaharni ham qidirishingiz mumkin."
 
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:49
 msgid "Please search for a nearby city"
@@ -754,7 +754,6 @@ msgstr "Yaqin atrofdagi shaharni qidiring"
 #. * space (U200a) to improve the spacing in the title, which you can
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
-#.
 #: gnome-initial-setup/pages/welcome/gis-welcome-page.c:62
 #, c-format
 msgid "Welcome to %s !"
@@ -762,7 +761,7 @@ msgstr "%s ga xush kelibsiz"
 
 #: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:4
 msgid "Setup"
-msgstr "O'rnatish"
+msgstr "Oʻrnatish"
 
 #: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:32
 msgid ""
@@ -786,27 +785,22 @@ msgstr "OEM rejimini majburlash"
 
 #: po/EXTRA_STRINGS.sh:3
 msgid "Try or Install?"
-msgstr "Sinab ko'ring yoki o'rnatingmi?"
+msgstr "Sinab koʻring yoki oʻrnatingmi?"
 
 #: po/EXTRA_STRINGS.sh:4
 #, sh-format
 msgid ""
-"You can try a temporary version of ${NAME} without making changes to the "
-"computer. If you decide to install later, just launch the installer from the "
-"Activities view.\n"
+"You can try a temporary version of ${NAME} without making changes to the computer. If you decide to install later, just launch the installer from the Activities view.\n"
 "\n"
 "        Alternatively, choose install to launch the installer."
 msgstr ""
-"Siz ${NAME} ning vaqtinchalik versiyasini kompyuterga oʻzgartirish "
-"kiritmasdan sinab koʻrishingiz mumkin. Agar siz keyinroq o'rnatishga qaror "
-"qilsangiz, o'rnatuvchini Faoliyatlar ko'rinishidan ishga tushiring.\n"
+"Siz ${NAME} ning vaqtinchalik versiyasini kompyuterga oʻzgartirish kiritmasdan sinab koʻrishingiz mumkin. Agar siz keyinroq oʻrnatishga qaror qilsangiz, oʻrnatuvchini Faoliyatlar koʻrinishidan ishga tushiring.\n"
 "\n"
-"        Shu bilan bir qatorda, o'rnatuvchini ishga tushirish uchun o'rnatish-"
-"ni tanlang."
+"        Shu bilan bir qatorda, oʻrnatuvchini ishga tushirish uchun oʻrnatish-ni tanlang."
 
 #: po/EXTRA_STRINGS.sh:7
 msgid "Install to Disk…"
-msgstr "Diskka o'rnatish…"
+msgstr "Diskka oʻrnatish…"
 
 #: po/EXTRA_STRINGS.sh:8
 #, sh-format

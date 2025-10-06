@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-"
-"settings/-/issues\n"
-"POT-Creation-Date: 2025-10-04 08:09+0000\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
+"POT-Creation-Date: 2025-10-05 10:34+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -23,7 +22,8 @@ msgstr ""
 msgid "Mobile Settings"
 msgstr "Mobil sozlamalar"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons. The list MUST also end with a semicolon.
 #: data/mobi.phosh.MobileSettings.desktop.in:12
 msgid "Mobile;Preferences;MobileSettings;"
 msgstr "Mobil;Sozlamalar;Mobil sozlamalari;"
@@ -61,7 +61,8 @@ msgstr "Fikr-mulohaza paneli"
 msgid "Critical temperature is %.2f°C"
 msgstr "Kritik harorat %.2f°C"
 
-#. Translators "Librem 5" is a smartphone model, usually no need to translate it
+#. Translators "Librem 5" is a smartphone model, usually no need to translate
+#. it
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:6
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:17
 msgid "Librem 5"
@@ -74,7 +75,7 @@ msgstr "U-Boot"
 
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:33
 msgid "Suspend device"
-msgstr "Qurilmani to'xtatib turish"
+msgstr "Qurilmani toʻxtatib turish"
 
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:35
 msgid "Suspend is experimental"
@@ -82,7 +83,7 @@ msgstr "Toʻxtatib turish eksperimental hisoblanadi"
 
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:38
 msgid "suspend now"
-msgstr "hozir to'xtating"
+msgstr "hozir toʻxtating"
 
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:53
 msgid "Temperatures"
@@ -105,7 +106,7 @@ msgstr "VPU"
 
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:113
 msgid "Fuel Gauge"
-msgstr "Yoqilg'i o'lchagich"
+msgstr "Yoqilgʻi oʻlchagich"
 
 #: plugins/librem5/ui/ms-plugin-librem5-panel.ui:131
 msgid "Battery"
@@ -124,7 +125,7 @@ msgstr "Umumiy"
 #: src/gtk/help-overlay.ui:14
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: src/gtk/help-overlay.ui:20
 msgctxt "shortcut window"
@@ -135,7 +136,8 @@ msgstr "Chiqish"
 msgid "- Manage your mobile settings"
 msgstr "- Mobil sozlamalaringizni boshqaring"
 
-#. Translators: Replace "translator-credits" with your names, one name per line
+#. Translators: Replace "translator-credits" with your names, one name per
+#. line
 #: src/mobile-settings-application.c:447
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
@@ -172,7 +174,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Emergency Calls"
 msgid "Emergency Alerts Volume"
-msgstr "Favqulodda qo'ng'iroqlar"
+msgstr "Favqulodda qoʻngʻiroqlar"
 
 #: src/ms-cb-message-row.c:114
 msgid "Message of unknown severity"
@@ -210,7 +212,8 @@ msgstr "normal"
 msgid "critical"
 msgstr "juda muhim xato"
 
-#. Translators: "none" is the default for notifications with no specified importance
+#. Translators: "none" is the default for notifications with no specified
+#. importance
 #: src/ms-feedback-panel.c:426
 msgid "none"
 msgstr "mavjud emas"
@@ -223,7 +226,7 @@ msgstr "Mobil sozlamalar"
 
 #: src/ms-lockscreen-panel.c:62
 msgid "Failed to set lockscreen wallpaper"
-msgstr "Bloklangan ekran fon rasmini o‘rnatib bo‘lmadi"
+msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
 
 #. Translators: The default completer
 #: src/ms-osk-panel.c:746
@@ -232,7 +235,7 @@ msgstr "Odatiy"
 
 #: src/ms-osk-panel.c:747
 msgid "The default completer selected by the OSK"
-msgstr "OSK tomonidan tanlangan standart to'ldiruvchi"
+msgstr "OSK tomonidan tanlangan standart toʻldiruvchi"
 
 #: src/ms-osk-panel.c:750
 msgid "No information available for this completer"
@@ -248,7 +251,7 @@ msgstr "Sevimlilarni tiklash"
 #, fuzzy
 #| msgid "Set list of favorite apps back to the default"
 msgid "Reset list of favorite applications to the default?"
-msgstr "Sevimli ilovalar ro'yxatini standart holatga qaytaring"
+msgstr "Sevimli ilovalar roʻyxatini standart holatga qaytaring"
 
 #: src/ms-overview-panel.c:75
 #, fuzzy
@@ -266,7 +269,7 @@ msgstr "Qayta tiklash"
 #, fuzzy
 #| msgid "Failed to set lockscreen wallpaper"
 msgid "Failed to set wallpaper for overview"
-msgstr "Bloklangan ekran fon rasmini o‘rnatib bo‘lmadi"
+msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
 
 #. Translators: "Normal" represents the standard or default orientation
 #: src/ms-sensor-panel.c:93
@@ -278,17 +281,20 @@ msgstr "Oddiy"
 msgid "Bottom up"
 msgstr "Ostin-ustin"
 
-#. Translators: "Left up" indicates the orientation of a device with left side up
+#. Translators: "Left up" indicates the orientation of a device with left side
+#. up
 #: src/ms-sensor-panel.c:99
 msgid "Left up"
 msgstr "Chapga"
 
-#. Translators: "Right up" indicates the orientation of a device with right side up
+#. Translators: "Right up" indicates the orientation of a device with right
+#. side up
 #: src/ms-sensor-panel.c:102
 msgid "Right up"
 msgstr "Yuqoriga"
 
-#. Translators: "Undefined" is shown when the orientation of the device is not recognized
+#. Translators: "Undefined" is shown when the orientation of the device is not
+#. recognized
 #: src/ms-sensor-panel.c:105
 msgid "Undefined"
 msgstr "Nomalum"
@@ -307,19 +313,22 @@ msgstr "Uzoq"
 msgid "Updating…"
 msgstr "Yangilanmoqda…"
 
-#. Translators: "Not available" indicates that the proximity sensor data is unavailable
+#. Translators: "Not available" indicates that the proximity sensor data is
+#. unavailable
 #: src/ms-sensor-panel.c:277
 msgctxt "proximity sensor data"
 msgid "Not available"
 msgstr "Mavjud emas"
 
-#. Translators: "Not available" indicates that the light sensor data is unavailable
+#. Translators: "Not available" indicates that the light sensor data is
+#. unavailable
 #: src/ms-sensor-panel.c:279
 msgctxt "light sensor data"
 msgid "Not available"
 msgstr "Mavjud emas"
 
-#. Translators: "Not available" indicates that the accelerometer sensor data is unavailable
+#. Translators: "Not available" indicates that the accelerometer sensor data
+#. is unavailable
 #: src/ms-sensor-panel.c:281
 msgctxt "accelerometer sensor data"
 msgid "Not available"
@@ -334,7 +343,8 @@ msgstr "Xususiy"
 msgid "Choose sound file"
 msgstr "Ovoz faylini tanlang"
 
-#. Translators: "Full" represents the feedback profile with maximum haptic, led and sounds
+#. Translators: "Full" represents the feedback profile with maximum haptic,
+#. led and sounds
 #: src/ms-util.c:170
 msgid "Full"
 msgstr "Toʻliq"
@@ -374,7 +384,7 @@ msgstr "Mobil sozlamalarga xush kelibsiz"
 
 #: src/ui/mobile-settings-window.ui:105
 msgid "Tweak advanced mobile settings"
-msgstr "Kengaytirilgan mobil sozlamalarni o'zgartiring"
+msgstr "Kengaytirilgan mobil sozlamalarni oʻzgartiring"
 
 #: src/ui/mobile-settings-window.ui:113
 msgid "Top Bar"
@@ -420,7 +430,7 @@ msgstr "Tovushlar"
 #, fuzzy
 #| msgid "Screen Wakeup"
 msgid "Wakeup"
-msgstr "Ekranni uyg'otish"
+msgstr "Ekranni uygʻotish"
 
 #: src/ui/mobile-settings-window.ui:165
 msgid "Vibra"
@@ -493,13 +503,13 @@ msgstr "Matnni yakunlash"
 #, fuzzy
 #| msgid "Emergency Calls"
 msgid "Emergency Alerts"
-msgstr "Favqulodda qo'ng'iroqlar"
+msgstr "Favqulodda qoʻngʻiroqlar"
 
 #: src/ui/mobile-settings-window.ui:267 src/ui/mobile-settings-window.ui:307
 #, fuzzy
 #| msgid "Emergency Calls"
 msgid "Emergency"
-msgstr "Favqulodda qo'ng'iroqlar"
+msgstr "Favqulodda qoʻngʻiroqlar"
 
 #: src/ui/mobile-settings-window.ui:268
 msgid "Cell Broadcast"
@@ -525,7 +535,7 @@ msgstr "Eksperimental xususiyatlar"
 #, fuzzy
 #| msgid "Suspend device"
 msgid "Suspend"
-msgstr "Qurilmani to'xtatib turish"
+msgstr "Qurilmani toʻxtatib turish"
 
 #: src/ui/mobile-settings-window.ui:309
 #, fuzzy
@@ -607,7 +617,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Emergency Calls"
 msgid "No emergency alerts yet"
-msgstr "Favqulodda qo'ng'iroqlar"
+msgstr "Favqulodda qoʻngʻiroqlar"
 
 #: src/ui/ms-audio-device-row.ui:32
 msgid "Volume"
@@ -648,7 +658,7 @@ msgstr "Hech qanday maʼlum dok aniqlanmadi"
 
 #: src/ui/ms-convergence-panel.ui:29
 msgid "Map built-in touch screen"
-msgstr "Xarita o'rnatilgan sensorli ekran"
+msgstr "Xarita oʻrnatilgan sensorli ekran"
 
 #. Translators: setting to map built-in touch screen
 #: src/ui/ms-convergence-panel.ui:36
@@ -662,18 +672,18 @@ msgstr "Eksperimental xususiyatlar"
 
 #: src/ui/ms-features-panel.ui:12
 msgid "Features not yet deemed fully stable"
-msgstr "Xususiyatlar hali to'liq barqaror deb hisoblanmagan"
+msgstr "Xususiyatlar hali toʻliq barqaror deb hisoblanmagan"
 
 #: src/ui/ms-features-panel.ui:16
 msgid "Emergency Calls"
-msgstr "Favqulodda qo'ng'iroqlar"
+msgstr "Favqulodda qoʻngʻiroqlar"
 
 #: src/ui/ms-features-panel.ui:17
 msgid ""
 "Enable emergency calls. Please only enable this if you safely can ensure "
 "that it's working with your provider."
 msgstr ""
-"Favqulodda qo'ng'iroqlarni yoqing. Iltimos, buni faqat provayderingiz bilan "
+"Favqulodda qoʻngʻiroqlarni yoqing. Iltimos, buni faqat provayderingiz bilan "
 "ishlayotganiga ishonch hosil qilsangizgina yoqing."
 
 #. Translators: setting to enable emergency calls
@@ -684,15 +694,15 @@ msgstr "Yoqilgan"
 
 #: src/ui/ms-features-panel.ui:32
 msgid "Enable suspend via the system menu"
-msgstr "Tizim menyusi orqali to'xtatib turishni yoqing"
+msgstr "Tizim menyusi orqali toʻxtatib turishni yoqing"
 
 #: src/ui/ms-features-panel.ui:34
 msgid ""
 "Please only enable this if you're aware of the limitations like data "
 "connection loss or missed alarms"
 msgstr ""
-"Iltimos, buni faqat maʼlumotlar ulanishi yoʻqolishi yoki oʻtkazib yuborilgan "
-"signallar kabi cheklovlardan xabardor boʻlsangiz, yoqing"
+"Iltimos, buni faqat maʼlumotlar ulanishi yoʻqolishi yoki oʻtkazib yuborilgan"
+" signallar kabi cheklovlardan xabardor boʻlsangiz, yoqing"
 
 #. Translators: setting to enable suspend via the system menu
 #: src/ui/ms-features-panel.ui:40
@@ -722,11 +732,11 @@ msgstr "Global maksimal qayta aloqa profili"
 
 #: src/ui/ms-feedback-panel.ui:46
 msgid "Prefer flash"
-msgstr "Chiroqni afzal ko'ring"
+msgstr "Chiroqni afzal koʻring"
 
 #: src/ui/ms-feedback-panel.ui:47
 msgid "Prefer camera flash over status LED when available"
-msgstr "Mavjud bo'lsa, holat LED'idan ko'ra kamera chirog'ini afzal ko'ring"
+msgstr "Mavjud boʻlsa, holat LED'idan koʻra kamera chirogʻini afzal koʻring"
 
 #. Translators: Vol- means the 'Lower Volume' key
 #: src/ui/ms-feedback-panel.ui:53
@@ -735,10 +745,11 @@ msgstr "Ovozdagi sukunat"
 
 #: src/ui/ms-feedback-panel.ui:54
 msgid ""
-"When locked put the phone in silent mode when pressing Vol- on incoming calls"
+"When locked put the phone in silent mode when pressing Vol- on incoming "
+"calls"
 msgstr ""
-"Qulflanganda, kiruvchi qo'ng'iroqlar ovozini bosganda telefonni jim rejimga "
-"qo'ying"
+"Qulflanganda, kiruvchi qoʻngʻiroqlar ovozini bosganda telefonni jim rejimga "
+"qoʻying"
 
 #. Translators: Strength of the haptic motor
 #: src/ui/ms-feedback-panel.ui:60
@@ -759,7 +770,7 @@ msgstr "Muayyan hodisalar uchun ishlatiladigan ovoz"
 
 #: src/ui/ms-feedback-panel.ui:102
 msgid "Phone Calls"
-msgstr "Telefon qo'ng'iroqlari"
+msgstr "Telefon qoʻngʻiroqlari"
 
 #: src/ui/ms-feedback-panel.ui:108
 msgid "SMS"
@@ -771,7 +782,7 @@ msgstr "Tezkor xabarlar"
 
 #: src/ui/ms-feedback-panel.ui:125
 msgid "Screen Wakeup"
-msgstr "Ekranni uyg'otish"
+msgstr "Ekranni uygʻotish"
 
 #: src/ui/ms-feedback-panel.ui:128
 msgid "Notification urgency that lights up the screen"
@@ -787,7 +798,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Phone Calls"
 msgid "Calls"
-msgstr "Telefon qo'ng'iroqlari"
+msgstr "Telefon qoʻngʻiroqlari"
 
 #: src/ui/ms-feedback-panel.ui:150
 msgid "A generic audio or video call notification"
@@ -888,17 +899,18 @@ msgstr "Fon rasmi foydalaning"
 
 #: src/ui/ms-lockscreen-panel.ui:71 src/ui/ms-overview-panel.ui:96
 msgid "Whether to show a colorful wallpaper"
-msgstr "Rangli fon rasmi ko'rsatish kerakmi"
+msgstr "Rangli fon rasmi koʻrsatish kerakmi"
 
 #: src/ui/ms-lockscreen-panel.ui:80
 msgid "Additional widgets for the lock screen"
-msgstr "Bloklash ekrani uchun qo'shimcha vidjetlar"
+msgstr "Bloklash ekrani uchun qoʻshimcha vidjetlar"
 
 #. Translators: Title for a dialog to add a new on-screen keyboard layout
-#. Translators: Label for a button that allows the user to add a new keyboard layout
+#. Translators: Label for a button that allows the user to add a new keyboard
+#. layout
 #: src/ui/ms-osk-add-layout-dialog.ui:5 src/ui/ms-osk-layout-prefs.ui:14
 msgid "Add Layout"
-msgstr "Layout qo'shish"
+msgstr "Layout qoʻshish"
 
 #: src/ui/ms-osk-add-layout-dialog.ui:14
 #: src/ui/ms-osk-add-shortcut-dialog.ui:17
@@ -908,14 +920,15 @@ msgstr "Bekor qilish"
 #: src/ui/ms-osk-add-layout-dialog.ui:20
 #: src/ui/ms-osk-add-shortcut-dialog.ui:23
 msgid "Add"
-msgstr "Qo'shish"
+msgstr "Qoʻshish"
 
 #: src/ui/ms-osk-add-layout-dialog.ui:40
 msgid "Language"
 msgstr "Til"
 
 #. Translators: Title for a dialog to add a new on-screen keyboard shortcut
-#. Translators: Label for a button that allows the user to add a new keyboard shortcut
+#. Translators: Label for a button that allows the user to add a new keyboard
+#. shortcut
 #: src/ui/ms-osk-add-shortcut-dialog.ui:7 src/ui/ms-osk-panel.ui:160
 #, fuzzy
 #| msgid "Shortcuts"
@@ -933,7 +946,7 @@ msgstr "Ovoz faylini tanlang"
 #| msgctxt "shortcut window"
 #| msgid "Show Shortcuts"
 msgid "Choose Shortcut Key"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: src/ui/ms-osk-add-shortcut-dialog.ui:140
 msgid "Enter Shortcut Key"
@@ -960,7 +973,8 @@ msgctxt "on screen keyboard"
 msgid "Layouts"
 msgstr "Tartiblar"
 
-#. Translators: Message displayed when there are no keyboard layouts configured
+#. Translators: Message displayed when there are no keyboard layouts
+#. configured
 #: src/ui/ms-osk-layout-prefs.ui:30
 msgid "No Layouts configured"
 msgstr "Hech qanday tartib sozlanmagan"
@@ -979,7 +993,7 @@ msgstr "Pastga siljiting"
 
 #: src/ui/ms-osk-layout-row.ui:49
 msgid "Remove"
-msgstr "O'chirish"
+msgstr "Oʻchirish"
 
 #: src/ui/ms-osk-panel.ui:13
 msgid "Enable _On Screen Keyboard"
@@ -987,7 +1001,7 @@ msgstr "_On Screen klaviaturasini yoqing"
 
 #: src/ui/ms-osk-panel.ui:14
 msgid "Whether to show the on screen keyboard when needed"
-msgstr "Zarur bo'lganda ekran klaviaturasini ko'rsatish kerakmi"
+msgstr "Zarur boʻlganda ekran klaviaturasini koʻrsatish kerakmi"
 
 #: src/ui/ms-osk-panel.ui:20
 msgid "Unfold long-press"
@@ -995,12 +1009,14 @@ msgstr "Uzoq bosib turing"
 
 #: src/ui/ms-osk-panel.ui:21
 msgid ""
-"How long to press the center of the home bar to unfold the on screen keyboard"
+"How long to press the center of the home bar to unfold the on screen "
+"keyboard"
 msgstr ""
-"Ekrandagi klaviaturani ochish uchun uy satrining markazini qancha vaqt bosib "
-"turish kerak"
+"Ekrandagi klaviaturani ochish uchun uy satrining markazini qancha vaqt bosib"
+" turish kerak"
 
-#. Translators: abbreviation for less than or equal to 0.5 second interval of time
+#. Translators: abbreviation for less than or equal to 0.5 second interval of
+#. time
 #: src/ui/ms-osk-panel.ui:26
 msgid "short"
 msgstr "qisqa"
@@ -1011,7 +1027,8 @@ msgctxt "press interval"
 msgid "normal"
 msgstr "normal"
 
-#. Translators: abbreviation for greater than or equal to 1.5 second interval of time
+#. Translators: abbreviation for greater than or equal to 1.5 second interval
+#. of time
 #: src/ui/ms-osk-panel.ui:30
 msgid "long"
 msgstr "uzoq"
@@ -1024,7 +1041,7 @@ msgstr "Uskuna klaviaturasiga e'tibor bermang"
 msgid ""
 "Whether to show the on screen keyboard when a physical keyboard is present"
 msgstr ""
-"Jismoniy klaviatura mavjud bo'lganda ekran klaviaturasini ko'rsatish kerakmi"
+"Jismoniy klaviatura mavjud boʻlganda ekran klaviaturasini koʻrsatish kerakmi"
 
 #: src/ui/ms-osk-panel.ui:46
 msgid "Key indicator popup"
@@ -1040,7 +1057,7 @@ msgstr "Portret rejimida klaviatura balandligi"
 
 #: src/ui/ms-osk-panel.ui:60
 msgid "When the screen is taller than wide"
-msgstr "Ekran kengligidan balandroq bo'lganda"
+msgstr "Ekran kengligidan balandroq boʻlganda"
 
 #: src/ui/ms-osk-panel.ui:76
 msgid "Keyboard height in landscape mode"
@@ -1048,7 +1065,7 @@ msgstr "Landshaft rejimida klaviatura balandligi"
 
 #: src/ui/ms-osk-panel.ui:77
 msgid "When the screen is wider than tall"
-msgstr "Ekran balanddan kengroq bo'lganda"
+msgstr "Ekran balanddan kengroq boʻlganda"
 
 #: src/ui/ms-osk-panel.ui:104
 msgid "Keep physical size constant"
@@ -1072,15 +1089,15 @@ msgstr "Matnni yakunlash"
 
 #: src/ui/ms-osk-panel.ui:125
 msgid "Opportunistic word completion"
-msgstr "Opportunistik so'zni to'ldirish"
+msgstr "Opportunistik soʻzni toʻldirish"
 
 #: src/ui/ms-osk-panel.ui:126
 msgid "Enable word completion when the app indicates it is useful"
-msgstr "Ilova foydali ekanligini ko'rsatsa, so'zni yakunlashni yoqing"
+msgstr "Ilova foydali ekanligini koʻrsatsa, soʻzni yakunlashni yoqing"
 
 #: src/ui/ms-osk-panel.ui:133
 msgid "Toggle via OSK menu"
-msgstr "OSK menyusi orqali o'tish"
+msgstr "OSK menyusi orqali oʻtish"
 
 #: src/ui/ms-osk-panel.ui:134
 msgid "Allow to toggle word completion via the keyboard's menu button"
@@ -1124,7 +1141,7 @@ msgstr "Sevimlilarni tiklash"
 
 #: src/ui/ms-overview-panel.ui:49
 msgid "Set list of favorite apps back to the default"
-msgstr "Sevimli ilovalar ro'yxatini standart holatga qaytaring"
+msgstr "Sevimli ilovalar roʻyxatini standart holatga qaytaring"
 
 #: src/ui/ms-overview-panel.ui:53
 msgid "Reset"
@@ -1136,7 +1153,7 @@ msgstr "Mobil ilovalarni filtrlash"
 
 #: src/ui/ms-overview-panel.ui:67
 msgid "Set Application Filter Mode"
-msgstr "Ilova filtri rejimini o'rnating"
+msgstr "Ilova filtri rejimini oʻrnating"
 
 #: src/ui/ms-overview-panel.ui:68
 msgid "Show only mobile apps in the overview"
@@ -1152,15 +1169,15 @@ msgstr "Sensor topilmadi"
 
 #: src/ui/ms-sensor-panel.ui:17
 msgid ""
-"Either there are no sensors installed on your device or they are disabled by "
-"a killswitch."
+"Either there are no sensors installed on your device or they are disabled by"
+" a killswitch."
 msgstr ""
-"Yoki qurilmangizda sensorlar o'rnatilmagan yoki ular o'chirish tugmasi "
-"tomonidan o'chirilgan."
+"Yoki qurilmangizda sensorlar oʻrnatilmagan yoki ular oʻchirish tugmasi "
+"tomonidan oʻchirilgan."
 
 #: src/ui/ms-sensor-panel.ui:32
 msgid "Sensor Readings"
-msgstr "Sensor ko'rsatkichlari"
+msgstr "Sensor koʻrsatkichlari"
 
 #: src/ui/ms-sensor-panel.ui:40
 msgid "Proximity"
@@ -1180,11 +1197,11 @@ msgstr "Avtomatik yuqori kontrast"
 
 #: src/ui/ms-sensor-panel.ui:73
 msgid "Controlled by the Ambient Light Sensor"
-msgstr "Atrof muhit yorug'ligi sensori tomonidan boshqariladi"
+msgstr "Atrof muhit yorugʻligi sensori tomonidan boshqariladi"
 
 #: src/ui/ms-sensor-panel.ui:84
 msgid "Light intensity threshold"
-msgstr "Yorug'lik intensivligi chegarasi"
+msgstr "Yorugʻlik intensivligi chegarasi"
 
 #: src/ui/ms-sensor-panel.ui:85
 msgid "Theme will switch to high contrast above the threshold"
@@ -1200,11 +1217,11 @@ msgstr "UI elementlari"
 
 #: src/ui/ms-topbar-panel.ui:16
 msgid "Show battery percentage"
-msgstr "Batareya foizini ko'rsatish"
+msgstr "Batareya foizini koʻrsatish"
 
 #: src/ui/ms-topbar-panel.ui:17
 msgid "Show exact charge level in the top bar"
-msgstr "Yuqori satrda aniq zaryad darajasini ko'rsating"
+msgstr "Yuqori satrda aniq zaryad darajasini koʻrsating"
 
 #: src/ui/ms-topbar-panel.ui:23
 msgid "Avoid notches"
@@ -1212,11 +1229,11 @@ msgstr "Teshiklardan saqlaning"
 
 #: src/ui/ms-topbar-panel.ui:24
 msgid "Don't place UI elements beneath notches and display cutouts"
-msgstr "UI elementlarini tirqishlar va displey kesiklari ostiga qo'ymang"
+msgstr "UI elementlarini tirqishlar va displey kesiklari ostiga qoʻymang"
 
 #: src/ui/ms-topbar-panel.ui:35
 msgid "Organize your additional Quick Settings"
-msgstr "Qo'shimcha tezkor sozlamalarni tartibga soling"
+msgstr "Qoʻshimcha tezkor sozlamalarni tartibga soling"
 
 #~ msgid "Applications"
 #~ msgstr "Ilovalar"

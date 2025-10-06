@@ -42,7 +42,7 @@ msgstr "Ushbu oxirgi nuqtada ishlatiladigan ontologiya nomini belgilang"
 
 #: src/cli/tracker-endpoint.c:70
 msgid "Specify a path to an ontology to be used in this endpoint"
-msgstr "Ushbu oxirgi nuqtada ishlatiladigan ontologiyaga yo'lni belgilang"
+msgstr "Ushbu oxirgi nuqtada ishlatiladigan ontologiyaga yoʻlni belgilang"
 
 #: src/cli/tracker-endpoint.c:74
 msgid "HTTP port"
@@ -50,7 +50,8 @@ msgstr "HTTP porti"
 
 #: src/cli/tracker-endpoint.c:78
 msgid "Whether to only allow HTTP connections in the loopback device"
-msgstr "Orqaga aylanish qurilmasida faqat HTTP ulanishlariga ruxsat beriladimi"
+msgstr ""
+"Orqaga aylanish qurilmasida faqat HTTP ulanishlariga ruxsat beriladimi"
 
 #: src/cli/tracker-endpoint.c:82
 msgid "Use session bus"
@@ -63,11 +64,11 @@ msgstr "Tizim avtobusidan foydalaning"
 
 #: src/cli/tracker-endpoint.c:90
 msgid "List SPARQL endpoints available in DBus"
-msgstr "DBus-da mavjud bo'lgan SPARQL so'nggi nuqtalarini ro'yxatlang"
+msgstr "DBus-da mavjud boʻlgan SPARQL soʻnggi nuqtalarini roʻyxatlang"
 
 #: src/cli/tracker-endpoint.c:94
 msgid "List network-local HTTP SPARQL endpoints"
-msgstr "Tarmoqning mahalliy HTTP SPARQL so'nggi nuqtalarini ro'yxatlang"
+msgstr "Tarmoqning mahalliy HTTP SPARQL soʻnggi nuqtalarini roʻyxatlang"
 
 #. TRANSLATORS: these are commandline arguments
 #: src/cli/tracker-endpoint.c:115
@@ -77,13 +78,12 @@ msgstr "--list faqat --session yoki --system bilan ishlatilishi mumkin"
 #. TRANSLATORS: those are commandline arguments
 #: src/cli/tracker-endpoint.c:121
 msgid "One “ontology” or “ontology-path” option should be provided"
-msgstr ""
-"Bitta \"ontologiya\" yoki \"ontologiya-yo'l\" variantini taqdim etish kerak"
+msgstr "Bitta \"ontologiya\" yoki \"ontologiya-yoʻl\" variantini taqdim etish kerak"
 
 #. TRANSLATORS: those are commandline arguments
 #: src/cli/tracker-endpoint.c:127
 msgid "--http-port cannot be used with --dbus-service"
-msgstr "--http-portni --dbus-service bilan ishlatib bo'lmaydi"
+msgstr "--http-portni --dbus-service bilan ishlatib boʻlmaydi"
 
 #: src/cli/tracker-endpoint.c:198
 #, fuzzy, c-format
@@ -95,7 +95,7 @@ msgstr "HTTP oxirgi nuqtasi yaratilmoqda: %s…\n"
 #: src/cli/tracker-webide.c:100
 msgid "Listening to SPARQL commands. Press Ctrl-C to stop."
 msgstr ""
-"SPARQL buyruqlarini tinglash. To'xtatish uchun Ctrl-C tugmalarini bosing."
+"SPARQL buyruqlarini tinglash. Toʻxtatish uchun Ctrl-C tugmalarini bosing."
 
 #. Carriage return, so we paper over the ^C
 #: src/cli/tracker-endpoint.c:226 src/cli/tracker-endpoint.c:296
@@ -114,7 +114,7 @@ msgstr "DBus nomiga ega boʻlmadi"
 
 #: src/cli/tracker-endpoint.c:291
 msgid "DBus name lost"
-msgstr "DBus nomi yo'qolgan"
+msgstr "DBus nomi yoʻqolgan"
 
 #: src/cli/tracker-endpoint.c:608 src/cli/tracker-export.c:214
 #: src/cli/tracker-import.c:196 src/cli/tracker-introspect.c:1025
@@ -136,8 +136,8 @@ msgstr "Xotirada ma'lumotlar bazasini yaratish"
 #: src/cli/tracker-endpoint.c:683
 #, c-format
 msgid ""
-"New database created. Use the “--dbus-service” option to share this database "
-"on a message bus."
+"New database created. Use the “--dbus-service” option to share this database"
+" on a message bus."
 msgstr ""
 "Yangi ma'lumotlar bazasi yaratildi. Ushbu ma'lumotlar bazasini xabarlar "
 "avtobusida almashish uchun \"--dbus-service\" opsiyasidan foydalaning."
@@ -145,7 +145,8 @@ msgstr ""
 #: src/cli/tracker-export.c:47 src/cli/tracker-import.c:47
 #: src/cli/tracker-import.c:62 src/cli/tracker-import.c:63
 #: src/cli/tracker-introspect.c:99 src/cli/tracker-query.c:53
-#: src/cli/tracker-query.c:65 src/cli/tracker-sql.c:46 src/cli/tracker-sql.c:50
+#: src/cli/tracker-query.c:65 src/cli/tracker-sql.c:46
+#: src/cli/tracker-sql.c:50
 #, fuzzy
 msgid "FILE"
 msgstr "FILE"
@@ -181,7 +182,7 @@ msgstr "Masofaviy xizmat URI"
 #: src/cli/tracker-export.c:62
 msgid "Output TriG format which includes named graph information"
 msgstr ""
-"Nomlangan grafik ma'lumotlarini o'z ichiga olgan TriG formatini chiqaring"
+"Nomlangan grafik ma'lumotlarini oʻz ichiga olgan TriG formatini chiqaring"
 
 #: src/cli/tracker-export.c:66 src/cli/tracker-export.c:67
 #, fuzzy
@@ -192,7 +193,8 @@ msgstr "IRI"
 #: src/cli/tracker-export.c:92 src/cli/tracker-import.c:88
 #: src/cli/tracker-introspect.c:164 src/cli/tracker-query.c:105
 #, c-format
-msgid "Specify one “--database”, “--dbus-service” or “--remote-service” option"
+msgid ""
+"Specify one “--database”, “--dbus-service” or “--remote-service” option"
 msgstr ""
 "Bitta “—database”, “--dbus-service” yoki “--remote-service” opsiyalarini "
 "belgilang"
@@ -206,40 +208,40 @@ msgstr "Xato berilmagan"
 #: src/cli/tracker-export.c:136 src/cli/tracker-import.c:124
 #: src/cli/tracker-introspect.c:828 src/cli/tracker-query.c:344
 msgid "Could not establish a connection to Tracker"
-msgstr "Tracker bilan aloqa o‘rnatib bo‘lmadi"
+msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
 #: src/cli/tracker-export.c:179
 #, c-format
 msgid "Unsupported serialization format “%s”\n"
-msgstr "“%s” seriyali formati qo‘llab-quvvatlanmaydi\n"
+msgstr "“%s” seriyali formati qoʻllab-quvvatlanmaydi\n"
 
 #: src/cli/tracker-import.c:58
 msgid "Read TriG format which includes named graph information"
-msgstr "Grafik ma'lumotlarini o'z ichiga olgan TriG formatini o'qing"
+msgstr "Grafik ma'lumotlarini oʻz ichiga olgan TriG formatini oʻqing"
 
 #: src/cli/tracker-import.c:103 src/cli/tracker-import.c:141
 msgid "Could not run import"
-msgstr "Importni amalga oshirib bo‘lmadi"
+msgstr "Importni amalga oshirib boʻlmadi"
 
 #: src/cli/tracker-introspect.c:110
 msgid "Lists all available classes"
-msgstr "Barcha mavjud sinflar ro'yxati"
+msgstr "Barcha mavjud sinflar roʻyxati"
 
 #: src/cli/tracker-introspect.c:114
 msgid "Lists all available prefixes"
-msgstr "Barcha mavjud prefikslarni ko'rsatadi"
+msgstr "Barcha mavjud prefikslarni koʻrsatadi"
 
 #: src/cli/tracker-introspect.c:118
 msgid "Lists all classes which notify changes in the database"
 msgstr ""
-"Ma'lumotlar bazasidagi o'zgarishlar haqida xabar beradigan barcha sinflar "
-"ro'yxati"
+"Ma'lumotlar bazasidagi oʻzgarishlar haqida xabar beradigan barcha sinflar "
+"roʻyxati"
 
 #: src/cli/tracker-introspect.c:122
 msgid "List indexes used in database to improve performance"
 msgstr ""
 "Ishlashni yaxshilash uchun ma'lumotlar bazasida ishlatiladigan indekslarni "
-"sanab o'ting"
+"sanab oʻting"
 
 #: src/cli/tracker-introspect.c:125
 msgid "Retrieve all named graphs"
@@ -247,26 +249,26 @@ msgstr "Barcha nomlangan grafiklarni oling"
 
 #: src/cli/tracker-introspect.c:129
 msgid ""
-"Describe subclasses, superclasses (can be used with -s to highlight parts of "
-"the tree and -p to show properties)"
+"Describe subclasses, superclasses (can be used with -s to highlight parts of"
+" the tree and -p to show properties)"
 msgstr ""
 "Pastki sinflarni, yuqori sinflarni tavsiflang (daraxt qismlarini ajratib "
-"ko'rsatish uchun -s va xususiyatlarni ko'rsatish uchun -p bilan ishlatilishi "
-"mumkin)"
+"koʻrsatish uchun -s va xususiyatlarni koʻrsatish uchun -p bilan ishlatilishi"
+" mumkin)"
 
 #: src/cli/tracker-introspect.c:130 src/cli/tracker-introspect.c:134
 msgid "CLASS"
-msgstr "CreateObject da berilgan noto'g'ri upnp:class"
+msgstr "CreateObject da berilgan notoʻgʻri upnp:class"
 
 #: src/cli/tracker-introspect.c:133
 msgid "Lists all available properties"
-msgstr "Barcha mavjud xususiyatlar ro'yxati"
+msgstr "Barcha mavjud xususiyatlar roʻyxati"
 
 #: src/cli/tracker-introspect.c:137
 msgid ""
 "Search for a class or property and display more information (e.g. Document)"
 msgstr ""
-"Sinf yoki mulkni qidiring va qo'shimcha ma'lumotni ko'rsating (masalan, "
+"Sinf yoki mulkni qidiring va qoʻshimcha ma'lumotni koʻrsating (masalan, "
 "Hujjat)"
 
 #: src/cli/tracker-introspect.c:138
@@ -276,11 +278,11 @@ msgstr "KLASS/MULK"
 
 #: src/cli/tracker-introspect.c:716
 msgid "Could not create tree: subclass query failed"
-msgstr "Daraxt yaratib bo‘lmadi: pastki sinf so‘rovi bajarilmadi"
+msgstr "Daraxt yaratib boʻlmadi: pastki sinf soʻrovi bajarilmadi"
 
 #: src/cli/tracker-introspect.c:765
 msgid "Could not create tree: class properties query failed"
-msgstr "Daraxt yaratib bo‘lmadi: sinf xususiyatlari so‘rovi amalga oshmadi"
+msgstr "Daraxt yaratib boʻlmadi: sinf xususiyatlari soʻrovi amalga oshmadi"
 
 #: src/cli/tracker-introspect.c:848
 msgid "Could not search classes"
@@ -292,7 +294,7 @@ msgstr "Sinflar"
 
 #: src/cli/tracker-introspect.c:868
 msgid "Could not search properties"
-msgstr "Xususiyatlarni qidirib bo'lmadi"
+msgstr "Xususiyatlarni qidirib boʻlmadi"
 
 #: src/cli/tracker-introspect.c:876 src/cli/tracker-introspect.c:910
 #, fuzzy
@@ -341,7 +343,7 @@ msgid ""
 "argument"
 msgstr ""
 "--list-properties argumenti faqat --tree argumenti bilan foydalanilganda "
-"bo'sh bo'lishi mumkin"
+"boʻsh boʻlishi mumkin"
 
 #: src/cli/tracker-main.c:69
 msgid "Get help on how to use TinySPARQL and any of these commands"
@@ -350,7 +352,7 @@ msgstr ""
 
 #: src/cli/tracker-main.c:70
 msgid "Create a SPARQL endpoint"
-msgstr "SPARQL so'nggi nuqtasini yarating"
+msgstr "SPARQL soʻnggi nuqtasini yarating"
 
 #: src/cli/tracker-main.c:71
 msgid "Export data from a TinySPARQL database"
@@ -362,15 +364,15 @@ msgstr "TinySPARQL ma'lumotlar bazasiga ma'lumotlarni import qiling"
 
 #: src/cli/tracker-main.c:73
 msgid "Introspect a SPARQL endpoint"
-msgstr "SPARQL so'nggi nuqtasini o'rganing"
+msgstr "SPARQL soʻnggi nuqtasini oʻrganing"
 
 #: src/cli/tracker-main.c:74
 msgid "Query and update the index using SPARQL"
-msgstr "SPARQL yordamida indeksni so'rang va yangilang"
+msgstr "SPARQL yordamida indeksni soʻrang va yangilang"
 
 #: src/cli/tracker-main.c:75
 msgid "Create a Web IDE to query local databases"
-msgstr "Mahalliy ma'lumotlar bazalarini so'rash uchun Web IDE yarating"
+msgstr "Mahalliy ma'lumotlar bazalarini soʻrash uchun Web IDE yarating"
 
 #: src/cli/tracker-main.c:92
 msgid "Available tinysparql commands are:"
@@ -380,20 +382,20 @@ msgstr "Mavjud tinysparql buyruqlari:"
 msgid "See “tinysparql help <command>” to read about a specific subcommand."
 msgstr ""
 "“tinysparql yordamiga qarang<command> ” ma'lum bir kichik buyruq haqida "
-"o'qish uchun."
+"oʻqish uchun."
 
 #: src/cli/tracker-main.c:154
 #, c-format
 msgid "“%s” is not a tinysparql command. See “tinysparql --help”"
-msgstr "“%s” tinysparql buyrug‘i emas. \"tinysparql --help\" ga qarang"
+msgstr "“%s” tinysparql buyrugʻi emas. \"tinysparql --help\" ga qarang"
 
 #: src/cli/tracker-query.c:64
 msgid "Path to use to run a query or update from file"
-msgstr "So'rovni bajarish yoki fayldan yangilash uchun foydalaniladigan yo'l"
+msgstr "Soʻrovni bajarish yoki fayldan yangilash uchun foydalaniladigan yoʻl"
 
 #: src/cli/tracker-query.c:68
 msgid "SPARQL query"
-msgstr "SPARQL so'rovi"
+msgstr "SPARQL soʻrovi"
 
 #: src/cli/tracker-query.c:69
 msgid "SPARQL"
@@ -406,7 +408,7 @@ msgstr ""
 
 #: src/cli/tracker-query.c:76
 msgid "Provides an argument for a query parameter."
-msgstr "So'rov parametri uchun argument beradi."
+msgstr "Soʻrov parametri uchun argument beradi."
 
 #: src/cli/tracker-query.c:77
 msgid "PARAMETER:TYPE:VALUE"
@@ -449,11 +451,11 @@ msgstr "Bajarildi"
 #: src/cli/tracker-query.c:428 src/cli/tracker-sql.c:131
 #: src/cli/tracker-sql.c:164
 msgid "Could not run query"
-msgstr "So‘rovni bajarib bo‘lmadi"
+msgstr "Soʻrovni bajarib boʻlmadi"
 
 #: src/cli/tracker-query.c:437 src/cli/tracker-query.c:439
 msgid "No results found matching your query"
-msgstr "So‘rovingizga mos keladigan natija topilmadi"
+msgstr "Soʻrovingizga mos keladigan natija topilmadi"
 
 #: src/cli/tracker-query.c:437 src/cli/tracker-query.c:439
 #: src/cli/tracker-sql.c:138
@@ -462,15 +464,15 @@ msgstr "Natijalar"
 
 #: src/cli/tracker-query.c:498 src/cli/tracker-sql.c:250
 msgid "File and query can not be used together"
-msgstr "Fayl va so'rovni birgalikda ishlatib bo'lmaydi"
+msgstr "Fayl va soʻrovni birgalikda ishlatib boʻlmaydi"
 
 #: src/cli/tracker-sql.c:49
 msgid "Path to use to run a query from file"
-msgstr "Fayldan so'rovni bajarish uchun foydalaniladigan yo'l"
+msgstr "Fayldan soʻrovni bajarish uchun foydalaniladigan yoʻl"
 
 #: src/cli/tracker-sql.c:53
 msgid "SQL query"
-msgstr "SQL so'rovi"
+msgstr "SQL soʻrovi"
 
 #: src/cli/tracker-sql.c:54
 msgid "SQL"
@@ -486,7 +488,7 @@ msgstr "Boʻsh natijalar toʻplami"
 
 #: src/cli/tracker-sql.c:248
 msgid "A database path must be specified"
-msgstr "Ma'lumotlar bazasi yo'li ko'rsatilishi kerak"
+msgstr "Ma'lumotlar bazasi yoʻli koʻrsatilishi kerak"
 
 #. Translators: this is a HTTP port
 #: src/cli/tracker-webide.c:40
@@ -496,7 +498,7 @@ msgstr "Tinglash uchun port"
 #. Translators: this is a HTTP port
 #: src/cli/tracker-webide.c:50
 msgid "Port not specified"
-msgstr "Port ko'rsatilmagan"
+msgstr "Port koʻrsatilmagan"
 
 #. Translators: This will point to a local HTTP address
 #: src/cli/tracker-webide.c:81
@@ -510,7 +512,6 @@ msgstr "Veb IDE yaratish"
 #. * case doesn't matter. Given English media is quite common, it is
 #. * advised to leave the untranslated articles in addition to
 #. * the translated ones.
-#.
 #: src/libtinysparql/core/tracker-collation.c:116
 msgid "the|a|an"
 msgstr "the|a|an"

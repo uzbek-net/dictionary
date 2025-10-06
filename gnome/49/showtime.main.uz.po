@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: showtime main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/showtime/-/issues\n"
-"POT-Creation-Date: 2025-10-03 10:25+0000\n"
+"POT-Creation-Date: 2025-10-05 14:32+0000\n"
 "PO-Revision-Date: 2025-04-04 18:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -29,7 +29,7 @@ msgstr "Videolarni ijro eting"
 
 #: data/org.gnome.Showtime.desktop.in:9
 msgid "Video;Movie;Film;Clip;Player;Showtime;"
-msgstr "Video; Kino; Film; Klip; O'yinchi; Namoyish vaqti;"
+msgstr "Video; Kino; Film; Klip; Oʻyinchi; Namoyish vaqti;"
 
 #: data/org.gnome.Showtime.desktop.in:17 showtime/application_delegate.py:27
 #: showtime/gtk/shortcuts-dialog.blp:29
@@ -38,36 +38,36 @@ msgstr "Yangi oyna"
 
 #: data/org.gnome.Showtime.metainfo.xml.in:7
 msgid "Watch without distraction"
-msgstr "Chalg'itmasdan tomosha qiling"
+msgstr "Chalgʻitmasdan tomosha qiling"
 
 #: data/org.gnome.Showtime.metainfo.xml.in:9
 #, fuzzy
 #| msgid ""
-#| "Play your favorite movies and video files without hassle. Showtime "
-#| "features simple playback controls that fade out of your way when you're "
-#| "watching, fullscreen, adjustable playback speed, multiple language and "
-#| "subtitle tracks, and screenshots — everything you need for a "
-#| "straightforward viewing experience."
+#| "Play your favorite movies and video files without hassle. Showtime features "
+#| "simple playback controls that fade out of your way when you're watching, "
+#| "fullscreen, adjustable playback speed, multiple language and subtitle "
+#| "tracks, and screenshots — everything you need for a straightforward viewing "
+#| "experience."
 msgid ""
 "Play your favorite movies and video files without hassle. Video Player "
 "features simple playback controls that fade out of your way when you're "
 "watching, fullscreen, adjustable playback speed, multiple language and "
-"subtitle tracks, and screenshots — everything you need for a straightforward "
-"viewing experience."
+"subtitle tracks, and screenshots — everything you need for a straightforward"
+" viewing experience."
 msgstr ""
 "Sevimli filmlaringiz va video fayllaringizni muammosiz ijro eting. Showtime "
-"tomosha qilayotganda yo‘qoladigan oddiy ijro nazorati, to‘liq ekran, "
+"tomosha qilayotganda yoʻqoladigan oddiy ijro nazorati, toʻliq ekran, "
 "sozlanishi ijro tezligi, bir nechta til va subtitr treklari va skrinshotlar "
-"– to‘g‘ridan-to‘g‘ri ko‘rish tajribasi uchun kerak bo‘lgan barcha narsalarni "
-"o‘z ichiga oladi."
+"– toʻgʻridan-toʻgʻri koʻrish tajribasi uchun kerak boʻlgan barcha narsalarni"
+" oʻz ichiga oladi."
 
 #: data/org.gnome.Showtime.metainfo.xml.in:37
 msgid "The app playing a video"
-msgstr "Ilova video o'ynaydi"
+msgstr "Ilova video oʻynaydi"
 
 #: data/org.gnome.Showtime.gschema.xml.in:12
 msgid "What to show in the end timestamp position"
-msgstr "Yakuniy vaqt tamg'asi pozitsiyasida nimani ko'rsatish kerak"
+msgstr "Yakuniy vaqt tamgʻasi pozitsiyasida nimani koʻrsatish kerak"
 
 #: data/org.gnome.Showtime.gschema.xml.in:13
 msgid "E.g. total duration of the video or the amount of time remaining"
@@ -131,11 +131,11 @@ msgstr "Aniqlanmagan til"
 
 #: showtime/widgets/options.py:134
 msgid "Add Subtitle File…"
-msgstr "Subtitr faylini qo‘shish…"
+msgstr "Subtitr faylini qoʻshish…"
 
 #: showtime/widgets/window.py:182 showtime/gtk/window.blp:147
 msgid "Play"
-msgstr "O'ynang"
+msgstr "Oʻynang"
 
 #: showtime/widgets/window.py:182
 msgid "Pause"
@@ -158,7 +158,7 @@ msgstr "Qaytadan boshlash"
 #: showtime/widgets/window.py:792
 msgid "The “{}” codecs required to play this video could not be found"
 msgstr ""
-"Bu videoni ijro etish uchun zarur bo‘lgan “{}” kodeklarini topib bo‘lmadi"
+"Bu videoni ijro etish uchun zarur boʻlgan “{}” kodeklarini topib boʻlmadi"
 
 #: showtime/widgets/window.py:810
 msgid "No plugin available for this media type"
@@ -170,7 +170,7 @@ msgstr "Kerakli plaginni oʻrnatib boʻlmadi"
 
 #: showtime/widgets/window.py:819
 msgid "Install Plugin"
-msgstr "Plaginni o'rnating"
+msgstr "Plaginni oʻrnating"
 
 #: showtime/widgets/window.py:827
 msgid "Installing…"
@@ -180,7 +180,8 @@ msgstr "Oʻrnatilmoqda…"
 msgid "“{}” codecs are required to play this video"
 msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
 
-#. Translators: Replace this with your name for it to show up in the about dialog
+#. Translators: Replace this with your name for it to show up in the about
+#. dialog
 #: showtime/widgets/window.py:1013
 msgid "translator_credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
@@ -191,7 +192,7 @@ msgstr "Skrinshot olindi"
 
 #: showtime/widgets/window.py:1054
 msgid "Show in Files"
-msgstr "Fayllarda ko'rsatish"
+msgstr "Fayllarda koʻrsatish"
 
 #: showtime/gtk/options.blp:17
 msgid "_Language"
@@ -219,7 +220,7 @@ msgstr "Chapga aylantiring"
 
 #: showtime/gtk/options.blp:118
 msgid "Rotate Right"
-msgstr "O'ngga aylantiring"
+msgstr "Oʻngga aylantiring"
 
 #: showtime/gtk/options.blp:128
 msgid "Playback Options"
@@ -231,7 +232,7 @@ msgstr "Umumiy"
 
 #: showtime/gtk/shortcuts-dialog.blp:9
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: showtime/gtk/shortcuts-dialog.blp:14
 msgid "Open Video"
@@ -267,11 +268,11 @@ msgstr "Ovozni pasaytirish"
 
 #: showtime/gtk/shortcuts-dialog.blp:58 showtime/gtk/sound-options.blp:24
 msgid "Mute/Unmute"
-msgstr "Ovozni o‘chirish/yoqish"
+msgstr "Ovozni oʻchirish/yoqish"
 
 #: showtime/gtk/shortcuts-dialog.blp:64
 msgid "View"
-msgstr "Ko'rish"
+msgstr "Koʻrish"
 
 #: showtime/gtk/shortcuts-dialog.blp:67 showtime/gtk/window.blp:435
 msgid "Toggle Fullscreen"
@@ -287,7 +288,7 @@ msgstr "Ijro"
 
 #: showtime/gtk/shortcuts-dialog.blp:81
 msgid "Play/Pause"
-msgstr "Tinglash/To'xtatish"
+msgstr "Tinglash/Toʻxtatish"
 
 #: showtime/gtk/shortcuts-dialog.blp:86 showtime/gtk/window.blp:128
 msgid "Go Back 10 Seconds"
@@ -295,7 +296,7 @@ msgstr "10 soniya orqaga qayting"
 
 #: showtime/gtk/shortcuts-dialog.blp:91 showtime/gtk/window.blp:164
 msgid "Go Forward 10 Seconds"
-msgstr "10 soniya oldinga o'ting"
+msgstr "10 soniya oldinga oʻting"
 
 #: showtime/gtk/sound-options.blp:48
 msgid "Adjust Volume"
@@ -313,7 +314,7 @@ msgstr "_Ochish…"
 
 #: showtime/gtk/window.blp:12
 msgid "Show in _Files"
-msgstr "Fayllarda ko'rsatish"
+msgstr "Fayllarda koʻrsatish"
 
 #: showtime/gtk/window.blp:20
 msgid "Take _Screenshot"
@@ -343,7 +344,7 @@ msgstr "Videolarni bu yerga sudrab olib tashlang"
 
 #: showtime/gtk/window.blp:88
 msgid "Unable to Play Video"
-msgstr "Videoni ijro qilib bo‘lmadi"
+msgstr "Videoni ijro qilib boʻlmadi"
 
 #: showtime/gtk/window.blp:93
 msgid "Missing Plugin"

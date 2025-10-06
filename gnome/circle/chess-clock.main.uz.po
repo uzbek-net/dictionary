@@ -24,11 +24,11 @@ msgstr "Shaxmat soati"
 
 #: data/eu.fortysixandtwo.chessclock.desktop.in:8
 msgid "chess;game;clock;timer;"
-msgstr "shaxmat;o'yin;soat;taymer;"
+msgstr "shaxmat;oʻyin;soat;taymer;"
 
 #: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:7
 msgid "Time games of over-the-board chess"
-msgstr "Doskadan tashqari shaxmat bo'yicha vaqt o'yinlari"
+msgstr "Doskadan tashqari shaxmat boʻyicha vaqt oʻyinlari"
 
 #: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:9
 msgid ""
@@ -39,21 +39,21 @@ msgid ""
 "their opponent's, until the game is finished or one of the clocks reaches "
 "zero."
 msgstr ""
-"Shaxmat soati taxtadan tashqari shaxmat o'yinlari uchun vaqtni nazorat "
+"Shaxmat soati taxtadan tashqari shaxmat oʻyinlari uchun vaqtni nazorat "
 "qilishni ta'minlaydigan oddiy dasturdir. Mobil foydalanish uchun "
-"mo'ljallangan, o'yinchilar o'z o'yinlari uchun kerakli vaqtni boshqarish "
-"sozlamalarini tanlaydilar, so'ngra qora o'yinchi oq taymerni ishga tushirish "
-"uchun o'z soatiga tegadi. Har bir o'yinchining navbatidan so'ng, ular o'yin "
-"tugaguniga qadar yoki soatlardan biri nolga yetguncha raqibni boshlash uchun "
-"soatni bosadilar."
+"moʻljallangan, oʻyinchilar oʻz oʻyinlari uchun kerakli vaqtni boshqarish "
+"sozlamalarini tanlaydilar, soʻngra qora oʻyinchi oq taymerni ishga tushirish"
+" uchun oʻz soatiga tegadi. Har bir oʻyinchining navbatidan soʻng, ular oʻyin"
+" tugaguniga qadar yoki soatlardan biri nolga yetguncha raqibni boshlash "
+"uchun soatni bosadilar."
 
 #: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:18
 msgid ""
 "The main screen, showing timers for the white and black players of a chess "
 "game"
 msgstr ""
-"Shaxmat o’yini oq va qora o’yinchilar uchun taymerlarni ko’rsatadigan asosiy "
-"ekran"
+"Shaxmat oʻyini oq va qora oʻyinchilar uchun taymerlarni koʻrsatadigan asosiy"
+" ekran"
 
 #: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:22
 msgid "The time control selection screen"
@@ -65,7 +65,7 @@ msgid ""
 "degrees"
 msgstr ""
 "Portret nisbatdagi asosiy ekran, bitta taymer 180 daraja aylantirilganini "
-"ko’rsatadi"
+"koʻrsatadi"
 
 #: src/gtk/timecontrolentry.ui:23
 msgid "One minute per side, plus zero seconds per turn"
@@ -90,20 +90,20 @@ msgstr "Har bir tomon uchun besh daqiqa, har bir burilish uchun uch soniya"
 #: src/gtk/timecontrolentry.ui:75
 msgid "Ten minutes per side, plus zero seconds per turn"
 msgstr ""
-"Har bir tomonga o’n daqiqa, shuningdek, har bir burilish uchun nol soniya"
+"Har bir tomonga oʻn daqiqa, shuningdek, har bir burilish uchun nol soniya"
 
 #: src/gtk/timecontrolentry.ui:88
 msgid "Ten minutes per side, plus five seconds per turn"
 msgstr ""
-"Har bir tomonga o’n daqiqa, shuningdek, har bir burilish uchun besh soniya"
+"Har bir tomonga oʻn daqiqa, shuningdek, har bir burilish uchun besh soniya"
 
 #: src/gtk/timecontrolentry.ui:101
 msgid "Thirty minutes per side, plus zero seconds per turn"
-msgstr "Har bir tomonga o’ttiz daqiqa, har bir burilish uchun nol soniya"
+msgstr "Har bir tomonga oʻttiz daqiqa, har bir burilish uchun nol soniya"
 
 #: src/gtk/timecontrolentry.ui:114
 msgid "Thirty minutes per side, plus twenty seconds per turn"
-msgstr "Har bir tomonga o’ttiz daqiqa, har bir burilish uchun yigirma soniya"
+msgstr "Har bir tomonga oʻttiz daqiqa, har bir burilish uchun yigirma soniya"
 
 #: src/gtk/timecontrolentry.ui:134
 msgid "Main time minutes"
@@ -120,7 +120,7 @@ msgstr "Soniyalarni oshiring"
 #: src/gtk/help-overlay.ui:11
 msgctxt "shortcut window"
 msgid "Game"
-msgstr "O’yin"
+msgstr "Oʻyin"
 
 #: src/gtk/help-overlay.ui:14
 msgctxt "shortcut window"
@@ -145,7 +145,7 @@ msgstr "Asosiy menyuni oching"
 #: src/gtk/help-overlay.ui:37
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: src/gtk/help-overlay.ui:43
 msgctxt "shortcut window"
@@ -176,7 +176,7 @@ msgstr "Vaqtni nazorat qilish usuli"
 
 #: src/gtk/window.ui:76
 msgid "Increment"
-msgstr "O’sish"
+msgstr "Oʻsish"
 
 #: src/gtk/window.ui:77
 msgid "Bronstein delay"
@@ -188,7 +188,7 @@ msgstr "Oddiy kechikish"
 
 #: src/gtk/window.ui:90
 msgid "Start Game"
-msgstr "O’yinni boshlash"
+msgstr "Oʻyinni boshlash"
 
 #: src/gtk/window.ui:180
 msgid "Main Menu"
@@ -201,12 +201,12 @@ msgstr "Toʻxtatib turish"
 #: src/gtk/window.ui:214
 msgctxt "a11y"
 msgid "Player white timer"
-msgstr "O’yinchi oq taymer"
+msgstr "Oʻyinchi oq taymer"
 
 #: src/gtk/window.ui:225
 msgctxt "a11y"
 msgid "Player black timer"
-msgstr "O’yinchi uchun qora taymer"
+msgstr "Oʻyinchi uchun qora taymer"
 
 #: src/gtk/window.ui:258
 msgid "_New Time Control"
@@ -234,8 +234,8 @@ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
 #: src/timerbutton.py:58
 msgid "Player white timer"
-msgstr "O’yinchi oq taymer"
+msgstr "Oʻyinchi oq taymer"
 
 #: src/timerbutton.py:63
 msgid "Player black timer"
-msgstr "O’yinchi uchun qora taymer"
+msgstr "Oʻyinchi uchun qora taymer"

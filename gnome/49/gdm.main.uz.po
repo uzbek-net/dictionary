@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdm/issues/\n"
-"POT-Creation-Date: 2025-10-03 17:18+0000\n"
+"POT-Creation-Date: 2025-10-06 03:03+0000\n"
 "PO-Revision-Date: 2025-03-25 23:18+0500\n"
 "Last-Translator: Akbarkhon Variskhanov <akbarkhon.variskhanov@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -57,15 +57,15 @@ msgstr "/dev/urandom belgilar qurilmasi emas"
 
 #: common/gdm-common.c:382
 msgid "Unable to create transient display: "
-msgstr "Vaqtinchalik displey yaratib bo‘lmadi: "
+msgstr "Vaqtinchalik displey yaratib boʻlmadi: "
 
 #: common/gdm-common.c:579
 msgid "Could not identify the current session: "
-msgstr "Joriy seansni aniqlab bo‘lmadi: "
+msgstr "Joriy seansni aniqlab boʻlmadi: "
 
 #: common/gdm-common.c:588
 msgid "Could not identify the current seat."
-msgstr "Joriy joyni aniqlab bo‘lmadi."
+msgstr "Joriy joyni aniqlab boʻlmadi."
 
 #: daemon/gdm-display-access-file.c:280 daemon/gdm-display-access-file.c:301
 #, c-format
@@ -74,15 +74,15 @@ msgstr "Tizimda “%s” foydalanuvchisi topilmadi"
 
 #: daemon/gdm-legacy-display.c:226
 msgid ""
-"Could not start the X server (your graphical environment) due to an internal "
-"error. Please contact your system administrator or check your syslog to "
-"diagnose. In the meantime this display will be disabled.  Please restart GDM "
-"when the problem is corrected."
+"Could not start the X server (your graphical environment) due to an internal"
+" error. Please contact your system administrator or check your syslog to "
+"diagnose. In the meantime this display will be disabled.  Please restart GDM"
+" when the problem is corrected."
 msgstr ""
 "Ichki xatolik tufayli X serverini (grafik muhitingiz) ishga tushirib "
-"bo‘lmadi. Iltimos, tashxis qo’yish uchun tizim administratoringizga murojaat "
-"qiling yoki tizim jurnalini tekshiring. Ayni paytda bu displey o’chiriladi. "
-"Muammo bartaraf etilgach, GDM ni qayta ishga tushiring."
+"boʻlmadi. Iltimos, tashxis qoʻyish uchun tizim administratoringizga murojaat"
+" qiling yoki tizim jurnalini tekshiring. Ayni paytda bu displey oʻchiriladi."
+" Muammo bartaraf etilgach, GDM ni qayta ishga tushiring."
 
 #: daemon/gdm-manager.c:765
 msgid "No display available"
@@ -106,7 +106,7 @@ msgstr "Chaqiruvchi GDM emas"
 
 #: daemon/gdm-manager.c:920
 msgid "Unable to open private communication channel"
-msgstr "Shaxsiy aloqa kanalini ochib bo’lmadi"
+msgstr "Shaxsiy aloqa kanalini ochib boʻlmadi"
 
 #: daemon/gdm-server.c:387
 #, c-format
@@ -118,7 +118,7 @@ msgstr ""
 #: daemon/gdm-server.c:398 daemon/gdm-server.c:418
 #, c-format
 msgid "Couldn’t set groupid to %d"
-msgstr "Groupidni %d qilib o‘rnatib bo‘lmadi"
+msgstr "Groupidni %d qilib oʻrnatib boʻlmadi"
 
 #: daemon/gdm-server.c:404
 #, c-format
@@ -128,12 +128,12 @@ msgstr "initgroups () %s uchun bajarilmadi"
 #: daemon/gdm-server.c:410
 #, c-format
 msgid "Couldn’t set userid to %d"
-msgstr "Foydalanuvchi identifikatorini %d qilib o‘rnatib bo‘lmadi"
+msgstr "Foydalanuvchi identifikatorini %d qilib oʻrnatib boʻlmadi"
 
 #: daemon/gdm-server.c:482
 #, c-format
 msgid "%s: Could not open log file for display %s!"
-msgstr "%s: %s ko‘rsatish uchun jurnal faylini ochib bo‘lmadi!"
+msgstr "%s: %s koʻrsatish uchun jurnal faylini ochib boʻlmadi!"
 
 #: daemon/gdm-server.c:503 daemon/gdm-server.c:509 daemon/gdm-server.c:515
 #, c-format
@@ -143,12 +143,12 @@ msgstr "%s: %s ni %s ga sozlashda xatolik yuz berdi"
 #: daemon/gdm-server.c:535
 #, c-format
 msgid "%s: Server priority couldn’t be set to %d: %s"
-msgstr "%s: Server ustuvorligini %d qilib o‘rnatib bo‘lmadi: %s"
+msgstr "%s: Server ustuvorligini %d qilib oʻrnatib boʻlmadi: %s"
 
 #: daemon/gdm-server.c:690
 #, c-format
 msgid "%s: Empty server command for display %s"
-msgstr "%s: %s displey uchun bo‘sh server buyrug‘i"
+msgstr "%s: %s displey uchun boʻsh server buyrugʻi"
 
 #: daemon/gdm-session-auditor.c:88
 msgid "Username"
@@ -180,8 +180,8 @@ msgstr "Autentifikatsiya yordamchi jarayoni yaratilmadi"
 
 #: daemon/gdm-session-worker.c:813
 msgid ""
-"You reached the maximum password authentication attempts, please try another "
-"method"
+"You reached the maximum password authentication attempts, please try another"
+" method"
 msgstr ""
 "Parol bilan autentifikatsiya qilish uchun boshqa urinishingiz qolmadi. "
 "Iltimos, boshqa usuldan foydalanib koʻring"
@@ -207,8 +207,8 @@ msgid ""
 "You reached the maximum smart card authentication attempts, please try "
 "another method"
 msgstr ""
-"Smart karta bilan autentifikatsiya qilish uchun boshqa urinishingiz qolmadi. "
-"Iltimos, boshqa usuldan foydalanib koʻring"
+"Smart karta bilan autentifikatsiya qilish uchun boshqa urinishingiz qolmadi."
+" Iltimos, boshqa usuldan foydalanib koʻring"
 
 #: daemon/gdm-session-worker.c:824
 msgid ""
@@ -220,8 +220,8 @@ msgstr ""
 #: daemon/gdm-session-worker.c:831
 msgid "Sorry, password authentication didn’t work. Please try again."
 msgstr ""
-"Kechirasiz, parolni autentifikatsiya qilish ishlamadi. Iltimos, qayta urinib "
-"koʻring."
+"Kechirasiz, parolni autentifikatsiya qilish ishlamadi. Iltimos, qayta urinib"
+" koʻring."
 
 #: daemon/gdm-session-worker.c:834
 msgid "Sorry, auto login didn’t work. Please try again."
@@ -269,11 +269,11 @@ msgstr "GNOME Displey boshqaruvchisi Wayland seansini ishga tushirgichi"
 
 #: daemon/gdm-xdmcp-display-factory.c:614
 msgid "Could not create socket!"
-msgstr "Soket yaratib bo'lmadi!"
+msgstr "Soket yaratib boʻlmadi!"
 
 #: daemon/gdm-x-session.c:882
 msgid "Run program through /etc/gdm/Xsession wrapper script"
-msgstr "Dasturni /etc/gdm/Xsession o’rash skripti orqali ishga tushiring"
+msgstr "Dasturni /etc/gdm/Xsession oʻrash skripti orqali ishga tushiring"
 
 #: daemon/gdm-x-session.c:883
 msgid "Listen on TCP socket"
@@ -297,7 +297,7 @@ msgstr "“%s” GDM foydalanuvchisi topilmadi. Bekor qilinmoqda!"
 
 #: daemon/main.c:203
 msgid "The GDM user should not be root. Aborting!"
-msgstr "GDM foydalanuvchisi root bo'lmasligi kerak. Bekor qilinmoqda!"
+msgstr "GDM foydalanuvchisi root boʻlmasligi kerak. Bekor qilinmoqda!"
 
 #: daemon/main.c:209
 #, c-format
@@ -306,7 +306,7 @@ msgstr "“%s” GDM guruhi topilmadi. Bekor qilinmoqda!"
 
 #: daemon/main.c:215
 msgid "The GDM group should not be root. Aborting!"
-msgstr "GDM guruhi ildiz bo'lmasligi kerak. Bekor qilinmoqda!"
+msgstr "GDM guruhi ildiz boʻlmasligi kerak. Bekor qilinmoqda!"
 
 #: daemon/main.c:283
 msgid "Make all warnings fatal"
@@ -385,7 +385,7 @@ msgid ""
 "administrators and distributions a way to display branding."
 msgstr ""
 "Kirish ekrani ixtiyoriy ravishda sayt ma'murlari va tarqatishlarga "
-"brendingni ko'rsatish usulini taqdim etish uchun kichik rasmni ko'rsatishi "
+"brendingni koʻrsatish usulini taqdim etish uchun kichik rasmni koʻrsatishi "
 "mumkin."
 
 #: data/org.gnome.login-screen.gschema.xml:54
@@ -403,8 +403,8 @@ msgstr "Foydalanuvchilar roʻyxatini koʻrsatishdan checkinish"
 
 #: data/org.gnome.login-screen.gschema.xml:64
 msgid ""
-"The login screen normally shows a list of available users to log in as. This "
-"setting can be toggled to disable showing the user list."
+"The login screen normally shows a list of available users to log in as. This"
+" setting can be toggled to disable showing the user list."
 msgstr ""
 "Kirish sahifasida odatda tizimga kira oladigan mavjud foydalanuvchilar "
 "roʻyxati koʻrsatiladi. Ushbu sozlamani almashtirib, foydalanuvchilar "
@@ -432,7 +432,7 @@ msgstr "Peshlavha matni"
 
 #: data/org.gnome.login-screen.gschema.xml:92
 msgid "Text banner message to show in the login window."
-msgstr "Kirish oynasida ko'rsatiladigan matnli banner xabari."
+msgstr "Kirish oynasida koʻrsatiladigan matnli banner xabari."
 
 #: data/org.gnome.login-screen.gschema.xml:98
 msgid "Banner message path"
@@ -444,10 +444,11 @@ msgstr "Kirish oynasida koʻrsatiladigan peshlavhaning matni."
 
 #: data/org.gnome.login-screen.gschema.xml:107
 msgid "Disable showing the restart buttons"
-msgstr "Qayta ishga tushirish tugmalarini ko’rsatishni o’chiring"
+msgstr "Qayta ishga tushirish tugmalarini koʻrsatishni oʻchiring"
 
 #: data/org.gnome.login-screen.gschema.xml:110
-msgid "Set to true to disable showing the restart buttons in the login window."
+msgid ""
+"Set to true to disable showing the restart buttons in the login window."
 msgstr ""
 "Kirish oynasida quvvat tugmachalarining koʻrsatilishini oʻchirish uchun "
 "“rost” qilib qoʻying."
@@ -466,15 +467,15 @@ msgstr ""
 
 #: utils/gdm-config.c:117
 msgid "Show command help"
-msgstr "Buyruq yordamini ko’rsatish"
+msgstr "Buyruq yordamini koʻrsatish"
 
 #: utils/gdm-config.c:121
 msgid "Show verbose output"
-msgstr "Batafsil chiqishni ko’rsatish"
+msgstr "Batafsil chiqishni koʻrsatish"
 
 #: utils/gdm-config.c:125
 msgid "Show debug output"
-msgstr "Nosozliklarni tuzatish natijasini ko’rsatish"
+msgstr "Nosozliklarni tuzatish natijasini koʻrsatish"
 
 #: utils/gdm-config.c:134
 msgid "Enable the authentication method"
@@ -482,7 +483,7 @@ msgstr "Autentifikatsiya usulini yoqing"
 
 #: utils/gdm-config.c:138
 msgid "Disable the authentication method"
-msgstr "Autentifikatsiya usulini o’chiring"
+msgstr "Autentifikatsiya usulini oʻchiring"
 
 #: utils/gdm-config.c:147
 msgid "Require the authentication method"
@@ -490,7 +491,7 @@ msgstr "Autentifikatsiya usulini talab qiling"
 
 #: utils/gdm-config.c:151
 msgid "Action to perform on smartcard removal"
-msgstr "Smartkartani olib tashlash bo’yicha bajariladigan amal"
+msgstr "Smartkartani olib tashlash boʻyicha bajariladigan amal"
 
 #: utils/gdm-config.c:160
 msgid "Assume yes to any answer"
@@ -514,7 +515,7 @@ msgstr "GDM autentifikatsiya konfiguratsiyasini tiklang."
 
 #: utils/gdm-config.c:270
 msgid "Show GDM Authentication configuration."
-msgstr "GDM autentifikatsiya konfiguratsiyasini ko‘rsatish."
+msgstr "GDM autentifikatsiya konfiguratsiyasini koʻrsatish."
 
 #: utils/gdm-config.c:281
 msgid "Password options"
@@ -534,7 +535,7 @@ msgstr "Variantlarni tiklash"
 
 #: utils/gdm-config.c:289
 msgid "Show options"
-msgstr "Variantlarni ko’rsatish"
+msgstr "Variantlarni koʻrsatish"
 
 #: utils/gdm-config.c:319
 msgid "No PAM module available for Password authentication"
@@ -557,7 +558,7 @@ msgstr "“%s” uchun kamida bitta parametr kerak"
 #: utils/gdm-config.c:363
 #, c-format
 msgid "“%s” can't be enabled and disabled at the same time"
-msgstr "“%s”ni bir vaqtning o‘zida yoqish va o‘chirib bo‘lmaydi"
+msgstr "“%s”ni bir vaqtning oʻzida yoqish va oʻchirib boʻlmaydi"
 
 #. TRANSLATORS: option is not a valid command “option-key” value
 #: utils/gdm-config.c:386
@@ -567,7 +568,7 @@ msgstr "“%s” yaroqli %s “%s” qiymati emas"
 
 #: utils/gdm-config.c:633
 msgid "No distro detected, no hook to run"
-msgstr "Hech qanday distro aniqlanmadi, ishga tushirish uchun ilgak yo’q"
+msgstr "Hech qanday distro aniqlanmadi, ishga tushirish uchun ilgak yoʻq"
 
 #: utils/gdm-config.c:651
 #, c-format
@@ -599,18 +600,19 @@ msgstr ""
 "Xato chiqishi:\n"
 "%s"
 
-#. TRANSLATORS: Failed to set command “command” option key “option-key” via distro hook
+#. TRANSLATORS: Failed to set command “command” option key “option-key” via
+#. distro hook
 #: utils/gdm-config.c:733
 #, c-format
 msgid "Failed to set command “%s” option key “%s” via distro hook: "
 msgstr ""
-"Distro kancasi orqali “%s” parametr tugmasi “%s” buyrug‘ini o‘rnatib "
-"bo‘lmadi: "
+"Distro kancasi orqali “%s” parametr tugmasi “%s” buyrugʻini oʻrnatib "
+"boʻlmadi: "
 
 #: utils/gdm-config.c:773
 #, c-format
 msgid "Failed to create directory %s"
-msgstr "%s katalogini yaratib bo‘lmadi"
+msgstr "%s katalogini yaratib boʻlmadi"
 
 #: utils/gdm-config.c:844
 msgid "dconf profile not found"
@@ -618,29 +620,29 @@ msgstr "dconf profili topilmadi"
 
 #: utils/gdm-config.c:934
 msgid "dconf has no system-db configured"
-msgstr "dconf-da system-db konfiguratsiyasi yo’q"
+msgstr "dconf-da system-db konfiguratsiyasi yoʻq"
 
 #. TRANSLATORS: First value is a file path, second is an error message
 #: utils/gdm-config.c:1083
 #, c-format
 msgid "Failed to get the “%s” header comment: %s, was it modified?"
-msgstr "“%s” sarlavhasi izohini ololmadi: %s, u o‘zgartirilganmi?"
+msgstr "“%s” sarlavhasi izohini ololmadi: %s, u oʻzgartirilganmi?"
 
 #: utils/gdm-config.c:1086
 #, c-format
 msgid "File “%s” header comment does not match, was it modified?"
-msgstr "“%s” fayl sarlavhasi sharhi mos kelmaydi, u o‘zgartirilganmi?"
+msgstr "“%s” fayl sarlavhasi sharhi mos kelmaydi, u oʻzgartirilganmi?"
 
 #. XXX: Fail with an error instead?
 #: utils/gdm-config.c:1214
 #, c-format
 msgid "No expected header found on lock file “%s”, was it modified?"
 msgstr ""
-"“%s” blokirovka faylida kutilgan sarlavha topilmadi, u o‘zgartirilganmi?"
+"“%s” blokirovka faylida kutilgan sarlavha topilmadi, u oʻzgartirilganmi?"
 
 #: utils/gdm-config.c:1499
 msgid "Failed to run a required distro hook: "
-msgstr "Kerakli distro hookni ishga tushirib bo’lmadi: "
+msgstr "Kerakli distro hookni ishga tushirib boʻlmadi: "
 
 #: utils/gdm-config.c:1515 utils/gdmflexiserver.c:45
 msgid "COMMAND"
@@ -660,15 +662,14 @@ msgid ""
 "Use “%s COMMAND --help” to get help on each command.\n"
 msgstr ""
 "Buyruqlar:\n"
-" yordam Ushbu ma'lumotni ko'rsatadi\n"
+" yordam Ushbu ma'lumotni koʻrsatadi\n"
 " parol Parol autentifikatsiyasini sozlang\n"
 " barmoq izi Barmoq izi autentifikatsiyasini sozlang\n"
 " smartcard Smartkarta autentifikatsiyasini sozlang\n"
 " reset Standart konfiguratsiyani tiklaydi\n"
-" show Joriy konfiguratsiyani ko’rsatadi\n"
+" show Joriy konfiguratsiyani koʻrsatadi\n"
 "\n"
-"Har bir buyruq bo‘yicha yordam olish uchun “%s COMMAND —help” dan "
-"foydalaning.\n"
+"Har bir buyruq boʻyicha yordam olish uchun “%s COMMAND —help” dan foydalaning.\n"
 
 #: utils/gdm-config.c:1581
 msgid "Command options"
@@ -678,20 +679,20 @@ msgstr "Buyruq variantlari"
 #: utils/gdm-config.c:1616
 #, c-format
 msgid "You need to be root to use %s “%s” command"
-msgstr "%s “%s” buyrug’idan foydalanish uchun siz root bo’lishingiz kerak"
+msgstr "%s “%s” buyrugʻidan foydalanish uchun siz root boʻlishingiz kerak"
 
 #: utils/gdm-config.c:1666
 #, c-format
 msgid "Failed to set %s setting: "
-msgstr "%s sozlamasini o‘rnatib bo‘lmadi: "
+msgstr "%s sozlamasini oʻrnatib boʻlmadi: "
 
 #: utils/gdm-config.c:1758
 msgid "Failed to set smartcard setting"
-msgstr "Smartkarta sozlamalarini o‘rnatib bo‘lmadi"
+msgstr "Smartkarta sozlamalarini oʻrnatib boʻlmadi"
 
 #: utils/gdm-config.c:1764
 msgid "Failed to set password setting"
-msgstr "Parol sozlamalarini o‘rnatib bo‘lmadi"
+msgstr "Parol sozlamalarini oʻrnatib boʻlmadi"
 
 #: utils/gdm-config.c:1778
 msgid "Enabled"
@@ -699,11 +700,11 @@ msgstr "Yoqilgan"
 
 #: utils/gdm-config.c:1778
 msgid "Disabled"
-msgstr "O’chirilgan"
+msgstr "Oʻchirilgan"
 
 #: utils/gdm-config.c:1787
 msgid "Not supported"
-msgstr "Qo’llab-quvvatlanmaydi"
+msgstr "Qoʻllab-quvvatlanmaydi"
 
 #: utils/gdm-config.c:1803
 msgid "Required"
@@ -753,12 +754,12 @@ msgstr "Davom etishni xohlaysizmi? [Y/n]? "
 
 #: utils/gdm-config.c:1908
 msgid "User cancelled the request"
-msgstr "Foydalanuvchi so‘rovni bekor qildi"
+msgstr "Foydalanuvchi soʻrovni bekor qildi"
 
 #: utils/gdm-config.c:1939
 #, c-format
 msgid "Failed to reset %s setting: "
-msgstr "%s sozlamalarini tiklab bo‘lmadi: "
+msgstr "%s sozlamalarini tiklab boʻlmadi: "
 
 #: utils/gdmflexiserver.c:45
 msgid "Only the VERSION command is supported"
@@ -784,7 +785,7 @@ msgstr "— Yangi GDM kirish"
 
 #, c-format
 #~ msgid "Failed to create ran once marker dir %s: %s"
-#~ msgstr "%s: %s dir. bir marta bajarilgan markerni yaratib bo‘lmadi"
+#~ msgstr "%s: %s dir. bir marta bajarilgan markerni yaratib boʻlmadi"
 
 #, c-format
 #~ msgid "Failed to create LogDir %s: %s"
@@ -792,11 +793,11 @@ msgstr "— Yangi GDM kirish"
 
 #, c-format
 #~ msgid "Failed to switch to %s user"
-#~ msgstr "%s foydalanuvchisiga o‘tib bo‘lmadi"
+#~ msgstr "%s foydalanuvchisiga oʻtib boʻlmadi"
 
 #, c-format
 #~ msgid "Couldn’t set userid to %u"
-#~ msgstr "Foydalanuvchi identifikatorini %u qilib o‘rnatib bo‘lmadi"
+#~ msgstr "Foydalanuvchi identifikatorini %u qilib oʻrnatib boʻlmadi"
 
 #~ msgid ""
 #~ "You reached the maximum PIN authentication attempts, please try another "
@@ -807,8 +808,8 @@ msgstr "— Yangi GDM kirish"
 
 #~ msgid "Sorry, PIN authentication didn’t work. Please try again."
 #~ msgstr ""
-#~ "Kechirasiz, PIN-kodli autentifikatsiya amalga oshmadi. Iltimos, yana "
-#~ "urinib koʻring."
+#~ "Kechirasiz, PIN-kodli autentifikatsiya amalga oshmadi. Iltimos, yana urinib "
+#~ "koʻring."
 
 #~ msgid "Unable to activate session: "
 #~ msgstr "Seansni faollashtirib boʻlmadi: "

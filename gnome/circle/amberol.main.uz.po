@@ -27,24 +27,25 @@ msgstr "Amberol"
 msgid "Music Player"
 msgstr "Musiqiy pleyer"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.bassi.Amberol.desktop.in.in:11
 msgid "music;player;media;audio;playlist;"
 msgstr "musiqa;pleyer;media;audio;pleylist;"
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:7
 msgid "Plays music, and nothing else"
-msgstr "Musiqa yangraydi, boshqa hech narsa yo‘q"
+msgstr "Musiqa yangraydi, boshqa hech narsa yoʻq"
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:9
 msgid ""
-"Amberol is a music player with no delusions of grandeur. If you just want to "
-"play music available on your local system then Amberol is the music player "
+"Amberol is a music player with no delusions of grandeur. If you just want to"
+" play music available on your local system then Amberol is the music player "
 "you are looking for."
 msgstr ""
-"Amberol - buyuklik vasvasalariga ega bo‘lmagan musiqa ijrochisi. Agar faqat "
-"mahalliy tizimingizda mavjud musiqani tinglamoqchi bo‘lsangiz, Amberol aynan "
-"siz qidirayotgan musiqa pleyeridir."
+"Amberol - buyuklik vasvasalariga ega boʻlmagan musiqa ijrochisi. Agar faqat "
+"mahalliy tizimingizda mavjud musiqani tinglamoqchi boʻlsangiz, Amberol aynan"
+" siz qidirayotgan musiqa pleyeridir."
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:14
 msgid "Current features:"
@@ -56,12 +57,12 @@ msgstr "moslashuvchan UI"
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:17
 msgid "UI recoloring using the album art"
-msgstr "Albom rasmidan foydalangan holda UI rangini o'zgartirish"
+msgstr "Albom rasmidan foydalangan holda UI rangini oʻzgartirish"
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:18
 msgid "drag and drop support to queue songs"
 msgstr ""
-"qo‘shiqlarni navbatga qo‘shish uchun sichqoncha bilan sudrab tashlash "
+"qoʻshiqlarni navbatga qoʻshish uchun sichqoncha bilan sudrab tashlash "
 "imkoniyati"
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:19
@@ -83,16 +84,16 @@ msgstr "Avvalgi musiqani ijro etish"
 #: src/gtk/playback-control.blp:28
 msgctxt "a11y"
 msgid "Skip backwards"
-msgstr "Orqaga o‘tkazish"
+msgstr "Orqaga oʻtkazish"
 
 #: src/gtk/playback-control.blp:36
 msgid "Toggle Play"
-msgstr "Ijroni boshla/to‘xtat"
+msgstr "Ijroni boshla/toʻxtat"
 
 #: src/gtk/playback-control.blp:44
 msgctxt "a11y"
 msgid "Toggle play"
-msgstr "Ijroni boshla/to‘xtat"
+msgstr "Ijroni boshla/toʻxtat"
 
 #: src/gtk/playback-control.blp:52
 msgid "Play the Next Song"
@@ -101,16 +102,16 @@ msgstr "Keyingi musiqani ijro etish"
 #: src/gtk/playback-control.blp:59
 msgctxt "a11y"
 msgid "Skip forward"
-msgstr "Oldinga o‘tkazish"
+msgstr "Oldinga oʻtkazish"
 
 #: src/gtk/playback-control.blp:79
 msgid "Toggle Playlist"
-msgstr "Pleylistni yoqish/o‘chirish"
+msgstr "Pleylistni yoqish/oʻchirish"
 
 #: src/gtk/playback-control.blp:86
 msgctxt "a11y"
 msgid "Toggle playlist"
-msgstr "Pleylistni yoqish/o‘chirish"
+msgstr "Pleylistni yoqish/oʻchirish"
 
 #: src/gtk/playback-control.blp:94
 msgid "Shuffle the Playlist"
@@ -149,11 +150,11 @@ msgstr "Direktoriyani ochish"
 
 #: src/gtk/playback-control.blp:164
 msgid "Add _Song"
-msgstr "Musiqa qo‘shish"
+msgstr "Musiqa qoʻshish"
 
 #: src/gtk/playback-control.blp:169
 msgid "Add _Folder"
-msgstr "Jild qo‘shish"
+msgstr "Jild qoʻshish"
 
 #: src/gtk/playback-control.blp:174
 msgid "Clear"
@@ -200,7 +201,7 @@ msgstr "Chiqish"
 
 #: src/gtk/playlist-view.blp:16
 msgid "Search Songs in the Playlist"
-msgstr "Pleylistdagi qo‘shiqlarni qidirish"
+msgstr "Pleylistdagi qoʻshiqlarni qidirish"
 
 #: src/gtk/playlist-view.blp:25
 msgid "Playlist"
@@ -226,7 +227,7 @@ msgstr "Qidirish"
 #: src/gtk/playlist-view.blp:67
 msgctxt "a11y"
 msgid "Type to search songs"
-msgstr "Qo‘shiqlarni qidirish uchun yozing"
+msgstr "Qoʻshiqlarni qidirish uchun yozing"
 
 #: src/gtk/playlist-view.blp:110
 msgid "Select All Songs"
@@ -234,7 +235,7 @@ msgstr "Barcha musiqalarni tanlash"
 
 #: src/gtk/playlist-view.blp:123
 msgid "Remove Selected Songs"
-msgstr "Tanlangan musiqalarni o‘chirish"
+msgstr "Tanlangan musiqalarni oʻchirish"
 
 #: src/gtk/queue-row.blp:27
 msgctxt "a11y"
@@ -254,7 +255,7 @@ msgstr "Umumiy"
 #: src/gtk/shortcuts-dialog.blp:13
 msgctxt "shortcut window"
 msgid "Toggle primary menu"
-msgstr "Birlamchi menyuni yoqish/o‘chirish"
+msgstr "Birlamchi menyuni yoqish/oʻchirish"
 
 #: src/gtk/shortcuts-dialog.blp:18
 msgctxt "shortcut window"
@@ -264,7 +265,7 @@ msgstr "Musiqa tafsilotlarini buferga nusxalash"
 #: src/gtk/shortcuts-dialog.blp:23
 msgctxt "shortcut window"
 msgid "Show shortcuts"
-msgstr "Tezkor tugmalarni ko‘rsatish"
+msgstr "Tezkor tugmalarni koʻrsatish"
 
 #: src/gtk/shortcuts-dialog.blp:28
 msgctxt "shortcut window"
@@ -279,12 +280,12 @@ msgstr "Pleylist"
 #: src/gtk/shortcuts-dialog.blp:37
 msgctxt "shortcut window"
 msgid "Add a song to the playlist"
-msgstr "Pleylistga qo‘shiq qo‘shish"
+msgstr "Pleylistga qoʻshiq qoʻshish"
 
 #: src/gtk/shortcuts-dialog.blp:42
 msgctxt "shortcut window"
 msgid "Add a folder to the playlist"
-msgstr "Pleylistga jild qo‘shish"
+msgstr "Pleylistga jild qoʻshish"
 
 #: src/gtk/shortcuts-dialog.blp:47
 msgctxt "shortcut window"
@@ -294,12 +295,12 @@ msgstr "Pleylistni tozalash"
 #: src/gtk/shortcuts-dialog.blp:52
 msgctxt "shortcut window"
 msgid "Toggle the playlist pane"
-msgstr "Pleylist oynasini yoqish/o‘chirish"
+msgstr "Pleylist oynasini yoqish/oʻchirish"
 
 #: src/gtk/shortcuts-dialog.blp:57
 msgctxt "shortcut window"
 msgid "Toggle shuffling songs"
-msgstr "Qo‘shiqlarni tasodifiy tartibda ijro etishni yoqish/o‘chirish"
+msgstr "Qoʻshiqlarni tasodifiy tartibda ijro etishni yoqish/oʻchirish"
 
 #: src/gtk/shortcuts-dialog.blp:63
 msgctxt "shortcut window"
@@ -309,7 +310,7 @@ msgstr "Qayta ijro"
 #: src/gtk/shortcuts-dialog.blp:66
 msgctxt "shortcut window"
 msgid "Toggle play/pause"
-msgstr "Ijro/to‘xtatish tugmasi"
+msgstr "Ijro/toʻxtatish tugmasi"
 
 #: src/gtk/shortcuts-dialog.blp:71
 msgctxt "shortcut window"
@@ -324,12 +325,12 @@ msgstr "Keyingi musiqa"
 #: src/gtk/shortcuts-dialog.blp:81
 msgctxt "shortcut window"
 msgid "Seek backwards in the current song"
-msgstr "Joriy qo‘shiqni orqaga qaytarish"
+msgstr "Joriy qoʻshiqni orqaga qaytarish"
 
 #: src/gtk/shortcuts-dialog.blp:86
 msgctxt "shortcut window"
 msgid "Seek forward in the current song"
-msgstr "Joriy qo‘shiqni oldinga o‘tkazish"
+msgstr "Joriy qoʻshiqni oldinga oʻtkazish"
 
 #: src/gtk/window.blp:15
 msgid "Drop a song to add it to the playlist"
@@ -340,7 +341,7 @@ msgid ""
 "Select a file or a folder, or drag files from your file manager to the "
 "application window to add songs to the playlist"
 msgstr ""
-"Pleylistga qo‘shiqlar qo‘shish uchun fayl yoki jildni tanlang yoki fayl "
+"Pleylistga qoʻshiqlar qoʻshish uchun fayl yoki jildni tanlang yoki fayl "
 "boshqaruvidagi fayllarni ilova oynasiga tortib tashlang"
 
 #: src/gtk/window.blp:48
@@ -349,23 +350,24 @@ msgstr "Pleylistni tiklash"
 
 #: src/gtk/window.blp:58
 msgid "Add Folder"
-msgstr "Jild qo‘shish"
+msgstr "Jild qoʻshish"
 
 #: src/gtk/window.blp:67
 msgid "Add Song"
-msgstr "Qo‘shiq qo‘shish"
+msgstr "Qoʻshiq qoʻshish"
 
 #: src/gtk/window.blp:128
 msgctxt "a11y"
 msgid "Elapsed time"
-msgstr "O‘tib ketgan vaqt"
+msgstr "Oʻtib ketgan vaqt"
 
 #: src/gtk/window.blp:142
 msgctxt "a11y"
 msgid "Remaining time"
 msgstr "Qolgan vaqt"
 
-#. Translators: Replace "translator-credits" with your names, one name per line
+#. Translators: Replace "translator-credits" with your names, one name per
+#. line
 #: src/application.rs:243
 msgid "translator-credits"
 msgstr "tarjimon-kreditlar"
@@ -409,7 +411,7 @@ msgstr "Audio fayllar"
 
 #: src/window.rs:159
 msgid "_Add Song"
-msgstr "Musiqa  qo‘shish"
+msgstr "Musiqa  qoʻshish"
 
 #: src/window.rs:163
 msgid "Open File"
@@ -417,11 +419,11 @@ msgstr "Faylni ochish"
 
 #: src/window.rs:168 src/window.rs:190 src/window.rs:1482
 msgid "Unable to access files"
-msgstr "Fayllardan foydalanish imkoni yo‘q"
+msgstr "Fayllardan foydalanish imkoni yoʻq"
 
 #: src/window.rs:182
 msgid "_Add Folder"
-msgstr "Jild qo‘shish"
+msgstr "Jild qoʻshish"
 
 #: src/window.rs:185
 msgid "Open Folder"
@@ -429,7 +431,7 @@ msgstr "Jildni ochish"
 
 #: src/window.rs:508
 msgid "No available song found"
-msgstr "Mavjud qo‘shiq topilmadi"
+msgstr "Mavjud qoʻshiq topilmadi"
 
 #: src/window.rs:569
 msgid "No songs found"
@@ -475,7 +477,7 @@ msgstr[0] "{} daqiqa qoldi"
 
 #: src/window.rs:1461
 msgid "No song selected"
-msgstr "Qo‘shiq tanlanmagan"
+msgstr "Qoʻshiq tanlanmagan"
 
 #. Translators: The '{}' must be left unmodified, and
 #. it is expanded to the number of songs selected

@@ -17,7 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.6\n"
 
-#. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
+#. TRANSLATORS: This is the designation for the last (most west) timezone on
+#. Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
 msgid "Anywhere on Earth (AoE)"
 msgstr "Yerning istalgan nuqtasi (AoE)"
@@ -70,7 +71,6 @@ msgstr "Jazoir"
 #. AS - American Samoa, a territory of the United States in the
 #. South Pacific, not to be confused with the separate nation
 #. of "Samoa".
-#.
 msgid "American Samoa"
 msgstr "Amerika Samoasi"
 
@@ -106,7 +106,6 @@ msgstr "Armenia"
 
 #. AW - Aruba, a Caribbean island that is one of the three
 #. constituent countries of the Kingdom of the Netherlands.
-#.
 msgid "Aruba"
 msgstr "Aruba"
 
@@ -144,7 +143,6 @@ msgstr "Belarus"
 
 #. BE - Belgium. The local names for the country are "België"
 #. (Dutch), Belgique (French), and Belgien (German).
-#.
 msgid "Belgium"
 msgstr "Belgiya"
 
@@ -158,7 +156,6 @@ msgstr "Benin"
 
 #. BM - Bermuda, a British territory off the coast of the
 #. United States
-#.
 msgid "Bermuda"
 msgstr "Bermud orollari"
 
@@ -184,13 +181,11 @@ msgstr "Braziliya"
 
 #. IO - British Indian Ocean Territory, which is exactly what
 #. it sounds like.
-#.
 msgid "British Indian Ocean Territory"
 msgstr "Britaniya Hind okeani hududi"
 
 #. VG - British Virgin Islands, a British territory in the
 #. Caribbean
-#.
 msgid "British Virgin Islands"
 msgstr "Britaniya Virjin Orollari"
 
@@ -244,21 +239,18 @@ msgstr "Chili"
 
 #. CN - China. (The official ISO 3166 short English name does
 #. not include "The People's Republic of".)
-#.
 msgid "China"
 msgstr "Xitoy"
 
 #. CX - Christmas Island, a territory of Australia in the
 #. Indian Ocean, not to be confused with various other islands
 #. of the same name.
-#.
 msgid "Christmas Island"
 msgstr "Rojdestvo oroli"
 
 #. CC - Cocos (Keeling) Islands, a territory of Australia in
 #. the Indian Ocean. The "(Keeling)" is to distinguish them
 #. from other "Cocos Island"s, and is part of the official name.
-#.
 msgid "Cocos (Keeling) Islands"
 msgstr "Kokos (Kiling) orollari"
 
@@ -278,7 +270,6 @@ msgstr "Kongo, Demokratik Respublikasi"
 #. English name is simply "Congo"; we use the long name to
 #. better distinguish it from CD (The Democratic Republic of
 #. the Congo).
-#.
 msgid "Congo, Republic of the"
 msgstr "Kongo, Respublika"
 
@@ -321,7 +312,6 @@ msgstr "Jibuti"
 
 #. DM - Dominica, a Caribbean island nation, not to be confused
 #. with the Domincan Republic.
-#.
 msgid "Dominica"
 msgstr "Dominika"
 
@@ -362,13 +352,11 @@ msgstr "Efiopiya"
 #. is "Falkland Islands". The Argentine name is "Islas
 #. Malvinas". The parenthesized form is the compromise used by
 #. ISO and the UN.)
-#.
 msgid "Falkland Islands (Malvinas)"
 msgstr "Folklend orollari (Malvin orollari)"
 
 #. FO - Faroe Islands, an autonomous province of Denmark in the
 #. north Atlantic.
-#.
 msgid "Faroe Islands"
 msgstr "Farer orollari"
 
@@ -386,13 +374,11 @@ msgstr "Fransiya"
 
 #. GF - French Guiana, an overseas department of France on the
 #. northern coast of South America.
-#.
 msgid "French Guiana"
 msgstr "Fransuz Gvianasi"
 
 #. PF - French Polynesia, a French territory in the South
 #. Pacific
-#.
 msgid "French Polynesia"
 msgstr "Fransuz Polineziyasi"
 
@@ -400,7 +386,6 @@ msgstr "Fransuz Polineziyasi"
 #. consisting of several mostly-uninhabited islands in the
 #. Indian Ocean. The French name is "Terres australes
 #. françaises".
-#.
 msgid "French Southern Territories"
 msgstr "Frantsiyaning janubiy hududlari"
 
@@ -427,7 +412,6 @@ msgstr "Gana"
 
 #. GI - Gibraltar, a British overseas territory on the southern
 #. tip of Spain.
-#.
 msgctxt "Country"
 msgid "Gibraltar"
 msgstr "Gibraltar"
@@ -438,7 +422,6 @@ msgstr "Gretsiya"
 
 #. GL - Greenland, an autonomous province of Denmark in the
 #. North Atlantic.
-#.
 msgid "Greenland"
 msgstr "Grenlandiya"
 
@@ -448,13 +431,11 @@ msgstr "Grenada"
 
 #. GP - Guadeloupe, an overseas department of France in the
 #. Caribbean.
-#.
 msgid "Guadeloupe"
 msgstr "Gvadelupa"
 
 #. GU - Guam, a territory of the United States in the South
 #. Pacific.
-#.
 msgid "Guam"
 msgstr "Guam"
 
@@ -489,7 +470,6 @@ msgstr "Gonduras"
 
 #. HK - Hong Kong, aka "Hong Kong Special Administrative Region
 #. of China"
-#.
 msgid "Hong Kong"
 msgstr "Gonkong"
 
@@ -552,7 +532,7 @@ msgstr "Iordaniya"
 
 #. KZ - Kazakhstan
 msgid "Kazakhstan"
-msgstr "Qozog'iston"
+msgstr "Qozogʻiston"
 
 #. KE - Kenya
 msgid "Kenya"
@@ -573,7 +553,7 @@ msgstr "Quvayt"
 
 #. KG - Kyrgyzstan
 msgid "Kyrgyzstan"
-msgstr "Qirg'iziston"
+msgstr "Qirgʻiziston"
 
 #. LA - Lao People's Democratic Republic
 msgid "Laos"
@@ -618,7 +598,6 @@ msgstr "Lyuksemburg"
 #. China". (The spellings "Macao" and "Macau" are both widely
 #. used. The "u" spelling is currently slightly more popular in
 #. English.)
-#.
 msgctxt "Country"
 msgid "Macau"
 msgstr "Aomin"
@@ -658,7 +637,6 @@ msgstr "Marshall orollari"
 
 #. MQ - Martinique, an overseas department of France in the
 #. Caribbean.
-#.
 msgid "Martinique"
 msgstr "Martinika"
 
@@ -693,7 +671,7 @@ msgstr "Monako"
 
 #. MN - Mongolia
 msgid "Mongolia"
-msgstr "Mo'g'uliston"
+msgstr "Moʻgʻuliston"
 
 #. ME - Montenegro
 msgid "Montenegro"
@@ -714,7 +692,6 @@ msgstr "Mozambik"
 #. MM - Myanmar (also known as Burma, but "Myanmar" is
 #. currently the official ISO 3166 short English name, and gets
 #. more Google hits in English)
-#.
 msgid "Myanmar"
 msgstr "Myanma"
 
@@ -737,13 +714,11 @@ msgstr "Niderlandiya"
 #. AN - Netherlands Antilles, a group of Caribbean islands; one
 #. of the three constituent countries of the Kingdom of the
 #. Netherlands.
-#.
 msgid "Netherlands Antilles"
 msgstr "Niderlandiya Antillari"
 
 #. NC - New Caledonia, a French territory in the South Pacific.
 #. The French name is "Nouvelle-Calédonie".
-#.
 msgid "New Caledonia"
 msgstr "Yangi Kaledoniya"
 
@@ -773,13 +748,11 @@ msgstr "Norfolk oroli"
 
 #. KP - The Democratic People's Republic of Korea, aka North
 #. Korea
-#.
 msgid "North Korea"
 msgstr "Shimoliy Koreya"
 
 #. MP - Northern Mariana Islands, a semi-independent territory
 #. of the United States in the western Pacific Ocean.
-#.
 msgid "Northern Mariana Islands"
 msgstr "Shimoliy Mariana Orollari"
 
@@ -805,7 +778,6 @@ msgstr "Falastin"
 
 #. PA - Panama. The local (Spanish) name is "Panamá". In common
 #. English usage (and in ISO 3166) it does not have the accent.
-#.
 msgid "Panama"
 msgstr "Panama"
 
@@ -840,7 +812,6 @@ msgstr "Partugaliya"
 
 #. PR - Puerto Rico, a territory of the United States in the
 #. Caribbean.
-#.
 msgid "Puerto Rico"
 msgstr "Puerto Riko"
 
@@ -862,13 +833,11 @@ msgstr "Ruanda"
 
 #. RE - Réunion, an overseas department of France in the Indian
 #. Ocean.
-#.
 msgid "Réunion"
 msgstr "Reunion"
 
 #. BL - Saint Barthélemy, an overseas territory of France in
 #. the Caribbean, formerly part of Guadeloupe.
-#.
 msgid "Saint Barthélemy"
 msgstr "Sent-Bartelemi"
 
@@ -887,14 +856,12 @@ msgstr "Sent-Lyusiya"
 #. MF - Saint Martin, the French half of the island of Saint
 #. Martin / Sint Maarten. (The Dutch half is considered part of
 #. the Netherlands Antilles.)
-#.
 msgid "Saint Martin"
 msgstr "Sankt-Martin"
 
 #. PM - Saint Pierre and Miquelon, a French territory in North
 #. America (off the coast of Newfoundland). The French name is
 #. "Saint-Pierre-et-Miquelon".
-#.
 msgid "Saint Pierre and Miquelon"
 msgstr "Sent-Pyer va Mikelon"
 
@@ -904,7 +871,6 @@ msgstr "Sent-Vinsent va Grenadin orollari"
 
 #. WS - Samoa, an independent nation not to be confused with
 #. "American Samoa"
-#.
 msgid "Samoa"
 msgstr "Samoa"
 
@@ -916,7 +882,6 @@ msgstr "San-Marino"
 #. ST - Sao Tome and Principe. The local (Portuguese) name is
 #. "São Tomé and Príncipe". The official ISO 3166 short English
 #. name does not have the accents.
-#.
 msgid "Sao Tome and Principe"
 msgstr "San-Tome va Prinsipi"
 
@@ -967,7 +932,6 @@ msgstr "Janubiy Afrika"
 
 #. GS - South Georgia and the South Sandwich Islands, a British
 #. territory in the South Atlantic.
-#.
 msgid "South Georgia and the South Sandwich Islands"
 msgstr "Janubiy Jorjiya va Janubiy Sandvich orollari"
 
@@ -994,7 +958,6 @@ msgstr "Surinam"
 #. SJ - Svalbard and Jan Mayen. Svalbard is an island in the
 #. Arctic Ocean which is a part of Norway with unusual status
 #. internationally.
-#.
 msgid "Svalbard and Jan Mayen"
 msgstr "Svalbard va Yan Mayen"
 
@@ -1016,7 +979,6 @@ msgstr "Suriya"
 
 #. TW - Taiwan, Province of China. (That's the official ISO
 #. 3166 short English name.)
-#.
 msgid "Taiwan"
 msgstr "Tayvan"
 
@@ -1066,7 +1028,6 @@ msgstr "Turkmaniston"
 
 #. TC - Turks and Caicos Islands, a British territory in the
 #. Caribbean
-#.
 msgid "Turks and Caicos Islands"
 msgstr "Turks va Kaykos orollari"
 
@@ -1092,20 +1053,18 @@ msgstr "Birlashgan Qirollik"
 
 #. US - United States, aka United States of America
 msgid "United States"
-msgstr "Qo'shma Shtatlar"
+msgstr "Qoʻshma Shtatlar"
 
 #. UM - United States Minor Outlying Islands, a group of
 #. mostly-uninhabited United States territories in the South
 #. Pacific.
-#.
 msgid "United States Minor Outlying Islands"
-msgstr "Amerika Qo'shma Shtatlarining Kichik Chet orollari"
+msgstr "Amerika Qoʻshma Shtatlarining Kichik Chet orollari"
 
 #. VI - United States Virgin Islands, a territory of the United
 #. States in the Caribbean
-#.
 msgid "United States Virgin Islands"
-msgstr "Amerika Qo'shma Shtatlari Virjiniya orollari"
+msgstr "Amerika Qoʻshma Shtatlari Virjiniya orollari"
 
 #. UY - Uruguay
 msgid "Uruguay"
@@ -1130,19 +1089,17 @@ msgstr "Venesuela"
 #. VN - Viet Nam (The official ISO 3166 short English name
 #. includes a space, though it is also frequently written
 #. without one.)
-#.
 msgid "Viet Nam"
 msgstr "Vyetnam"
 
 #. WF - Wallis and Futuna, a French territory in the South
 #. Pacific
-#.
 msgid "Wallis and Futuna"
 msgstr "Uollis va Futuna"
 
 #. EH - Western Sahara, a disputed territory in western Africa
 msgid "Western Sahara"
-msgstr "G'arbiy Sahara"
+msgstr "Gʻarbiy Sahara"
 
 #. YE - Yemen
 msgid "Yemen"
@@ -1165,16 +1122,14 @@ msgstr "Aland orollari"
 #. where "Democratic Republic of the Congo" is already
 #. clear from context. FIXME: is there an official name for
 #. this zone?
-#.
 msgid "Western Congo"
-msgstr "G'arbiy Kongo"
+msgstr "Gʻarbiy Kongo"
 
 #. The time zone used in the eastern half of the Democratic
 #. Republic of the Congo. The string is only used in places
 #. where "Democratic Republic of the Congo" is already
 #. clear from context. FIXME: is there an official name for
 #. this zone?
-#.
 msgid "Eastern Congo"
 msgstr "Sharqiy Kongo"
 
@@ -1182,42 +1137,36 @@ msgstr "Sharqiy Kongo"
 #. the same time as mainland Chile. The string is only used
 #. in places where "Antarctica" is already clear from
 #. context.
-#.
 msgid "Palmer Station (Chile Time)"
 msgstr "Palmer stantsiyasi (Chili vaqti)"
 
 #. A British research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
-#.
 msgid "Rothera Research Station"
 msgstr "Rothera tadqiqot stantsiyasi"
 
 #. A Japanese research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
-#.
 msgid "Showa Station"
 msgstr "Showa stantsiyasi"
 
 #. An Australian research station in Antarctica. The string
 #. is only used in places where "Antarctica" is already
 #. clear from context.
-#.
 msgid "Mawson Station"
 msgstr "Mawson stantsiyasi"
 
 #. A Russian research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
-#.
 msgid "Vostok Station"
 msgstr "Vostok stantsiyasi"
 
 #. An Australian research station in Antarctica. The string
 #. is only used in places where "Antarctica" is already
 #. clear from context.
-#.
 msgid "Davis Station"
 msgstr "Devis stantsiyasi"
 
@@ -1225,84 +1174,71 @@ msgstr "Devis stantsiyasi"
 #. keeps the same time as Western Australia. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
-#.
 msgid "Casey Station (Western Australia Time)"
-msgstr "Keysi stantsiyasi (G'arbiy Avstraliya vaqti)"
+msgstr "Keysi stantsiyasi (Gʻarbiy Avstraliya vaqti)"
 
 #. A French research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
-#.
 msgid "Dumont d'Urville Station"
 msgstr "Dyumon d'Urvil stantsiyasi"
 
 #. An American research station in Antarctica, which keeps
 #. the same time as New Zealand. The string is only used in
 #. places where "Antarctica" is already clear from context.
-#.
 msgid "McMurdo Station (New Zealand Time)"
 msgstr "McMurdo stantsiyasi (Yangi Zelandiya vaqti)"
 
 #. An American research station in Antarctica, which keeps
 #. the same time as New Zealand. The string is only used in
 #. places where "Antarctica" is already clear from context.
-#.
 msgid "Amundsen-Scott South Pole Station (New Zealand Time)"
 msgstr "Amundsen-Skott janubiy qutb stantsiyasi (Yangi Zelandiya vaqti)"
 
 #. The time zone used in the eastern half of Kazakhstan.
 #. FIXME: is there an official name for this zone?
-#.
 msgid "Eastern Kazakhstan"
-msgstr "Sharqiy Qozog'iston"
+msgstr "Sharqiy Qozogʻiston"
 
 #. The time zone used in the western half of Kazakhstan.
 #. FIXME: is there an official name for this zone?
-#.
 msgid "Western Kazakhstan"
-msgstr "G'arbiy Qozog'iston"
+msgstr "Gʻarbiy Qozogʻiston"
 
 #. The time zone used in the eastern part of Mongolia.
 #. FIXME: Is there an official name for this zone?
-#.
 msgid "Eastern Mongolia"
-msgstr "Sharqiy Mo'g'uliston"
+msgstr "Sharqiy Moʻgʻuliston"
 
 #. The time zone used in the western part of Mongolia.
 #. FIXME: Is there an official name for this zone?
-#.
 msgid "Western Mongolia"
-msgstr "G'arbiy Mo'g'uliston"
+msgstr "Gʻarbiy Moʻgʻuliston"
 
 #. The time zone used in the central part of Mongolia.
 #. FIXME: Is there an official name for this zone?
-#.
 msgid "Central Mongolia"
-msgstr "Markaziy Mo'g'uliston"
+msgstr "Markaziy Moʻgʻuliston"
 
 #. The timezone around Danmarkshavn station in Greenland.
 #. The string is only used in places where "Greenland" is
 #. already clear from context.
-#.
 msgid "Danmarkshavn"
 msgstr "Danmarkshavn"
 
 #. The primary timezone for Greenland, although sources
 #. seem to point towards calling the area "Western
 #. Greenland" rathern than just "Greenland".
-#.
 msgid "Western Greenland"
-msgstr "G'arbiy Grenlandiya"
+msgstr "Gʻarbiy Grenlandiya"
 
 #. The timezone around Scoresbysund / Ittoqqortoormiit on
 #. the east coast of Greenland.
-#.
 msgid "Eastern Greenland"
 msgstr "Sharqiy Grenlandiya"
 
 #. The timezone at the Thule US Air Force Base on the west
 #. coast of Greenland.
-#.
 msgid "Thule AFB"
 msgstr "Thule AFB"
 
@@ -1311,30 +1247,26 @@ msgstr "Thule AFB"
 #. French-speaking parts of Canada it is called "Heure de
 #. l'Atlantique". The string is only used in places where a
 #. country is already clear from the context.
-#.
 msgid "Atlantic Time"
 msgstr "Atlantika vaqti"
 
 #. The time zone used in Western Australia. The string is
 #. only used in places where "Australia" is already clear
 #. from context.
-#.
 msgid "Western Time"
-msgstr "G'arbiy vaqt"
+msgstr "Gʻarbiy vaqt"
 
 #. The commonly-used name for an unofficial time zone used
 #. in part of southwestern Australia. The string is only
 #. used in places where "Australia" is already clear from
 #. context.
-#.
 msgid "Central Western Time"
-msgstr "Markaziy g'arbiy vaqt"
+msgstr "Markaziy gʻarbiy vaqt"
 
 #. The time zone used in Central Australia. This string is
 #. specifically for the time zone as implemented in the
 #. state of South Australia, and is only used in places
 #. where "Australia" is already clear from context.
-#.
 msgid "Central Time (South Australia)"
 msgstr "Markaziy vaqt (Janubiy Avstraliya)"
 
@@ -1344,7 +1276,6 @@ msgstr "Markaziy vaqt (Janubiy Avstraliya)"
 #. which uses Central Time even though the rest of the
 #. state uses Eastern Time. This string is only used in
 #. places where "Australia" is already clear from context.
-#.
 msgid "Central Time (Yancowinna, NSW)"
 msgstr "Markaziy vaqt (Yancowinna, NSW)"
 
@@ -1353,7 +1284,6 @@ msgstr "Markaziy vaqt (Yancowinna, NSW)"
 #. Northern Territory, which does not use Summer Time. This
 #. string is only used in places where "Australia" is
 #. already clear from context.
-#.
 msgid "Central Time (Northern Territory)"
 msgstr "Markaziy vaqt (Shimoliy hudud)"
 
@@ -1361,7 +1291,6 @@ msgstr "Markaziy vaqt (Shimoliy hudud)"
 #. specifically for the time zone as implemented in the
 #. state of Tasmania, and is only used in places where
 #. "Australia" is already clear from context.
-#.
 msgid "Eastern Time (Tasmania)"
 msgstr "Sharqiy vaqt (Tasmaniya)"
 
@@ -1369,7 +1298,6 @@ msgstr "Sharqiy vaqt (Tasmaniya)"
 #. specifically for the time zone as implemented in the
 #. state of Victoria, and is only used in places where
 #. "Australia" is already clear from context.
-#.
 msgid "Eastern Time (Victoria)"
 msgstr "Sharqiy vaqt (Viktoriya)"
 
@@ -1377,7 +1305,6 @@ msgstr "Sharqiy vaqt (Viktoriya)"
 #. specifically for the time zone as implemented in the
 #. state of New South Wales, and is only used in places
 #. where "Australia" is already clear from context.
-#.
 msgid "Eastern Time (New South Wales)"
 msgstr "Sharqiy vaqt (Yangi Janubiy Uels)"
 
@@ -1386,14 +1313,12 @@ msgstr "Sharqiy vaqt (Yangi Janubiy Uels)"
 #. state of Queensland, which does not use Summer Time.
 #. This string is only used in places where "Australia" is
 #. already clear from context.
-#.
 msgid "Eastern Time (Queensland)"
 msgstr "Sharqiy vaqt (Kvinslend)"
 
 #. The time zone used on Lord Howe Island, off the east
 #. coast of Australia. This string is only used in places
 #. where "Australia" is already clear from context.
-#.
 msgid "Lord Howe Island"
 msgstr "Lord Xou oroli"
 
@@ -1401,60 +1326,51 @@ msgstr "Lord Xou oroli"
 #. French Polynesia (including in particular the island of
 #. Tahiti). This string is only used in places where
 #. "French Polynesia" is already clear from context.
-#.
 msgid "Tahiti / Society Islands"
 msgstr "Taiti / Jamiyat orollari"
 
 #. This refers to the time zone in the Marquesas Islands of
 #. French Polynesia. This string is only used in places
 #. where "French Polynesia" is already clear from context.
-#.
 msgid "Marquesas Islands"
 msgstr "Markiz orollari"
 
 #. This refers to the time zone in the Gambier Islands of
 #. French Polynesia. This string is only used in places
 #. where "French Polynesia" is already clear from context.
-#.
 msgid "Gambier Islands"
 msgstr "Gambyer orollari"
 
 #. The timezone on the western islands of Indonesia. The
 #. name in Indonesian is "Waktu Indonesia Bagian Barat".
-#.
 msgid "Western Indonesia Time"
-msgstr "G'arbiy Indoneziya vaqti"
+msgstr "Gʻarbiy Indoneziya vaqti"
 
 #. The timezone on the central islands of Indonesia. The
 #. name in Indonesian is "Waktu Indonesia Bagian Tengah".
-#.
 msgid "Central Indonesia Time"
 msgstr "Markaziy Indoneziya vaqti"
 
 #. The timezone on the eastern islands of Indonesia. The
 #. name in Indonesian is "Waktu Indonesia Bagian Timur".
-#.
 msgid "Eastern Indonesia Time"
 msgstr "Sharqiy Indoneziya vaqti"
 
 #. The time zone in the Gilbert Islands, one of the three
 #. main island groups of Kiribati. This string is only used
 #. in places where "Kiribati" is already clear from context.
-#.
 msgid "Gilbert Islands"
 msgstr "Gilbert orollari"
 
 #. The time zone in the Phoenix Islands, one of the three
 #. main island groups of Kiribati. This string is only used
 #. in places where "Kiribati" is already clear from context.
-#.
 msgid "Phoenix Islands"
 msgstr "Feniks orollari"
 
 #. The time zone in the Line Islands, one of the three main
 #. island groups of Kiribati. This string is only used in
 #. places where "Kiribati" is already clear from context.
-#.
 msgid "Line Islands"
 msgstr "Line orollari"
 
@@ -1462,7 +1378,6 @@ msgstr "Line orollari"
 #. Micronesia, including the islands of Pohnpei and Kosrae.
 #. The string is only used in places where "Micronesia" is
 #. already clear from context.
-#.
 msgid "Pohnpei / Kosrae"
 msgstr "Pohnpei / Kosrae"
 
@@ -1470,7 +1385,6 @@ msgstr "Pohnpei / Kosrae"
 #. Micronesia, including the islands of Yap and Chuuk. The
 #. string is only used in places where "Micronesia" is
 #. already clear from context.
-#.
 msgid "Yap / Chuuk"
 msgstr "Yap / Chuuk"
 
@@ -1480,13 +1394,11 @@ msgstr "Yap / Chuuk"
 #. "New Zealand" is already clear from context. FIXME: is
 #. there a better name for this? "Mainland" seems odd in
 #. reference to an island nation...
-#.
 msgid "Mainland New Zealand"
 msgstr "Materik Yangi Zelandiya"
 
 #. This refers to the time zone in the Chatham Islands of
 #. New Zealand.
-#.
 msgid "Chatham Islands"
 msgstr "Chatham orollari"
 
@@ -1495,7 +1407,6 @@ msgstr "Chatham orollari"
 #. as the US state of Hawaii. The string is only used in
 #. places where "US Minor Outlying Islands" is already
 #. clear from context.
-#.
 msgid "Johnston Atoll (Hawaii Time)"
 msgstr "Jonston Atoll (Gavayi vaqti)"
 
@@ -1505,7 +1416,6 @@ msgstr "Jonston Atoll (Gavayi vaqti)"
 #. as (non-American) Samoa). The string is only used in
 #. places where "US Minor Outlying Islands" is already
 #. clear from context.
-#.
 msgid "Midway Atoll (Samoa Time)"
 msgstr "Midway Atoll (Samoa vaqti)"
 
@@ -1513,7 +1423,6 @@ msgstr "Midway Atoll (Samoa vaqti)"
 #. Outlying Islands. The string is only used in places
 #. where "US Minor Outlying Islands" is already clear from
 #. context.
-#.
 msgid "Wake Island"
 msgstr "Ueyk oroli"
 
@@ -1521,7 +1430,6 @@ msgstr "Ueyk oroli"
 #. Tocantins. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgid "Tocantins"
 msgstr "Tokantinlar"
 
@@ -1529,7 +1437,6 @@ msgstr "Tokantinlar"
 #. Bahia. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgctxt "Timezone"
 msgid "Bahia"
 msgstr "Bahia"
@@ -1539,7 +1446,6 @@ msgstr "Bahia"
 #. "Brasília Time" for more details. This string is only
 #. used in places where "Brazil" is already clear from
 #. context.
-#.
 msgid "Amapá / East Pará"
 msgstr "Amapa / Sharqiy Para"
 
@@ -1547,7 +1453,6 @@ msgstr "Amapa / Sharqiy Para"
 #. Roraima. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgctxt "Timezone"
 msgid "Roraima"
 msgstr "Roraima"
@@ -1556,7 +1461,6 @@ msgstr "Roraima"
 #. Mato Grosso do Sul. See the comment on "Brasília Time"
 #. for more details. This string is only used in places
 #. where "Brazil" is already clear from context.
-#.
 msgctxt "Timezone"
 msgid "Mato Grosso do Sul"
 msgstr "Mato Grosso do Sul"
@@ -1565,7 +1469,6 @@ msgstr "Mato Grosso do Sul"
 #. Mato Grosso. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgctxt "Timezone"
 msgid "Mato Grosso"
 msgstr "Mato Grosso"
@@ -1575,16 +1478,14 @@ msgstr "Mato Grosso"
 #. "Brasília Time" for more details. This string is only
 #. used in places where "Brazil" is already clear from
 #. context.
-#.
 msgid "West Amazonas"
-msgstr "G'arbiy Amazonas"
+msgstr "Gʻarbiy Amazonas"
 
 #. This represents the time zone in the Brazilian states of
 #. Ceará, Maranhão, Paraíba, Piauí, and Rio Grande do
 #. Norte. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgid "Ceará, Maranhão, Paraíba, Piauí, Rio Grande do Norte"
 msgstr "Ceara, Maranhao, Paraiba, Piaui, Rio Grande-do Norte"
 
@@ -1592,7 +1493,6 @@ msgstr "Ceara, Maranhao, Paraiba, Piaui, Rio Grande-do Norte"
 #. Alagoas and Sergipe. See the comment on "Brasília Time"
 #. for more details. This string is only used in places
 #. where "Brazil" is already clear from context.
-#.
 msgid "Alagoas, Sergipe"
 msgstr "Alagoas, Sergipe"
 
@@ -1601,7 +1501,6 @@ msgstr "Alagoas, Sergipe"
 #. "Brasília Time" for more details. This string is only
 #. used in places where "Brazil" is already clear from
 #. context.
-#.
 msgid "East Amazonas"
 msgstr "Sharqiy Amazonas"
 
@@ -1609,7 +1508,6 @@ msgstr "Sharqiy Amazonas"
 #. Fernando de Noronha. See the comment on "Brasília Time"
 #. for more details. This string is only used in places
 #. where "Brazil" is already clear from context.
-#.
 msgid "Fernando de Noronha"
 msgstr "Fernando de Noronha"
 
@@ -1618,15 +1516,13 @@ msgstr "Fernando de Noronha"
 #. on "Brasília Time" for more details. This string is only
 #. used in places where "Brazil" is already clear from
 #. context.
-#.
 msgid "West Pará, Rondônia"
-msgstr "G'arbiy Para, Rondônia"
+msgstr "Gʻarbiy Para, Rondônia"
 
 #. This represents the time zone in the Brazilian state of
 #. Pernambuco. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgctxt "Timezone"
 msgid "Pernambuco"
 msgstr "Pernambuko"
@@ -1635,7 +1531,6 @@ msgstr "Pernambuko"
 #. Acre. See the comment on "Brasília Time" for more
 #. details. This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgctxt "Timezone"
 msgid "Acre"
 msgstr "Acre"
@@ -1657,26 +1552,22 @@ msgstr "Acre"
 #. Janeiro, Rio Grande do Sul, Santa Catarina, and São
 #. Paulo). This string is only used in places where
 #. "Brazil" is already clear from context.
-#.
 msgid "Brasília Time"
 msgstr "Braziliya vaqti"
 
 #. This refers to the time zone for mainland Chile (as
 #. opposed to the time zone for Easter Island).
-#.
 msgid "Mainland Chile"
 msgstr "Materik Chili"
 
 #. This refers to the time zone for Easter Island. The
 #. string is only used in places where "Chile" is already
 #. understood from context.
-#.
 msgid "Easter Island"
 msgstr "Pasxa oroli"
 
 #. This refers to the time zone for mainland Ecuador (as
 #. opposed to the time zone for the Galapagos Islands).
-#.
 msgid "Mainland Ecuador"
 msgstr "Materik Ekvador"
 
@@ -1686,33 +1577,28 @@ msgstr "Galapagos orollari"
 
 #. The time zone in the UK (GMT in the winter, and British
 #. Summer Time in the summer.)
-#.
 msgid "GMT/BST"
 msgstr "GMT/BST"
 
 #. The time zone in Ireland (GMT in the winter, and Irish
 #. Summer Time in the summer.)
-#.
 msgid "GMT/IST"
 msgstr "GMT/IST"
 
 #. This refers to the time zone for the Azores. The string
 #. is only used in places where "Portugal" is already
 #. understood from context.
-#.
 msgid "Azores"
 msgstr "Azor orollari"
 
 #. This refers to the time zone for the Portuguese island
 #. of Madeira. The string is only used in places where
 #. "Portugal" is already understood from context.
-#.
 msgid "Madeira"
 msgstr "Madeyra"
 
 #. This refers to the time zone for mainland Portugal (as
 #. opposed to the time zone for the Azores).
-#.
 msgid "Mainland Portugal"
 msgstr "Materik Portugaliya"
 
@@ -1720,7 +1606,6 @@ msgstr "Materik Portugaliya"
 #. Kaliningrad on the Baltic sea. The Russian name is
 #. "Калининградское время". This string is only used in
 #. places where "Russia" is already clear from context.
-#.
 msgid "Kaliningrad Time"
 msgstr "Kaliningrad vaqti"
 
@@ -1728,7 +1613,6 @@ msgstr "Kaliningrad vaqti"
 #. of Russia, including Moscow. The Russian name is
 #. "Московское время". This string is only used in places
 #. where "Russia" is already clear from context.
-#.
 msgid "Moscow Time"
 msgstr "Moskva vaqti"
 
@@ -1737,7 +1621,6 @@ msgstr "Moskva vaqti"
 #. Russian name is "Самарское время". This string is only
 #. used in places where "Russia" is already clear from
 #. context.
-#.
 msgid "Samara Time"
 msgstr "Samara vaqti"
 
@@ -1745,7 +1628,6 @@ msgstr "Samara vaqti"
 #. including the city of Yekaterinburg. The Russian name is
 #. "Екатеринбургское время". This string is only used in
 #. places where "Russia" is already clear from context.
-#.
 msgid "Yekaterinburg Time"
 msgstr "Yekaterinburg vaqti"
 
@@ -1754,7 +1636,6 @@ msgstr "Yekaterinburg vaqti"
 #. The Russian name is "Омское время". This string is only
 #. used in places where "Russia" is already clear from
 #. context.
-#.
 msgid "Omsk Time"
 msgstr "Omsk vaqti"
 
@@ -1762,7 +1643,6 @@ msgstr "Omsk vaqti"
 #. The Russian name is "Новосибирское время".
 #. This string is only used in places
 #. where "Russia" is already clear from context.
-#.
 msgid "Novosibirsk Time"
 msgstr "Novosibirsk vaqti"
 
@@ -1770,7 +1650,6 @@ msgstr "Novosibirsk vaqti"
 #. surrounding areas of central Russia. The Russian name is
 #. "Красноярское время". This string is only used in places
 #. where "Russia" is already clear from context.
-#.
 msgid "Krasnoyarsk Time"
 msgstr "Krasnoyarsk vaqti"
 
@@ -1778,7 +1657,6 @@ msgstr "Krasnoyarsk vaqti"
 #. surrounding areas of south-central Russia. The Russian
 #. name is "Иркутское время". This string is only used in
 #. places where "Russia" is already clear from context.
-#.
 msgid "Irkutsk Time"
 msgstr "Irkutsk vaqti"
 
@@ -1786,7 +1664,6 @@ msgstr "Irkutsk vaqti"
 #. surrounding areas of east-central Russia. The Russian
 #. name is "Якутское время". This string is only used in
 #. places where "Russia" is already clear from context.
-#.
 msgid "Yakutsk Time"
 msgstr "Yakutsk vaqti"
 
@@ -1794,7 +1671,6 @@ msgstr "Yakutsk vaqti"
 #. surrounding areas of eastern Russia. The Russian name is
 #. "Владивостокское время". This string is only used in
 #. places where "Russia" is already clear from context.
-#.
 msgid "Vladivostok Time"
 msgstr "Vladivostok vaqti"
 
@@ -1802,7 +1678,6 @@ msgstr "Vladivostok vaqti"
 #. surrounding areas of eastern Russia. The Russian name is
 #. "Магаданское время". This string is only used in places
 #. where "Russia" is already clear from context.
-#.
 msgid "Magadan Time"
 msgstr "Magadan vaqti"
 
@@ -1810,27 +1685,23 @@ msgstr "Magadan vaqti"
 #. Chukotka okrug of far-eastern Russia. The Russian name
 #. is "Камчатское время". This string is only used in
 #. places where "Russia" is already clear from context.
-#.
 msgid "Kamchatka Time"
 msgstr "Kamchatka vaqti"
 
 #. This refers to the time zone for the Canary Islands. The
 #. string is only used in places where "Spain" is already
 #. clear from context.
-#.
 msgid "Canary Islands"
 msgstr "Kanar orollari"
 
 #. This refers to the time zone for mainland Spain (as
 #. opposed to the time zone for the Canary Islands).
-#.
 msgid "Mainland Spain"
 msgstr "Materik Ispaniya"
 
 #. The time zone for the Spanish cities of Ceuta and
 #. Melilla, on the coast of Africa. The string is only used
 #. in places where "Spain" is already clear from context.
-#.
 msgid "Ceuta and Melilla"
 msgstr "Seuta va Melilla"
 
@@ -1840,7 +1711,6 @@ msgstr "Seuta va Melilla"
 #. "Heure du Pacifique". The string is only used in places
 #. where "US", "Canada" or "Mexico" is already clear from
 #. the context.
-#.
 msgid "Pacific Time"
 msgstr "Tinch okeani vaqti"
 
@@ -1850,15 +1720,13 @@ msgstr "Tinch okeani vaqti"
 #. parts of Canada it is called "Heure des Rocheuses". The
 #. string is only used in places where "US", "Canada" or
 #. "Mexico" is already clear from the context.
-#.
 msgid "Mountain Time"
-msgstr "Tog' vaqti"
+msgstr "Togʻ vaqti"
 
 #. This represents the time zone in the northeastern part
 #. of the Canadian province of British Columbia (BC), which
 #. is part of the "Mountain Time" zone, but does not
 #. observe Daylight Saving Time with the rest of the zone.
-#.
 msgid "Mountain Time, no DST (Northeast BC)"
 msgstr "Togʻ vaqti, DST yoʻq (miloddan avvalgi shimoli-sharqiy)"
 
@@ -1868,7 +1736,6 @@ msgstr "Togʻ vaqti, DST yoʻq (miloddan avvalgi shimoli-sharqiy)"
 #. du Centre". The string is only used in places where
 #. "US", "Canada" or "Mexico" is already clear from the
 #. context.
-#.
 msgid "Central Time"
 msgstr "Markaziy vaqt"
 
@@ -1876,7 +1743,6 @@ msgstr "Markaziy vaqt"
 #. of Saskatchewan, which is part of the "Central Time"
 #. zone, but does not observe Daylight Saving Time with the
 #. rest of the zone.
-#.
 msgid "Central Time, no DST (Saskatchewan)"
 msgstr "Markaziy vaqt, DSTsiz (Saskachevan)"
 
@@ -1885,7 +1751,6 @@ msgstr "Markaziy vaqt, DSTsiz (Saskachevan)"
 #. Canada. In French-speaking parts of Canada it is called
 #. "Heure de l'Est". The string is only used in places
 #. where "US" or "Canada" is already clear from the context.
-#.
 msgid "Eastern Time"
 msgstr "Sharqiy vaqt"
 
@@ -1894,22 +1759,19 @@ msgstr "Sharqiy vaqt"
 #. Ontario) which are part of the "Eastern Time" zone, but
 #. which do not observe Daylight Saving Time with the rest
 #. of the zone.
-#.
 msgid "Eastern Time, no DST (Southampton Island, etc)"
-msgstr "Sharqiy vaqt, DST yo'q (Sautgempton oroli va boshqalar)"
+msgstr "Sharqiy vaqt, DST yoʻq (Sautgempton oroli va boshqalar)"
 
 #. This represents the time zone in the far eastern portion
 #. of the Canadian province of Quebec, which is part of the
 #. "Atlantic Time" zone, but does not observe Daylight
 #. Saving Time with the rest of the zone.
-#.
 msgid "Atlantic Time, no DST (Eastern Quebec)"
-msgstr "Atlantika vaqti, DST yo'q (Sharqiy Kvebek)"
+msgstr "Atlantika vaqti, DST yoʻq (Sharqiy Kvebek)"
 
 #. The time zone used in the Canadian province of
 #. Newfoundland. In French-speaking parts of Canada it is
 #. called "Heure de Terre-Neuve".
-#.
 msgid "Newfoundland Time"
 msgstr "Nyufaundlend vaqti"
 
@@ -1919,7 +1781,6 @@ msgstr "Nyufaundlend vaqti"
 #. zone as it is observed in the Aleutian Islands (with
 #. Daylight Saving Time). It is only used in places where
 #. "United States" is already clear from context.
-#.
 msgid "Hawaiian-Aleutian Time (Aleutian Islands)"
 msgstr "Gavayi-Aleut vaqti (Aleut orollari)"
 
@@ -1929,14 +1790,12 @@ msgstr "Gavayi-Aleut vaqti (Aleut orollari)"
 #. zone as it is observed in Hawaii, where they do not use
 #. Daylight Saving Time. It is only used in places where
 #. "United States" is already clear from context.
-#.
 msgid "Hawaiian-Aleutian Time, no DST (Hawaii)"
 msgstr "Gavayi-Aleut vaqti, DSTsiz (Gavayi)"
 
 #. The time zone used in the majority of Alaska in the
 #. United States. The string is only used in places where
 #. "United States" is already clear from context.
-#.
 msgid "Alaska Time"
 msgstr "Alyaska vaqti"
 
@@ -1945,7 +1804,6 @@ msgstr "Alyaska vaqti"
 #. does not observe Daylight Saving Time with the rest of
 #. the zone. The string is only used in places where
 #. "United States" is already clear from context.
-#.
 msgid "Mountain Time, no DST (Arizona)"
 msgstr "Togʻ vaqti, DST yoʻq (Arizona)"
 
@@ -1980,11 +1838,10 @@ msgstr "Viktoriya"
 
 #. A state/province/territory in Australia
 msgid "Western Australia"
-msgstr "G'arbiy Avstraliya"
+msgstr "Gʻarbiy Avstraliya"
 
 #. A state in Belgium. local name (nl): Antwerpen. local name
 #. (fr): Anvers. local name (de): Antwerpen.
-#.
 msgctxt "State in Belgium"
 msgid "Antwerp"
 msgstr "Antverpen"
@@ -1993,7 +1850,6 @@ msgstr "Antverpen"
 #. Waals-Brabant. local name (fr): Bruxelles, Brabant flamand
 #. et wallon. local name (de): Brüssel, Flämish- und
 #. Wallonisch-Brabant.
-#.
 msgid "Brussels, Flemish and Walloon Brabant"
 msgstr "Bryussel, Flamand va Vallon Brabant"
 
@@ -2004,20 +1860,17 @@ msgstr "Sharqiy Flandriya"
 #. A state in Belgium. local name (fr): Hainaut. local name
 #. (fr_BE): Hinnot. local name (nl): Henegouwen. local name
 #. (de): Hennegau.
-#.
 msgid "Hainaut"
 msgstr "Hainaut"
 
 #. A state in Belgium. local name (nl): Limburg. local name
 #. (fr): Limbourg. local name (de): Limburg.
-#.
 msgid "Limburg"
 msgstr "Limburg"
 
 #. A state in Belgium. local name (fr): Liège. local name
 #. (fr_BE): Lîdje. local name (nl): Luik. local name (de):
 #. Lüttich.
-#.
 msgid "Liège"
 msgstr "Lyej"
 
@@ -2033,9 +1886,8 @@ msgstr "Namur"
 #. A state in Belgium. local name (nl): West-Vlaanderen.
 #. local name (fr): Flandre occidentale. local name (de):
 #. Westflandern.
-#.
 msgid "West-Flanders"
-msgstr "G'arbiy Flandriya"
+msgstr "Gʻarbiy Flandriya"
 
 #. A state/province/territory in Brazil
 msgctxt "State in Brazil"
@@ -2177,7 +2029,7 @@ msgstr "Nyufaundlend va Labrador"
 
 #. A state/province/territory in Canada
 msgid "Northwest Territories"
-msgstr "Shimoli-g'arbiy hududlar"
+msgstr "Shimoli-gʻarbiy hududlar"
 
 #. A state/province/territory in Canada
 msgid "Nova Scotia"
@@ -2265,7 +2117,7 @@ msgstr "Hunan"
 
 #. A state/province/territory in China
 msgid "Inner Mongolia"
-msgstr "Ichki Mo'g'uliston"
+msgstr "Ichki Moʻgʻuliston"
 
 #. A state/province/territory in China
 msgid "Jiangsu"
@@ -2327,7 +2179,6 @@ msgstr "Baden-Vyurtemberg"
 #. A state in Germany.  The local name is "Bayern". Please
 #. use that unless you know that it has a different name in
 #. your language.
-#.
 msgid "Bavaria"
 msgstr "Bavariya"
 
@@ -2353,35 +2204,30 @@ msgstr "Gamburg"
 #. A state in Germany.  The local name is "Hessen". Please
 #. use that unless you know that it has a different name in
 #. your language.
-#.
 msgid "Hesse"
 msgstr "Hesse"
 
 #. A state in Germany.  The local name is "Niedersachsen".
 #. Please use that unless you know that it has a different
 #. name in your language.
-#.
 msgid "Lower Saxony"
 msgstr "Quyi Saksoniya"
 
 #. A state in Germany.  The local name is
 #. "Mecklenburg-Vorpommern". Please use that unless you know
 #. that it has a different name in your language.
-#.
 msgid "Mecklenburg-Western Pomerania"
-msgstr "Meklenburg - G'arbiy Pomeraniya"
+msgstr "Meklenburg - Gʻarbiy Pomeraniya"
 
 #. A state in Germany.  The local name is
 #. "Nordrhein-Westfalen". Please use that unless you know
 #. that it has a different name in your language.
-#.
 msgid "North Rhine-Westphalia"
 msgstr "Shimoliy Reyn-Vestfaliya"
 
 #. A state in Germany.  The local name is "Rheinland-Pfalz".
 #. Please use that unless you know that it has a different
 #. name in your language.
-#.
 msgid "Rhineland-Palatinate"
 msgstr "Reynlandiya-Pfalz"
 
@@ -2392,14 +2238,12 @@ msgstr "Saarland"
 #. A state in Germany.  The local name is "Sachsen". Please
 #. use that unless you know that it has a different name in
 #. your language.
-#.
 msgid "Saxony"
 msgstr "Saksoniya"
 
 #. A state in Germany.  The local name is "Sachsen-Anhalt".
 #. Please use that unless you know that it has a different
 #. name in your language.
-#.
 msgid "Saxony-Anhalt"
 msgstr "Saksoniya-Anhalt"
 
@@ -2410,7 +2254,6 @@ msgstr "Shlezvig-Golshteyn"
 #. A state in Germany.  The local name is "Thüringen". Please
 #. use that unless you know that it has a different name in
 #. your language.
-#.
 msgid "Thuringia"
 msgstr "Turingiya"
 
@@ -2592,7 +2435,7 @@ msgstr "Uttarakxand"
 #. A state in India
 msgctxt "State in India"
 msgid "West Bengal"
-msgstr "G'arbiy Bengaliya"
+msgstr "Gʻarbiy Bengaliya"
 
 #. A state/province/territory in Mexico
 msgctxt "State in Mexico"
@@ -2857,7 +2700,7 @@ msgstr "Shimoliy-Sharqiy Angliya"
 
 #. A state/province/territory in United Kingdom
 msgid "North West England"
-msgstr "Shimoliy G'arbiy Angliya"
+msgstr "Shimoliy Gʻarbiy Angliya"
 
 #. A state/province/territory in United Kingdom
 msgid "Northern Ireland"
@@ -2869,7 +2712,7 @@ msgstr "Shotlandiya"
 
 #. A state/province/territory in United Kingdom
 msgid "South and South West England"
-msgstr "Janubiy va janubi-g'arbiy Angliya"
+msgstr "Janubiy va janubi-gʻarbiy Angliya"
 
 #. A state/province/territory in United Kingdom
 msgid "Wales"
@@ -3073,7 +2916,7 @@ msgstr "Vashington"
 
 #. A state/province/territory in United States
 msgid "West Virginia"
-msgstr "G'arbiy Virginia"
+msgstr "Gʻarbiy Virginia"
 
 #. A state/province/territory in United States
 msgid "Wisconsin"
@@ -3091,14 +2934,12 @@ msgstr "Hirot"
 #. The capital of Afghanistan.
 #. "Kabul" is the traditional English name.
 #. The local name in Persian is "Kabol".
-#.
 msgid "Kabul"
 msgstr "Kobul"
 
 #. The capital of Albania.
 #. "Tirana" is the traditional English name.
 #. The local name is "Tiranë".
-#.
 msgid "Tirana"
 msgstr "Tirana"
 
@@ -3109,7 +2950,6 @@ msgstr "Adrar"
 #. The capital of Algeria.
 #. "Algiers" is the traditional English name.
 #. The local name in French is "Alger".
-#.
 msgid "Algiers"
 msgstr "Jazoir"
 
@@ -3426,7 +3266,7 @@ msgstr "Dubbo"
 
 #. A city in New South Wales in Australia
 msgid "Forest Hill"
-msgstr "O'rmon tepaligi"
+msgstr "Oʻrmon tepaligi"
 
 #. A city in Tasmania in Australia
 msgctxt "City in Tasmania, Australia"
@@ -3464,7 +3304,7 @@ msgstr "Melburn"
 
 #. A city in Queensland in Australia
 msgid "Mount Isa"
-msgstr "Iso tog'i"
+msgstr "Iso togʻi"
 
 #. A city in Western Australia in Australia
 msgid "Perth"
@@ -3506,7 +3346,6 @@ msgstr "Woomera"
 
 #. A city in Austria.
 #. One of several cities in Austria called "Aigen".
-#.
 msgid "Aigen im Ennstal"
 msgstr "Aigen im Ennstal"
 
@@ -3545,7 +3384,6 @@ msgstr "Tulln"
 #. The capital of Austria.
 #. "Vienna" is the traditional English name.
 #. The local name in German is "Wien".
-#.
 msgid "Vienna"
 msgstr "Vena"
 
@@ -3564,7 +3402,6 @@ msgstr "Zeltweg"
 #. The capital of Azerbaijan.
 #. "Baku" is the traditional English name.
 #. The local name is "Baki".
-#.
 msgid "Baku"
 msgstr "Boku"
 
@@ -3588,26 +3425,22 @@ msgstr "Nassau"
 
 #. A city in Bahrain.
 #. The name is also written "الحد".
-#.
 msgid "Al Hadd"
 msgstr "Al Hadd"
 
 #. The capital of Bahrain.
 #. "Manama" is the traditional English name.
 #. The local name in Arabic is "Al Manamah / المنامة".
-#.
 msgid "Manama"
 msgstr "Manama"
 
 #. A city in Bangladesh.
 #. The local name in Bengali is "চট্টগ্রাম".
-#.
 msgid "Chittagong"
 msgstr "Chittagong"
 
 #. The capital of Bangladesh.
 #. The local name in Bengali is "ঢাকা".
-#.
 msgid "Dhaka"
 msgstr "Dakka"
 
@@ -3651,14 +3484,12 @@ msgstr "Vitsyebsk"
 #. A city in Antwerp in Belgium.
 #. "Antwerp" is the traditional English name.
 #. The local name is "Antwerpen".
-#.
 msgctxt "City in Antwerp, Belgium"
 msgid "Antwerp"
 msgstr "Antverpen"
 
 #. A city in Brussels, Flemish and Walloon Brabant in
 #. Belgium
-#.
 msgid "Beauvechain"
 msgstr "Beauvechain"
 
@@ -3670,7 +3501,6 @@ msgstr "Bierset"
 #. "Brussels" is the traditional English name.
 #. The local name in French is "Bruxelles".
 #. The local name in Dutch is "Brussel".
-#.
 msgid "Brussels"
 msgstr "Bryussel"
 
@@ -3704,7 +3534,6 @@ msgstr "Oostende"
 
 #. A city in Brussels, Flemish and Walloon Brabant in
 #. Belgium
-#.
 msgid "Schaffen"
 msgstr "Shaffen"
 
@@ -3811,7 +3640,6 @@ msgstr "San-Xoakin"
 
 #. A city in Bolivia.
 #. One of several cities in Bolivia called "San José".
-#.
 msgid "San José de Chiquitos"
 msgstr "San-Xose de Chiquitos"
 
@@ -3870,7 +3698,7 @@ msgstr "Gaborone"
 
 #. A city in Botswana
 msgid "Ghanzi"
-msgstr "G'anzi"
+msgstr "Gʻanzi"
 
 #. A city in Botswana
 msgid "Kasane"
@@ -4499,7 +4327,7 @@ msgstr "Vitoria da Conquista"
 
 #. The capital of the British Virgin Islands
 msgid "Road Town"
-msgstr "Yo'l shaharchasi"
+msgstr "Yoʻl shaharchasi"
 
 #. A city in the British Virgin Islands
 msgid "The Mill"
@@ -4524,7 +4352,6 @@ msgstr "Plovdiv"
 #. The capital of Bulgaria.
 #. "Sofia" is the traditional English name.
 #. The local name is "Sofiya".
-#.
 msgid "Sofia"
 msgstr "Sofiya"
 
@@ -4543,7 +4370,6 @@ msgstr "Bujumbura"
 #. The capital of Cambodia.
 #. "Phnom Penh" is the traditional English name.
 #. The local name in Khmer is "Phnum Penh".
-#.
 msgid "Phnom Penh"
 msgstr "Pnompen"
 
@@ -4585,7 +4411,7 @@ msgstr "Allison bandargohi"
 
 #. A city in British Columbia in Canada
 msgid "Alta Lake"
-msgstr "Olta ko'li"
+msgstr "Olta koʻli"
 
 #. A city in Quebec in Canada
 msgid "Amqui"
@@ -4621,7 +4447,7 @@ msgstr "Baie-de-la-Trinité"
 
 #. A city in Nunavut in Canada
 msgid "Baker Lake"
-msgstr "Beyker ko'li"
+msgstr "Beyker koʻli"
 
 #. A city in British Columbia in Canada
 msgid "Baldonnel"
@@ -4707,7 +4533,7 @@ msgstr "Brandon"
 
 #. A city in Saskatchewan in Canada
 msgid "Broadview"
-msgstr "Keng ko'rinish"
+msgstr "Keng koʻrinish"
 
 #. A city in Alberta in Canada
 msgid "Brooks"
@@ -4724,11 +4550,11 @@ msgstr "Burlington"
 
 #. A city in British Columbia in Canada
 msgid "Burns Lake"
-msgstr "Berns ko'li"
+msgstr "Berns koʻli"
 
 #. A city in Yukon Territory in Canada
 msgid "Burwash Landing"
-msgstr "Burwash qo'nishi"
+msgstr "Burwash qoʻnishi"
 
 #. A city in Nova Scotia in Canada
 msgid "Caledonia"
@@ -4740,7 +4566,7 @@ msgstr "Kalgari"
 
 #. A city in Nunavut in Canada
 msgid "Cambridge Bay"
-msgstr "Kembrij ko'rfazi"
+msgstr "Kembrij koʻrfazi"
 
 #. A city in British Columbia in Canada
 msgid "Campbell River"
@@ -4853,7 +4679,7 @@ msgstr "Koburg"
 
 #. A city in Alberta in Canada
 msgid "Cold Lake"
-msgstr "Sovuq ko'l"
+msgstr "Sovuq koʻl"
 
 #. A city in Alberta in Canada
 msgid "Coleman"
@@ -4898,11 +4724,11 @@ msgstr "Douson"
 
 #. A city in British Columbia in Canada
 msgid "Dease Lake"
-msgstr "Dease ko'li"
+msgstr "Dease koʻli"
 
 #. A city in Newfoundland and Labrador in Canada
 msgid "Deer Lake"
-msgstr "Kiyik ko'li"
+msgstr "Kiyik koʻli"
 
 #. A city in Ontario in Canada
 msgid "Delhi"
@@ -4951,7 +4777,7 @@ msgstr "Edson"
 
 #. A city in Ontario in Canada
 msgid "Elliot Lake"
-msgstr "Elliot ko'li"
+msgstr "Elliot koʻli"
 
 #. A city in Prince Edward Island in Canada
 msgctxt "City in Prince Edward Island, Canada"
@@ -5090,7 +4916,7 @@ msgstr "Oltin"
 
 #. A city in Newfoundland and Labrador in Canada
 msgid "Goose Bay"
-msgstr "Goz ko'rfazi"
+msgstr "Goz koʻrfazi"
 
 #. A city in Ontario in Canada
 msgid "Gore Bay"
@@ -5158,7 +4984,7 @@ msgstr "Xevron"
 
 #. A city in Ontario in Canada
 msgid "Heron Bay"
-msgstr "Heron ko'rfazi"
+msgstr "Heron koʻrfazi"
 
 #. A city in Alberta in Canada
 msgid "High Level"
@@ -5198,7 +5024,7 @@ msgstr "Iqaluit"
 
 #. A city in Manitoba in Canada
 msgid "Island Lake"
-msgstr "Orol ko'li"
+msgstr "Orol koʻli"
 
 #. A city in Quebec in Canada
 msgid "Ivugivik"
@@ -5334,11 +5160,11 @@ msgstr "Longue-Pointe-de-Mingan"
 
 #. A city in Saskatchewan in Canada
 msgid "Lucky Lake"
-msgstr "Baxtli ko'l"
+msgstr "Baxtli koʻl"
 
 #. A city in Manitoba in Canada
 msgid "Lynn Lake"
-msgstr "Linn ko'li"
+msgstr "Linn koʻli"
 
 #. A city in British Columbia in Canada
 msgid "Lytton"
@@ -5374,11 +5200,11 @@ msgstr "Mayo"
 
 #. A city in British Columbia in Canada
 msgid "McLeod Lake"
-msgstr "MakLeod ko'li"
+msgstr "MakLeod koʻli"
 
 #. A city in Saskatchewan in Canada
 msgid "Meadow Lake"
-msgstr "Yaylov ko'li"
+msgstr "Yaylov koʻli"
 
 #. A city in Alberta in Canada
 msgid "Medicine Hat"
@@ -5415,7 +5241,6 @@ msgstr "Montmagny"
 
 #. A city in Quebec in Canada.
 #. The local name in French is "Montréal".
-#.
 msgid "Montreal"
 msgstr "Monreal"
 
@@ -5429,11 +5254,11 @@ msgstr "Morden"
 
 #. A city in Ontario in Canada
 msgid "Mount Forest"
-msgstr "O'rmon tog'i"
+msgstr "Oʻrmon togʻi"
 
 #. A city in Newfoundland and Labrador in Canada
 msgid "Mount Pearl Park"
-msgstr "Pearl tog'i parki"
+msgstr "Pearl togʻi parki"
 
 #. A city in Ontario in Canada
 msgid "Muskoka Falls"
@@ -5457,7 +5282,7 @@ msgstr "Nanaimo"
 
 #. A city in British Columbia in Canada
 msgid "Nanoose Bay"
-msgstr "Nanoose ko'rfazi"
+msgstr "Nanoose koʻrfazi"
 
 #. A city in Ontario in Canada
 msgid "Nanticoke"
@@ -5506,7 +5331,7 @@ msgstr "Shimoliy Battleford"
 
 #. A city in Ontario in Canada
 msgid "North Bay"
-msgstr "Shimoliy ko'rfaz"
+msgstr "Shimoliy koʻrfaz"
 
 #. A city in British Columbia in Canada
 msgid "North Kamloops"
@@ -5534,11 +5359,11 @@ msgstr "Okean sharsharalari"
 
 #. A city in Yukon Territory in Canada
 msgid "Old Crow"
-msgstr "Eski qarg'a"
+msgstr "Eski qargʻa"
 
 #. A city in Alberta in Canada
 msgid "Onefour"
-msgstr "Bir to'rt"
+msgstr "Bir toʻrt"
 
 #. A city in British Columbia in Canada
 msgid "Osoyoos"
@@ -5651,7 +5476,6 @@ msgstr "Qiqiqtarjuaq"
 
 #. A city in Quebec in Canada.
 #. The local name in French is "Québec".
-#.
 msgctxt "City in Quebec, Canada"
 msgid "Quebec"
 msgstr "Kvebek"
@@ -5678,7 +5502,7 @@ msgstr "Qizil kiyik"
 
 #. A city in Ontario in Canada
 msgid "Red Lake"
-msgstr "Qizil ko'l"
+msgstr "Qizil koʻl"
 
 #. A city in Saskatchewan in Canada
 msgid "Regina"
@@ -5714,7 +5538,7 @@ msgstr "Rockglen"
 
 #. A city in Alberta in Canada
 msgid "Rocky Mountain House"
-msgstr "Rokki tog'li uy"
+msgstr "Rokki togʻli uy"
 
 #. A city in British Columbia in Canada
 msgid "Rocky Point"
@@ -5851,7 +5675,7 @@ msgstr "Sioux Lookout"
 
 #. A city in Alberta in Canada
 msgid "Slave Lake"
-msgstr "Qul ko'li"
+msgstr "Qul koʻli"
 
 #. A city in British Columbia in Canada
 msgid "Smithers"
@@ -5995,7 +5819,7 @@ msgstr "Trois-Rivyer"
 
 #. A city in British Columbia in Canada
 msgid "Trout Lake"
-msgstr "Trout ko'li"
+msgstr "Trout koʻli"
 
 #. A city in Northwest Territories in Canada
 msgid "Tuktoyaktuk"
@@ -6071,7 +5895,7 @@ msgstr "Suvli"
 
 #. A city in Yukon Territory in Canada
 msgid "Watson Lake"
-msgstr "Uotson ko'li"
+msgstr "Uotson koʻli"
 
 #. A city in Ontario in Canada
 msgid "Wawa"
@@ -6111,7 +5935,7 @@ msgstr "Wiarton"
 
 #. A city in British Columbia in Canada
 msgid "Williams Lake"
-msgstr "Uilyams ko'li"
+msgstr "Uilyams koʻli"
 
 #. A city in Ontario in Canada
 msgid "Windsor"
@@ -6259,25 +6083,21 @@ msgstr "Pekin"
 
 #. A city in Jilin in China.
 #. The name is also written "长春".
-#.
 msgid "Changchun"
 msgstr "Changchun"
 
 #. A city in Hunan in China.
 #. The name is also written "长沙".
-#.
 msgid "Changsha"
 msgstr "Changsha"
 
 #. A city in Sichuan in China.
 #. The name is also written "成都".
-#.
 msgid "Chengdu"
 msgstr "Chengdu"
 
 #. A city in Chongqing in China.
 #. The name is also written "重庆".
-#.
 msgctxt "City in Chongqing, China"
 msgid "Chongqing"
 msgstr "Chongqing"
@@ -6288,13 +6108,11 @@ msgstr "Dalian"
 
 #. A city in Fujian in China.
 #. The name is also written "福州".
-#.
 msgid "Fuzhou"
 msgstr "Fuchjou"
 
 #. A city in Guangdong in China.
 #. The name is also written "广州".
-#.
 msgid "Guangzhou"
 msgstr "Guanchjou"
 
@@ -6304,25 +6122,21 @@ msgstr "Guilin"
 
 #. A city in Zhejiang in China.
 #. The name is also written "杭州".
-#.
 msgid "Hangzhou"
 msgstr "Xanchjou"
 
 #. A city in Heilongjiang in China.
 #. The name is also written "哈尔滨".
-#.
 msgid "Harbin"
 msgstr "Harbin"
 
 #. A city in Anhui in China.
 #. The name is also written "合肥".
-#.
 msgid "Hefei"
 msgstr "Xefey"
 
 #. A city in Inner Mongolia in China.
 #. The name is also written "呼和浩特".
-#.
 msgid "Hohhot"
 msgstr "Xohxot"
 
@@ -6337,25 +6151,21 @@ msgstr "Kashi"
 
 #. A city in Yunnan in China.
 #. The name is also written "昆明".
-#.
 msgid "Kunming"
 msgstr "Kunming"
 
 #. A city in Gansu in China.
 #. The name is also written "兰州".
-#.
 msgid "Lanzhou"
 msgstr "Lanchjou"
 
 #. A city in Jiangsu in China.
 #. The name is also written "南京".
-#.
 msgid "Nanjing"
 msgstr "Nankin"
 
 #. A city in Guangxi in China.
 #. The name is also written "南宁".
-#.
 msgid "Nanning"
 msgstr "Nanning"
 
@@ -6369,7 +6179,6 @@ msgstr "Sanya"
 
 #. A city in Shanghai in China.
 #. The name is also written "上海".
-#.
 msgctxt "City in Shanghai, China"
 msgid "Shanghai"
 msgstr "Shanxay"
@@ -6380,7 +6189,6 @@ msgstr "Shantou"
 
 #. A city in Liaoning in China.
 #. The name is also written "沈阳".
-#.
 msgid "Shenyang"
 msgstr "Shenyang"
 
@@ -6390,44 +6198,37 @@ msgstr "Shenzhen"
 
 #. A city in Shanxi in China.
 #. The name is also written "太原".
-#.
 msgid "Taiyuan"
 msgstr "Taiyuan"
 
 #. A city in Tianjin in China.
 #. The name is also written "天津".
-#.
 msgctxt "City in Tianjin, China"
 msgid "Tianjin"
 msgstr "Tyantszin"
 
 #. A city in Xinjiang in China.
 #. The name is also written "乌鲁木齐".
-#.
 msgid "Urumqi"
 msgstr "Urumchi"
 
 #. A city in Hubei in China.
 #. The name is also written "武汉".
-#.
 msgid "Wuhan"
 msgstr "Vuxan"
 
 #. A city in Shaanxi in China.
 #. The name is also written "西安".
-#.
 msgid "Xi'an"
 msgstr "Sian"
 
 #. A city in Fujian in China.
 #. The name is also written "厦门".
-#.
 msgid "Xiamen"
 msgstr "Syamen"
 
 #. A city in Henan in China.
 #. The name is also written "郑州".
-#.
 msgid "Zhengzhou"
 msgstr "Chjenchjou"
 
@@ -6437,11 +6238,11 @@ msgstr "Barabanlar"
 
 #. The capital of Christmas Island
 msgid "Flying Fish Cove"
-msgstr "Uchar baliq ko'rfazi"
+msgstr "Uchar baliq koʻrfazi"
 
 #. A city in the Cocos (Keeling) Islands
 msgid "Bantam Village"
-msgstr "Bantam qishlog'i"
+msgstr "Bantam qishlogʻi"
 
 #. A city in Colombia
 msgid "Barranquilla"
@@ -6619,7 +6420,6 @@ msgstr "Guantanamo"
 #. The capital of Cuba.
 #. "Havana" is the traditional English name.
 #. The local name in Spanish is "La Habana".
-#.
 msgid "Havana"
 msgstr "Gavana"
 
@@ -6703,7 +6503,6 @@ msgstr "Plzen"
 #. The capital of the Czech Republic.
 #. "Prague" is the traditional English name.
 #. The local name in Czech is "Praha".
-#.
 msgid "Prague"
 msgstr "Praga"
 
@@ -6730,7 +6529,6 @@ msgstr "Billund"
 #. The capital of Denmark.
 #. "Copenhagen" is the traditional English name.
 #. The local name is "København".
-#.
 msgid "Copenhagen"
 msgstr "Kopengagen"
 
@@ -6860,7 +6658,6 @@ msgstr "Al Qabuti"
 #. A city in Egypt.
 #. "Alexandria" is the traditional English name.
 #. The local name in Arabic is "Al Iskandariyah".
-#.
 msgctxt "City in Egypt"
 msgid "Alexandria"
 msgstr "Iskandariya"
@@ -6876,7 +6673,6 @@ msgstr "Asyut"
 #. The capital of Egypt.
 #. "Cairo" is the traditional English name.
 #. The local name in Arabic is "Al Qahirah".
-#.
 msgctxt "City in Egypt"
 msgid "Cairo"
 msgstr "Qohira"
@@ -6884,7 +6680,6 @@ msgstr "Qohira"
 #. A city in Egypt.
 #. "Luxor" is the traditional English name.
 #. The local name in Arabic is "Al Uqsur".
-#.
 msgid "Luxor"
 msgstr "Luksor"
 
@@ -6963,7 +6758,6 @@ msgstr "Halli"
 
 #. The capital of Finland.
 #. The local name in Swedish is "Helsingfors".
-#.
 msgid "Helsinki"
 msgstr "Xelsinki"
 
@@ -6997,7 +6791,6 @@ msgstr "Kittilya"
 
 #. A city in Finland.
 #. The local name in Swedish is "Kronoby".
-#.
 msgid "Kruunupyy"
 msgstr "Kruunupyy"
 
@@ -7043,7 +6836,6 @@ msgstr "Tampere"
 
 #. A city in Finland.
 #. The local name in Swedish is "Åbo".
-#.
 msgid "Turku"
 msgstr "Turku"
 
@@ -7053,13 +6845,11 @@ msgstr "Utti"
 
 #. A city in Finland.
 #. The local name in Swedish is "Vasa".
-#.
 msgid "Vaasa"
 msgstr "Vaasa"
 
 #. A city in Finland.
 #. The local name in Swedish is "Vanda".
-#.
 msgid "Vantaa"
 msgstr "Vantaa"
 
@@ -7674,7 +7464,6 @@ msgstr "Meßstetten"
 #. A city in Bavaria in Germany.
 #. "Munich" is the traditional English name.
 #. The local name is "München".
-#.
 msgid "Munich"
 msgstr "Myunxen"
 
@@ -7696,7 +7485,6 @@ msgstr "Naumburg (Saale)"
 
 #. A city in Bavaria in Germany.
 #. One of several cities in Germany called "Neuburg".
-#.
 msgid "Neuburg an der Donau"
 msgstr "Noyburg an der Donau"
 
@@ -7715,7 +7503,6 @@ msgstr "Nordholz"
 #. A city in Bavaria in Germany.
 #. "Nuremberg" is the traditional English name.
 #. The local name is "Nürnberg".
-#.
 msgid "Nuremberg"
 msgstr "Nyurnberg"
 
@@ -7836,7 +7623,6 @@ msgstr "Argostolion"
 #. The capital of Greece.
 #. "Athens" is the traditional English name.
 #. The local name in Greek is "Athína / Αθήνα".
-#.
 msgctxt "City in Greece"
 msgid "Athens"
 msgstr "Afina"
@@ -7847,7 +7633,6 @@ msgstr "Krizoupolis"
 
 #. A city in Greece.
 #. The name is also written "Χίος".
-#.
 msgid "Chíos"
 msgstr "Chios"
 
@@ -7861,7 +7646,6 @@ msgstr "Iraklion"
 
 #. A city in Greece.
 #. The name is also written "Καλαμάτα".
-#.
 msgid "Kalamáta"
 msgstr "Kalamata"
 
@@ -7887,13 +7671,11 @@ msgstr "Kárpathos"
 
 #. A city in Greece.
 #. The name is also written "Κέρκυρα".
-#.
 msgid "Kérkyra"
 msgstr "Kérkyra"
 
 #. A city in Greece.
 #. The name is also written "Κύθηρα".
-#.
 msgid "Kýthira"
 msgstr "Kithira"
 
@@ -7911,7 +7693,6 @@ msgstr "Mitilini"
 
 #. A city in Greece.
 #. The name is also written "Μύκονος".
-#.
 msgid "Mýkonos"
 msgstr "Mikonos"
 
@@ -7969,13 +7750,11 @@ msgstr "Ayos Atanasios"
 
 #. A city in Greenland.
 #. The local name in Kalaallisut is "Uummannaq".
-#.
 msgid "Dundas"
 msgstr "Dundas"
 
 #. The capital of Greenland.
 #. The local name in Kalaallisut is "Nuuk".
-#.
 msgid "Godthåb"
 msgstr "Xudo"
 
@@ -7985,7 +7764,6 @@ msgstr "Ittorisseq"
 
 #. A city in Greenland.
 #. The local name in Kalaallisut is "Ilulissat".
-#.
 msgid "Jakobshavn"
 msgstr "Yakobshavn"
 
@@ -8177,13 +7955,11 @@ msgstr "Ytri-Njarðvik"
 
 #. A city in India
 #. the local name in Bengali is "আগরতলা/Agortôla"
-#.
 msgid "Agartala"
 msgstr "Agartala"
 
 #. A city in India
 #. the local name in Hindi is "आगरा"
-#.
 msgid "Agra"
 msgstr "Agra"
 
@@ -8193,19 +7969,16 @@ msgstr "Ahmadobod"
 
 #. A city in India
 #. the local name in Hindi is "इलाहाबाद"
-#.
 msgid "Allahabad"
 msgstr "Ollohobod"
 
 #. A city in India
 #. the local name in Punjabi is "ਅੰਮ੍ਰਿਤਸਰ"
-#.
 msgid "Amritsar"
 msgstr "Amritsar"
 
 #. A city in India
 #. the local name in Marathi is "औरंगाबाद"
-#.
 msgid "Aurangabad"
 msgstr "Aurangobod"
 
@@ -8215,7 +7988,6 @@ msgstr "Bagdogra"
 
 #. A city in India - local airport
 #. "Bengaluru" is the new name
-#.
 msgid "Bangalore"
 msgstr "Bangalor"
 
@@ -8223,26 +7995,22 @@ msgstr "Bangalor"
 #. "Benares" is the traditional English name.
 #. The local name is "Varanasi".
 #. The local name in Hindi is "वाराणसी".
-#.
 msgid "Benares"
 msgstr "Benares"
 
 #. A city in India
 #. the local name in Gujrati is "ભાવનગર"
 #. the local name in Hindi is "भावनगर"
-#.
 msgid "Bhavnagar"
 msgstr "Bhavnagar"
 
 #. A city in India.
 #. The local name in Hindi is "भोपाल".
-#.
 msgid "Bhopal"
 msgstr "Bhopal"
 
 #. A city in India.
 #. The local name in Oriya is "ଭୁବେନଶ୍ବର".
-#.
 msgid "Bhubaneshwar"
 msgstr "Bhubaneshvar"
 
@@ -8257,27 +8025,23 @@ msgstr "Nikobar mashinasi"
 #. A union territory in India.
 #. The local name in Hindi is "चण्डीगढ़ / चंडीगढ़"
 #. The local name in Punjabi is "ਚੰਡੀਗੜ੍ਹ"
-#.
 msgid "Chandigarh"
 msgstr "Chandigarh"
 
 #. A city in India.
 #. "Madras" is the traditional English name.
 #. The local name in Tamil is "Chennai / சென்னை".
-#.
 msgid "Chennai"
 msgstr "Chennai"
 
 #. A city in India.
 #. The local name in Tamil is "கோயம்புத்தூர்".
-#.
 msgid "Coimbatore"
 msgstr "Koimbatore"
 
 #. A city in India
 #. also known as Dehra Doon
 #. the local name in Hindi is "देहरादून"
-#.
 msgid "Dehradun"
 msgstr "Dehradun"
 
@@ -8287,14 +8051,12 @@ msgstr "Dibrugarh"
 
 #. A city in India
 #. the local name in Hindi is "दीमापुर"
-#.
 msgid "Dimapur"
 msgstr "Dimapur"
 
 #. A city in India
 #. the local name in Telugu is "హైదరాబాద్"
 #. the local name in Urdu is "حیدرآباد"
-#.
 msgid "Hyderabad"
 msgstr "Haydarobod"
 
@@ -8304,13 +8066,11 @@ msgstr "Jaypur"
 
 #. A city in India.
 #. The local name in Dogri is "जम्मू"
-#.
 msgid "Jammu"
 msgstr "Jammu"
 
 #. A city in India.
 #. The old name is "Cochin"
-#.
 #. A city in Japan
 msgid "Kochi"
 msgstr "Kochi"
@@ -8318,26 +8078,22 @@ msgstr "Kochi"
 #. A city in India.
 #. "Calcutta" is the traditional English name.
 #. The local name in Bengali is "Kolkata /  কলকাতা".
-#.
 msgid "Kolkata"
 msgstr "Kalkutta"
 
 #. A city in India.
 #. The local name in Hindi is "लेह"
-#.
 msgid "Leh"
 msgstr "Leh"
 
 #. A city in India.
 #. The local name in Hindi is "लखनऊ".
-#.
 msgid "Lucknow"
 msgstr "Omad"
 
 #. A city in India.
 #. "Bombay" is the traditional English name.
 #. The local name in Marathi is "Mumbai /  मुंबई".
-#.
 msgid "Mumbai"
 msgstr "Mumbay"
 
@@ -8349,7 +8105,6 @@ msgstr "Nagpur"
 #. The local name in Urdu is "نئی دلی".
 #. The local name in Panjabi is "ਨਵੀਂ ਦਿੱਲੀ".
 #. The local name in Hindi is "नई दिल्ली".
-#.
 msgid "New Delhi"
 msgstr "Yangi Dehli"
 
@@ -8359,7 +8114,6 @@ msgstr "Patna"
 
 #. A city in India.
 #. The local name in Hindi is "पोर्ट ब्लेयर"
-#.
 msgid "Port Blair"
 msgstr "Port Bler"
 
@@ -8369,52 +8123,44 @@ msgstr "Pune"
 
 #. A city in India.
 #. The local name in Hindi is "शिमला"
-#.
 msgid "Shimla"
 msgstr "Shimla"
 
 #. A city in India.
 #. The local name in Dogri is "श्रीनगर"
 #. The local name in Urdu is "شرینگر"
-#.
 msgid "Srinagar"
 msgstr "Srinagar"
 
 #. A city in India
 #. the local name in Gujrati is "સુરત"
 #. the local name in Hindi is "सूरत"
-#.
 msgid "Surat"
 msgstr "Surat"
 
 #. A city in India.
 #. The local name in Malayalam is "തിരുവനന്തപുരം".
-#.
 msgid "Thiruvananthapuram"
 msgstr "Tiruvananthapuram"
 
 #. A city in India.
 #. The local name in Tamil is "திருச்சிராப்பள்ளி".
-#.
 msgid "Tiruchchirappalli"
 msgstr "Tiruchchirappalli"
 
 #. A city in India.
 #. The local name in Telugu is "తిరుపతి".
-#.
 msgid "Tirupati"
 msgstr "Tirupati"
 
 #. A city in India.
 #. The local name in Telugu is "విజయవాడ".
-#.
 msgid "Vijayawada"
 msgstr "Vijayavada"
 
 #. A city in India.
 #. "Vizag" is other traditional name
 #. The local name in Telugu is "విశాఖపట్నం".
-#.
 msgid "Visakhapatnam"
 msgstr "Visakxapatnam"
 
@@ -8736,7 +8482,6 @@ msgstr "Yogyakarta"
 
 #. A city in Iran.
 #. The name is also written "آبادان".
-#.
 msgid "Abadan"
 msgstr "Abadan"
 
@@ -8750,43 +8495,36 @@ msgstr "Abu Muso"
 
 #. A city in Iran.
 #. The name is also written "آغاجاری".
-#.
 msgid "Aghajari"
 msgstr "Agajari"
 
 #. A city in Iran.
 #. The name is also written "اهواز".
-#.
 msgid "Ahvaz"
 msgstr "Ahvaz"
 
 #. A city in Iran.
 #. The name is also written "اردبيل".
-#.
 msgid "Ardabil"
 msgstr "Ardabil"
 
 #. A city in Iran.
 #. The name is also written "بندر عباس".
-#.
 msgid "Bandar 'Abbas"
 msgstr "Bandar Abbos"
 
 #. A city in Iran.
 #. The name is also written "بندر بوشهر".
-#.
 msgid "Bandar-e Bushehr"
 msgstr "Bandar-e Busher"
 
 #. A city in Iran.
 #. The name is also written "بندر لنگه".
-#.
 msgid "Bandar-e Lengeh"
 msgstr "Bandar-e Lengeh"
 
 #. A city in Iran.
 #. The name is also written "بندر ماهشهر".
-#.
 msgid "Bandar-e Mahshahr"
 msgstr "Bandar-e Mahshahr"
 
@@ -8796,19 +8534,16 @@ msgstr "Birjand"
 
 #. A city in Iran.
 #. The name is also written "چاه بهار".
-#.
 msgid "Chah Bahar"
 msgstr "Chah Bahar"
 
 #. A city in Iran.
 #. The name is also written "ديرستان".
-#.
 msgid "Dayrestan"
 msgstr "Dayriston"
 
 #. A city in Iran.
 #. The name is also written "دو گنبدان".
-#.
 msgid "Do Gonbadan"
 msgstr "Gonbadan qiling"
 
@@ -8818,31 +8553,26 @@ msgstr "Esfaxon"
 
 #. A city in Iran.
 #. The name is also written "فسا".
-#.
 msgid "Fasa"
 msgstr "Fasa"
 
 #. A city in Iran.
 #. The name is also written "گرگان".
-#.
 msgid "Gorgan"
 msgstr "Gorgan"
 
 #. A city in Iran.
 #. The name is also written "گوشه شاهزاده قاسم".
-#.
 msgid "Gusheh Shahzadeh Qasem"
 msgstr "Gusheh Shahzode Qosem"
 
 #. A city in Iran.
 #. The name is also written "همدان".
-#.
 msgid "Hamadan"
 msgstr "Hamadon"
 
 #. A city in Iran.
 #. The name is also written "يلام".
-#.
 msgid "Ilam"
 msgstr "Ilom"
 
@@ -8852,7 +8582,6 @@ msgstr "Eronshahr"
 
 #. A city in Iran.
 #. The name is also written "كرج".
-#.
 msgid "Karaj"
 msgstr "Karaj"
 
@@ -8870,13 +8599,11 @@ msgstr "Kirmonshoh"
 
 #. A city in Iran.
 #. The name is also written "خرم آباد".
-#.
 msgid "Khorramabad"
 msgstr "Xurramobod"
 
 #. A city in Iran.
 #. The name is also written "كيش".
-#.
 msgid "Kish"
 msgstr "Kish"
 
@@ -8886,31 +8613,26 @@ msgstr "Lar"
 
 #. A city in Iran.
 #. The name is also written "مشهد".
-#.
 msgid "Mashhad"
 msgstr "Mashhad"
 
 #. A city in Iran.
 #. The name is also written "مسجد سلیمان".
-#.
 msgid "Masjed Soleyman"
 msgstr "Masjid Sulaymon"
 
 #. A city in Iran.
 #. The name is also written "نو شهر".
-#.
 msgid "Now Shahr"
 msgstr "Endi Shahr"
 
 #. A city in Iran.
 #. The name is also written "ارومیه".
-#.
 msgid "Orumiyeh"
 msgstr "Orumiya"
 
 #. A city in Iran.
 #. The name is also written "قزوین".
-#.
 msgid "Qazvin"
 msgstr "Qazvin"
 
@@ -8924,7 +8646,6 @@ msgstr "Sabzevar"
 
 #. A city in Iran.
 #. The name is also written "سخت سر".
-#.
 msgid "Sakht Sar"
 msgstr "Saxt Sar"
 
@@ -8938,25 +8659,21 @@ msgstr "Saraxs"
 
 #. A city in Iran.
 #. The name is also written "سمنان".
-#.
 msgid "Semnan"
 msgstr "Semnan"
 
 #. A city in Iran.
 #. The name is also written "شهر بالا".
-#.
 msgid "Shahr-e Bala"
 msgstr "Shahr-e Bala"
 
 #. A city in Iran.
 #. The name is also written "شهر كرد".
-#.
 msgid "Shahr-e Kord"
 msgstr "Shahr-e Kord"
 
 #. A city in Iran.
 #. The name is also written "شیراز".
-#.
 msgid "Shiraz"
 msgstr "Sheroz"
 
@@ -8966,31 +8683,26 @@ msgstr "Tabas"
 
 #. A city in Iran.
 #. The name is also written "تبريز".
-#.
 msgid "Tabriz"
 msgstr "Tabriz"
 
 #. The capital of Iran.
 #. The name is also written "تهران".
-#.
 msgid "Tehran"
 msgstr "Tehron"
 
 #. A city in Iran.
 #. The name is also written "يزد".
-#.
 msgid "Yazd"
 msgstr "Yazd"
 
 #. A city in Iran.
 #. The name is also written "زابل".
-#.
 msgid "Zabol"
 msgstr "Zabol"
 
 #. A city in Iran.
 #. The name is also written "زاهدان (کي)".
-#.
 msgid "Zahedan-e (Yek)"
 msgstr "Zahedan-e (Yek)"
 
@@ -9310,7 +9022,6 @@ msgstr "Ferrara"
 #. A city in Italy.
 #. "Florence" is the traditional English name.
 #. The local name in Italian is "Firenze".
-#.
 msgctxt "City in Italy"
 msgid "Florence"
 msgstr "Florensiya"
@@ -9330,7 +9041,6 @@ msgstr "Frozinone"
 #. A city in Italy.
 #. "Genoa" is the traditional English name.
 #. The local name in Italian is "Genova".
-#.
 msgid "Genoa"
 msgstr "Genuya"
 
@@ -9429,7 +9139,6 @@ msgstr "Messina"
 #. A city in Italy.
 #. "Milan" is the traditional English name.
 #. The local name in Italian is "Milano".
-#.
 msgid "Milan"
 msgstr "Milan"
 
@@ -9445,7 +9154,6 @@ msgstr "Monza"
 #. A city in Italy.
 #. "Naples" is the traditional English name.
 #. The local name in Italian is "Napoli".
-#.
 msgctxt "City in Italy"
 msgid "Naples"
 msgstr "Neapol"
@@ -9573,7 +9281,6 @@ msgstr "Rimini"
 #. The capital of Italy.
 #. "Rome" is the traditional English name.
 #. The local name in Italian is "Roma".
-#.
 msgctxt "City in Italy"
 msgid "Rome"
 msgstr "Rim"
@@ -9672,7 +9379,6 @@ msgstr "Triest"
 #. A city in Italy.
 #. "Turin" is the traditional English name.
 #. The local name is "Torino".
-#.
 msgid "Turin"
 msgstr "Turin"
 
@@ -9687,7 +9393,6 @@ msgstr "Varese"
 #. A city in Italy.
 #. "Venice" is the traditional English name.
 #. The local name in Italian is "Venezia".
-#.
 msgid "Venice"
 msgstr "Venetsiya"
 
@@ -9727,7 +9432,7 @@ msgstr "Kingston"
 
 #. A city in Jamaica
 msgid "Montego Bay"
-msgstr "Montego ko'rfazi"
+msgstr "Montego koʻrfazi"
 
 #. A city in Japan
 msgid "Akita"
@@ -10152,7 +9857,6 @@ msgstr "Al Jiza"
 #. The capital of Jordan.
 #. "Amman" is the traditional English name.
 #. The local name in Arabic is "'Amman".
-#.
 msgid "Amman"
 msgstr "Amman"
 
@@ -10162,13 +9866,11 @@ msgstr "Olmaota"
 
 #. A city in Kazakhstan.
 #. The local name in Russian is "Aktau".
-#.
 msgid "Aqtau"
 msgstr "Aqtau"
 
 #. A city in Kazakhstan.
 #. The local name in Russian is "Aktobe".
-#.
 msgid "Aqtöbe"
 msgstr "Aqtöbe"
 
@@ -10182,25 +9884,21 @@ msgstr "Atirau"
 
 #. A city in Kazakhstan.
 #. The local name in Russian is "Ural'sk".
-#.
 msgid "Oral"
-msgstr "Og'zaki"
+msgstr "Ogʻzaki"
 
 #. A city in Kazakhstan.
 #. The local name in Russian is "Karaganda".
-#.
 msgid "Qaraghandy"
-msgstr "Qarag'andiya"
+msgstr "Qaragʻandiya"
 
 #. A city in Kazakhstan.
 #. The local name in Russian is "Kostanay".
-#.
 msgid "Qostanay"
 msgstr "Qostanay"
 
 #. A city in Kazakhstan.
 #. The local name in Russian is "Kyzylorda".
-#.
 msgid "Qyzylorda"
 msgstr "Qiziloʻrda"
 
@@ -10237,7 +9935,6 @@ msgstr "Prishtina"
 #. The capital of Kuwait.
 #. "Kuwait" is the traditional English name.
 #. The local name in Arabic is "Al Kuwayt / الكويت".
-#.
 msgctxt "City in Kuwait"
 msgid "Kuwait"
 msgstr "Quvayt"
@@ -10253,7 +9950,6 @@ msgstr "Osh"
 #. The capital of Laos.
 #. "Vientiane" is the traditional English name.
 #. The local name in Lao is "Viangchan".
-#.
 msgid "Vientiane"
 msgstr "Vientian"
 
@@ -10268,7 +9964,6 @@ msgstr "Riga"
 #. The capital of Lebanon.
 #. "Beirut" is the traditional English name.
 #. The local name is "Beyrouth".
-#.
 msgid "Beirut"
 msgstr "Bayrut"
 
@@ -10283,7 +9978,6 @@ msgstr "Sabha"
 #. The capital of Libya.
 #. "Tripoli" is the traditional English name.
 #. The local name in Arabic is "Tarabulus / طرابلس".
-#.
 msgid "Tripoli"
 msgstr "Tripoli"
 
@@ -10314,14 +10008,12 @@ msgstr "Lyuksemburg"
 
 #. The capital of Macau.
 #. The local name in Chinese is "Aomen / 澳门".
-#.
 msgctxt "City in Macau"
 msgid "Macau"
 msgstr "Aomin"
 
 #. A city in Macau.
 #. The local name in Chinese is "Dangzai / 氹仔".
-#.
 msgid "Taipa"
 msgstr "Taipa"
 
@@ -10442,7 +10134,6 @@ msgstr "Viktoriya"
 #. The capital of the Maldives.
 #. "Male" is the traditional English name.
 #. The local name in Dhivehi is "Maale".
-#.
 msgid "Male"
 msgstr "Erkak"
 
@@ -10531,7 +10222,6 @@ msgstr "Chihuahua"
 
 #. A city in Chihuahua in Mexico.
 #. One of several cities in Mexico called "Juárez".
-#.
 msgid "Ciudad Juárez"
 msgstr "Syudad Xuares"
 
@@ -10631,7 +10321,6 @@ msgstr "Mexicali"
 #. The capital of Mexico.
 #. "Mexico City" is the traditional English name.
 #. The local name in Spanish is "México".
-#.
 msgid "Mexico City"
 msgstr "Mexiko shahri"
 
@@ -10671,7 +10360,6 @@ msgstr "Piedras Negras"
 
 #. A city in Veracruz in Mexico.
 #. One of several cities in Mexico called "Poza Rica".
-#.
 msgid "Poza Rica de Hidalgo"
 msgstr "Poza-Rika de Hidalgo"
 
@@ -10767,7 +10455,6 @@ msgstr "Monako"
 
 #. The capital of Mongolia.
 #. The name is also written "Улаанбаатар".
-#.
 msgid "Ulaanbaatar"
 msgstr "Ulan-Bator"
 
@@ -10822,7 +10509,6 @@ msgstr "Rabot"
 #. A city in Morocco.
 #. "Tangier" is the traditional English name.
 #. The local name is "Tanger".
-#.
 msgid "Tangier"
 msgstr "Tanjer"
 
@@ -10861,7 +10547,6 @@ msgstr "Quelimane"
 #. The capital of Myanmar.
 #. "Rangoon" is the traditional English name.
 #. The local name in Burmese is "Yangon".
-#.
 msgid "Rangoon"
 msgstr "Rangun"
 
@@ -10870,7 +10555,6 @@ msgstr "Vindxuk"
 
 #. The capital of Nepal.
 #. The local name in Nepali is "काठमाडौं".
-#.
 msgid "Kathmandu"
 msgstr "Katmandu"
 
@@ -11175,7 +10859,6 @@ msgstr "Kingston"
 
 #. The capital of North Korea.
 #. The local name in Korean is "평양".
-#.
 msgid "Pyongyang"
 msgstr "Pxenyan"
 
@@ -11297,7 +10980,7 @@ msgstr "Narvik"
 
 #. A city in Norway
 msgid "Notodden"
-msgstr "Noto'g'ri"
+msgstr "Notoʻgʻri"
 
 #. A city in Norway
 msgid "Oseberg"
@@ -11390,7 +11073,6 @@ msgstr "Muaskar Murtafi'a"
 #. The capital of Oman.
 #. "Muscat" is the traditional English name.
 #. The local name in Arabic is "Masqat".
-#.
 msgid "Muscat"
 msgstr "Maskat"
 
@@ -11444,11 +11126,11 @@ msgstr "Baytlahm"
 
 #. A city in Palestine
 msgid "Gaza"
-msgstr "G'azo"
+msgstr "Gʻazo"
 
 #. A city in Palestine
 msgid "Gaza Strip"
-msgstr "G'azo sektori"
+msgstr "Gʻazo sektori"
 
 #. A city in Palestine
 msgid "Hebron"
@@ -11472,7 +11154,7 @@ msgstr "Ramallah"
 
 #. A city in Palestine
 msgid "West Bank"
-msgstr "G'arbiy Sohil"
+msgstr "Gʻarbiy Sohil"
 
 #. A city in Panama
 msgid "David"
@@ -11663,7 +11345,6 @@ msgstr "Tarnovskie Gori"
 #. The capital of Poland.
 #. "Warsaw" is the traditional English name.
 #. The local name in Polish is "Warszawa".
-#.
 msgctxt "City in Poland"
 msgid "Warsaw"
 msgstr "Varshava"
@@ -11707,7 +11388,6 @@ msgstr "Lajes"
 #. The capital of Portugal.
 #. "Lisbon" is the traditional English name.
 #. The local name in Portuguese is "Lisboa".
-#.
 msgid "Lisbon"
 msgstr "Lissabon"
 
@@ -11737,7 +11417,6 @@ msgstr "Portu Santo"
 
 #. A city in Portugal.
 #. One of several cities in Portugal called "Santa Cruz".
-#.
 msgid "Santa Cruz das Flores"
 msgstr "Santa Cruz das Flores"
 
@@ -11768,7 +11447,6 @@ msgstr "San-Xuan"
 #. The capital of Qatar.
 #. "Doha" is the traditional English name.
 #. The local name in Arabic is "Ad Dawhah / الدوحة".
-#.
 msgid "Doha"
 msgstr "Doha"
 
@@ -11811,7 +11489,6 @@ msgstr "Braila"
 #. The capital of Romania.
 #. "Bucharest" is the traditional English name.
 #. The local name in Romanian is "București".
-#.
 msgid "Bucharest"
 msgstr "Buxarest"
 
@@ -11941,249 +11618,208 @@ msgstr "Zalau"
 
 #. A city in Russia.
 #. The local name in Russian is "Абакан".
-#.
 msgid "Abakan"
 msgstr "Abakan"
 
 #. A city in Russia.
 #. The local name in Russian is "Адлер".
-#.
 msgid "Adler"
 msgstr "Adler"
 
 #. A city in Russia.
 #. The local name in Russian is "Анадырь".
-#.
 msgid "Anadyr'"
 msgstr "Anadir"
 
 #. A city in Russia.
 #. The local name in Russian is "Анапа".
-#.
 msgid "Anapa"
 msgstr "Anapa"
 
 #. A city in Russia.
 #. The local name in Russian is "Архангельск".
-#.
 msgid "Arkhangel'sk"
 msgstr "Arxangelsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Астрахань".
-#.
 msgid "Astrakhan'"
 msgstr "Astraxan"
 
 #. A city in Russia.
 #. The local name in Russian is "Барнаул".
-#.
 msgid "Barnaul"
 msgstr "Barnaul"
 
 #. A city in Russia.
 #. The local name in Russian is "Благовещенск".
-#.
 msgid "Blagoveschensk"
 msgstr "Blagoveschensk"
 
 #. A city in Russia.
 #. The local name in Russian is "Братск".
-#.
 msgid "Bratsk"
 msgstr "Bratsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Брянск".
-#.
 msgid "Bryansk"
 msgstr "Bryansk"
 
 #. A city in Russia.
 #. The local name in Russian is "Чебоксары".
-#.
 msgid "Cheboksary"
 msgstr "Cheboksari"
 
 #. A city in Russia.
 #. The local name in Russian is "Челябинск".
-#.
 msgid "Chelyabinsk"
 msgstr "Chelyabinsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Чита".
-#.
 msgid "Chita"
 msgstr "Chita"
 
 #. A city in Russia.
 #. The local name in Russian is "Чульман".
-#.
 msgid "Chul'man"
 msgstr "Chulman"
 
 #. A city in Russia.
 #. The local name in Russian is "Энгельс".
-#.
 msgid "Engel's"
 msgstr "Engelniki"
 
 #. A city in Russia.
 #. The local name in Russian is "Иркутск".
-#.
 msgid "Irkutsk"
 msgstr "Irkutsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Ижевск".
-#.
 msgid "Izhevsk"
 msgstr "Izhevsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Калининград".
-#.
 msgid "Kaliningrad"
 msgstr "Kaliningrad vaqti"
 
 #. A city in Russia.
 #. The local name in Russian is "Казань".
-#.
 msgid "Kazan'"
 msgstr "Qozon"
 
 #. A city in Russia.
 #. The local name in Russian is "Кемерово".
-#.
 msgid "Kemerovo"
 msgstr "Kemerovo"
 
 #. A city in Russia.
 #. The local name in Russian is "Хабаровск".
-#.
 msgid "Khabarovsk"
 msgstr "Xabarovsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Ханты-Мансийск".
-#.
 msgid "Khanty-Mansiysk"
 msgstr "Xanti-Mansiysk"
 
 #. A city in Russia.
 #. The local name in Russian is "Краснодар".
-#.
 msgid "Krasnodar"
 msgstr "Krasnodar"
 
 #. A city in Russia.
 #. The local name in Russian is "Красноярск".
-#.
 msgid "Krasnoyarsk"
 msgstr "Krasnoyarsk vaqti"
 
 #. A city in Russia.
 #. The local name in Russian is "Магадан".
-#.
 msgid "Magadan"
 msgstr "Magadan"
 
 #. A city in Russia.
 #. The local name in Russian is "Минеральные Воды".
-#.
 msgid "Mineral'nyye Vody"
 msgstr "Mineralniye Vody"
 
 #. A city in Russia.
 #. The local name in Russian is "Мирный".
-#.
 msgid "Mirnyy"
 msgstr "Mirnyy"
 
 #. The capital of Russia.
 #. "Moscow" is the traditional English name.
 #. The local name in Russian is "Moskva / Москва".
-#.
 msgctxt "City in Russia"
 msgid "Moscow"
 msgstr "MoSCoW"
 
 #. A city in Russia.
 #. The local name in Russian is "Мурманск".
-#.
 msgid "Murmansk"
 msgstr "Murmansk"
 
 #. A city in Russia.
 #. The local name in Russian is "Нальчик".
-#.
 msgid "Nal'chik"
 msgstr "Nalchik"
 
 #. A city in Russia.
 #. The local name in Russian is "Нижневартовск".
-#.
 msgid "Nizhnevartovsk"
 msgstr "Nijnevartovsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Нижний Новгород".
-#.
 msgid "Nizhny Novgorod"
 msgstr "Nijniy Novgorod"
 
 #. A city in Russia.
 #. The local name in Russian is "Новокузнецк".
-#.
 msgid "Novokuznetsk"
 msgstr "Novokuznetsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Новосибирск".
-#.
 msgid "Novosibirsk"
 msgstr "Novosibirsk vaqti"
 
 #. A city in Russia.
 #. The local name in Russian is "Омск".
-#.
 msgid "Omsk"
 msgstr "Omsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Оренбург".
-#.
 msgid "Orenburg"
 msgstr "Orenburg"
 
 #. A city in Russia.
 #. The local name in Russian is "Пенза".
-#.
 msgid "Penza"
 msgstr "Penza"
 
 #. A city in Russia.
 #. The local name in Russian is "Пермь".
-#.
 msgid "Perm"
 msgstr "Perm"
 
 #. A city in Russia.
 #. The local name in Russian is "Петропавловск-Камчатский".
-#.
 msgid "Petropavlovsk"
 msgstr "Petropavlovsk"
 
 #. A city in Russia.
 #. The local name in Russian is "Ростов-на-Дону".
-#.
 msgid "Rostov"
 msgstr "Rostov"
 
 #. A city in Russia.
 #. The local name in Russian is "Рязань".
-#.
 msgid "Ryazan'"
 msgstr "Ryazan"
 
@@ -12195,13 +11831,11 @@ msgstr "Ribinsk"
 #. "Saint Petersburg" is the traditional English name.
 #. The local name in Russian is "Sankt-Peterburg /
 #. Санкт-Петербург".
-#.
 msgid "Saint Petersburg"
 msgstr "Sankt-Peterburg"
 
 #. A city in Russia.
 #. The local name in Russian is "Самара".
-#.
 msgid "Samara"
 msgstr "Samara"
 
@@ -12211,13 +11845,11 @@ msgstr "Saratov"
 
 #. A city in Russia.
 #. The local name in Russian is "Ставрополь".
-#.
 msgid "Stavropol'"
 msgstr "Stavropol"
 
 #. A city in Russia.
 #. The local name in Russian is "Сургут".
-#.
 msgid "Surgut"
 msgstr "Surgut"
 
@@ -12283,7 +11915,6 @@ msgstr "Yekaterinburg vaqti"
 
 #. A city in Russia.
 #. The local name in Russian is "Йошкар-Ола".
-#.
 msgid "Yoshkar-Ola"
 msgstr "Yoshkar-Ola"
 
@@ -12399,7 +12030,6 @@ msgstr "Toifda"
 #. A city in Saudi Arabia.
 #. "Dhahran" is the traditional English name.
 #. The local name in Arabic is "Az Zahran".
-#.
 msgid "Dhahran"
 msgstr "Dahran"
 
@@ -12426,14 +12056,12 @@ msgstr "Masjid Ibn Rashid"
 #. A city in Saudi Arabia.
 #. "Mecca" is the traditional English name.
 #. The local name in Arabic is "Makkah".
-#.
 msgid "Mecca"
 msgstr "Makka"
 
 #. A city in Saudi Arabia.
 #. "Medina" is the traditional English name.
 #. The local name in Arabic is "Al Madinah al Munawwarah".
-#.
 msgid "Medina"
 msgstr "Madina"
 
@@ -12456,7 +12084,6 @@ msgstr "Rafha"
 #. The capital of Saudi Arabia.
 #. "Riyadh" is the traditional English name.
 #. The local name in Arabic is "Ar Riyad".
-#.
 msgid "Riyadh"
 msgstr "Ar-Riyod"
 
@@ -12499,7 +12126,6 @@ msgstr "Ziguinchor"
 #. The capital of Serbia.
 #. "Belgrade" is the traditional English name.
 #. The local name in Serbian is "Beograd".
-#.
 msgid "Belgrade"
 msgstr "Belgrad"
 
@@ -12643,61 +12269,51 @@ msgstr "Juda yaxshi"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "부산".
-#.
 msgid "Busan"
 msgstr "Busan"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "청주".
-#.
 msgid "Cheongju"
 msgstr "Cheongju"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "대구".
-#.
 msgid "Daegu"
 msgstr "Daegu"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "군산".
-#.
 msgid "Gunsan"
 msgstr "Gunsan"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "인천".
-#.
 msgid "Incheon"
 msgstr "Incheon"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "제주".
-#.
 msgid "Jeju"
 msgstr "Jeju"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "오산".
-#.
 msgid "Osan"
 msgstr "Osan"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "평택".
-#.
 msgid "Pyeongtaek"
 msgstr "Pyeongtaek"
 
 #. The capital of South Korea.
 #. The name written in Hangul (Korean) is "서울".
-#.
 msgid "Seoul"
 msgstr "Seul"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "울산".
-#.
 msgid "Ulsan"
 msgstr "Ulsan"
 
@@ -13087,7 +12703,6 @@ msgstr "Shri Jayevardenpura Kotte"
 #. The capital of Sudan.
 #. "Khartoum" is the traditional English name.
 #. The local name in Arabic is "Al Khartum".
-#.
 msgid "Khartoum"
 msgstr "Xartum"
 
@@ -13254,7 +12869,6 @@ msgstr "Bern"
 #. A city in Switzerland.
 #. "Geneva" is the traditional English name.
 #. The local name is "Genève".
-#.
 msgid "Geneva"
 msgstr "Jeneva"
 
@@ -13297,14 +12911,12 @@ msgstr "Al Qamishli"
 #. A city in Syria.
 #. "Aleppo" is the traditional English name.
 #. The local name in Arabic is "Halab".
-#.
 msgid "Aleppo"
 msgstr "Aleppo"
 
 #. The capital of Syria.
 #. "Damascus" is the traditional English name.
 #. The local name in Arabic is "Dimashq".
-#.
 msgid "Damascus"
 msgstr "Damashq"
 
@@ -13315,25 +12927,21 @@ msgstr "Dayr az Zavr"
 #. A city in Syria.
 #. "Latakia" is the traditional English name.
 #. The local name in Arabic is "Al Ladhiqiyah".
-#.
 msgid "Latakia"
 msgstr "Latakiya"
 
 #. A city in Taiwan.
 #. The name is also written "高雄".
-#.
 msgid "Kaohsiung"
 msgstr "Kaohsiung"
 
 #. The capital of Taiwan.
 #. The name is also written "臺北".
-#.
 msgid "Taipei"
 msgstr "Taypey"
 
 #. A city in Taiwan.
 #. The name is also written "埔頂".
-#.
 msgid "Taoyuan"
 msgstr "Taoyuan"
 
@@ -13404,7 +13012,6 @@ msgstr "Zanzibar"
 #. The capital of Thailand.
 #. "Bangkok" is the traditional English name.
 #. The local name in Thai is "Krung Thep / กรุงเทพฯ".
-#.
 msgid "Bangkok"
 msgstr "Bangkok"
 
@@ -13671,7 +13278,6 @@ msgstr "Van"
 #. The capital of Turkmenistan.
 #. "Ashgabat" is the traditional English name.
 #. The local name in Turkmen is "Asgabat".
-#.
 msgid "Ashgabat"
 msgstr "Ashxobod"
 
@@ -13705,15 +13311,18 @@ msgstr "Berdichiv"
 msgid "Boryspil'"
 msgstr "Borispil"
 
-#. Cherkasy Oblast administrative center: https://en.wikipedia.org/wiki/Cherkasy
+#. Cherkasy Oblast administrative center:
+#. https://en.wikipedia.org/wiki/Cherkasy
 msgid "Cherkasy"
 msgstr "Cherkas"
 
-#. Chernihiv Oblast administrative center: https://en.wikipedia.org/wiki/Chernihiv
+#. Chernihiv Oblast administrative center:
+#. https://en.wikipedia.org/wiki/Chernihiv
 msgid "Chernihiv"
 msgstr "Chernigov"
 
-#. Chernivtsi Oblast administrative center: https://en.wikipedia.org/wiki/Chernivtsi
+#. Chernivtsi Oblast administrative center:
+#. https://en.wikipedia.org/wiki/Chernivtsi
 msgid "Chernivtsi"
 msgstr "Chernovtsi"
 
@@ -13794,7 +13403,6 @@ msgstr "Krivoy Rog"
 #. The capital of Ukraine.
 #. "Kiev" is the old English name. The local name in
 #. Ukrainian is "Київ", which transliterates to "Kyiv".
-#.
 msgid "Kyiv"
 msgstr "Kiev"
 
@@ -13893,7 +13501,7 @@ msgstr "Ternopil"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Tokmak,_Ukraine
 msgid "Tokmak"
-msgstr "To'qmoq"
+msgstr "Toʻqmoq"
 
 msgid "Uman'"
 msgstr "Uman'"
@@ -13923,7 +13531,6 @@ msgstr "Jitomir"
 #. The capital of the United Arab Emirates.
 #. "Abu Dhabi" is the traditional English name.
 #. The local name in Arabic is "Abu Zaby".
-#.
 msgid "Abu Dhabi"
 msgstr "Abu Dabi"
 
@@ -13938,7 +13545,6 @@ msgstr "Al Fujayra"
 #. A city in the United Arab Emirates.
 #. "Dubai" is the traditional English name.
 #. The local name in Arabic is "Dubayy".
-#.
 msgid "Dubai"
 msgstr "Dubay"
 
@@ -13949,7 +13555,6 @@ msgstr "Ra al Xayma"
 #. A city in the United Arab Emirates.
 #. "Sharjah" is the traditional English name.
 #. The local name in Arabic is "Ash Shariqah".
-#.
 msgid "Sharjah"
 msgstr "Sharja"
 
@@ -13964,14 +13569,12 @@ msgstr "Belfast"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Benson"
 msgstr "Benson"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Biggin Hill"
 msgstr "Biggin tepaligi"
 
@@ -13986,52 +13589,44 @@ msgstr "Blekpul"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Boscombe"
 msgstr "Boskomb"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Bournemouth"
 msgstr "Bornmut"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Bracknell"
 msgstr "Braknel"
 
 #. A city on the South East coast of England in the United
 #. Kingdom
-#.
 msgid "Brighton"
 msgstr "Brighton"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Bristol"
 msgstr "Bristol"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Brize Norton"
 msgstr "Brize Norton"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Butes"
 msgstr "Butes"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Cambridge"
-msgstr "Kembrij ko'rfazi"
+msgstr "Kembrij koʻrfazi"
 
 #. A city in Scotland in the United Kingdom
 msgid "Campbeltown"
@@ -14039,7 +13634,6 @@ msgstr "Kempbeltaun"
 
 #. A city in Wales in the United Kingdom.
 #. The local name in Welsh is "Caerdydd".
-#.
 msgctxt "City in Wales, United Kingdom"
 msgid "Cardiff"
 msgstr "Kardiff"
@@ -14094,7 +13688,6 @@ msgstr "Eglinton"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Exeter"
 msgstr "Exeter"
 
@@ -14104,13 +13697,11 @@ msgstr "Fairford"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Farnborough"
 msgstr "Farnboro"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Filton"
 msgstr "Filton"
 
@@ -14129,13 +13720,11 @@ msgstr "Xovarden"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Helston"
 msgstr "Xelston"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Hugh Town"
 msgstr "Xyu Taun"
 
@@ -14145,7 +13734,6 @@ msgstr "Inverness"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Ipswich"
 msgstr "Ipswich"
 
@@ -14171,7 +13759,6 @@ msgstr "Kirmington"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Lakenheath"
 msgstr "Lakenheath"
 
@@ -14207,19 +13794,16 @@ msgstr "Lossimut"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Luton"
 msgstr "Luton"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Lydd"
 msgstr "Lydd"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Lyneham"
 msgstr "Lyneham"
 
@@ -14230,25 +13814,21 @@ msgstr "Manchester"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Manston"
 msgstr "Manston"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Marham"
 msgstr "Marham"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Middle Wallop"
-msgstr "O'rta Wallop"
+msgstr "Oʻrta Wallop"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Mildenhall"
 msgstr "Mildenxoll"
 
@@ -14263,13 +13843,11 @@ msgstr "Nyukasl"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Northolt"
 msgstr "Northolt"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Norwich"
 msgstr "Norvich"
 
@@ -14280,7 +13858,6 @@ msgstr "Nottingem"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Odiham"
 msgstr "Odiham"
 
@@ -14294,7 +13871,6 @@ msgstr "Pembrey"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgctxt "City in South and South West England, United Kingdom"
 msgid "Plymouth"
 msgstr "Plimut"
@@ -14313,32 +13889,27 @@ msgstr "Shawbury"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Shoreham-by-Sea"
 msgstr "Shoreham-by-Dengiz"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Southampton"
 msgstr "Sautgempton"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Southend"
 msgstr "Sautend"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Stansted Mountfitchet"
 msgstr "Stansted Mountfitchet"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Staverton"
 msgstr "Staverton"
 
@@ -14369,7 +13940,6 @@ msgstr "Uoddington"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Wainfleet"
 msgstr "Wainfleet"
 
@@ -14379,13 +13949,11 @@ msgstr "Wick"
 
 #. A city in East and South East England in the United
 #. Kingdom
-#.
 msgid "Wittering"
 msgstr "Wittering"
 
 #. A city in South and South West England in the United
 #. Kingdom
-#.
 msgid "Yeovilton"
 msgstr "Yovilton"
 
@@ -14530,12 +14098,12 @@ msgstr "Alpena"
 #. A city in Alaska in the United States
 msgctxt "City in Alaska, United States"
 msgid "Alpine"
-msgstr "Alp tog'lari"
+msgstr "Alp togʻlari"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Alpine"
-msgstr "Alp tog'lari"
+msgstr "Alp togʻlari"
 
 #. A city in Illinois in the United States
 msgid "Alton"
@@ -14671,7 +14239,7 @@ msgstr "Arkata"
 
 #. A city in Alaska in the United States
 msgid "Arctic Village"
-msgstr "Arktika qishlog'i"
+msgstr "Arktika qishlogʻi"
 
 #. A city in Oklahoma in the United States
 msgid "Ardmore"
@@ -15318,12 +14886,12 @@ msgstr "Kamarillo"
 #. A city in Massachusetts in the United States
 msgctxt "City in Massachusetts, United States"
 msgid "Cambridge"
-msgstr "Kembrij ko'rfazi"
+msgstr "Kembrij koʻrfazi"
 
 #. A city in Minnesota in the United States
 msgctxt "City in Minnesota, United States"
 msgid "Cambridge"
-msgstr "Kembrij ko'rfazi"
+msgstr "Kembrij koʻrfazi"
 
 #. A city in Arkansas in the United States
 msgid "Camden"
@@ -15564,7 +15132,7 @@ msgstr "Chillicothe"
 
 #. A city in California in the United States
 msgid "China Lake"
-msgstr "Xitoy ko'li"
+msgstr "Xitoy koʻli"
 
 #. A city in Virginia in the United States
 msgid "Chincoteague"
@@ -15689,7 +15257,7 @@ msgstr "Koffivil"
 
 #. A city in Alaska in the United States
 msgid "Cold Bay"
-msgstr "Sovuq ko'rfaz"
+msgstr "Sovuq koʻrfaz"
 
 #. A city in Michigan in the United States
 msgid "Coldwater"
@@ -15817,7 +15385,7 @@ msgstr "Kreyg"
 
 #. A city in Minnesota in the United States
 msgid "Crane Lake"
-msgstr "Kran ko'li"
+msgstr "Kran koʻli"
 
 #. A city in California in the United States
 msgid "Crescent City"
@@ -15975,7 +15543,7 @@ msgstr "Dekorah"
 
 #. A city in Washington in the United States
 msgid "Deer Park"
-msgstr "Kiyik bog'i"
+msgstr "Kiyik bogʻi"
 
 #. A city in Ohio in the United States
 msgid "Defiance"
@@ -16023,11 +15591,11 @@ msgstr "Detroyt"
 
 #. A city in Minnesota in the United States
 msgid "Detroit Lakes"
-msgstr "Detroyt ko'llari"
+msgstr "Detroyt koʻllari"
 
 #. A city in North Dakota in the United States
 msgid "Devils Lake"
-msgstr "Devils ko'li"
+msgstr "Devils koʻli"
 
 #. A city in North Dakota in the United States
 msgid "Dickinson"
@@ -16216,7 +15784,7 @@ msgstr "Elbert"
 
 #. A city in Alaska in the United States
 msgid "Elfin Cove"
-msgstr "Elfin ko'rfazi"
+msgstr "Elfin koʻrfazi"
 
 #. A city in New Jersey in the United States
 msgid "Elizabeth"
@@ -16680,7 +16248,7 @@ msgstr "Garden City"
 
 #. A city in California in the United States
 msgid "Garden Grove"
-msgstr "Bog' bog'i"
+msgstr "Bogʻ bogʻi"
 
 #. A city in Texas in the United States
 msgid "Garland"
@@ -16864,7 +16432,7 @@ msgstr "Buyuk sharsharalar"
 
 #. A city in Wisconsin in the United States
 msgid "Green Bay"
-msgstr "Yashil ko'rfaz"
+msgstr "Yashil koʻrfaz"
 
 #. A city in Georgia in the United States
 msgctxt "City in Georgia, United States"
@@ -17075,7 +16643,7 @@ msgstr "Hayvord"
 
 #. A city in Alaska in the United States
 msgid "Healy"
-msgstr "Sog'lom"
+msgstr "Sogʻlom"
 
 #. A city in Texas in the United States
 msgid "Hearne"
@@ -17203,7 +16771,7 @@ msgstr "Hoonah"
 
 #. A city in Alaska in the United States
 msgid "Hooper Bay"
-msgstr "Huper ko'rfazi"
+msgstr "Huper koʻrfazi"
 
 #. A city in Washington in the United States
 msgid "Hoquiam"
@@ -17221,7 +16789,7 @@ msgstr "Issiq buloqlar"
 
 #. A city in Michigan in the United States
 msgid "Houghton Lake"
-msgstr "Houghton ko'li"
+msgstr "Houghton koʻli"
 
 #. A city in Maine in the United States
 msgid "Houlton"
@@ -17344,11 +16912,11 @@ msgstr "Ayova shahri"
 
 #. A city in Michigan in the United States
 msgid "Iron Mountain"
-msgstr "Temir tog'"
+msgstr "Temir togʻ"
 
 #. A city in Michigan in the United States
 msgid "Ironwood"
-msgstr "Temir yog'och"
+msgstr "Temir yogʻoch"
 
 #. A city in California in the United States
 msgid "Irvine"
@@ -17598,7 +17166,7 @@ msgstr "Key West"
 
 #. A city in North Carolina in the United States
 msgid "Kill Devil Hills"
-msgstr "Devil Hillsni o'ldiring"
+msgstr "Devil Hillsni oʻldiring"
 
 #. A city in Texas in the United States
 msgid "Killeen"
@@ -17744,11 +17312,11 @@ msgstr "Lahaina"
 
 #. A city in Louisiana in the United States
 msgid "Lake Charles"
-msgstr "Charlz ko'li"
+msgstr "Charlz koʻli"
 
 #. A city in Alaska in the United States
 msgid "Lake Minchumina"
-msgstr "Minchumina ko'li"
+msgstr "Minchumina koʻli"
 
 #. A city in Florida in the United States
 msgid "Lakeland"
@@ -17796,7 +17364,7 @@ msgstr "Lankaster"
 
 #. A city in Wisconsin in the United States
 msgid "Land O' Lakes"
-msgstr "Land O' Ko'llar"
+msgstr "Land Oʻ Koʻllar"
 
 #. A city in Wyoming in the United States
 msgid "Lander"
@@ -17929,7 +17497,7 @@ msgstr "Lima"
 
 #. A city in Alaska in the United States
 msgid "Lime Village"
-msgstr "Ohak qishlog'i"
+msgstr "Ohak qishlogʻi"
 
 #. A city in Colorado in the United States
 msgid "Limon"
@@ -18144,7 +17712,7 @@ msgstr "Manteo"
 
 #. A city in Minnesota in the United States
 msgid "Maple Lake"
-msgstr "Maple ko'li"
+msgstr "Maple koʻli"
 
 #. A city in Florida in the United States
 msgid "Marathon"
@@ -18447,7 +18015,7 @@ msgstr "Mitchell"
 
 #. A city in Utah in the United States
 msgid "Moab"
-msgstr "Mo'ab"
+msgstr "Moʻab"
 
 #. A city in Alabama in the United States
 msgid "Mobile"
@@ -18537,7 +18105,7 @@ msgstr "Moorhead"
 
 #. A city in Minnesota in the United States
 msgid "Moose Lake"
-msgstr "Moose ko'li"
+msgstr "Moose koʻli"
 
 #. A city in Minnesota in the United States
 msgid "Mora"
@@ -18576,7 +18144,7 @@ msgstr "MoSCoW"
 
 #. A city in Washington in the United States
 msgid "Moses Lake"
-msgstr "Muso ko'li"
+msgstr "Muso koʻli"
 
 #. A city in Wisconsin in the United States
 msgid "Mosinee"
@@ -18588,64 +18156,64 @@ msgstr "Moultrie"
 
 #. A city in North Carolina in the United States
 msgid "Mount Airy"
-msgstr "Airy tog'i"
+msgstr "Airy togʻi"
 
 #. A city in Illinois in the United States
 msgid "Mount Carmel"
-msgstr "Karmel tog'i"
+msgstr "Karmel togʻi"
 
 #. A city in New Jersey in the United States
 msgid "Mount Holly"
-msgstr "Xolli tog'i"
+msgstr "Xolli togʻi"
 
 #. A city in Arkansas in the United States
 msgid "Mount Ida"
-msgstr "Ida tog'i"
+msgstr "Ida togʻi"
 
 #. A city in Iowa in the United States
 msgctxt "City in Iowa, United States"
 msgid "Mount Pleasant"
-msgstr "Pleasant tog'i"
+msgstr "Pleasant togʻi"
 
 #. A city in Michigan in the United States
 msgctxt "City in Michigan, United States"
 msgid "Mount Pleasant"
-msgstr "Pleasant tog'i"
+msgstr "Pleasant togʻi"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Mount Pleasant"
-msgstr "Pleasant tog'i"
+msgstr "Pleasant togʻi"
 
 #. A city in Pennsylvania in the United States
 msgid "Mount Pocono"
-msgstr "Pocono tog'i"
+msgstr "Pocono togʻi"
 
 #. A city in California in the United States
 msgid "Mount Shasta"
-msgstr "Shasta tog'i"
+msgstr "Shasta togʻi"
 
 #. A city in Illinois in the United States
 msgid "Mount Vernon"
-msgstr "Vernon tog'i"
+msgstr "Vernon togʻi"
 
 #. A city in California in the United States
 msgid "Mount Wilson"
-msgstr "Uilson tog'i"
+msgstr "Uilson togʻi"
 
 #. A city in Arkansas in the United States
 msgctxt "City in Arkansas, United States"
 msgid "Mountain Home"
-msgstr "Tog'li uy"
+msgstr "Togʻli uy"
 
 #. A city in Idaho in the United States
 msgctxt "City in Idaho, United States"
 msgid "Mountain Home"
-msgstr "Tog'li uy"
+msgstr "Togʻli uy"
 
 #. A city in California in the United States
 msgid "Mountain View"
-msgstr "Tog' ko'rinishi"
+msgstr "Togʻ koʻrinishi"
 
 #. A city in Kentucky in the United States
 msgid "Muldraugh"
@@ -18894,7 +18462,7 @@ msgstr "Shimoliy Uilksboro"
 
 #. A city in Alaska in the United States
 msgid "Northway"
-msgstr "Shimoliy yo'l"
+msgstr "Shimoliy yoʻl"
 
 #. A city in California in the United States
 msgid "Norwalk"
@@ -18910,7 +18478,7 @@ msgstr "Nuiqsut"
 
 #. A city in Nebraska in the United States
 msgid "O'Neill"
-msgstr "O'Nil"
+msgstr "OʻNil"
 
 #. A city in Washington in the United States
 msgid "Oak Harbor"
@@ -18942,7 +18510,7 @@ msgstr "Okean shahri"
 
 #. A city in California in the United States
 msgid "Oceanside"
-msgstr "Okean bo'yi"
+msgstr "Okean boʻyi"
 
 #. A city in Texas in the United States
 msgid "Odessa"
@@ -18954,7 +18522,7 @@ msgstr "Oelwein"
 
 #. A city in Nebraska in the United States
 msgid "Ogallala"
-msgstr "Og'alla"
+msgstr "Ogʻalla"
 
 #. A city in Utah in the United States
 msgid "Ogden"
@@ -19255,7 +18823,7 @@ msgstr "Pellston"
 
 #. A city in Florida in the United States
 msgid "Pembroke Pines"
-msgstr "Pembrok qarag'aylari"
+msgstr "Pembrok qaragʻaylari"
 
 #. A city in Oregon in the United States
 msgid "Pendleton"
@@ -19342,7 +18910,7 @@ msgstr "Pine Ridge"
 
 #. A city in Minnesota in the United States
 msgid "Pine River"
-msgstr "Qarag'ay daryosi"
+msgstr "Qaragʻay daryosi"
 
 #. A city in Texas in the United States
 msgid "Pine Springs"
@@ -19380,7 +18948,7 @@ msgstr "Joylashtiruvchi"
 
 #. A city in Texas in the United States
 msgid "Plainview"
-msgstr "Oddiy ko'rinish"
+msgstr "Oddiy koʻrinish"
 
 #. A city in Texas in the United States
 msgid "Plano"
@@ -19621,7 +19189,7 @@ msgstr "Rawlins"
 
 #. A city in Pennsylvania in the United States
 msgid "Reading"
-msgstr "O’qish"
+msgstr "Oʻqish"
 
 #. A city in California in the United States
 msgid "Red Bluff"
@@ -19665,7 +19233,7 @@ msgstr "Reynland"
 
 #. A city in Wisconsin in the United States
 msgid "Rice Lake"
-msgstr "Rays ko'li"
+msgstr "Rays koʻli"
 
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
@@ -19678,7 +19246,7 @@ msgstr "Miltiq"
 
 #. A city in California in the United States
 msgid "Riverside"
-msgstr "Daryo bo'yi"
+msgstr "Daryo boʻyi"
 
 #. A city in Wyoming in the United States
 msgid "Riverton"
@@ -19741,7 +19309,7 @@ msgstr "Qoya buloqlari"
 
 #. A city in North Carolina in the United States
 msgid "Rocky Mount"
-msgstr "Rokki tog'i"
+msgstr "Rokki togʻi"
 
 #. A city in North Carolina in the United States
 msgid "Roe"
@@ -20005,7 +19573,7 @@ msgstr "Santa Rosa"
 
 #. A city in New York in the United States
 msgid "Saranac Lake"
-msgstr "Saranac ko'li"
+msgstr "Saranac koʻli"
 
 #. A city in Florida in the United States
 msgid "Sarasota"
@@ -20127,7 +19695,7 @@ msgstr "Shishmaref"
 
 #. A city in Arizona in the United States
 msgid "Show Low"
-msgstr "Past ko'rsatish"
+msgstr "Past koʻrsatish"
 
 #. A city in Louisiana in the United States
 msgid "Shreveport"
@@ -20153,7 +19721,7 @@ msgstr "Siloam Springs"
 
 #. A city in Minnesota in the United States
 msgid "Silver Bay"
-msgstr "Kumush ko'rfazi"
+msgstr "Kumush koʻrfazi"
 
 #. A city in New Mexico in the United States
 msgid "Silver City"
@@ -20246,7 +19814,7 @@ msgstr "Janubiy tepalik"
 
 #. A city in California in the United States
 msgid "South Lake Tahoe"
-msgstr "Janubiy Taho ko'li"
+msgstr "Janubiy Taho koʻli"
 
 #. A city in Illinois in the United States
 msgctxt "City in Illinois, United States"
@@ -20386,7 +19954,7 @@ msgstr "Stokton"
 
 #. A city in Iowa in the United States
 msgid "Storm Lake"
-msgstr "Bo'ronli ko'l"
+msgstr "Boʻronli koʻl"
 
 #. A city in Florida in the United States
 msgid "Stuart"
@@ -20534,7 +20102,7 @@ msgstr "Thedford"
 
 #. A city in Minnesota in the United States
 msgid "Thief River Falls"
-msgstr "O'g'ri daryosi sharsharasi"
+msgstr "Oʻgʻri daryosi sharsharasi"
 
 #. A city in Georgia in the United States
 msgid "Thomaston"
@@ -20655,7 +20223,7 @@ msgstr "Tuskaluza"
 
 #. A city in California in the United States
 msgid "Twentynine Palms"
-msgstr "Yigirma to'qqizta kaft"
+msgstr "Yigirma toʻqqizta kaft"
 
 #. A city in Idaho in the United States
 msgid "Twin Falls"
@@ -20683,7 +20251,7 @@ msgstr "Unalaska"
 
 #. A city in Missouri in the United States
 msgid "Unity Village"
-msgstr "Birlik qishlog'i"
+msgstr "Birlik qishlogʻi"
 
 #. A city in Texas in the United States
 msgid "Universal City"
@@ -20829,7 +20397,7 @@ msgstr "Valla Valla"
 
 #. A city in Arkansas in the United States
 msgid "Walnut Ridge"
-msgstr "Yong'oq tizmasi"
+msgstr "Yongʻoq tizmasi"
 
 #. A city in Georgia in the United States
 msgid "Warner Robins"
@@ -20974,15 +20542,15 @@ msgstr "West Bend"
 
 #. A city in Illinois in the United States
 msgid "West Chicago"
-msgstr "G'arbiy Chikago"
+msgstr "Gʻarbiy Chikago"
 
 #. A city in California in the United States
 msgid "West Covina"
-msgstr "G'arbiy Kovina"
+msgstr "Gʻarbiy Kovina"
 
 #. A city in Arkansas in the United States
 msgid "West Memphis"
-msgstr "G'arbiy Memfis"
+msgstr "Gʻarbiy Memfis"
 
 #. A city in Florida in the United States
 msgid "West Palm Beach"
@@ -20990,7 +20558,7 @@ msgstr "West Palm Beach"
 
 #. A city in Missouri in the United States
 msgid "West Plains"
-msgstr "G'arbiy tekisliklar"
+msgstr "Gʻarbiy tekisliklar"
 
 #. A city in Virginia in the United States
 msgid "West Point"
@@ -20998,15 +20566,15 @@ msgstr "West Point"
 
 #. A city in Wyoming in the United States
 msgid "West Thumb"
-msgstr "G'arbiy bosh barmog'i"
+msgstr "Gʻarbiy bosh barmogʻi"
 
 #. A city in Utah in the United States
 msgid "West Valley City"
-msgstr "G'arbiy vodiy shahri"
+msgstr "Gʻarbiy vodiy shahri"
 
 #. A city in Rhode Island in the United States
 msgid "Westerly"
-msgstr "G'arbiy"
+msgstr "Gʻarbiy"
 
 #. A city in Massachusetts in the United States
 msgid "Westfield"
@@ -21030,7 +20598,7 @@ msgstr "Uiton"
 
 #. A city in West Virginia in the United States
 msgid "Wheeling"
-msgstr "G'ildirakda yurish"
+msgstr "Gʻildirakda yurish"
 
 #. A city in New York in the United States
 msgid "White Plains"
@@ -21113,7 +20681,7 @@ msgstr "Uinfild"
 
 #. A city in Texas in the United States
 msgid "Wink"
-msgstr "Ko‘z qisgan"
+msgstr "Koʻz qisgan"
 
 #. A city in Nevada in the United States
 msgid "Winnemucca"
@@ -21266,7 +20834,6 @@ msgstr "Samarqand"
 #. The capital of Uzbekistan.
 #. "Tashkent" is the traditional English name.
 #. The local name is "Toshkent".
-#.
 msgid "Tashkent"
 msgstr "Toshkent"
 
@@ -21417,14 +20984,12 @@ msgstr "Da Nang"
 #. The capital of Viet Nam.
 #. "Hanoi" is the traditional English name.
 #. The local name in Vietnamese is "Ha Noi".
-#.
 msgid "Hanoi"
 msgstr "Xanoy"
 
 #. A city in Viet Nam.
 #. "Ho Chi Minh City" is the traditional English name.
 #. The local name in Vietnamese is "Thanh Pho Ho Chi Minh".
-#.
 msgid "Ho Chi Minh City"
 msgstr "Shahar qidirish"
 
@@ -21459,7 +21024,6 @@ msgstr "Sa'da"
 #. The capital of Yemen.
 #. "Sanaa" is the traditional English name.
 #. The local name in Arabic is "San'a'".
-#.
 msgid "Sanaa"
 msgstr "Sanaa"
 
@@ -21489,6 +21053,5 @@ msgstr "Ndola"
 
 #. A city in the Åland Islands.
 #. The local name in Finnish is "Maarianhamina".
-#.
 msgid "Mariehamn"
 msgstr "Mariehamn"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Curtail master\n"
 "Report-Msgid-Bugs-To: https://github.com/Huluti/Curtail/issues\n"
-"POT-Creation-Date: 2025-10-04 15:26+0000\n"
+"POT-Creation-Date: 2025-10-06 03:26+0000\n"
 "PO-Revision-Date: 2025-10-03 16:38+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -33,7 +33,7 @@ msgid ""
 "Optimize your images with Curtail, a useful image compressor that supports "
 "PNG, JPEG, WebP and SVG file types."
 msgstr ""
-"Rasmlaringizni PNG, JPEG, WebP va SVG fayl turlarini qo‘llab-quvvatlaydigan "
+"Rasmlaringizni PNG, JPEG, WebP va SVG fayl turlarini qoʻllab-quvvatlaydigan "
 "Curtail yordamida optimallashtiring."
 
 #: data/com.github.huluti.Curtail.appdata.xml.in:12
@@ -42,8 +42,8 @@ msgid ""
 "whether keep or not metadata of images."
 msgstr ""
 "Dastur tasvirlarning metama’lumotlarini saqlash yoki saqlamaslik tanlovini "
-"taqdim etgan holda, ma’lumot yo‘qotishsiz va ma’lumot yo‘qotish bilan "
-"zichlash rejimlarini qo‘llab-quvvatlaydi."
+"taqdim etgan holda, ma’lumot yoʻqotishsiz va ma’lumot yoʻqotish bilan "
+"zichlash rejimlarini qoʻllab-quvvatlaydi."
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/com.github.huluti.Curtail.appdata.xml.in:16
@@ -65,14 +65,14 @@ msgstr "Zichlangan rasmni yangi faylga saqlang."
 
 #: data/com.github.huluti.Curtail.gschema.xml:11
 msgid "Select the mode to append text for a new file"
-msgstr "Yangi faylga matn qo‘shish rejimini tanlang"
+msgstr "Yangi faylga matn qoʻshish rejimini tanlang"
 
 #: data/com.github.huluti.Curtail.gschema.xml:12
 msgid ""
 "Set how to append the additional text (as suffix or prefix) for a new file."
 msgstr ""
-"Yangi fayl uchun qo‘shimcha matnni (so‘z boshi yoki so‘z oxiri sifatida) "
-"qanday qo‘shish kerakligini belgilang."
+"Yangi fayl uchun qoʻshimcha matnni (soʻz boshi yoki soʻz oxiri sifatida) "
+"qanday qoʻshish kerakligini belgilang."
 
 #: data/com.github.huluti.Curtail.gschema.xml:16
 msgid "Enable recursive compression in folders"
@@ -102,40 +102,40 @@ msgstr ""
 
 #: data/com.github.huluti.Curtail.gschema.xml:31
 msgid "Enable lossy mode"
-msgstr "Yo‘qotishlar rejimini yoqish"
+msgstr "Yoʻqotishlar rejimini yoqish"
 
 #: data/com.github.huluti.Curtail.gschema.xml:32
 msgid "Use lossy mode to compress images."
-msgstr "Rasmlarni zichlash uchun yo‘qotish rejimidan foydalaning."
+msgstr "Rasmlarni zichlash uchun yoʻqotish rejimidan foydalaning."
 
 #: data/com.github.huluti.Curtail.gschema.xml:36
 msgid "Suffix/Prefix to append at new file"
-msgstr "Yangi faylga qo'shish uchun so‘z boshi/so‘z oxiri"
+msgstr "Yangi faylga qoʻshish uchun soʻz boshi/soʻz oxiri"
 
 #: data/com.github.huluti.Curtail.gschema.xml:37
 msgid "Suffix/Prefix to append at new file."
-msgstr "Yangi faylga qo'shish uchun so‘z boshi/so‘z oxiri."
+msgstr "Yangi faylga qoʻshish uchun soʻz boshi/soʻz oxiri."
 
 #: data/com.github.huluti.Curtail.gschema.xml:41
 msgid "PNG Lossy Compression Level"
-msgstr "PNG yo‘qotishli zichlash darajasi"
+msgstr "PNG yoʻqotishli zichlash darajasi"
 
 #: data/com.github.huluti.Curtail.gschema.xml:42
 msgid "Lossy compression level to use for PNG images."
-msgstr "PNG rasmlar uchun zichlash darajasini yo‘qotish."
+msgstr "PNG rasmlar uchun zichlash darajasini yoʻqotish."
 
 #: data/com.github.huluti.Curtail.gschema.xml:46
 msgid "PNG Lossless Compression Level"
-msgstr "PNG yo‘qotishlarsiz zichlash darajasi"
+msgstr "PNG yoʻqotishlarsiz zichlash darajasi"
 
 #: data/com.github.huluti.Curtail.gschema.xml:47
 msgid "Lossless compression level to use for PNG images."
 msgstr ""
-"PNG rasmlar uchun foydalanish maqsadida zichlash darajasi yo‘qotishlarsiz."
+"PNG rasmlar uchun foydalanish maqsadida zichlash darajasi yoʻqotishlarsiz."
 
 #: data/com.github.huluti.Curtail.gschema.xml:51
 msgid "JPG Lossy Compression Level"
-msgstr "JPG Yo‘qotilgan zichlash darajasi"
+msgstr "JPG Yoʻqotilgan zichlash darajasi"
 
 #: data/com.github.huluti.Curtail.gschema.xml:52
 msgid "Lossy compression level to use for JPG images."
@@ -151,11 +151,11 @@ msgstr "WebP rasmlar uchun ishlatiladigan zichlash darajasi."
 
 #: data/com.github.huluti.Curtail.gschema.xml:61
 msgid "WebP Lossless Compression Level"
-msgstr "WebP yo‘qotishsiz zichlash darajasi"
+msgstr "WebP yoʻqotishsiz zichlash darajasi"
 
 #: data/com.github.huluti.Curtail.gschema.xml:62
 msgid "Lossless compression level to use for WebP images."
-msgstr "WebP tasvirlar uchun zichlash darajasi yo‘qotishsiz."
+msgstr "WebP tasvirlar uchun zichlash darajasi yoʻqotishsiz."
 
 #: data/com.github.huluti.Curtail.gschema.xml:66
 msgid "Enable progressive encoding for JPEG images"
@@ -228,19 +228,19 @@ msgstr "Nomlash rejimi"
 
 #: data/ui/preferences.ui:22
 msgid "Select between suffix and prefix"
-msgstr "So‘z boshi va so‘z oxiri qo'shimchadan birini tanlang"
+msgstr "Soʻz boshi va soʻz oxiri qoʻshimchadan birini tanlang"
 
 #: data/ui/preferences.ui:26
 msgid "Suffix"
-msgstr "So'z boshi"
+msgstr "Soʻz boshi"
 
 #: data/ui/preferences.ui:27
 msgid "Prefix"
-msgstr "So'z oxiri"
+msgstr "Soʻz oxiri"
 
 #: data/ui/preferences.ui:36
 msgid "New File Suffix/Prefix"
-msgstr "Yangi fayl so'z boshi/so'z oxiri"
+msgstr "Yangi fayl soʻz boshi/soʻz oxiri"
 
 #: data/ui/preferences.ui:41
 msgid "Recursive Compression"
@@ -256,7 +256,7 @@ msgstr "Meta-axborotni saqlash"
 
 #: data/ui/preferences.ui:48
 msgid "Keep metadata chunks that do not affect rendering"
-msgstr "Renderlashda ta’sir qilmaydigan meta-axborot bo‘laklarini saqlang"
+msgstr "Renderlashda ta’sir qilmaydigan meta-axborot boʻlaklarini saqlang"
 
 #: data/ui/preferences.ui:53
 msgid "Keep File Attributes When Possible"
@@ -267,7 +267,7 @@ msgid ""
 "Ensure the new file has the same permissions and timestamps as the original "
 "file"
 msgstr ""
-"Yangi fayl asl fayl bilan bir xil ruxsat va vaqt belgilariga ega bo‘lishini "
+"Yangi fayl asl fayl bilan bir xil ruxsat va vaqt belgilariga ega boʻlishini "
 "tekshiring"
 
 #: data/ui/preferences.ui:60
@@ -281,20 +281,21 @@ msgstr "Formatlar"
 #: data/ui/preferences.ui:85 data/ui/preferences.ui:116
 #: data/ui/preferences.ui:140
 msgid "Lossy Compression"
-msgstr "Yo‘qotilgan zichlanish"
+msgstr "Yoʻqotilgan zichlanish"
 
 #: data/ui/preferences.ui:86 data/ui/preferences.ui:117
 #: data/ui/preferences.ui:141
 msgid "Set the quality of the generated image, 100 is the best quality"
-msgstr "Yaratilgan tasvir sifatini o‘rnating, 100 - eng yaxshi sifat"
+msgstr "Yaratilgan tasvir sifatini oʻrnating, 100 - eng yaxshi sifat"
 
 #: data/ui/preferences.ui:98 data/ui/preferences.ui:153
 msgid "Lossless Compression Level"
-msgstr "Yo‘qotishlarsiz zichlash darajasi"
+msgstr "Yoʻqotishlarsiz zichlash darajasi"
 
 #: data/ui/preferences.ui:99 data/ui/preferences.ui:154
 msgid "Set the level of the compression, 6 is the highest but slowest level"
-msgstr "Zichlash darajasini o‘rnating, 6 eng yuqori, lekin eng sekin darajadir"
+msgstr ""
+"Zichlash darajasini oʻrnating, 6 eng yuqori, lekin eng sekin darajadir"
 
 #: data/ui/preferences.ui:129
 msgid "Progressive Encode"
@@ -303,7 +304,7 @@ msgstr "Progressiv shifrlash"
 #: data/ui/preferences.ui:130
 msgid "Enable incremental image rendering, going from blurry to clear"
 msgstr ""
-"Rasmni xiralashtirishdan tiniqlashtirishga o‘tish uchun qo‘shimcha "
+"Rasmni xiralashtirishdan tiniqlashtirishga oʻtish uchun qoʻshimcha "
 "renderlashni yoqing"
 
 #: data/ui/preferences.ui:171
@@ -312,7 +313,7 @@ msgstr "Eng yuqori zichlik darajasi"
 
 #: data/ui/preferences.ui:172
 msgid "This can be more destructive for the image"
-msgstr "Bu tasvir uchun yanada halokatli bo‘lishi mumkin"
+msgstr "Bu tasvir uchun yanada halokatli boʻlishi mumkin"
 
 #: data/ui/menu.ui:6
 msgid "Bulk Compress Directory"
@@ -328,7 +329,7 @@ msgstr "Curtail haqida"
 
 #: data/ui/window.ui:19 src/window.py:273
 msgid "Browse Files"
-msgstr "Fayllarni ko‘rish"
+msgstr "Fayllarni koʻrish"
 
 #: data/ui/window.ui:26
 msgid "Clear Results"
@@ -340,11 +341,11 @@ msgstr "Asosiy menyu"
 
 #: data/ui/window.ui:51
 msgid "_Change Mode"
-msgstr "Rejimni o‘zgartirish"
+msgstr "Rejimni oʻzgartirish"
 
 #: data/ui/window.ui:52
 msgid "Images will be overwritten, proceed carefully"
-msgstr "Eski rasmlar ustidan yangisi qoʻyiladi, ehtiyot bo‘ling"
+msgstr "Eski rasmlar ustidan yangisi qoʻyiladi, ehtiyot boʻling"
 
 #: data/ui/window.ui:60
 msgid "Drop images here to compress them"
@@ -352,7 +353,7 @@ msgstr "Rasmlarni zichlash uchun ularni shu yerga tashlang"
 
 #: data/ui/window.ui:67
 msgid "_Browse Files"
-msgstr "Fayllarni ko‘rish"
+msgstr "Fayllarni koʻrish"
 
 #: data/ui/window.ui:82
 msgid "Lossless"
@@ -360,7 +361,7 @@ msgstr "Zararsiz"
 
 #: data/ui/window.ui:88
 msgid "Lossy"
-msgstr "Yo‘qotilgan"
+msgstr "Yoʻqotilgan"
 
 #: src/compressor.py:114
 msgid "Compression has reached the configured timeout of {} seconds."
@@ -413,7 +414,7 @@ msgid ""
 "a larger file size."
 msgstr ""
 "Faylni zichlash tashlab ketildi, chunki faylni zichlash natijasida fayl "
-"hajmi kattalashgan bo‘lar edi."
+"hajmi kattalashgan boʻlar edi."
 
 #: src/window.py:232
 msgid "Open Image"
@@ -421,7 +422,7 @@ msgstr "Rasmni ochish"
 
 #: src/window.py:233
 msgid "Show in Folder"
-msgstr "Jildda ko‘rsatish"
+msgstr "Jildda koʻrsatish"
 
 #: src/window.py:263
 msgid "Overwrite mode"
@@ -429,7 +430,7 @@ msgstr "Ustidan yozish usuli"
 
 #: src/window.py:290
 msgid "Browse Directories"
-msgstr "Direktoriyalarni ko‘rish"
+msgstr "Direktoriyalarni koʻrish"
 
 #: src/window.py:315 src/window.py:321
 msgid "Are you sure you want to compress images in these directories?"
@@ -441,15 +442,15 @@ msgid ""
 "be compressed. The original images will not be modified."
 msgstr ""
 "Belgilangan direktoriyalar va ularning quyi direktoriyalaridagi barcha "
-"rasmlar zichlashtiriladi. Asl rasmlar o‘zgarmaydi."
+"rasmlar zichlashtiriladi. Asl rasmlar oʻzgarmaydi."
 
 #: src/window.py:322
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed and overwritten!"
 msgstr ""
-"Tanlangan direktoriyalar va ularning quyi direktoriyalaridagi barcha rasmlar "
-"zichlanadi va ustidan yoziladi!"
+"Tanlangan direktoriyalar va ularning quyi direktoriyalaridagi barcha rasmlar"
+" zichlanadi va ustidan yoziladi!"
 
 #: src/window.py:325
 msgid "Cancel"
@@ -469,12 +470,12 @@ msgstr "Bu fayl mavjud emas."
 
 #: src/window.py:419
 msgid "Format of this file is not supported."
-msgstr "Bu fayl formati qo‘llab-quvvatlanmaydi."
+msgstr "Bu fayl formati qoʻllab-quvvatlanmaydi."
 
 #: src/window.py:477
 msgid "translator-credits"
-msgstr "Hamidulloh To'xtayev <toxtayevhamidulloh6997@gmail.com>"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
 #: src/window.py:481
 msgid "Contributors"
-msgstr "Hissa qo‘shuvchilar"
+msgstr "Hissa qoʻshuvchilar"

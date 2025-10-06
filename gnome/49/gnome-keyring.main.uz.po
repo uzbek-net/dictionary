@@ -43,7 +43,8 @@ msgstr ""
 "parolni kiriting."
 
 #: daemon/dbus/gkd-secret-change.c:99 daemon/dbus/gkd-secret-change.c:135
-#: daemon/dbus/gkd-secret-change.c:146 pkcs11/wrap-layer/gkm-wrap-prompt.c:1079
+#: daemon/dbus/gkd-secret-change.c:146
+#: pkcs11/wrap-layer/gkm-wrap-prompt.c:1079
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1192
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:1227
 msgid "Continue"
@@ -57,8 +58,8 @@ msgstr "“%s” kalit halqasi uchun yangi parolni tanlang"
 #: daemon/dbus/gkd-secret-change.c:129
 #, c-format
 msgid ""
-"An application wants to change the password for the “%s” keyring. Choose the "
-"new password you want to use for it."
+"An application wants to change the password for the “%s” keyring. Choose the"
+" new password you want to use for it."
 msgstr ""
 "Ilova “%s” kalit halqasi uchun parolni oʼzgartirmoqchi. Buning uchun "
 "foydalanmoqchi boʼlgan yangi parolni tanlang."
@@ -163,7 +164,8 @@ msgstr "Ilova “%s” shaxsiy kalitiga kirishni xohlaydi, lekin u qulflangan"
 #: daemon/ssh-agent/gkd-ssh-agent-interaction.c:111
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:589
 msgid "Automatically unlock this key whenever I’m logged in"
-msgstr "Men tizimga kirganimda bu kalit avtomatik ravishda qulfdan chiqarilsin"
+msgstr ""
+"Men tizimga kirganimda bu kalit avtomatik ravishda qulfdan chiqarilsin"
 
 #: daemon/ssh-agent/gkd-ssh-agent-interaction.c:113
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:539
@@ -455,7 +457,8 @@ msgstr "Ilova “%s”ga kirishni xohlaydi, lekin u qulflangan"
 msgid "Unlock certificate/key storage"
 msgstr "Sertifikat/kalit xotirasini qulfdan chiqarish"
 
-#. TRANSLATORS: The storage is locked, and needs unlocking before the application can use it.
+#. TRANSLATORS: The storage is locked, and needs unlocking before the
+#. application can use it.
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:709
 #, c-format
 msgid ""

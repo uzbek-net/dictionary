@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-connections gnome-48\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-connections/"
-"issues\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-connections/issues\n"
 "POT-Creation-Date: 2025-09-22 22:10+0000\n"
 "PO-Revision-Date: 2025-04-04 23:20+0500\n"
 "Last-Translator: \n"
@@ -32,7 +31,7 @@ msgstr "vnc;rdp;remote;desktop;windows;support;access;view"
 
 #: data/org.gnome.Connections.metainfo.xml.in:8
 msgid "View and use other desktops"
-msgstr "Boshqa ish stollarini ko'rish va ishlatish"
+msgstr "Boshqa ish stollarini koʻrish va ishlatish"
 
 #: data/org.gnome.Connections.metainfo.xml.in:10
 msgid ""
@@ -43,8 +42,8 @@ msgid ""
 msgstr ""
 "Ulanishlar boshqa ish stollariga ulanish va ulardan foydalanish imkonini "
 "beradi. Bu boshqa ish stoli operatsion tizimidagi tarkib yoki dasturiy "
-"ta'minotga kirishning ajoyib usuli bo'lishi mumkin. Bundan tashqari, "
-"yordamga muhtoj bo'lgan foydalanuvchilarga yordam berish usuli sifatida ham "
+"ta'minotga kirishning ajoyib usuli boʻlishi mumkin. Bundan tashqari, "
+"yordamga muhtoj boʻlgan foydalanuvchilarga yordam berish usuli sifatida ham "
 "foydalanish mumkin."
 
 #: data/org.gnome.Connections.metainfo.xml.in:13
@@ -60,9 +59,9 @@ msgid ""
 "Connections uses the widely supported VNC and RDP protocols, and one of "
 "these must be enabled on the desktop that you want to connect to."
 msgstr ""
-"Ulanishlar keng qo'llab-quvvatlanadigan VNC va RDP protokollaridan "
-"foydalanadi va ulardan biri ulanishni xohlagan ish stolida yoqilgan bo'lishi "
-"kerak."
+"Ulanishlar keng qoʻllab-quvvatlanadigan VNC va RDP protokollaridan "
+"foydalanadi va ulardan biri ulanishni xohlagan ish stolida yoqilgan boʻlishi"
+" kerak."
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Connections.metainfo.xml.in:41
@@ -75,7 +74,7 @@ msgstr "Masofaviy ish stoli (VNC) fayli"
 
 #: src/actions-popover.vala:44
 msgid "Delete"
-msgstr "O'chirish"
+msgstr "Oʻchirish"
 
 #: src/actions-popover.vala:48 src/topbar.vala:66 src/ui/topbar.ui:249
 msgid "Properties"
@@ -105,11 +104,11 @@ msgstr "Bekor qilish"
 
 #: src/application.vala:236
 msgid "URL to connect"
-msgstr "Bog'lanish uchun URL"
+msgstr "Bogʻlanish uchun URL"
 
 #: src/application.vala:237
 msgid "Open .vnc or .rdp file at the given PATH"
-msgstr ".vnc yoki .rdp faylni koʻrsatilgan YO'Lda ochish"
+msgstr ".vnc yoki .rdp faylni koʻrsatilgan YOʻLda ochish"
 
 #: src/application.vala:237
 msgid "PATH"
@@ -117,11 +116,11 @@ msgstr "YOʻL"
 
 #: src/application.vala:238
 msgid "Open in full screen"
-msgstr "To'liq ekranda ochish"
+msgstr "Toʻliq ekranda ochish"
 
 #: src/application.vala:261
 msgid "Too many command-line arguments specified.\n"
-msgstr "Juda ko'p buyruq satrining argumentlari koʻrsatilgan.\n"
+msgstr "Juda koʻp buyruq satrining argumentlari koʻrsatilgan.\n"
 
 #. Translators: %s => the timestamp of when the screenshot was taken.
 #: src/connection.vala:70
@@ -161,7 +160,7 @@ msgid ""
 "someone's pretending to be the server."
 msgstr ""
 "Masofaviy server “%s” sertifikati mahalliy nusxaga mos kelmaydi. Bu kimdir "
-"o'zini server sifatida ko'rsatayotgan bo'lishi mumkin."
+"oʻzini server sifatida koʻrsatayotgan boʻlishi mumkin."
 
 #: src/dialogs.vala:241
 #, fuzzy, c-format
@@ -183,7 +182,7 @@ msgstr "%d×%d"
 
 #: src/onboarding-dialog.vala:96 src/ui/onboarding-dialog.ui:148
 msgid "_No Thanks"
-msgstr "_Yo'q rahmat"
+msgstr "_Yoʻq rahmat"
 
 #: src/onboarding-dialog.vala:96
 msgid "_Close"
@@ -201,15 +200,16 @@ msgstr "Ekran tasvirini olish"
 
 #: src/topbar.vala:62 src/ui/topbar.ui:203 src/ui/topbar.ui:207
 msgid "Fullscreen"
-msgstr "To'liq ekran"
+msgstr "Toʻliq ekran"
 
 #: src/ui/assistant.ui:26
 msgid "Enter the network identifier of the remote desktop to connect to:"
-msgstr "Masofadagi ish stoliga ulanish uchun tarmoq identifikatorini kiriting:"
+msgstr ""
+"Masofadagi ish stoliga ulanish uchun tarmoq identifikatorini kiriting:"
 
 #: src/ui/assistant.ui:53
 msgid "Connection Type"
-msgstr "Bog'lanish turi"
+msgstr "Bogʻlanish turi"
 
 #: src/ui/assistant.ui:63
 msgid "RDP (standard for connecting to Windows)"
@@ -245,7 +245,8 @@ msgstr "_Parol"
 msgid "Sign In"
 msgstr "Tizimga kirish"
 
-#. Translators: The dialog with this title is shown to the user before opening the connection if needed (e.g. certificate confirmation).
+#. Translators: The dialog with this title is shown to the user before opening
+#. the connection if needed (e.g. certificate confirmation).
 #: src/ui/dialog.ui:18
 msgid "Open Connection"
 msgstr "Ochiq aloqa"
@@ -278,7 +279,7 @@ msgstr ""
 "Windows tizimida certlm.msc yoki certmgr.msc ni ishga tushiring va "
 "sertifikatni <b>Masofaviy ish stoli>Sertifikatlardan</b> faylga nusxalash. "
 "Keyin uning barmoq izini \"certutil.exe -hashfile fayli SHA256\" orqali "
-"oling. Agar ulangan so‘nggi nuqtada GNOME ishlatilsa, barmoq izini "
+"oling. Agar ulangan soʻnggi nuqtada GNOME ishlatilsa, barmoq izini "
 "<b>Sozlamalar>Ulashish</b> panelida yoki <b>Masofaviy ish stoli>Shifrlashni "
 "tekshirish</b> ostidagi <b>Sozlamalar>Tizim</b> panelida tekshirish mumkin."
 
@@ -288,7 +289,7 @@ msgstr "Kutilmagan sertifikat"
 
 #: src/ui/dialog.ui:334
 msgid "Delete Local Certificate"
-msgstr "Mahaliy sertifikatni o'chirish"
+msgstr "Mahaliy sertifikatni oʻchirish"
 
 #: src/ui/dialog.ui:387
 msgid "Authentication Required"
@@ -311,8 +312,8 @@ msgid ""
 "Domain field is commonly optional and can be\n"
 "left empty."
 msgstr ""
-"Domen maydoni odatda ixtiyoriy va bo'lishi mumkin\n"
-"bo'sh qoldirildi."
+"Domen maydoni odatda ixtiyoriy va boʻlishi mumkin\n"
+"boʻsh qoldirildi."
 
 #: src/ui/dialog.ui:639
 msgid "Authenticate"
@@ -361,15 +362,15 @@ msgstr "Ulanishlar"
 #| msgid "Fullscreen"
 msgctxt "shortcut window"
 msgid "Fullscreen"
-msgstr "To'liq ekran"
+msgstr "Toʻliq ekran"
 
 #: src/ui/onboarding-dialog.ui:42 src/ui/window.ui:52
 msgid "Welcome to Connections"
-msgstr "Aloqalarga bo'limiga xush kelibsiz"
+msgstr "Aloqalarga boʻlimiga xush kelibsiz"
 
 #: src/ui/onboarding-dialog.ui:43
 msgid "Click next to learn about remote desktop."
-msgstr "Masofadagi ish stoli haqida o'rganish uchun keying tugmasini bosing."
+msgstr "Masofadagi ish stoli haqida oʻrganish uchun keying tugmasini bosing."
 
 #: src/ui/onboarding-dialog.ui:50
 msgid "Access other desktops"
@@ -380,8 +381,8 @@ msgid ""
 "Connections allows viewing the screens of other desktops. They can also be "
 "controlled using the pointer and keyboard."
 msgstr ""
-"Ulanishlar boshqa ish stollari ekranlarini ko'rish imkonini beradi. Ularni "
-"ko'rsatgich va klaviatura yordamida ham boshqarish mumkin."
+"Ulanishlar boshqa ish stollari ekranlarini koʻrish imkonini beradi. Ularni "
+"koʻrsatgich va klaviatura yordamida ham boshqarish mumkin."
 
 #: src/ui/onboarding-dialog.ui:58
 msgid "Connect to different operating systems"
@@ -400,7 +401,7 @@ msgid ""
 "Remote desktop typically needs to be enabled on the computer you want to "
 "connect to."
 msgstr ""
-"Masofaviy ish stoli odatda ulanmoqchi bo'lgan kompyuterda yoqilgan bo'lishi "
+"Masofaviy ish stoli odatda ulanmoqchi boʻlgan kompyuterda yoqilgan boʻlishi "
 "kerak "
 
 #: src/ui/onboarding-dialog.ui:74
@@ -411,7 +412,7 @@ msgstr "Birinchi ulanishni yaratish bilan boshlang"
 msgid ""
 "To begin, you will need the address of the computer you want to connect to."
 msgstr ""
-"Boshlash uchun sizga ulanmoqchi bo'lgan kompyuterning manzili kerak bo'ladi "
+"Boshlash uchun sizga ulanmoqchi boʻlgan kompyuterning manzili kerak boʻladi "
 
 #: src/ui/rdp-preferences.ui:9 src/ui/spice-preferences.ui:9
 #: src/ui/vnc-preferences.ui:9
@@ -431,7 +432,7 @@ msgstr "Ism"
 #: src/ui/rdp-preferences.ui:53 src/ui/spice-preferences.ui:68
 #: src/ui/vnc-preferences.ui:108
 msgid "Fit window"
-msgstr "Oynaga to'ldirish"
+msgstr "Oynaga toʻldirish"
 
 #: src/ui/rdp-preferences.ui:54 src/ui/spice-preferences.ui:69
 #: src/ui/vnc-preferences.ui:109
@@ -512,7 +513,7 @@ msgstr "Displey"
 
 #: src/ui/vnc-preferences.ui:59
 msgid "View only"
-msgstr "Faqat ko'rish"
+msgstr "Faqat koʻrish"
 
 #: src/ui/vnc-preferences.ui:66
 msgid "Show local pointer"
@@ -532,7 +533,7 @@ msgstr "Tez yangilash"
 
 #: src/ui/window.ui:53
 msgid "Click the add button to create your first connection"
-msgstr "Birinchi bog'lanishni o'rnatish uchun qo'shish tugmasini bosing"
+msgstr "Birinchi bogʻlanishni oʻrnatish uchun qoʻshish tugmasini bosing"
 
 #: src/vnc-connection.vala:150
 msgid "Couldn’t parse the file"

@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Launchpad-Export-Date: 2017-04-25 06:10+0000\n"
 "X-Generator: Poedit 3.5\n"
+"X-Launchpad-Export-Date: 2017-04-25 06:10+0000\n"
 
 #. Title of scan window
 #: data/org.gnome.SimpleScan.desktop.in:2
@@ -31,7 +31,8 @@ msgstr "Hujjat skaneri"
 msgid "Make a digital copy of your photos and documents"
 msgstr "Rasmlaringiz va hujjatlaringizning raqamli nusxasini yarating"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.SimpleScan.desktop.in:5
 msgid "scan;scanner;flatbed;adf;simple-scan;simplescan;"
 msgstr "skanerlash;skaner;flatbed;adf;oddiy skanerlash;oddiy skanerlash;"
@@ -50,34 +51,34 @@ msgstr "Skanerlangan hujjat turi"
 
 #: data/org.gnome.SimpleScan.gschema.xml:21
 msgid ""
-"Type of document being scanned. This setting decides on the scan resolution, "
-"colors and post-processing."
+"Type of document being scanned. This setting decides on the scan resolution,"
+" colors and post-processing."
 msgstr ""
 "Skanerlangan hujjat turi. Ushbu sozlama skanerlash ruxsati, ranglar va "
 "keyingi ishlov berish haqida qaror qabul qiladi."
 
 #: data/org.gnome.SimpleScan.gschema.xml:25
 msgid "Width of paper in tenths of a mm"
-msgstr "Qog'oz kengligi mm ning o'ndan birida"
+msgstr "Qogʻoz kengligi mm ning oʻndan birida"
 
 #: data/org.gnome.SimpleScan.gschema.xml:26
 msgid ""
 "The width of the paper in tenths of a mm (or 0 for automatic paper "
 "detection)."
 msgstr ""
-"Qog'ozning kengligi mm ning o'ndan birida (yoki qog'ozni avtomatik aniqlash "
+"Qogʻozning kengligi mm ning oʻndan birida (yoki qogʻozni avtomatik aniqlash "
 "uchun 0)."
 
 #: data/org.gnome.SimpleScan.gschema.xml:30
 msgid "Height of paper in tenths of a mm"
-msgstr "Qog'oz balandligi mm ning o'ndan birida"
+msgstr "Qogʻoz balandligi mm ning oʻndan birida"
 
 #: data/org.gnome.SimpleScan.gschema.xml:31
 msgid ""
 "The height of the paper in tenths of a mm (or 0 for automatic paper "
 "detection)."
 msgstr ""
-"Qog'oz balandligi mm ning o'ndan birida (yoki qog'ozni avtomatik aniqlash "
+"Qogʻoz balandligi mm ning oʻndan birida (yoki qogʻozni avtomatik aniqlash "
 "uchun 0)."
 
 #: data/org.gnome.SimpleScan.gschema.xml:35
@@ -86,7 +87,7 @@ msgstr "Skanerning yorqinligi"
 
 #: data/org.gnome.SimpleScan.gschema.xml:36
 msgid "The brightness adjustment from -100 to 100 (0 being none)."
-msgstr "Yorqinlikni sozlash -100 dan 100 gacha (0 yo’q)."
+msgstr "Yorqinlikni sozlash -100 dan 100 gacha (0 yoʻq)."
 
 #: data/org.gnome.SimpleScan.gschema.xml:40
 msgid "Contrast of scan"
@@ -94,7 +95,7 @@ msgstr "Skanerlash kontrasti"
 
 #: data/org.gnome.SimpleScan.gschema.xml:41
 msgid "The contrast adjustment from -100 to 100 (0 being none)."
-msgstr "Kontrastni sozlash -100 dan 100 gacha (0 yo’q)."
+msgstr "Kontrastni sozlash -100 dan 100 gacha (0 yoʻq)."
 
 #: data/org.gnome.SimpleScan.gschema.xml:45
 msgid "Resolution for text scans"
@@ -127,7 +128,8 @@ msgstr "Fayllarni saqlash uchun katalog"
 
 #: data/org.gnome.SimpleScan.gschema.xml:61
 msgid ""
-"The directory to save files to. Defaults to the documents directory if unset."
+"The directory to save files to. Defaults to the documents directory if "
+"unset."
 msgstr ""
 "Fayllarni saqlash uchun katalog. Agar sozlanmagan boʻlsa, hujjatlar "
 "katalogiga birlamchi."
@@ -141,7 +143,7 @@ msgid ""
 "MIME type that is used for saving image files. Examples of supported MIME "
 "types: image/jpeg, image/png, application/pdf"
 msgstr ""
-"Tasvir fayllarini saqlash uchun ishlatiladigan MIME turi. Qo’llab-"
+"Tasvir fayllarini saqlash uchun ishlatiladigan MIME turi. Qoʻllab-"
 "quvvatlanadigan MIME turlariga misollar: image/jpeg, image/png, ilova/pdf"
 
 #: data/org.gnome.SimpleScan.gschema.xml:71
@@ -162,39 +164,40 @@ msgstr "Sahifalar orasidagi kechikish millisekundlarda."
 
 #: data/org.gnome.SimpleScan.gschema.xml:82
 msgid "Whether or not postprocessing is enabled"
-msgstr "Postprocessing yoqilganmi yoki yo’qmi"
+msgstr "Postprocessing yoqilganmi yoki yoʻqmi"
 
 #: data/org.gnome.SimpleScan.gschema.xml:83
 msgid "Whether or not postprocessing is enabled."
-msgstr "Postprocessing yoqilganmi yoki yo’qmi."
+msgstr "Postprocessing yoqilganmi yoki yoʻqmi."
 
 #: data/org.gnome.SimpleScan.gschema.xml:87
 msgid "The path to the postprocessing script"
-msgstr "Postprocessing skriptiga yo’l"
+msgstr "Postprocessing skriptiga yoʻl"
 
 #: data/org.gnome.SimpleScan.gschema.xml:88
 msgid "The path to the postprocessing script."
-msgstr "Postprocessing skriptiga yo’l."
+msgstr "Postprocessing skriptiga yoʻl."
 
 #: data/org.gnome.SimpleScan.gschema.xml:92
 msgid "Additional arguments for the postprocessing script"
-msgstr "Postprocessing skripti uchun qo’shimcha argumentlar"
+msgstr "Postprocessing skripti uchun qoʻshimcha argumentlar"
 
 #: data/org.gnome.SimpleScan.gschema.xml:93
 msgid "Additional arguments for the postprocessing script."
-msgstr "Postprocessing skripti uchun qo’shimcha argumentlar."
+msgstr "Postprocessing skripti uchun qoʻshimcha argumentlar."
 
 #: data/org.gnome.SimpleScan.gschema.xml:97
 msgid "Whether or not to keep the original, unprocessed file"
-msgstr "Asl, qayta ishlanmagan faylni saqlash kerakmi yoki yo’qmi"
+msgstr "Asl, qayta ishlanmagan faylni saqlash kerakmi yoki yoʻqmi"
 
 #: data/org.gnome.SimpleScan.gschema.xml:98
 msgid ""
 "Whether or not to keep the original, unprocessed file. The \"_orig\" "
-"filename will be added to the filename immediately before the file extension."
+"filename will be added to the filename immediately before the file "
+"extension."
 msgstr ""
-"Asl, qayta ishlanmagan faylni saqlash kerakmi yoki yo’qmi. “_orig” fayl nomi "
-"fayl nomiga fayl kengaytmasidan oldin darhol qo’shiladi."
+"Asl, qayta ishlanmagan faylni saqlash kerakmi yoki yoʻqmi. “_orig” fayl nomi"
+" fayl nomiga fayl kengaytmasidan oldin darhol qoʻshiladi."
 
 #: data/org.gnome.SimpleScan.metainfo.xml.in:9
 msgid ""
@@ -203,14 +206,14 @@ msgid ""
 "your scans, export them to pdf, or save them in a range of image formats."
 msgstr ""
 "Matn va tasvirlarni skanerlashning juda oson usuli. Tasvirning yomon "
-"qismlarini kesib tashlashingiz va agar u noto’g’ri bo’lsa, uni "
-"aylantirishingiz mumkin. Siz skanerlaringizni chop etishingiz, ularni pdf-ga "
-"eksport qilishingiz yoki turli xil tasvir formatlarida saqlashingiz mumkin."
+"qismlarini kesib tashlashingiz va agar u notoʻgʻri boʻlsa, uni "
+"aylantirishingiz mumkin. Siz skanerlaringizni chop etishingiz, ularni pdf-ga"
+" eksport qilishingiz yoki turli xil tasvir formatlarida saqlashingiz mumkin."
 
 #: data/org.gnome.SimpleScan.metainfo.xml.in:14
 msgid "This app uses the SANE framework to support most existing scanners."
 msgstr ""
-"Ushbu ilova ko’pgina mavjud skanerlarni qo’llab-quvvatlash uchun SANE "
+"Ushbu ilova koʻpgina mavjud skanerlarni qoʻllab-quvvatlash uchun SANE "
 "framework foydalanadi."
 
 #. developer_name tag deprecated with Appstream 1.0
@@ -226,7 +229,7 @@ msgstr "_Chapga burish"
 #. Menu item to rotate page to right (clockwise)
 #: data/ui/app-window.ui:12
 msgid "Rotate _Right"
-msgstr "_O'ngga burish"
+msgstr "_Oʻngga burish"
 
 #. Label for page crop submenu
 #: data/ui/app-window.ui:16
@@ -420,12 +423,12 @@ msgstr "Flatbed skanerdan doimiy ravishda skanerlash"
 #: data/ui/help-overlay.ui:32
 msgctxt "shortcut window"
 msgid "Stop scan in progress"
-msgstr "Skanerlashni to‘xtating"
+msgstr "Skanerlashni toʻxtating"
 
 #: data/ui/help-overlay.ui:39
 msgctxt "shortcut window"
 msgid "Document Modification"
-msgstr "Hujjatni o’zgartirish"
+msgstr "Hujjatni oʻzgartirish"
 
 #: data/ui/help-overlay.ui:43
 msgctxt "shortcut window"
@@ -435,7 +438,7 @@ msgstr "Sahifani chapga siljiting"
 #: data/ui/help-overlay.ui:49
 msgctxt "shortcut window"
 msgid "Move page right"
-msgstr "Sahifani o’ngga siljiting"
+msgstr "Sahifani oʻngga siljiting"
 
 #: data/ui/help-overlay.ui:55
 msgctxt "shortcut window"
@@ -450,7 +453,7 @@ msgstr "Sahifani oʼngga burish (soat yoʼnalishi boʼyicha)"
 #: data/ui/help-overlay.ui:67
 msgctxt "shortcut window"
 msgid "Delete page"
-msgstr "Sahifani o’chirish"
+msgstr "Sahifani oʻchirish"
 
 #: data/ui/help-overlay.ui:74
 msgctxt "shortcut window"
@@ -490,7 +493,7 @@ msgstr "Umumiy"
 #: data/ui/help-overlay.ui:113
 msgctxt "shortcut window"
 msgid "Show help"
-msgstr "Yordam ko’rsatish"
+msgstr "Yordam koʻrsatish"
 
 #: data/ui/help-overlay.ui:119
 msgctxt "shortcut window"
@@ -500,12 +503,12 @@ msgstr "Menyuni oching"
 #: data/ui/help-overlay.ui:125
 msgctxt "shortcut window"
 msgid "Show preferences"
-msgstr "Afzalliklarni ko’rsatish"
+msgstr "Afzalliklarni koʻrsatish"
 
 #: data/ui/help-overlay.ui:131
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
-msgstr "Afzalliklarni ko’rsatish"
+msgstr "Afzalliklarni koʻrsatish"
 
 #: data/ui/help-overlay.ui:137
 msgctxt "shortcut window"
@@ -522,17 +525,20 @@ msgstr "Skanerlash"
 msgid "Scan _Sides"
 msgstr "_Tomonlarni skanerlash"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
+#. Preferences Dialog: Toggle button to select scanning on front side of a
+#. page
 #: data/ui/preferences-dialog.ui:42
 msgid "Front"
 msgstr "Oldi"
 
-#. Preferences Dialog: Toggle button to select scanning on the back side of a page
+#. Preferences Dialog: Toggle button to select scanning on the back side of a
+#. page
 #: data/ui/preferences-dialog.ui:47
 msgid "Back"
 msgstr "Orqasi"
 
-#. Preferences Dialog: Toggle button to select scanning on both sides of a page
+#. Preferences Dialog: Toggle button to select scanning on both sides of a
+#. page
 #: data/ui/preferences-dialog.ui:53
 msgid "Both"
 msgstr "Ikkalasi ham"
@@ -552,27 +558,32 @@ msgstr "_Soniyada kechikish"
 msgid "Interval to scan multiple pages"
 msgstr "Bir nechta sahifalarni skanerlash uchun interval"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
+#. Preferences Dialog: Toggle button to select scanning on front side of a
+#. page
 #: data/ui/preferences-dialog.ui:82
 msgid "0"
 msgstr "0"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
+#. Preferences Dialog: Toggle button to select scanning on front side of a
+#. page
 #: data/ui/preferences-dialog.ui:87
 msgid "3"
 msgstr "3"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
+#. Preferences Dialog: Toggle button to select scanning on front side of a
+#. page
 #: data/ui/preferences-dialog.ui:93
 msgid "6"
 msgstr "6"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
+#. Preferences Dialog: Toggle button to select scanning on front side of a
+#. page
 #: data/ui/preferences-dialog.ui:99
 msgid "10"
 msgstr "10"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
+#. Preferences Dialog: Toggle button to select scanning on front side of a
+#. page
 #: data/ui/preferences-dialog.ui:105
 msgid "15"
 msgstr "15"
@@ -661,7 +672,8 @@ msgstr "Teskari"
 msgid "_Close"
 msgstr "_Yopish"
 
-#. Label in authorization dialog.  “%s” is replaced with the name of the resource requesting authorization
+#. Label in authorization dialog.  “%s” is replaced with the name of the
+#. resource requesting authorization
 #: src/app-window.vala:213
 #, c-format
 msgid "Username and password required to access “%s”"
@@ -677,10 +689,11 @@ msgstr "Skanerlar qidirilmoqda…"
 msgid "Ready to Scan"
 msgstr "Skanerlashga tayyor"
 
-#. Warning displayed when no drivers are installed but a compatible scanner is detected
+#. Warning displayed when no drivers are installed but a compatible scanner is
+#. detected
 #: src/app-window.vala:244
 msgid "Additional Software Needed"
-msgstr "Qo’shimcha dasturiy ta’minot kerak"
+msgstr "Qoʻshimcha dasturiy ta’minot kerak"
 
 #. Instructions to install driver software
 #: src/app-window.vala:246
@@ -688,8 +701,8 @@ msgid ""
 "You need to <a href=\"install-firmware\">install driver software</a> for "
 "your scanner"
 msgstr ""
-"Skaneringiz uchun <a href=“install-firmware”>drayv dasturini o‘rnatishingiz</"
-"a> kerak"
+"Skaneringiz uchun <a href=“install-firmware”>drayv dasturini "
+"oʻrnatishingiz</a> kerak"
 
 #. Warning displayed when no scanners are detected
 #: src/app-window.vala:253
@@ -790,7 +803,7 @@ msgstr "_Oʻzgarishlarni bekor qilish"
 #. Label shown when scan started
 #: src/app-window.vala:788
 msgid "Contacting Scanner…"
-msgstr "Skaner bilan bog‘lanmoqda…"
+msgstr "Skaner bilan bogʻlanmoqda…"
 
 #: src/app-window.vala:900
 msgid "Scan a Single Page"
@@ -858,7 +871,7 @@ msgstr "Bekor qilish"
 #: src/book.vala:392 src/book.vala:398
 #, c-format
 msgid "Unable to encode page %i"
-msgstr "%i sahifani kodlab bo‘lmadi"
+msgstr "%i sahifani kodlab boʻlmadi"
 
 #. Message to indicate a Brother scanner has been detected
 #: src/drivers-dialog.vala:76
@@ -868,8 +881,8 @@ msgstr "Sizda Brother skaneringiz borga oʼxshaydi."
 #. Instructions on how to install Brother scanner drivers
 #: src/drivers-dialog.vala:78
 msgid ""
-"Drivers for this are available on the <a href=\"http://"
-"support.brother.com\">Brother website</a>."
+"Drivers for this are available on the <a "
+"href=\"http://support.brother.com\">Brother website</a>."
 msgstr ""
 "Buning uchun drayverlar <a href=“http://support.brother.com”>Brother veb-"
 "saytida</a> mavjud."
@@ -881,22 +894,23 @@ msgid ""
 "href=\"http://www.sane-project.org/man/sane-pixma.5.html\">Pixma SANE "
 "backend</a>."
 msgstr ""
-"Sizda <a href=“http://www.sane-project.org/man/sane-pixma.5.html”>Pixma SANE "
-"backend</a> tomonidan qo’llab-quvvatlanadigan Canon skaneringiz borga "
-"o’xshaydi."
+"Sizda <a href=“http://www.sane-project.org/man/sane-pixma.5.html”>Pixma SANE"
+" backend</a> tomonidan qoʻllab-quvvatlanadigan Canon skaneringiz borga "
+"oʻxshaydi."
 
 #. Instructions on how to resolve issue with SANE scanner drivers
 #: src/drivers-dialog.vala:84
 msgid ""
 "Please check if your <a href=\"http://www.sane-project.org/sane-supported-"
 "devices.html\">scanner is supported by SANE</a>, otherwise report the issue "
-"to the <a href=\"https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/"
-"sane-devel\">SANE mailing list</a>."
+"to the <a href=\"https://alioth-lists.debian.net/cgi-"
+"bin/mailman/listinfo/sane-devel\">SANE mailing list</a>."
 msgstr ""
 "Iltimos, <a href=“http://www.sane-project.org/sane-supported-"
-"devices.html”>skaneringiz SANE tomonidan qo‘llab-quvvatlanishini tekshiring</"
-"a>, aks holda muammo haqida <a href=“https://alioth-lists.debian.net/cgi-bin/"
-"mailman/listinfo/sane-devel”>SANE.> pochta ro‘yxatiga xabar bering."
+"devices.html”>skaneringiz SANE tomonidan qoʻllab-quvvatlanishini "
+"tekshiring</a>, aks holda muammo haqida <a href=“https://alioth-"
+"lists.debian.net/cgi-bin/mailman/listinfo/sane-devel”>SANE.> pochta "
+"roʻyxatiga xabar bering."
 
 #. Message to indicate a Samsung scanner has been detected
 #: src/drivers-dialog.vala:88
@@ -904,7 +918,8 @@ msgid "You appear to have a Samsung scanner."
 msgstr "Sizda Samsung skaneri borga oʼxshaydi."
 
 #. Instructions on how to install Samsung scanner drivers.
-#. Because HP acquired Samsung's global printing business in 2017, the support is made on HP site.
+#. Because HP acquired Samsung's global printing business in 2017, the support
+#. is made on HP site.
 #: src/drivers-dialog.vala:91
 msgid ""
 "Drivers for this are available on the <a href=\"https://support.hp.com\">HP "
@@ -916,7 +931,7 @@ msgstr ""
 #. Message to indicate a HP scanner has been detected
 #: src/drivers-dialog.vala:96
 msgid "You appear to have an HP scanner."
-msgstr "Sizda HP skaneri borga o’xshaydi."
+msgstr "Sizda HP skaneri borga oʻxshaydi."
 
 #. Instructions on how to install HP scanner drivers.
 #. smfp is rebranded and slightly modified Samsung devices,
@@ -939,8 +954,8 @@ msgstr "Sizda Epson skaneri borga oʼxshaydi."
 #. Instructions on how to install Epson scanner drivers
 #: src/drivers-dialog.vala:110
 msgid ""
-"Drivers for this are available on the <a href=\"http://"
-"support.epson.com\">Epson website</a>."
+"Drivers for this are available on the <a "
+"href=\"http://support.epson.com\">Epson website</a>."
 msgstr ""
 "Buning uchun drayverlar <a href=\"http://support.epson.com\">Epson veb-"
 "saytida</a> mavjud."
@@ -948,13 +963,13 @@ msgstr ""
 #. Message to indicate a Lexmark scanner has been detected
 #: src/drivers-dialog.vala:114
 msgid "You appear to have a Lexmark scanner."
-msgstr "Sizda Lexmark skaneri borga o’xshaydi."
+msgstr "Sizda Lexmark skaneri borga oʻxshaydi."
 
 #. Instructions on how to install Lexmark scanner drivers
 #: src/drivers-dialog.vala:116
 msgid ""
-"Drivers for this are available on the <a href=\"http://"
-"support.lexmark.com\">Lexmark website</a>."
+"Drivers for this are available on the <a "
+"href=\"http://support.lexmark.com\">Lexmark website</a>."
 msgstr ""
 "Buning uchun drayverlar <a href=“http://support.lexmark.com”>Lexmark veb-"
 "saytida</a> mavjud."
@@ -962,7 +977,7 @@ msgstr ""
 #. Label shown while installing drivers
 #: src/drivers-dialog.vala:130
 msgid "Installing drivers…"
-msgstr "Drayvlar o’rnatilmoqda…"
+msgstr "Drayvlar oʻrnatilmoqda…"
 
 #. Label shown once drivers successfully installed
 #: src/drivers-dialog.vala:135
@@ -983,9 +998,10 @@ msgstr "Drayverlarni oʼrnatib boʼlmadi."
 #: src/drivers-dialog.vala:161
 msgid "Once installed you will need to restart this app."
 msgstr ""
-"O’rnatilgandan so’ng ushbu ilovani qayta ishga tushirishingiz kerak bo’ladi."
+"Oʻrnatilgandan soʻng ushbu ilovani qayta ishga tushirishingiz kerak boʻladi."
 
-#. Label shown to prompt user to install packages (when PackageKit not available)
+#. Label shown to prompt user to install packages (when PackageKit not
+#. available)
 #: src/drivers-dialog.vala:176
 #, fuzzy, c-format
 #| msgid "You need to install the %s package(s)."
@@ -1017,11 +1033,11 @@ msgstr "Koʼproq"
 
 #: src/preferences-dialog.vala:181
 msgid "Minimum size"
-msgstr "Minimal o’lcham"
+msgstr "Minimal oʻlcham"
 
 #: src/preferences-dialog.vala:185
 msgid "Full detail"
-msgstr "To’liq tafsilot"
+msgstr "Toʻliq tafsilot"
 
 #. Preferences dialog: Label for default resolution in resolution list
 #: src/preferences-dialog.vala:372
@@ -1041,7 +1057,8 @@ msgstr "%d dpi (qoralama)"
 msgid "%d dpi (high resolution)"
 msgstr "%d dpi (yuqori aniqlik)"
 
-#. Preferences dialog: Label for resolution value in resolution list (dpi = dots per inch)
+#. Preferences dialog: Label for resolution value in resolution list (dpi =
+#. dots per inch)
 #: src/preferences-dialog.vala:381
 #, c-format
 msgid "%d dpi"
@@ -1055,12 +1072,12 @@ msgstr "Hech qanday skaner mavjud emas. Iltimos, skanerni ulang."
 #. Error displayed when cannot connect to scanner
 #: src/scanner.vala:931
 msgid "Unable to connect to scanner"
-msgstr "Skanerga ulanib bo‘lmadi"
+msgstr "Skanerga ulanib boʻlmadi"
 
 #. Error displayed when no documents at the start of scanning
 #: src/scanner.vala:1376 src/scanner.vala:1511
 msgid "Document feeder empty"
-msgstr "Hujjatni yuboruvchi bo‘sh"
+msgstr "Hujjatni yuboruvchi boʻsh"
 
 #. Out of memory error message with help instruction.
 #. Message written in Pango text markup language,
@@ -1068,14 +1085,10 @@ msgstr "Hujjatni yuboruvchi bo‘sh"
 #: src/scanner.vala:1385
 msgid ""
 "Insufficient memory to perform scan.\n"
-"Try to decrease <tt>Resolution</tt> or <tt>Page Size</tt> in "
-"<tt>Preferences</tt> menu. For some scanners when scanning in high "
-"resolution, the scan size is restricted."
+"Try to decrease <tt>Resolution</tt> or <tt>Page Size</tt> in <tt>Preferences</tt> menu. For some scanners when scanning in high resolution, the scan size is restricted."
 msgstr ""
 "Skanerlash uchun xotira yetarli emas.\n"
-"<tt>Preferences</tt> menyusida <tt>Resolution</tt> yoki <tt>Sahifa hajmi</"
-"tt> ni kamaytirishga harakat qiling. Ba’zi skanerlar uchun yuqori aniqlikda "
-"skanerlashda skanerlash hajmi cheklangan."
+"<tt>Preferences</tt> menyusida <tt>Resolution</tt> yoki <tt>Sahifa hajmi</tt> ni kamaytirishga harakat qiling. Ba’zi skanerlar uchun yuqori aniqlikda skanerlashda skanerlash hajmi cheklangan."
 
 #. Error display when unable to start scan
 #: src/scanner.vala:1398
@@ -1085,7 +1098,7 @@ msgstr "Skanerlashni boshlash imkonsiz"
 #. Error displayed when communication with scanner broken
 #: src/scanner.vala:1411 src/scanner.vala:1521
 msgid "Error communicating with scanner"
-msgstr "Skaner bilan bog‘lanishda xatolik yuz berdi"
+msgstr "Skaner bilan bogʻlanishda xatolik yuz berdi"
 
 #. Help string for command line --version flag
 #: src/simple-scan.vala:21
@@ -1121,8 +1134,8 @@ msgstr "[DEVICE…] — Skanerlash yordam dasturi"
 #, c-format
 msgid "Run “%s --help” to see a full list of available command line options."
 msgstr ""
-"Mavjud buyruq qatori opsiyalarining toʻliq roʻyxatini koʻrish uchun “%s —"
-"help” ni ishga tushiring."
+"Mavjud buyruq qatori opsiyalarining toʻliq roʻyxatini koʻrish uchun “%s "
+"—help” ni ishga tushiring."
 
 #~ msgid "Front and Back"
 #~ msgstr "Oldi va orqasi"
@@ -1164,7 +1177,7 @@ msgstr ""
 #~ msgstr "Chapga burish"
 
 #~ msgid "Rotate Right"
-#~ msgstr "O'ngga burish"
+#~ msgstr "Oʻngga burish"
 
 #~ msgid "Crop"
 #~ msgstr "Qirqish"
@@ -1204,8 +1217,7 @@ msgstr ""
 #~ "You should have received a copy of the GNU General Public License\n"
 #~ "along with this program.  If not, see <http://www.gnu.org/licenses/>."
 #~ msgstr ""
-#~ "Ushbu dastur bepul dasturiy ta'minot: uni qayta tarqatishingiz va/yoki "
-#~ "oʼzgartirishingiz mumkin\n"
+#~ "Ushbu dastur bepul dasturiy ta'minot: uni qayta tarqatishingiz va/yoki oʼzgartirishingiz mumkin\n"
 #~ "tomonidan nashr etilgan GNU General Public License shartlariga muvofiq\n"
 #~ "Free Software Foundation, Litsenziyaning 3-versiyasi yoki\n"
 #~ "(ixtiyoringiz boʼyicha) har qanday keyingi versiya.\n"
@@ -1216,8 +1228,7 @@ msgstr ""
 #~ "Batafsil ma'lumot uchun GNU General Public License.\n"
 #~ "\n"
 #~ "Siz GNU General Public License nusxasini olishingiz kerak edi\n"
-#~ "ushbu dastur bilan birga. Aks holda, <http://www.gnu.org/licenses/> ga "
-#~ "qarang."
+#~ "ushbu dastur bilan birga. Aks holda, <http://www.gnu.org/licenses/> ga qarang."
 
 #~ msgid "About Simple Scan"
 #~ msgstr "Simple Scan haqida"
@@ -1226,11 +1237,11 @@ msgstr ""
 #~ msgstr "Oddiy hujjatlarni skanerlash vositasi"
 
 #~ msgid ""
-#~ "Drivers for this are available on the <a href=\"http://samsung.com/"
-#~ "support\">Samsung website</a>."
+#~ "Drivers for this are available on the <a "
+#~ "href=\"http://samsung.com/support\">Samsung website</a>."
 #~ msgstr ""
-#~ "Buning uchun drayverlar <a href=\"http://samsung.com/support\">Samsung "
-#~ "veb-saytida</a> mavjud."
+#~ "Buning uchun drayverlar <a href=\"http://samsung.com/support\">Samsung veb-"
+#~ "saytida</a> mavjud."
 
 #~ msgid "Document"
 #~ msgstr "Hujjat"

@@ -24,9 +24,9 @@ msgstr ""
 #. * setting a custom title on the headerbar). Setting it programmatically
 #. * here works though. And yields a proper label in the gnome-shell
 #. * overview.
-#.
-#: data/org.gnome.Maps.desktop.in.in:3 data/org.gnome.Maps.metainfo.xml.in.in:6
-#: data/ui/main-window.ui:49 src/application.js:62 src/mainWindow.js:118
+#: data/org.gnome.Maps.desktop.in.in:3
+#: data/org.gnome.Maps.metainfo.xml.in.in:6 data/ui/main-window.ui:49
+#: src/application.js:62 src/mainWindow.js:118
 msgid "Maps"
 msgstr "Xaritalar"
 
@@ -34,22 +34,23 @@ msgstr "Xaritalar"
 msgid "A simple maps application"
 msgstr "Oddiy xaritalar ilovasi"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Maps.desktop.in.in:13
 msgid "Maps;"
 msgstr "Xaritalar;"
 
 #: data/org.gnome.Maps.desktop.in.in:16
 msgid "Allows your location to be shown on the map."
-msgstr "Sizning joylashuvingizni xaritada ko'rsatishga ruxsat beradi."
+msgstr "Sizning joylashuvingizni xaritada koʻrsatishga ruxsat beradi."
 
 #: data/org.gnome.Maps.gschema.xml:16
 msgid "last viewed location"
-msgstr "oxirgi marta ko'rilgan joy"
+msgstr "oxirgi marta koʻrilgan joy"
 
 #: data/org.gnome.Maps.gschema.xml:17
 msgid "Coordinates of last viewed location."
-msgstr "Oxirigi marta ko'rilgan joylarning koordinatalari."
+msgstr "Oxirigi marta koʻrilgan joylarning koordinatalari."
 
 #: data/org.gnome.Maps.gschema.xml:21
 msgid "zoom"
@@ -73,7 +74,7 @@ msgstr "Xarita turi"
 
 #: data/org.gnome.Maps.gschema.xml:32
 msgid "The type of map to display (street, aerial, etc.)"
-msgstr "Ko’rsatiladigan xarita turi (ko’cha, antenna va boshqalar)"
+msgstr "Koʻrsatiladigan xarita turi (koʻcha, antenna va boshqalar)"
 
 #: data/org.gnome.Maps.gschema.xml:36
 msgid "Window size"
@@ -81,7 +82,7 @@ msgstr "Oyna hajmi"
 
 #: data/org.gnome.Maps.gschema.xml:37
 msgid "Window size (width and height)."
-msgstr "Oyna hajmi (bo'yi va eni)."
+msgstr "Oyna hajmi (boʻyi va eni)."
 
 #: data/org.gnome.Maps.gschema.xml:41
 msgid "Window position"
@@ -131,7 +132,7 @@ msgstr "OpenStreetMap foydalanuvchi ismi yoki email manzili"
 msgid "Indicates if the user has signed in to edit OpenStreetMap data."
 msgstr ""
 "Foydalanuvchi OpenStreetMap ma’lumotlarini tahrirlash uchun tizimga "
-"kirganligini ko‘rsatadi."
+"kirganligini koʻrsatadi."
 
 #: data/org.gnome.Maps.gschema.xml:71
 msgid "Last used transportation type for routing"
@@ -139,11 +140,11 @@ msgstr "Oxirgi marta marshrutlash uchun ishlatilgan transport turi"
 
 #: data/org.gnome.Maps.gschema.xml:75
 msgid "Show scale"
-msgstr "Masshtabni ko'rsatish"
+msgstr "Masshtabni koʻrsatish"
 
 #: data/org.gnome.Maps.gschema.xml:76
 msgid "Whether to show the scale."
-msgstr "Masshtabni ko'rsatish yoki yo'qligi."
+msgstr "Masshtabni koʻrsatish yoki yoʻqligi."
 
 #: data/org.gnome.Maps.gschema.xml:80
 msgid "Map tile URL pattern"
@@ -162,23 +163,23 @@ msgstr ""
 
 #: data/org.gnome.Maps.gschema.xml:86
 msgid ""
-"How to show measurements. ('system' uses default for system locale, 'metric' "
-"always show metric units, 'imperial' always show imperial units)."
+"How to show measurements. ('system' uses default for system locale, 'metric'"
+" always show metric units, 'imperial' always show imperial units)."
 msgstr ""
 
 #: data/org.gnome.Maps.metainfo.xml.in.in:7
 msgid "Find places around the world"
-msgstr "Dunyo bo'ylab joylarni toping"
+msgstr "Dunyo boʻylab joylarni toping"
 
 #: data/org.gnome.Maps.metainfo.xml.in.in:9
 msgid ""
 "Maps gives you quick access to maps all across the world. It allows you to "
-"quickly find the place you’re looking for by searching for a city or street, "
-"or locate a place to meet a friend."
+"quickly find the place you’re looking for by searching for a city or street,"
+" or locate a place to meet a friend."
 msgstr ""
-"Xaritalar sizga butun dunyo bo'lyab tezkor kirish imkonini beradi. Bu sizga "
-"shahar yoki ko'chani qidirish orqali siz qidirayotgan joyni tezda topish, "
-"yoki do'stingiz bilan uchrashadigan joyni aniqlashingiz mumkin."
+"Xaritalar sizga butun dunyo boʻlyab tezkor kirish imkonini beradi. Bu sizga "
+"shahar yoki koʻchani qidirish orqali siz qidirayotgan joyni tezda topish, "
+"yoki doʻstingiz bilan uchrashadigan joyni aniqlashingiz mumkin."
 
 #: data/org.gnome.Maps.metainfo.xml.in.in:14
 msgid ""
@@ -199,7 +200,7 @@ msgstr "Shu yerdan turib Marshrutlash"
 
 #: data/ui/context-menu.ui:10
 msgid "Add Intermediate Destination"
-msgstr "Oraliq manzil qo'shish"
+msgstr "Oraliq manzil qoʻshish"
 
 #: data/ui/context-menu.ui:14
 msgid "Route to Here"
@@ -215,12 +216,13 @@ msgstr "Manzilni nusxalash"
 
 #: data/ui/context-menu.ui:28
 msgid "Add to OpenStreetMap…"
-msgstr "OpenStreetMap ga qo'shish…"
+msgstr "OpenStreetMap ga qoʻshish…"
 
-#. Translators: This is the title of the dialog for expoting the map view content to an image file
+#. Translators: This is the title of the dialog for expoting the map view
+#. content to an image file
 #: data/ui/export-view-dialog.ui:7
 msgid "Export View"
-msgstr "Ko'rinishni eksport qilish"
+msgstr "Koʻrinishni eksport qilish"
 
 #: data/ui/export-view-dialog.ui:16 data/ui/osm-discard-dialog.ui:12
 #: data/ui/send-to-dialog.ui:10
@@ -234,7 +236,7 @@ msgstr "_Eksport"
 #. Translators: This is a tooltip
 #: data/ui/favorite-list-row.ui:72
 msgid "Remove Favorite"
-msgstr "Yoqtirganlar ro'yxatidan olib tashlash"
+msgstr "Yoqtirganlar roʻyxatidan olib tashlash"
 
 #: data/ui/favorites-popover.ui:11
 msgid "No Favorites"
@@ -242,7 +244,7 @@ msgstr "Yoqtirganlar mavjud emas"
 
 #: data/ui/favorites-popover.ui:12
 msgid "Add places to your favorites to get them listed here"
-msgstr "Joylarni yoqtirganlarga qo'shing, shunda u bu yerda ko'rsatiladi"
+msgstr "Joylarni yoqtirganlarga qoʻshing, shunda u bu yerda koʻrsatiladi"
 
 #. Translators: This is a tooltip
 #: data/ui/headerbar-left.ui:11 src/geoclue.js:106 src/placeBar.js:101
@@ -271,7 +273,7 @@ msgstr "Marshrut rejalashtiruvchi"
 
 #: data/ui/layers-popover.ui:7
 msgid "Show Scale"
-msgstr "Masshtabni ko’rsatish"
+msgstr "Masshtabni koʻrsatish"
 
 #. Translators: This string uses ellipsis character
 #: data/ui/layers-popover.ui:16
@@ -291,7 +293,8 @@ msgstr "Rasm sifatida eksport qilish…"
 msgid "Measurement Units"
 msgstr ""
 
-#. Translators: This is a menu item for showing measurements in units corresponding to the system locale
+#. Translators: This is a menu item for showing measurements in units
+#. corresponding to the system locale
 #: data/ui/main-window.ui:20
 msgid "_System Default"
 msgstr ""
@@ -343,7 +346,7 @@ msgstr "Tasdiqlash"
 msgid ""
 "Copy the verification code shown when authorizing access in the browser."
 msgstr ""
-"Brauzerda ruxsat berish jarayonida ko‘rsatilgan tasdiqlash kodini nusxalash."
+"Brauzerda ruxsat berish jarayonida koʻrsatilgan tasdiqlash kodini nusxalash."
 
 #: data/ui/osm-account-dialog.ui:70
 msgid "Verification Code"
@@ -367,11 +370,11 @@ msgstr "_Tizimdan chiqish"
 
 #: data/ui/osm-discard-dialog.ui:5
 msgid "Discard Changes?"
-msgstr "O'zgartirishlarni bekor qilmoqchimisiz?"
+msgstr "Oʻzgartirishlarni bekor qilmoqchimisiz?"
 
 #: data/ui/osm-discard-dialog.ui:6
 msgid "Your current changes to the map will be lost"
-msgstr "Sizning joriy o'zgartirishlaringiz xaritadan yo'qoladi"
+msgstr "Sizning joriy oʻzgartirishlaringiz xaritadan yoʻqoladi"
 
 #: data/ui/osm-discard-dialog.ui:13
 msgid "_Discard"
@@ -404,7 +407,8 @@ msgstr "Davom etish"
 msgid "Location Type"
 msgstr "Joylashuv tuvri"
 
-#. Translators: This refers to searching for point-of-interest types. Search is a verb.
+#. Translators: This refers to searching for point-of-interest types. Search
+#. is a verb.
 #: data/ui/osm-edit-dialog.ui:236
 msgid "Search types"
 msgstr "Qidiruv turi"
@@ -426,8 +430,8 @@ msgid ""
 "Describe your map changes. They will be visible on all maps that use "
 "OpenStreetMap data."
 msgstr ""
-"Xarita o‘zgarishlaringizni tasvirlab bering. Ular OpenStreetMap "
-"ma’lumotlaridan foydalanadigan barcha xaritalarda ko‘rinadi."
+"Xarita oʻzgarishlaringizni tasvirlab bering. Ular OpenStreetMap "
+"ma’lumotlaridan foydalanadigan barcha xaritalarda koʻrinadi."
 
 #: data/ui/osm-edit-dialog.ui:339
 msgid "Submit"
@@ -436,11 +440,11 @@ msgstr "Yuborish"
 #: data/ui/osm-edit-dialog.ui:366 src/osmEditDialog.js:238
 #: src/osmEditDialog.js:560 src/osmEditDialog.js:953 src/translations.js:297
 msgid "None"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #: data/ui/place-popover.ui:25 src/searchBar.js:69
 msgid "Explore Nearby Places"
-msgstr "Yaqin atrofdagi joylashuvlarni o'rganish"
+msgstr "Yaqin atrofdagi joylashuvlarni oʻrganish"
 
 #: data/ui/place-popover.ui:82 src/application.js:294
 msgid "No results found"
@@ -453,7 +457,7 @@ msgstr "Xatolik yuz berdi"
 #. Translators: This is a tooltip
 #: data/ui/route-entry.ui:12
 msgid "Change Route Order"
-msgstr "Marshrut tartibini o'zgartirish"
+msgstr "Marshrut tartibini oʻzgartirish"
 
 #: data/ui/send-to-dialog.ui:7
 msgid "Open Location"
@@ -470,7 +474,7 @@ msgstr "_Yuborish…"
 #. Translators: This is a tooltip
 #: data/ui/shape-layer-row.ui:32
 msgid "Toggle visible"
-msgstr "Ko'rinishini yoqish/o'chirish"
+msgstr "Koʻrinishini yoqish/oʻchirish"
 
 #. Translators: This is a tooltip
 #: data/ui/shape-layer-row.ui:44
@@ -485,7 +489,7 @@ msgstr "Asosiy"
 #: data/ui/shortcuts-dialog.ui:9
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Tezkor tugmalarni ko'rsatish"
+msgstr "Tezkor tugmalarni koʻrsatish"
 
 #: data/ui/shortcuts-dialog.ui:15
 msgctxt "shortcut window"
@@ -500,12 +504,12 @@ msgstr "Qiziqarli joylarni kashf etish"
 #: data/ui/shortcuts-dialog.ui:27
 msgctxt "shortcut window"
 msgid "Show last search results"
-msgstr "Oxirgi qidiruv natijalarini ko'rsatish"
+msgstr "Oxirgi qidiruv natijalarini koʻrsatish"
 
 #: data/ui/shortcuts-dialog.ui:33
 msgctxt "shortcut window"
 msgid "Toggle route planner"
-msgstr "Marshrut rejalashtiruvchini yoqish/o‘chirish"
+msgstr "Marshrut rejalashtiruvchini yoqish/oʻchirish"
 
 #: data/ui/shortcuts-dialog.ui:39
 msgctxt "shortcut window"
@@ -525,7 +529,7 @@ msgstr "Asosiy menyuni ochish"
 #: data/ui/shortcuts-dialog.ui:59
 msgctxt "shortcut window"
 msgid "Map View"
-msgstr "Xarita ko'rinishi"
+msgstr "Xarita koʻrinishi"
 
 #: data/ui/shortcuts-dialog.ui:62
 msgctxt "shortcut window"
@@ -540,12 +544,12 @@ msgstr "Kichiklashtirish"
 #: data/ui/shortcuts-dialog.ui:74
 msgctxt "shortcut window"
 msgid "Rotate clockwise"
-msgstr "Soat yo'nalishi bo'yicha aylantirish"
+msgstr "Soat yoʻnalishi boʻyicha aylantirish"
 
 #: data/ui/shortcuts-dialog.ui:80
 msgctxt "shortcut window"
 msgid "Rotate counter-clockwise"
-msgstr "Soat yo'nalishiga teskari aylantirish"
+msgstr "Soat yoʻnalishiga teskari aylantirish"
 
 #: data/ui/shortcuts-dialog.ui:86
 msgctxt "shortcut window"
@@ -555,38 +559,42 @@ msgstr "Aylanishni asliga qaytarish"
 #: data/ui/shortcuts-dialog.ui:92
 msgctxt "shortcut window"
 msgid "Toggle scale"
-msgstr "Shkalani yoqish/o'chirish"
+msgstr "Shkalani yoqish/oʻchirish"
 
 #: data/ui/shortcuts-dialog.ui:98
 msgctxt "shortcut window"
 msgid "Go to current location"
-msgstr "Joriy joylashuvga o'tish"
+msgstr "Joriy joylashuvga oʻtish"
 
 #: data/ui/shortcuts-dialog.ui:104
 msgctxt "shortcut window"
 msgid "Open shape layer"
 msgstr "Shakl qatlamini ochish"
 
-#. Translators: This is the tooltip text for the button selecting the walking (pedestrian) routing mode
+#. Translators: This is the tooltip text for the button selecting the walking
+#. (pedestrian) routing mode
 #: data/ui/sidebar.ui:29
 #, fuzzy
 #| msgid "Parking"
 msgid "Walking"
 msgstr "Avtoturargoh"
 
-#. Translators: This is the tooltip text for the button selecting the cycling routing mode
+#. Translators: This is the tooltip text for the button selecting the cycling
+#. routing mode
 #: data/ui/sidebar.ui:36
 #, fuzzy
 #| msgid "Recycling"
 msgid "Cycling"
 msgstr "Qayta ishlash shoxobchalari"
 
-#. Translators: This is the tooltip text for the button selecting the driving (car) routing mode
+#. Translators: This is the tooltip text for the button selecting the driving
+#. (car) routing mode
 #: data/ui/sidebar.ui:43
 msgid "Driving"
 msgstr ""
 
-#. Translators: This is the tooltip text for the button selecting the public transit routing mode
+#. Translators: This is the tooltip text for the button selecting the public
+#. transit routing mode
 #: data/ui/sidebar.ui:50
 #, fuzzy
 #| msgid "Transit"
@@ -599,32 +607,25 @@ msgstr "GraphHopper orqali marshrut qidirish"
 
 #: data/ui/sidebar.ui:217
 msgid "More Information"
-msgstr "Ko'proq ma'lumot"
+msgstr "Koʻproq ma'lumot"
 
 #: data/ui/sidebar.ui:250
 msgid ""
 "Routing itineraries for public transit is provided by third-party\n"
 "services.\n"
 "GNOME can not guarantee correctness of the itineraries and schedules shown.\n"
-"Note that some providers might not include all available modes of "
-"transportation,\n"
-"e.g. a national provider might not include airlines, and a local provider "
-"could\n"
+"Note that some providers might not include all available modes of transportation,\n"
+"e.g. a national provider might not include airlines, and a local provider could\n"
 "miss regional trains.\n"
-"Names and brands shown are to be considered as registered trademarks when "
-"applicable."
+"Names and brands shown are to be considered as registered trademarks when applicable."
 msgstr ""
 "Jamoat transporti uchun marshrutlar uchinchi tomon tomonidan taqdim etiladi\n"
 "xizmatlar.\n"
-"GNOME ko’rsatilgan marshrutlar va jadvallarning to’g’riligiga kafolat bera "
-"olmaydi.\n"
-"E’tibor bering, ba’zi provayderlar barcha mavjud transport turlarini o’z "
-"ichiga olmaydi,\n"
-"masalan milliy provayder aviakompaniyalarni o’z ichiga olmaydi va mahalliy "
-"provayder bo’lishi mumkin\n"
-"mintaqaviy poezdlarni o’tkazib yuborish.\n"
-"Ko’rsatilgan nomlar va brendlar amalda ro’yxatdan o’tgan savdo belgilari "
-"sifatida ko’rib chiqiladi."
+"GNOME koʻrsatilgan marshrutlar va jadvallarning toʻgʻriligiga kafolat bera olmaydi.\n"
+"E’tibor bering, ba’zi provayderlar barcha mavjud transport turlarini oʻz ichiga olmaydi,\n"
+"masalan milliy provayder aviakompaniyalarni oʻz ichiga olmaydi va mahalliy provayder boʻlishi mumkin\n"
+"mintaqaviy poezdlarni oʻtkazib yuborish.\n"
+"Koʻrsatilgan nomlar va brendlar amalda roʻyxatdan oʻtgan savdo belgilari sifatida koʻrib chiqiladi."
 
 #: data/ui/sidebar.ui:274
 msgid "Back"
@@ -633,36 +634,38 @@ msgstr "Ortga qaytish"
 #. Translators: This is a tooltip
 #: data/ui/transit-leg-row.ui:99
 msgid "Hide intermediate stops and information"
-msgstr "Oraliq to‘xtashlar va ma'lumotlarni yashirish"
+msgstr "Oraliq toʻxtashlar va ma'lumotlarni yashirish"
 
 #. Translators: This is a tooltip
 #: data/ui/transit-leg-row.ui:157
 msgid "Show intermediate stops and information"
-msgstr "Oraliq to‘xtashlar va ma'lumotlarni ko'rsatish"
+msgstr "Oraliq toʻxtashlar va ma'lumotlarni koʻrsatish"
 
 #. Indicates searching for the next available itineraries
 #: data/ui/transit-options-panel.ui:17
 msgid "Leave Now"
 msgstr "Hoziroq chiqish"
 
-#. Indicates searching for itineraries leaving at the specified time at the earliest
+#. Indicates searching for itineraries leaving at the specified time at the
+#. earliest
 #: data/ui/transit-options-panel.ui:18
 msgid "Leave By"
 msgstr "Chiqish vaqti"
 
-#. Indicates searching for itineraries arriving no later than the specified time
+#. Indicates searching for itineraries arriving no later than the specified
+#. time
 #: data/ui/transit-options-panel.ui:19
 msgid "Arrive By"
 msgstr "Shu vaqtgacha yetib kelish"
 
 #: data/ui/transit-options-panel.ui:59
 msgid "View More"
-msgstr "Ko'proq"
+msgstr "Koʻproq"
 
 #. Header indicating selected modes of transit
 #: data/ui/transit-options-panel.ui:91
 msgid "Show"
-msgstr "Ko'rsatish"
+msgstr "Koʻrsatish"
 
 #: data/ui/transit-options-panel.ui:101
 msgid "_Buses"
@@ -696,12 +699,12 @@ msgstr "Joylashuvni ulashish"
 #. Translators: This is a tooltip
 #: data/ui/place-buttons.ui:11
 msgid "Add to new route"
-msgstr "Yangi marshrutga qo'shish"
+msgstr "Yangi marshrutga qoʻshish"
 
 #. Translators: This is the button to find a route to a place
 #: data/ui/place-buttons.ui:15
 msgid "_Directions"
-msgstr "_Yo'nalishlar"
+msgstr "_Yoʻnalishlar"
 
 #. Translators: This is a tooltip
 #: data/ui/place-buttons.ui:37
@@ -740,11 +743,11 @@ msgstr "Kattalashtirish"
 #: lib/maps-file-data-source.c:262 lib/maps-file-data-source.c:338
 #: lib/maps-file-data-source.c:418
 msgid "Failed to find tile structure in directory"
-msgstr "Katalogda xarita bo'lagi topilmadi"
+msgstr "Katalogda xarita boʻlagi topilmadi"
 
 #: lib/maps-osm.c:56
 msgid "Failed to parse XML document"
-msgstr "XML hujjatni tahlil qilib bo'lmadi"
+msgstr "XML hujjatni tahlil qilib boʻlmadi"
 
 #: lib/maps-osm.c:250 lib/maps-osm.c:403
 msgid "Missing required attributes"
@@ -756,15 +759,15 @@ msgstr "OSM elementi topilmadi"
 
 #: src/application.js:74
 msgid "A path to a local tiles directory structure"
-msgstr "Mahalliy xarita bo'laklari tuzilmasi katalogiga yo'l"
+msgstr "Mahalliy xarita boʻlaklari tuzilmasi katalogiga yoʻl"
 
 #: src/application.js:80
 msgid "Tile size for local tiles directory"
-msgstr "Mahalliy xarita bo'laklari katalogi uchun hajm"
+msgstr "Mahalliy xarita boʻlaklari katalogi uchun hajm"
 
 #: src/application.js:84
 msgid "Show the version of the program"
-msgstr "Dastur versiyasini ko'rsatish"
+msgstr "Dastur versiyasini koʻrsatish"
 
 #: src/application.js:90
 msgid "Search for places"
@@ -777,12 +780,11 @@ msgstr "[FILE…|URI]"
 #: src/application.js:301
 #, javascript-format
 msgid "Invalid maps: URI: %s"
-msgstr "Noto'g'ri xaritalar: URI: %s"
+msgstr "Notoʻgʻri xaritalar: URI: %s"
 
 #. Translators: This is a format string for a PNG filename for an
 #. * exported image with coordinates. The .png extension should be kept
 #. * intact in the translated string.
-#.
 #: src/exportViewDialog.js:70
 #, javascript-format
 msgid "Maps at %f, %f.png"
@@ -794,11 +796,11 @@ msgstr "PNG"
 
 #: src/exportViewDialog.js:132
 msgid "Unable to export view"
-msgstr "Ko'rinishni eksport qilish mumkin emas"
+msgstr "Koʻrinishni eksport qilish mumkin emas"
 
 #: src/favoriteListRow.js:42
 msgid "Favorite removed"
-msgstr "Sevimli o'chirildi"
+msgstr "Sevimli oʻchirildi"
 
 #: src/favoriteListRow.js:43
 msgid "_Undo"
@@ -806,7 +808,7 @@ msgstr "_Bekor qilish"
 
 #: src/geoJSONSource.js:73
 msgid "invalid coordinate"
-msgstr "noto'g'ri koordinata"
+msgstr "notoʻgʻri koordinata"
 
 #: src/geoJSONSource.js:126 src/geoJSONSource.js:166 src/geoJSONSource.js:181
 msgid "parse error"
@@ -818,7 +820,7 @@ msgstr "noma'lum geometriya"
 
 #: src/graphHopper.js:116 src/transitPlan.js:177
 msgid "Route request failed."
-msgstr "Marshrut so'rovi bajarilmadi."
+msgstr "Marshrut soʻrovi bajarilmadi."
 
 #: src/graphHopper.js:123 src/transitPlan.js:169
 msgid "No route found."
@@ -830,7 +832,7 @@ msgstr "Boshlash!"
 
 #: src/mainWindow.js:476
 msgid "Failed to connect to location service"
-msgstr "Joylashuv xizmatiga ulanib bo'lmadi"
+msgstr "Joylashuv xizmatiga ulanib boʻlmadi"
 
 #: src/mainWindow.js:481
 msgid "Turn on location services"
@@ -862,17 +864,16 @@ msgstr "Xarita ma'lumotlari taqdim etuvchi"
 
 #: src/mainWindow.js:598
 msgid "Map Tile Provider"
-msgstr "Xarita bo'laklarini taqdim etuvchi"
+msgstr "Xarita boʻlaklarini taqdim etuvchi"
 
 #. Translators: this is an attribution string giving credit to the
 #. * tile provider where the %s placeholder is replaced by either
 #. * the bare name of the tile provider, or a linkified URL if one
 #. * is available
-#.
 #: src/mainWindow.js:606
 #, javascript-format
 msgid "Map tiles provided by %s"
-msgstr "Xarita bo'laklari %s tomonidan taqdim etilgan"
+msgstr "Xarita boʻlaklari %s tomonidan taqdim etilgan"
 
 #: src/mainWindow.js:635
 msgid "Search Provider"
@@ -893,7 +894,7 @@ msgstr "Shakl qatlamlarini oching"
 
 #: src/mapView.js:689 src/mapView.js:751
 msgid "Failed to open layer"
-msgstr "Qatlamni ochib bo‘lmadi"
+msgstr "Qatlamni ochib boʻlmadi"
 
 #: src/mapView.js:706
 msgid "Do you want to continue?"
@@ -902,8 +903,8 @@ msgstr "Davom etishni xohlaysizmi?"
 #: src/mapView.js:707
 #, javascript-format
 msgid ""
-"You are about to open files with a total size of %s MB. This could take some "
-"time to load"
+"You are about to open files with a total size of %s MB. This could take some"
+" time to load"
 msgstr "Siz umumiy %s MB hajmli fayl ochyabsiz. Bu biroz vaqt olishi mumkin"
 
 #: src/mapView.js:713
@@ -912,31 +913,31 @@ msgstr "Bekor qilish"
 
 #: src/mapView.js:745
 msgid "File type is not supported"
-msgstr "Fayl turi qo'llab quvvatlanmaydi"
+msgstr "Fayl turi qoʻllab quvvatlanmaydi"
 
 #: src/mapView.js:787
 msgid "Failed to open GeoURI"
-msgstr "GeoURI-ni ochib bo'lmadi"
+msgstr "GeoURI-ni ochib boʻlmadi"
 
 #: src/mapView.js:1324
 msgid "Zoom in to add location"
-msgstr "Joylashuv qo'shish uchun kattalashtiring"
+msgstr "Joylashuv qoʻshish uchun kattalashtiring"
 
 #: src/mapView.js:1342
 msgid "Location was added in OpenStreetMap"
-msgstr "Joylashuv OpenStreetMap-ga qo'shildi"
+msgstr "Joylashuv OpenStreetMap-ga qoʻshildi"
 
 #. switch back to the sign-in view, and show a toast indicating
 #. that verification failed
 #: src/osmAccountDialog.js:187
 msgid "The verification code didn’t match, please try again."
-msgstr "Tasdiqlash kodi mos kelmadi, iltimos qaytadan urinib ko'ring."
+msgstr "Tasdiqlash kodi mos kelmadi, iltimos qaytadan urinib koʻring."
 
 #. setting the status in session.cancel_message still seems
 #. to always give status IO_ERROR
 #: src/osmConnection.js:376
 msgid "Incorrect user name or password"
-msgstr "Foydalanuvchi ismi yoki parol noto'g'ri"
+msgstr "Foydalanuvchi ismi yoki parol notoʻgʻri"
 
 #: src/osmConnection.js:378
 msgid "Success"
@@ -944,7 +945,7 @@ msgstr "Muvaffaqiyatli"
 
 #: src/osmConnection.js:380
 msgid "Bad request"
-msgstr "Noto'g'ri so'rov"
+msgstr "Notoʻgʻri soʻrov"
 
 #: src/osmConnection.js:382
 msgid "Object not found"
@@ -952,15 +953,15 @@ msgstr "Obyekt topilmadi"
 
 #: src/osmConnection.js:384
 msgid "Conflict, someone else has just modified the object"
-msgstr "Nizo, kimdir obyektni o'zgartirdi"
+msgstr "Nizo, kimdir obyektni oʻzgartirdi"
 
 #: src/osmConnection.js:386
 msgid "Object has been deleted"
-msgstr "Obyekt o'chirildi"
+msgstr "Obyekt oʻchirildi"
 
 #: src/osmConnection.js:388
 msgid "Way or relation refers to non-existing children"
-msgstr "Yo’l yoki munosabat mavjud bo’lmagan bolalarga tegishli"
+msgstr "Yoʻl yoki munosabat mavjud boʻlmagan bolalarga tegishli"
 
 #: src/osmEditDialog.js:110
 msgid "General"
@@ -980,7 +981,7 @@ msgstr "Manzil"
 
 #: src/osmEditDialog.js:136
 msgid "Contact"
-msgstr "Bog'lanish"
+msgstr "Bogʻlanish"
 
 #: src/osmEditDialog.js:139
 msgid "Opening Hours"
@@ -1012,7 +1013,7 @@ msgstr "Ha"
 
 #: src/osmEditDialog.js:173 src/osmEditDialog.js:182 src/osmEditDialog.js:220
 msgid "No"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #: src/osmEditDialog.js:174
 msgid "Limited"
@@ -1043,8 +1044,8 @@ msgid "Service"
 msgstr "Xizmat"
 
 #. Translators: This is the title for a section of POI fields not
-#. * belonging to the previous sections ("General", "Contact", "Accessibility").
-#.
+#. * belonging to the previous sections ("General", "Contact",
+#. "Accessibility").
 #: src/osmEditDialog.js:194
 msgid "Miscellaneous"
 msgstr "Turli-tuman"
@@ -1060,7 +1061,6 @@ msgstr "Vikipediya"
 #. * formatted string. Ideally it should be kept as an integer value
 #. * in the Place class. But this will also need to be handled by the
 #. * PlaceStore, possible in a backwards-compatible way
-#.
 #: src/osmEditDialog.js:204 src/placeView.js:617
 msgid "Population"
 msgstr "Aholi"
@@ -1181,28 +1181,27 @@ msgstr "Izoh"
 #: src/osmEditDialog.js:320
 msgctxt "dialog heading"
 msgid "Add Location"
-msgstr "Joylashuv qo'shish"
+msgstr "Joylashuv qoʻshish"
 
 #: src/osmEditDialog.js:321
 msgid "Add a new location to OpenStreetMap"
-msgstr "OpenStreetMap-ga yangi joylashuv qo'shish"
+msgstr "OpenStreetMap-ga yangi joylashuv qoʻshish"
 
 #: src/osmEditDialog.js:413
 msgid "Changes successfully submitted"
-msgstr "O'zgarishlar muvaffaqiyatli yuborildi"
+msgstr "Oʻzgarishlar muvaffaqiyatli yuborildi"
 
 #. Translators: This is the title for a combo box row selected when a
 #. * value is not assigned to one in a list of allowed values.
-#.
 #: src/osmEditDialog.js:708
 #, fuzzy
 #| msgid "Unspecified"
 msgid "Unspecified value"
-msgstr "Ko'rsatilmagan"
+msgstr "Koʻrsatilmagan"
 
 #: src/osmEditDialog.js:770
 msgid "Street Name"
-msgstr "Ko'cha nomi"
+msgstr "Koʻcha nomi"
 
 #: src/osmEditDialog.js:771
 msgid "House Number"
@@ -1233,92 +1232,88 @@ msgid "Couldn't find Wikidata tag for article"
 msgstr "Maqola uchun Wikidata tegi topilmadi"
 
 #. Translators: This represents the title for places tagged with the
-#. * "aerialway" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Aerialway
-#.
+#. * "aerialway" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Aerialway
 #: src/osmTypes.js:45
 msgid "Aerialway"
-msgstr "Arqonli yo'l"
+msgstr "Arqonli yoʻl"
 
 #. Translators: This represents the title for places tagged with the
-#. * "aeroway" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Aeroway
-#.
+#. * "aeroway" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Aeroway
 #: src/osmTypes.js:49
 msgid "Aeroway"
-msgstr "Havo yo'llari"
+msgstr "Havo yoʻllari"
 
 #. Translators: This represents the title for places tagged with the
-#. * "amenity" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Amenity
-#.
+#. * "amenity" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Amenity
 #: src/osmTypes.js:53
 msgid "Amenity"
 msgstr "Qulayliklar"
 
 #. Translators: This represents the title for places tagged with the
-#. * "barrier" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Barrier
-#.
+#. * "barrier" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Barrier
 #: src/osmTypes.js:57
 msgid "Barrier"
-msgstr "To'siq"
+msgstr "Toʻsiq"
 
 #. Translators: This represents the title for places tagged with the
-#. * "highway" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Highway
-#.
+#. * "highway" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Highway
 #: src/osmTypes.js:61
 msgid "Road"
-msgstr "Yo'l"
+msgstr "Yoʻl"
 
 #. Translators: This represents the title for places tagged with the
-#. * "historic" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Historic
-#.
+#. * "historic" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Historic
 #: src/osmTypes.js:65
 msgid "Historic"
 msgstr "Tarixiy"
 
 #. Translators: This represents the title for places tagged with the
-#. * "leisure" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Leisure
-#.
+#. * "leisure" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Leisure
 #: src/osmTypes.js:69
 msgid "Leisure"
 msgstr "Dam olish"
 
 #. Translators: This represents the title for places tagged with the
 #. * "office" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Office
-#.
 #: src/osmTypes.js:73
 msgid "Office"
 msgstr "Ofis"
 
 #. Translators: This represents the title for places tagged with the
 #. * "place" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Place
-#.
 #: src/osmTypes.js:77
 msgid "Place"
 msgstr "Joy"
 
 #. Translators: This represents the title for places tagged with the
-#. * "railway" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Railway
-#.
+#. * "railway" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Railway
 #: src/osmTypes.js:81
 msgid "Railway"
-msgstr "Temiryo'l"
+msgstr "Temiryoʻl"
 
 #. Translators: This represents the title for places tagged with the
 #. * "shop" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Shop
-#.
 #: src/osmTypes.js:85
 msgid "Shop"
-msgstr "Do'kon"
+msgstr "Doʻkon"
 
 #. Translators: This represents the title for places tagged with the
-#. * "tourism" OSM tag: https://wiki.openstreetmap.org/wiki/Map_features#Tourism
-#.
+#. * "tourism" OSM tag:
+#. https://wiki.openstreetmap.org/wiki/Map_features#Tourism
 #: src/osmTypes.js:89 src/poiCategories.js:474
 msgid "Tourism"
 msgstr "Turizm"
 
 #. Translators: "Other" refers to points-of-interest where we don't have
 #. * a known title corresponding to the raw OpenStreetMap tag
-#.
 #: src/osmTypes.js:101
 msgid "Other"
 msgstr "Boshqa"
@@ -1335,13 +1330,13 @@ msgstr ""
 #, fuzzy
 #| msgid "More Information"
 msgid "Monorail station"
-msgstr "Ko'proq ma'lumot"
+msgstr "Koʻproq ma'lumot"
 
 #: src/osmTypes.js:215 src/osmTypes.js:225
 #, fuzzy
 #| msgid "Railway"
 msgid "Railway station"
-msgstr "Temiryo'l"
+msgstr "Temiryoʻl"
 
 #: src/osmTypes.js:217
 #, fuzzy
@@ -1353,7 +1348,7 @@ msgstr "Poezd & Metro stansiyalari"
 #, fuzzy
 #| msgid "Railway"
 msgid "Railway halt"
-msgstr "Temiryo'l"
+msgstr "Temiryoʻl"
 
 #: src/osmTypes.js:223
 #, fuzzy
@@ -1382,7 +1377,6 @@ msgid "Coordinates"
 msgstr "Koordinatalar"
 
 #. 300 ft (300 * 12 * 0.0254 m)
-#.
 #. * Translators: This a format string for showing a distance to a place
 #. * is lower than a "quite short" distance.
 #. * The "less than" symbol can be substituded with an appropriate one, if
@@ -1410,18 +1404,15 @@ msgstr "Aniqlik: %s"
 #. * with phone numbers in international format starting with a +
 #. * which is considered a "weak" character to determine Unicode
 #. * text direction
-#.
 #: src/placeView.js:397
 msgid "Phone number"
 msgstr "Telefon raqam"
 
 #. If a reference to a named floor (named or symbolic) exists
 #. * refer to it directly.
-#.
 #. Translators:
 #. * This is a reference to named building floor, using a label
 #. * or a code, as "displayed in the elevator"
-#.
 #: src/placeView.js:431 src/placeView.js:470
 msgid "Floor"
 msgstr "Qavat"
@@ -1439,7 +1430,6 @@ msgstr "Yer sathidan"
 #. * This is a reference to a number of floors above
 #. * ground level.
 #. * The %s placeholder is the integer relative number of floors
-#.
 #: src/placeView.js:454
 #, javascript-format
 msgid "%s floor above ground level"
@@ -1450,7 +1440,6 @@ msgstr[0] "Yer sathidan %s qavat tepada"
 #. * This is a reference to a number of floors below
 #. * ground level.
 #. * The %s placeholder is the integer relative number of floors
-#.
 #: src/placeView.js:465
 #, javascript-format
 msgid "%s floor below ground level"
@@ -1460,7 +1449,6 @@ msgstr[0] "Yer sathidan %s qavat pastda"
 #. Translators:
 #. * The establishment offers customers to purchase meals
 #. * (or similar) to be consumed elsewhere
-#.
 #: src/placeView.js:483
 msgid "Offers takeout"
 msgstr "Olib ketish imkonini taklif etadi"
@@ -1468,7 +1456,6 @@ msgstr "Olib ketish imkonini taklif etadi"
 #. Translators:
 #. * The establishment only offers customers to purchase
 #. * meals (or similar) to be consumed on-premise.
-#.
 #: src/placeView.js:491
 msgid "Does not offer takeout"
 msgstr "Olib ketish imkonini taklif etmaydi"
@@ -1477,7 +1464,6 @@ msgstr "Olib ketish imkonini taklif etmaydi"
 #. * The establishment only offers customers to purchase
 #. * meals (or similar) to be consumed elsewhere. E.g.
 #. * there is no seating on-premise for eating/drinking
-#.
 #: src/placeView.js:500
 msgid "Only offers takeout"
 msgstr "Faqat blib ketish imkonini taklif etadi"
@@ -1488,7 +1474,6 @@ msgstr "Ish vaqtlari"
 
 #. Translators:
 #. * There is public internet access but the particular kind is unknown.
-#.
 #: src/placeView.js:517
 msgid "Public internet access"
 msgstr "Jamoat internetiga kirish"
@@ -1496,38 +1481,33 @@ msgstr "Jamoat internetiga kirish"
 #. Translators:
 #. * no internet access is offered in a place where
 #. * someone might expect it.
-#.
 #: src/placeView.js:526
 msgid "No internet access"
 msgstr "Internetga mavjud emas"
 
 #. Translators:
 #. * This means a WLAN Hotspot, also known as wireless, wifi or Wi-Fi.
-#.
 #: src/placeView.js:534
 msgid "Public Wi-Fi"
 msgstr "Jamoat Wi-Fi"
 
 #. Translators:
 #. * This means a a place where you can plug in your laptop with ethernet.
-#.
 #: src/placeView.js:542
 msgid "Wired internet access"
 msgstr "SImli internetga kirish"
 
 #. Translators:
 #. * Like internet cafe or library where the computer is given.
-#.
 #: src/placeView.js:550
 msgid "Computers available for use"
 msgstr "Ishlatish uchun kompyuterlar mavjud"
 
 #. Translators:
 #. * This means there is personnel which helps you in case of problems.
-#.
 #: src/placeView.js:558
 msgid "Internet assistance available"
-msgstr "Internetdan foydalanish bo'yicha yordam mavjud"
+msgstr "Internetdan foydalanish boʻyicha yordam mavjud"
 
 #: src/placeView.js:564
 msgid "No toilets available"
@@ -1539,7 +1519,6 @@ msgstr "Hojatxona mavjud"
 
 #. Translators:
 #. * This means wheelchairs have full unrestricted access.
-#.
 #: src/placeView.js:576
 msgid "Wheelchair accessible"
 msgstr "Nogironlar aravachasi bilan kirish imkoniyati"
@@ -1548,7 +1527,6 @@ msgstr "Nogironlar aravachasi bilan kirish imkoniyati"
 #. * This means wheelchairs have partial access (e.g some areas
 #. * can be accessed and others not, areas requiring assistance
 #. * by someone pushing up a steep gradient).
-#.
 #: src/placeView.js:586
 msgid "Limited wheelchair accessibility"
 msgstr "Nogironlar aravachasi uchun cheklangan kirish imkoniyati"
@@ -1556,16 +1534,14 @@ msgstr "Nogironlar aravachasi uchun cheklangan kirish imkoniyati"
 #. Translators:
 #. * This means wheelchairs have no unrestricted access
 #. * (e.g. stair only access).
-#.
 #: src/placeView.js:595
 msgid "Not wheelchair accessible"
-msgstr "Nogironlar aravachasi bilan kirib bo'lmaydi"
+msgstr "Nogironlar aravachasi bilan kirib boʻlmaydi"
 
 #. Translators:
 #. * This means that the way or area is designated or purpose built
 #. * for wheelchairs (e.g. elevators designed for wheelchair access
 #. * only). This is rarely used.
-#.
 #: src/placeView.js:605
 msgid "Designated for wheelchair users"
 msgstr "Nogironlar aravachasi foydalanuvchilari uchun maxsus ajratilgan"
@@ -1574,7 +1550,6 @@ msgstr "Nogironlar aravachasi foydalanuvchilari uchun maxsus ajratilgan"
 #. * Translators: this is a label indicating an altitude below
 #. * sea level, where the %s placeholder is the altitude relative
 #. * to mean sea level in the "negative direction"
-#.
 #: src/placeView.js:636
 #, javascript-format
 msgid "%s below sea level"
@@ -1583,7 +1558,6 @@ msgstr "Dengiz sathidan %s pastda"
 #. *
 #. * Translators: this indicates a place is located at (or very
 #. * close to) mean sea level
-#.
 #: src/placeView.js:643
 msgid "At sea level"
 msgstr "Dengiz sathida"
@@ -1600,7 +1574,6 @@ msgstr ""
 
 #. Translators: this is a format template string for a pair of raw
 #. * coordinates, the comma can be adapted to local conventions if needed.
-#.
 #: src/place.js:299
 #, fuzzy, javascript-format
 #| msgctxt "time interval list"
@@ -1615,11 +1588,11 @@ msgstr "Joy OpenStreetMapdan topilmadi"
 
 #: src/place.js:671
 msgid "Coordinates in URL are not valid"
-msgstr "URL dagi koordinatalar noto‘g‘ri"
+msgstr "URL dagi koordinatalar notoʻgʻri"
 
 #: src/place.js:680
 msgid "URL is not supported"
-msgstr "URL qo'llab-quvvatlanmaydi"
+msgstr "URL qoʻllab-quvvatlanmaydi"
 
 #: src/poiCategories.js:132
 msgid "Amenities"
@@ -1747,11 +1720,11 @@ msgstr "Gullar"
 
 #: src/poiCategories.js:306
 msgid "Gifts"
-msgstr "Sovg'alar"
+msgstr "Sovgʻalar"
 
 #: src/poiCategories.js:314
 msgid "Transportation"
-msgstr "Yo‘lovchi tashish"
+msgstr "Yoʻlovchi tashish"
 
 #: src/poiCategories.js:318
 msgid "Bus & Tram Stops"
@@ -1783,7 +1756,7 @@ msgstr "Mashina ijarasi"
 
 #: src/poiCategories.js:362
 msgid "Fuel"
-msgstr "Yoqilg'i"
+msgstr "Yoqilgʻi"
 
 #: src/poiCategories.js:367
 msgid "EV Charging"
@@ -1791,7 +1764,7 @@ msgstr "Elektromobil quvvatlash"
 
 #: src/poiCategories.js:375
 msgid "Healthcare"
-msgstr "Sog'liqni saqlash"
+msgstr "Sogʻliqni saqlash"
 
 #: src/poiCategories.js:379
 msgid "Clinics"
@@ -1831,7 +1804,7 @@ msgstr "Dam olish"
 
 #: src/poiCategories.js:429
 msgid "Parks"
-msgstr "Bog'lar"
+msgstr "Bogʻlar"
 
 #: src/poiCategories.js:434
 msgid "Playgrounds"
@@ -1839,15 +1812,15 @@ msgstr "Bolalar maydonchalari"
 
 #: src/poiCategories.js:439
 msgid "Beaches"
-msgstr "Sohil bo'ylari"
+msgstr "Sohil boʻylari"
 
 #: src/poiCategories.js:444
 msgid "Nature Reserves"
-msgstr "Tabiat qo'riqxonalari"
+msgstr "Tabiat qoʻriqxonalari"
 
 #: src/poiCategories.js:450
 msgid "Theme Parks"
-msgstr "Istirohat bog'lari"
+msgstr "Istirohat bogʻlari"
 
 #: src/poiCategories.js:455
 msgid "Theaters"
@@ -1900,7 +1873,7 @@ msgstr "%s dan %s gacha"
 
 #: src/printOperation.js:46
 msgid "Loading map tiles for printing"
-msgstr "Xarita bo'laklari chop etish uchun yuklanmoqda"
+msgstr "Xarita boʻlaklari chop etish uchun yuklanmoqda"
 
 #: src/printOperation.js:47
 msgid "You can abort printing if this takes too long"
@@ -1913,7 +1886,7 @@ msgstr "Chop etishni bekor qilish"
 #. Translators: this is add via location tooltip
 #: src/routeEntry.js:60
 msgid "Add via location"
-msgstr "Joylashuv orqali qo'shish"
+msgstr "Joylashuv orqali qoʻshish"
 
 #: src/routeEntry.js:61
 msgid "From"
@@ -1922,7 +1895,7 @@ msgstr "Dan"
 #. Translators: this is remove via location tooltip
 #: src/routeEntry.js:71
 msgid "Remove via location"
-msgstr "Joylashuv orqali o'chirish"
+msgstr "Joylashuv orqali oʻchirish"
 
 #: src/routeEntry.js:72
 msgid "Via"
@@ -1931,7 +1904,7 @@ msgstr "Orqali"
 #. Translators: this is reverse route tooltip
 #: src/routeEntry.js:78
 msgid "Reverse route"
-msgstr "Teskari yo'nalish"
+msgstr "Teskari yoʻnalish"
 
 #: src/routeEntry.js:79
 msgid "To"
@@ -1946,11 +1919,11 @@ msgstr "Qidirish"
 #: src/sendToDialog.js:89
 #, javascript-format
 msgid "Add %s to %s"
-msgstr "%s ni %s ga qo‘shish"
+msgstr "%s ni %s ga qoʻshish"
 
 #: src/sendToDialog.js:188
 msgid "Failed to open URI"
-msgstr "URI ni ochib bo'lmadi"
+msgstr "URI ni ochib boʻlmadi"
 
 #: src/sendToDialog.js:253
 #, javascript-format
@@ -1959,7 +1932,7 @@ msgstr "%s bilan ochish"
 
 #: src/shapeLayer.js:109
 msgid "failed to load file"
-msgstr "faylni yuklab bo'lmadi"
+msgstr "faylni yuklab boʻlmadi"
 
 #. Translators: %s is a time expression with the format "%f h" or "%f min"
 #: src/sidebar.js:343
@@ -1974,7 +1947,6 @@ msgstr "Marshrutlar %s tomonidan taqdim etilgan"
 
 #. Translators: this is a format string indicating instructions
 #. * starting a journey at the address given as the parameter
-#.
 #: src/transit.js:39
 #, javascript-format
 msgid "Start at %s"
@@ -1983,7 +1955,6 @@ msgstr "%s dan boshlash"
 #. Translators: this indicates starting a journey at a location
 #. * with no set name (such as when the user started routing from
 #. * an arbitrary point on the map)
-#.
 #: src/transit.js:45 src/transitplugins/motis2.js:330
 #: src/transitplugins/openTripPlanner2.js:240
 msgid "Start"
@@ -1991,7 +1962,6 @@ msgstr "Boshlash"
 
 #. Translators: this is a format string indicating walking a certain
 #. * distance, with the distance expression being the %s placeholder
-#.
 #: src/transit.js:63
 #, javascript-format
 msgid "Walk %s"
@@ -2013,11 +1983,11 @@ msgstr "Yetib kelish"
 
 #: src/transitLegRow.js:70
 msgid "Show walking instructions"
-msgstr "Piyoda yurish ko'rsatmalarini ko'rsatish"
+msgstr "Piyoda yurish koʻrsatmalarini koʻrsatish"
 
 #: src/transitLegRow.js:71
 msgid "Hide walking instructions"
-msgstr "Piyoda yurish ko'rsatmalarini yashirish"
+msgstr "Piyoda yurish koʻrsatmalarini yashirish"
 
 #: src/transitMoreRow.js:37
 msgid "Load earlier alternatives"
@@ -2035,10 +2005,8 @@ msgstr "Oldingi variantlar topilmadi."
 msgid "No later alternatives found."
 msgstr "Keyingi variantlar topilmadi."
 
-#.
 #. * Translators: this is a format string giving the equivalent to
 #. * "may 29" according to the current locale's convensions.
-#.
 #: src/transitOptionsPanel.js:136
 msgctxt "month-day-date"
 msgid "%b %e"
@@ -2050,13 +2018,12 @@ msgstr "Bu marshrut uchun jadval maʼlumotlari topilmadi."
 
 #: src/transitPlan.js:181
 msgid "No provider found for this route."
-msgstr "Bu yo'nalish uchun taqdim qiluvchi topilmadi."
+msgstr "Bu yoʻnalish uchun taqdim qiluvchi topilmadi."
 
 #. Translators: this is a format string for showing a departure and
 #. * arrival time, like:
 #. * "12:00 – 13:03" where the placeholder %s are the actual times,
 #. * these could be rearranged if needed.
-#.
 #: src/transitPlan.js:302
 #, javascript-format
 msgid "%s – %s"
@@ -2065,7 +2032,6 @@ msgstr "%s – %s"
 #. translators: this is an indication for a trip duration of
 #. * less than an hour, with only the minutes part, using plural forms
 #. * as appropriate
-#.
 #: src/transitPlan.js:337
 #, javascript-format
 msgid "%s minute"
@@ -2075,7 +2041,6 @@ msgstr[0] "%s daqiqa"
 #. translators: this is an indication for a trip duration,
 #. * where the duration is an exact number of hours (i.e. no
 #. * minutes part), using plural forms as appropriate
-#.
 #: src/transitPlan.js:349
 #, javascript-format
 msgid "%s hour"
@@ -2085,7 +2050,6 @@ msgstr[0] "%s soat"
 #. translators: this is an indication for a trip duration
 #. * where the duration contains an hour and minute part, it's
 #. * pluralized on the hours part
-#.
 #: src/transitPlan.js:357
 #, javascript-format
 msgid "%s:%s hour"
@@ -2097,7 +2061,6 @@ msgstr[0] "%s:%s soat"
 #. * list for an itinerary, like:
 #. * "12:00–13:03" where the placeholder %s are the actual times,
 #. * these could be rearranged if needed.
-#.
 #: src/transitPlan.js:758
 #, javascript-format
 msgid "%s–%s"
@@ -2147,7 +2110,6 @@ msgstr "Har kuni"
 
 #. Translators:
 #. * This represents a range of days with a starting and ending day.
-#.
 #: src/translations.js:168
 #, javascript-format
 msgctxt "day range"
@@ -2169,7 +2131,6 @@ msgstr "Maktab bayramlari"
 #. * appropriate white space or connected phrase could be modified by
 #. * the translation. The order of the arguments can be rearranged
 #. * using the %n$s syntax.
-#.
 #: src/translations.js:221
 #, javascript-format
 msgctxt "time interval list"
@@ -2186,7 +2147,6 @@ msgstr "ochiq emas"
 #. * appropriate white spacing or connecting phrases can be set by the
 #. * translation as needed. The order of the arguments can be rearranged
 #. * using the %n$s syntax.
-#.
 #: src/translations.js:250
 #, javascript-format
 msgctxt "time interval"
@@ -2209,7 +2169,6 @@ msgstr "Aniq"
 
 #. Translators: this is a duration with only hours, using
 #. * an abbreviation for hours, corresponding to 'h' in English
-#.
 #: src/utils.js:328
 #, javascript-format
 msgid "%s h"
@@ -2218,7 +2177,6 @@ msgstr "%s soat"
 #. Translators: this is a duration with hours and minutes parts
 #. * using abbreviations for hours and minutes, corresponding to 'h'
 #. * and 'min' in English. The minutes has appropriate plural variations
-#.
 #: src/utils.js:334
 #, javascript-format
 msgid "%s h %s min"
@@ -2228,7 +2186,6 @@ msgstr[0] "%s soat %s min"
 #. Translators: this is a duration with minutes part
 #. * using abbreviation for minutes, corresponding to 'min' in English
 #. * with appropriate plural variations
-#.
 #: src/utils.js:341
 #, javascript-format
 msgid "%s min"
@@ -2238,7 +2195,6 @@ msgstr[0] "%s min"
 #. Translators: this is a duration of less than one minute
 #. * with seconds using an abbreviation for seconds, corresponding to
 #. * 's' in English with appropriate plural forms
-#.
 #: src/utils.js:347
 #, javascript-format
 msgid "%s s"
@@ -2282,7 +2238,7 @@ msgstr "Zinadan chiqing"
 #: src/transitplugins/openTripPlanner2.js:270
 #, javascript-format
 msgid "Continue on %s"
-msgstr "%s bo'ylab davom eting"
+msgstr "%s boʻylab davom eting"
 
 #: src/transitplugins/motis2.js:371 src/transitplugins/openTripPlanner.js:1245
 #: src/transitplugins/openTripPlanner2.js:274
@@ -2321,40 +2277,40 @@ msgstr "Keskin chapga buriling"
 #: src/transitplugins/openTripPlanner2.js:288
 #, javascript-format
 msgid "Turn right on %s"
-msgstr "%s da o‘ngga buriling"
+msgstr "%s da oʻngga buriling"
 
 #: src/transitplugins/motis2.js:387 src/transitplugins/openTripPlanner.js:1262
 #: src/transitplugins/openTripPlanner2.js:289
 msgid "Turn right"
-msgstr "O'ngga buriling"
+msgstr "Oʻngga buriling"
 
 #: src/transitplugins/motis2.js:391 src/transitplugins/openTripPlanner.js:1265
 #: src/transitplugins/openTripPlanner2.js:293
 #, javascript-format
 msgid "Turn slightly right on %s"
-msgstr "%s da biroz o‘ngga buriling"
+msgstr "%s da biroz oʻngga buriling"
 
 #: src/transitplugins/motis2.js:392 src/transitplugins/openTripPlanner.js:1267
 #: src/transitplugins/openTripPlanner2.js:294
 msgid "Turn slightly right"
-msgstr "Biroz o'ngga buriling"
+msgstr "Biroz oʻngga buriling"
 
 #: src/transitplugins/motis2.js:396 src/transitplugins/openTripPlanner.js:1270
 #: src/transitplugins/openTripPlanner2.js:298
 #, javascript-format
 msgid "Turn sharp right on %s"
-msgstr "%s da o‘ngga keskin buriling"
+msgstr "%s da oʻngga keskin buriling"
 
 #: src/transitplugins/motis2.js:397 src/transitplugins/openTripPlanner.js:1272
 #: src/transitplugins/openTripPlanner2.js:299
 msgid "Turn sharp right"
-msgstr "Keskin o'ngga buriling"
+msgstr "Keskin oʻngga buriling"
 
 #: src/transitplugins/motis2.js:404 src/transitplugins/openTripPlanner.js:1278
 #: src/transitplugins/openTripPlanner2.js:306
 #, javascript-format
 msgid "At the roundabout, take exit %s"
-msgstr "Aylanmada, %s chiqish yo‘liga o‘ting"
+msgstr "Aylanmada, %s chiqish yoʻliga oʻting"
 
 #: src/transitplugins/motis2.js:407 src/transitplugins/openTripPlanner.js:1280
 #: src/transitplugins/openTripPlanner2.js:309
@@ -2365,7 +2321,7 @@ msgstr "Aylanma chorrahada, %s ga chiqishga harakatlaning"
 #: src/transitplugins/motis2.js:409 src/transitplugins/openTripPlanner.js:1282
 #: src/transitplugins/openTripPlanner2.js:311
 msgid "Take the roundabout"
-msgstr "Aylanma yo'ldan boring"
+msgstr "Aylanma yoʻldan boring"
 
 #: src/transitplugins/motis2.js:417 src/transitplugins/openTripPlanner.js:1286
 #: src/transitplugins/openTripPlanner2.js:319
@@ -2393,20 +2349,20 @@ msgstr "Chap orqaga buriling"
 #: src/transitplugins/openTripPlanner2.js:329
 #, javascript-format
 msgid "Make a right u-turn onto %s"
-msgstr "%sga o‘ng orqaga  buriling"
+msgstr "%sga oʻng orqaga  buriling"
 
 #: src/transitplugins/motis2.js:428 src/transitplugins/openTripPlanner.js:1299
 #: src/transitplugins/openTripPlanner2.js:330
 msgid "Make a right u-turn"
-msgstr "O’ng orqaga buriling"
+msgstr "Oʻng orqaga buriling"
 
 #~ msgctxt "shortcut window"
 #~ msgid "Switch to street view"
-#~ msgstr "Ko'cha ko'rinishiga o'tish"
+#~ msgstr "Koʻcha koʻrinishiga oʻtish"
 
 #~ msgctxt "shortcut window"
 #~ msgid "Switch to aerial view"
-#~ msgstr "Havo tasviriga o'tish"
+#~ msgstr "Havo tasviriga oʻtish"
 
 #~ msgid "Pedestrian"
 #~ msgstr "Piyoda"
@@ -2421,4 +2377,4 @@ msgstr "O’ng orqaga buriling"
 #~ msgstr "Foydalanuvchi elementi topilmadi"
 
 #~ msgid "Add Location"
-#~ msgstr "Joylashuv qo'shish"
+#~ msgstr "Joylashuv qoʻshish"

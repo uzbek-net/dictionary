@@ -25,38 +25,39 @@ msgstr "Diskdan foydalanish tahlilchisi"
 
 #: data/org.gnome.baobab.desktop.in:3 data/org.gnome.baobab.metainfo.xml.in:7
 msgid "Check folder sizes and available disk space"
-msgstr "Jild o'lchamlarini va bo'sh disk xotirasini tekshiring"
+msgstr "Jild oʻlchamlarini va boʻsh disk xotirasini tekshiring"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.baobab.desktop.in:5
 msgid "storage;space;cleanup;"
-msgstr "xotira;bo'sh joy;tozalash;"
+msgstr "xotira;boʻsh joy;tozalash;"
 
 #: data/org.gnome.baobab.metainfo.xml.in:9
 msgid ""
 "A simple application to keep your disk usage and available space under "
 "control."
 msgstr ""
-"Diskdan foydalanish va bo‘sh joyni nazoratda ushlash uchun oddiy ilova."
+"Diskdan foydalanish va boʻsh joyni nazoratda ushlash uchun oddiy ilova."
 
 #: data/org.gnome.baobab.metainfo.xml.in:12
 msgid ""
 "Disk Usage Analyzer can scan specific folders, storage devices and online "
-"accounts. It provides both a tree and a graphical representation showing the "
-"size of each folder, making it easy to identify where disk space is wasted."
+"accounts. It provides both a tree and a graphical representation showing the"
+" size of each folder, making it easy to identify where disk space is wasted."
 msgstr ""
 "Diskdan foydalanish tahlilchisi jildlar, saqlash qurilmalari va onlayn "
-"hisoblarni skaner qiladi. Har bir jild hajmini daraxt va grafik ko‘rinishda "
-"aks ettirib, diskdagi bo‘sh joyning qayerda isrof bo‘layotganini topishni "
+"hisoblarni skaner qiladi. Har bir jild hajmini daraxt va grafik koʻrinishda "
+"aks ettirib, diskdagi boʻsh joyning qayerda isrof boʻlayotganini topishni "
 "osonlashtiradi."
 
 #: data/org.gnome.baobab.metainfo.xml.in:20
 msgid "Devices and Locations View"
-msgstr "Qurilmalar va joylashuvlar ko'rinishi"
+msgstr "Qurilmalar va joylashuvlar koʻrinishi"
 
 #: data/org.gnome.baobab.metainfo.xml.in:24
 msgid "Scan View"
-msgstr "Skanerlash ko'rinishi"
+msgstr "Skanerlash koʻrinishi"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.baobab.metainfo.xml.in:41 src/baobab-window.vala:262
@@ -70,7 +71,7 @@ msgstr "Istisno qilingan joylashuvlar URI manzillari"
 #: data/org.gnome.baobab.gschema.xml:10
 msgid "A list of URIs for locations to be excluded from scanning."
 msgstr ""
-"Skanerlashdan istisno qilinadigan joylashuvlar URI manzillari ro‘yxati."
+"Skanerlashdan istisno qilinadigan joylashuvlar URI manzillari roʻyxati."
 
 #: data/org.gnome.baobab.gschema.xml:20
 #, fuzzy
@@ -79,15 +80,15 @@ msgstr "Faol diagramma"
 
 #: data/org.gnome.baobab.gschema.xml:21
 msgid "Which type of chart should be displayed."
-msgstr "Qaysi turdagi diagramma ko'rsatilishi kerak."
+msgstr "Qaysi turdagi diagramma koʻrsatilishi kerak."
 
 #: data/org.gnome.baobab.gschema.xml:25
 msgid "Window size"
-msgstr "Oyna o'lchami"
+msgstr "Oyna oʻlchami"
 
 #: data/org.gnome.baobab.gschema.xml:26
 msgid "The initial size of the window"
-msgstr "Oynaning boshlang'ich o'lchami"
+msgstr "Oynaning boshlangʻich oʻlchami"
 
 #: data/org.gnome.baobab.gschema.xml:30
 msgid "Window Maximized"
@@ -95,7 +96,7 @@ msgstr "Kattalashtirilgan oyna"
 
 #: data/org.gnome.baobab.gschema.xml:31
 msgid "Whether or not the window is maximized"
-msgstr "Oyna kattalashtiriladimi yoki yo'qmi"
+msgstr "Oyna kattalashtiriladimi yoki yoʻqmi"
 
 #: data/gtk/help-overlay.ui:11
 msgctxt "shortcut window"
@@ -105,12 +106,12 @@ msgstr "Asosiy"
 #: data/gtk/help-overlay.ui:15
 msgctxt "shortcut window"
 msgid "Show help"
-msgstr "Yordam ko'rsatish"
+msgstr "Yordam koʻrsatish"
 
 #: data/gtk/help-overlay.ui:21
 msgctxt "shortcut window"
 msgid "Show / Hide primary menu"
-msgstr "Asosiy menyuni ko'rsatish/yashirish"
+msgstr "Asosiy menyuni koʻrsatish/yashirish"
 
 #: data/gtk/help-overlay.ui:27
 msgctxt "shortcut window"
@@ -120,12 +121,12 @@ msgstr "Chiqish"
 #: data/gtk/help-overlay.ui:33
 msgctxt "shortcut window"
 msgid "Show Keyboard Shortcuts"
-msgstr "Klaviatura tezkor tugmalarini ko'rsatish"
+msgstr "Klaviatura tezkor tugmalarini koʻrsatish"
 
 #: data/gtk/help-overlay.ui:39
 msgctxt "shortcut window"
 msgid "Show preferences"
-msgstr "Sozlamalarni ko'rsatish"
+msgstr "Sozlamalarni koʻrsatish"
 
 #: data/gtk/help-overlay.ui:46
 msgctxt "shortcut window"
@@ -156,7 +157,7 @@ msgstr ""
 
 #: data/gtk/menus.ui:21
 msgid "Go to _Parent Folder"
-msgstr "_Yuqori jildga o‘tish"
+msgstr "_Yuqori jildga oʻtish"
 
 #: data/gtk/menus.ui:27
 msgid "Zoom _In"
@@ -168,7 +169,7 @@ msgstr "_Uzoqlashtirish"
 
 #: data/ui/baobab-excluded-row.ui:7
 msgid "Remove Folder"
-msgstr "Jildni o'chirish"
+msgstr "Jildni oʻchirish"
 
 #: data/ui/baobab-folder-display.ui:26 data/ui/baobab-main-window.ui:144
 msgid "Folder"
@@ -184,7 +185,7 @@ msgstr "Tarkibi"
 
 #: data/ui/baobab-folder-display.ui:114 data/ui/baobab-main-window.ui:184
 msgid "Modified"
-msgstr "O'zgartirilgan"
+msgstr "Oʻzgartirilgan"
 
 #: data/ui/baobab-location-list.ui:6
 msgid "This Device"
@@ -200,7 +201,7 @@ msgstr "Jildni skanerlash…"
 
 #: data/ui/baobab-main-window.ui:11
 msgid "Clear Recent List"
-msgstr "Yaqinda ochilganlar ro'yxatini tozalash"
+msgstr "Yaqinda ochilganlar roʻyxatini tozalash"
 
 #: data/ui/baobab-main-window.ui:17 data/ui/baobab-preferences-dialog.ui:5
 msgid "Preferences"
@@ -236,7 +237,7 @@ msgstr "Joriy joylashuvni boshqatdan tahlil qilish"
 
 #: data/ui/baobab-main-window.ui:100
 msgid "Files may take more space than shown"
-msgstr "Fayllar ko'rsatilganidan ko'proq joy egallashi mumkin"
+msgstr "Fayllar koʻrsatilganidan koʻproq joy egallashi mumkin"
 
 #: data/ui/baobab-main-window.ui:259
 msgid "_Rings Chart"
@@ -316,7 +317,7 @@ msgstr "%s ishlatilgan"
 
 #: src/baobab-location-list.vala:88
 msgid "Unmounted"
-msgstr "O'chirildi"
+msgstr "Oʻchirildi"
 
 #: src/baobab-location.vala:73
 msgid "Home Folder"
@@ -333,7 +334,7 @@ msgstr "E’tiborga olinmaydigan manzilni tanlang"
 
 #: src/baobab-preferences-dialog.vala:91
 msgid "_Add Location"
-msgstr "_Manzil qo'shish"
+msgstr "_Manzil qoʻshish"
 
 #: src/baobab-window.vala:179
 msgid "Select Folder"
@@ -347,7 +348,7 @@ msgstr "Fayl tizimi nuqtalarini rekursiv tarzda tahlil qilish"
 #: src/baobab-window.vala:210
 #, fuzzy
 msgid "Could not analyze volume"
-msgstr "Bo‘limni tahlil qilish mumkin emas"
+msgstr "Boʻlimni tahlil qilish mumkin emas"
 
 #: src/baobab-window.vala:269
 msgid "translator-credits"
@@ -355,7 +356,7 @@ msgstr "Asadbek Rajabov <asadbekrajabov1337@gmail.com>"
 
 #: src/baobab-window.vala:329
 msgid "Failed to open file"
-msgstr "Faylni ochib bo'lmadi"
+msgstr "Faylni ochib boʻlmadi"
 
 #: src/baobab-window.vala:346
 msgid "Failed to trash file"
@@ -363,7 +364,7 @@ msgstr "Faylni axlatga tashlashda xatolik yuz berdi"
 
 #: src/baobab-window.vala:623
 msgid "Could not scan folder"
-msgstr "Jildni skanerlab bo'lmadi"
+msgstr "Jildni skanerlab boʻlmadi"
 
 #: src/baobab-window.vala:638
 msgid "Scan completed"

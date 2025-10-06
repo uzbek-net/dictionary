@@ -39,11 +39,11 @@ msgstr "Ta’lim"
 
 #: desktop-directories/Game.directory.desktop.in:2
 msgid "Games"
-msgstr "O’yinlar"
+msgstr "Oʻyinlar"
 
 #: desktop-directories/Game.directory.desktop.in:3
 msgid "Games and amusements"
-msgstr "O’yinlar va o’yin-kulgilar"
+msgstr "Oʻyinlar va oʻyin-kulgilar"
 
 #: desktop-directories/Graphics.directory.desktop.in:2
 msgid "Graphics"

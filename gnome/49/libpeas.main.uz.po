@@ -20,12 +20,12 @@ msgstr ""
 #: libpeas/peas-engine.c:1123
 #, c-format
 msgid "Dependency “%s” was not found"
-msgstr "\"%s\" bog'liqligi topilmadi"
+msgstr "\"%s\" bogʻliqligi topilmadi"
 
 #: libpeas/peas-engine.c:1133
 #, c-format
 msgid "Dependency “%s” failed to load"
-msgstr "\"%s\" bog'liqligi yuklanishda xatoga uchradi"
+msgstr "\"%s\" bogʻliqligi yuklanishda xatoga uchradi"
 
 #: libpeas/peas-engine.c:1147
 #, c-format

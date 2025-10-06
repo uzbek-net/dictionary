@@ -25,7 +25,7 @@ msgstr "$PKG_NAME avtomatik asboblarsiz sozlanmoqda"
 #: autogen.sh:132 autogen.sh:137
 #, sh-format
 msgid "Unable to create file $srcdir/Makefile.inc"
-msgstr "$srcdir/Makefile.inc faylini yaratib bo‘lmadi"
+msgstr "$srcdir/Makefile.inc faylini yaratib boʻlmadi"
 
 #: autogen.sh:157
 #, sh-format
@@ -35,7 +35,7 @@ msgstr "$makefile faylini oʻqib boʻlmadi"
 #: autogen.sh:162
 #, sh-format
 msgid "Unable to copy $makefile to $srcdir/Makefile"
-msgstr "$makefile faylini $srcdir/Makefile-ga nusxalab bo‘lmadi"
+msgstr "$makefile faylini $srcdir/Makefile-ga nusxalab boʻlmadi"
 
 #: autogen.sh:167
 #, sh-format
@@ -49,12 +49,13 @@ msgid ""
 "directory"
 msgstr ""
 "**Xato**: “$srcdir” katalogi yuqori darajadagi $PKG_NAME katalogiga "
-"o‘xshamaydi"
+"oʻxshamaydi"
 
 #: autogen.sh:274
 msgid "WARNING: aclocal not available (usually part of package 'autoconf')"
 msgstr ""
-"OGOHLANTIRISH: aclocal mavjud emas (odatda \"autoconf\" paketining bir qismi)"
+"OGOHLANTIRISH: aclocal mavjud emas (odatda \"autoconf\" paketining bir "
+"qismi)"
 
 #: autogen.sh:277
 msgid "WARNING: automake not available (usually part of package 'automake')"
@@ -64,11 +65,12 @@ msgstr ""
 #: autogen.sh:280
 msgid "WARNING: autopoint not available (usually part of package 'gettext')"
 msgstr ""
-"OGOHLANTIRISH: avtomatik nuqta mavjud emas (odatda \"getext\" paketining bir "
-"qismi)"
+"OGOHLANTIRISH: avtomatik nuqta mavjud emas (odatda \"getext\" paketining bir"
+" qismi)"
 
 #: autogen.sh:283
-msgid "WARNING: pkg-config not available (usually part of package 'pkgconfig')"
+msgid ""
+"WARNING: pkg-config not available (usually part of package 'pkgconfig')"
 msgstr ""
 "OGOHLANTIRISH: pkg-config mavjud emas (odatda \"pkgconfig\" paketining bir "
 "qismi)"
@@ -107,7 +109,7 @@ msgstr "modullarni tekshirishda yopishqoq sanani belgilang"
 #: jhbuild/commands/base.py:53 jhbuild/commands/base.py:184
 #: jhbuild/commands/base.py:452
 msgid "ignore all soft-dependencies"
-msgstr "barcha yumshoq bog'liqliklarni e'tiborsiz qoldiring"
+msgstr "barcha yumshoq bogʻliqliklarni e'tiborsiz qoldiring"
 
 #: jhbuild/commands/base.py:67 jhbuild/commands/base.py:243
 #: jhbuild/commands/base.py:481 jhbuild/commands/clean.py:56
@@ -149,7 +151,7 @@ msgstr "butunlay toza manba daraxti"
 #: jhbuild/commands/base.py:143
 msgid "clean command called while makeclean is set to False, skipped."
 msgstr ""
-"makeclean False ga o'rnatilganda chaqirilgan clean buyrug'i o'tkazib "
+"makeclean False ga oʻrnatilganda chaqirilgan clean buyrugʻi oʻtkazib "
 "yuborilgan."
 
 #: jhbuild/commands/base.py:157
@@ -182,12 +184,12 @@ msgstr "qurgandan keyin make distche-ni ishga tushiring"
 #: jhbuild/commands/base.py:187 jhbuild/commands/base.py:296
 #: jhbuild/commands/tinderbox.py:50
 msgid "skip version control update"
-msgstr "versiyani boshqarish yangilanishini o'tkazib yuboring"
+msgstr "versiyani boshqarish yangilanishini oʻtkazib yuboring"
 
 #: jhbuild/commands/base.py:190 jhbuild/commands/base.py:299
 #: jhbuild/commands/make.py:49
 msgid "quiet (no output)"
-msgstr "jim (chiqish yo'q)"
+msgstr "jim (chiqish yoʻq)"
 
 #: jhbuild/commands/base.py:196 jhbuild/commands/clean.py:42
 #: jhbuild/commands/tinderbox.py:59
@@ -204,7 +206,8 @@ msgstr "testlarni Xvfb-da emas, balki haqiqiy X-da bajaring"
 
 #: jhbuild/commands/base.py:208 jhbuild/commands/tinderbox.py:65
 msgid "try to force checkout and autogen on failure"
-msgstr "to'lovni va autogenni muvaffaqiyatsizlikka majburlashga harakat qiling"
+msgstr ""
+"toʻlovni va autogenni muvaffaqiyatsizlikka majburlashga harakat qiling"
 
 #: jhbuild/commands/base.py:211 jhbuild/commands/base.py:308
 #: jhbuild/commands/tinderbox.py:68
@@ -214,26 +217,26 @@ msgstr "modullarni ishlamay qolganda zaharlamang"
 #: jhbuild/commands/base.py:214 jhbuild/commands/base.py:311
 #: jhbuild/commands/tinderbox.py:71
 msgid "build even if policy says not to"
-msgstr "agar siyosat yo'q desa ham qurish"
+msgstr "agar siyosat yoʻq desa ham qurish"
 
 #: jhbuild/commands/base.py:217
 msgid "also build soft-dependencies that could be skipped"
 msgstr ""
-"shuningdek, o'tkazib yuborilishi mumkin bo'lgan yumshoq bog'liqliklarni "
+"shuningdek, oʻtkazib yuborilishi mumkin boʻlgan yumshoq bogʻliqliklarni "
 "yarating"
 
 #: jhbuild/commands/base.py:220 jhbuild/commands/base.py:314
 msgid "skip modules installed less than the given time ago"
-msgstr "belgilangan vaqtdan kamroq o'rnatilgan modullarni o'tkazib yuborish"
+msgstr "belgilangan vaqtdan kamroq oʻrnatilgan modullarni oʻtkazib yuborish"
 
 #: jhbuild/commands/base.py:223 jhbuild/commands/tinderbox.py:74
 msgid "ignore missing system dependencies"
-msgstr "etishmayotgan tizim bog'liqliklariga e'tibor bermang"
+msgstr "etishmayotgan tizim bogʻliqliklariga e'tibor bermang"
 
 #: jhbuild/commands/base.py:247
 msgid "requested module is in the ignore list, nothing to do."
 msgstr ""
-"so'ralgan modul e'tibor bermaslik ro'yxatida, hech narsa qilish kerak emas."
+"soʻralgan modul e'tibor bermaslik roʻyxatida, hech narsa qilish kerak emas."
 
 #: jhbuild/commands/base.py:255 jhbuild/commands/tinderbox.py:103
 #, python-format
@@ -241,8 +244,8 @@ msgid ""
 "Required system dependencies not installed. Install using the command "
 "%(cmd)s or to ignore system dependencies use command-line option %(opt)s"
 msgstr ""
-"Kerakli tizim bog'liqliklari o'rnatilmagan. %(cmd)s buyrug'i yordamida "
-"o'rnating yoki tizimga bog'liqliklarni e'tiborsiz qoldirish uchun %(opt)s "
+"Kerakli tizim bogʻliqliklari oʻrnatilmagan. %(cmd)s buyrugʻi yordamida "
+"oʻrnating yoki tizimga bogʻliqliklarni e'tiborsiz qoldirish uchun %(opt)s "
 "buyruq qatoridan foydalaning"
 
 #: jhbuild/commands/base.py:269
@@ -278,12 +281,12 @@ msgstr "berilgan modulning chiqish direksiyasida buyruqni ishga tushiring"
 #: jhbuild/commands/base.py:379 jhbuild/commands/base.py:409
 #, python-format
 msgid "Unable to execute the command '%(command)s': %(err)s"
-msgstr "“%(command)s” buyrug‘ini bajarib bo‘lmadi: %(err)s"
+msgstr "“%(command)s” buyrugʻini bajarib boʻlmadi: %(err)s"
 
 #: jhbuild/commands/base.py:400
 #, python-format
 msgid "Unable to execute the command '%s'"
-msgstr "“%s” buyrug‘ini bajarib bo‘lmadi"
+msgstr "“%s” buyrugʻini bajarib boʻlmadi"
 
 #: jhbuild/commands/base.py:407 jhbuild/frontends/gtkui.py:446
 #: jhbuild/frontends/terminal.py:169
@@ -296,31 +299,31 @@ msgstr "JHBuild muhiti ostida qobiqni ishga tushiring"
 
 #: jhbuild/commands/base.py:431
 msgid "List the modules that would be built"
-msgstr "Quriladigan modullarni sanab o'ting"
+msgstr "Quriladigan modullarni sanab oʻting"
 
 #: jhbuild/commands/base.py:440
 msgid "show which revision will be built"
-msgstr "qaysi reviziya tuzilishini ko'rsating"
+msgstr "qaysi reviziya tuzilishini koʻrsating"
 
 #: jhbuild/commands/base.py:446
 msgid "start list at the given module"
-msgstr "berilgan modulda boshlang'ich ro'yxati"
+msgstr "berilgan modulda boshlangʻich roʻyxati"
 
 #: jhbuild/commands/base.py:455
 msgid "also list soft-dependencies that could be skipped"
 msgstr ""
-"shuningdek, o'tkazib yuborilishi mumkin bo'lgan yumshoq bog'liqliklarni "
-"sanab o'ting"
+"shuningdek, oʻtkazib yuborilishi mumkin boʻlgan yumshoq bogʻliqliklarni "
+"sanab oʻting"
 
 #: jhbuild/commands/base.py:458
 msgid "list all modules, not only those that would be built"
 msgstr ""
-"faqat quriladigan modullarni emas, balki barcha modullarni sanab o'ting"
+"faqat quriladigan modullarni emas, balki barcha modullarni sanab oʻting"
 
 #: jhbuild/commands/base.py:465
 msgid "Conflicting options specified ('--start-at' and '--all-modules')"
 msgstr ""
-"Ko'rsatilgan qarama-qarshi variantlar ('--start-at' va '--all-modules')"
+"Koʻrsatilgan qarama-qarshi variantlar ('--start-at' va '--all-modules')"
 
 #: jhbuild/commands/base.py:497
 msgid "Output a Graphviz dependency graph for one or more modules"
@@ -333,7 +336,7 @@ msgstr "[ modullar ... ]"
 
 #: jhbuild/commands/base.py:506
 msgid "add dotted lines to soft dependencies"
-msgstr "yumshoq bog'liqliklarga nuqtali chiziqlar qo'shing"
+msgstr "yumshoq bogʻliqliklarga nuqtali chiziqlar qoʻshing"
 
 #: jhbuild/commands/base.py:509
 msgid "group modules from metamodule together"
@@ -342,18 +345,18 @@ msgstr "metamoduldan modullarni birgalikda guruhlash"
 #: jhbuild/commands/base.py:530
 msgid "Run post-install triggers for named modules (or all)"
 msgstr ""
-"Nomlangan modullar (yoki barchasi) uchun o'rnatishdan keyingi triggerlarni "
+"Nomlangan modullar (yoki barchasi) uchun oʻrnatishdan keyingi triggerlarni "
 "ishga tushiring"
 
 #: jhbuild/commands/bootstrap.py:25
 msgid "Build support tools"
-msgstr "Qo'llab-quvvatlash vositalarini yarating"
+msgstr "Qoʻllab-quvvatlash vositalarini yarating"
 
 #: jhbuild/commands/checkbranches.py:29
 msgid ""
 "Check modules in GNOME Git repository have the correct branch definition"
 msgstr ""
-"GNOME Git omboridagi modullar to'g'ri filial ta'rifiga ega ekanligini "
+"GNOME Git omboridagi modullar toʻgʻri filial ta'rifiga ega ekanligini "
 "tekshiring"
 
 #: jhbuild/commands/checkbranches.py:66
@@ -363,12 +366,12 @@ msgstr "%(module)sda %(branch)s uchun filial taʼrifi yoʻq"
 
 #: jhbuild/commands/checkmodulesets.py:27
 msgid "Check if modules in JHBuild have the correct definition"
-msgstr "JHBuild modullari to'g'ri ta'rifga ega ekanligini tekshiring"
+msgstr "JHBuild modullari toʻgʻri ta'rifga ega ekanligini tekshiring"
 
 #: jhbuild/commands/checkmodulesets.py:40
 #, python-format
 msgid "%(module)s is unreachable (%(href)s)"
-msgstr "%(module)s bilan bog‘lanib bo‘lmaydi (%(href)s)"
+msgstr "%(module)s bilan bogʻlanib boʻlmaydi (%(href)s)"
 
 #: jhbuild/commands/checkmodulesets.py:43
 #, python-format
@@ -385,7 +388,7 @@ msgstr "GUI ilovasidan maqsadlarni yarating"
 
 #: jhbuild/commands/info.py:38
 msgid "Display information about one or more modules"
-msgstr "Bir yoki bir nechta modullar haqidagi ma'lumotlarni ko'rsatish"
+msgstr "Bir yoki bir nechta modullar haqidagi ma'lumotlarni koʻrsatish"
 
 #: jhbuild/commands/info.py:47
 msgid ""
@@ -393,9 +396,9 @@ msgid ""
 "dependencies. If one or more module names are specified and at least one "
 "module is not installed, then the command will return 1."
 msgstr ""
-"faqat o'rnatilgan modullar uchun ma'lumotlarni ko'rsatish. Bu tizimga "
-"bog'liqliklarni ro'yxatga kiritmaydi. Agar bir yoki bir nechta modul nomi "
-"ko'rsatilgan bo'lsa va kamida bitta modul o'rnatilmagan bo'lsa, buyruq 1 ni "
+"faqat oʻrnatilgan modullar uchun ma'lumotlarni koʻrsatish. Bu tizimga "
+"bogʻliqliklarni roʻyxatga kiritmaydi. Agar bir yoki bir nechta modul nomi "
+"koʻrsatilgan boʻlsa va kamida bitta modul oʻrnatilmagan boʻlsa, buyruq 1 ni "
 "qaytaradi."
 
 #: jhbuild/commands/info.py:64
@@ -409,7 +412,7 @@ msgstr "Ism:"
 
 #: jhbuild/commands/info.py:87
 msgid "Module Set:"
-msgstr "Modullar to'plami:"
+msgstr "Modullar toʻplami:"
 
 #: jhbuild/commands/info.py:88
 msgid "Type:"
@@ -417,15 +420,15 @@ msgstr "Turi:"
 
 #: jhbuild/commands/info.py:91 jhbuild/commands/info.py:95
 msgid "Install version:"
-msgstr "O'rnatish versiyasi:"
+msgstr "Oʻrnatish versiyasi:"
 
 #: jhbuild/commands/info.py:92 jhbuild/commands/info.py:96
 msgid "Install date:"
-msgstr "O'rnatish sanasi:"
+msgstr "Oʻrnatish sanasi:"
 
 #: jhbuild/commands/info.py:95 jhbuild/commands/info.py:96
 msgid "not installed"
-msgstr "o'rnatilmagan"
+msgstr "oʻrnatilmagan"
 
 #: jhbuild/commands/info.py:101
 msgid "CVS Root:"
@@ -511,7 +514,7 @@ msgstr "zarur=%s"
 #: jhbuild/commands/__init__.py:95 jhbuild/commands/sysdeps.py:65
 #, python-format
 msgid "installed=%s"
-msgstr "o'rnatilgan=%s"
+msgstr "oʻrnatilgan=%s"
 
 #. Translators: This is used to separate items of package metadata
 #: jhbuild/commands/__init__.py:97 jhbuild/commands/sysdeps.py:67
@@ -530,13 +533,13 @@ msgstr "Kerakli paketlar:"
 #: jhbuild/commands/__init__.py:104 jhbuild/commands/sysdeps.py:146
 #: jhbuild/commands/sysdeps.py:177
 msgid "  System installed packages which are too old:"
-msgstr "  Tizimda o'rnatilgan paketlar juda eski:"
+msgstr "  Tizimda oʻrnatilgan paketlar juda eski:"
 
 #: jhbuild/commands/__init__.py:114 jhbuild/commands/__init__.py:126
 #: jhbuild/commands/sysdeps.py:155 jhbuild/commands/sysdeps.py:171
 #: jhbuild/commands/sysdeps.py:186 jhbuild/commands/sysdeps.py:199
 msgid "    (none)"
-msgstr "    (yo'q)"
+msgstr "    (yoʻq)"
 
 #: jhbuild/commands/__init__.py:116 jhbuild/commands/sysdeps.py:157
 #: jhbuild/commands/sysdeps.py:188
@@ -549,7 +552,7 @@ msgstr "JHBuild buyruqlari:"
 
 #: jhbuild/commands/__init__.py:146
 msgid "For more information run \"jhbuild <command> --help\""
-msgstr "Qo'shimcha ma'lumot olish uchun \"jhbuild<command> --yordam\""
+msgstr "Qoʻshimcha ma'lumot olish uchun \"jhbuild<command> --yordam\""
 
 #: jhbuild/commands/__init__.py:155
 msgid "Information about available JHBuild commands"
@@ -558,16 +561,16 @@ msgstr "Mavjud JHBuild buyruqlari haqida ma'lumot"
 #: jhbuild/commands/__init__.py:179
 #, python-format
 msgid "no such command (did you mean \"jhbuild build %s\"?)"
-msgstr "bunday buyruq yo'q (siz \"jhbuild build %s\" ni nazarda tutdingizmi?)"
+msgstr "bunday buyruq yoʻq (siz \"jhbuild build %s\" ni nazarda tutdingizmi?)"
 
 #: jhbuild/commands/__init__.py:181
 #, python-format
 msgid "no such command (did you mean \"jhbuild run %s\"?)"
-msgstr "bunday buyruq yo'q (siz \"jhbuild run %s\" ni nazarda tutdingizmi?)"
+msgstr "bunday buyruq yoʻq (siz \"jhbuild run %s\" ni nazarda tutdingizmi?)"
 
 #: jhbuild/commands/make.py:31
 msgid "Compile and install the module for the current directory"
-msgstr "Joriy katalog uchun modulni kompilyatsiya qiling va o'rnating"
+msgstr "Joriy katalog uchun modulni kompilyatsiya qiling va oʻrnating"
 
 #: jhbuild/commands/make.py:77
 #, python-format
@@ -581,7 +584,7 @@ msgstr "Modullar toʻplamida joriy katalogga mos keladigan modul yoʻq %r"
 
 #: jhbuild/commands/rdepends.py:29
 msgid "Display reverse-dependencies of a module"
-msgstr "Modulning teskari bog'liqliklarini ko'rsatish"
+msgstr "Modulning teskari bogʻliqliklarini koʻrsatish"
 
 #: jhbuild/commands/rdepends.py:32
 msgid "[ module ]"
@@ -589,30 +592,30 @@ msgstr "%s plagin moduli mavjud emas"
 
 #: jhbuild/commands/rdepends.py:38
 msgid "display dependency path next to modules"
-msgstr "modullar yonida qaramlik yo'lini ko'rsatish"
+msgstr "modullar yonida qaramlik yoʻlini koʻrsatish"
 
 #: jhbuild/commands/rdepends.py:41
 msgid "limit display to modules directly depending on given module"
 msgstr ""
-"to'g'ridan-to'g'ri berilgan modulga qarab modullarga ko'rsatishni cheklash"
+"toʻgʻridan-toʻgʻri berilgan modulga qarab modullarga koʻrsatishni cheklash"
 
 #: jhbuild/commands/sanitycheck.py:36
 msgid "Check that required support tools are available"
-msgstr "Kerakli qo'llab-quvvatlash vositalari mavjudligini tekshiring"
+msgstr "Kerakli qoʻllab-quvvatlash vositalari mavjudligini tekshiring"
 
 #: jhbuild/commands/sanitycheck.py:43
 msgid "no extra arguments expected"
-msgstr "qo'shimcha dalillar kutilmaydi"
+msgstr "qoʻshimcha dalillar kutilmaydi"
 
 #: jhbuild/commands/sanitycheck.py:55
 #, python-format
 msgid "checkout root (%s) is not writable"
-msgstr "to'lov ildizi (%s) yozish mumkin emas"
+msgstr "toʻlov ildizi (%s) yozish mumkin emas"
 
 #: jhbuild/commands/sanitycheck.py:58
 #, python-format
 msgid "install prefix (%s) is not writable"
-msgstr "o'rnatish prefiksi (%s) yozilmaydi"
+msgstr "oʻrnatish prefiksi (%s) yozilmaydi"
 
 #: jhbuild/commands/sanitycheck.py:65 jhbuild/commands/sanitycheck.py:68
 #: jhbuild/commands/sanitycheck.py:71 jhbuild/commands/sanitycheck.py:75
@@ -633,14 +636,14 @@ msgstr "%s topilmadi"
 msgid ""
 "Could not find XML catalog (usually part of the package 'libxml2-utils')"
 msgstr ""
-"XML katalogini topib bo'lmadi (odatda \"libxml2-utils\" paketining bir qismi)"
+"XML katalogini topib boʻlmadi (odatda \"libxml2-utils\" paketining bir "
+"qismi)"
 
 #: jhbuild/commands/sanitycheck.py:99
 #, python-format
 msgid ""
 "Could not find %s in XML catalog (usually part of package 'docbook-xsl')"
-msgstr ""
-"XML katalogida %s topilmadi (odatda \"docbook-xsl\" paketining bir qismi)"
+msgstr "XML katalogida %s topilmadi (odatda \"docbook-xsl\" paketining bir qismi)"
 
 #: jhbuild/commands/sanitycheck.py:106
 #, python-format
@@ -657,11 +660,11 @@ msgstr "curl yoki wget topilmadi"
 
 #: jhbuild/commands/sanitycheck.py:120
 msgid "Installed git program is not the right git"
-msgstr "O'rnatilgan git dasturi to'g'ri git emas"
+msgstr "Oʻrnatilgan git dasturi toʻgʻri git emas"
 
 #: jhbuild/commands/sanitycheck.py:126
 msgid "Could not check git program"
-msgstr "Git dasturini tekshirib bo'lmadi"
+msgstr "Git dasturini tekshirib boʻlmadi"
 
 #: jhbuild/commands/sanitycheck.py:156
 #, python-format
@@ -679,41 +682,41 @@ msgstr ""
 
 #: jhbuild/commands/snapshot.py:29
 msgid "Print out a moduleset for the exact versions that are checked out"
-msgstr "Tekshirilgan aniq versiyalar uchun modul to'plamini chop eting"
+msgstr "Tekshirilgan aniq versiyalar uchun modul toʻplamini chop eting"
 
 #: jhbuild/commands/sysdeps.py:35
 msgid "Check and install tarball dependencies using system packages"
 msgstr ""
-"Tizim paketlari yordamida tarball bog'liqliklarini tekshiring va o'rnating"
+"Tizim paketlari yordamida tarball bogʻliqliklarini tekshiring va oʻrnating"
 
 #: jhbuild/commands/sysdeps.py:43
 msgid "Machine readable list of missing sysdeps"
 msgstr ""
-"Mashina tomonidan o'qilishi mumkin bo'lgan etishmayotgan tizimlar ro'yxati"
+"Mashina tomonidan oʻqilishi mumkin boʻlgan etishmayotgan tizimlar roʻyxati"
 
 #: jhbuild/commands/sysdeps.py:46
 msgid "Machine readable list of all sysdeps"
-msgstr "Mashina tomonidan o'qiladigan barcha tizimlar ro'yxati"
+msgstr "Mashina tomonidan oʻqiladigan barcha tizimlar roʻyxati"
 
 #: jhbuild/commands/sysdeps.py:49
 msgid "Install pkg-config modules via system"
-msgstr "Tizim orqali pkg-config modullarini o'rnating"
+msgstr "Tizim orqali pkg-config modullarini oʻrnating"
 
 #: jhbuild/commands/sysdeps.py:53
 msgid ""
 "assume yes/the default answer to interactive questions during installation "
 "of system dependencies"
 msgstr ""
-"Tizimga bog'liqliklarni o'rnatish vaqtida interaktiv savollarga ha/birlamchi "
-"bo'yicha javob bering1"
+"Tizimga bogʻliqliklarni oʻrnatish vaqtida interaktiv savollarga ha/birlamchi"
+" boʻyicha javob bering1"
 
 #: jhbuild/commands/sysdeps.py:134
 msgid "System installed packages which are new enough:"
-msgstr "Tizimda o'rnatilgan paketlar etarlicha yangi:"
+msgstr "Tizimda oʻrnatilgan paketlar etarlicha yangi:"
 
 #: jhbuild/commands/sysdeps.py:143
 msgid "  (none)"
-msgstr "  (yo'q)"
+msgstr "  (yoʻq)"
 
 #: jhbuild/commands/sysdeps.py:176
 msgid "Optional packages: (JHBuild will build the missing packages)"
@@ -730,7 +733,7 @@ msgstr ""
 
 #: jhbuild/commands/sysdeps.py:212
 msgid "Don't know how to install packages on this system"
-msgstr "Ushbu tizimda paketlarni qanday o'rnatishni bilmayman"
+msgstr "Ushbu tizimda paketlarni qanday oʻrnatishni bilmayman"
 
 #: jhbuild/commands/sysdeps.py:215
 #, python-format
@@ -740,12 +743,13 @@ msgstr "Modullar uchun oʻrnatilmagan tizimga bogʻliqlik yoʻq: %r"
 #: jhbuild/commands/sysdeps.py:217
 #, python-format
 msgid "Installing dependencies on system: %s"
-msgstr "Tizimga bog'liqliklar o'rnatilmoqda: %s"
+msgstr "Tizimga bogʻliqliklar oʻrnatilmoqda: %s"
 
 #: jhbuild/commands/tinderbox.py:29
 msgid "Build modules non-interactively and store build logs"
 msgstr ""
-"Modullarni interaktiv bo'lmagan holda yarating va qurish jurnallarini saqlang"
+"Modullarni interaktiv boʻlmagan holda yarating va qurish jurnallarini "
+"saqlang"
 
 #: jhbuild/commands/tinderbox.py:53
 msgid "directory to store build logs in"
@@ -753,7 +757,7 @@ msgstr "tizim jurnallarini saqlash uchun katalog"
 
 #: jhbuild/commands/tinderbox.py:85
 msgid "output directory for tinderbox build not specified"
-msgstr "tinderbox qurish uchun chiqish katalogi ko'rsatilmagan"
+msgstr "tinderbox qurish uchun chiqish katalogi koʻrsatilmagan"
 
 #: jhbuild/commands/uninstall.py:31
 msgid "Uninstall all modules"
@@ -763,8 +767,8 @@ msgstr "Barcha modullarni olib tashlang"
 #, python-format
 msgid "unknown module %s and no default repository to try an automatic module"
 msgstr ""
-"noma'lum modul %s va avtomatik modulni sinab ko'rish uchun standart ombor "
-"yo'q"
+"noma'lum modul %s va avtomatik modulni sinab koʻrish uchun standart ombor "
+"yoʻq"
 
 #: jhbuild/commands/uninstall.py:64
 #, python-format
@@ -775,7 +779,7 @@ msgstr "%(mod)r moduli oʻrnatilmagan"
 #, python-format
 msgid "Invalid condition set modifier: '%s'.  Must start with '+' or '-'."
 msgstr ""
-"Shartlar to‘plami o‘zgartiruvchisi noto‘g‘ri: “%s”.  \"+\" yoki \"-\" bilan "
+"Shartlar toʻplami oʻzgartiruvchisi notoʻgʻri: “%s”.  \"+\" yoki \"-\" bilan "
 "boshlanishi kerak."
 
 #: jhbuild/config.py:113
@@ -798,7 +802,7 @@ msgid ""
 "The default location of the configuration file has changed. Please move "
 "%(old_path)s to %(new_path)s."
 msgstr ""
-"Konfiguratsiya faylining standart joylashuvi o'zgardi. %(old_path)s ni "
+"Konfiguratsiya faylining standart joylashuvi oʻzgardi. %(old_path)s ni "
 "%(new_path)s ga koʻchiring."
 
 #: jhbuild/config.py:198
@@ -808,7 +812,7 @@ msgstr "Konfiguratsiya fayli kiritilmadi (%s)"
 
 #: jhbuild/config.py:212
 msgid "could not load config file"
-msgstr "konfiguratsiya faylini yuklab bo'lmadi"
+msgstr "konfiguratsiya faylini yuklab boʻlmadi"
 
 #: jhbuild/config.py:226
 #, python-format
@@ -821,20 +825,19 @@ msgid ""
 "the \"%s\" configuration variable is deprecated, you should use "
 "\"repos['gnome.org']\"."
 msgstr ""
-"\"%s\" konfiguratsiya o'zgaruvchisi eskirgan, siz \"repos['gnome.org']\" dan "
-"foydalanishingiz kerak."
+"\"%s\" konfiguratsiya oʻzgaruvchisi eskirgan, siz \"repos['gnome.orgʻ]\" dan"
+" foydalanishingiz kerak."
 
 #: jhbuild/config.py:238 jhbuild/config.py:243
 #, python-format
-msgid ""
-"the \"%s\" configuration variable is deprecated, you should use \"repos\"."
+msgid "the \"%s\" configuration variable is deprecated, you should use \"repos\"."
 msgstr ""
-"\"%s\" konfiguratsiya o'zgaruvchisi eskirgan, siz \"repos\" dan "
+"\"%s\" konfiguratsiya oʻzgaruvchisi eskirgan, siz \"repos\" dan "
 "foydalanishingiz kerak."
 
 #: jhbuild/config.py:277
 msgid "invalid checkout mode"
-msgstr "noto'g'ri to'lov rejimi"
+msgstr "notoʻgʻri toʻlov rejimi"
 
 #: jhbuild/config.py:281
 #, python-format
@@ -843,13 +846,13 @@ msgstr "yaroqsiz hisob-kitob rejimi (modul: %s)"
 
 #: jhbuild/config.py:283
 msgid "copy mode requires copy_dir to be set"
-msgstr "nusxa ko'chirish rejimi copy_dir ni o'rnatishni talab qiladi"
+msgstr "nusxa koʻchirish rejimi copy_dir ni oʻrnatishni talab qiladi"
 
 #: jhbuild/config.py:288
 #, python-format
 msgid "modulesets directory (%s) not found, disabling use_local_modulesets"
 msgstr ""
-"modulesets katalogi (%s) topilmadi, use_local_modulesets o‘chirib qo‘yildi"
+"modulesets katalogi (%s) topilmadi, use_local_modulesets oʻchirib qoʻyildi"
 
 #: jhbuild/config.py:294 jhbuild/config.py:296 jhbuild/config.py:298
 #: jhbuild/config.py:300 jhbuild/config.py:303
@@ -860,33 +863,33 @@ msgstr "%s mutlaq yoʻl boʻlishi kerak"
 #: jhbuild/config.py:314
 #, python-format
 msgid "install prefix (%s) can not be created"
-msgstr "o'rnatish prefiksini (%s) yaratib bo'lmaydi"
+msgstr "oʻrnatish prefiksini (%s) yaratib boʻlmaydi"
 
 #: jhbuild/config.py:321
 #, python-format
 msgid "working directory (%s) can not be created"
-msgstr "ishchi katalogni (%s) yaratib bo'lmaydi"
+msgstr "ishchi katalogni (%s) yaratib boʻlmaydi"
 
 #: jhbuild/config.py:324
 msgid ""
 "Your install prefix contains a 'lib64' directory, which is no longer "
-"supported by jhbuild.  This is likely the result of a previous build with an "
-"older version of jhbuild or of a broken package.  Please consider removing "
+"supported by jhbuild.  This is likely the result of a previous build with an"
+" older version of jhbuild or of a broken package.  Please consider removing "
 "your install and checkout directories and starting fresh."
 msgstr ""
-"O'rnatish prefiksingizda jhbuild tomonidan qo'llab-quvvatlanmaydigan "
+"Oʻrnatish prefiksingizda jhbuild tomonidan qoʻllab-quvvatlanmaydigan "
 "\"lib64\" katalogi mavjud.  Bu, ehtimol, jhbuild ning eski versiyasi yoki "
-"buzilgan paket bilan oldingi tuzilish natijasidir.  Iltimos, o'rnatish va "
+"buzilgan paket bilan oldingi tuzilish natijasidir.  Iltimos, oʻrnatish va "
 "tekshirish kataloglarini olib tashlang va yangisini boshlang."
 
 #: jhbuild/config.py:402
 msgid "Failed to parse 'min_age' relative time"
-msgstr "“min_age” nisbiy vaqtini tahlil qilib bo‘lmadi"
+msgstr "“min_age” nisbiy vaqtini tahlil qilib boʻlmadi"
 
 #: jhbuild/config.py:417
 msgid ""
 "quiet mode has been disabled because the Python curses module is missing."
-msgstr "Python qarg'ish moduli yo'qligi sababli jim rejim o'chirildi."
+msgstr "Python qargʻish moduli yoʻqligi sababli jim rejim oʻchirildi."
 
 #: jhbuild.desktop.in.in:3
 msgid "GNOME Build Tool"
@@ -928,42 +931,42 @@ msgstr "№%s-qurilish boshlanmoqda"
 #: jhbuild/frontends/autobuild.py:237
 #, python-format
 msgid "**** Starting module %s ****"
-msgstr "**** Boshlang'ich modul %s ****"
+msgstr "**** Boshlangʻich modul %s ****"
 
 #: jhbuild/frontends/buildscript.py:42
 #, python-format
 msgid "install prefix (%s) must be writable"
-msgstr "o'rnatish prefiksi (%s) yoziladigan bo'lishi kerak"
+msgstr "oʻrnatish prefiksi (%s) yoziladigan boʻlishi kerak"
 
 #: jhbuild/frontends/buildscript.py:49
 #, python-format
 msgid "checkout root (%s) can not be created"
-msgstr "to'lov ildizini (%s) yaratib bo'lmaydi"
+msgstr "toʻlov ildizini (%s) yaratib boʻlmaydi"
 
 #: jhbuild/frontends/buildscript.py:51
 #, python-format
 msgid "checkout root (%s) must be writable"
-msgstr "to'lov ildizi (%s) yoziladigan bo'lishi kerak"
+msgstr "toʻlov ildizi (%s) yoziladigan boʻlishi kerak"
 
 #: jhbuild/frontends/buildscript.py:58
 #, python-format
 msgid "checkout copy dir (%s) can not be created"
-msgstr "to'lov nusxasi katalogini (%s) yaratib bo'lmaydi"
+msgstr "toʻlov nusxasi katalogini (%s) yaratib boʻlmaydi"
 
 #: jhbuild/frontends/buildscript.py:60
 #, python-format
 msgid "checkout copy dir (%s) must be writable"
-msgstr "to'lov nusxasi katalogi (%s) yoziladigan bo'lishi kerak"
+msgstr "toʻlov nusxasi katalogi (%s) yoziladigan boʻlishi kerak"
 
 #: jhbuild/frontends/buildscript.py:67
 #, python-format
 msgid "checkout export dir (%s) can not be created"
-msgstr "to'lovni eksport qilish dirijyorini (%s) yaratib bo'lmaydi"
+msgstr "toʻlovni eksport qilish dirijyorini (%s) yaratib boʻlmaydi"
 
 #: jhbuild/frontends/buildscript.py:69
 #, python-format
 msgid "checkout export dir (%s) must be writable"
-msgstr "to'lov eksporti direktori (%s) yozilishi kerak"
+msgstr "toʻlov eksporti direktori (%s) yozilishi kerak"
 
 #: jhbuild/frontends/buildscript.py:118
 #, python-format
@@ -988,7 +991,7 @@ msgstr "Oʻchirib tashlangan paketga eʼtibor bermaslik: %s"
 #: jhbuild/frontends/buildscript.py:268
 #, python-format
 msgid "Running post-installation trigger script: %r"
-msgstr "O‘rnatishdan keyingi ishga tushirish skripti: %r"
+msgstr "Oʻrnatishdan keyingi ishga tushirish skripti: %r"
 
 #: jhbuild/frontends/buildscript.py:276 jhbuild/frontends/gtkui.py:604
 #, python-format
@@ -1009,7 +1012,7 @@ msgstr "Qurilish taraqqiyoti"
 
 #: jhbuild/frontends/gtkui.py:162
 msgid "Terminal"
-msgstr "Virtual terminal to'xtatildi"
+msgstr "Virtual terminal toʻxtatildi"
 
 #. Translators: This is a button label (to start build)
 #: jhbuild/frontends/gtkui.py:202
@@ -1038,11 +1041,11 @@ msgstr "%s-bosqichni qayta ishga tushirish"
 #: jhbuild/frontends/gtkui.py:399 jhbuild/frontends/terminal.py:349
 #, python-format
 msgid "Ignore error and continue to %s"
-msgstr "Xatoga e'tibor bermang va %s ga o'ting"
+msgstr "Xatoga e'tibor bermang va %s ga oʻting"
 
 #: jhbuild/frontends/gtkui.py:402 jhbuild/frontends/terminal.py:351
 msgid "Ignore error and continue to next module"
-msgstr "Xatoga e'tibor bermang va keyingi modulga o'ting"
+msgstr "Xatoga e'tibor bermang va keyingi modulga oʻting"
 
 #: jhbuild/frontends/gtkui.py:404 jhbuild/frontends/terminal.py:352
 msgid "Give up on module"
@@ -1051,7 +1054,7 @@ msgstr "Moduldan voz keching"
 #: jhbuild/frontends/gtkui.py:411 jhbuild/frontends/terminal.py:361
 #, python-format
 msgid "Go to phase \"%s\""
-msgstr "“%s” bosqichiga o‘tish"
+msgstr "“%s” bosqichiga oʻtish"
 
 #: jhbuild/frontends/gtkui.py:414
 msgid "Open Terminal"
@@ -1076,7 +1079,7 @@ msgstr "Afzalliklar"
 
 #: jhbuild/frontends/gtkui.py:733
 msgid "Disable network access"
-msgstr "Tarmoqqa kirishni o'chirib qo'ying"
+msgstr "Tarmoqqa kirishni oʻchirib qoʻying"
 
 #: jhbuild/frontends/gtkui.py:734
 msgid "Always run autogen.sh"
@@ -1120,7 +1123,7 @@ msgstr "konfiguratsiyani avtomatik ravishda qaytadan urinish"
 
 #: jhbuild/frontends/terminal.py:339 jhbuild/frontends/tinderbox.py:379
 msgid "automatically forcing a fresh checkout"
-msgstr "avtomatik ravishda yangi to'lovni majburlash"
+msgstr "avtomatik ravishda yangi toʻlovni majburlash"
 
 #: jhbuild/frontends/terminal.py:353
 msgid "Start shell"
@@ -1140,7 +1143,7 @@ msgstr "qurishni davom ettirish uchun qobiqdan chiqing"
 
 #: jhbuild/frontends/terminal.py:401
 msgid "invalid choice"
-msgstr "noto'g'ri tanlov"
+msgstr "notoʻgʻri tanlov"
 
 #: jhbuild/frontends/terminal.py:409
 msgid "Type \"yes\" to confirm the action: "
@@ -1156,27 +1159,27 @@ msgstr "Siz jhbuild dasturini root sifatida ishga tushirmasligingiz kerak.\n"
 
 #: jhbuild/main.py:66
 msgid "%prog [ -f config ] command [ options ... ]"
-msgstr "%prog [ -f config ] buyrug'i [ imkoniyatlari ... ]"
+msgstr "%prog [ -f config ] buyrugʻi [ imkoniyatlari ... ]"
 
 #: jhbuild/main.py:68
 msgid ""
-"Build a set of modules from diverse repositories in correct dependency order "
-"(such as GNOME)."
+"Build a set of modules from diverse repositories in correct dependency order"
+" (such as GNOME)."
 msgstr ""
-"To'g'ri bog'liqlik tartibida turli xil omborlardan modullar to'plamini "
+"Toʻgʻri bogʻliqlik tartibida turli xil omborlardan modullar toʻplamini "
 "yarating (masalan, GNOME)."
 
 #: jhbuild/main.py:73
 msgid "Display this help and exit"
-msgstr "Ushbu yordamni ko'rsating va chiqing"
+msgstr "Ushbu yordamni koʻrsating va chiqing"
 
 #: jhbuild/main.py:80
 msgid "use a non default configuration file"
-msgstr "standart bo'lmagan konfiguratsiya faylidan foydalaning"
+msgstr "standart boʻlmagan konfiguratsiya faylidan foydalaning"
 
 #: jhbuild/main.py:83
 msgid "use a non default module set"
-msgstr "standart bo'lmagan modullar to'plamidan foydalaning"
+msgstr "standart boʻlmagan modullar toʻplamidan foydalaning"
 
 #: jhbuild/main.py:86
 msgid "do not prompt for input"
@@ -1188,7 +1191,7 @@ msgstr "qurish muvaffaqiyatsizlikka uchraganda darhol chiqing"
 
 #: jhbuild/main.py:92
 msgid "modify the condition set"
-msgstr "shartlar to'plamini o'zgartirish"
+msgstr "shartlar toʻplamini oʻzgartirish"
 
 #: jhbuild/main.py:127
 msgid "Interrupted"
@@ -1233,7 +1236,7 @@ msgstr "Masofaviy tekshirish"
 
 #: jhbuild/modtypes/autotools.py:314
 msgid "Uninstalling old installed version"
-msgstr "Eski o'rnatilgan versiyani olib tashlash"
+msgstr "Eski oʻrnatilgan versiyani olib tashlash"
 
 #: jhbuild/modtypes/autotools.py:317 jhbuild/modtypes/cmake.py:164
 #: jhbuild/modtypes/distutils.py:70 jhbuild/modtypes/meson.py:150
@@ -1271,7 +1274,7 @@ msgstr ""
 #: jhbuild/modtypes/__init__.py:142
 #, python-format
 msgid "no <branch> element found for %s"
-msgstr "yo'q<branch> %s uchun element topildi"
+msgstr "yoʻq<branch> %s uchun element topildi"
 
 #: jhbuild/modtypes/__init__.py:151
 #, python-format
@@ -1279,7 +1282,7 @@ msgid ""
 "Repository=%(missing)s not found for module id=%(module)s. Possible "
 "repositories are %(possible)s"
 msgstr ""
-"Repository=%(missing)s id=%(module)s moduli uchun topilmadi. Mumkin bo'lgan "
+"Repository=%(missing)s id=%(module)s moduli uchun topilmadi. Mumkin boʻlgan "
 "omborlar: %(possible)s"
 
 #: jhbuild/modtypes/__init__.py:158
@@ -1288,8 +1291,8 @@ msgid ""
 "No repository for module id=%(module)s. Either set branch/repo or default "
 "repository."
 msgstr ""
-"Id=%(module)s moduli uchun ombor yo‘q. Filial/repo yoki standart omborni "
-"o'rnating."
+"Id=%(module)s moduli uchun ombor yoʻq. Filial/repo yoki standart omborni "
+"oʻrnating."
 
 #: jhbuild/modtypes/__init__.py:227
 #, python-format
@@ -1313,7 +1316,7 @@ msgid ""
 "outside of prefix."
 msgstr ""
 "%(dest)r qurilish ildizida qolgan fayllar; modulda prefiksdan tashqarida "
-"o'rnatilgan fayllar bo'lishi mumkin."
+"oʻrnatilgan fayllar boʻlishi mumkin."
 
 #: jhbuild/modtypes/__init__.py:359
 #, python-format
@@ -1338,12 +1341,10 @@ msgstr "Oʻrnatilmagan %(file)r faylini oʻchirib boʻlmadi: %(msg)s"
 #: jhbuild/modtypes/__init__.py:391
 #, python-format
 msgid ""
-"Install encountered errors: %(num)d errors raised, %(files)d files copied. "
-"The errors are:\n"
+"Install encountered errors: %(num)d errors raised, %(files)d files copied. The errors are:\n"
 "  %(err)s"
 msgstr ""
-"Oʻrnatishda yuzaga kelgan xatolar: %(num)d ta xatolik koʻtarildi, %(files)d "
-"ta fayl nusxalandi. Xatolar quyidagilardir:\n"
+"Oʻrnatishda yuzaga kelgan xatolar: %(num)d ta xatolik koʻtarildi, %(files)d ta fayl nusxalandi. Xatolar quyidagilardir:\n"
 "  %(err)s"
 
 #: jhbuild/modtypes/__init__.py:398
@@ -1379,7 +1380,7 @@ msgstr "%s manba katalogi yaratilmagan"
 
 #: jhbuild/modtypes/__init__.py:645
 msgid "wipe directory and start over"
-msgstr "katalogni o'chiring va qaytadan boshlang"
+msgstr "katalogni oʻchiring va qaytadan boshlang"
 
 #: jhbuild/modtypes/linux.py:46
 #, python-format
@@ -1392,15 +1393,15 @@ msgstr "mr mos qiling"
 
 #: jhbuild/modtypes/linux.py:168
 msgid "Installing kernel"
-msgstr "Yadro o'rnatilmoqda"
+msgstr "Yadro oʻrnatilmoqda"
 
 #: jhbuild/modtypes/linux.py:186
 msgid "Installing modules"
-msgstr "Modullarni o'rnatish"
+msgstr "Modullarni oʻrnatish"
 
 #: jhbuild/modtypes/linux.py:201
 msgid "Installing kernel headers"
-msgstr "Yadro sarlavhalarini o'rnatish"
+msgstr "Yadro sarlavhalarini oʻrnatish"
 
 #: jhbuild/modtypes/linux.py:242
 #, python-format
@@ -1409,7 +1410,7 @@ msgid ""
 "Possible repositories are %(possible)s"
 msgstr ""
 "Repository=%(missing)s Linuxda kconfig uchun topilmadi id=%(linux_id)s. "
-"Mumkin bo'lgan omborlar: %(possible)s"
+"Mumkin boʻlgan omborlar: %(possible)s"
 
 #: jhbuild/modtypes/linux.py:248
 #, python-format
@@ -1418,17 +1419,17 @@ msgid ""
 "id=%(linux_id)s. Possible repositories are %(possible)s"
 msgstr ""
 "Linuxda kconfig uchun standart ombor=%(missing)s topilmadi id=%(linux_id)s. "
-"Mumkin bo'lgan omborlar: %(possible)s"
+"Mumkin boʻlgan omborlar: %(possible)s"
 
 #: jhbuild/modtypes/tarball.py:64
 #, python-format
 msgid "module '%(module)s' has invalid size attribute ('%(size)s')"
-msgstr "'%(module)s' moduli yaroqsiz o'lcham atributiga ega ('%(size)s')"
+msgstr "'%(module)s' moduli yaroqsiz oʻlcham atributiga ega ('%(size)s')"
 
 #: jhbuild/moduleset.py:91
 #, python-format
 msgid "fixed case of module '%(orig)s' to '%(new)s'"
-msgstr "\"%(orig)s\" dan \"%(new)s\" gacha bo'lgan modulning qattiq holati"
+msgstr "\"%(orig)s\" dan \"%(new)s\" gacha boʻlgan modulning qattiq holati"
 
 #: jhbuild/moduleset.py:137
 #, python-format
@@ -1438,7 +1439,7 @@ msgstr "%(module)s nomaʼlum “%(invalid)s” moduliga bogʻliq"
 #: jhbuild/moduleset.py:150
 #, python-format
 msgid "Circular dependencies detected: %s"
-msgstr "Doiraviy bog'liqliklar aniqlandi: %s"
+msgstr "Doiraviy bogʻliqliklar aniqlandi: %s"
 
 #: jhbuild/moduleset.py:302
 msgid "Unknown module:"
@@ -1447,7 +1448,7 @@ msgstr "Noma'lum modul:"
 #: jhbuild/moduleset.py:441
 msgid "<if> must have exactly one of condition-set='' or condition-unset=''"
 msgstr ""
-"<if>condition-set='' yoki condition-unset='' dan bittasi bo'lishi kerak"
+"<if>condition-set='' yoki condition-unset='' dan bittasi boʻlishi kerak"
 
 #: jhbuild/moduleset.py:460
 #, python-format
@@ -1469,13 +1470,13 @@ msgid ""
 "Modulesets were edited locally but JHBuild is configured to get them from "
 "the network, perhaps you need to add use_local_modulesets = True to your %s."
 msgstr ""
-"Modullar toʻplami mahalliy tahrirlangan, ammo JHBuild ularni tarmoqdan olish "
-"uchun sozlangan, ehtimol siz %s ga use_local_modulesets = True qoʻshishingiz "
-"kerak boʻladi."
+"Modullar toʻplami mahalliy tahrirlangan, ammo JHBuild ularni tarmoqdan olish"
+" uchun sozlangan, ehtimol siz %s ga use_local_modulesets = True "
+"qoʻshishingiz kerak boʻladi."
 
 #: jhbuild/utils/cmds.py:41
 msgid "Call to undefined command"
-msgstr "Aniqlanmagan buyruqqa qo'ng'iroq qiling"
+msgstr "Aniqlanmagan buyruqqa qoʻngʻiroq qiling"
 
 #: jhbuild/utils/httpcache.py:184
 msgid "file not in cache, but not allowed to check network"
@@ -1493,7 +1494,7 @@ msgid ""
 "uninstalling."
 msgstr ""
 "“%s” uchun manifest yoʻq, oʻchirib boʻlmaydi.  Qayta qurishga urinib "
-"ko'ring, keyin o'chirib tashlang."
+"koʻring, keyin oʻchirib tashlang."
 
 #: jhbuild/utils/packagedb.py:222
 #, python-format
@@ -1505,8 +1506,8 @@ msgid ""
 "No suitable root privilege command found; you should install \"sudo\" or "
 "\"pkexec\" (or the system package that provides it)"
 msgstr ""
-"Tegishli ildiz huquqi buyrug'i topilmadi; siz \"sudo\" yoki \"pkexec\" ni "
-"(yoki uni ta'minlaydigan tizim paketini) o'rnatishingiz kerak."
+"Tegishli ildiz huquqi buyrugʻi topilmadi; siz \"sudo\" yoki \"pkexec\" ni "
+"(yoki uni ta'minlaydigan tizim paketini) oʻrnatishingiz kerak."
 
 #: jhbuild/utils/systeminstall.py:261 jhbuild/utils/systeminstall.py:264
 #, python-format
@@ -1524,12 +1525,12 @@ msgstr "Xato: dbus-python paketi topilmadi."
 #: jhbuild/utils/systeminstall.py:294
 msgid "Computing packages to install. This might be slow. Please wait."
 msgstr ""
-"O'rnatish uchun hisoblash paketlari. Bu sekin bo'lishi mumkin. Iltimos "
+"Oʻrnatish uchun hisoblash paketlari. Bu sekin boʻlishi mumkin. Iltimos "
 "kuting."
 
 #: jhbuild/utils/systeminstall.py:324
 msgid "Nothing available to install"
-msgstr "O'rnatish uchun hech narsa mavjud emas"
+msgstr "Oʻrnatish uchun hech narsa mavjud emas"
 
 #: jhbuild/utils/systeminstall.py:327
 #, python-format
@@ -1537,15 +1538,15 @@ msgid ""
 "Installing:\n"
 "  %s"
 msgstr ""
-"O'rnatish:\n"
+"Oʻrnatish:\n"
 "  %s"
 
 #: jhbuild/utils/systeminstall.py:328
 msgid ""
-"This might take a very long time. Do not turn off your computer. You can run "
-"'pkmon' to monitor progress."
+"This might take a very long time. Do not turn off your computer. You can run"
+" 'pkmon' to monitor progress."
 msgstr ""
-"Bu juda uzoq vaqt talab qilishi mumkin. Kompyuteringizni o'chirmang. "
+"Bu juda uzoq vaqt talab qilishi mumkin. Kompyuteringizni oʻchirmang. "
 "Taraqqiyotni kuzatish uchun \"pkmon\" ni ishga tushirishingiz mumkin."
 
 #: jhbuild/utils/systeminstall.py:334
@@ -1554,17 +1555,17 @@ msgstr "Sozlashni tugallash!"
 
 #: jhbuild/utils/systeminstall.py:347
 msgid "Using dnf to install packages.  Please wait."
-msgstr "Paketlarni o'rnatish uchun dnf dan foydalaning.  Iltimos kuting."
+msgstr "Paketlarni oʻrnatish uchun dnf dan foydalaning.  Iltimos kuting."
 
 #: jhbuild/utils/systeminstall.py:351 jhbuild/utils/systeminstall.py:361
 #: jhbuild/utils/systeminstall.py:409 jhbuild/utils/systeminstall.py:427
 #: jhbuild/utils/systeminstall.py:586
 msgid "Nothing to install"
-msgstr "O'rnatish uchun hech narsa yo'q"
+msgstr "Oʻrnatish uchun hech narsa yoʻq"
 
 #: jhbuild/utils/systeminstall.py:369 jhbuild/utils/systeminstall.py:432
 msgid "Install failed"
-msgstr "O‘rnatish amalga oshmadi"
+msgstr "Oʻrnatish amalga oshmadi"
 
 #: jhbuild/utils/systeminstall.py:371 jhbuild/utils/systeminstall.py:434
 msgid "Completed!"
@@ -1572,11 +1573,11 @@ msgstr "Bajarildi!"
 
 #: jhbuild/utils/systeminstall.py:384
 msgid "pkgfile not found, automatically installing"
-msgstr "pkgfile topilmadi, avtomatik o'rnatilmoqda"
+msgstr "pkgfile topilmadi, avtomatik oʻrnatilmoqda"
 
 #: jhbuild/utils/systeminstall.py:386
 msgid "Failed to install pkgfile"
-msgstr "pkgfile o'rnatib bo'lmadi"
+msgstr "pkgfile oʻrnatib boʻlmadi"
 
 #: jhbuild/utils/systeminstall.py:392
 msgid "pkgfile cache is old or doesn't exist, automatically updating"
@@ -1584,11 +1585,11 @@ msgstr "pkgfile keshi eski yoki mavjud emas, avtomatik yangilanadi"
 
 #: jhbuild/utils/systeminstall.py:395
 msgid "Failed to create pkgfile cache"
-msgstr "pkgfayl keshini yaratib bo'lmadi"
+msgstr "pkgfayl keshini yaratib boʻlmadi"
 
 #: jhbuild/utils/systeminstall.py:398
 msgid "Failed to update pkgfile cache"
-msgstr "pkgfile keshini yangilab bo‘lmadi"
+msgstr "pkgfile keshini yangilab boʻlmadi"
 
 #: jhbuild/utils/systeminstall.py:400
 msgid "Successfully updated pkgfile cache"
@@ -1596,7 +1597,7 @@ msgstr "pkgfayl keshi muvaffaqiyatli yangilandi"
 
 #: jhbuild/utils/systeminstall.py:405
 msgid "Using pacman to install packages.  Please wait."
-msgstr "Paketlarni o'rnatish uchun pacman dan foydalanish.  Iltimos kuting."
+msgstr "Paketlarni oʻrnatish uchun pacman dan foydalanish.  Iltimos kuting."
 
 #: jhbuild/utils/systeminstall.py:424
 #, python-format
@@ -1616,7 +1617,7 @@ msgstr "Oʻrnatilmoqda: %(pkgs)s"
 
 #: jhbuild/utils/systeminstall.py:557
 msgid "Please install apt-file first."
-msgstr "Iltimos, avval apt-faylni o'rnating."
+msgstr "Iltimos, avval apt-faylni oʻrnating."
 
 #: jhbuild/utils/systeminstall.py:560
 msgid ""
@@ -1624,7 +1625,7 @@ msgid ""
 "wait. Patience!"
 msgstr ""
 "Provayderlarni qidirish uchun apt-fayldan foydalanish; bu juda sekin "
-"bo'lishi mumkin. Iltimos kuting. Sabr!"
+"boʻlishi mumkin. Iltimos kuting. Sabr!"
 
 #: jhbuild/utils/trigger.py:55
 #, python-format
@@ -1655,7 +1656,7 @@ msgstr "%(name)s filiali notoʻgʻri bekor qilingan, %(filename)s-ni tekshiring"
 
 #: jhbuild/versioncontrol/bzr.py:124
 msgid "attribute is deprecated. Use revspec instead."
-msgstr "atribut eskirgan. Buning o'rniga revspec dan foydalaning."
+msgstr "atribut eskirgan. Buning oʻrniga revspec dan foydalaning."
 
 #: jhbuild/versioncontrol/bzr.py:179
 #, python-format
@@ -1666,7 +1667,7 @@ msgid ""
 msgstr ""
 "\n"
 "%s-yoʻl dvcs_mirror_dir-dan toʻlov emas.\n"
-"Uni olib tashlang yoki dvcs_mirror_dir sozlamalarini o'zgartiring."
+"Uni olib tashlang yoki dvcs_mirror_dir sozlamalarini oʻzgartiring."
 
 #: jhbuild/versioncontrol/cvs.py:104
 #, python-format
@@ -1689,13 +1690,14 @@ msgid ""
 "working copy points at the wrong repository (expected %(root1)s but got "
 "%(root2)s). "
 msgstr ""
-"noto'g'ri omborda ishlaydigan nusxa ko'chirish nuqtalari (kutilgan "
+"notoʻgʻri omborda ishlaydigan nusxa koʻchirish nuqtalari (kutilgan "
 "%(root1)s, lekin %(root2)s ga ega). "
 
 #: jhbuild/versioncontrol/cvs.py:284
 msgid "Consider using the changecvsroot.py script to fix this."
 msgstr ""
-"Buni tuzatish uchun changecvsroot.py skriptidan foydalanishni o'ylab ko'ring."
+"Buni tuzatish uchun changecvsroot.py skriptidan foydalanishni oʻylab "
+"koʻring."
 
 #: jhbuild/versioncontrol/darcs.py:82 jhbuild/versioncontrol/darcs.py:88
 #: jhbuild/versioncontrol/fossil.py:80 jhbuild/versioncontrol/fossil.py:93
@@ -1703,11 +1705,11 @@ msgstr ""
 #: jhbuild/versioncontrol/git.py:751 jhbuild/versioncontrol/hg.py:90
 #: jhbuild/versioncontrol/hg.py:96
 msgid "date based checkout not yet supported\n"
-msgstr "sanaga asoslangan to'lov hali qo'llab-quvvatlanmaydi\n"
+msgstr "sanaga asoslangan toʻlov hali qoʻllab-quvvatlanmaydi\n"
 
 #: jhbuild/versioncontrol/git.py:109
 msgid "ignored bad branch redefinition for module:"
-msgstr "modul uchun noto'g'ri filialni qayta aniqlash e'tiborga olinmadi:"
+msgstr "modul uchun notoʻgʻri filialni qayta aniqlash e'tiborga olinmadi:"
 
 #: jhbuild/versioncontrol/git.py:142
 #, python-format
@@ -1716,7 +1718,7 @@ msgstr "Ishlash uchun kamida git-%s kerak"
 
 #: jhbuild/versioncontrol/git.py:149
 msgid "Cannot set \"version\" of a git branch without \"tag\""
-msgstr "Git filialining \"versiyasini\" tegsiz o'rnatib bo'lmaydi"
+msgstr "Git filialining \"versiyasini\" tegsiz oʻrnatib boʻlmaydi"
 
 #: jhbuild/versioncontrol/git.py:219
 msgid "Unexpected: Checkoutdir is not a git repository:"
@@ -1738,19 +1740,19 @@ msgstr "Nopok daraxtni almashtirishdan bosh tortish."
 #: jhbuild/versioncontrol/git.py:371
 #, python-format
 msgid "Command %s returned no output"
-msgstr "%s buyrug'i hech qanday natija bermadi"
+msgstr "%s buyrugʻi hech qanday natija bermadi"
 
 #: jhbuild/versioncontrol/git.py:376
 #, python-format
 msgid "Command %s did not include commit line: %r"
-msgstr "%s buyrug‘i majburiy qatorni o‘z ichiga olmagan: %r"
+msgstr "%s buyrugʻi majburiy qatorni oʻz ichiga olmagan: %r"
 
 #: jhbuild/versioncontrol/git.py:465
 msgid ""
 "Failed to update module as it switched to git (you should check for changes "
 "then remove the directory)."
 msgstr ""
-"Modulni yangilab bo'lmadi, chunki u git-ga o'tdi (o'zgarishlarni "
+"Modulni yangilab boʻlmadi, chunki u git-ga oʻtdi (oʻzgarishlarni "
 "tekshirishingiz kerak, keyin katalogni olib tashlang)."
 
 #: jhbuild/versioncontrol/git.py:466
@@ -1763,7 +1765,7 @@ msgstr ""
 
 #: jhbuild/versioncontrol/git.py:504 jhbuild/versioncontrol/tarball.py:237
 msgid "Applying patch"
-msgstr "Yamoqni qo'llash"
+msgstr "Yamoqni qoʻllash"
 
 #: jhbuild/versioncontrol/git.py:510
 #, python-format
@@ -1773,7 +1775,7 @@ msgstr "“%s” yamogʻi oʻtkazib yuborilmoqda (allaqachon qoʻllangan)"
 #: jhbuild/versioncontrol/git.py:516
 #, python-format
 msgid "Could not apply patch '%s'\n"
-msgstr "“%s” yamog‘ini qo‘llab bo‘lmadi\n"
+msgstr "“%s” yamogʻini qoʻllab boʻlmadi\n"
 
 #: jhbuild/versioncontrol/git.py:600
 msgid "External handling failed\n"
@@ -1788,11 +1790,11 @@ msgstr ""
 #: jhbuild/versioncontrol/__init__.py:202
 #, python-format
 msgid "could not download patch (error: %s)"
-msgstr "yamoqni yuklab bo'lmadi (xato: %s)"
+msgstr "yamoqni yuklab boʻlmadi (xato: %s)"
 
 #: jhbuild/versioncontrol/__init__.py:204
 msgid "could not download patch"
-msgstr "yamoqni yuklab bo'lmadi"
+msgstr "yamoqni yuklab boʻlmadi"
 
 #: jhbuild/versioncontrol/__init__.py:236
 #, python-format
@@ -1872,7 +1874,7 @@ msgstr "%s modulidagi yaroqsiz xesh atributi"
 #: jhbuild/versioncontrol/tarball.py:177
 #, python-format
 msgid "file hash is incorrect (expected %(sum1)s, got %(sum2)s)"
-msgstr "fayl xeshi noto'g'ri (kutilgan %(sum1)s, %(sum2)s bor)"
+msgstr "fayl xeshi notoʻgʻri (kutilgan %(sum1)s, %(sum2)s bor)"
 
 #: jhbuild/versioncontrol/tarball.py:180
 #, python-format
@@ -1901,7 +1903,7 @@ msgstr "%s paketdan chiqarilmadi"
 #: jhbuild/versioncontrol/tarball.py:227
 #, python-format
 msgid "could not unpack tarball (expected %s dir)"
-msgstr "tarballni ochib bo'lmadi (kutilgan %s dir)"
+msgstr "tarballni ochib boʻlmadi (kutilgan %s dir)"
 
 #: jhbuild/versioncontrol/tarball.py:245
 msgid "unable to find quilt"
@@ -1909,4 +1911,4 @@ msgstr "yorgan topa olmadi"
 
 #: jhbuild/versioncontrol/tarball.py:256
 msgid "could not checkout quilt patch set"
-msgstr "yorgan patch to'plamini tekshirib bo'lmadi"
+msgstr "yorgan patch toʻplamini tekshirib boʻlmadi"

@@ -23,7 +23,8 @@ msgstr ""
 msgid "@NAME@"
 msgstr "@NOMI@"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/de.haeckerfelix.AudioSharing.desktop.in.in:11
 msgid "Gnome;GTK;audio;sharing;sound;"
 msgstr "Gnome;GTK;audio;almashish;tovush;"
@@ -35,31 +36,31 @@ msgstr "Kompyuteringiz ovozini ulashing"
 
 #: data/de.haeckerfelix.AudioSharing.metainfo.xml.in.in:12
 msgid ""
-"With Audio Sharing you can share your current computer audio playback in the "
-"form of an RTSP stream. This stream can then be played back by other "
+"With Audio Sharing you can share your current computer audio playback in the"
+" form of an RTSP stream. This stream can then be played back by other "
 "devices, for example using VLC."
 msgstr ""
-"Audio almashish bilan siz RTSP oqimi ko'rinishida kompyuteringizdagi joriy "
-"audio ijrosini baham ko'rishingiz mumkin. Keyinchalik bu oqim boshqa "
-"qurilmalar tomonidan, masalan, VLC yordamida o'ynalishi mumkin."
+"Audio almashish bilan siz RTSP oqimi koʻrinishida kompyuteringizdagi joriy "
+"audio ijrosini baham koʻrishingiz mumkin. Keyinchalik bu oqim boshqa "
+"qurilmalar tomonidan, masalan, VLC yordamida oʻynalishi mumkin."
 
 # Oxirgi gapni qaytadan tarjima qilish kerak
 #: data/de.haeckerfelix.AudioSharing.metainfo.xml.in.in:15
 msgid ""
 "By sharing the audio as a network stream, you can also use common devices "
-"that are not intended to be used as audio sinks (eg. smartphones) to receive "
-"it. For example, there are audio accessories that are not compatible with "
+"that are not intended to be used as audio sinks (eg. smartphones) to receive"
+" it. For example, there are audio accessories that are not compatible with "
 "desktop computers (e.g. because the computer does not have a Bluetooth "
 "module installed). With the help of this app, the computer audio can be "
 "played back on a smartphone, which is then connected to the Bluetooth "
 "accessory."
 msgstr ""
-"Ovozni tarmoq oqimi sifatida baham ko'rish orqali siz uni qabul qilish uchun "
-"audio qabul qiluvchi sifatida foydalanish uchun mo'ljallanmagan umumiy "
+"Ovozni tarmoq oqimi sifatida baham koʻrish orqali siz uni qabul qilish uchun"
+" audio qabul qiluvchi sifatida foydalanish uchun moʻljallanmagan umumiy "
 "qurilmalardan (masalan, smartfonlar) ham foydalanishingiz mumkin. Misol "
 "uchun, ish stoli kompyuterlari bilan mos kelmaydigan audio aksessuarlar "
-"mavjud (masalan, kompyuterda Bluetooth moduli o'rnatilmaganligi sababli). "
-"Ushbu ilova yordamida kompyuter ovozini smartfonda o‘ynatish mumkin, "
+"mavjud (masalan, kompyuterda Bluetooth moduli oʻrnatilmaganligi sababli). "
+"Ushbu ilova yordamida kompyuter ovozini smartfonda oʻynatish mumkin, "
 "keyinchalik u Bluetooth aksessuariga ulanadi."
 
 # Branding o'zgarmasligi kerak, guruhda so'ralishi kerak shu narsa
@@ -87,17 +88,11 @@ msgstr "Buferga nusxalash"
 
 #: data/gtk/window.ui:96
 msgid ""
-"You are currently sharing your audio. You can access it from other devices "
-"in the same network by scanning the QR code or entering the displayed "
-"address in a playback app that supports RTSP streams. This device can be "
-"muted, the audio will still be shared.\n"
+"You are currently sharing your audio. You can access it from other devices in the same network by scanning the QR code or entering the displayed address in a playback app that supports RTSP streams. This device can be muted, the audio will still be shared.\n"
 "\n"
 "To stop sharing, simply close this window."
 msgstr ""
-"Siz hozir audioni baham ko'ryapsiz. QR kodini skanerlash yoki RTSP "
-"oqimlarini qo‘llab-quvvatlaydigan ijro ilovasida ko‘rsatilgan manzilni "
-"kiritish orqali unga bir tarmoqdagi boshqa qurilmalardan kirishingiz mumkin. "
-"Bu qurilma ovozini oʻchirib qoʻyish mumkin, audio hamon baham koʻriladi.\n"
+"Siz hozir audioni baham koʻryapsiz. QR kodini skanerlash yoki RTSP oqimlarini qoʻllab-quvvatlaydigan ijro ilovasida koʻrsatilgan manzilni kiritish orqali unga bir tarmoqdagi boshqa qurilmalardan kirishingiz mumkin. Bu qurilma ovozini oʻchirib qoʻyish mumkin, audio hamon baham koʻriladi.\n"
 "\n"
 "Ulashishni toʻxtatish uchun ushbu oynani yoping."
 
@@ -115,7 +110,7 @@ msgstr "_Ovoz almashish haqida"
 
 #: src/app.rs:131
 msgid "A client has established a connection"
-msgstr "Mijoz aloqa o'rnatdi"
+msgstr "Mijoz aloqa oʻrnatdi"
 
 # ijro kerakmas meimcha
 #: src/app.rs:133

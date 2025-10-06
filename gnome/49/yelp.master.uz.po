@@ -24,12 +24,10 @@ msgstr ""
 #. tooltip may also be used as the link text, if there's no link text in the
 #. document. Special elements in the message will be replaced with the
 #. appropriate content, as follows:
-#.
 #. <string/> - The package to install
-#.
 #: yelp.xml.in:36
 msgid "Install <string/>"
-msgstr "O'rnatish<string/>"
+msgstr "Oʻrnatish<string/>"
 
 #: data/org.gnome.Yelp.metainfo.xml.in:19 org.gnome.Yelp.desktop.in:2
 #: src/yelp-application.c:307 src/yelp-window.c:1112 src/yelp-window.c:1163
@@ -38,7 +36,7 @@ msgstr "Yordam"
 
 #: data/org.gnome.Yelp.metainfo.xml.in:20
 msgid "Help viewer for GNOME"
-msgstr "GNOME uchun ko'ruvchiga yordam bering"
+msgstr "GNOME uchun koʻruvchiga yordam bering"
 
 #: data/org.gnome.Yelp.metainfo.xml.in:22
 msgid ""
@@ -46,14 +44,14 @@ msgid ""
 "also display DocBook, info, man, and HTML documentation."
 msgstr ""
 "Yelp - bu GNOME yordam dasturi. Bu standart Mallard tomoshabinidir, lekin u "
-"DocBook, info, man va HTML hujjatlarini ham ko'rsatishi mumkin."
+"DocBook, info, man va HTML hujjatlarini ham koʻrsatishi mumkin."
 
 #: data/org.gnome.Yelp.metainfo.xml.in:26
 msgid ""
-"It makes it easy to find the documentation you need, with interactive search "
-"and bookmarks."
+"It makes it easy to find the documentation you need, with interactive search"
+" and bookmarks."
 msgstr ""
-"Bu interaktiv qidiruv va xatcho‘plar yordamida kerakli hujjatlarni topishni "
+"Bu interaktiv qidiruv va xatchoʻplar yordamida kerakli hujjatlarni topishni "
 "osonlashtiradi."
 
 #: data/org.gnome.Yelp.metainfo.xml.in:30
@@ -61,9 +59,9 @@ msgid ""
 "It also has an editor mode, which shows editorial comments and revision "
 "statuses when editing Mallard documents."
 msgstr ""
-"Bundan tashqari, tahrirlovchi rejimi mavjud bo'lib, u Mallard hujjatlarini "
-"tahrirlashda tahririyat sharhlari va qayta ko'rib chiqish holatini "
-"ko'rsatadi."
+"Bundan tashqari, tahrirlovchi rejimi mavjud boʻlib, u Mallard hujjatlarini "
+"tahrirlashda tahririyat sharhlari va qayta koʻrib chiqish holatini "
+"koʻrsatadi."
 
 #: data/org.gnome.Yelp.metainfo.xml.in:37
 msgid "Main window"
@@ -196,7 +194,7 @@ msgstr "Noma'lum xato."
 #: libyelp/yelp-view.c:967
 msgid "You do not have PackageKit. Package install links require PackageKit."
 msgstr ""
-"Sizda PackageKit yo'q. Paketni o'rnatish havolalari PackageKitni talab "
+"Sizda PackageKit yoʻq. Paketni oʻrnatish havolalari PackageKitni talab "
 "qiladi."
 
 #: libyelp/yelp-view.c:972
@@ -288,7 +286,7 @@ msgstr "“%s” uchun hujjat yuklanmadi"
 #: libyelp/yelp-view.c:1859
 #, c-format
 msgid "Could not load a document"
-msgstr "Hujjatni yuklab bo‘lmadi"
+msgstr "Hujjatni yuklab boʻlmadi"
 
 #: libyelp/yelp-view.c:1905
 msgid "Document Not Found"
@@ -300,7 +298,7 @@ msgstr "Sahifa topilmadi"
 
 #: libyelp/yelp-view.c:1910
 msgid "Cannot Read"
-msgstr "Oʻqib bo’lmadi"
+msgstr "Oʻqib boʻlmadi"
 
 #: libyelp/yelp-view.c:1916
 msgid "Unknown Error"
@@ -310,16 +308,17 @@ msgstr "Nomaʼlum xatolik"
 #, fuzzy
 #| msgid "Search for packages containing this document."
 msgid "Find Packages Containing This Document"
-msgstr "Ushbu hujjatni o'z ichiga olgan paketlarni qidiring."
+msgstr "Ushbu hujjatni oʻz ichiga olgan paketlarni qidiring."
 
 #: org.gnome.Yelp.desktop.in:3
 msgid "Get help with GNOME"
 msgstr "GNOME bilan yordam oling"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: org.gnome.Yelp.desktop.in:5
 msgid "documentation;information;manual;help;"
-msgstr "hujjatlar;ma'lumotlar;qo'llanma;yordam;"
+msgstr "hujjatlar;ma'lumotlar;qoʻllanma;yordam;"
 
 #: src/yelp-application.c:57
 msgid "Turn on editor mode"

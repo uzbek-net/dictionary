@@ -33,11 +33,11 @@ msgstr "Elektron pochta manzili"
 # "Tug'ilgan sana" va h.k. shaklida kelishi mumki. Pastdagilar ham
 #: egg/egg-oid.c:53
 msgid "Date of Birth"
-msgstr "Tug'ilgan sanasi"
+msgstr "Tugʻilgan sanasi"
 
 #: egg/egg-oid.c:55
 msgid "Place of Birth"
-msgstr "Tug'ilgan joy"
+msgstr "Tugʻilgan joy"
 
 #: egg/egg-oid.c:57
 msgid "Gender"
@@ -80,7 +80,7 @@ msgstr "Holat"
 
 #: egg/egg-oid.c:76
 msgid "Street"
-msgstr "Ko'cha"
+msgstr "Koʻcha"
 
 #: egg/egg-oid.c:78
 msgid "Organization"
@@ -132,7 +132,8 @@ msgid "SNILS"
 msgstr "SNILS"
 
 # Ruscha abb.
-#. Translators: Russian: Main state registration number for individual enterpreneurs
+#. Translators: Russian: Main state registration number for individual
+#. enterpreneurs
 #: egg/egg-oid.c:104
 msgid "OGRNIP"
 msgstr "OGRNIP"
@@ -161,7 +162,7 @@ msgstr "RSA bilan SHA1"
 
 #: egg/egg-oid.c:114
 msgid "RSA with OAEP padding"
-msgstr "RSA + OAEP to‘ldirish"
+msgstr "RSA + OAEP toʻldirish"
 
 #: egg/egg-oid.c:115
 msgid "RSA with MGF1"
@@ -264,7 +265,7 @@ msgstr "Elektron pochta himoyasi"
 # ajarilgan/qilingan vaqt
 #: egg/egg-oid.c:144
 msgid "Time Stamping"
-msgstr "Vaqt tamg'asi"
+msgstr "Vaqt tamgʻasi"
 
 # Ma'lumotlarga kirish huquqi??
 #. Extended certificate attributes
@@ -310,7 +311,7 @@ msgstr "Sabab kodi"
 
 #: egg/egg-oid.c:157
 msgid "Hold instruction code"
-msgstr "Sertifikat operatsiyalarini to‘xtatish ko‘rsatkichi kodi"
+msgstr "Sertifikat operatsiyalarini toʻxtatish koʻrsatkichi kodi"
 
 # balki   "Yaroqlilik muddati"??
 #: egg/egg-oid.c:158
@@ -319,7 +320,7 @@ msgstr "Yaroqsizlik sanasi"
 
 #: egg/egg-oid.c:159
 msgid "Certificate Revocation List indicator"
-msgstr "Sertifikatni bekor qilish ro‘yxati ko‘rsatkichi"
+msgstr "Sertifikatni bekor qilish roʻyxati koʻrsatkichi"
 
 #: egg/egg-oid.c:160
 msgid "Issuing distribution point"
@@ -336,7 +337,7 @@ msgstr "Nom cheklovlari"
 
 #: egg/egg-oid.c:163
 msgid "Certificate Revocation List distribution points"
-msgstr "Sertifikatni bekor qilish ro‘yxatini tarqatish nuqtalari"
+msgstr "Sertifikatni bekor qilish roʻyxatini tarqatish nuqtalari"
 
 #: egg/egg-oid.c:164
 msgid "Certificate policies"
@@ -365,7 +366,7 @@ msgstr "Kengaytirilgan kalitdan foydalanish"
 #. Certificate Policies
 #: egg/egg-oid.c:171
 msgid "Extended Validation"
-msgstr "Qo'shimcha tekshirish"
+msgstr "Qoʻshimcha tekshirish"
 
 #: egg/egg-oid.c:172
 msgid "Certification Practices Statement"
@@ -390,12 +391,12 @@ msgstr "PKCS#11 modulini yuklashda xato: %s"
 #: gck/gck-module.c:286
 #, c-format
 msgid "Couldn’t initialize PKCS#11 module: %s"
-msgstr "PKCS#11 modulini ishga tushirib bo'lmadi: %s"
+msgstr "PKCS#11 modulini ishga tushirib boʻlmadi: %s"
 
 #: gck/gck-modules.c:60
 #, c-format
 msgid "Couldn’t initialize registered PKCS#11 modules: %s"
-msgstr "Ro‘yxatga olingan PKCS#11 modullarini ishga tushirib bo'lmadi: %s"
+msgstr "Roʻyxatga olingan PKCS#11 modullarini ishga tushirib boʻlmadi: %s"
 
 #: gck/gck-uri.c:167
 #, c-format
@@ -409,12 +410,12 @@ msgstr "URI da “pkcs11” sxemasi mavjud emas."
 
 #: gck/gck-uri.c:175
 msgid "The URI has bad syntax."
-msgstr "URI sintaksisi noto‘g‘ri."
+msgstr "URI sintaksisi notoʻgʻri."
 
 # URI versiyasi eskirgan / mos kelmaydi
 #: gck/gck-uri.c:179
 msgid "The URI has a bad version number."
-msgstr "URI versiyasi noto‘g‘ri."
+msgstr "URI versiyasi notoʻgʻri."
 
 # Ma'lumotlar haqida hech narsa yo'qku?
 #: gcr/gcr-callback-output-stream.c:56 gcr/gcr-callback-output-stream.c:73
@@ -448,7 +449,7 @@ msgstr "Sertifikat imzosi"
 
 #: gcr/gcr-certificate-extension-key-usage.c:70
 msgid "Revocation list signature"
-msgstr "Bekor qilish ro'yxati imzosi"
+msgstr "Bekor qilish roʻyxati imzosi"
 
 #: gcr/gcr-certificate-extension-key-usage.c:71
 msgid "Encipher only"
@@ -500,7 +501,7 @@ msgstr "IP manzil"
 
 #: gcr/gcr-certificate-extensions-common.c:255
 msgid "Registered ID"
-msgstr "Ro‘yxatdan o‘tgan ID"
+msgstr "Roʻyxatdan oʻtgan ID"
 
 #: gcr/gcr-certificate.c:956
 msgid "Key Algorithm"
@@ -536,7 +537,7 @@ msgstr "Ha"
 
 #: gcr/gcr-certificate.c:996 gcr/gcr-certificate.c:1258
 msgid "No"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #: gcr/gcr-certificate.c:1000
 msgid "Unlimited"
@@ -544,7 +545,7 @@ msgstr "Cheklanmagan"
 
 #: gcr/gcr-certificate.c:1004
 msgid "Max Path Length"
-msgstr "Maksimal yo'l uzunligi"
+msgstr "Maksimal yoʻl uzunligi"
 
 #: gcr/gcr-certificate.c:1018
 msgid "Allowed Purposes"
@@ -562,7 +563,8 @@ msgstr "Kalit identifikatori"
 msgid "Key Usage"
 msgstr "Kalitdan foydalanish"
 
-# sal g'alati, boshqa variant o'ylab ko'rish kerak. Lekin almashtirilmasa ham muammo emas.
+# sal g'alati, boshqa variant o'ylab ko'rish kerak. Lekin almashtirilmasa ham
+# muammo emas.
 #: gcr/gcr-certificate.c:1067
 msgid "Usages"
 msgstr "Foydalanishlar"
@@ -589,7 +591,7 @@ msgstr "Kirish Usuli"
 
 #: gcr/gcr-certificate.c:1158
 msgid "CRL Distribution Points"
-msgstr "Sertifikatni bekor qilish ro‘yxatini tarqatish nuqtalari"
+msgstr "Sertifikatni bekor qilish roʻyxatini tarqatish nuqtalari"
 
 #: gcr/gcr-certificate.c:1174
 msgid "Distribution Point"
@@ -702,16 +704,16 @@ msgstr "Sertifikat soʻrovi uchun kalit turi qoʻllab-quvvatlanmaydi"
 #: gcr/gcr-certificate-request.c:484 gcr/gcr-certificate-request.c:568
 #, c-format
 msgid "The key cannot be used to sign the request"
-msgstr "Kalit so'rovni imzolash uchun ishlatilmaydi"
+msgstr "Kalit soʻrovni imzolash uchun ishlatilmaydi"
 
 #: gcr/gcr-gnupg-importer.c:94
 msgid "GnuPG Keyring"
-msgstr "GnuPG kalitlar to‘plami"
+msgstr "GnuPG kalitlar toʻplami"
 
 #: gcr/gcr-gnupg-importer.c:96
 #, c-format
 msgid "GnuPG Keyring: %s"
-msgstr "GnuPG kalitlar to‘plami: %s"
+msgstr "GnuPG kalitlar toʻplami: %s"
 
 #: gcr/gcr-gnupg-process.c:867
 #, c-format
@@ -721,7 +723,7 @@ msgstr "GnuPG jarayoni %d kodi bilan yakunlandi"
 #: gcr/gcr-gnupg-process.c:874
 #, c-format
 msgid "Gnupg process was terminated with signal: %d"
-msgstr "GnuPG jarayon ushbu signal bilan to'xtatildi: %d"
+msgstr "GnuPG jarayon ushbu signal bilan toʻxtatildi: %d"
 
 # Amal deb qo'yish mumkin menimcha
 #: gcr/gcr-gnupg-process.c:928 gcr/gcr-parser.c:1790 gcr/gcr-parser.c:2386
@@ -741,15 +743,15 @@ msgstr "PGP Kalit"
 # Sertifikat uchun so'rov?
 #: gcr/gcr-parser.c:340
 msgid "Certificate Request"
-msgstr "Sertifikat So'rovi"
+msgstr "Sertifikat Soʻrovi"
 
 #: gcr/gcr-parser.c:1793
 msgid "Unrecognized or unsupported data."
-msgstr "Aniqlanmagan yoki qo‘llab-quvvatlanmagan ma'lumot."
+msgstr "Aniqlanmagan yoki qoʻllab-quvvatlanmagan ma'lumot."
 
 #: gcr/gcr-parser.c:1796
 msgid "Could not parse invalid or corrupted data."
-msgstr "Noto‘g‘ri yoki buzilgan ma'lumotlarni tahlil qilib bo‘lmadi."
+msgstr "Notoʻgʻri yoki buzilgan ma'lumotlarni tahlil qilib boʻlmadi."
 
 #: gcr/gcr-parser.c:1799
 msgid "The data is locked"
@@ -793,7 +795,7 @@ msgstr "Qulfdan ochish"
 
 #: gcr/gcr-ssh-agent-interaction.c:166
 msgid "The unlock password was incorrect"
-msgstr "Qulfni ochish paroli noto'g'ri"
+msgstr "Qulfni ochish paroli notoʻgʻri"
 
 #: gcr/gcr-ssh-agent-service.c:270
 msgid "Unnamed"
@@ -806,15 +808,15 @@ msgstr "OpenSSH parolingizni kiriting"
 # Atribut so'ziga tarjima qidirish
 #: gcr/gcr-subject-public-key.c:413
 msgid "Unrecognized or unavailable attributes for key"
-msgstr "Kalit uchun aniqlanmagan yoki mavjud bo‘lmagan attributlar"
+msgstr "Kalit uchun aniqlanmagan yoki mavjud boʻlmagan attributlar"
 
 #: gcr/gcr-subject-public-key.c:499 gcr/gcr-subject-public-key.c:582
 msgid "Couldn’t build public key"
-msgstr "Ochiq kalitni yaratib bo‘lmadi"
+msgstr "Ochiq kalitni yaratib boʻlmadi"
 
 #: gcr/gcr-system-prompt.c:896
 msgid "Another prompt is already in progress"
-msgstr "Boshqa bir so'rov allaqachon bajarilmoqda"
+msgstr "Boshqa bir soʻrov allaqachon bajarilmoqda"
 
 #. Translators: A pinned certificate is an exception which
 #. trusts a given certificate explicitly for a purpose and
@@ -826,11 +828,11 @@ msgstr "Belgilangan sertifikatni saqlash uchun joy topilmadi"
 
 #: tools/viewer/viewer.c:23
 msgid "GCR Certificate Viewer"
-msgstr "GCR sertifikatini ko'rish dasturi"
+msgstr "GCR sertifikatini koʻrish dasturi"
 
 #: tools/viewer/viewer.c:30
 msgid "Show the application's version"
-msgstr "Dastur versiyasini ko'rsatish"
+msgstr "Dastur versiyasini koʻrsatish"
 
 #: tools/viewer/viewer.c:32
 msgid "[file...]"

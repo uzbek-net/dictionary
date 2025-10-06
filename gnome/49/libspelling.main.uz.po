@@ -19,7 +19,7 @@ msgstr ""
 
 #: lib/spelling-menu.c:273
 msgid "Add to Dictionary"
-msgstr "Lug’atga qo’shish"
+msgstr "Lugʻatga qoʻshish"
 
 #: lib/spelling-menu.c:274
 msgid "Ignore"

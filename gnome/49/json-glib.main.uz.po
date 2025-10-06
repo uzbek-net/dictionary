@@ -23,11 +23,11 @@ msgstr "Chiqarishni yaxshilash"
 
 #: json-glib/json-glib-format.c:60
 msgid "Indentation spaces"
-msgstr "Bo‘sh joylar soni"
+msgstr "Boʻsh joylar soni"
 
 #: json-glib/json-glib-format.c:60
 msgid "SPACES"
-msgstr "BO'SH JOYLAR"
+msgstr "BOʻSH JOYLAR"
 
 #: json-glib/json-glib-format.c:61
 msgid "Output file"
@@ -43,7 +43,6 @@ msgstr "FAYL..."
 
 #. Translators: the first %s is the program name, the second one
 #. * is the URI of the file, the third is the error message.
-#.
 #: json-glib/json-glib-format.c:88 json-glib/json-glib-format.c:124
 #, c-format
 msgid "%s: %s: error opening file: %s\n"
@@ -51,7 +50,6 @@ msgstr "%s: %s: faylni ochishda xatolik yuz berdi: %s\n"
 
 #. Translators: the first %s is the program name, the second one
 #. * is the URI of the file, the third is the error message.
-#.
 #: json-glib/json-glib-format.c:102 json-glib/json-glib-validate.c:79
 #, c-format
 msgid "%s: %s: error parsing file: %s\n"
@@ -59,7 +57,6 @@ msgstr "%s: %s: faylni tahlil qilishda xatolik yuz berdi: %s\n"
 
 #. Translators: the first %s is the program name, the
 #. * second one is the URI of the file.
-#.
 #: json-glib/json-glib-format.c:144
 #, c-format
 msgid "%s: %s: error writing to stdout"
@@ -67,7 +64,6 @@ msgstr "%s: %s: stdout ga yozishda xatolik yuz berdi"
 
 #. Translators: the first %s is the program name, the second one
 #. * is the URI of the file, the third is the error message.
-#.
 #: json-glib/json-glib-format.c:168
 #, c-format
 msgid "%s: %s: error closing: %s\n"
@@ -86,7 +82,6 @@ msgstr "json-glib-format JSON resurslarini formatlaydi."
 #. Translators: the %s is the program name. This error message
 #. * means the user is calling json-glib-validate without any
 #. * argument.
-#.
 #: json-glib/json-glib-format.c:220 json-glib/json-glib-validate.c:129
 #, c-format
 msgid "Error parsing commandline options: %s\n"
@@ -96,12 +91,11 @@ msgstr "Buyruq satri parametrlarini tahlil qilishda xatolik: %s\n"
 #: json-glib/json-glib-validate.c:131 json-glib/json-glib-validate.c:145
 #, c-format
 msgid "Try “%s --help” for more information."
-msgstr "Ko'proq ma'lumot uchun “%s --help” ni sinab ko'ring."
+msgstr "Koʻproq ma'lumot uchun “%s --help” ni sinab koʻring."
 
 #. Translators: the %s is the program name. This error message
 #. * means the user is calling json-glib-validate without any
 #. * argument.
-#.
 #: json-glib/json-glib-format.c:234 json-glib/json-glib-validate.c:143
 #, c-format
 msgid "%s: missing files"
@@ -109,11 +103,10 @@ msgstr "%s: fayllar yetishmayapti"
 
 #. Translators: the first %s is the program name, the second one
 #. * is the URI of the file, the third is the error message.
-#.
 #: json-glib/json-glib-validate.c:64
 #, c-format
 msgid "%s: %s: error reading file: %s\n"
-msgstr "%s: %s: faylni o'qishda xatolik yuz berdi: %s\n"
+msgstr "%s: %s: faylni oʻqishda xatolik yuz berdi: %s\n"
 
 #. Translators: this message will appear after the usage string
 #. and before the list of options.
@@ -124,7 +117,7 @@ msgstr "JSON fayllarini tasdiqlang."
 #: json-glib/json-glib-validate.c:112
 msgid "json-glib-validate validates JSON data at the given URI."
 msgstr ""
-"json-glib-validate ko‘rsatilgan URI bo‘yicha JSON ma'lumotlarini tekshiradi."
+"json-glib-validate koʻrsatilgan URI boʻyicha JSON ma'lumotlarini tekshiradi."
 
 #. translators: the %s is the name of the data structure
 #: json-glib/json-gobject.c:930
@@ -148,11 +141,11 @@ msgstr "GVariant tuple turida “)” yopuvchi belgisi yetishmayapti"
 
 #: json-glib/json-gvariant.c:594
 msgid "Unexpected extra elements in JSON array"
-msgstr "JSON massivida kutilmagan qo'shimcha elementlar"
+msgstr "JSON massivida kutilmagan qoʻshimcha elementlar"
 
 #: json-glib/json-gvariant.c:896
 msgid "Invalid string value converting to GVariant"
-msgstr "GVariant ga o‘tkazishda noto‘g‘ri satr qiymati"
+msgstr "GVariant ga oʻtkazishda notoʻgʻri satr qiymati"
 
 #: json-glib/json-gvariant.c:951
 msgid ""
@@ -164,20 +157,19 @@ msgstr ""
 #: json-glib/json-gvariant.c:1229
 #, c-format
 msgid "GVariant class “%c” not supported"
-msgstr "GVariant klassi “%c” qo‘llab-quvvatlanmaydi"
+msgstr "GVariant klassi “%c” qoʻllab-quvvatlanmaydi"
 
 #: json-glib/json-gvariant.c:1283
 msgid "Invalid GVariant signature"
-msgstr "GVariant qiymatining turi noto‘g‘ri"
+msgstr "GVariant qiymatining turi notoʻgʻri"
 
 #: json-glib/json-gvariant.c:1337
 msgid "JSON data is empty"
-msgstr "JSON ma'lumoti bo'sh"
+msgstr "JSON ma'lumoti boʻsh"
 
 #. translators: %s: is the file name, the first %d is the line
 #. * number, the second %d is the position on the line, and %s is
 #. * the error message
-#.
 #: json-glib/json-parser.c:1180
 #, c-format
 msgid "%s:%d:%d: Parse error: %s"
@@ -185,7 +177,7 @@ msgstr "%s:%d:%d: Tahlil xatosi: %s"
 
 #: json-glib/json-parser.c:1261
 msgid "JSON data must be UTF-8 encoded"
-msgstr "JSON ma’lumotlari UTF-8 kodlash formatida bo‘lishi kerak"
+msgstr "JSON ma’lumotlari UTF-8 kodlash formatida boʻlishi kerak"
 
 #: json-glib/json-path.c:391
 msgid "Only one root node is allowed in a JSONPath expression"
@@ -195,36 +187,36 @@ msgstr "JSONPath ifodasida faqat bitta ildiz tuguniga ruxsat beriladi"
 #: json-glib/json-path.c:400
 #, c-format
 msgid "Root node followed by invalid character “%c”"
-msgstr "Ildiz tugunidan keyin noto‘g‘ri belgi “%c” keldi"
+msgstr "Ildiz tugunidan keyin notoʻgʻri belgi “%c” keldi"
 
 #: json-glib/json-path.c:440
 msgid "Missing member name or wildcard after . character"
-msgstr ". belgisidan keyin a’zo nomi yoki * belgisi bo‘lishi kerak"
+msgstr ". belgisidan keyin a’zo nomi yoki * belgisi boʻlishi kerak"
 
 #: json-glib/json-path.c:514
 #, c-format
 msgid "Malformed slice expression “%*s”"
-msgstr "Slice ifodasi noto‘g‘ri tuzilgan: “%*s”"
+msgstr "Slice ifodasi notoʻgʻri tuzilgan: “%*s”"
 
 #: json-glib/json-path.c:558
 #, c-format
 msgid "Invalid set definition “%*s”"
-msgstr "Noto‘g‘ri to‘plam aniqlanishi: “%*s”"
+msgstr "Notoʻgʻri toʻplam aniqlanishi: “%*s”"
 
 #: json-glib/json-path.c:611
 #, c-format
 msgid "Invalid slice definition “%*s”"
-msgstr "Noto‘g‘ri slice aniqlanishi: “%*s”"
+msgstr "Notoʻgʻri slice aniqlanishi: “%*s”"
 
 #: json-glib/json-path.c:639
 #, c-format
 msgid "Invalid array index definition “%*s”"
-msgstr "Noto‘g‘ri massiv indeksi aniqlanishi: “%*s”"
+msgstr "Notoʻgʻri massiv indeksi aniqlanishi: “%*s”"
 
 #: json-glib/json-path.c:658
 #, c-format
 msgid "Invalid first character “%c”"
-msgstr "Noto‘g‘ri birinchi belgi: “%c”"
+msgstr "Notoʻgʻri birinchi belgi: “%c”"
 
 #: json-glib/json-reader.c:522
 #, c-format
@@ -235,8 +227,9 @@ msgstr "Joriy tugun turi “%s”, ammo massiv yoki obyekt kutilgandi."
 #: json-glib/json-reader.c:534
 #, c-format
 msgid ""
-"The index “%d” is greater than the size of the array at the current position."
-msgstr "“%d” indeksi joriy holatdagi massiv o‘lchamidan katta."
+"The index “%d” is greater than the size of the array at the current "
+"position."
+msgstr "“%d” indeksi joriy holatdagi massiv oʻlchamidan katta."
 
 #: json-glib/json-reader.c:551
 #, c-format

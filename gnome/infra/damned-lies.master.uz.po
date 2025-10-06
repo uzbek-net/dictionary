@@ -25,13 +25,15 @@ msgstr ""
 "Baxrom Raxmatov\n"
 "Bilolbek Normuminov"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: damnedlies/settings.py:58 database-content.py:46 database-content.py:200
 msgid "Friulian"
 msgstr "Friuliyalik"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: damnedlies/settings.py:59 database-content.py:53 database-content.py:207
 msgid "Gujarati"
@@ -42,7 +44,8 @@ msgstr "Gujarot tili"
 msgid "Kurdish"
 msgstr "Kurdcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:1 database-content.py:149
 #, fuzzy
@@ -54,7 +57,8 @@ msgstr "Abxaz tili"
 msgid "Afrikaans"
 msgstr "Afrikaanscha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:3 database-content.py:152
 #, fuzzy
@@ -76,7 +80,8 @@ msgstr "Amharacha"
 msgid "Arabic"
 msgstr "Arabcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:7 database-content.py:156
 #, fuzzy
@@ -87,14 +92,16 @@ msgstr "Aragon tili"
 msgid "Armenian"
 msgstr "Arman tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:9 database-content.py:158
 #, fuzzy
 msgid "Assamese"
 msgstr "Assam tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:10 database-content.py:159
 #, fuzzy
@@ -111,14 +118,16 @@ msgstr "Avstraliya inglizchasi"
 msgid "Azerbaijani"
 msgstr "Ozarbayjoncha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:13 database-content.py:162
 #, fuzzy
 msgid "Balochi"
 msgstr "Baloch tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:14 database-content.py:163
 #, fuzzy
@@ -130,14 +139,16 @@ msgstr "Bask tili"
 msgid "Belarusian"
 msgstr "Belaruscha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:16 database-content.py:166
 #, fuzzy
 msgid "Bemba"
 msgstr "Bemba tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:17 database-content.py:167
 #, fuzzy
@@ -148,14 +159,16 @@ msgstr "Bengal tili"
 msgid "Bengali (India)"
 msgstr "Bengal tili (Hindiston)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:19 database-content.py:169
 #, fuzzy
 msgid "Bodo"
 msgstr "Bodo tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:20 database-content.py:170
 #, fuzzy
@@ -167,7 +180,8 @@ msgstr "Bosniya tili"
 msgid "Brazilian Portuguese"
 msgstr "Braziliya portugalchasi"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:22 database-content.py:172
 #, fuzzy
@@ -184,7 +198,8 @@ msgstr "Britaniya inglizchasi"
 msgid "Bulgarian"
 msgstr "Bolgarcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:25 database-content.py:175
 #, fuzzy
@@ -206,7 +221,8 @@ msgstr "Kataloncha"
 msgid "Central Kurdish"
 msgstr "Markaziy kurdcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:29 database-content.py:180
 #, fuzzy
@@ -243,7 +259,8 @@ msgstr "Chexcha"
 msgid "Danish"
 msgstr "Dancha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:36 database-content.py:189
 #, fuzzy
@@ -255,7 +272,8 @@ msgstr "Divehi tili"
 msgid "Dutch"
 msgstr "Niderlandcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:38 database-content.py:191
 #, fuzzy
@@ -272,14 +290,16 @@ msgstr "Esperanto"
 msgid "Estonian"
 msgstr "Estoncha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:41 database-content.py:195
 #, fuzzy
 msgid "Faroese"
 msgstr "Farer tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:42 database-content.py:196
 #, fuzzy
@@ -301,14 +321,16 @@ msgstr "Fransuzcha"
 msgid "Frisian"
 msgstr "Frizcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:47 database-content.py:201
 #, fuzzy
 msgid "Fula"
 msgstr "Fula tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:48 database-content.py:202
 #, fuzzy
@@ -330,21 +352,24 @@ msgstr "Nemischa"
 msgid "Greek"
 msgstr "Yunoncha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:52 database-content.py:206
 #, fuzzy
 msgid "Guarani"
 msgstr "Guarani tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:54 database-content.py:208
 #, fuzzy
 msgid "Haitian Creole"
 msgstr "Gaiti kreol tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:55 database-content.py:209
 #, fuzzy
@@ -361,7 +386,8 @@ msgstr "Ibraniycha"
 msgid "Hindi"
 msgstr "Hindcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:58 database-content.py:212
 msgid "Hungarian"
@@ -372,7 +398,8 @@ msgstr "Vengercha"
 msgid "Icelandic"
 msgstr "Islandcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:60 database-content.py:214
 #, fuzzy
@@ -414,7 +441,8 @@ msgstr "Italyancha"
 msgid "Japanese"
 msgstr "Yaponcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:68 database-content.py:223
 #, fuzzy
@@ -426,14 +454,16 @@ msgstr "Kabilye tili"
 msgid "Kannada"
 msgstr "Kannadacha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:70 database-content.py:225
 #, fuzzy
 msgid "Karbi"
 msgstr "Karbi tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:71 database-content.py:226
 #, fuzzy
@@ -445,21 +475,24 @@ msgstr "Kashmir tili"
 msgid "Kazakh"
 msgstr "Qozoqcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:73 database-content.py:230
 #, fuzzy
 msgid "Khmer"
 msgstr "Xmer tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:74 database-content.py:231
 #, fuzzy
 msgid "Kikongo"
 msgstr "Kikongo tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:75 database-content.py:232
 #, fuzzy
@@ -491,14 +524,16 @@ msgstr "Lotincha"
 msgid "Latvian"
 msgstr "Latishcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:82 database-content.py:239
 #, fuzzy
 msgid "Limburgian"
 msgstr "Limburg tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:83 database-content.py:240
 #, fuzzy
@@ -515,7 +550,8 @@ msgstr "Litovcha"
 msgid "Low German"
 msgstr "Pastki nemischa"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:86 database-content.py:243
 #, fuzzy
@@ -527,14 +563,16 @@ msgstr "Luganda tili"
 msgid "Macedonian"
 msgstr "Makedoncha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:88 database-content.py:246
 #, fuzzy
 msgid "Maithili"
 msgstr "Maytihili tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:89 database-content.py:247
 #, fuzzy
@@ -551,21 +589,24 @@ msgstr "Malaycha"
 msgid "Malayalam"
 msgstr "Malayalamcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:92 database-content.py:251
 #, fuzzy
 msgid "Manx"
 msgstr "Manks tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:93 database-content.py:252
 #, fuzzy
 msgid "Maori"
 msgstr "Maori tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:94 database-content.py:253
 #, fuzzy
@@ -582,7 +623,8 @@ msgstr "Meksika ispanchasi"
 msgid "Mongolian"
 msgstr "Moʻgʻulcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:97
 #, fuzzy
@@ -594,21 +636,24 @@ msgstr "Neapol tili"
 msgid "Nepali"
 msgstr "Nepalcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:99 database-content.py:258
 #, fuzzy
 msgid "Northern Sotho"
 msgstr "Shimoliy Soto tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:100
 #, fuzzy
 msgid "Norwegian (Bokmål and Nynorsk)"
 msgstr "Norveg tili (Bokmål va Nynorsk)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:101 database-content.py:261
 #, fuzzy
@@ -620,21 +665,24 @@ msgstr "Oksitan tili"
 msgid "Old English"
 msgstr "Qadimgi inglizcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:103 database-content.py:263
 #, fuzzy
 msgid "Oriya"
 msgstr "Oriya tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:104 database-content.py:264
 #, fuzzy
 msgid "Ossetian"
 msgstr "Osetin tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:105 database-content.py:265
 #, fuzzy
@@ -656,13 +704,15 @@ msgstr "Polyakcha"
 msgid "Portuguese"
 msgstr "Portugalcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:109 database-content.py:269
 msgid "Punjabi"
 msgstr "Panjob"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:110
 #, fuzzy
@@ -679,14 +729,16 @@ msgstr "Rumincha"
 msgid "Russian"
 msgstr "Ruscha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:113 database-content.py:273
 #, fuzzy
 msgid "Santali"
 msgstr "Santali tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:114 database-content.py:274
 #, fuzzy
@@ -698,21 +750,24 @@ msgstr "Shotland gael tili"
 msgid "Serbian"
 msgstr "Serbcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:116 database-content.py:279
 #, fuzzy
 msgid "Shavian"
 msgstr "Shavian tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:117 database-content.py:280
 #, fuzzy
 msgid "Silesian"
 msgstr "Silez tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:118 database-content.py:282
 #, fuzzy
@@ -729,7 +784,8 @@ msgstr "Slovakcha"
 msgid "Slovenian"
 msgstr "Slovencha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:121 database-content.py:285
 msgid "Somali"
@@ -740,7 +796,8 @@ msgstr "Somalicha"
 msgid "Spanish"
 msgstr "Ispancha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:123 database-content.py:289
 #, fuzzy
@@ -757,7 +814,8 @@ msgstr "Shvedcha"
 msgid "Swiss German"
 msgstr "Shveysariya nemischasi"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:126 database-content.py:292
 #, fuzzy
@@ -769,7 +827,8 @@ msgstr "Tagalog tili"
 msgid "Tajik"
 msgstr "Tojikcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:128 database-content.py:294
 #, fuzzy
@@ -781,34 +840,39 @@ msgstr "Tamil tili"
 msgid "Tatar"
 msgstr "Tatarcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:130 database-content.py:296
 #, fuzzy
 msgid "Telugu"
 msgstr "Telugu tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:131 database-content.py:297
 msgid "Thai"
 msgstr "Taycha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:132 database-content.py:298
 #, fuzzy
 msgid "Tibetan"
 msgstr "Tibet tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:133 database-content.py:299
 #, fuzzy
 msgid "Tsonga"
 msgstr "Tsonga tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:134
 #, fuzzy
@@ -850,56 +914,64 @@ msgstr "Oʻzbekcha"
 msgid "Vietnamese"
 msgstr "Vyetnamcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:142 database-content.py:308
 #, fuzzy
 msgid "Walloon"
 msgstr "Vallon tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:143 database-content.py:309
 #, fuzzy
 msgid "Wayuu"
 msgstr "Vayu tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:144 database-content.py:310
 #, fuzzy
 msgid "Welsh"
 msgstr "Valliy tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:145 database-content.py:311
 #, fuzzy
 msgid "Xhosa"
 msgstr "Xosa tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:146 database-content.py:312
 #, fuzzy
 msgid "Yiddish"
 msgstr "Idish tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:147 database-content.py:313
 #, fuzzy
 msgid "Yoruba"
 msgstr "Yoruba tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:148 database-content.py:314
 #, fuzzy
 msgid "Zulu"
 msgstr "Zulu tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:150
 #, fuzzy
@@ -911,14 +983,16 @@ msgstr "Acholi tili"
 msgid "Belarusian (Latin)"
 msgstr "Belaruscha (lotincha)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:178
 #, fuzzy
 msgid "Catalan (Valencian)"
 msgstr "Katalan tili (Valensiya lahjasi)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:181
 #, fuzzy
@@ -940,14 +1014,16 @@ msgstr "Xitoycha (Tayvan)"
 msgid "English"
 msgstr "Inglizcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:215
 #, fuzzy
 msgid "Igbo"
 msgstr "Igbo tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:227
 #, fuzzy
@@ -964,34 +1040,39 @@ msgstr "Qozoqcha (lotincha)"
 msgid "Luxembourgish"
 msgstr "Lyuksemburgcha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:250
 msgid "Maltese"
 msgstr "Maltacha"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:257
 #, fuzzy
 msgid "Northern Sami"
 msgstr "Shimoliy Sami tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:259
 #, fuzzy
 msgid "Norwegian Bokmål"
 msgstr "Norveg tili (Bokmål)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:260
 #, fuzzy
 msgid "Norwegian Nynorsk"
 msgstr "Norveg tili (Nynorsk)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:270
 #, fuzzy
@@ -1003,35 +1084,40 @@ msgstr "Kechua tili (Kusko-Kollao)"
 msgid "Serbian (Latin)"
 msgstr "Serbcha (lotincha)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:277
 #, fuzzy
 msgid "Serbian Jekavian"
 msgstr "Serb tili (Yekavskiy lahjasi)"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:278
 #, fuzzy
 msgid "Shan"
 msgstr "Shan tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:281
 #, fuzzy
 msgid "Sindhi"
 msgstr "Sindhi tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:286
 #, fuzzy
 msgid "South Ndebele"
 msgstr "Janubiy Ndebele tili"
 
-# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish kerak.
+# Agar toʻg'ri kelsa "tili" soʻzini oʻrniga -cha qoʻshimchasini ishlatish
+# kerak.
 # Oʻzbek tili emas, oʻzbekcha
 #: database-content.py:287
 #, fuzzy
@@ -1062,7 +1148,7 @@ msgstr "Namuna ilova: Dars rejalashtiruvchi"
 
 #: database-content.py:318
 msgid "Example App: Music collection"
-msgstr "Namuna ilova: Musiqa to‘plami"
+msgstr "Namuna ilova: Musiqa toʻplami"
 
 #: database-content.py:319
 msgid "Example App: Project manager"
@@ -1206,7 +1292,7 @@ msgstr "maslahatlar"
 
 #: database-content.py:355
 msgid "Windows installer"
-msgstr "Windows o‘rnatish dasturi"
+msgstr "Windows oʻrnatish dasturi"
 
 #: database-content.py:356
 msgid "Website content"
@@ -1214,7 +1300,7 @@ msgstr "Veb-sayt tarkibi"
 
 #: database-content.py:358
 msgid "Keyboard Accessibility Monitor Manual"
-msgstr "Klaviatura maxsus imkoniyatlar monitori qo‘llanmasi"
+msgstr "Klaviatura maxsus imkoniyatlar monitori qoʻllanmasi"
 
 #: database-content.py:359
 msgid "appendix"
@@ -1222,7 +1308,7 @@ msgstr "ilova"
 
 #: database-content.py:360
 msgid "Battery Charge Monitor Manual"
-msgstr "Batareya quvvati monitori qo‘llanmasi"
+msgstr "Batareya quvvati monitori qoʻllanmasi"
 
 #: database-content.py:361
 msgid "Browser Help"
@@ -1230,15 +1316,15 @@ msgstr "Brauzer yordam"
 
 #: database-content.py:362
 msgid "Build Tutorial"
-msgstr "Yaratish qo‘llanmasi"
+msgstr "Yaratish qoʻllanmasi"
 
 #: database-content.py:363
 msgid "Character Palette Manual"
-msgstr "Belgilar palitrasi qo‘llanmasi"
+msgstr "Belgilar palitrasi qoʻllanmasi"
 
 #: database-content.py:364
 msgid "Clock Applet Manual"
-msgstr "Soat appleti qo‘llanmasi"
+msgstr "Soat appleti qoʻllanmasi"
 
 #: database-content.py:365
 msgid "concepts"
@@ -1246,7 +1332,7 @@ msgstr "tushunchalar"
 
 #: database-content.py:366
 msgid "CPU Frequency Scaling Monitor Manual"
-msgstr "CPU chastotasini boshqarish monitori qo‘llanmasi"
+msgstr "CPU chastotasini boshqarish monitori qoʻllanmasi"
 
 #: database-content.py:367
 msgid "FDL License"
@@ -1269,15 +1355,15 @@ msgstr "muloqot oynalari"
 #: languages/templates/languages/language_release.html:20
 #: vertimus/templates/vertimus/vertimus_detail.html:64
 msgid "User Guide"
-msgstr "Foydalanuvchi qo‘llanmasi"
+msgstr "Foydalanuvchi qoʻllanmasi"
 
 #: database-content.py:372
 msgid "Disk Mounter Manual"
-msgstr "Disk ulash moslamasi qo‘llanmasi"
+msgstr "Disk ulash moslamasi qoʻllanmasi"
 
 #: database-content.py:373
 msgid "FAQ"
-msgstr "Tez-tez so‘raladigan savollar"
+msgstr "Tez-tez soʻraladigan savollar"
 
 #: database-content.py:374
 msgid "filters"
@@ -1321,7 +1407,7 @@ msgstr "umumiy filtr"
 
 #: database-content.py:384
 msgid "light-and-shadow filter"
-msgstr "yorug‘lik va soya filtri"
+msgstr "yorugʻlik va soya filtri"
 
 #: database-content.py:385
 msgid "map filter"
@@ -1341,11 +1427,11 @@ msgstr "veb filtri"
 
 #: database-content.py:389
 msgid "Fish Applet Manual"
-msgstr "Baliq applet uchun qo'llanma"
+msgstr "Baliq applet uchun qoʻllanma"
 
 #: database-content.py:390
 msgid "Geyes Manual"
-msgstr "Geyes qo'llanma"
+msgstr "Geyes qoʻllanma"
 
 #: database-content.py:391
 msgid "gimp"
@@ -1357,17 +1443,17 @@ msgstr "tezkor ma'lumotnoma"
 
 #: database-content.py:393
 msgid "glossary"
-msgstr "lug'at"
+msgstr "lugʻat"
 
 #: database-content.py:395
 msgid "Weather Report Manual"
-msgstr "Ob-havo hisoboti qo'llanma"
+msgstr "Ob-havo hisoboti qoʻllanma"
 
 #: database-content.py:397
 #: languages/templates/languages/_includes/language_release_summary.html:18
 #: languages/views.py:41 languages/views.py:78
-#: stats/templates/branch_detail.html:21 stats/templates/release_detail.html:29
-#: templates/_includes/footer.html:51
+#: stats/templates/branch_detail.html:21
+#: stats/templates/release_detail.html:29 templates/_includes/footer.html:51
 msgid "Documentation"
 msgstr "Dokumentatsiya"
 
@@ -1397,7 +1483,7 @@ msgstr "ranglar komponentlari menyusi"
 
 #: database-content.py:404
 msgid "colors desaturate menu"
-msgstr "ranglar menyusi to'yinmagan"
+msgstr "ranglar menyusi toʻyinmagan"
 
 #: database-content.py:405
 msgid "colors info menu"
@@ -1441,19 +1527,19 @@ msgstr "menyuni tanlang"
 
 #: database-content.py:415
 msgid "view menu"
-msgstr "ko'rish menyusi"
+msgstr "koʻrish menyusi"
 
 #: database-content.py:416
 msgid "Command Line Manual"
-msgstr "Buyruqlar qatori qo'llanma"
+msgstr "Buyruqlar qatori qoʻllanma"
 
 #: database-content.py:417
 msgid "System Monitor Manual"
-msgstr "Tizim monitor qo'llanma"
+msgstr "Tizim monitor qoʻllanma"
 
 #: database-content.py:418
 msgid "Netspeed Applet Manual"
-msgstr "Netspeed applet qo'llanma"
+msgstr "Netspeed applet qoʻllanma"
 
 #: database-content.py:419
 msgid "Strings for the 42 release notes"
@@ -1461,7 +1547,7 @@ msgstr "42 ta reliz yozuvlari uchun satrlar"
 
 #: database-content.py:420
 msgid "preface"
-msgstr "so'zboshi"
+msgstr "soʻzboshi"
 
 #: database-content.py:421
 msgid "Website"
@@ -1469,11 +1555,11 @@ msgstr "Websayt"
 
 #: database-content.py:422
 msgid "Sticky Notes Manual"
-msgstr "Yopishqoq eslatmalar qo'llanma"
+msgstr "Yopishqoq eslatmalar qoʻllanma"
 
 #: database-content.py:423
 msgid "System Administration Guide"
-msgstr "Tizim boshqaruvi bo'yicha qo'llanma"
+msgstr "Tizim boshqaruvi boʻyicha qoʻllanma"
 
 #: database-content.py:424
 msgid "toolbox"
@@ -1481,7 +1567,7 @@ msgstr "asboblar qutisi"
 
 #: database-content.py:425
 msgid "toolbox (paint)"
-msgstr "asboblar qutisi (bo'yoq)"
+msgstr "asboblar qutisi (boʻyoq)"
 
 #: database-content.py:426
 msgid "toolbox (selection)"
@@ -1493,7 +1579,7 @@ msgstr "asboblar qutisi (transformatsiya)"
 
 #: database-content.py:428
 msgid "Panel Trash Manual"
-msgstr "Panel axlat uchun qo'llanma"
+msgstr "Panel axlat uchun qoʻllanma"
 
 #: database-content.py:429
 msgid "Tutorial"
@@ -1521,11 +1607,11 @@ msgstr "Damned Lies"
 
 #: database-content.py:436
 msgid "Play audio files"
-msgstr "Audio fayllarni o'ynatish"
+msgstr "Audio fayllarni oʻynatish"
 
 #: database-content.py:437
 msgid "Eye of GNOME"
-msgstr "GNOME ning ko'zi"
+msgstr "GNOME ning koʻzi"
 
 #: database-content.py:438
 msgid "GNOME Shell Extensions Repository"
@@ -1533,11 +1619,11 @@ msgstr "GNOME Shell kengaytmalari ombori"
 
 #: database-content.py:439
 msgid "Collection of plugins for the gedit text editor"
-msgstr "gedit matn muharriri uchun plaginlar to'plami"
+msgstr "gedit matn muharriri uchun plaginlar toʻplami"
 
 #: database-content.py:440
 msgid "GIMP User Manual"
-msgstr "GIMP foydalanuvchi uchun qo'llanma"
+msgstr "GIMP foydalanuvchi uchun qoʻllanma"
 
 #: database-content.py:441
 msgid "GNOME User Documentation"
@@ -1549,7 +1635,8 @@ msgstr "LaTeX belgilarini toping"
 
 #: database-content.py:443
 msgid "Gedit Technology - Actions, Menus and Toolbars Kit"
-msgstr "Gedit texnologiyasi - harakatlar, menyular va asboblar paneli to'plami"
+msgstr ""
+"Gedit texnologiyasi - harakatlar, menyular va asboblar paneli toʻplami"
 
 #: database-content.py:444
 msgid "Gedit Technology - File loading and saving"
@@ -1573,7 +1660,7 @@ msgstr "PackageKit"
 
 #: database-content.py:449
 msgid "Python GTK 3 Tutorial"
-msgstr "Python GTK 3 bo'yicha qo'llanma"
+msgstr "Python GTK 3 boʻyicha qoʻllanma"
 
 #: database-content.py:450
 msgid "GNOME Release Notes"
@@ -1598,26 +1685,28 @@ msgstr "XKeyboard-Config"
 #: database-content.py:455
 msgid ""
 "D-Bus interface for user account query and manipulation. To submit your "
-"translation, <a href=\"https://gitlab.freedesktop.org/accountsservice/"
-"accountsservice/merge_requests\">create a merge request</a>."
+"translation, <a "
+"href=\"https://gitlab.freedesktop.org/accountsservice/accountsservice/merge_requests\">create"
+" a merge request</a>."
 msgstr ""
-"Foydalanuvchi hisobini so'rash va manipulyatsiya qilish uchun D-Bus "
-"interfeysi. Tarjimangizni yuborish uchun <a href=\"https://"
-"gitlab.freedesktop.org/accountsservice/accountsservice/"
-"merge_requests\">birlashtirish soʻrovini yarating</a> ."
+"Foydalanuvchi hisobini soʻrash va manipulyatsiya qilish uchun D-Bus "
+"interfeysi. Tarjimangizni yuborish uchun <a "
+"href=\"https://gitlab.freedesktop.org/accountsservice/accountsservice/merge_requests\">birlashtirish"
+" soʻrovini yarating</a> ."
 
 #: database-content.py:456
 msgid ""
-"Apps for GNOME is the web application you can find at <a href=\"https://"
-"apps.gnome.org/\">https://apps.gnome.org/</a>."
+"Apps for GNOME is the web application you can find at <a "
+"href=\"https://apps.gnome.org/\">https://apps.gnome.org/</a>."
 msgstr ""
-"GNOME uchun ilovalar - bu <a href=\"https://apps.gnome.org/\">https://"
-"apps.gnome.org/</a> saytida topishingiz mumkin bo'lgan veb-ilova."
+"GNOME uchun ilovalar - bu <a "
+"href=\"https://apps.gnome.org/\">https://apps.gnome.org/</a> saytida "
+"topishingiz mumkin boʻlgan veb-ilova."
 
 #: database-content.py:457
 msgid ""
-"Utilities to generate, maintain and access the AppStream Xapian database and "
-"work with AppStream metadata."
+"Utilities to generate, maintain and access the AppStream Xapian database and"
+" work with AppStream metadata."
 msgstr ""
 "AppStream Xapian ma'lumotlar bazasini yaratish, saqlash va unga kirish va "
 "AppStream metama'lumotlari bilan ishlash uchun yordamchi dasturlar."
@@ -1625,15 +1714,13 @@ msgstr ""
 #: database-content.py:458
 msgid ""
 "There is a glossary that will help translators in Chronojump localization: "
-"<a href=\"https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/"
-"chronojump_glossary_for_translators.md\">https://gitlab.gnome.org/GNOME/"
-"chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md</a>."
+"<a "
+"href=\"https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md\">https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md</a>."
 msgstr ""
-"Tarjimonlarga Chronojump lokalizatsiyasida yordam beradigan lug'at mavjud: "
-"<a href=\"https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/"
-"chronojump_glossary_for_translators.md\">https://gitlab.gnome.org/GNOME/"
-"chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md</"
-"a> ."
+"Tarjimonlarga Chronojump lokalizatsiyasida yordam beradigan lugʻat mavjud: "
+"<a "
+"href=\"https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md\">https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md</a>"
+" ."
 
 #: database-content.py:459
 msgid ""
@@ -1654,7 +1741,7 @@ msgid ""
 "of your .po files. Build will break if it’s missing."
 msgstr ""
 "Tarjimonlar: Iltimos, .po fayllaringiz sarlavhasida “SPDX-License-"
-"Identifier:” qatorini saqlang. Agar u etishmayotgan bo'lsa, qurilish "
+"Identifier:” qatorini saqlang. Agar u etishmayotgan boʻlsa, qurilish "
 "buziladi."
 
 #: database-content.py:462
@@ -1663,13 +1750,13 @@ msgid ""
 "translation, <a href=\"https://github.com/flatpak/flatpak/pulls\">create a "
 "pull request</a>."
 msgstr ""
-"Linux ilovalarini sinovdan o'tkazish va tarqatish tizimi. Tarjimangizni "
+"Linux ilovalarini sinovdan oʻtkazish va tarqatish tizimi. Tarjimangizni "
 "yuborish uchun <a href=\"https://github.com/flatpak/flatpak/pulls\">tortib "
 "olish soʻrovini yarating</a> ."
 
 #: database-content.py:463
 msgid "D-Bus service to access fingerprint readers."
-msgstr "Barmoq izlarini o'qish qurilmalariga kirish uchun D-Bus xizmati."
+msgstr "Barmoq izlarini oʻqish qurilmalariga kirish uchun D-Bus xizmati."
 
 #: database-content.py:464
 msgid ""
@@ -1682,78 +1769,64 @@ msgstr ""
 #: database-content.py:465
 msgid "A simple daemon to allow session software to update UEFI firmware."
 msgstr ""
-"Seans dasturiga UEFI mikrodasturini yangilash imkonini beruvchi oddiy xizmat "
-"dasturi."
+"Seans dasturiga UEFI mikrodasturini yangilash imkonini beruvchi oddiy xizmat"
+" dasturi."
 
 #: database-content.py:466
 msgid ""
 "See <a href=\"https://wiki.gnome.org/gbrainy/Localizing\">wiki</a> for "
 "recommendations when translating gbrainy."
 msgstr ""
-"Gbrainy ni tarjima qilish boʻyicha tavsiyalar uchun <a href=\"https://"
-"wiki.gnome.org/gbrainy/Localizing\">wiki ga</a> qarang."
+"Gbrainy ni tarjima qilish boʻyicha tavsiyalar uchun <a "
+"href=\"https://wiki.gnome.org/gbrainy/Localizing\">wiki ga</a> qarang."
 
 #: database-content.py:467
 msgid ""
-"This module requires <a href=\"https://gitlab.gnome.org/GNOME/glib/-/"
-"merge_requests\">creating a pull request</a> to submit translations. Don’t "
-"forget to provide a link to this workflow as proof that the translation has "
-"been reviewed."
+"This module requires <a "
+"href=\"https://gitlab.gnome.org/GNOME/glib/-/merge_requests\">creating a "
+"pull request</a> to submit translations. Don’t forget to provide a link to "
+"this workflow as proof that the translation has been reviewed."
 msgstr ""
-"Ushbu modul tarjimalarni yuborish uchun <a href=\"https://gitlab.gnome.org/"
-"GNOME/glib/-/merge_requests\">tortish soʻrovini yaratishni</a> talab qiladi. "
-"Tarjima ko'rib chiqilganligining isboti sifatida ushbu ish jarayoniga "
-"havolani taqdim etishni unutmang."
+"Ushbu modul tarjimalarni yuborish uchun <a "
+"href=\"https://gitlab.gnome.org/GNOME/glib/-/merge_requests\">tortish "
+"soʻrovini yaratishni</a> talab qiladi. Tarjima koʻrib chiqilganligining "
+"isboti sifatida ushbu ish jarayoniga havolani taqdim etishni unutmang."
 
 #: database-content.py:468
 msgid ""
 "glom is a user-friendly database application.<br>\n"
-"Apart from the UI messages and the documentation, there are additional "
-"example files that can be translated."
+"Apart from the UI messages and the documentation, there are additional example files that can be translated."
 msgstr ""
 "glom - bu foydalanuvchi uchun qulay ma'lumotlar bazasi ilovasi.<br> UI "
-"xabarlari va dokumentatsiyadan tashqari, tarjima qilinishi mumkin bo'lgan "
-"qo'shimcha misol fayllari mavjud."
+"xabarlari va dokumentatsiyadan tashqari, tarjima qilinishi mumkin boʻlgan "
+"qoʻshimcha misol fayllari mavjud."
 
 #: database-content.py:470
 msgid ""
-"There is a limited number of supported locales. If you use an unsupported "
-"locale, the browser (at least Chromium-based) will ignore it. <b>Google "
-"Chrome/Chromium/Vivaldi support:</b>\n"
+"There is a limited number of supported locales. If you use an unsupported locale, the browser (at least Chromium-based) will ignore it. <b>Google Chrome/Chromium/Vivaldi support:</b>\n"
 "\n"
-"<i>ar, am, bg, bn, ca, cs, da, de, el, en, en_GB, en_US, es, es_419, et, fa, "
-"fi, fil, fr, gu, he, hi, hr, hu, id, it, ja, kn, ko, lt, lv, ml, mr, ms, nl, "
-"no, pl, pt_BR, pt_PT, ro, ru, sk, sl, sr, sv, sw, ta, te, th, tr, uk, vi, "
-"zh_CN, zh_TW</i>\n"
+"<i>ar, am, bg, bn, ca, cs, da, de, el, en, en_GB, en_US, es, es_419, et, fa, fi, fil, fr, gu, he, hi, hr, hu, id, it, ja, kn, ko, lt, lv, ml, mr, ms, nl, no, pl, pt_BR, pt_PT, ro, ru, sk, sl, sr, sv, sw, ta, te, th, tr, uk, vi, zh_CN, zh_TW</i>\n"
 "\n"
 "<b>Opera supports:</b>\n"
 "\n"
-"<i>af, az, be, bg, bn, ca, cs, da, de, el, en_GB, en_US, es_419, es, fi, "
-"fil, fr_CA, fr, fy, gd, he, hi, hr, hu, id, it, ja, kk, ko, lt, lv, me, mk, "
-"ms, nb, nl, nn, pa, pl, pt_BR, pt_PT, ro, ru, sk, sr, sr_ME, sv, sw, ta, te, "
-"th, tr, uk, uz, vi, zh_CN, zh_TW, zu</i>\n"
+"<i>af, az, be, bg, bn, ca, cs, da, de, el, en_GB, en_US, es_419, es, fi, fil, fr_CA, fr, fy, gd, he, hi, hr, hu, id, it, ja, kk, ko, lt, lv, me, mk, ms, nb, nl, nn, pa, pl, pt_BR, pt_PT, ro, ru, sk, sr, sr_ME, sv, sw, ta, te, th, tr, uk, uz, vi, zh_CN, zh_TW, zu</i>\n"
 "\n"
 "<b>Firefox supports:</b>\n"
 "\n"
-"<i>ach, af, an, ar, as, ast, az, bg, bn_BD, bn_IN, br, bs, ca, cak, cs, cy, "
-"da, de, dsb, el, en, en_GB, en_US, en_ZA, eo, es_AR, es_CL, es_ES, es_MX, "
-"et, eu, fa, ff, fi, fr, fy_NL, ga_IE, gd, gl, gn, gu_IN, he, hi_IN, hr, hsb, "
-"hu, hy_AM, id, is, it, ja, ka, kab, kk, km, kn, ko, lij, lt, lv, mai, mk, "
-"ml, mr, ms, nb_NO, nl, nn_NO, or, pa_IN, pl, pt_BR, pt_PT, rm, ro, ru, si, "
-"sk, sl, son, sq, sr, sv_SE, ta, te, th, tr, uk, uz, vi, xh, zh_CN, zh_TW</i>"
+"<i>ach, af, an, ar, as, ast, az, bg, bn_BD, bn_IN, br, bs, ca, cak, cs, cy, da, de, dsb, el, en, en_GB, en_US, en_ZA, eo, es_AR, es_CL, es_ES, es_MX, et, eu, fa, ff, fi, fr, fy_NL, ga_IE, gd, gl, gn, gu_IN, he, hi_IN, hr, hsb, hu, hy_AM, id, is, it, ja, ka, kab, kk, km, kn, ko, lij, lt, lv, mai, mk, ml, mr, ms, nb_NO, nl, nn_NO, or, pa_IN, pl, pt_BR, pt_PT, rm, ro, ru, si, sk, sl, son, sq, sr, sv_SE, ta, te, th, tr, uk, uz, vi, xh, zh_CN, zh_TW</i>"
 msgstr ""
 "Qoʻllab-quvvatlanadigan mahalliy tillar soni cheklangan. Agar qoʻllab-"
 "quvvatlanmaydigan tildan foydalansangiz, brauzer (hech boʻlmaganda Chromium-"
 "ga asoslangan) uni eʼtiborsiz qoldiradi. <b>Google Chrome/Chromium/Vivaldi "
-"qo‘llab-quvvatlash:</b> <i>ar, am, bg, bn, ca, cs, da, de, el, en, en_GB, "
+"qoʻllab-quvvatlash:</b> <i>ar, am, bg, bn, ca, cs, da, de, el, en, en_GB, "
 "en_US, es, es_419, et, fa, fi, fil, fr, gu, he, hi, hr, hu, id, it, ja, kn, "
 "ko, lt, mr, no, mls pt_BR, pt_PT, ro, ru, sk, sl, sr, sv, sw, ta, te, th, "
-"tr, uk, vi, zh_CN, zh_TW</i> <b>Opera qo'llab-quvvatlaydi:</b> <i>af, az, "
+"tr, uk, vi, zh_CN, zh_TW</i> <b>Opera qoʻllab-quvvatlaydi:</b> <i>af, az, "
 "be, bg, bn, ca, cs, da, de, el, en_GB, en_US, es_fr_419, f_fr, fil, gd, u, "
 "salom, hr, hu, id, it, ja, kk, ko, lt, lv, me, mk, ms, nb, nl, nn, pa, pl, "
 "pt_BR, pt_PT, ro, ru, sk, sr, sr_ME, sv, sw, ta, te, th, uz, tr, vii, "
-"Firefox_Z</i> <b>, qo'llab-quvvatlaydi:</b> <i>ach, af, an, ar, as, ast, az, "
-"bg, bn_BD, bn_IN, br, bs, ca, cak, cs, cy, da, de, dsb, el, en, en_GB, "
+"Firefox_Z</i> <b>, qoʻllab-quvvatlaydi:</b> <i>ach, af, an, ar, as, ast, az,"
+" bg, bn_BD, bn_IN, br, bs, ca, cak, cs, cy, da, de, dsb, el, en, en_GB, "
 "en_US, en_ZA, eo, es_AR, es_CL, es_ES, fa, effM, es, fy_NL, ga_IE, gd, gl, "
 "gn, gu_IN, u, hi_IN, hr, hsb, hu, hy_AM, id, is, it, ja, ka, kab, kk, km, "
 "kn, ko, lij, lt, lv, mai, mk, ml, mr, msn, mk, ml, mr, ms, NO_NO, yoki pl, "
@@ -1762,39 +1835,42 @@ msgstr ""
 
 #: database-content.py:481
 msgid ""
-"Note that some strings visible in the gnome-tweaks interface are coming from "
-"the <a href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-"
+"Note that some strings visible in the gnome-tweaks interface are coming from"
+" the <a href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-"
 "schemas</a> module."
 msgstr ""
-"E'tibor bering, gnome-tweaks interfeysida ko'rinadigan ba'zi satrlar <a "
+"E'tibor bering, gnome-tweaks interfeysida koʻrinadigan ba'zi satrlar <a "
 "href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-schemas</a> "
 "modulidan keladi."
 
 #: database-content.py:482
 msgid ""
 "To ease localization, gallery of GNOME Video Effects has been set up here: "
-"<a href=\"https://wiki.gnome.org/Projects/GnomeVideoEffects/"
-"Effects\">https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects</a>."
+"<a "
+"href=\"https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects\">https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects</a>."
 msgstr ""
-"Lokalizatsiyani osonlashtirish uchun GNOME Video Effects galereyasi bu yerda "
-"oʻrnatildi: <a href=\"https://wiki.gnome.org/Projects/GnomeVideoEffects/"
-"Effects\">https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects</a> ."
+"Lokalizatsiyani osonlashtirish uchun GNOME Video Effects galereyasi bu yerda"
+" oʻrnatildi: <a "
+"href=\"https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects\">https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects</a>"
+" ."
 
 #: database-content.py:483
 msgid ""
 "Useful information on localization of the Gnumeric analysis tools can be "
-"found in the <a href =\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/"
-"po/README.analysis\">po/README.analysis</a> file, and <a href =\"https://"
-"gitlab.gnome.org/GNOME/gnumeric/raw/master/po-functions/"
-"README.translators\">po-functions/README.translators</a> has useful "
-"information on localization of Gnumeric functions."
+"found in the <a href "
+"=\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/po/README.analysis\">po/README.analysis</a>"
+" file, and <a href =\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/po-"
+"functions/README.translators\">po-functions/README.translators</a> has "
+"useful information on localization of Gnumeric functions."
 msgstr ""
 "Gnumeric tahlil vositalarini lokalizatsiya qilish boʻyicha foydali "
-"maʼlumotlarni <a href =\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/"
-"po/README.analysis\">po/README.analysis</a> faylida topish mumkin, <a href "
-"=\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/po-functions/"
-"README.translators\">po-functions/README.translators</a> esa Gnumeric "
-"funksiyalarini lokalizatsiya qilish boʻyicha foydali maʼlumotlarga ega."
+"maʼlumotlarni <a href "
+"=\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/po/README.analysis\">po/README.analysis</a>"
+" faylida topish mumkin, <a href "
+"=\"https://gitlab.gnome.org/GNOME/gnumeric/raw/master/po-"
+"functions/README.translators\">po-functions/README.translators</a> esa "
+"Gnumeric funksiyalarini lokalizatsiya qilish boʻyicha foydali maʼlumotlarga "
+"ega."
 
 #: database-content.py:484
 msgid ""
@@ -1802,7 +1878,7 @@ msgid ""
 "interface that show those strings."
 msgstr ""
 "Bu tarjima qilish uchun past ustuvor modul, chunki hozirda ushbu satrlarni "
-"ko'rsatadigan foydalanuvchi interfeysi mavjud emas."
+"koʻrsatadigan foydalanuvchi interfeysi mavjud emas."
 
 #: database-content.py:485
 msgid "GStreamer open-source multimedia framework core library."
@@ -1816,26 +1892,28 @@ msgid ""
 "unless GTK build will break in /po-properties."
 msgstr ""
 "Esda tutingki, GTK 4.6 va undan oldingi versiyalarida ham po va po-"
-"properties UI domenlariga ega. Agar biron bir domenga yangi til qo'shsangiz, "
-"GTK tuzilishi /po-properties-da buzilmasa ham, ulardan birida 0 ta tarjima "
-"bo'lsa ham, Git-ga ikkala faylni topshirishingiz kerak."
+"properties UI domenlariga ega. Agar biron bir domenga yangi til qoʻshsangiz,"
+" GTK tuzilishi /po-properties-da buzilmasa ham, ulardan birida 0 ta tarjima "
+"boʻlsa ham, Git-ga ikkala faylni topshirishingiz kerak."
 
 #: database-content.py:487
 msgid ""
-"malcontent implements support for restricting the type of content accessible "
-"to non-administrator accounts on a Linux system. To submit your translation, "
-"<a href=\"https://docs.gitlab.com/ee/user/project/repository/"
-"forking_workflow.html\">fork the project</a>, edit your translation file in "
-"the forked project and <a href=\"https://docs.gitlab.com/ee/user/project/"
-"merge_requests/creating_merge_requests.html\">create a merge request</a>."
+"malcontent implements support for restricting the type of content accessible"
+" to non-administrator accounts on a Linux system. To submit your "
+"translation, <a "
+"href=\"https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html\">fork"
+" the project</a>, edit your translation file in the forked project and <a "
+"href=\"https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html\">create"
+" a merge request</a>."
 msgstr ""
-"malcontent Linux tizimida administrator bo'lmagan hisoblarga kirish mumkin "
-"bo'lgan kontent turini cheklashni qo'llab-quvvatlaydi. Tarjimangizni "
-"yuborish uchun <a href=\"https://docs.gitlab.com/ee/user/project/repository/"
-"forking_workflow.html\">loyihani ajratib oling</a> , tarjima faylingizni "
-"forklangan loyihada tahrirlang va <a href=\"https://docs.gitlab.com/ee/user/"
-"project/merge_requests/creating_merge_requests.html\">birlashtirish "
-"soʻrovini yarating</a> ."
+"malcontent Linux tizimida administrator boʻlmagan hisoblarga kirish mumkin "
+"boʻlgan kontent turini cheklashni qoʻllab-quvvatlaydi. Tarjimangizni "
+"yuborish uchun <a "
+"href=\"https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html\">loyihani"
+" ajratib oling</a> , tarjima faylingizni forklangan loyihada tahrirlang va "
+"<a "
+"href=\"https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html\">birlashtirish"
+" soʻrovini yarating</a> ."
 
 #: database-content.py:488
 msgid ""
@@ -1844,19 +1922,22 @@ msgid ""
 "broadband/ModemManager/merge_requests\">create a merge request</a>."
 msgstr ""
 "Mobil keng polosali modemlar bilan aloqa qilish uchun yagona yuqori "
-"darajadagi API. Tarjimangizni yuborish uchun <a href=\"https://"
-"gitlab.freedesktop.org/mobile-broadband/ModemManager/"
-"merge_requests\">birlashtirish soʻrovini yarating</a> ."
+"darajadagi API. Tarjimangizni yuborish uchun <a "
+"href=\"https://gitlab.freedesktop.org/mobile-"
+"broadband/ModemManager/merge_requests\">birlashtirish soʻrovini yarating</a>"
+" ."
 
 #: database-content.py:489
 msgid ""
 "Network connection manager and user applications. To submit your "
-"translation, <a href=\"https://gitlab.freedesktop.org/NetworkManager/"
-"NetworkManager/merge_requests\">create a merge request</a>."
+"translation, <a "
+"href=\"https://gitlab.freedesktop.org/NetworkManager/NetworkManager/merge_requests\">create"
+" a merge request</a>."
 msgstr ""
 "Tarmoq ulanishi menejeri va foydalanuvchi ilovalari. Tarjimangizni yuborish "
-"uchun <a href=\"https://gitlab.freedesktop.org/NetworkManager/NetworkManager/"
-"merge_requests\">birlashtirish soʻrovini yarating</a> ."
+"uchun <a "
+"href=\"https://gitlab.freedesktop.org/NetworkManager/NetworkManager/merge_requests\">birlashtirish"
+" soʻrovini yarating</a> ."
 
 #: database-content.py:490
 msgid "PKCS#11 cryptography framework for multiple consumers."
@@ -1867,36 +1948,36 @@ msgid ""
 "System designed to make installing and updating software on your computer "
 "easier."
 msgstr ""
-"Kompyuteringizga dasturiy ta'minotni o'rnatish va yangilashni osonlashtirish "
-"uchun mo'ljallangan tizim."
+"Kompyuteringizga dasturiy ta'minotni oʻrnatish va yangilashni osonlashtirish"
+" uchun moʻljallangan tizim."
 
 #: database-content.py:492
 msgid ""
-"Multimedia processing graphs. To submit your translation, <a href=\"https://"
-"gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">create a merge "
-"request</a>."
+"Multimedia processing graphs. To submit your translation, <a "
+"href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">create"
+" a merge request</a>."
 msgstr ""
 "Multimedia ishlov berish grafiklari. Tarjimangizni yuborish uchun <a "
-"href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/"
-"merge_requests\">birlashtirish soʻrovini yarating</a> ."
+"href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">birlashtirish"
+" soʻrovini yarating</a> ."
 
 #: database-content.py:493
 msgid ""
 "Plymouth provides the graphical boot-splash and offline-updates status "
 "splash on most distributions."
 msgstr ""
-"Plymouth ko'pgina distribyutorlarda grafik yuklash va oflayn yangilanish "
+"Plymouth koʻpgina distribyutorlarda grafik yuklash va oflayn yangilanish "
 "holatini taqdim etadi."
 
 #: database-content.py:494
 msgid ""
 "Toolkit for defining and handling authorizations. To submit your "
-"translation, <a href=\"https://github.com/polkit-org/polkit/pulls\">create a "
-"merge request</a>."
+"translation, <a href=\"https://github.com/polkit-org/polkit/pulls\">create a"
+" merge request</a>."
 msgstr ""
-"Avtorizatsiyani aniqlash va qayta ishlash uchun asboblar to'plami. "
-"Tarjimangizni yuborish uchun <a href=\"https://github.com/polkit-org/polkit/"
-"pulls\">birlashtirish soʻrovini yarating</a> ."
+"Avtorizatsiyani aniqlash va qayta ishlash uchun asboblar toʻplami. "
+"Tarjimangizni yuborish uchun <a href=\"https://github.com/polkit-"
+"org/polkit/pulls\">birlashtirish soʻrovini yarating</a> ."
 
 #: database-content.py:495
 msgid ""
@@ -1908,10 +1989,10 @@ msgstr ""
 
 #: database-content.py:496
 msgid ""
-"D-Bus system service that manages discovery and enrollment in realms/domains "
-"like Active Directory or IPA."
+"D-Bus system service that manages discovery and enrollment in realms/domains"
+" like Active Directory or IPA."
 msgstr ""
-"Active Directory yoki IPA kabi sohalarda/domenlarda kashfiyot va ro'yxatga "
+"Active Directory yoki IPA kabi sohalarda/domenlarda kashfiyot va roʻyxatga "
 "olishni boshqaradigan D-Bus tizimi xizmati."
 
 #: database-content.py:497
@@ -1924,30 +2005,34 @@ msgstr "Tizim va sessiya menejeri."
 
 #: database-content.py:499
 msgid ""
-"Translations should be submitted as <a href=\"https://bugs.webkit.org/"
-"enter_bug.cgi?product=WebKit&component=WebKitGTK\">bug reports</a>. Please "
-"remember to select “WebKitGTK” as the component, so that the report doesn’t "
-"get lost."
+"Translations should be submitted as <a "
+"href=\"https://bugs.webkit.org/enter_bug.cgi?product=WebKit&component=WebKitGTK\">bug"
+" reports</a>. Please remember to select “WebKitGTK” as the component, so "
+"that the report doesn’t get lost."
 msgstr ""
-"Tarjimalar <a href=\"https://bugs.webkit.org/enter_bug.cgi?"
-"product=WebKit&component=WebKitGTK\">xato hisobotlari</a> sifatida taqdim "
-"etilishi kerak. Hisobot yo&#39;qolib qolmasligi uchun komponent sifatida "
-"&quot;WebKitGTK&quot; ni tanlashni unutmang."
+"Tarjimalar <a "
+"href=\"https://bugs.webkit.org/enter_bug.cgi?product=WebKit&component=WebKitGTK\">xato"
+" hisobotlari</a> sifatida taqdim etilishi kerak. Hisobot yo&#39;qolib "
+"qolmasligi uchun komponent sifatida &quot;WebKitGTK&quot; ni tanlashni "
+"unutmang."
 
 #: database-content.py:500
 msgid ""
 "Session / policy manager implementation for PipeWire. To submit your "
-"translation, <a href=\"https://gitlab.freedesktop.org/pipewire/wireplumber/-/"
-"merge_requests\">create a merge request</a>."
+"translation, <a "
+"href=\"https://gitlab.freedesktop.org/pipewire/wireplumber/-/merge_requests\">create"
+" a merge request</a>."
 msgstr ""
 "PipeWire uchun sessiya/siyosat menejerini amalga oshirish. Tarjimangizni "
-"yuborish uchun <a href=\"https://gitlab.freedesktop.org/pipewire/"
-"wireplumber/-/merge_requests\">birlashtirish soʻrovini yarating</a> ."
+"yuborish uchun <a "
+"href=\"https://gitlab.freedesktop.org/pipewire/wireplumber/-/merge_requests\">birlashtirish"
+" soʻrovini yarating</a> ."
 
 #: database-content.py:501
 msgid ""
-"Desktop integration portal. To submit your translation, <a href=\"https://"
-"github.com/flatpak/xdg-desktop-portal/pulls\">create a pull request</a>."
+"Desktop integration portal. To submit your translation, <a "
+"href=\"https://github.com/flatpak/xdg-desktop-portal/pulls\">create a pull "
+"request</a>."
 msgstr ""
 "Ish stoli integratsiya portali. Tarjimangizni yuborish uchun <a "
 "href=\"https://github.com/flatpak/xdg-desktop-portal/pulls\">tortib olish "
@@ -2065,7 +2150,7 @@ msgstr "Evolution va boshqalar"
 
 #: database-content.py:526
 msgid "freedesktop.org (non-GNOME)"
-msgstr "freedesktop.org (GNOME bo'lmagan)"
+msgstr "freedesktop.org (GNOME boʻlmagan)"
 
 #: database-content.py:527
 msgid "Default"
@@ -2109,7 +2194,7 @@ msgstr "Maxsus imkoniyatlar"
 
 #: database-content.py:537
 msgid "Games"
-msgstr "O’yinlar"
+msgstr "Oʻyinlar"
 
 #: database-content.py:538
 msgid "Backends"
@@ -2121,7 +2206,7 @@ msgstr "Asosiy kutubxonalar"
 
 #: database-content.py:540
 msgid "Extra Libraries"
-msgstr "Qo'shimcha kutubxonalar"
+msgstr "Qoʻshimcha kutubxonalar"
 
 #: database-content.py:541
 msgid "Legacy Desktop"
@@ -2177,11 +2262,12 @@ msgstr "Ushbu tildagi tarjimalarni boshqaradigan jamoa."
 
 #: languages/models.py:44
 msgid "Plural form"
-msgstr "Ko‘plik shakli"
+msgstr "Koʻplik shakli"
 
 #: languages/models.py:47
-msgid "The plural form of the language, such as ‘nplurals=2; plural=(n != 1);’"
-msgstr "Tilning ko‘plik shakli, masalan, ‘nplurals=2; ko‘plik=(n != 1);’"
+msgid ""
+"The plural form of the language, such as ‘nplurals=2; plural=(n != 1);’"
+msgstr "Tilning koʻplik shakli, masalan, ‘nplurals=2; koʻplik=(n != 1);’"
 
 #: languages/models.py:86
 #, python-format
@@ -2247,7 +2333,7 @@ msgstr "GNOME tillari"
 
 #: languages/templates/languages/language_list.html:10
 msgid "My Languages and Languages Suggestions"
-msgstr "Mening tillarim va tillar bo'yicha takliflarim"
+msgstr "Mening tillarim va tillar boʻyicha takliflarim"
 
 #: languages/templates/languages/language_list.html:11
 #: teams/templates/teams/_includes/team_suggestions.html:5
@@ -2276,28 +2362,28 @@ msgstr "Hech qanday tarjima guruhisiz tillar"
 #: languages/templates/languages/language_list.html:39
 msgid ""
 "These languages may have translations, but still don’t have a language team "
-"in Damned Lies. If you wish to start a team, please read <a href=\"https://"
-"wiki.gnome.org/TranslationProject/StartingATeam/\">the documentation to "
-"start a new team</a>. It may not always be necessary to start a new team for "
-"every existing language. For instance, the existence of the <code>fr_FR</"
-"code> (French spoken in France) language should not lead to the creation of "
-"a team that is different from the already existing <code>fr</code> (French) "
-"team."
+"in Damned Lies. If you wish to start a team, please read <a "
+"href=\"https://wiki.gnome.org/TranslationProject/StartingATeam/\">the "
+"documentation to start a new team</a>. It may not always be necessary to "
+"start a new team for every existing language. For instance, the existence of"
+" the <code>fr_FR</code> (French spoken in France) language should not lead "
+"to the creation of a team that is different from the already existing "
+"<code>fr</code> (French) team."
 msgstr ""
 "Bu tillarda tarjimalar boʻlishi mumkin, ammo Damned Liesda hali ham til "
-"jamoasi yoʻq. Agar siz jamoa ochmoqchi bo'lsangiz, <a href=\"https://"
-"wiki.gnome.org/TranslationProject/StartingATeam/\">yangi jamoani boshlash "
-"uchun dokumentatsiyani</a> o'qing. Har bir mavjud til uchun yangi jamoani "
-"boshlash har doim ham zarur bo'lmasligi mumkin. Masalan, <code>fr_FR</code> "
-"(Frantsiyada so'zlashuvchi frantsuz) tilining mavjudligi allaqachon mavjud "
-"bo'lgan <code>fr</code> (frantsuz) jamoasidan farq qiladigan jamoani "
-"yaratishga olib kelmasligi kerak."
+"jamoasi yoʻq. Agar siz jamoa ochmoqchi boʻlsangiz, <a "
+"href=\"https://wiki.gnome.org/TranslationProject/StartingATeam/\">yangi "
+"jamoani boshlash uchun dokumentatsiyani</a> oʻqing. Har bir mavjud til uchun"
+" yangi jamoani boshlash har doim ham zarur boʻlmasligi mumkin. Masalan, "
+"<code>fr_FR</code> (Frantsiyada soʻzlashuvchi frantsuz) tilining mavjudligi "
+"allaqachon mavjud boʻlgan <code>fr</code> (frantsuz) jamoasidan farq "
+"qiladigan jamoani yaratishga olib kelmasligi kerak."
 
 #: languages/templates/languages/language_release.html:11
 #: stats/templates/release_detail.html:11
 msgid ""
-"The modules of this release are not part of the GNOME Git repository. Please "
-"check each module’s web page to see where to send translations."
+"The modules of this release are not part of the GNOME Git repository. Please"
+" check each module’s web page to see where to send translations."
 msgstr ""
 "Ushbu nashrning modullari GNOME Git omborining bir qismi emas. Tarjimalarni "
 "qaerga yuborishni bilish uchun har bir modulning veb-sahifasini tekshiring."
@@ -2314,7 +2400,7 @@ msgstr "Tugallangan modullarni yashirish"
 #: languages/templates/languages/language_release_stats.html:28
 #: people/templates/people/_includes/person_contribution_activity.html:26
 msgid "Show completed modules"
-msgstr "Tugallangan modullarni ko'rsatish"
+msgstr "Tugallangan modullarni koʻrsatish"
 
 #: languages/templates/languages/language_release_stats.html:35
 #, python-format
@@ -2372,17 +2458,19 @@ msgstr "UI tarjimalari (qisqartirilgan)"
 msgid "Original strings"
 msgstr "Asl iplar"
 
-#. Translators: a forge account is a username on a software forge platform like GitLab
+#. Translators: a forge account is a username on a software forge platform
+#. like GitLab
 #: people/admin.py:26
 msgid "Your profile is missing your GitLab forge account on Damned Lies"
 msgstr "Profilingizda Damned Lies-dagi GitLab forge hisobingiz etishmayapti"
 
 #: people/admin.py:43
 msgid ""
-"Send messages to coordinators that did not set their GitLab profile username."
+"Send messages to coordinators that did not set their GitLab profile "
+"username."
 msgstr ""
-"GitLab profilining foydalanuvchi nomini o'rnatmagan muvofiqlashtiruvchilarga "
-"xabarlar yuboring."
+"GitLab profilining foydalanuvchi nomini oʻrnatmagan muvofiqlashtiruvchilarga"
+" xabarlar yuboring."
 
 #: people/admin.py:68
 #, python-format
@@ -2390,8 +2478,8 @@ msgid ""
 "Failed to send email to coordinators to inform them that their GitLab "
 "account is not set. The error was %(error)s."
 msgstr ""
-"Muvofiqlashtiruvchilarga ularning GitLab hisobi sozlanmaganligi haqida xabar "
-"berish uchun elektron pochta xabarini yuborib bo‘lmadi. Xato %(error)s edi."
+"Muvofiqlashtiruvchilarga ularning GitLab hisobi sozlanmaganligi haqida xabar"
+" berish uchun elektron pochta xabarini yuborib boʻlmadi. Xato %(error)s edi."
 
 #: people/admin.py:77
 msgid "custom lookups"
@@ -2433,7 +2521,8 @@ msgstr "Tasdiqlangan foydalanuvchi"
 msgid "Email"
 msgstr "Email"
 
-#. Translators: a forge account is a username on a software forge platform like GitLab
+#. Translators: a forge account is a username on a software forge platform
+#. like GitLab
 #: people/admin.py:197
 msgid "Forge account"
 msgstr "Ish hisob"
@@ -2443,7 +2532,7 @@ msgid ""
 "There is no user matching this email address. Please, check the email "
 "address you entered."
 msgstr ""
-"Ushbu elektron pochta manziliga mos keladigan foydalanuvchi yo'q. Iltimos, "
+"Ushbu elektron pochta manziliga mos keladigan foydalanuvchi yoʻq. Iltimos, "
 "kiritgan elektron pochta manzilingizni tekshiring."
 
 #: people/forms.py:76
@@ -2472,7 +2561,8 @@ msgstr "Rasm faylini olishda xatolik yuz berdi (%(exception)s)"
 msgid ""
 "Sorry, an error occurred while trying to get image size (%(exception)s)."
 msgstr ""
-"Kechirasiz, rasm hajmini (%(exception)s) olishga urinishda xatolik yuz berdi."
+"Kechirasiz, rasm hajmini (%(exception)s) olishga urinishda xatolik yuz "
+"berdi."
 
 #: people/forms.py:156
 msgid "The URL you provided seems not to correspond to a valid image."
@@ -2485,7 +2575,7 @@ msgid ""
 "servers username patterns. For instance, @%(username)s:gnome.org is a valid "
 "Matrix username, as well as @%(username)s:matrix.org."
 msgstr ""
-"Siz kiritgan Matrix foydalanuvchi nomi noto‘g‘ri. U Matrix serverlari "
+"Siz kiritgan Matrix foydalanuvchi nomi notoʻgʻri. U Matrix serverlari "
 "foydalanuvchi nomi naqshlariga mos kelmaydi. Misol uchun, "
 "@%(username)s:gnome.org haqiqiy Matrix foydalanuvchi nomi, shuningdek "
 "@%(username)s:matrix.org."
@@ -2529,7 +2619,7 @@ msgid ""
 "Your full Matrix username you use for GNOME. It has the form "
 "@user:domain.tld."
 msgstr ""
-"GNOME uchun foydalanadigan to'liq Matrix foydalanuvchi nomingiz. U "
+"GNOME uchun foydalanadigan toʻliq Matrix foydalanuvchi nomingiz. U "
 "@user:domain.tld shakliga ega."
 
 #: people/models.py:161
@@ -2574,20 +2664,21 @@ msgstr ""
 msgid "people"
 msgstr "odamlar"
 
-#. Translators: a forge account is a username on a software forge platform like GitLab
+#. Translators: a forge account is a username on a software forge platform
+#. like GitLab
 #: people/models.py:298
 msgid "The forge account name is missing from the user profile."
-msgstr "Ish akkaunt nomi foydalanuvchi profilida yo'q."
+msgstr "Ish akkaunt nomi foydalanuvchi profilida yoʻq."
 
 #: people/models.py:307
 msgid "The username on the GNOME forum is missing from the user profile."
-msgstr "GNOME forumidagi foydalanuvchi nomi foydalanuvchi profilida yo'q."
+msgstr "GNOME forumidagi foydalanuvchi nomi foydalanuvchi profilida yoʻq."
 
 #: people/models.py:329
 #, python-format
 msgid ""
-"Unable to determine whether the forge account exists for the user identified "
-"as %s."
+"Unable to determine whether the forge account exists for the user identified"
+" as %s."
 msgstr ""
 "%s sifatida belgilangan foydalanuvchi uchun soxta hisob mavjudligi yoki "
 "yoʻqligini aniqlab boʻlmadi."
@@ -2624,7 +2715,7 @@ msgstr "Holat"
 
 #: people/templates/people/_includes/person_maintains_modules.html:1
 msgid "Module maintenance"
-msgstr "Modulga texnik xizmat ko'rsatish"
+msgstr "Modulga texnik xizmat koʻrsatish"
 
 #: people/templates/people/_includes/person_overview.html:14
 msgid "Web:"
@@ -2674,7 +2765,7 @@ msgstr ""
 #: people/templates/people/_includes/person_team_membership.html:20
 #, python-format
 msgid "Go to “%(team_name)s” team"
-msgstr "“%(team_name)s” jamoasiga o‘ting"
+msgstr "“%(team_name)s” jamoasiga oʻting"
 
 #: people/templates/people/_includes/person_team_membership.html:25
 #, python-format
@@ -2695,12 +2786,12 @@ msgid ""
 "Enter the email address associated to your Damned Lies account and you will "
 "receive a link to connect to it in your mailbox."
 msgstr ""
-"Damned Lies akkauntingiz bilan bog'langan elektron pochta manzilini kiriting "
-"va siz pochta qutingizga ulanish uchun havola olasiz."
+"Damned Lies akkauntingiz bilan bogʻlangan elektron pochta manzilini kiriting"
+" va siz pochta qutingizga ulanish uchun havola olasiz."
 
 #: people/templates/people/magic_login/authentication_form.html:15
 msgid "Ask for an Authentication Link"
-msgstr "Autentifikatsiya havolasini so'rang"
+msgstr "Autentifikatsiya havolasini soʻrang"
 
 #: people/templates/people/notifications/coordinator_without_forge_account.html:1
 #, fuzzy, python-format
@@ -2708,38 +2799,29 @@ msgstr "Autentifikatsiya havolasini so'rang"
 #| "\n"
 #| "Dear %(username)s,\n"
 #| "\n"
-#| "This is an automatic email from Damned Lies (%(site_domain)s) to inform "
-#| "you that your profile is missing\n"
-#| "your username on GitLab (%(forge_url)s). As you are the coordinator of at "
-#| "least one team, you are asked\n"
-#| "to register on this platform and update your Damned Lies profile with "
-#| "your GitLab account.\n"
+#| "This is an automatic email from Damned Lies (%(site_domain)s) to inform you that your profile is missing\n"
+#| "your username on GitLab (%(forge_url)s). As you are the coordinator of at least one team, you are asked\n"
+#| "to register on this platform and update your Damned Lies profile with your GitLab account.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "<p>%(username)s,</p>\n"
 "\n"
-"<p>This is an automatic email from <a href=\"%(site_domain)s\">Damned Lies</"
-"a> to inform you that your profile is missing\n"
-"your username on <a href=\"%(forge_url)s\">GNOME’s GitLab</a>. As you "
-"coordinate at least one team, you are asked\n"
-"to register on this platform and update your Damned Lies profile with your "
-"GitLab account.</p>\n"
+"<p>This is an automatic email from <a href=\"%(site_domain)s\">Damned Lies</a> to inform you that your profile is missing\n"
+"your username on <a href=\"%(forge_url)s\">GNOME’s GitLab</a>. As you coordinate at least one team, you are asked\n"
+"to register on this platform and update your Damned Lies profile with your GitLab account.</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Bu Damned Lies (%(site_domain)s) tomonidan profilingiz etishmayotganligi "
-"haqida sizga xabar beradigan avtomatik xat\n"
-"GitLab'dagi foydalanuvchi nomingiz (%(forge_url)s). Siz kamida bitta "
-"jamoaning koordinatori bo'lganingiz uchun sizdan so'raladi\n"
-"ushbu platformada ro'yxatdan o'ting va GitLab hisob qaydnomangiz bilan "
-"Damned Lies profilingizni yangilang.\n"
+"Bu Damned Lies (%(site_domain)s) tomonidan profilingiz etishmayotganligi haqida sizga xabar beradigan avtomatik xat\n"
+"GitLab'dagi foydalanuvchi nomingiz (%(forge_url)s). Siz kamida bitta jamoaning koordinatori boʻlganingiz uchun sizdan soʻraladi\n"
+"ushbu platformada roʻyxatdan oʻting va GitLab hisob qaydnomangiz bilan Damned Lies profilingizni yangilang.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/coordinator_without_forge_account.txt:1
 #, fuzzy, python-format
@@ -2747,38 +2829,29 @@ msgstr ""
 #| "\n"
 #| "Dear %(username)s,\n"
 #| "\n"
-#| "This is an automatic email from Damned Lies (%(site_domain)s) to inform "
-#| "you that your profile is missing\n"
-#| "your username on GitLab (%(forge_url)s). As you are the coordinator of at "
-#| "least one team, you are asked\n"
-#| "to register on this platform and update your Damned Lies profile with "
-#| "your GitLab account.\n"
+#| "This is an automatic email from Damned Lies (%(site_domain)s) to inform you that your profile is missing\n"
+#| "your username on GitLab (%(forge_url)s). As you are the coordinator of at least one team, you are asked\n"
+#| "to register on this platform and update your Damned Lies profile with your GitLab account.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "%(username)s,\n"
 "\n"
-"This is an automatic email from Damned Lies (%(site_domain)s) to inform you "
-"that your profile is missing\n"
-"your username on GNOME’s GitLab (%(forge_url)s). As you coordinate at least "
-"one team, you are asked\n"
-"to register on this platform and update your Damned Lies profile with your "
-"GitLab account.\n"
+"This is an automatic email from Damned Lies (%(site_domain)s) to inform you that your profile is missing\n"
+"your username on GNOME’s GitLab (%(forge_url)s). As you coordinate at least one team, you are asked\n"
+"to register on this platform and update your Damned Lies profile with your GitLab account.\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Bu Damned Lies (%(site_domain)s) tomonidan profilingiz etishmayotganligi "
-"haqida sizga xabar beradigan avtomatik xat\n"
-"GitLab'dagi foydalanuvchi nomingiz (%(forge_url)s). Siz kamida bitta "
-"jamoaning koordinatori bo'lganingiz uchun sizdan so'raladi\n"
-"ushbu platformada ro'yxatdan o'ting va GitLab hisob qaydnomangiz bilan "
-"Damned Lies profilingizni yangilang.\n"
+"Bu Damned Lies (%(site_domain)s) tomonidan profilingiz etishmayotganligi haqida sizga xabar beradigan avtomatik xat\n"
+"GitLab'dagi foydalanuvchi nomingiz (%(forge_url)s). Siz kamida bitta jamoaning koordinatori boʻlganingiz uchun sizdan soʻraladi\n"
+"ushbu platformada roʻyxatdan oʻting va GitLab hisob qaydnomangiz bilan Damned Lies profilingizni yangilang.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/email_update/confirmation_message.html:1
 #, fuzzy, python-format
@@ -2786,52 +2859,38 @@ msgstr ""
 #| "\n"
 #| "Dear %(username)s,\n"
 #| "\n"
-#| "You asked to update the email of your profile on %(site_domain)s. You can "
-#| "confirm this action by clicking the following link:\n"
+#| "You asked to update the email of your profile on %(site_domain)s. You can confirm this action by clicking the following link:\n"
 #| "%(email_update_confirmation_link)s\n"
 #| "\n"
-#| "The link expires after five minutes (at %(expiration_date)s) and you can "
-#| "use it only once.\n"
+#| "The link expires after five minutes (at %(expiration_date)s) and you can use it only once.\n"
 #| "\n"
-#| "If you are not the one who requested this connection, please contact us "
-#| "on a GNOME-18n matrix channel.\n"
+#| "If you are not the one who requested this connection, please contact us on a GNOME-18n matrix channel.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "<p>%(username)s,</p>\n"
 "\n"
-"<p>You asked to update the email of your profile on <a "
-"href=\"%(site_domain)s\">GNOME Damned Lies</a>. You can confirm this action "
-"by clicking the following link:</p>\n"
-"<p><a "
-"href=\"%(email_update_confirmation_link)s\">%(email_update_confirmation_link)s</"
-"a></p>\n"
+"<p>You asked to update the email of your profile on <a href=\"%(site_domain)s\">GNOME Damned Lies</a>. You can confirm this action by clicking the following link:</p>\n"
+"<p><a href=\"%(email_update_confirmation_link)s\">%(email_update_confirmation_link)s</a></p>\n"
 "\n"
-"<p>The link expires after five minutes (at %(expiration_date)s) and you can "
-"use it only once.</p>\n"
+"<p>The link expires after five minutes (at %(expiration_date)s) and you can use it only once.</p>\n"
 "\n"
-"<p>If you are not the one who requested this connection, please contact us "
-"on <em>#i18n:gnome.org</em> (<a href=\"https://handbook.gnome.org/get-in-"
-"touch.html#matrix\">more on Matrix in the GNOME handbook</a>).</p>\n"
+"<p>If you are not the one who requested this connection, please contact us on <em>#i18n:gnome.org</em> (<a href=\"https://handbook.gnome.org/get-in-touch.html#matrix\">more on Matrix in the GNOME handbook</a>).</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Siz %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni "
-"so‘ragansiz. Ushbu amalni quyidagi havolani bosish orqali tasdiqlashingiz "
-"mumkin:\n"
+"Siz %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni soʻragansiz. Ushbu amalni quyidagi havolani bosish orqali tasdiqlashingiz mumkin:\n"
 "%(email_update_confirmation_link)s\n"
 "\n"
-"Havola muddati besh daqiqadan so‘ng (%(expiration_date)s da) tugaydi va "
-"undan faqat bir marta foydalanishingiz mumkin.\n"
+"Havola muddati besh daqiqadan soʻng (%(expiration_date)s da) tugaydi va undan faqat bir marta foydalanishingiz mumkin.\n"
 "\n"
-"Agar siz ushbu ulanishni so'ragan bo'lmasangiz, iltimos biz bilan GNOME-18n "
-"matritsa kanali orqali bog'laning.\n"
+"Agar siz ushbu ulanishni soʻragan boʻlmasangiz, iltimos biz bilan GNOME-18n matritsa kanali orqali bogʻlaning.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/email_update/confirmation_message.txt:1
 #, fuzzy, python-format
@@ -2839,49 +2898,38 @@ msgstr ""
 #| "\n"
 #| "Dear %(username)s,\n"
 #| "\n"
-#| "You asked to update the email of your profile on %(site_domain)s. You can "
-#| "confirm this action by clicking the following link:\n"
+#| "You asked to update the email of your profile on %(site_domain)s. You can confirm this action by clicking the following link:\n"
 #| "%(email_update_confirmation_link)s\n"
 #| "\n"
-#| "The link expires after five minutes (at %(expiration_date)s) and you can "
-#| "use it only once.\n"
+#| "The link expires after five minutes (at %(expiration_date)s) and you can use it only once.\n"
 #| "\n"
-#| "If you are not the one who requested this connection, please contact us "
-#| "on a GNOME-18n matrix channel.\n"
+#| "If you are not the one who requested this connection, please contact us on a GNOME-18n matrix channel.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "%(username)s,\n"
 "\n"
-"You asked to update the email of your profile on %(site_domain)s. You can "
-"confirm this action by clicking the following link:\n"
+"You asked to update the email of your profile on %(site_domain)s. You can confirm this action by clicking the following link:\n"
 "%(email_update_confirmation_link)s\n"
 "\n"
-"The link expires after five minutes (at %(expiration_date)s) and you can use "
-"it only once.\n"
+"The link expires after five minutes (at %(expiration_date)s) and you can use it only once.\n"
 "\n"
-"If you are not the one who requested this connection, please contact us on "
-"the #i18n:gnome.org Matrix channel (https://handbook.gnome.org/get-in-"
-"touch.html#matrix).\n"
+"If you are not the one who requested this connection, please contact us on the #i18n:gnome.org Matrix channel (https://handbook.gnome.org/get-in-touch.html#matrix).\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Siz %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni "
-"so‘ragansiz. Ushbu amalni quyidagi havolani bosish orqali tasdiqlashingiz "
-"mumkin:\n"
+"Siz %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni soʻragansiz. Ushbu amalni quyidagi havolani bosish orqali tasdiqlashingiz mumkin:\n"
 "%(email_update_confirmation_link)s\n"
 "\n"
-"Havola muddati besh daqiqadan so‘ng (%(expiration_date)s da) tugaydi va "
-"undan faqat bir marta foydalanishingiz mumkin.\n"
+"Havola muddati besh daqiqadan soʻng (%(expiration_date)s da) tugaydi va undan faqat bir marta foydalanishingiz mumkin.\n"
 "\n"
-"Agar siz ushbu ulanishni so'ragan bo'lmasangiz, iltimos biz bilan GNOME-18n "
-"matritsa kanali orqali bog'laning.\n"
+"Agar siz ushbu ulanishni soʻragan boʻlmasangiz, iltimos biz bilan GNOME-18n matritsa kanali orqali bogʻlaning.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/email_update/notification.html:1
 #, fuzzy, python-format
@@ -2891,33 +2939,27 @@ msgstr ""
 #| "\n"
 #| "Someone asked to update the email of your profile on %(site_domain)s.\n"
 #| "\n"
-#| "If you are not the one who requested this change, please contact us on a "
-#| "GNOME-18n matrix channel.\n"
+#| "If you are not the one who requested this change, please contact us on a GNOME-18n matrix channel.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "<p>%(username)s,</p>\n"
 "\n"
-"<p>Someone asked to update the email of your profile on <a "
-"href=\"%(site_domain)s\">GNOME Damned Lies</a>.</p>\n"
+"<p>Someone asked to update the email of your profile on <a href=\"%(site_domain)s\">GNOME Damned Lies</a>.</p>\n"
 "\n"
-"<p>If you are not the one who requested this change, please contact us on "
-"<em>#i18n:gnome.org</em> (<a href=\"https://handbook.gnome.org/get-in-"
-"touch.html#matrix\">more on Matrix in the GNOME handbook</a>).</p>\n"
+"<p>If you are not the one who requested this change, please contact us on <em>#i18n:gnome.org</em> (<a href=\"https://handbook.gnome.org/get-in-touch.html#matrix\">more on Matrix in the GNOME handbook</a>).</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Kimdir %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni "
-"so‘radi.\n"
+"Kimdir %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni soʻradi.\n"
 "\n"
-"Agar siz ushbu o'zgartirishni so'ragan bo'lmasangiz, iltimos biz bilan "
-"GNOME-18n matritsa kanali orqali bog'laning.\n"
+"Agar siz ushbu oʻzgartirishni soʻragan boʻlmasangiz, iltimos biz bilan GNOME-18n matritsa kanali orqali bogʻlaning.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/email_update/notification.txt:1
 #, fuzzy, python-format
@@ -2927,8 +2969,7 @@ msgstr ""
 #| "\n"
 #| "Someone asked to update the email of your profile on %(site_domain)s.\n"
 #| "\n"
-#| "If you are not the one who requested this change, please contact us on a "
-#| "GNOME-18n matrix channel.\n"
+#| "If you are not the one who requested this change, please contact us on a GNOME-18n matrix channel.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
@@ -2937,22 +2978,18 @@ msgid ""
 "\n"
 "Someone asked to update the email of your profile on %(site_domain)s.\n"
 "\n"
-"If you are not the one who requested this change, please contact us on the "
-"#i18n:gnome.org Matrix channel (https://handbook.gnome.org/get-in-"
-"touch.html#matrix).\n"
+"If you are not the one who requested this change, please contact us on the #i18n:gnome.org Matrix channel (https://handbook.gnome.org/get-in-touch.html#matrix).\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Kimdir %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni "
-"so‘radi.\n"
+"Kimdir %(site_domain)s sanasida profilingiz e-pochta manzilini yangilashni soʻradi.\n"
 "\n"
-"Agar siz ushbu o'zgartirishni so'ragan bo'lmasangiz, iltimos biz bilan "
-"GNOME-18n matritsa kanali orqali bog'laning.\n"
+"Agar siz ushbu oʻzgartirishni soʻragan boʻlmasangiz, iltimos biz bilan GNOME-18n matritsa kanali orqali bogʻlaning.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/magic_login_authentication_mail.html:1
 #, fuzzy, python-format
@@ -2960,50 +2997,38 @@ msgstr ""
 #| "\n"
 #| "Dear %(username)s,\n"
 #| "\n"
-#| "You asked for a connection link to %(site_domain)s. You can log in "
-#| "automatically as %(username)s by clicking the following link:\n"
+#| "You asked for a connection link to %(site_domain)s. You can log in automatically as %(username)s by clicking the following link:\n"
 #| "%(connection_link)s\n"
 #| "\n"
-#| "The link expires after five minutes (at %(expiration_date)s) and you can "
-#| "use it only once.\n"
+#| "The link expires after five minutes (at %(expiration_date)s) and you can use it only once.\n"
 #| "\n"
-#| "If you are not the one who requested this connection, please contact us "
-#| "on a GNOME-18n matrix channel.\n"
+#| "If you are not the one who requested this connection, please contact us on a GNOME-18n matrix channel.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "<p>%(username)s,</p>\n"
 "\n"
-"<p>You asked for a connection link to <a href=\"%(site_domain)s\">GNOME "
-"Damned Lies</a> (%(site_domain)s). You can log in automatically as "
-"%(username)s by clicking the following link:</p>\n"
+"<p>You asked for a connection link to <a href=\"%(site_domain)s\">GNOME Damned Lies</a> (%(site_domain)s). You can log in automatically as %(username)s by clicking the following link:</p>\n"
 "<a href=\"%(connection_link)s\">%(connection_link)s</a>\n"
 "\n"
-"<p>The link expires after five minutes (at %(expiration_date)s) and you can "
-"use it only once.</p>\n"
+"<p>The link expires after five minutes (at %(expiration_date)s) and you can use it only once.</p>\n"
 "\n"
-"<p>If you are not the one who requested this connection, please contact us "
-"on <em>#i18n:gnome.org</em> (<a href=\"https://handbook.gnome.org/get-in-"
-"touch.html#matrix\">more on Matrix in the GNOME handbook</a>).</p>\n"
+"<p>If you are not the one who requested this connection, please contact us on <em>#i18n:gnome.org</em> (<a href=\"https://handbook.gnome.org/get-in-touch.html#matrix\">more on Matrix in the GNOME handbook</a>).</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Siz %(site_domain)s ga ulanish havolasini soʻragansiz. Quyidagi havolani "
-"bosish orqali avtomatik ravishda %(username)s sifatida tizimga kirishingiz "
-"mumkin:\n"
+"Siz %(site_domain)s ga ulanish havolasini soʻragansiz. Quyidagi havolani bosish orqali avtomatik ravishda %(username)s sifatida tizimga kirishingiz mumkin:\n"
 "%(connection_link)s\n"
 "\n"
-"Havola muddati besh daqiqadan so‘ng (%(expiration_date)s da) tugaydi va "
-"undan faqat bir marta foydalanishingiz mumkin.\n"
+"Havola muddati besh daqiqadan soʻng (%(expiration_date)s da) tugaydi va undan faqat bir marta foydalanishingiz mumkin.\n"
 "\n"
-"Agar siz ushbu ulanishni so'ragan bo'lmasangiz, iltimos biz bilan GNOME-18n "
-"matritsa kanali orqali bog'laning.\n"
+"Agar siz ushbu ulanishni soʻragan boʻlmasangiz, iltimos biz bilan GNOME-18n matritsa kanali orqali bogʻlaning.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/magic_login_authentication_mail.txt:1
 #, fuzzy, python-format
@@ -3011,73 +3036,59 @@ msgstr ""
 #| "\n"
 #| "Dear %(username)s,\n"
 #| "\n"
-#| "You asked for a connection link to %(site_domain)s. You can log in "
-#| "automatically as %(username)s by clicking the following link:\n"
+#| "You asked for a connection link to %(site_domain)s. You can log in automatically as %(username)s by clicking the following link:\n"
 #| "%(connection_link)s\n"
 #| "\n"
-#| "The link expires after five minutes (at %(expiration_date)s) and you can "
-#| "use it only once.\n"
+#| "The link expires after five minutes (at %(expiration_date)s) and you can use it only once.\n"
 #| "\n"
-#| "If you are not the one who requested this connection, please contact us "
-#| "on a GNOME-18n matrix channel.\n"
+#| "If you are not the one who requested this connection, please contact us on a GNOME-18n matrix channel.\n"
 #| "\n"
 #| "The GNOME Damned Lies Administrators\n"
 msgid ""
 "\n"
 "%(username)s,\n"
 "\n"
-"You asked for a connection link to %(site_domain)s. You can log in "
-"automatically as %(username)s by clicking the following link:\n"
+"You asked for a connection link to %(site_domain)s. You can log in automatically as %(username)s by clicking the following link:\n"
 "%(connection_link)s\n"
 "\n"
-"The link expires after five minutes (at %(expiration_date)s) and you can use "
-"it only once.\n"
+"The link expires after five minutes (at %(expiration_date)s) and you can use it only once.\n"
 "\n"
-"If you are not the one who requested this connection, please contact us on "
-"the #i18n:gnome.org Matrix channel (https://handbook.gnome.org/get-in-"
-"touch.html#matrix).\n"
+"If you are not the one who requested this connection, please contact us on the #i18n:gnome.org Matrix channel (https://handbook.gnome.org/get-in-touch.html#matrix).\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
 "\n"
 "Hurmatli %(username)s,\n"
 "\n"
-"Siz %(site_domain)s ga ulanish havolasini soʻragansiz. Quyidagi havolani "
-"bosish orqali avtomatik ravishda %(username)s sifatida tizimga kirishingiz "
-"mumkin:\n"
+"Siz %(site_domain)s ga ulanish havolasini soʻragansiz. Quyidagi havolani bosish orqali avtomatik ravishda %(username)s sifatida tizimga kirishingiz mumkin:\n"
 "%(connection_link)s\n"
 "\n"
-"Havola muddati besh daqiqadan so‘ng (%(expiration_date)s da) tugaydi va "
-"undan faqat bir marta foydalanishingiz mumkin.\n"
+"Havola muddati besh daqiqadan soʻng (%(expiration_date)s da) tugaydi va undan faqat bir marta foydalanishingiz mumkin.\n"
 "\n"
-"Agar siz ushbu ulanishni so'ragan bo'lmasangiz, iltimos biz bilan GNOME-18n "
-"matritsa kanali orqali bog'laning.\n"
+"Agar siz ushbu ulanishni soʻragan boʻlmasangiz, iltimos biz bilan GNOME-18n matritsa kanali orqali bogʻlaning.\n"
 "\n"
-"GNOME la'natlangan yolg'on ma'murlari\n"
+"GNOME la'natlangan yolgʻon ma'murlari\n"
 
 #: people/templates/people/notifications/person_joined_team.html:3
 #, fuzzy, python-format
 #| msgid ""
 #| "\n"
-#| "This is an automated message sent from %(site_domain)s to inform you that "
-#| "%(name)s has just joined the team %(team)s you are coordinator of.\n"
+#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
 msgid ""
-"<p> This is an automated message sent from <a href=\"%(site_domain)s\">GNOME "
-"Damned Lies</a> to inform you that <a href=\"%(site_domain)s/"
-"%(person_slug_url)s\">%(username)s</a> has just joined the team <a "
-"href=\"%(site_domain)s/%(team_slug_url)s\">%(team)s</a> you coordinate. </p>"
+"<p> This is an automated message sent from <a href=\"%(site_domain)s\">GNOME"
+" Damned Lies</a> to inform you that <a "
+"href=\"%(site_domain)s/%(person_slug_url)s\">%(username)s</a> has just "
+"joined the team <a href=\"%(site_domain)s/%(team_slug_url)s\">%(team)s</a> "
+"you coordinate. </p>"
 msgstr ""
 "\n"
-"Bu %(name)s siz koordinator bo‘lgan %(team)s jamoasiga endigina "
-"qo‘shilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik "
-"xabardir.\n"
+"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
 
 #: people/templates/people/notifications/person_joined_team.txt:3
 #, fuzzy, python-format
 #| msgid ""
 #| "\n"
-#| "This is an automated message sent from %(site_domain)s to inform you that "
-#| "%(name)s has just joined the team %(team)s you are coordinator of.\n"
+#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
 msgid ""
 "This is an automated message sent from GNOME Damned Lies (%(site_domain)s) "
 "to inform you that %(username)s (%(site_domain)s/%(person_slug_url)s) has "
@@ -3085,9 +3096,7 @@ msgid ""
 "coordinate."
 msgstr ""
 "\n"
-"Bu %(name)s siz koordinator bo‘lgan %(team)s jamoasiga endigina "
-"qo‘shilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik "
-"xabardir.\n"
+"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
 
 #: people/templates/people/person_base.html:4
 #, python-format
@@ -3101,7 +3110,7 @@ msgstr "Profil"
 #: people/templates/people/person_base.html:15
 #: stats/templates/module_detail.html:51
 msgid "View on application’s backend"
-msgstr "Ilovaning orqa tomonida ko'rish"
+msgstr "Ilovaning orqa tomonida koʻrish"
 
 #: people/templates/people/person_base.html:25
 msgid "Settings"
@@ -3109,7 +3118,7 @@ msgstr "Sozlamalar"
 
 #: people/templates/people/person_base.html:30
 msgid "Change your details and settings"
-msgstr "Tafsilotlaringizni va sozlamalaringizni o'zgartiring"
+msgstr "Tafsilotlaringizni va sozlamalaringizni oʻzgartiring"
 
 #: people/templates/people/person_base.html:34
 msgid "Manage external authentication providers"
@@ -3129,11 +3138,11 @@ msgstr "Haqiqatan ham autentifikatsiya tokenini oʻchirib tashlamoqchimisiz?"
 
 #: people/templates/people/person_base.html:54
 msgid "Delete the authentication token"
-msgstr "Autentifikatsiya belgisini o'chiring"
+msgstr "Autentifikatsiya belgisini oʻchiring"
 
 #: people/templates/people/person_detail_change_form.html:15
 msgid "Change your details"
-msgstr "Tafsilotlaringizni o'zgartiring"
+msgstr "Tafsilotlaringizni oʻzgartiring"
 
 #: people/templates/people/person_detail_change_form.html:17
 #: people/templates/people/use_external_provider_or_create_account.html:66
@@ -3162,8 +3171,8 @@ msgid ""
 "When your password is not set and you have only one provider connected, you "
 "cannot disconnect it."
 msgstr ""
-"Agar parolingiz o'rnatilmagan bo'lsa va sizda faqat bitta provayder ulangan "
-"bo'lsa, uni uzib bo'lmaydi."
+"Agar parolingiz oʻrnatilmagan boʻlsa va sizda faqat bitta provayder ulangan "
+"boʻlsa, uni uzib boʻlmaydi."
 
 #: people/templates/people/person_external_authentication_providers.html:31
 #, python-format
@@ -3186,7 +3195,7 @@ msgstr "GNOME quyidagi odamlar tomonidan ishlab chiqilmoqda:"
 
 #: people/templates/people/person_team_join_form.html:7
 msgid "Join a new team"
-msgstr "Yangi jamoaga qo'shiling"
+msgstr "Yangi jamoaga qoʻshiling"
 
 #: people/templates/people/person_team_join_form.html:11
 #: templates/_includes/header.html:34 templates/index.html:54
@@ -3199,25 +3208,25 @@ msgstr "Yangi hisob yarating yoki ulanish havolasi bilan kiring"
 
 #: people/templates/people/use_external_provider_or_create_account.html:10
 msgid ""
-"<b> You are trying to connect with a third party provider, and we don’t know "
-"you with this identity yet. </b> </br> If you already have a Damned Lies "
+"<b> You are trying to connect with a third party provider, and we don’t know"
+" you with this identity yet. </b> </br> If you already have a Damned Lies "
 "account, please log in using the Legacy Connection process and fill in your "
 "e-mail address to receive a connection link. You will be able to connect "
 "third party providers from your profile page."
 msgstr ""
-"<b>Siz uchinchi tomon provayderi bilan bog‘lanmoqchisiz va biz sizni bu "
+"<b>Siz uchinchi tomon provayderi bilan bogʻlanmoqchisiz va biz sizni bu "
 "shaxs bilan hali tanimayapmiz.</b></br> Agar sizda allaqachon Damned Lies "
-"akkauntingiz bo'lsa, iltimos, Legacy Connection jarayonidan foydalanib "
+"akkauntingiz boʻlsa, iltimos, Legacy Connection jarayonidan foydalanib "
 "tizimga kiring va ulanish havolasini olish uchun elektron pochta "
 "manzilingizni kiriting. Siz profil sahifangizdan uchinchi tomon "
-"provayderlari bilan bog'lanishingiz mumkin."
+"provayderlari bilan bogʻlanishingiz mumkin."
 
 #: people/templates/people/use_external_provider_or_create_account.html:22
 msgid ""
-"Alternatively, if you don’t have a Damned Lies account, you can continue the "
-"process normally and create a new account."
+"Alternatively, if you don’t have a Damned Lies account, you can continue the"
+" process normally and create a new account."
 msgstr ""
-"Shu bilan bir qatorda, agar sizda Damned Lies akkauntingiz bo'lmasa, "
+"Shu bilan bir qatorda, agar sizda Damned Lies akkauntingiz boʻlmasa, "
 "jarayonni odatdagidek davom ettirishingiz va yangi hisob yaratishingiz "
 "mumkin."
 
@@ -3243,8 +3252,8 @@ msgid ""
 "this account."
 msgstr ""
 "Siz Damned Lies-da yangi hisob yaratmoqchisiz. E'tibor bering, agar sizda "
-"allaqachon hisob qaydnomangiz bo'lsa, siz yaratgan yangi hisob mavjud "
-"hisobingizga bog'lanmaydi. Bu hisobda mavjud hissalaringizni topa olmaysiz."
+"allaqachon hisob qaydnomangiz boʻlsa, siz yaratgan yangi hisob mavjud "
+"hisobingizga bogʻlanmaydi. Bu hisobda mavjud hissalaringizni topa olmaysiz."
 
 #: people/templatetags/people.py:21
 msgid ", "
@@ -3266,18 +3275,19 @@ msgid ""
 "register on the GNOME GitLab platform (%s) and indicate your username in "
 "your Damned Lies profile."
 msgstr ""
-"Siz profilingizda GitLab akkauntini ro'yxatdan o'tkazmadingiz va tarjima "
-"jamoasining muvofiqlashtiruvchisisiz. Agar sizda hali yo'q bo'lsa, iltimos, "
-"GNOME GitLab platformasida (%s) ro'yxatdan o'ting va Damned Lies "
-"profilingizda foydalanuvchi nomingizni ko'rsating."
+"Siz profilingizda GitLab akkauntini roʻyxatdan oʻtkazmadingiz va tarjima "
+"jamoasining muvofiqlashtiruvchisisiz. Agar sizda hali yoʻq boʻlsa, iltimos, "
+"GNOME GitLab platformasida (%s) roʻyxatdan oʻting va Damned Lies "
+"profilingizda foydalanuvchi nomingizni koʻrsating."
 
 #: people/views.py:90
 msgid ""
-"You did not fill your real name in your profile. Your work can only be added "
-"to the project in your name if you fill it in."
+"You did not fill your real name in your profile. Your work can only be added"
+" to the project in your name if you fill it in."
 msgstr ""
-"Profilingizda haqiqiy ismingizni yozmadingiz. Sizning ishingiz faqat sizning "
-"nomingizdan loyihaga qo'shilishi mumkin, agar siz uni to'ldirgan bo'lsangiz."
+"Profilingizda haqiqiy ismingizni yozmadingiz. Sizning ishingiz faqat sizning"
+" nomingizdan loyihaga qoʻshilishi mumkin, agar siz uni toʻldirgan "
+"boʻlsangiz."
 
 #: people/views.py:109
 #, python-format
@@ -3287,14 +3297,14 @@ msgid ""
 msgstr ""
 "Profilingizda oʻrnatgan GNOME GitLab foydalanuvchi nomi %s da mavjud emas. "
 "Iltimos, foydalanuvchi nomingizni tekshiring yoki bu hali bajarilmagan "
-"bo'lsa, hisob yarating."
+"boʻlsa, hisob yarating."
 
 #: people/views.py:121
 msgid ""
 "Someone requested to change the email address of your Damned Lies account"
 msgstr ""
-"Kimdir Damned Lies akkauntingiz elektron pochta manzilini o'zgartirishni "
-"so'radi"
+"Kimdir Damned Lies akkauntingiz elektron pochta manzilini oʻzgartirishni "
+"soʻradi"
 
 #: people/views.py:142
 #, fuzzy
@@ -3307,7 +3317,7 @@ msgid ""
 "You asked to modify the email of your account. You will receive an email to "
 "confirm your identity."
 msgstr ""
-"Hisobingiz elektron pochta manzilini o'zgartirishni so'ragansiz. "
+"Hisobingiz elektron pochta manzilini oʻzgartirishni soʻragansiz. "
 "Shaxsingizni tasdiqlash uchun sizga elektron pochta xabari keladi."
 
 #: people/views.py:200
@@ -3317,7 +3327,7 @@ msgstr "Kechirasiz, shakl haqiqiy emas."
 #: people/views.py:218
 #, python-format
 msgid "A new person joined your team “%s”"
-msgstr "“%s” jamoangizga yangi odam qo‘shildi"
+msgstr "“%s” jamoangizga yangi odam qoʻshildi"
 
 #: people/views.py:252
 msgid "You are already member of this team."
@@ -3329,14 +3339,14 @@ msgid ""
 "You have joined the team “%(team)s”. You are now able to contribute and "
 "submit translations in your language."
 msgstr ""
-"Siz “%(team)s” jamoasiga qo‘shildingiz. Endi siz oʻz tilingizda tarjimalar "
+"Siz “%(team)s” jamoasiga qoʻshildingiz. Endi siz oʻz tilingizda tarjimalar "
 "kiritishingiz va yuborishingiz mumkin."
 
 #: people/views.py:281
 #, python-format
 msgid ""
-"You have left the team “%(team)s”. All your activity feed has been kept, but "
-"you cannot submit translations anymore."
+"You have left the team “%(team)s”. All your activity feed has been kept, but"
+" you cannot submit translations anymore."
 msgstr ""
 "Siz “%(team)s” jamoasini tark etdingiz. Barcha harakatlar tasmangiz "
 "saqlangan, lekin siz boshqa tarjimalarni yubora olmaysiz."
@@ -3351,7 +3361,7 @@ msgid ""
 "You have not joined any translation team yet. You can do it from <a "
 "href=\"%(url)s\">your profile</a>."
 msgstr ""
-"Siz hali hech qanday tarjimon jamoasiga qo‘shilmagansiz. Buni <a "
+"Siz hali hech qanday tarjimon jamoasiga qoʻshilmagansiz. Buni <a "
 "href=\"%(url)s\">profilingizdan</a> qilishingiz mumkin."
 
 #: people/views.py:350
@@ -3370,9 +3380,9 @@ msgid ""
 "your account. Open this link and you will be automatically connected. "
 "Beware, it expires after 5 minutes."
 msgstr ""
-"Biz siz kiritgan elektron pochta manziliga hisobingizga ulanish uchun sehrli "
-"havola yubordik. Ushbu havolani oching va siz avtomatik ravishda ulanasiz. "
-"Ehtiyot bo'ling, u 5 daqiqadan so'ng tugaydi."
+"Biz siz kiritgan elektron pochta manziliga hisobingizga ulanish uchun sehrli"
+" havola yubordik. Ushbu havolani oching va siz avtomatik ravishda ulanasiz. "
+"Ehtiyot boʻling, u 5 daqiqadan soʻng tugaydi."
 
 #: people/views.py:405
 msgid "The token you are trying to login with is invalid."
@@ -3380,18 +3390,20 @@ msgstr "Siz kirishga urinayotgan token yaroqsiz."
 
 #: people/views.py:421
 msgid "The token you are using to validate your email is invalid."
-msgstr "Elektron pochtangizni tasdiqlash uchun foydalanayotgan token yaroqsiz."
+msgstr ""
+"Elektron pochtangizni tasdiqlash uchun foydalanayotgan token yaroqsiz."
 
 #: people/views.py:426
 #, python-format
 msgid ""
 "%(username)s, your email has been successfully updated to %(new_email)s."
-msgstr "%(username)s, e-pochtangiz %(new_email)s ga muvaffaqiyatli yangilandi."
+msgstr ""
+"%(username)s, e-pochtangiz %(new_email)s ga muvaffaqiyatli yangilandi."
 
 #: people/views.py:451
 msgid ""
-"The authentication link you provided is invalid and cannot be used to login. "
-"The authentication token may have expired or never existed."
+"The authentication link you provided is invalid and cannot be used to login."
+" The authentication token may have expired or never existed."
 msgstr ""
 "Siz taqdim etgan autentifikatsiya havolasi yaroqsiz va tizimga kirish uchun "
 "foydalanilmaydi. Autentifikatsiya tokeni muddati tugagan yoki hech qachon "
@@ -3437,7 +3449,7 @@ msgstr[1] "Bundan tashqari, %(number_of_branches)s filial o'chirildi."
 
 #: stats/forms.py:69
 msgid "You have to provide a category when a version is specified."
-msgstr "Versiya ko'rsatilganda toifani ko'rsatishingiz kerak."
+msgstr "Versiya koʻrsatilganda toifani koʻrsatishingiz kerak."
 
 #: stats/forms.py:138
 #, python-format
@@ -3467,7 +3479,7 @@ msgid ""
 "close to the module name."
 msgstr ""
 "Modulning qisqacha tavsifi. U modul sahifasida modul nomiga yaqin "
-"ko'rsatiladi."
+"koʻrsatiladi."
 
 #: stats/models.py:85
 msgid "Comment & more"
@@ -3479,7 +3491,7 @@ msgid ""
 "the module page such as context, explanation or put external links."
 msgstr ""
 "Modul haqida sharh. U modul sahifasida kontekst, tushuntirish yoki tashqi "
-"havolalar kabi qo'shimcha ma'lumotlarni ko'rsatish uchun ishlatiladi."
+"havolalar kabi qoʻshimcha ma'lumotlarni koʻrsatish uchun ishlatiladi."
 
 #: stats/models.py:95
 msgid "Issue tracker URL"
@@ -3498,8 +3510,8 @@ msgid ""
 "The URL to the module’s version control system. In order to commit changes, "
 "it has to be a SSH URL."
 msgstr ""
-"Modul versiyasini boshqarish tizimining URL manzili. O'zgarishlarni amalga "
-"oshirish uchun u SSH URL manzili bo'lishi kerak."
+"Modul versiyasini boshqarish tizimining URL manzili. Oʻzgarishlarni amalga "
+"oshirish uchun u SSH URL manzili boʻlishi kerak."
 
 #: stats/models.py:107
 msgid "Version Control System URL (Web)"
@@ -3525,11 +3537,11 @@ msgstr "Belgilansa, modul arxivlangan deb hisoblanadi va yangilanmaydi."
 
 #: stats/models.py:128
 msgid ""
-"The list of maintainers is automatically updated if the module contains "
-"a .doap file."
+"The list of maintainers is automatically updated if the module contains a "
+".doap file."
 msgstr ""
-"Modulda .doap fayli bo'lsa, texnik xizmat ko'rsatuvchilar ro'yxati avtomatik "
-"ravishda yangilanadi."
+"Modulda .doap fayli boʻlsa, texnik xizmat koʻrsatuvchilar roʻyxati avtomatik"
+" ravishda yangilanadi."
 
 #: stats/models.py:162
 #, python-format
@@ -3539,8 +3551,8 @@ msgid ""
 "translation."
 msgstr ""
 "Ushbu modul uchun tarjimalar tashqaridan joylashtirilgan. Tarjimangizni "
-"qanday topshirishingiz mumkinligini bilish uchun <a href=\"%(link)s\">tashqi "
-"platformaga</a> o'ting."
+"qanday topshirishingiz mumkinligini bilish uchun <a href=\"%(link)s\">tashqi"
+" platformaga</a> oʻting."
 
 #: stats/models.py:234
 msgid "The name of the branch, such as “master” or “gnome-3-10”."
@@ -3548,26 +3560,26 @@ msgstr "Filialning nomi, masalan, \"master\" yoki \"gnome-3-10\"."
 
 #: stats/models.py:237
 msgid "VCS sub path"
-msgstr "VCS pastki yo'li"
+msgstr "VCS pastki yoʻli"
 
 #: stats/models.py:238
 msgid ""
 "Version Control System subpath. Where the .git is located for a Git managed "
 "project."
 msgstr ""
-"Versiyani boshqarish tizimining pastki yo'li. Git tomonidan boshqariladigan "
+"Versiyani boshqarish tizimining pastki yoʻli. Git tomonidan boshqariladigan "
 "loyiha uchun .git qaerda joylashgan."
 
 #: stats/models.py:244 stats/models.py:1078
 msgid "Weight"
-msgstr "Og'irlik"
+msgstr "Ogʻirlik"
 
 #: stats/models.py:246
 msgid ""
 "Weight is used to order branches. The smaller weights are displayed first."
 msgstr ""
-"Og'irlik filiallarni buyurtma qilish uchun ishlatiladi. Avval kichikroq "
-"og'irliklar ko'rsatiladi."
+"Ogʻirlik filiallarni buyurtma qilish uchun ishlatiladi. Avval kichikroq "
+"ogʻirliklar koʻrsatiladi."
 
 #: stats/models.py:249
 msgid "File Hashes"
@@ -3575,7 +3587,7 @@ msgstr "Fayl xeshlari"
 
 #: stats/models.py:349
 msgid "This branch is not linked from any release."
-msgstr "Ushbu filial hech qanday reliz bilan bog'lanmagan."
+msgstr "Ushbu filial hech qanday reliz bilan bogʻlanmagan."
 
 #: stats/models.py:530
 msgid "There is no documentation statistics for this branch."
@@ -3591,7 +3603,8 @@ msgid "There is no user interface statistics for this branch."
 msgstr "Ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud emas."
 
 #: stats/models.py:555
-msgid "There is no user interface statistics for this branch in this language."
+msgid ""
+"There is no user interface statistics for this branch in this language."
 msgstr ""
 "Ushbu tilda ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud "
 "emas."
@@ -3602,7 +3615,7 @@ msgid ""
 "This branch name is ‘%(branch_name)s’ while there already exists a branch "
 "that points to HEAD (called %(branch_head_names)s)."
 msgstr ""
-"Bu filial nomi “%(branch_name)s” bo‘lib, HEAD ga ishora qiluvchi filial "
+"Bu filial nomi “%(branch_name)s” boʻlib, HEAD ga ishora qiluvchi filial "
 "allaqachon mavjud (%(branch_head_names)s deb ataladi)."
 
 #: stats/models.py:589
@@ -3610,7 +3623,7 @@ msgid ""
 "There are too many main branches for this module. Please report this issue "
 "to the coordination team, some cleanup is needed."
 msgstr ""
-"Ushbu modul uchun juda ko'p asosiy filiallar mavjud. Iltimos, bu muammoni "
+"Ushbu modul uchun juda koʻp asosiy filiallar mavjud. Iltimos, bu muammoni "
 "muvofiqlashtiruvchi guruhga xabar bering, biroz tozalash kerak."
 
 #: stats/models.py:617
@@ -3667,17 +3680,17 @@ msgstr "POT ishlab chiqarish parametrlari"
 
 #: stats/models.py:660
 msgid "Extra ITS directories"
-msgstr "Qo'shimcha ITS kataloglari"
+msgstr "Qoʻshimcha ITS kataloglari"
 
 #: stats/models.py:662
 #, fuzzy
 #| msgid ""
 #| "Colon-separated directories containing extra .its/.loc files for gettext"
 msgid ""
-"Colon-separated directories containing extra .its/.loc files for gettext and "
-"shell methods"
+"Colon-separated directories containing extra .its/.loc files for gettext and"
+" shell methods"
 msgstr ""
-"Gettext uchun qo'shimcha .its/.loc fayllarni o'z ichiga olgan ikki nuqta "
+"Gettext uchun qoʻshimcha .its/.loc fayllarni oʻz ichiga olgan ikki nuqta "
 "bilan ajratilgan kataloglar"
 
 #: stats/models.py:665
@@ -3687,21 +3700,11 @@ msgstr "LINGUAS fayl joylashuvi"
 #: stats/models.py:671
 #, python-format
 msgid ""
-"Use “%s” for no LINGUAS check, or path/to/file#variable for a non-standard "
-"location.\n"
-"Leave blank for standard location (ALL_LINGUAS in LINGUAS/configure.ac/.in "
-"for UI and DOC_LINGUAS in Makefile.am for DOC). This value is used to check "
-"if a language is correctly listed in the LINGUAS file. In many situations, "
-"the LINGUAS files should contain all the languages for which a translation "
-"exists."
+"Use “%s” for no LINGUAS check, or path/to/file#variable for a non-standard location.\n"
+"Leave blank for standard location (ALL_LINGUAS in LINGUAS/configure.ac/.in for UI and DOC_LINGUAS in Makefile.am for DOC). This value is used to check if a language is correctly listed in the LINGUAS file. In many situations, the LINGUAS files should contain all the languages for which a translation exists."
 msgstr ""
-"LINGUAS tekshiruvi uchun “%s” yoki nostandart joylashuv uchun path/to/"
-"file#variabledan foydalaning.\n"
-"Standart joylashuv uchun boʻsh qoldiring (UI uchun LINGUAS/configure.ac/.in "
-"da ALL_LINGUAS va DOC uchun Makefile.am da DOC_LINGUAS). Bu qiymat tilning "
-"LINGUAS faylida toʻgʻri koʻrsatilganligini tekshirish uchun ishlatiladi. "
-"Ko'pgina hollarda LINGUAS fayllari tarjimasi mavjud bo'lgan barcha tillarni "
-"o'z ichiga olishi kerak."
+"LINGUAS tekshiruvi uchun “%s” yoki nostandart joylashuv uchun path/to/file#variabledan foydalaning.\n"
+"Standart joylashuv uchun boʻsh qoldiring (UI uchun LINGUAS/configure.ac/.in da ALL_LINGUAS va DOC uchun Makefile.am da DOC_LINGUAS). Bu qiymat tilning LINGUAS faylida toʻgʻri koʻrsatilganligini tekshirish uchun ishlatiladi. Koʻpgina hollarda LINGUAS fayllari tarjimasi mavjud boʻlgan barcha tillarni oʻz ichiga olishi kerak."
 
 #: stats/models.py:681
 msgid "Reduced string filter"
@@ -3711,8 +3714,8 @@ msgstr "Kamaytirilgan simli filtr"
 #: stats/models.py:686
 #, python-format
 msgid ""
-"A “%s” filter to strip po file from unprioritized strings (format: location|"
-"string, “-” for no filter)"
+"A “%s” filter to strip po file from unprioritized strings (format: "
+"location|string, “-” for no filter)"
 msgstr ""
 "Po faylini ustuvor boʻlmagan qatorlardan ajratib olish uchun “%s” filtri "
 "(format: joylashuv|string, filtrsiz uchun “-”)"
@@ -3734,13 +3737,13 @@ msgstr "Filial uchun amal qiladi"
 msgid ""
 "If empty, the domain is valid for all branches or until the branch given."
 msgstr ""
-"Agar bo'sh bo'lsa, domen barcha filiallar uchun yoki berilgan filialga qadar "
-"amal qiladi."
+"Agar boʻsh boʻlsa, domen barcha filiallar uchun yoki berilgan filialga qadar"
+" amal qiladi."
 
 #: stats/models.py:820
 #, python-format
 msgid "Unable to determine the PO path for this domain in language “%(lang)s”"
-msgstr "“%(lang)s” tilida bu domen uchun PO yo‘lini aniqlab bo‘lmadi"
+msgstr "“%(lang)s” tilida bu domen uchun PO yoʻlini aniqlab boʻlmadi"
 
 #: stats/models.py:834
 msgid "This domain is not a documentation domain."
@@ -3753,14 +3756,14 @@ msgid ""
 "“%(value)s”."
 msgstr ""
 "LINGUAS fayli tekshirilmagan. “%(linguas_location)s” qiymati “%(value)s” ga "
-"o‘rnatiladi."
+"oʻrnatiladi."
 
 #: stats/models.py:893
 #, python-format
 msgid ""
 "The LINGUAS file is stored at “%(linguas_location)s” but does not exist on "
-"the disk. Please update the settings so that the LINGUAS file could be found "
-"and updated."
+"the disk. Please update the settings so that the LINGUAS file could be found"
+" and updated."
 msgstr ""
 
 #: stats/models.py:938
@@ -3778,11 +3781,11 @@ msgstr "Domen turi “%(dtype_ui)s” yoki “%(dtype_doc)s” boʻlishi kerak."
 
 #: stats/models.py:1061
 msgid ""
-"The name of the release. You should use a slug, a unique identifier for this "
-"release, such as “gnome-40”. This information is used in URLs."
+"The name of the release. You should use a slug, a unique identifier for this"
+" release, such as “gnome-40”. This information is used in URLs."
 msgstr ""
 "Chiqarish nomi. Ushbu nashr uchun \"gnome-40\" kabi noyob identifikator "
-"bo'lgan slugdan foydalanishingiz kerak. Ushbu ma'lumotlar URL manzillarida "
+"boʻlgan slugdan foydalanishingiz kerak. Ushbu ma'lumotlar URL manzillarida "
 "ishlatiladi."
 
 #: stats/models.py:1066
@@ -3795,17 +3798,17 @@ msgstr "String muzlatilgan"
 
 #: stats/models.py:1069
 msgid "Whether the strings are frozen for this release."
-msgstr "Ushbu nashr uchun satrlar muzlatilganmi yoki yo'qmi."
+msgstr "Ushbu nashr uchun satrlar muzlatilganmi yoki yoʻqmi."
 
 #: stats/models.py:1075
 msgid "The status of the release: whether it is official or not."
-msgstr "Chiqarish holati: rasmiymi yoki yo'qmi."
+msgstr "Chiqarish holati: rasmiymi yoki yoʻqmi."
 
 #: stats/models.py:1080
 msgid ""
 "The weight is used to sort releases, higher on top, below 0 in archives."
 msgstr ""
-"Og'irligi arxivda 0 dan pastroq bo'lgan yuqoriroqdagi nashrlarni saralash "
+"Ogʻirligi arxivda 0 dan pastroq boʻlgan yuqoriroqdagi nashrlarni saralash "
 "uchun ishlatiladi."
 
 #: stats/models.py:1083
@@ -3828,7 +3831,7 @@ msgstr "Til"
 
 #: stats/models.py:1674
 msgid "Full PO file"
-msgstr "To'liq PO fayli"
+msgstr "Toʻliq PO fayli"
 
 #: stats/models.py:1677
 msgid "Partial PO file"
@@ -3888,11 +3891,11 @@ msgstr "POT statistikasini umumlashtirib boʻlmadi, fayl yoʻq."
 
 #: stats/models.py:2025
 msgid ""
-"Error while updating statistics using “%(file_path)”. The file may not exist "
-"on disk or is unreadable."
+"Error while updating statistics using “%(file_path)”. The file may not exist"
+" on disk or is unreadable."
 msgstr ""
 "“%(file_path)” yordamida statistikani yangilashda xatolik yuz berdi. Fayl "
-"diskda mavjud bo'lmasligi yoki o'qib bo'lmaydigan bo'lishi mumkin."
+"diskda mavjud boʻlmasligi yoki oʻqib boʻlmaydigan boʻlishi mumkin."
 
 #: stats/models.py:2046
 msgid ""
@@ -3901,8 +3904,8 @@ msgid ""
 "file (.po). Please commit the translation file again in order to fix this "
 "problem."
 msgstr ""
-"Tarjima qilish uchun satrlari bo'lgan asl fayl (.pot) dastur ishlab "
-"chiquvchilari tomonidan yangilangan va o'zgarishlar tarjima fayliga (.po) "
+"Tarjima qilish uchun satrlari boʻlgan asl fayl (.pot) dastur ishlab "
+"chiquvchilari tomonidan yangilangan va oʻzgarishlar tarjima fayliga (.po) "
 "birlashtirilishi kerak. Ushbu muammoni hal qilish uchun tarjima faylini "
 "qayta topshiring."
 
@@ -3913,11 +3916,12 @@ msgstr "%s moduli uchun makefile topilmadi"
 
 #: stats/services/pot/documentation.py:87
 msgid "Unable to find doc source files for this module."
-msgstr "Ushbu modul uchun doc manba fayllarini topib bo‘lmadi."
+msgstr "Ushbu modul uchun doc manba fayllarini topib boʻlmadi."
 
 #: stats/services/pot/potdiff.py:198
 #, fuzzy, python-format
-#| msgid "The path given to initialize the POTFile does not exists: %(path)s."
+#| msgid ""
+#| "The path given to initialize the POTFile does not exists: %(path)s."
 msgid "The path given to initialize the POTFile does not exist: %(path)s."
 msgstr ""
 "POTFile faylini ishga tushirish uchun berilgan yoʻl mavjud emas: %(path)s."
@@ -3931,16 +3935,16 @@ msgstr "URL manzilidan POT faylini olishda xatolik yuz berdi: %s."
 #, fuzzy, python-format
 #| msgid ""
 #| "POT file not found in repository, while the configuration indicates it "
-#| "should be located at “%(pot_file_path)”. We also tried using the “%"
-#| "(param)s” with the path “%(path)s” but the file does not exists."
+#| "should be located at “%(pot_file_path)”. We also tried using the “%(param)s”"
+#| " with the path “%(path)s” but the file does not exists."
 msgid ""
 "POT file not found in repository, while the configuration indicates it "
 "should be located at “%(pot_file_path)s”. We also tried using the "
 "“%(param)s” with the path “%(path)s” but the file does not exist."
 msgstr ""
 "POT fayli omborda topilmadi, konfiguratsiya esa uni “%(pot_file_path)” "
-"manzilida joylashtirish kerakligini bildiradi. Shuningdek, biz “%(param)s”ni "
-"“%(path)s” yo‘li bilan ishlatishga harakat qildik, lekin fayl mavjud emas."
+"manzilida joylashtirish kerakligini bildiradi. Shuningdek, biz “%(param)s”ni"
+" “%(path)s” yoʻli bilan ishlatishga harakat qildik, lekin fayl mavjud emas."
 
 #: stats/services/pot/service.py:92
 msgid "No subtitle files found."
@@ -3953,15 +3957,15 @@ msgid ""
 "<pre>%(cmd)s\n"
 "%(output)s</pre>"
 msgstr ""
-"%(file)s uchun andoza faylini (POT) qayta tiklashda xatolik yuz berdi:<pre> "
-"%(cmd)s\n"
+"%(file)s uchun andoza faylini (POT) qayta tiklashda xatolik yuz berdi:<pre> %(cmd)s\n"
 "%(output)s</pre>"
 
 #: stats/services/pot/service.py:136
 #, python-format
 msgid ""
 "Unable to generate an extraction command with xgettext for the file “%s”."
-msgstr "“%s” fayli uchun xgettext bilan chiqarish buyrug‘ini yaratib bo‘lmadi."
+msgstr ""
+"“%s” fayli uchun xgettext bilan chiqarish buyrugʻini yaratib boʻlmadi."
 
 #: stats/services/pot/service.py:183
 #, python-format
@@ -3970,28 +3974,28 @@ msgid ""
 "<pre>%(cmd)s\n"
 "%(output)s</pre>"
 msgstr ""
-"%(file)s hujjati uchun POT faylini qayta tiklashda xatolik yuz berdi:<pre> "
-"%(cmd)s\n"
+"%(file)s hujjati uchun POT faylini qayta tiklashda xatolik yuz berdi:<pre> %(cmd)s\n"
 "%(output)s</pre>"
 
 #: stats/services/pot/service.py:193
-msgid "Unable to generate template file (POT). The output file does not exist."
-msgstr "Andoza faylini (POT) yaratib bo'lmadi. Chiqish fayli mavjud emas."
+msgid ""
+"Unable to generate template file (POT). The output file does not exist."
+msgstr "Andoza faylini (POT) yaratib boʻlmadi. Chiqish fayli mavjud emas."
 
 #: stats/services/pot/service.py:207
 msgid ""
-"While refreshing the POT file for Damned Lies, an error happened with the “%"
-"(command)” command."
+"While refreshing the POT file for Damned Lies, an error happened with the "
+"“%(command)” command."
 msgstr ""
-"Damned Lies uchun POT faylini yangilashda “%(buyruq)” buyrug'i bilan xatolik "
-"yuz berdi."
+"Damned Lies uchun POT faylini yangilashda “%(buyruq)” buyrugʻi bilan xatolik"
+" yuz berdi."
 
 #: stats/services/pot/service.py:251
 msgid ""
 "Unable to generate template file (POT). The POT generation process itself "
 "did not fail, but the POT file does not exist on disk."
 msgstr ""
-"Andoza faylini (POT) yaratib bo'lmadi. POT yaratish jarayonining o'zi "
+"Andoza faylini (POT) yaratib boʻlmadi. POT yaratish jarayonining oʻzi "
 "muvaffaqiyatsiz tugadi, lekin POT fayli diskda mavjud emas."
 
 #: stats/services/pot/service.py:289
@@ -4017,7 +4021,7 @@ msgstr ""
 #: stats/services/refresh/steps.py:63
 #, python-brace-format
 msgid "Unable to update branch: {error}"
-msgstr "Filialni yangilab bo‘lmadi: {error}"
+msgstr "Filialni yangilab boʻlmadi: {error}"
 
 #: stats/services/refresh/steps.py:81
 msgid "Errors while running “intltool-update -m” check."
@@ -4039,16 +4043,16 @@ msgstr ""
 
 #: stats/services/refresh/steps.py:144
 msgid "Can’t generate template file (POT), using old one."
-msgstr "Eskisini ishlatib, andoza faylini (POT) yaratib bo‘lmadi."
+msgstr "Eskisini ishlatib, andoza faylini (POT) yaratib boʻlmadi."
 
 #: stats/services/refresh/steps.py:146
 msgid "Can’t generate template file (POT), statistics aborted."
-msgstr "Andoza faylini (POT) yaratib bo'lmadi, statistika to'xtatildi."
+msgstr "Andoza faylini (POT) yaratib boʻlmadi, statistika toʻxtatildi."
 
 #: stats/services/refresh/steps.py:174
 msgid ""
-"Unable to authenticate to GitLab, hence, no notification was sent to GitLab. "
-"Administrators will be notified about this issue."
+"Unable to authenticate to GitLab, hence, no notification was sent to GitLab."
+" Administrators will be notified about this issue."
 msgstr ""
 "GitLab-da autentifikatsiya qilish imkonsiz, shuning uchun GitLab-ga hech "
 "qanday bildirishnoma yuborilmadi. Ushbu muammo haqida ma'murlar xabardor "
@@ -4056,13 +4060,13 @@ msgstr ""
 
 #: stats/services/refresh/steps.py:197
 msgid "Can’t copy new template file (POT) to public location."
-msgstr "Yangi andoza faylini (POT) hammaga ochiq joyga nusxalab bo‘lmadi."
+msgstr "Yangi andoza faylini (POT) hammaga ochiq joyga nusxalab boʻlmadi."
 
 #: stats/services/refresh/steps.py:255
 #, python-format
 msgid ""
-"Unable to update the PO file in “%(locale)s” using the newly created POT for "
-"%(module)s/%(branch)s"
+"Unable to update the PO file in “%(locale)s” using the newly created POT for"
+" %(module)s/%(branch)s"
 msgstr ""
 "%(module)s/%(branch)s uchun yangi yaratilgan POT yordamida “%(locale)s”dagi "
 "PO faylini yangilab boʻlmadi"
@@ -4070,10 +4074,11 @@ msgstr ""
 #: stats/services/refresh/steps.py:292
 #, python-format
 msgid ""
-"The language “%(language)s” is not listed in the LINGUAS file for the domain "
-"“%(domain)s”."
+"The language “%(language)s” is not listed in the LINGUAS file for the domain"
+" “%(domain)s”."
 msgstr ""
-"“%(language)s” tili “%(domain)s” domeni uchun LINGUAS faylida ko‘rsatilmagan."
+"“%(language)s” tili “%(domain)s” domeni uchun LINGUAS faylida "
+"koʻrsatilmagan."
 
 #: stats/services/refresh/steps.py:307 stats/services/refresh/steps.py:318
 #, python-format
@@ -4082,12 +4087,12 @@ msgstr "“%s” PO fayli UTF-8 bilan kodlanmagan."
 
 #: stats/services/refresh/steps.py:311
 msgid "This PO file has an executable bit set."
-msgstr "Ushbu PO faylida bajariladigan bitlar to'plami mavjud."
+msgstr "Ushbu PO faylida bajariladigan bitlar toʻplami mavjud."
 
 #: stats/services/refresh/steps.py:322
 #, python-format
 msgid "PO file “%s” does not pass “msgfmt -vc” checks."
-msgstr "“%s” PO fayli “msgfmt -vc” tekshiruvidan o‘tmaydi."
+msgstr "“%s” PO fayli “msgfmt -vc” tekshiruvidan oʻtmaydi."
 
 #: stats/services/refresh/steps.py:326
 msgid "PO File is not found on the system."
@@ -4105,8 +4110,8 @@ msgstr ""
 #: stats/services/repositories/commit_files.py:83
 #, python-format
 msgid ""
-"An error occurred while checking out the repository for module %(module)s in "
-"branch %(branch)s: %(error)s"
+"An error occurred while checking out the repository for module %(module)s in"
+" branch %(branch)s: %(error)s"
 msgstr ""
 "%(branch)s filialidagi %(module)s moduli omborini tekshirishda xatolik yuz "
 "berdi: %(error)s"
@@ -4114,8 +4119,8 @@ msgstr ""
 #: stats/services/repositories/commit_files.py:108
 #, python-format
 msgid ""
-"An error occurred while updating the module %(module)s in branch %(branch)s: "
-"%(error)s"
+"An error occurred while updating the module %(module)s in branch %(branch)s:"
+" %(error)s"
 msgstr ""
 "%(branch)s filialida %(module)s modulini yangilashda xatolik yuz berdi: "
 "%(error)s"
@@ -4135,7 +4140,7 @@ msgid ""
 "An error occurred while cherry-picking commit for module %(module)s in "
 "branch %(branch)s: %(error)s"
 msgstr ""
-"%(branch)s filialida %(module)s moduli uchun gilos yig‘ish majburiyatini "
+"%(branch)s filialida %(module)s moduli uchun gilos yigʻish majburiyatini "
 "olishda xatolik yuz berdi: %(error)s"
 
 #: stats/services/repositories/commit_files.py:190
@@ -4167,17 +4172,19 @@ msgstr ""
 #: stats/services/repositories/repositories.py:239
 #, python-format
 msgid "Git repository %s is not valid. Calling ‘git-status’ failed."
-msgstr "Git ombori %s yaroqsiz. \"git-status\" ni chaqirib bo'lmadi."
+msgstr "Git ombori %s yaroqsiz. \"git-status\" ni chaqirib boʻlmadi."
 
 #: stats/services/repositories/repositories.py:266
 #, fuzzy, python-format
-#| msgid "Git repository %(name)s could not be renamed. %(command_error)s"
+#| msgid ""
+#| "Git repository %(name)s could not be renamed. %(command_error)s"
 msgid "Git repository at %(name)s could not be cloned. %(command_error)s"
 msgstr "Git ombori %(name)s nomini oʻzgartirib boʻlmadi. %(command_error)s"
 
 #: stats/services/repositories/repositories.py:286
 #, fuzzy, python-format
-#| msgid "Git repository %(name)s could not be updated: %(command_error)s"
+#| msgid ""
+#| "Git repository %(name)s could not be updated: %(command_error)s"
 msgid "Git repository %(name)s could not be fetched: %(command_error)s"
 msgstr "%(name)s Git omborini yangilab boʻlmadi: %(command_error)s"
 
@@ -4195,9 +4202,9 @@ msgid ""
 "branches to allow Damned Lies to push commits."
 msgstr ""
 "%(name)s Git repozitoriyasini oʻtkazib boʻlmadi: %(command_error)s. Filial "
-"himoyalangan ko'rinadi va Damned Lies omborga havolalarni surish imkoniga "
+"himoyalangan koʻrinadi va Damned Lies omborga havolalarni surish imkoniga "
 "ega emas. Loyiha boshqaruvchilaridan Damned Liesʼga majburiyatlarni "
-"bajarishga ruxsat berish uchun filiallar uchun himoyani yangilashni so'rang."
+"bajarishga ruxsat berish uchun filiallar uchun himoyani yangilashni soʻrang."
 
 #: stats/services/repositories/repositories.py:341
 #, python-format
@@ -4205,13 +4212,13 @@ msgid ""
 "Git repository %(name)s could not be pushed because of an unknown error: "
 "%(command_error)s"
 msgstr ""
-"Noma'lum xatolik tufayli %(name)s Git omborini o'tkazib bo'lmadi: "
+"Noma'lum xatolik tufayli %(name)s Git omborini oʻtkazib boʻlmadi: "
 "%(command_error)s"
 
 #: stats/services/repositories/repositories.py:363
 #, python-format
 msgid "Git repository %(name)s could not be committed: %(command_error)s"
-msgstr "%(name)s Git omborini o'rnatib bo'lmadi: %(command_error)s"
+msgstr "%(name)s Git omborini oʻrnatib boʻlmadi: %(command_error)s"
 
 #: stats/services/repositories/repositories.py:416
 #, python-format
@@ -4224,7 +4231,8 @@ msgstr ""
 
 #: stats/services/repositories/repositories.py:443
 #, fuzzy, python-format
-#| msgid "Git repository %(name)s could not be renamed. %(command_error)s"
+#| msgid ""
+#| "Git repository %(name)s could not be renamed. %(command_error)s"
 msgid ""
 "Git branch %(name)s could not be renamed in repository. %(command_error)s"
 msgstr "Git ombori %(name)s nomini oʻzgartirib boʻlmadi. %(command_error)s"
@@ -4237,9 +4245,11 @@ msgstr ""
 
 #: stats/services/repositories/repositories.py:482
 #, fuzzy, python-format
-#| msgid "Git repository %(name)s could not be removed. %(command_error)s"
+#| msgid ""
+#| "Git repository %(name)s could not be removed. %(command_error)s"
 msgid ""
-"Git branch ‘%(name)s’ could not be removed from repository. %(command_error)s"
+"Git branch ‘%(name)s’ could not be removed from repository. "
+"%(command_error)s"
 msgstr "%(name)s Git omborini oʻchirib boʻlmadi. %(command_error)s"
 
 #: stats/templates/_includes/module_archive_warning_message.html:3
@@ -4288,7 +4298,7 @@ msgstr ""
 
 #: stats/templates/module_detail.html:85
 msgid "Show existing i18n and l10n bugs"
-msgstr "Mavjud i18n va l10n xatolarini ko'rsatish"
+msgstr "Mavjud i18n va l10n xatolarini koʻrsatish"
 
 #: stats/templates/module_detail.html:88
 msgid "Report a bug"
@@ -4304,7 +4314,7 @@ msgstr "Ushbu filial uchun statistik maʼlumotlarni yoyish yoki yopish"
 
 #: stats/templates/module_detail.html:133
 msgid "Browse Repository"
-msgstr "Repozitoriyni ko'rib chiqish"
+msgstr "Repozitoriyni koʻrib chiqish"
 
 #: stats/templates/module_detail.html:138
 msgid "Refresh branch statistics"
@@ -4312,7 +4322,7 @@ msgstr "Filial statistikasini yangilash"
 
 #: stats/templates/module_edit_branches.html:27
 msgid "Category"
-msgstr "Bo'lim"
+msgstr "Boʻlim"
 
 #: stats/templates/module_edit_branches.html:45
 #: teams/templates/teams/team_edit.html:58
@@ -4354,7 +4364,7 @@ msgstr "Chalkash"
 
 #: stats/templates/module_images.html:77
 msgid "No existing file (“Technical” fuzzy)"
-msgstr "Mavjud fayl yo'q (\"Texnik\" noaniq)"
+msgstr "Mavjud fayl yoʻq (\"Texnik\" noaniq)"
 
 #: stats/templates/module_images.html:80
 msgid "Not translated"
@@ -4362,7 +4372,7 @@ msgstr "Tarjima qilinmagan"
 
 #: stats/templates/module_images.html:81
 msgid "Empty icon"
-msgstr "Bo'sh belgi"
+msgstr "Boʻsh belgi"
 
 #: stats/templates/module_list.html:3 stats/templates/module_list.html:14
 msgid "GNOME Modules"
@@ -4378,38 +4388,38 @@ msgstr "%(user_language)s tilidagi tarjima holati"
 #, python-format
 msgid ""
 "Select a module below to see some damned lies about it. The translation "
-"percentages you see are computed based on the main module branch (that might "
-"be called <code>master</code>, <code>main</code>, <code>trunk</code>, etc.). "
-"Translation badges show statistics about the translation percentage for both "
-"the User Interface and the Documentation. The badge is <span class=\"badge "
-"text-bg-success\">green</span> when the translation is 100%%, <span "
-"class=\"badge text-bg-warning\">orange</span> between 96%% and 100%%. "
-"Otherwise, it will be displayed in <span class=\"badge text-bg-danger\">red</"
-"span>. UI or documentation po files might be missing. In this case, the "
-"<span class=\"badge text-bg-secondary\">UI missing</span> or <span "
-"class=\"badge text-bg-secondary\">Doc. missing</span> is shown. When there "
+"percentages you see are computed based on the main module branch (that might"
+" be called <code>master</code>, <code>main</code>, <code>trunk</code>, "
+"etc.). Translation badges show statistics about the translation percentage "
+"for both the User Interface and the Documentation. The badge is <span "
+"class=\"badge text-bg-success\">green</span> when the translation is 100%%, "
+"<span class=\"badge text-bg-warning\">orange</span> between 96%% and 100%%. "
+"Otherwise, it will be displayed in <span class=\"badge text-bg-"
+"danger\">red</span>. UI or documentation po files might be missing. In this "
+"case, the <span class=\"badge text-bg-secondary\">UI missing</span> or <span"
+" class=\"badge text-bg-secondary\">Doc. missing</span> is shown. When there "
 "are multiple domains for a module, whether for the User Interface or the "
 "Documentation, the mean of all the statistics is displayed."
 msgstr ""
-"U haqidagi ba'zi yolg'onlarni ko'rish uchun quyidagi modulni tanlang. Siz "
-"ko'rgan tarjima foizlari asosiy modul bo'limiga qarab hisoblanadi (u "
+"U haqidagi ba'zi yolgʻonlarni koʻrish uchun quyidagi modulni tanlang. Siz "
+"koʻrgan tarjima foizlari asosiy modul boʻlimiga qarab hisoblanadi (u "
 "<code>master</code> , <code>main</code> , <code>trunk</code> va hokazo deb "
 "nomlanishi mumkin). Tarjima nishonlari foydalanuvchi interfeysi va "
 "dokumentatsiya uchun tarjima foizi haqidagi statistik ma'lumotlarni "
-"ko'rsatadi. Tarjima 100%% boʻlsa, <span class=\"badge text-bg-"
+"koʻrsatadi. Tarjima 100%% boʻlsa, <span class=\"badge text-bg-"
 "success\">nishon yashil</span> rangda, 96%% va 100%% orasida <span "
 "class=\"badge text-bg-warning\">toʻq sariq rangda boʻladi</span> . Aks "
 "holda, u <span class=\"badge text-bg-danger\">qizil</span> rangda "
-"ko'rsatiladi. UI yoki hujjatlar po fayllari etishmayotgan bo'lishi mumkin. "
-"Bunday holda, <span class=\"badge text-bg-secondary\">UI yo'q</span> yoki "
+"koʻrsatiladi. UI yoki hujjatlar po fayllari etishmayotgan boʻlishi mumkin. "
+"Bunday holda, <span class=\"badge text-bg-secondary\">UI yoʻq</span> yoki "
 "<span class=\"badge text-bg-secondary\">Doc. etishmayotganligi</span> "
-"ko'rsatilgan. Agar modul uchun bir nechta domenlar mavjud bo'lsa, "
-"foydalanuvchi interfeysi yoki hujjat uchun bo'ladimi, barcha statistik "
-"ma'lumotlarning o'rtacha qiymati ko'rsatiladi."
+"koʻrsatilgan. Agar modul uchun bir nechta domenlar mavjud boʻlsa, "
+"foydalanuvchi interfeysi yoki hujjat uchun boʻladimi, barcha statistik "
+"ma'lumotlarning oʻrtacha qiymati koʻrsatiladi."
 
 #: stats/templates/module_list.html:37
 msgid "This module is archived and read-only."
-msgstr "Ushbu modul arxivlangan va faqat o'qish uchun mo'ljallangan."
+msgstr "Ushbu modul arxivlangan va faqat oʻqish uchun moʻljallangan."
 
 #: stats/templates/module_list.html:43
 msgid "Translation percentage of the User Interface on the main branch."
@@ -4432,7 +4442,7 @@ msgstr "UI yetishmayapti"
 
 #: stats/templates/module_list.html:59
 msgid "Translation percentage of the Documentation on the main branch."
-msgstr "Asosiy filial bo'yicha dokumentatsiyaning tarjima foizi."
+msgstr "Asosiy filial boʻyicha dokumentatsiyaning tarjima foizi."
 
 #: stats/templates/module_list.html:61
 #, python-format
@@ -4446,7 +4456,7 @@ msgstr "Asosiy boʻlimdagi dokumentatsiyaning tarjima foizi yoʻq."
 
 #: stats/templates/module_list.html:69
 msgid "Doc. missing"
-msgstr "Dok. yo'qolgan"
+msgstr "Dok. yoʻqolgan"
 
 #: stats/templates/release_compare.html:4
 #: stats/templates/release_compare.html:16 stats/tests/tests.py:1048
@@ -4474,8 +4484,8 @@ msgstr "GNOME relizlari"
 #: stats/templates/release_list.html:8
 msgid "Select a release or a release set below to see more details about it:"
 msgstr ""
-"Bu haqda batafsil ma’lumot olish uchun quyida reliz yoki relizlar to‘plamini "
-"tanlang:"
+"Bu haqda batafsil ma’lumot olish uchun quyida reliz yoki relizlar toʻplamini"
+" tanlang:"
 
 #: stats/templates/release_list.html:16
 msgid "Expand or collapse the category"
@@ -4501,7 +4511,7 @@ msgstr "Eslatmalar"
 
 #: stats/templates/stats_show.html:50
 msgid "Search for similar bugs before reporting it"
-msgstr "Xabar berishdan oldin shunga o'xshash xatolarni qidiring"
+msgstr "Xabar berishdan oldin shunga oʻxshash xatolarni qidiring"
 
 #: stats/templates/stats_show.html:53
 msgid "Report this bug"
@@ -4513,7 +4523,7 @@ msgstr "Tarjima qilingan"
 
 #: stats/templates/stats_show.html:96
 msgid "Display document figures"
-msgstr "Hujjat raqamlarini ko'rsatish"
+msgstr "Hujjat raqamlarini koʻrsatish"
 
 #: stats/templatetags/stats_extras.py:169
 msgid "Error"
@@ -4537,18 +4547,18 @@ msgstr "Pofiltrni ishga tushirishda xatolik yuz berdi: %s"
 #: stats/utils.py:157
 #, python-format
 msgid "PO file “%s” does not exist or cannot be read."
-msgstr "“%s” PO fayli mavjud emas yoki o‘qib bo‘lmaydi."
+msgstr "“%s” PO fayli mavjud emas yoki oʻqib boʻlmaydi."
 
 #: stats/utils.py:161
 #, python-format
 msgid "Can’t get statistics for POT file “%s”."
-msgstr "“%s” POT fayli statistikasini olib bo‘lmadi."
+msgstr "“%s” POT fayli statistikasini olib boʻlmadi."
 
 #: stats/utils.py:338
 msgid ""
 "Unable to initialize the GitLab client because the authentication failed."
 msgstr ""
-"GitLab mijozini ishga tushirib bo‘lmadi, chunki autentifikatsiya amalga "
+"GitLab mijozini ishga tushirib boʻlmadi, chunki autentifikatsiya amalga "
 "oshmadi."
 
 #: stats/views.py:81 teams/views.py:72
@@ -4556,7 +4566,7 @@ msgid ""
 "The return format type you indicated is not allowed. Allowed values are: "
 "html, json, xml."
 msgstr ""
-"Siz ko'rsatgan qaytarish formati turiga ruxsat berilmagan. Ruxsat berilgan "
+"Siz koʻrsatgan qaytarish formati turiga ruxsat berilmagan. Ruxsat berilgan "
 "qiymatlar: html, json, xml."
 
 #: stats/views.py:129
@@ -4566,12 +4576,12 @@ msgstr "Kechirasiz, sizda ushbu modul boʻlimlarini tahrirlash ruxsati yoʻq"
 #: stats/views.py:174
 #, python-format
 msgid "The new branch %s has been added"
-msgstr "Yangi filial %s qo‘shildi"
+msgstr "Yangi filial %s qoʻshildi"
 
 #: stats/views.py:180
 #, python-format
 msgid "Error adding the branch '%(branch_name)s': %(error)s"
-msgstr "“%(branch_name)s” filialini qo‘shishda xatolik yuz berdi: %(error)s"
+msgstr "“%(branch_name)s” filialini qoʻshishda xatolik yuz berdi: %(error)s"
 
 #: stats/views.py:185
 msgid "Branches updated"
@@ -4587,8 +4597,8 @@ msgid ""
 "A statistics update is already running for branch %(branch_name)s of module "
 "%(module_name)s."
 msgstr ""
-"Statistik yangilanish allaqachon %(module_name)s-modulning %(branch_name)s-"
-"bo‘limi uchun ishlamoqda."
+"Statistik yangilanish allaqachon %(module_name)s-modulning "
+"%(branch_name)s-boʻlimi uchun ishlamoqda."
 
 #: stats/views.py:223
 #, python-format
@@ -4596,8 +4606,8 @@ msgid ""
 "Statistics successfully updated for branch “%(branch)s” of module "
 "“%(module)s”."
 msgstr ""
-"“%(module)s” modulining “%(branch)s” filiali uchun statistika muvaffaqiyatli "
-"yangilandi."
+"“%(module)s” modulining “%(branch)s” filiali uchun statistika muvaffaqiyatli"
+" yangilandi."
 
 #: teams/admin.py:67 teams/models.py:266
 msgid "Team"
@@ -4643,7 +4653,7 @@ msgstr "Ish jarayonidan foydalaning"
 
 #: teams/models.py:135
 msgid "Whether the team uses the GNOME translation workflow or not."
-msgstr "Jamoa GNOME tarjima ish jarayonidan foydalanadimi yoki yo'qmi."
+msgstr "Jamoa GNOME tarjima ish jarayonidan foydalanadimi yoki yoʻqmi."
 
 #: teams/models.py:138
 msgid "Presentation"
@@ -4659,11 +4669,11 @@ msgstr "Aʼzolar"
 
 #: teams/models.py:142
 msgid "Mailing list"
-msgstr "Pochta ro'yxati"
+msgstr "Pochta roʻyxati"
 
 #: teams/models.py:143
 msgid "URL to subscribe"
-msgstr "Obuna bo'lish uchun URL"
+msgstr "Obuna boʻlish uchun URL"
 
 #: teams/models.py:240
 #, python-format
@@ -4699,13 +4709,13 @@ msgstr "Faol emas"
 #: teams/models.py:274
 #, fuzzy
 #| msgid ""
-#| "Whether the person is active in the team or not. Account that have no "
-#| "recent activity are set to inactive."
+#| "Whether the person is active in the team or not. Account that have no recent"
+#| " activity are set to inactive."
 msgid ""
 "Whether the person is active in the team or not. Accounts that have no "
 "recent activity are set to inactive."
 msgstr ""
-"Inson jamoada faolmi yoki yo'qmi. Oxirgi faoliyati bo'lmagan hisob nofaol "
+"Inson jamoada faolmi yoki yoʻqmi. Oxirgi faoliyati boʻlmagan hisob nofaol "
 "qilib sozlangan."
 
 #: teams/templates/teams/_includes/list_team_members.html:12
@@ -4720,7 +4730,7 @@ msgstr "Muvofiqlashtiruvchi: %(people_list)s"
 
 #: teams/templates/teams/_includes/team_small_block.html:21
 msgid "No coordinator"
-msgstr "Muvofiqlashtiruvchi yo'q"
+msgstr "Muvofiqlashtiruvchi yoʻq"
 
 #: teams/templates/teams/_includes/team_small_block.html:28
 #, python-format
@@ -4750,11 +4760,9 @@ msgid ""
 "\n"
 "<p>%(username)s,</p>\n"
 "\n"
-"<p>Your role in the %(team)s team on %(site_domain)s has been set to "
-"“%(role)s”.</p>\n"
+"<p>Your role in the %(team)s team on %(site_domain)s has been set to “%(role)s”.</p>\n"
 "\n"
-"<p>This is an automatic message sent from <a href=\"%(site_domain)s\">GNOME "
-"Damned Lies</a>. Please do not answer.</p>\n"
+"<p>This is an automatic message sent from <a href=\"%(site_domain)s\">GNOME Damned Lies</a>. Please do not answer.</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
@@ -4765,11 +4773,9 @@ msgid ""
 "\n"
 "%(username)s,\n"
 "\n"
-"Your role in the %(team)s team on %(site_domain)s has been set to "
-"“%(role)s”.\n"
+"Your role in the %(team)s team on %(site_domain)s has been set to “%(role)s”.\n"
 "\n"
-"This is an automatic message sent from %(site_domain)s. Please do not "
-"answer.\n"
+"This is an automatic message sent from %(site_domain)s. Please do not answer.\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
@@ -4780,11 +4786,9 @@ msgid ""
 "\n"
 "<p>%(username)s,</p>\n"
 "\n"
-"<p>You have been removed from %(team)s team on %(site_domain)s. All your "
-"activity feed has been kept, but you cannot submit translations anymore</p>\n"
+"<p>You have been removed from %(team)s team on %(site_domain)s. All your activity feed has been kept, but you cannot submit translations anymore</p>\n"
 "\n"
-"<p>This is an automatic message sent from <a href=\"%(site_domain)s\">GNOME "
-"Damned Lies</a>. Please do not answer.</p>\n"
+"<p>This is an automatic message sent from <a href=\"%(site_domain)s\">GNOME Damned Lies</a>. Please do not answer.</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
@@ -4795,12 +4799,10 @@ msgid ""
 "\n"
 "%(username)s,\n"
 "\n"
-"You have been removed from %(team)s team on %(site_domain)s. All your "
-"activity feed has been kept, but\n"
+"You have been removed from %(team)s team on %(site_domain)s. All your activity feed has been kept, but\n"
 "you cannot submit translations anymore.\n"
 "\n"
-"This is an automatic message sent from %(site_domain)s. Please do not "
-"answer.\n"
+"This is an automatic message sent from %(site_domain)s. Please do not answer.\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
@@ -4824,7 +4826,7 @@ msgstr "Tarjimadagi xato haqida xabar berish"
 
 #: teams/templates/teams/team_base.html:24
 msgid "Show Existing Bugs"
-msgstr "Mavjud xatolarni ko'rsatish"
+msgstr "Mavjud xatolarni koʻrsatish"
 
 #: teams/templates/teams/team_base.html:29
 msgid "Mailing List:"
@@ -4832,7 +4834,7 @@ msgstr "Pochta roʻyxati:"
 
 #: teams/templates/teams/team_base.html:32
 msgid "Send e-mail to the list"
-msgstr "Ro'yxatga elektron pochta xabarini yuboring"
+msgstr "Roʻyxatga elektron pochta xabarini yuboring"
 
 #: teams/templates/teams/team_base.html:34
 msgid "Subscribe"
@@ -4840,7 +4842,7 @@ msgstr "Obuna"
 
 #: teams/templates/teams/team_base.html:47
 msgid "This team has currently no coordinator."
-msgstr "Bu jamoada hozircha muvofiqlashtiruvchi yo'q."
+msgstr "Bu jamoada hozircha muvofiqlashtiruvchi yoʻq."
 
 #: teams/templates/teams/team_base.html:48
 #, python-format
@@ -4848,12 +4850,13 @@ msgid ""
 "See <a href=\"%(link)s\">the GTP Wiki</a> for more information about "
 "coordinatorship."
 msgstr ""
-"Muvofiqlashtiruvchilik haqida ko'proq ma'lumot olish uchun <a "
+"Muvofiqlashtiruvchilik haqida koʻproq ma'lumot olish uchun <a "
 "href=\"%(link)s\">GTP Wiki-ga</a> qarang."
 
 #: teams/templates/teams/team_detail.html:6
 #, python-format
-msgid "Last actions made by the %(lang)s team of the GNOME Translation Project"
+msgid ""
+"Last actions made by the %(lang)s team of the GNOME Translation Project"
 msgstr ""
 "GNOME tarjima loyihasining %(lang)s jamoasi tomonidan bajarilgan oxirgi "
 "harakatlar"
@@ -4869,15 +4872,15 @@ msgstr "Jamoani tark etish orqali siz:"
 
 #: teams/templates/teams/team_detail.html:65
 msgid "Stop being able to contribute."
-msgstr "Hissa qo'shishni to'xtating."
+msgstr "Hissa qoʻshishni toʻxtating."
 
 #: teams/templates/teams/team_detail.html:66
 msgid "Lose the right to translate."
-msgstr "Tarjima qilish huquqini yo'qoting."
+msgstr "Tarjima qilish huquqini yoʻqoting."
 
 #: teams/templates/teams/team_detail.html:67
 msgid "Lose your rights as a reviewer or committer."
-msgstr "Taqrizchi yoki komitter sifatida huquqlaringizni yo'qoting."
+msgstr "Taqrizchi yoki komitter sifatida huquqlaringizni yoʻqoting."
 
 #: teams/templates/teams/team_detail.html:76
 msgid "Leave the team"
@@ -4885,7 +4888,7 @@ msgstr "Jamoani tark eting"
 
 #: teams/templates/teams/team_detail.html:88
 msgid "Join"
-msgstr "Qo'shilish"
+msgstr "Qoʻshilish"
 
 #: teams/templates/teams/team_detail.html:92
 #, python-format
@@ -4900,12 +4903,13 @@ msgid ""
 "translation team."
 msgstr ""
 "Hozirda bu til uchun tuzilgan jamoa mavjud emas. Yangi tarjima guruhini "
-"yaratish jarayoni haqida koʻproq maʼlumot olish uchun <a href=\"https://"
-"wiki.gnome.org/TranslationProject/StartingATeam\">GTP Wiki-ga</a> qarang."
+"yaratish jarayoni haqida koʻproq maʼlumot olish uchun <a "
+"href=\"https://wiki.gnome.org/TranslationProject/StartingATeam\">GTP Wiki-"
+"ga</a> qarang."
 
 #: teams/templates/teams/team_detail.html:121
 msgid "Plural forms:"
-msgstr "Ko‘plik shakllari:"
+msgstr "Koʻplik shakllari:"
 
 #: teams/templates/teams/team_detail.html:122
 msgid "Current activities"
@@ -4921,11 +4925,11 @@ msgstr "Arxivlar"
 
 #: teams/templates/teams/team_detail.html:159
 msgid "Show or hide inactive team members"
-msgstr "Nofaol jamoa aʼzolarini ko'rsatish yoki yashirish"
+msgstr "Nofaol jamoa aʼzolarini koʻrsatish yoki yashirish"
 
 #: teams/templates/teams/team_detail.html:177
 msgid "Apply modifications"
-msgstr "O'zgartirishlarni qo'llash"
+msgstr "Oʻzgartirishlarni qoʻllash"
 
 #: teams/templates/teams/team_edit.html:17
 #, python-format
@@ -4938,8 +4942,8 @@ msgstr "Bu jamoa tarjima ish jarayonidan foydalanmoqda"
 
 #: teams/templates/teams/team_edit.html:53
 msgid ""
-"This content may use <a href='https://en.wikipedia.org/wiki/"
-"Markdown'>Markdown</a> syntax"
+"This content may use <a "
+"href='https://en.wikipedia.org/wiki/Markdown'>Markdown</a> syntax"
 msgstr ""
 "Bu kontent <a href='https://en.wikipedia.org/wiki/Markdown'>Markdown</a> "
 "sintaksisidan foydalanishi mumkin"
@@ -4968,7 +4972,7 @@ msgstr "Komitterlar"
 
 #: teams/views.py:119
 msgid "No committers"
-msgstr "Kommitterlar yo'q"
+msgstr "Kommitterlar yoʻq"
 
 #: teams/views.py:123
 msgid "Reviewers"
@@ -4976,7 +4980,7 @@ msgstr "Taqrizchilar"
 
 #: teams/views.py:126
 msgid "No reviewers"
-msgstr "Taqrizchilar yo'q"
+msgstr "Taqrizchilar yoʻq"
 
 #: teams/views.py:130
 msgid "Translators"
@@ -4984,11 +4988,11 @@ msgstr "Tarjimonlar"
 
 #: teams/views.py:133
 msgid "No translators"
-msgstr "Tarjimonlar yo'q"
+msgstr "Tarjimonlar yoʻq"
 
 #: teams/views.py:137
 msgid "Inactive members"
-msgstr "Faol bo'lmagan aʼzolar"
+msgstr "Faol boʻlmagan aʼzolar"
 
 #: teams/views.py:140
 msgid "No inactive members"
@@ -4996,7 +5000,7 @@ msgstr "Faol boʻlmagan aʼzolar yoʻq"
 
 #: teams/views.py:207
 msgid "The role of the user has been changed successfully."
-msgstr "Foydalanuvchining roli muvaffaqiyatli o'zgartirildi."
+msgstr "Foydalanuvchining roli muvaffaqiyatli oʻzgartirildi."
 
 #: teams/views.py:211
 #, python-format
@@ -5009,7 +5013,7 @@ msgid ""
 "An error occurred while changing the role of the user. Errors were: "
 "%(errors)s"
 msgstr ""
-"Foydalanuvchi rolini o‘zgartirishda xatolik yuz berdi. Xatolar: %(errors)s"
+"Foydalanuvchi rolini oʻzgartirishda xatolik yuz berdi. Xatolar: %(errors)s"
 
 #: teams/views.py:240
 msgid "The team details have been updated successfully."
@@ -5046,13 +5050,13 @@ msgstr "Kechirasiz, lekin serverda xatolik yuz berdi."
 #, python-format
 msgid ""
 "If anything should be changed on this page, please <a target=\"_blank\" "
-"class=\"alert-link\" href=\"%(internationalisation_team_bug_url)s\">submit a "
-"bug report</a>."
+"class=\"alert-link\" href=\"%(internationalisation_team_bug_url)s\">submit a"
+" bug report</a>."
 msgstr ""
-"Agar ushbu sahifada biror narsa o'zgartirilishi kerak bo'lsa, <a "
+"Agar ushbu sahifada biror narsa oʻzgartirilishi kerak boʻlsa, <a "
 "target=\"_blank\" class=\"alert-link\" "
-"href=\"%(internationalisation_team_bug_url)s\">xato haqida hisobot yuboring</"
-"a> ."
+"href=\"%(internationalisation_team_bug_url)s\">xato haqida hisobot "
+"yuboring</a> ."
 
 #: templates/_includes/footer.html:11
 msgid "The GNOME Project"
@@ -5068,7 +5072,7 @@ msgstr "Biz haqimizda"
 
 #: templates/_includes/footer.html:27
 msgid "Support GNOME"
-msgstr "GNOME-ni qo'llab-quvvatlang"
+msgstr "GNOME-ni qoʻllab-quvvatlang"
 
 #: templates/_includes/footer.html:30
 msgid "Merchandise"
@@ -5076,7 +5080,7 @@ msgstr "Tovarlar"
 
 #: templates/_includes/footer.html:34
 msgid "Contact Us"
-msgstr "Biz bilan bog'lanish"
+msgstr "Biz bilan bogʻlanish"
 
 #: templates/_includes/footer.html:38
 msgid "The GNOME Foundation"
@@ -5092,7 +5096,7 @@ msgstr "Dasturchilar markazi"
 
 #: templates/_includes/footer.html:55
 msgid "GNOME Project Handbook"
-msgstr "GNOME loyihasi uchun qo'llanma"
+msgstr "GNOME loyihasi uchun qoʻllanma"
 
 #: templates/_includes/footer.html:59
 msgid "Apps for GNOME"
@@ -5129,7 +5133,7 @@ msgstr "Damned Lies bosh sahifasiga qaytish"
 
 #: templates/_includes/header.html:48
 msgid "Release sets"
-msgstr "Chiqarish to'plamlari"
+msgstr "Chiqarish toʻplamlari"
 
 #: templates/_includes/header.html:55 templates/index.html:109
 msgid "Modules"
@@ -5141,8 +5145,8 @@ msgstr "Biz haqimizda"
 
 #: templates/about.html:13 templates/index.html:22
 msgid ""
-"Damned Lies is the Web application used to manage the localisation (l10n) of "
-"the GNOME project."
+"Damned Lies is the Web application used to manage the localisation (l10n) of"
+" the GNOME project."
 msgstr ""
 "Damned Lies - bu GNOME loyihasining lokalizatsiyasini (l10n) boshqarish "
 "uchun foydalaniladigan veb-ilova."
@@ -5153,7 +5157,7 @@ msgid ""
 "It allows you to browse live statistics. Damned Lies also manages the "
 "translation <a href=\"%(link)s\">workflow</a>."
 msgstr ""
-"Bu sizga jonli statistikani ko'rib chiqish imkonini beradi. Damned Lies ham "
+"Bu sizga jonli statistikani koʻrib chiqish imkonini beradi. Damned Lies ham "
 "tarjima <a href=\"%(link)s\">ish jarayonini</a> boshqaradi."
 
 #: templates/about.html:21
@@ -5183,7 +5187,8 @@ msgstr ""
 #, python-format
 msgid "Quality check icon by <a href=\"%(link)s\">Gregor Cresnar</a>."
 msgstr ""
-"<a href=\"%(link)s\">Gregor Cresnar</a> tomonidan sifatni tekshirish belgisi."
+"<a href=\"%(link)s\">Gregor Cresnar</a> tomonidan sifatni tekshirish "
+"belgisi."
 
 #: templates/about.html:42
 msgid "This Web site has been translated in your language by:"
@@ -5228,8 +5233,8 @@ msgid ""
 "application."
 msgstr ""
 "Bu GNOME Damned Lies ning ishlab chiqarishdan oldingi namunasidir. Agar siz "
-"GNOME-ga hissa qo'shmoqchi bo'lsangiz, iltimos, rasmiy GNOME Damned Lies "
-"ilovasini ko'rib chiqing."
+"GNOME-ga hissa qoʻshmoqchi boʻlsangiz, iltimos, rasmiy GNOME Damned Lies "
+"ilovasini koʻrib chiqing."
 
 #: templates/base_modal.html:10
 msgid "Close"
@@ -5252,9 +5257,9 @@ msgid ""
 "Damned Lies is able to filter strings which are seldom visible in user "
 "interfaces, so as translation teams can concentrate on most visible strings."
 msgstr ""
-"Damned Lies foydalanuvchi interfeyslarida kamdan-kam ko'rinadigan satrlarni "
-"filtrlashi mumkin, shuning uchun tarjima guruhlari diqqatni eng ko'rinadigan "
-"satrlarga qaratishi mumkin."
+"Damned Lies foydalanuvchi interfeyslarida kamdan-kam koʻrinadigan satrlarni "
+"filtrlashi mumkin, shuning uchun tarjima guruhlari diqqatni eng koʻrinadigan"
+" satrlarga qaratishi mumkin."
 
 #: templates/help/reduced_po.html:15
 #, python-format
@@ -5262,17 +5267,18 @@ msgid ""
 "The most typical case is the strings from schema files, hence the default "
 "filter is filtering out strings which come from files having "
 "“gschema.xml.in” in their name. Technically speaking, the filter is using "
-"the <a href=\"%(pogrep_url)s\">pogrep command from the Translate Toolkit</a>."
+"the <a href=\"%(pogrep_url)s\">pogrep command from the Translate "
+"Toolkit</a>."
 msgstr ""
 "Eng tipik holat sxema fayllaridagi satrlardir, shuning uchun standart filtr "
 "nomida “gschema.xml.in” boʻlgan fayllardan keladigan satrlarni filtrlaydi. "
-"Texnik jihatdan aytganda, filtr <a href=\"%(pogrep_url)s\">Translate Toolkit "
-"dan pogrep buyrug'idan</a> foydalanmoqda."
+"Texnik jihatdan aytganda, filtr <a href=\"%(pogrep_url)s\">Translate Toolkit"
+" dan pogrep buyrugʻidan</a> foydalanmoqda."
 
 #: templates/help/reduced_po.html:22
 msgid ""
-"When you see a po file or a table header containing “(red.)” or “(reduced)”, "
-"it means that the target files have been filtered as stated above."
+"When you see a po file or a table header containing “(red.)” or “(reduced)”,"
+" it means that the target files have been filtered as stated above."
 msgstr ""
 "“(qizil.)” yoki “(qisqartirilgan)” ni oʻz ichiga olgan po fayli yoki jadval "
 "sarlavhasini koʻrsangiz, bu maqsadli fayllar yuqorida aytib oʻtilganidek "
@@ -5298,7 +5304,7 @@ msgid ""
 "The figure below describes the various states and actions available during "
 "the translation process of a module."
 msgstr ""
-"Quyidagi rasmda modulni tarjima qilish jarayonida mavjud bo'lgan turli "
+"Quyidagi rasmda modulni tarjima qilish jarayonida mavjud boʻlgan turli "
 "holatlar va harakatlar tasvirlangan."
 
 #: templates/help/vertimus_workflow.html:9
@@ -5307,12 +5313,13 @@ msgstr "Vertimus ish oqimi sxemasi."
 
 #: templates/index.html:8
 msgid ""
-"The login process has evolved, please read the <a href=\"https://"
-"discourse.gnome.org/t/release-of-3rd-party-authentication-in-damned-lies/"
-"29694\" class=\"alert-link\"> Release Announcement on GNOME’s Discourse </"
-"a>. In any case you have troubles accessing your account, feel free to <a "
-"href=\"https://gitlab.gnome.org/Infrastructure/damned-lies/-/issues\" "
-"class=\"alert-link\">open an issue on Damned Lies’ GitLab project</a>."
+"The login process has evolved, please read the <a "
+"href=\"https://discourse.gnome.org/t/release-of-3rd-party-authentication-in-"
+"damned-lies/29694\" class=\"alert-link\"> Release Announcement on GNOME’s "
+"Discourse </a>. In any case you have troubles accessing your account, feel "
+"free to <a href=\"https://gitlab.gnome.org/Infrastructure/damned-"
+"lies/-/issues\" class=\"alert-link\">open an issue on Damned Lies’ GitLab "
+"project</a>."
 msgstr ""
 
 #: templates/index.html:19
@@ -5322,13 +5329,13 @@ msgstr "GNOME loyihasini tarjima qilish platformasi"
 #: templates/index.html:28
 #, python-format
 msgid ""
-"Contribute by <a href=\"%(sign_in_url)s\">creating an account</a> and become "
-"a <a href=\"%(teams_url)s\">member of a translation team</a> in one of your "
-"mother tongue or a language you master."
+"Contribute by <a href=\"%(sign_in_url)s\">creating an account</a> and become"
+" a <a href=\"%(teams_url)s\">member of a translation team</a> in one of your"
+" mother tongue or a language you master."
 msgstr ""
-"<a href=\"%(sign_in_url)s\">Hisob yaratish</a> orqali o'z hissangizni "
-"qo'shing va ona tilingiz yoki o'zingiz o'zlashtirgan tilingizdan birida <a "
-"href=\"%(teams_url)s\">tarjima jamoasi a'zosi</a> bo'ling."
+"<a href=\"%(sign_in_url)s\">Hisob yaratish</a> orqali oʻz hissangizni "
+"qoʻshing va ona tilingiz yoki oʻzingiz oʻzlashtirgan tilingizdan birida <a "
+"href=\"%(teams_url)s\">tarjima jamoasi a'zosi</a> boʻling."
 
 #: templates/index.html:60
 msgid ""
@@ -5336,16 +5343,17 @@ msgid ""
 "(coordinator), web pages and mailing list information."
 msgstr ""
 "GNOME Translation Teams, asosiy aloqa (muvofiqlashtiruvchi), veb-sahifalar "
-"va pochta ro'yxati ma'lumotlari kabi to'liq ma'lumotlarga ega."
+"va pochta roʻyxati ma'lumotlari kabi toʻliq ma'lumotlarga ega."
 
 #: templates/index.html:61
 msgid ""
-"If there is no team for your language, you can easily <a href='https://"
-"wiki.gnome.org/TranslationProject/StartingATeam/'>start your own team</a>."
+"If there is no team for your language, you can easily <a "
+"href='https://wiki.gnome.org/TranslationProject/StartingATeam/'>start your "
+"own team</a>."
 msgstr ""
-"Agar tilingiz uchun jamoa bo'lmasa, <a href='https://wiki.gnome.org/"
-"TranslationProject/StartingATeam/'>o'z jamoangizni osongina boshlashingiz</"
-"a> mumkin."
+"Agar tilingiz uchun jamoa boʻlmasa, <a "
+"href='https://wiki.gnome.org/TranslationProject/StartingATeam/'>oʻz "
+"jamoangizni osongina boshlashingiz</a> mumkin."
 
 #: templates/index.html:77
 #, python-format
@@ -5354,11 +5362,11 @@ msgstr "<a href='%(teams_url)s'>Tarjima guruhlari</a> bilan tillar."
 
 #: templates/index.html:80
 msgid ""
-"Some teams manage more than one language (usually just simple variants), and "
-"here you can see all the languages GNOME is being translated to."
+"Some teams manage more than one language (usually just simple variants), and"
+" here you can see all the languages GNOME is being translated to."
 msgstr ""
 "Ba'zi jamoalar bir nechta tillarni boshqaradi (odatda oddiy variantlar) va "
-"bu yerda siz GNOME tarjima qilinayotgan barcha tillarni ko'rishingiz mumkin."
+"bu yerda siz GNOME tarjima qilinayotgan barcha tillarni koʻrishingiz mumkin."
 
 #: templates/index.html:92
 msgid "Releases"
@@ -5366,32 +5374,31 @@ msgstr "Relizlar"
 
 #: templates/index.html:98
 msgid "Examples of release sets are “GNOME Infrastructure” or “GNOME 43”."
-msgstr ""
-"Chiqarish to'plamlariga misollar \"GNOME infratuzilmasi\" yoki \"GNOME 43\"."
+msgstr "Chiqarish toʻplamlariga misollar \"GNOME infratuzilmasi\" yoki \"GNOME 43\"."
 
 #: templates/index.html:99
 msgid ""
 "Official GNOME release sets are further divided into categories such as "
 "“Desktop Applications” and “Developer Platform”."
 msgstr ""
-"Rasmiy GNOME relizlar to'plamlari \"Ish stoli ilovalari\" va \"Ishlab "
-"chiquvchilar platformasi\" kabi toifalarga bo'lingan."
+"Rasmiy GNOME relizlar toʻplamlari \"Ish stoli ilovalari\" va \"Ishlab "
+"chiquvchilar platformasi\" kabi toifalarga boʻlingan."
 
 #: templates/index.html:100
 msgid ""
 "Look here if you want to compare language support in any of these release "
 "sets."
 msgstr ""
-"Agar siz ushbu relizlar to'plamidagi til yordamini solishtirmoqchi "
-"bo'lsangiz, bu yerga qarang."
+"Agar siz ushbu relizlar toʻplamidagi til yordamini solishtirmoqchi "
+"boʻlsangiz, bu yerga qarang."
 
 #: templates/index.html:115
 msgid ""
-"Modules are separate libraries or applications, with one or more branches of "
-"development included."
+"Modules are separate libraries or applications, with one or more branches of"
+" development included."
 msgstr ""
-"Modullar alohida kutubxonalar yoki ilovalar bo'lib, bir yoki bir nechta "
-"rivojlanish tarmoqlarini o'z ichiga oladi."
+"Modullar alohida kutubxonalar yoki ilovalar boʻlib, bir yoki bir nechta "
+"rivojlanish tarmoqlarini oʻz ichiga oladi."
 
 #: templates/index.html:116
 msgid ""
@@ -5489,7 +5496,7 @@ msgstr ".po, .gz, .bz2, .xz yoki .png faylini yuklang"
 
 #: vertimus/forms.py:63
 msgid "Send message to the team mailing list"
-msgstr "Jamoaning pochta ro'yxatiga xabar yuboring"
+msgstr "Jamoaning pochta roʻyxatiga xabar yuboring"
 
 #. Translators: this is a label for a boolean field in a form
 #: vertimus/forms.py:94
@@ -5521,13 +5528,15 @@ msgid "Invalid action. Please, select a valid action."
 msgstr "Yaroqsiz harakat. Yaroqli amalni tanlang."
 
 #: vertimus/forms.py:137
-msgid "Invalid action. Someone probably posted another action just before you."
+msgid ""
+"Invalid action. Someone probably posted another action just before you."
 msgstr ""
-"Yaroqsiz harakat. Ehtimol, kimdir sizdan oldin boshqa harakatni e'lon qilgan."
+"Yaroqsiz harakat. Ehtimol, kimdir sizdan oldin boshqa harakatni e'lon "
+"qilgan."
 
 #: vertimus/forms.py:141
 msgid "Committing a file requires a commit author."
-msgstr "Faylni topshirish uchun muallif bo'lishi kerak."
+msgstr "Faylni topshirish uchun muallif boʻlishi kerak."
 
 #: vertimus/forms.py:144
 msgid "Committing a file with token-based authentication is prohibited."
@@ -5577,7 +5586,7 @@ msgstr "Tekshirish"
 
 #: vertimus/models.py:371
 msgid "To Review"
-msgstr "Ko'rib chiqish uchun"
+msgstr "Koʻrib chiqish uchun"
 
 #: vertimus/models.py:389
 msgid "To Commit"
@@ -5637,11 +5646,11 @@ msgstr "Amallarni arxivlash"
 
 #: vertimus/models.py:451
 msgid "Undo the last state change"
-msgstr "Oxirgi holat o'zgarishini bekor qiling"
+msgstr "Oxirgi holat oʻzgarishini bekor qiling"
 
 #: vertimus/models.py:487
 msgid "The state of the module. This may not be changed manually."
-msgstr "Modul holati. Buni qo'lda o'zgartirib bo'lmaydi."
+msgstr "Modul holati. Buni qoʻlda oʻzgartirib boʻlmaydi."
 
 #: vertimus/models.py:494
 msgid "The person who made the action."
@@ -5661,7 +5670,7 @@ msgid ""
 "Whether a notification to the mailing list of the language team has been "
 "sent."
 msgstr ""
-"Til jamoasining pochta ro'yxatiga bildirishnoma yuborilganmi yoki yo'qmi."
+"Til jamoasining pochta roʻyxatiga bildirishnoma yuborilganmi yoki yoʻqmi."
 
 #: vertimus/models.py:507 vertimus/views.py:282 vertimus/views.py:326
 #: vertimus/views.py:332
@@ -5682,7 +5691,7 @@ msgstr "Yuklashdan keyin fayl yangi POT bilan birlashtirildi."
 
 #: vertimus/models.py:543 vertimus/templates/vertimus/vertimus_detail.html:269
 msgid "deleted account"
-msgstr "o'chirilgan hisob"
+msgstr "oʻchirilgan hisob"
 
 #: vertimus/models.py:590
 msgid "File in repository"
@@ -5707,7 +5716,7 @@ msgstr ""
 msgid ""
 "It is not possible to apply this action (%(action)s) on the current state: "
 "%(state)s."
-msgstr "Bu amalni (%(action)s) joriy holatda qo‘llash mumkin emas: %(state)s."
+msgstr "Bu amalni (%(action)s) joriy holatda qoʻllash mumkin emas: %(state)s."
 
 #: vertimus/models.py:817
 #, python-format
@@ -5728,7 +5737,7 @@ msgid ""
 "There is no action in this workflow with a PO file. It is impossible to "
 "submit anything, please upload a PO file first."
 msgstr ""
-"Ushbu ish jarayonida PO fayli bilan hech qanday harakat yo'q. Hech narsa "
+"Ushbu ish jarayonida PO fayli bilan hech qanday harakat yoʻq. Hech narsa "
 "yuborish mumkin emas, avval PO faylini yuklang."
 
 #: vertimus/models.py:1032
@@ -5742,9 +5751,9 @@ msgid ""
 "refreshing the branch statistics. If you have enough rights, you can try to "
 "update the statistics manually, or open an issue."
 msgstr ""
-"Majburiyat muvaffaqiyatli yaratildi, lekin filial statistikasini yangilashda "
-"xatolik yuz berdi. Agar sizda etarlicha huquqlar bo'lsa, statistikani qo'lda "
-"yangilashga urinib ko'rishingiz yoki muammoni ochishingiz mumkin."
+"Majburiyat muvaffaqiyatli yaratildi, lekin filial statistikasini yangilashda"
+" xatolik yuz berdi. Agar sizda etarlicha huquqlar boʻlsa, statistikani "
+"qoʻlda yangilashga urinib koʻrishingiz yoki muammoni ochishingiz mumkin."
 
 #: vertimus/models.py:1060
 #, python-format
@@ -5762,19 +5771,19 @@ msgstr ""
 #, python-format
 msgid ""
 "It is impossible to cherry-pick the commit “%(commit_hash)s” from "
-"“%(current_branch)s” to the target branch “%(main_branch)s” because branches "
-"are the same."
+"“%(current_branch)s” to the target branch “%(main_branch)s” because branches"
+" are the same."
 msgstr ""
 "“%(commit_hash)s” ni “%(current_branch)s” dan “%(main_branch)s” maqsadli "
-"shoxchasiga o‘tish mumkin emas, chunki filiallar bir xil."
+"shoxchasiga oʻtish mumkin emas, chunki filiallar bir xil."
 
 #: vertimus/templates/vertimus/_includes/module_branch_read_only_warning_message.html:9
 msgid ""
 "This module is read-only and no translation can be submitted. This is "
 "usually because the repository URL is not writable."
 msgstr ""
-"Ushbu modul faqat o'qish uchun mo'ljallangan va hech qanday tarjimani "
-"yuborib bo'lmaydi. Buning sababi, odatda, ombor URL manzilini yozish mumkin "
+"Ushbu modul faqat oʻqish uchun moʻljallangan va hech qanday tarjimani "
+"yuborib boʻlmaydi. Buning sababi, odatda, ombor URL manzilini yozish mumkin "
 "emas."
 
 #: vertimus/templates/vertimus/_includes/module_branch_read_only_warning_message.html:15
@@ -5783,14 +5792,14 @@ msgid ""
 "You can fix this by going to the <a href=\"%(module_change_url)s\">module "
 "edition page</a> and updating the repository URL."
 msgstr ""
-"Buni <a href=\"%(module_change_url)s\">modul nashri sahifasiga</a> o‘tish va "
-"ombor URL manzilini yangilash orqali tuzatishingiz mumkin."
+"Buni <a href=\"%(module_change_url)s\">modul nashri sahifasiga</a> oʻtish va"
+" ombor URL manzilini yangilash orqali tuzatishingiz mumkin."
 
 #: vertimus/templates/vertimus/_includes/module_branch_read_only_warning_message.html:20
 msgid "Ask the platform coordinators to update the repository URL."
 msgstr ""
 "Platforma muvofiqlashtiruvchilaridan repozitoriya URL manzilini yangilashni "
-"so'rang."
+"soʻrang."
 
 #: vertimus/templates/vertimus/_includes/po_file_stats.html:13
 msgid "Strings:"
@@ -5798,7 +5807,7 @@ msgstr "Strings:"
 
 #: vertimus/templates/vertimus/_includes/po_file_stats.html:29
 msgid "Words:"
-msgstr "So'zlar:"
+msgstr "Soʻzlar:"
 
 #: vertimus/templates/vertimus/_includes/po_file_stats.html:48
 #, python-format
@@ -5823,8 +5832,7 @@ msgid ""
 "\n"
 "<p>Hello,</p>\n"
 "\n"
-"<p>The new state of <a href=\"%(url)s\">%(module)s — %(branch)s — %(domain)s "
-"(%(language)s)</a> is now “%(new_state)s”.</p>\n"
+"<p>The new state of <a href=\"%(url)s\">%(module)s — %(branch)s — %(domain)s (%(language)s)</a> is now “%(new_state)s”.</p>\n"
 "\n"
 "<blockquote>\n"
 "<p>\n"
@@ -5836,8 +5844,7 @@ msgid ""
 "</blockquote>\n"
 "\n"
 "<hr>\n"
-"<p>This is an automatic message sent from <a href=\"https://"
-"%(site_domain)s\">GNOME Damned Lies</a>. Please do not answer.</p>\n"
+"<p>This is an automatic message sent from <a href=\"https://%(site_domain)s\">GNOME Damned Lies</a>. Please do not answer.</p>\n"
 "\n"
 "<p>The administration team of GNOME Damned Lies</p>\n"
 msgstr ""
@@ -5848,15 +5855,13 @@ msgid ""
 "\n"
 "Hello,\n"
 "\n"
-"The new state of %(module)s — %(branch)s — %(domain)s (%(language)s) is now "
-"“%(new_state)s”.\n"
+"The new state of %(module)s — %(branch)s — %(domain)s (%(language)s) is now “%(new_state)s”.\n"
 "%(url)s\n"
 "\n"
 "%(comment)s\n"
 "%(person_name)s\n"
 "\n"
-"This is an automatic message sent from https://%(site_domain)s. Please do "
-"not answer.\n"
+"This is an automatic message sent from https://%(site_domain)s. Please do not answer.\n"
 "\n"
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
@@ -5868,8 +5873,7 @@ msgstr "Sifatni tekshirish natijalari"
 
 #: vertimus/templates/vertimus/quality-check.html:13
 #, python-format
-msgid ""
-"Checks (%(checks)s) by <a href=\"%(url)s\" target=\"_blank\">pofilter</a>"
+msgid "Checks (%(checks)s) by <a href=\"%(url)s\" target=\"_blank\">pofilter</a>"
 msgstr ""
 "(%(checks)s) <a href=\"%(url)s\" target=\"_blank\">pofiltr</a> orqali "
 "tekshiradi"
@@ -5905,7 +5909,7 @@ msgstr "Hammasini yoyish yoki yopish"
 #: vertimus/templates/vertimus/vertimus_detail.html:143
 msgid ""
 "The translation file (PO) that will be the starting point of the translation"
-msgstr "Tarjimaning boshlang'ich nuqtasi bo'ladigan tarjima fayli (PO)"
+msgstr "Tarjimaning boshlangʻich nuqtasi boʻladigan tarjima fayli (PO)"
 
 #: vertimus/templates/vertimus/vertimus_detail.html:143
 msgid "Download current translation file (PO) as stored in the repository"
@@ -5926,7 +5930,7 @@ msgstr "Loyqa satrlar uchun inline farqlari bilan joriy tarjima"
 #: vertimus/templates/vertimus/vertimus_detail.html:155
 msgid "Icons to show current translation with inline diffs for fuzzy strings"
 msgstr ""
-"Joriy tarjimani noaniq satrlar uchun inline farqlari bilan ko'rsatadigan "
+"Joriy tarjimani noaniq satrlar uchun inline farqlari bilan koʻrsatadigan "
 "piktogrammalar"
 
 #: vertimus/templates/vertimus/vertimus_detail.html:156
@@ -5973,9 +5977,9 @@ msgid ""
 "divergences. If it’s relevant, at the end of a flow, committers shall apply "
 "changes from one branch to another one."
 msgstr ""
-"Bir vaqtning o'zida bir nechta tarmoqlardagi faoliyat takroriy ish va "
-"farqlarga olib keladi. Agar bu tegishli bo'lsa, oqim oxirida komitentlar bir "
-"filialdan boshqasiga o'zgartirishlarni qo'llashlari kerak."
+"Bir vaqtning oʻzida bir nechta tarmoqlardagi faoliyat takroriy ish va "
+"farqlarga olib keladi. Agar bu tegishli boʻlsa, oqim oxirida komitentlar bir"
+" filialdan boshqasiga oʻzgartirishlarni qoʻllashlari kerak."
 
 #: vertimus/templates/vertimus/vertimus_detail.html:207
 #, python-format
@@ -5985,8 +5989,8 @@ msgid ""
 "downloading the template file</a> and uploading it back on this workflow."
 msgstr ""
 "Hozircha ushbu modul boʻlimi uchun tarjima yoʻq. <a class=\"link-underline-"
-"primary\" href=\"%(po_url)s\">Andoza faylini yuklab olib</a> , uni ushbu ish "
-"jarayoniga qayta yuklash orqali tarjima qilishni boshlashingiz mumkin."
+"primary\" href=\"%(po_url)s\">Andoza faylini yuklab olib</a> , uni ushbu ish"
+" jarayoniga qayta yuklash orqali tarjima qilishni boshlashingiz mumkin."
 
 #: vertimus/templates/vertimus/vertimus_detail.html:232
 msgid "Actions"
@@ -5994,7 +5998,6 @@ msgstr "Amallar"
 
 #. Translators: human_level is an ordinal expression ('1st',' 2nd',...)
 #. which should be localized in Django itself
-#.
 #: vertimus/templates/vertimus/vertimus_detail.html:238
 #, python-format
 msgid "Archived Actions (%(human_level)s archived series)"
@@ -6014,7 +6017,7 @@ msgstr "Ushbu izohga havola"
 
 #: vertimus/templates/vertimus/vertimus_detail.html:302
 msgid "This message was sent to the mailing list"
-msgstr "Ushbu xabar pochta ro'yxatiga yuborildi"
+msgstr "Ushbu xabar pochta roʻyxatiga yuborildi"
 
 #: vertimus/templates/vertimus/vertimus_detail.html:321
 msgid "Submitted file"
@@ -6026,7 +6029,7 @@ msgstr "Yuborilgan fayl ishlab chiqish oʻzgarishlari bilan birlashtirildi"
 
 #: vertimus/templates/vertimus/vertimus_detail.html:337
 msgid "User Guide Index"
-msgstr "Foydalanuvchi uchun qo'llanma indeksi"
+msgstr "Foydalanuvchi uchun qoʻllanma indeksi"
 
 #: vertimus/templates/vertimus/vertimus_detail.html:341
 msgid "Build help"
@@ -6047,8 +6050,8 @@ msgstr "Yangi amal"
 #: vertimus/templates/vertimus/vertimus_detail.html:373
 #, python-format
 msgid ""
-"You need <a href=\"%(login_url)s\">to be authenticated</a> and member of the "
-"%(team_name)s team."
+"You need <a href=\"%(login_url)s\">to be authenticated</a> and member of the"
+" %(team_name)s team."
 msgstr ""
 "Siz <a href=\"%(login_url)s\">autentifikatsiya qilingan va %(team_name)s "
 "jamoasi aʼzosi boʻlishingiz</a> kerak."
@@ -6071,7 +6074,7 @@ msgstr "← Harakatlarga qaytish"
 
 #: vertimus/templates/vertimus/vertimus_diff.html:21
 msgid "Note: both files are merged with latest POT file."
-msgstr "Eslatma: ikkala fayl ham so'nggi POT fayli bilan birlashtirilgan."
+msgstr "Eslatma: ikkala fayl ham soʻnggi POT fayli bilan birlashtirilgan."
 
 #: vertimus/views.py:115
 msgid ""
@@ -6086,13 +6089,13 @@ msgstr "Bundan tashqari, fayl asosiy filial bilan sinxronlashtirildi."
 #, python-format
 msgid ""
 "You’ve just uploaded a new translation but did not fill your real name in "
-"your profile. If you want your work to be added to the project in your name, "
-"you need to fill it. Please, %(user_link)s go to your profile %(user_link)s "
-"to update your identity."
+"your profile. If you want your work to be added to the project in your name,"
+" you need to fill it. Please, %(user_link)s go to your profile %(user_link)s"
+" to update your identity."
 msgstr ""
 "Siz hozirgina yangi tarjimani yukladingiz, lekin profilingizda haqiqiy "
-"ismingizni kiritmadingiz. Agar siz o'zingizning ishingiz sizning nomingizdan "
-"loyihaga qo'shilishini istasangiz, uni to'ldirishingiz kerak. Shaxsingizni "
+"ismingizni kiritmadingiz. Agar siz oʻzingizning ishingiz sizning nomingizdan"
+" loyihaga qoʻshilishini istasangiz, uni toʻldirishingiz kerak. Shaxsingizni "
 "yangilash uchun %(user_link)s profilingizga %(user_link)s kiring."
 
 #: vertimus/views.py:279
@@ -6103,16 +6106,15 @@ msgstr ""
 
 #: vertimus/views.py:287
 msgid ""
-"No file was found as the second operand of the comparison. It does not exist "
-"on disk."
+"No file was found as the second operand of the comparison. It does not exist"
+" on disk."
 msgstr ""
 
 #: vertimus/views.py:307
 #, fuzzy, python-format
 #| msgid "<a href=\"%(url)s\">Uploaded file</a> by %(name)s on %(date)s"
 msgid "<a href=\"%(url)s\">%(label)s</a> by %(name)s on %(date)s"
-msgstr ""
-"<a href=\"%(url)s\">Fayl %(name)s tomonidan %(date)s kuni yuklangan</a>"
+msgstr "<a href=\"%(url)s\">Fayl %(name)s tomonidan %(date)s kuni yuklangan</a>"
 
 #: vertimus/views.py:338
 #, python-format
@@ -6122,17 +6124,18 @@ msgstr "%(lang)s uchun <a href=\"%(url)s\">oxirgi tasdiqlangan fayl</a>"
 #: vertimus/views.py:345
 #, fuzzy, python-format
 #| msgid "including <a href=\"%(img_url)s\">%(statistics)s image</a>"
-#| msgid_plural "including <a href=\"%(img_url)s\">%(statistics)s images</a>"
+#| msgid_plural ""
+#| "including <a href=\"%(img_url)s\">%(statistics)s images</a>"
 msgid "<a href=\"%(url)s\">%(text)s</a>"
 msgstr "jumladan, <a href=\"%(img_url)s\">%(statistics)s ta rasm</a>"
 
 #: vertimus/views.py:347
 msgid "Latest POT file"
-msgstr "Eng so'nggi POT fayl"
+msgstr "Eng soʻnggi POT fayl"
 
 #: vertimus/views.py:434
 msgid "No po file to check"
-msgstr "Tekshirish uchun po fayli yo'q"
+msgstr "Tekshirish uchun po fayli yoʻq"
 
 #: vertimus/views.py:441
 #, python-format
@@ -6142,7 +6145,7 @@ msgstr "Kechirasiz, server ushbu fayl (%s) sifatini tekshira olmadi."
 
 #: vertimus/views.py:451
 msgid "The po file looks good!"
-msgstr "Po fayli yaxshi ko'rinadi!"
+msgstr "Po fayli yaxshi koʻrinadi!"
 
 #: vertimus/views.py:478
 msgid ""
@@ -6151,12 +6154,12 @@ msgid ""
 "changed strings."
 msgstr ""
 "OGOHLANTIRISH: Ushbu fayl ushbu tarjimani yakunlash uchun asos sifatida mos "
-"<b>EMAS</b> . U o'zgartirilgan satrlarning differentsial qismlarini ajratib "
-"ko'rsatish uchun HTML belgilarini o'z ichiga oladi."
+"<b>EMAS</b> . U oʻzgartirilgan satrlarning differentsial qismlarini ajratib "
+"koʻrsatish uchun HTML belgilarini oʻz ichiga oladi."
 
 #: vertimus/views.py:575
 msgid "No target po file for this action"
-msgstr "Ushbu amal uchun maqsadli po fayli yo'q"
+msgstr "Ushbu amal uchun maqsadli po fayli yoʻq"
 
 #: vertimus/views.py:586
 msgid ""
@@ -6167,10 +6170,10 @@ msgstr ""
 "jamoa aʼzolari bajarishi mumkin."
 
 #~ msgid ""
-#~ "Committed translations are updated manually on l10n.gnome.org from time "
-#~ "to time. Be patient :-)"
+#~ "Committed translations are updated manually on l10n.gnome.org from time to "
+#~ "time. Be patient :-)"
 #~ msgstr ""
-#~ "Qabul qilingan tarjimalar vaqti-vaqti bilan l10n.gnome.org saytida qo'lda "
+#~ "Qabul qilingan tarjimalar vaqti-vaqti bilan l10n.gnome.org saytida qoʻlda "
 #~ "yangilanadi. Sabr qiling :-)"
 
 #~ msgid "Unactivated Accounts"
@@ -6183,8 +6186,7 @@ msgstr ""
 #~ "                                        "
 #~ msgstr ""
 #~ "\n"
-#~ "                                            %(provider_name)s aloqasini "
-#~ "uzing\n"
+#~ "                                            %(provider_name)s aloqasini uzing\n"
 #~ "                                        "
 
 #, python-format
@@ -6198,15 +6200,14 @@ msgstr ""
 #~ "                                    "
 
 #, python-format
-#~ msgid ""
-#~ "Branch not valid: error while checking out the branch (%(exception)s)"
+#~ msgid "Branch not valid: error while checking out the branch (%(exception)s)"
 #~ msgstr ""
-#~ "Filial noto‘g‘ri: filialni tekshirishda xatolik yuz berdi (%(exception)s)"
+#~ "Filial notoʻgʻri: filialni tekshirishda xatolik yuz berdi (%(exception)s)"
 
 #, python-format
 #~ msgid ""
-#~ "An error occurred while initializing the repository for module %(module)s "
-#~ "in branch %(branch)s: %(error)s"
+#~ "An error occurred while initializing the repository for module %(module)s in"
+#~ " branch %(branch)s: %(error)s"
 #~ msgstr ""
 #~ "%(branch)s filialida %(module)s moduli omborini ishga tushirishda xatolik "
 #~ "yuz berdi: %(error)s"
@@ -6216,16 +6217,16 @@ msgstr ""
 #~ "Failed to generate a new POT file for the documentation of “%(module)s” "
 #~ "(domain: “%(domain)s”)."
 #~ msgstr ""
-#~ "“%(module)s” (domen: “%(domain)s”) dokumentatsiyasi uchun yangi POT "
-#~ "faylini yaratib bo‘lmadi."
+#~ "“%(module)s” (domen: “%(domain)s”) dokumentatsiyasi uchun yangi POT faylini "
+#~ "yaratib boʻlmadi."
 
 #, python-format
 #~ msgid ""
 #~ "Failed to generate a new POT file for the user interface of “%(module)s” "
 #~ "(domain: “%(domain)s”)."
 #~ msgstr ""
-#~ "“%(module)s” (domen: “%(domain)s”) foydalanuvchi interfeysi uchun yangi "
-#~ "POT faylini yaratib bo‘lmadi."
+#~ "“%(module)s” (domen: “%(domain)s”) foydalanuvchi interfeysi uchun yangi POT "
+#~ "faylini yaratib boʻlmadi."
 
 #~ msgid ""
 #~ "Sorry, adding new translations when the LINGUAS file is not known is not "
@@ -6235,11 +6236,9 @@ msgstr ""
 #~ "boʻlmaydi."
 
 #, python-format
-#~ msgid ""
-#~ "Git repository at %(name)s could not be initialized. %(command_error)s"
+#~ msgid "Git repository at %(name)s could not be initialized. %(command_error)s"
 #~ msgstr ""
-#~ "%(name)s manzilidagi Git omborini ishga tushirib boʻlmadi. "
-#~ "%(command_error)s"
+#~ "%(name)s manzilidagi Git omborini ishga tushirib boʻlmadi. %(command_error)s"
 
 #, python-format
 #~ msgid ""
@@ -6250,26 +6249,27 @@ msgstr ""
 #~ "maintainers the translated file went through the translation process."
 #~ msgstr ""
 #~ "Ushbu dokumentatsiyaning tarjimasi mavjud emas. Damned Lies <b>hali</b> "
-#~ "yangi dokumentatsiya po faylini qo'shishni qo'llab-quvvatlamaydi. "
-#~ "Iltimos, <a href=\"%(vcs_web)s\"><b>%(name)s loyiha sahifasida</b></a> "
-#~ "birlashtirish soʻrovini oching va tarjima qilingan fayl tarjima "
-#~ "jarayonidan oʻtganligini taʼminlovchilarga isbotlash uchun ushbu modul "
-#~ "faoliyatiga havolani koʻchiring."
+#~ "yangi dokumentatsiya po faylini qoʻshishni qoʻllab-quvvatlamaydi. Iltimos, "
+#~ "<a href=\"%(vcs_web)s\"><b>%(name)s loyiha sahifasida</b></a> birlashtirish "
+#~ "soʻrovini oching va tarjima qilingan fayl tarjima jarayonidan oʻtganligini "
+#~ "taʼminlovchilarga isbotlash uchun ushbu modul faoliyatiga havolani "
+#~ "koʻchiring."
 
 #~ msgid ""
-#~ "You can track the implementation of this feature on <a href=\"https://"
-#~ "gitlab.gnome.org/Infrastructure/damned-lies/-/issues/"
-#~ "437\"><em>gitlab.gnome.org</em> (#437)</a>."
+#~ "You can track the implementation of this feature on <a "
+#~ "href=\"https://gitlab.gnome.org/Infrastructure/damned-"
+#~ "lies/-/issues/437\"><em>gitlab.gnome.org</em> (#437)</a>."
 #~ msgstr ""
-#~ "Siz ushbu funksiyaning bajarilishini <a href=\"https://gitlab.gnome.org/"
-#~ "Infrastructure/damned-lies/-/issues/437\"><em>gitlab.gnome.org</em> "
-#~ "(#437)</a> da kuzatishingiz mumkin."
+#~ "Siz ushbu funksiyaning bajarilishini <a "
+#~ "href=\"https://gitlab.gnome.org/Infrastructure/damned-"
+#~ "lies/-/issues/437\"><em>gitlab.gnome.org</em> (#437)</a> da kuzatishingiz "
+#~ "mumkin."
 
 #~ msgid "Choose a username:"
 #~ msgstr "Foydalanuvchi nomi tanlang:"
 
 #~ msgid "May contain only letters, numbers, and @/./+/-/_ characters."
-#~ msgstr "Faqat harflar, raqamlar va @/./+/-/_ belgilar bo'lishi mumkin."
+#~ msgstr "Faqat harflar, raqamlar va @/./+/-/_ belgilar boʻlishi mumkin."
 
 #~ msgid "Email:"
 #~ msgstr "Email:"
@@ -6288,28 +6288,28 @@ msgstr ""
 #~ "Bu foydalanuvchi nomi allaqachon olingan. Iltimos, boshqasini tanlang."
 
 #~ msgid ""
-#~ "This email address is already used by another account. You can not used "
-#~ "it to register a new account, please try to reset your password instead."
+#~ "This email address is already used by another account. You can not used it "
+#~ "to register a new account, please try to reset your password instead."
 #~ msgstr ""
-#~ "Bu e-pochta manzili allaqachon boshqa hisob tomonidan ishlatilgan. Siz "
-#~ "uni yangi hisob qaydnomasini ro'yxatdan o'tkazish uchun ishlata olmaysiz, "
-#~ "o'rniga parolingizni qayta o'rnatishga harakat qiling."
+#~ "Bu e-pochta manzili allaqachon boshqa hisob tomonidan ishlatilgan. Siz uni "
+#~ "yangi hisob qaydnomasini roʻyxatdan oʻtkazish uchun ishlata olmaysiz, "
+#~ "oʻrniga parolingizni qayta oʻrnatishga harakat qiling."
 
 #~ msgid "You must provide a password"
 #~ msgstr "Siz parolni kiritishingiz kerak"
 
 #~ msgid "The passwords do not match."
-#~ msgstr "Parollar o'xshash emas."
+#~ msgstr "Parollar oʻxshash emas."
 
 #, python-format
 #~ msgid ""
-#~ "This is a confirmation that your registration on %s succeeded. To "
-#~ "activate your account, please click on the link below or copy and paste "
-#~ "it in a browser."
+#~ "This is a confirmation that your registration on %s succeeded. To activate "
+#~ "your account, please click on the link below or copy and paste it in a "
+#~ "browser."
 #~ msgstr ""
-#~ "Bu sizning %s da roʻyxatdan oʻtganingizning tasdiqidir. Hisob "
-#~ "qaydnomangizni faollashtirish uchun quyidagi havolani bosing yoki "
-#~ "brauzerga nusxa ko'chiring va joylashtiring."
+#~ "Bu sizning %s da roʻyxatdan oʻtganingizning tasdiqidir. Hisob qaydnomangizni"
+#~ " faollashtirish uchun quyidagi havolani bosing yoki brauzerga nusxa "
+#~ "koʻchiring va joylashtiring."
 
 #, python-format
 #~ msgid "Administrators of %s"
@@ -6319,28 +6319,27 @@ msgstr ""
 #~ msgstr "E-pochta manzili:"
 
 #~ msgid "Change your password"
-#~ msgstr "Parolni o'zgartirish"
+#~ msgstr "Parolni oʻzgartirish"
 
 #~ msgid "Password change"
-#~ msgstr "Parolni o’zgartirish"
+#~ msgstr "Parolni oʻzgartirish"
 
 #~ msgid "Change my password"
-#~ msgstr "Parolimni o'zgartiring"
+#~ msgstr "Parolimni oʻzgartiring"
 
 #~ msgid ""
-#~ "Please enter your old password, for security’s sake, and then enter your "
-#~ "new password twice so we can verify you typed it in correctly."
+#~ "Please enter your old password, for security’s sake, and then enter your new"
+#~ " password twice so we can verify you typed it in correctly."
 #~ msgstr ""
-#~ "Iltimos, xavfsizlik uchun eski parolingizni kiriting, so'ngra uni to'g'ri "
-#~ "kiritganingizni tekshirishimiz uchun yangi parolingizni ikki marta "
-#~ "kiriting."
+#~ "Iltimos, xavfsizlik uchun eski parolingizni kiriting, soʻngra uni toʻgʻri "
+#~ "kiritganingizni tekshirishimiz uchun yangi parolingizni ikki marta kiriting."
 
 #~ msgid "Account activation"
 #~ msgstr "Hisobni faollashtirish"
 
 #, python-format
 #~ msgid "You have successfully joined the team “%s”."
-#~ msgstr "Siz “%s” jamoasiga muvaffaqiyatli qo‘shildingiz."
+#~ msgstr "Siz “%s” jamoasiga muvaffaqiyatli qoʻshildingiz."
 
 #, python-format
 #~ msgid "%(name)s has just joined your translation team on %(site)s"
@@ -6360,31 +6359,31 @@ msgstr ""
 #~ msgstr "Siz “%s” jamoasidan olib tashlangansiz."
 
 #~ msgid "Your password has been changed."
-#~ msgstr "Sizning parolingiz o'zgartirildi."
+#~ msgstr "Sizning parolingiz oʻzgartirildi."
 
 #~ msgid ""
-#~ "The form to update your password contains errors. Try again after fixing "
-#~ "the errors listed."
+#~ "The form to update your password contains errors. Try again after fixing the"
+#~ " errors listed."
 #~ msgstr ""
-#~ "Parolni yangilash formasida xatolar mavjud. Ro'yxatdagi xatolarni "
-#~ "tuzatgandan so'ng qayta urinib ko'ring."
+#~ "Parolni yangilash formasida xatolar mavjud. Roʻyxatdagi xatolarni "
+#~ "tuzatgandan soʻng qayta urinib koʻring."
 
 #, python-format
 #~ msgid ""
-#~ "An error occurred while sending mail to %(email_address)s (%(error)s). "
-#~ "You will never receive your activation email. Ask an administrator to "
-#~ "help you with this issue."
+#~ "An error occurred while sending mail to %(email_address)s (%(error)s). You "
+#~ "will never receive your activation email. Ask an administrator to help you "
+#~ "with this issue."
 #~ msgstr ""
 #~ "%(email_address)s (%(error)s) manziliga xat yuborishda xatolik yuz berdi. "
 #~ "Siz hech qachon faollashtirish elektron pochtangizni olmaysiz. Ushbu "
-#~ "muammoni hal qilishda sizga yordam berish uchun administratordan so'rang."
+#~ "muammoni hal qilishda sizga yordam berish uchun administratordan soʻrang."
 
 #~ msgid ""
 #~ "The registration form contains error. Fix all the errors listed and try "
 #~ "again."
 #~ msgstr ""
-#~ "Ro'yxatdan o'tish formasida xatolik mavjud. Ro'yxatdagi barcha xatolarni "
-#~ "tuzating va qayta urinib ko'ring."
+#~ "Roʻyxatdan oʻtish formasida xatolik mavjud. Roʻyxatdagi barcha xatolarni "
+#~ "tuzating va qayta urinib koʻring."
 
 #~ msgid "Sorry, the key you provided is not valid."
 #~ msgstr "Kechirasiz, siz taqdim etgan kalit yaroqsiz."
@@ -6398,8 +6397,7 @@ msgstr ""
 #~ "kirishingiz kerak."
 
 #, python-format
-#~ msgid ""
-#~ "This is an automatic message sent from %(site)s. Please do not answer."
+#~ msgid "This is an automatic message sent from %(site)s. Please do not answer."
 #~ msgstr ""
 #~ "Bu %(site)s tomonidan yuborilgan avtomatik xabar. Iltimos javob bermang."
 
@@ -6409,17 +6407,17 @@ msgstr ""
 
 #, python-format
 #~ msgid "Role changed for team “%s” on Damned Lies"
-#~ msgstr "Damned Lies’dagi “%s” jamoasining roli o‘zgardi"
+#~ msgstr "Damned Lies’dagi “%s” jamoasining roli oʻzgardi"
 
 #~ msgid "Log in with your username (or email) and password:"
 #~ msgstr ""
 #~ "Foydalanuvchi nomi (yoki elektron pochta) va parol bilan tizimga kiring:"
 
 #~ msgid "Don’t have an account?"
-#~ msgstr "Hisobingiz yo'qmi?"
+#~ msgstr "Hisobingiz yoʻqmi?"
 
 #~ msgid "Register"
-#~ msgstr "Ro'yxatdan o'tish"
+#~ msgstr "Roʻyxatdan oʻtish"
 
 #~ msgid "Username"
 #~ msgstr "Foydalanuvchi nomi"
@@ -6458,7 +6456,7 @@ msgstr ""
 #~ "used. Please request a new password reset."
 #~ msgstr ""
 #~ "Parolni tiklash havolasi yaroqsiz, ehtimol u allaqachon ishlatilgan. "
-#~ "Iltimos, yangi parolni tiklashni so'rang."
+#~ "Iltimos, yangi parolni tiklashni soʻrang."
 
 #~ msgid "Password reset successful"
 #~ msgstr "Parolni tiklash muvaffaqiyatli"
@@ -6467,56 +6465,56 @@ msgstr ""
 #~ "We’ve e-mailed you instructions for setting your password to the e-mail "
 #~ "address you submitted. You should be receiving it shortly."
 #~ msgstr ""
-#~ "Siz yuborgan elektron pochta manziliga parol o'rnatish bo'yicha "
-#~ "ko'rsatmalarni elektron pochta orqali yubordik. Siz uni tez orada qabul "
+#~ "Siz yuborgan elektron pochta manziliga parol oʻrnatish boʻyicha "
+#~ "koʻrsatmalarni elektron pochta orqali yubordik. Siz uni tez orada qabul "
 #~ "qilishingiz kerak."
 
 #~ msgid ""
-#~ "Forgotten your password? Enter your e-mail address below, and we’ll e-"
-#~ "mail instructions for setting a new one."
+#~ "Forgotten your password? Enter your e-mail address below, and we’ll e-mail "
+#~ "instructions for setting a new one."
 #~ msgstr ""
-#~ "Parolni unutdingizmi? Quyida elektron pochta manzilingizni kiriting va "
-#~ "biz yangisini o'rnatish bo'yicha ko'rsatmalarni elektron pochta orqali "
+#~ "Parolni unutdingizmi? Quyida elektron pochta manzilingizni kiriting va biz "
+#~ "yangisini oʻrnatish boʻyicha koʻrsatmalarni elektron pochta orqali "
 #~ "yuboramiz."
 
 #~ msgid "Reset my password"
 #~ msgstr "Parolimni tiklang"
 
 #~ msgid "Account Registration"
-#~ msgstr "Hisobni ro'yxatdan o'tkazish"
+#~ msgstr "Hisobni roʻyxatdan oʻtkazish"
 
 #, python-format
 #~ msgid "You are already registered. You are logged in as %(username)s."
 #~ msgstr ""
-#~ "Siz allaqachon ro'yxatdan o'tgansiz. Siz %(username)s sifatida tizimga "
+#~ "Siz allaqachon roʻyxatdan oʻtgansiz. Siz %(username)s sifatida tizimga "
 #~ "kirgansiz."
 
 #~ msgid ""
 #~ "You can register here for an account on this site. This is only useful if "
 #~ "you plan to contribute to GNOME translations."
 #~ msgstr ""
-#~ "Siz ushbu saytda ro'yxatdan o'tishingiz mumkin. Bu faqat GNOME "
-#~ "tarjimalariga hissa qo'shishni rejalashtirganingizda foydali bo'ladi."
+#~ "Siz ushbu saytda roʻyxatdan oʻtishingiz mumkin. Bu faqat GNOME tarjimalariga"
+#~ " hissa qoʻshishni rejalashtirganingizda foydali boʻladi."
 
 #~ msgid ""
-#~ "After registration and connection, you will be able to join an existing "
-#~ "team from your profile page."
+#~ "After registration and connection, you will be able to join an existing team"
+#~ " from your profile page."
 #~ msgstr ""
-#~ "Ro'yxatdan o'tish va ulanishdan so'ng profil sahifangizdan mavjud jamoaga "
-#~ "qo'shilishingiz mumkin bo'ladi."
+#~ "Roʻyxatdan oʻtish va ulanishdan soʻng profil sahifangizdan mavjud jamoaga "
+#~ "qoʻshilishingiz mumkin boʻladi."
 
 #~ msgid "Register with password"
-#~ msgstr "Parol bilan ro'yxatdan o'ting"
+#~ msgstr "Parol bilan roʻyxatdan oʻting"
 
 #~ msgid "Registration Success"
-#~ msgstr "Ro'yxatdan o'tish muvaffaqiyatli"
+#~ msgstr "Roʻyxatdan oʻtish muvaffaqiyatli"
 
 #~ msgid ""
-#~ "The registration succeeded. You will now receive an email containing a "
-#~ "link to activate your account."
+#~ "The registration succeeded. You will now receive an email containing a link "
+#~ "to activate your account."
 #~ msgstr ""
 #~ "Roʻyxatdan oʻtish muvaffaqiyatli boʻldi. Endi siz hisobingizni "
-#~ "faollashtirish uchun havolani o'z ichiga olgan elektron pochta xabarini "
+#~ "faollashtirish uchun havolani oʻz ichiga olgan elektron pochta xabarini "
 #~ "olasiz."
 
 #~ msgid "Hello,"
@@ -6526,11 +6524,12 @@ msgstr ""
 #~ msgstr "Sharhsiz"
 
 #~ msgid ""
-#~ "This library provides objects and helper methods to help reading and "
-#~ "writing AppStream metadata. To submit your translation, <a href=\"https://"
-#~ "github.com/hughsie/appstream-glib/pulls\">create a pull request</a>."
+#~ "This library provides objects and helper methods to help reading and writing"
+#~ " AppStream metadata. To submit your translation, <a "
+#~ "href=\"https://github.com/hughsie/appstream-glib/pulls\">create a pull "
+#~ "request</a>."
 #~ msgstr ""
 #~ "Ushbu kutubxona AppStream metamaʼlumotlarini oʻqish va yozishga yordam "
 #~ "beradigan obʼyektlar va yordamchi usullarni taqdim etadi. Tarjimangizni "
-#~ "yuborish uchun <a href=\"https://github.com/hughsie/appstream-glib/"
-#~ "pulls\">tortib olish soʻrovini yarating</a> ."
+#~ "yuborish uchun <a href=\"https://github.com/hughsie/appstream-"
+#~ "glib/pulls\">tortib olish soʻrovini yarating</a> ."

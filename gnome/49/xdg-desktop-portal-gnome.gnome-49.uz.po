@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: xdg-desktop-portal-gnome main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/xdg-desktop-portal-"
-"gnome/issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome/issues/\n"
 "POT-Creation-Date: 2025-10-01 00:23+0000\n"
 "PO-Revision-Date: 2025-03-27 18:14+0500\n"
 "Last-Translator: \n"
@@ -59,8 +58,8 @@ msgstr "Shaxsiy maʼlumotlaringizni %1$s bilan baham koʻrasizmi? %2$s"
 #, c-format
 msgid "Share your personal information with the requesting app? %s"
 msgstr ""
-"Shaxsiy maʼlumotlaringizni soʻrov yuborayotgan ilova bilan baham koʻrasizmi? "
-"%s"
+"Shaxsiy maʼlumotlaringizni soʻrov yuborayotgan ilova bilan baham koʻrasizmi?"
+" %s"
 
 #: src/accountdialog.ui:4
 msgid "Share Details"
@@ -81,7 +80,7 @@ msgstr "_Ulashish"
 
 #: src/accountdialog.ui:89
 msgid "Change Avatar"
-msgstr "Avatarni o‘zgartirish"
+msgstr "Avatarni oʻzgartirish"
 
 #: src/accountdialog.ui:112
 msgid "Name"
@@ -113,13 +112,13 @@ msgstr "Ilovani tanlang"
 msgid ""
 "No apps installed that can open “%s”. You can find more apps in Software"
 msgstr ""
-"“%s”ni ochadigan ilovalar o‘rnatilmagan. Dasturlar boʻlimida koʻproq "
+"“%s”ni ochadigan ilovalar oʻrnatilmagan. Dasturlar boʻlimida koʻproq "
 "ilovalarni topishingiz mumkin"
 
 #: src/appchooserdialog.c:375
 msgid "No suitable app installed. You can find more apps in Software."
 msgstr ""
-"Mos ilova o‘rnatilmagan. Qo‘shimcha ilovalarni Dasturlar bo‘limida "
+"Mos ilova oʻrnatilmagan. Qoʻshimcha ilovalarni Dasturlar boʻlimida "
 "topishingiz mumkin."
 
 #: src/appchooserdialog.ui:5
@@ -132,12 +131,12 @@ msgstr "_Ochish"
 
 #: src/appchooserdialog.ui:68
 msgid "No Apps Available"
-msgstr "Mavjud ilovalar yo‘q"
+msgstr "Mavjud ilovalar yoʻq"
 
 #: src/appchooserdialog.ui:76
 #, fuzzy
 msgid "_Find More in Software"
-msgstr "_Dasturlar bo‘limidan topish"
+msgstr "_Dasturlar boʻlimidan topish"
 
 #: src/dynamic-launcher.c:250
 msgid "Create Web App"
@@ -197,7 +196,7 @@ msgstr "Bu Tanlovni _Eslab Qolish"
 
 #: src/remotedesktopdialog.ui:85
 msgid "Allow Remote _Interaction"
-msgstr "Masofaviy _o‘zaro aloqaga ruxsat berish"
+msgstr "Masofaviy _oʻzaro aloqaga ruxsat berish"
 
 #: src/remotedesktopdialog.ui:93
 msgid "Allow _Clipboard Access"
@@ -214,11 +213,11 @@ msgstr "Virtual monitor"
 #: src/screencastwidget.c:636
 #, c-format
 msgid "%s wants to share your screen. Choose what you'd like to share."
-msgstr "%s ekraningizni ulashmoqchi. Nimani baham ko'rishni tanlang."
+msgstr "%s ekraningizni ulashmoqchi. Nimani baham koʻrishni tanlang."
 
 #: src/screencastwidget.c:641
 msgid "An app wants to share your screen. Choose what you'd like to share."
-msgstr "Ilova ekraningizni ulashmoqchi. Nimani baham ko'rishni tanlang."
+msgstr "Ilova ekraningizni ulashmoqchi. Nimani baham koʻrishni tanlang."
 
 #: src/screencastwidget.ui:17
 msgid "_Remember this selection"
@@ -239,7 +238,7 @@ msgstr "Bu skrinshotni %s bilan ulashasizmi?"
 
 #: src/screenshotdialog.c:436
 msgid "Share this screenshot with the requesting app?"
-msgstr "Bu skrinshotni so‘rayotgan ilova bilan ulashasizmi?"
+msgstr "Bu skrinshotni soʻrayotgan ilova bilan ulashasizmi?"
 
 #: src/screenshotdialog.ui:9
 msgid "Screenshot"
@@ -284,15 +283,15 @@ msgstr "Effektlar"
 #: src/screenshotdialog.ui:203
 #, fuzzy
 msgid "Include _Pointer"
-msgstr "_Ko‘rsatkichni qo‘shish"
+msgstr "_Koʻrsatkichni qoʻshish"
 
 #: src/screenshotdialog.ui:211
 msgid "Include Window _Border"
-msgstr "Oyna _chegarasini qo‘shish"
+msgstr "Oyna _chegarasini qoʻshish"
 
 #: src/settings.c:335
 msgid "Requested setting not found"
-msgstr "So‘ralgan sozlama topilmadi"
+msgstr "Soʻralgan sozlama topilmadi"
 
 #: src/usbdialog.c:102
 msgid "Serial Number"
@@ -329,16 +328,16 @@ msgstr "_Ruxsat berish"
 
 #: src/usbdialog.ui:90
 msgid "Failed to display USB device"
-msgstr "USB qurilmani ko‘rsatib bo‘lmadi"
+msgstr "USB qurilmani koʻrsatib boʻlmadi"
 
 #: src/wallpaperdialog.ui:8
 msgid "Set Background"
-msgstr "Fon sifatida o‘rnatish"
+msgstr "Fon sifatida oʻrnatish"
 
 #: src/wallpaperdialog.ui:35
 msgid "_Set"
-msgstr "_O‘rnatish"
+msgstr "_Oʻrnatish"
 
 #: src/wallpaperdialog.ui:67
 msgid "Failed to load image file"
-msgstr "Rasm faylini yuklab bo‘lmadi"
+msgstr "Rasm faylini yuklab boʻlmadi"

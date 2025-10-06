@@ -21,12 +21,12 @@ msgstr ""
 #: libgnome-desktop/gnome-desktop-thumbnail.c:1022
 #, c-format
 msgid "File %s does not have a preview icon attribute"
-msgstr "%s faylida oldindan ko‘rish belgisi atributi yo‘q"
+msgstr "%s faylida oldindan koʻrish belgisi atributi yoʻq"
 
 #: libgnome-desktop/gnome-desktop-thumbnail.c:1032
 #, c-format
 msgid "No loadable icon for %s"
-msgstr "%s uchun yuklanadigan belgi yo‘q"
+msgstr "%s uchun yuklanadigan belgi yoʻq"
 
 #: libgnome-desktop/gnome-desktop-thumbnail.c:1161
 #, c-format
@@ -36,12 +36,12 @@ msgstr "Mim tipidagi “%s” uchun eskiz topilmadi"
 #: libgnome-desktop/gnome-desktop-thumbnail.c:1291
 #, c-format
 msgid "Failed to create folder '%s'"
-msgstr "“%s” jildini yaratib bo‘lmadi"
+msgstr "“%s” jildini yaratib boʻlmadi"
 
 #: libgnome-desktop/gnome-desktop-thumbnail.c:1304
 #, c-format
 msgid "The output folder '%s' is not writable"
-msgstr "“%s” jildini yaratib bo‘lmadi"
+msgstr "“%s” jildini yaratib boʻlmadi"
 
 #: libgnome-desktop/gnome-languages.c:698
 msgid "Unspecified"
@@ -54,7 +54,8 @@ msgstr "Aniqlanmagan"
 msgid "Abegede"
 msgstr "Abegede"
 
-#. TRANSLATORS: Used to distinguish Cyrillic from Latin written language variants.
+#. TRANSLATORS: Used to distinguish Cyrillic from Latin written language
+#. variants.
 #: libgnome-desktop/gnome-languages.c:1366
 msgid "Cyrillic"
 msgstr "Kirill alifbosi"
@@ -101,13 +102,13 @@ msgstr "CRTC %d, %s chiqishini boshqara olmaydi"
 #: libgnome-desktop/gnome-rr/gnome-rr-config.c:719
 #, c-format
 msgid "output %s does not support mode %dx%d@%dHz"
-msgstr "%s chiqishi %dx%d@%dHz rejimini qo‘llab-quvvatlamaydi"
+msgstr "%s chiqishi %dx%d@%dHz rejimini qoʻllab-quvvatlamaydi"
 
 #: libgnome-desktop/gnome-rr-config.c:772
 #: libgnome-desktop/gnome-rr/gnome-rr-config.c:730
 #, c-format
 msgid "CRTC %d does not support rotation=%d"
-msgstr "CRTC %d aylanishni qo‘llab-quvvatlamaydi=%d"
+msgstr "CRTC %d aylanishni qoʻllab-quvvatlamaydi=%d"
 
 #: libgnome-desktop/gnome-rr-config.c:785
 #: libgnome-desktop/gnome-rr/gnome-rr-config.c:743
@@ -133,13 +134,13 @@ msgstr "%s chiqishiga klonlash mumkin emas"
 #: libgnome-desktop/gnome-rr/gnome-rr-config.c:883
 #, c-format
 msgid "Trying modes for CRTC %d\n"
-msgstr "CRTC %d uchun rejimlar sinab ko‘rilmoqda\n"
+msgstr "CRTC %d uchun rejimlar sinab koʻrilmoqda\n"
 
 #: libgnome-desktop/gnome-rr-config.c:950
 #: libgnome-desktop/gnome-rr/gnome-rr-config.c:907
 #, c-format
 msgid "CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)\n"
-msgstr "CRTC %d: sinash rejimi %dx%d@%dHz, chiqish %dx%d@%dHz (%d o‘tish)\n"
+msgstr "CRTC %d: sinash rejimi %dx%d@%dHz, chiqish %dx%d@%dHz (%d oʻtish)\n"
 
 #: libgnome-desktop/gnome-rr-config.c:997
 #: libgnome-desktop/gnome-rr/gnome-rr-config.c:954
@@ -158,7 +159,7 @@ msgid ""
 "none of the selected modes were compatible with the possible modes:\n"
 "%s"
 msgstr ""
-"tanlangan rejimlarning hech biri mumkin bo’lgan rejimlarga mos kelmadi:\n"
+"tanlangan rejimlarning hech biri mumkin boʻlgan rejimlarga mos kelmadi:\n"
 "%s"
 
 #. Translators: the "requested", "minimum", and
@@ -350,8 +351,8 @@ msgstr "%l:%M %p"
 #~ "GNOME also includes a complete development platform for applications "
 #~ "programmers, allowing the creation of powerful and complex applications."
 #~ msgstr ""
-#~ "Bundan tashqari GNOME'da dasturchilar uchun yetarlicha dasturlash "
-#~ "vositalari mavjud."
+#~ "Bundan tashqari GNOME'da dasturchilar uchun yetarlicha dasturlash vositalari"
+#~ " mavjud."
 
 #~ msgid ""
 #~ "GNOME includes most of what you see on your computer, including the file "
@@ -364,20 +365,20 @@ msgstr "%l:%M %p"
 #~ "GNOME is a Free, usable, stable, accessible desktop environment for the "
 #~ "Unix-like family of operating systems."
 #~ msgstr ""
-#~ "GNOME UNIX oilasidagi operatsion tizimlar uchun erkin, moʻʼtadil, qulay "
-#~ "ish stoli muhitidir."
+#~ "GNOME UNIX oilasidagi operatsion tizimlar uchun erkin, moʻʼtadil, qulay ish "
+#~ "stoli muhitidir."
 
 #~ msgid ""
 #~ "GNOME's focus on usability and accessibility, regular release cycle, and "
 #~ "strong corporate backing make it unique among Free Software desktops."
 #~ msgstr ""
-#~ "GNOME asosiy eʼtiborni qulayliklarga (shu bilan birga imkoniyati "
-#~ "cheklangan insonlar uchun) qaratgani va kuchli korporativ koʻmak tizimiga "
-#~ "egaligi bilan boshqa ish stollaridan ajralib turadi."
+#~ "GNOME asosiy eʼtiborni qulayliklarga (shu bilan birga imkoniyati cheklangan "
+#~ "insonlar uchun) qaratgani va kuchli korporativ koʻmak tizimiga egaligi bilan"
+#~ " boshqa ish stollaridan ajralib turadi."
 
 #~ msgid ""
-#~ "GNOME's greatest strength is our strong community. Virtually anyone, with "
-#~ "or without coding skills, can contribute to making GNOME better."
+#~ "GNOME's greatest strength is our strong community. Virtually anyone, with or"
+#~ " without coding skills, can contribute to making GNOME better."
 #~ msgstr ""
 #~ "GNOME'ning eng kuchi bizning mustahkam jamoamizdadir. Har kim, xoh "
 #~ "dasturlashni bilsin, xoh bilmasin, GNOME muhitini rivojlantirish oʻz "
@@ -388,10 +389,9 @@ msgstr "%l:%M %p"
 #~ "1997; many more have contributed in other important ways, including "
 #~ "translations, documentation, and quality assurance."
 #~ msgstr ""
-#~ "1997 yil GNOME loyihasi boshlangandan beri, yuzlab insonlar uning asl "
-#~ "kodiga oʻz hissalarini qoʻshdilar, ammo bundan ham koʻp insonlar "
-#~ "tarjimalar, qoʻllanmalar va sifatni oshirish boʻyicha oʻz hissalarini "
-#~ "qoʻshdilar."
+#~ "1997 yil GNOME loyihasi boshlangandan beri, yuzlab insonlar uning asl kodiga"
+#~ " oʻz hissalarini qoʻshdilar, ammo bundan ham koʻp insonlar tarjimalar, "
+#~ "qoʻllanmalar va sifatni oshirish boʻyicha oʻz hissalarini qoʻshdilar."
 
 #, c-format
 #~ msgid "Error reading file '%s': %s"

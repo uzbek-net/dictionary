@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2020-06-23 06:15+0000\n"
 "X-Generator: Launchpad (build 1cbd0aa39df153c901321817f9b57cf3f232b507)\n"
+"X-Launchpad-Export-Date: 2020-06-23 06:15+0000\n"
 
 #: app/Background.vala:79
 msgid "Cannot back up automatically"
@@ -263,7 +263,8 @@ msgstr "Заҳира олиш кундалиги"
 msgid "Restore in progress"
 msgstr ""
 
-#. Note: keep this language in sync with notification sent from OperationLauncher
+#. Note: keep this language in sync with notification sent from
+#. OperationLauncher
 #: app/OperationWrapper.vala:172
 msgid "Backup completed, but not all files were successfully backed up"
 msgstr ""
@@ -456,7 +457,8 @@ msgid "Protect yourself from data loss"
 msgstr ""
 
 #. These keywords are used when searching for applications in dashes, etc.
-#. Keep the English keywords and add your own keywords in your language, separated by semicolons.
+#. Keep the English keywords and add your own keywords in your language,
+#. separated by semicolons.
 #: data/app.desktop.in:26
 msgid "déjà;deja;dup;archive;archiving;backup;backups;back up;"
 msgstr ""
@@ -471,12 +473,12 @@ msgstr "Сақлаш учун жилдлар"
 
 #: data/app.gschema.xml.in:26
 msgid ""
-"This list of directories will be backed up. Reserved values $HOME, $DESKTOP, "
-"$DOCUMENTS, $DOWNLOAD, $MUSIC, $PICTURES, $PUBLIC_SHARE, $TEMPLATES, $TRASH, "
-"and $VIDEOS are recognized as the user’s special directories and can be at "
-"the start of a longer path ($HOME/subdir). Reserved value $USER is replaced "
-"by the user’s username and can be anywhere in the path. Relative entries are "
-"relative to the user’s home directory."
+"This list of directories will be backed up. Reserved values $HOME, $DESKTOP,"
+" $DOCUMENTS, $DOWNLOAD, $MUSIC, $PICTURES, $PUBLIC_SHARE, $TEMPLATES, "
+"$TRASH, and $VIDEOS are recognized as the user’s special directories and can"
+" be at the start of a longer path ($HOME/subdir). Reserved value $USER is "
+"replaced by the user’s username and can be anywhere in the path. Relative "
+"entries are relative to the user’s home directory."
 msgstr ""
 
 #: data/app.gschema.xml.in:30
@@ -499,8 +501,8 @@ msgstr "Déjà Dup охирги марта ишлаган вақт"
 
 #: data/app.gschema.xml.in:36
 msgid ""
-"The last time Déjà Dup was successfully run. This time should be in ISO 8601 "
-"format."
+"The last time Déjà Dup was successfully run. This time should be in ISO 8601"
+" format."
 msgstr ""
 "Déjà Dup охирги марта муваффақиятли ишлаган вақт. Ушбу вақт ISO 8601 "
 "форматида бўлиши лозим."
@@ -523,11 +525,11 @@ msgstr "Déjà Dup охирги марта заҳирадан тиклаган �
 
 #: data/app.gschema.xml.in:46
 msgid ""
-"The last time Déjà Dup successfully completed a restore. This time should be "
-"in ISO 8601 format."
+"The last time Déjà Dup successfully completed a restore. This time should be"
+" in ISO 8601 format."
 msgstr ""
-"Déjà Dup охирги марта заҳирадан тиклашни муваффақиятли тугаллаган вақт. Ушбу "
-"вақт ISO 8601 форматида бўлиши лозим."
+"Déjà Dup охирги марта заҳирадан тиклашни муваффақиятли тугаллаган вақт. Ушбу"
+" вақт ISO 8601 форматида бўлиши лозим."
 
 #: data/app.gschema.xml.in:50
 msgid "Whether to periodically back up"
@@ -545,7 +547,8 @@ msgstr "Қайси оралиқда даврий заҳира олиниши л�
 msgid "The number of days between backups."
 msgstr "Заҳира олишлар орасидаги кунлар сони"
 
-#. Translators: This tracks the most recent time the user flipped the "automatic backups" switch
+#. Translators: This tracks the most recent time the user flipped the
+#. "automatic backups" switch
 #: data/app.gschema.xml.in:61
 msgid "When automatic backups were enabled"
 msgstr ""
@@ -553,8 +556,8 @@ msgstr ""
 #: data/app.gschema.xml.in:62
 #, fuzzy
 #| msgid ""
-#| "The last time Déjà Dup was successfully run. This time should be in ISO "
-#| "8601 format."
+#| "The last time Déjà Dup was successfully run. This time should be in ISO 8601"
+#| " format."
 msgid "This time should be in ISO 8601 format."
 msgstr ""
 "Déjà Dup охирги марта муваффақиятли ишлаган вақт. Ушбу вақт ISO 8601 "
@@ -591,13 +594,13 @@ msgstr "Заҳира файлларини қачонгача сақлаш лоз
 
 #: data/app.gschema.xml.in:77
 msgid ""
-"The number of days to keep backup files on the backup location. A value of 0 "
-"means forever. This is a minimum number of days; the files may be kept "
+"The number of days to keep backup files on the backup location. A value of 0"
+" means forever. This is a minimum number of days; the files may be kept "
 "longer."
 msgstr ""
 "Заҳира файлларини заҳиралаш манзилида сақлашнинг кунларда кўрсатилган сони. "
-"0 қиймати доимий маъносини билдиради. Бу кунларнинг энг кам сонидир, файллар "
-"узоқроқ муддат сақланиши мумкин."
+"0 қиймати доимий маъносини билдиради. Бу кунларнинг энг кам сонидир, файллар"
+" узоқроқ муддат сақланиши мумкин."
 
 #: data/app.gschema.xml.in:81
 msgid "How long to wait between full backups"
@@ -615,8 +618,8 @@ msgstr ""
 
 #: data/app.gschema.xml.in:87
 msgid ""
-"If false, Déjà Dup will refuse to run scheduled backups over metered network "
-"connections (like 4G)."
+"If false, Déjà Dup will refuse to run scheduled backups over metered network"
+" connections (like 4G)."
 msgstr ""
 
 #: data/app.gschema.xml.in:91
@@ -655,9 +658,9 @@ msgstr ""
 
 #: data/app.gschema.xml.in:107
 msgid ""
-"Useful if you need to limit resources or otherwise wrap the execution of the "
-"tool command. An example value might be 'trickle -u 500' which would result "
-"in deja-dup running 'trickle -u 500 duplicity …'."
+"Useful if you need to limit resources or otherwise wrap the execution of the"
+" tool command. An example value might be 'trickle -u 500' which would result"
+" in deja-dup running 'trickle -u 500 duplicity …'."
 msgstr ""
 
 #: data/app.gschema.xml.in:147
@@ -734,8 +737,8 @@ msgstr ""
 
 #: data/app.gschema.xml.in:220
 msgid ""
-"The name of a pre-configured Rclone remote. See Rclone documentation for how "
-"to configure one."
+"The name of a pre-configured Rclone remote. See Rclone documentation for how"
+" to configure one."
 msgstr ""
 
 #: data/app.metainfo.xml.in:14
@@ -876,8 +879,9 @@ msgstr ""
 
 #: data/ui/ConfigLocationGroup.blp:138
 msgid ""
-"Rclone is an advanced cloud storage tool. Read <a href=\"https://rclone.org/"
-"\">its documentation</a> for how to configure a remote."
+"Rclone is an advanced cloud storage tool. Read <a "
+"href=\"https://rclone.org/\">its documentation</a> for how to configure a "
+"remote."
 msgstr ""
 
 #: data/ui/ConfigLocationGroup.blp:156
@@ -1034,11 +1038,12 @@ msgstr ""
 msgid "Server Addresses"
 msgstr ""
 
-#. Translators: Translators: This is followed by a list of valid adresses (smb://gnome.org/deja-dup, ssh://192.168.0.1, ftp://[2001:db8::1])
+#. Translators: Translators: This is followed by a list of valid adresses
+#. (smb://gnome.org/deja-dup, ssh://192.168.0.1, ftp://[2001:db8::1])
 #: data/ui/ServerAddressHelp.blp:26
 msgid ""
-"Server addresses are made up of a protocol prefix, an address, and sometimes "
-"a path depending on the protocol. Examples:"
+"Server addresses are made up of a protocol prefix, an address, and sometimes"
+" a path depending on the protocol. Examples:"
 msgstr ""
 
 #: data/ui/ServerAddressHelp.blp:50
@@ -1463,7 +1468,8 @@ msgstr ""
 
 #. Is the disk not even big enough to possibly hold what we need?
 #. Don't bother checking whether this is first or later backup.
-#. If the user adds folders to their backup and the target is just too small, let them know.
+#. If the user adds folders to their backup and the target is just too small,
+#. let them know.
 #. Tiny backup location.  Suggest they get a larger one.
 #: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:337
 msgid "Backup location is too small."
@@ -1478,7 +1484,8 @@ msgstr ""
 msgid "(Space for two full backups is required.)"
 msgstr ""
 
-#. Can't delete any more backup chains ourselves. Tell the user, so they can clear out space.
+#. Can't delete any more backup chains ourselves. Tell the user, so they can
+#. clear out space.
 #: libdeja/duplicity/DuplicityJob.vala:507
 #, c-format
 msgid ""
@@ -1505,8 +1512,8 @@ msgstr ""
 #. a second time, we'll show the unknown error message.
 #. Should emit some sort of error...
 #: libdeja/duplicity/DuplicityJob.vala:641
-#: libdeja/duplicity/DuplicityJob.vala:1042 libdeja/libtool/ToolJoblet.vala:102
-#: libdeja/restic/ResticInstance.vala:177
+#: libdeja/duplicity/DuplicityJob.vala:1042
+#: libdeja/libtool/ToolJoblet.vala:102 libdeja/restic/ResticInstance.vala:177
 msgid "Failed with an unknown error."
 msgstr ""
 
@@ -1517,7 +1524,8 @@ msgstr ""
 
 #. GPG does not expose the true reason in a machine-readable way for duplicity
 #. to pass on.  So we try to find out why it failed by looking for the
-#. "bad session key" error message that is given if the password was incorrect.
+#. "bad session key" error message that is given if the password was
+#. incorrect.
 #. Any other error should be presented to the user so they can maybe fix it
 #. (bad configuration files or something).
 #. We also check the English string in case there's a language misconfig
@@ -1670,8 +1678,8 @@ msgstr ""
 #: libdeja/restic/ResticPlugin.vala:39
 #, c-format
 msgid ""
-"Backups requires at least version %d.%d.%d of restic, but only found version "
-"%d.%d.%d"
+"Backups requires at least version %d.%d.%d of restic, but only found version"
+" %d.%d.%d"
 msgstr ""
 
 #: libdeja/restic/ResticPlugin.vala:86

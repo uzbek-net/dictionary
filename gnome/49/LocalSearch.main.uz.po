@@ -33,7 +33,7 @@ msgstr "Ruxsat berilgan matnli fayl"
 #: data/org.freedesktop.Tracker.Extract.gschema.xml:31
 msgid "Filename patterns for plain text documents that should be indexed"
 msgstr ""
-"Indekslanishi kerak bo'lgan oddiy matnli hujjatlar uchun fayl nomi naqshlari"
+"Indekslanishi kerak boʻlgan oddiy matnli hujjatlar uchun fayl nomi naqshlari"
 
 #: data/org.freedesktop.Tracker.Extract.gschema.xml:37
 msgid "Wait for FS miner to be done before extracting"
@@ -46,10 +46,10 @@ msgid ""
 "environment where it is important to list files as fast as possible and can "
 "wait to get meta-data later."
 msgstr ""
-"Haqiqiy bo'lsa, tracker-extract meta-ma'lumotlarni olishdan oldin tracker-"
-"miner-fs skanerlash tugashini kutadi. Ushbu parametr fayllarni iloji boricha "
-"tezroq ro'yxatga olish muhim bo'lgan va meta-ma'lumotlarni keyinroq olish "
-"uchun kutish mumkin bo'lgan cheklangan muhitda foydalidir."
+"Haqiqiy boʻlsa, tracker-extract meta-ma'lumotlarni olishdan oldin tracker-"
+"miner-fs skanerlash tugashini kutadi. Ushbu parametr fayllarni iloji boricha"
+" tezroq roʻyxatga olish muhim boʻlgan va meta-ma'lumotlarni keyinroq olish "
+"uchun kutish mumkin boʻlgan cheklangan muhitda foydalidir."
 
 #: data/org.freedesktop.Tracker.FTS.gschema.xml:24
 msgid "Enable stemmer"
@@ -91,7 +91,7 @@ msgstr "Kam disk maydoni chegarasi"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:44
 msgid "Crawling interval"
-msgstr "Emaklash oralig'i"
+msgstr "Emaklash oraligʻi"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:51
 msgid "Removable devices’ data permanence threshold"
@@ -104,7 +104,8 @@ msgstr "Monitorlarni yoqish"
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:59
 msgid "Set to false to completely disable any file monitoring"
 msgstr ""
-"Har qanday fayl monitoringini butunlay o'chirish uchun \"false\" ni o'rnating"
+"Har qanday fayl monitoringini butunlay oʻchirish uchun \"false\" ni "
+"oʻrnating"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:64
 msgid "Index removable devices"
@@ -149,7 +150,7 @@ msgstr ""
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:102
 msgid "Directories to index non-recursively"
-msgstr "Rekursiv bo'lmagan indekslash uchun kataloglar"
+msgstr "Rekursiv boʻlmagan indekslash uchun kataloglar"
 
 #. Translators: Do NOT translate the directories names in capital. Those
 #. are keys used by Tracker.
@@ -161,9 +162,9 @@ msgid ""
 "and $HOME/.config/user-dirs.default"
 msgstr ""
 "Pastki jildlarni tekshirmasdan indekslanadigan kataloglar roʻyxati, Maxsus "
-"qiymatlar qatoriga quyidagilar kiradi: ‘&DESKTOP’, ‘&HUJJATLAR’, ‘&YUKLASH’, "
-"‘&MUSIC’, ‘&PICTURES’, ‘&PUBLIC_SHARE’, ‘&SHABBONLAR’, ‘&VIDEOLAR’. /etc/xdg/"
-"user-dirs.defaults va $HOME/.config/user-dirs.default-ga qarang"
+"qiymatlar qatoriga quyidagilar kiradi: ‘&DESKTOP’, ‘&HUJJATLAR’, ‘&YUKLASH’,"
+" ‘&MUSIC’, ‘&PICTURES’, ‘&PUBLIC_SHARE’, ‘&SHABBONLAR’, ‘&VIDEOLAR’. "
+"/etc/xdg/user-dirs.defaults va $HOME/.config/user-dirs.default-ga qarang"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:116
 msgid "Ignored files"
@@ -171,7 +172,7 @@ msgstr "E'tiborga olinmagan fayllar"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:117
 msgid "List of file patterns to avoid"
-msgstr "Qochish kerak bo'lgan fayl namunalari ro'yxati"
+msgstr "Qochish kerak boʻlgan fayl namunalari roʻyxati"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:122
 msgid "Ignored directories"
@@ -179,7 +180,7 @@ msgstr "E'tiborga olinmagan kataloglar"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:123
 msgid "List of directories to avoid"
-msgstr "Qochish kerak bo'lgan kataloglar ro'yxati"
+msgstr "Qochish kerak boʻlgan kataloglar roʻyxati"
 
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:128
 msgid "Ignored directories with content"
@@ -188,7 +189,7 @@ msgstr "Kontent bilan e'tiborga olinmagan kataloglar"
 #: data/org.freedesktop.Tracker.Miner.Files.gschema.xml:129
 msgid "Avoid any directory containing a file blocklisted here"
 msgstr ""
-"Bu erda bloklangan faylni o'z ichiga olgan har qanday katalogdan saqlaning"
+"Bu erda bloklangan faylni oʻz ichiga olgan har qanday katalogdan saqlaning"
 
 #: src/cli/main.c:68
 msgid "Show help on subcommands"
@@ -208,7 +209,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Retrieve all information available for a certain file"
 msgid "Retrieve information available for files and resources"
-msgstr "Muayyan fayl uchun mavjud bo'lgan barcha ma'lumotlarni oling"
+msgstr "Muayyan fayl uchun mavjud boʻlgan barcha ma'lumotlarni oling"
 
 #: src/cli/main.c:72 src/cli/tracker-inhibit.c:98
 msgid "Inhibit indexing temporarily"
@@ -228,7 +229,7 @@ msgstr "Indekslangan ma'lumotlarning holati va statistikasini taqdim eting"
 
 #: src/cli/main.c:76 src/cli/tracker-tag.c:414
 msgid "Add, remove and list tags"
-msgstr "Teglarni qo'shish, o'chirish va ro'yxatga olish"
+msgstr "Teglarni qoʻshish, oʻchirish va roʻyxatga olish"
 
 #: src/cli/main.c:77
 msgid "Sandbox for a testing environment"
@@ -241,13 +242,13 @@ msgstr "Mavjud localsearch buyruqlari:"
 #: src/cli/main.c:141
 msgid "See “localsearch help <command>” to read about a specific subcommand."
 msgstr ""
-"\"Localsearch yordami\" ga qarang<command> ” ma'lum bir kichik buyruq haqida "
-"o'qish uchun."
+"\"Localsearch yordami\" ga qarang<command> ” ma'lum bir kichik buyruq haqida"
+" oʻqish uchun."
 
 #: src/cli/main.c:184
 #, c-format
 msgid "“%s” is not a localsearch command. See “localsearch --help”"
-msgstr "“%s” mahalliy qidiruv buyrug‘i emas. \"localsearch --help\" ga qarang"
+msgstr "“%s” mahalliy qidiruv buyrugʻi emas. \"localsearch --help\" ga qarang"
 
 #: src/cli/tracker-extract.c:42 src/cli/tracker-info.c:74
 #: src/extractor/tracker-main.c:81
@@ -271,7 +272,7 @@ msgstr "FILE"
 
 #: src/cli/tracker-extract.c:90
 msgid "Could not run tracker-extract: "
-msgstr "Tracker-extractni ishga tushirib bo'lmadi: "
+msgstr "Tracker-extractni ishga tushirib boʻlmadi: "
 
 #: src/cli/tracker-extract.c:123
 msgid "Extract metadata from a file"
@@ -286,7 +287,7 @@ msgstr "Noma'lum variantlar"
 
 #: src/cli/tracker-index.c:51
 msgid "Adds FILE as an indexed location"
-msgstr "FILE-ni indekslangan joy sifatida qo'shadi"
+msgstr "FILE-ni indekslangan joy sifatida qoʻshadi"
 
 #: src/cli/tracker-index.c:54
 msgid "Removes FILE from indexed locations"
@@ -304,7 +305,7 @@ msgstr "“%s” katalog emas"
 #. TRANSLATORS: These are commandline options
 #: src/cli/tracker-index.c:273
 msgid "Either --add or --remove must be provided"
-msgstr "Yoki --add yoki --remove ko'rsatilishi kerak"
+msgstr "Yoki --add yoki --remove koʻrsatilishi kerak"
 
 #. TRANSLATORS: These are commandline options
 #: src/cli/tracker-index.c:277
@@ -318,7 +319,7 @@ msgstr "--rekursiv --add talab qiladi"
 
 #: src/cli/tracker-index.c:345 src/cli/tracker-status.c:347
 msgid "Path"
-msgstr "Yo'l"
+msgstr "Yoʻl"
 
 #: src/cli/tracker-index.c:346
 msgid "Recursive"
@@ -331,16 +332,17 @@ msgstr "Indekslash uchun bir yoki bir nechta joyni belgilang."
 #: src/cli/tracker-info.c:66
 msgid "Show full namespaces (i.e. don’t use nie:title, use full URLs)"
 msgstr ""
-"To'liq nomlar bo'shliqlarini ko'rsatish (ya'ni, nie:title ishlatmang, to'liq "
-"URL manzillardan foydalaning)"
+"Toʻliq nomlar boʻshliqlarini koʻrsatish (ya'ni, nie:title ishlatmang, toʻliq"
+" URL manzillardan foydalaning)"
 
 #: src/cli/tracker-info.c:70
 msgid "Show plain text content if available for resources"
-msgstr "Resurslar uchun mavjud bo'lsa, oddiy matn tarkibini ko'rsating"
+msgstr "Resurslar uchun mavjud boʻlsa, oddiy matn tarkibini koʻrsating"
 
 #: src/cli/tracker-info.c:77
 #, fuzzy
-#| msgid "Checks if FILE is eligible for being mined based on configuration"
+#| msgid ""
+#| "Checks if FILE is eligible for being mined based on configuration"
 msgid "Checks if FILE is eligible for being indexed"
 msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 
@@ -353,7 +355,7 @@ msgstr "Xato xabar"
 #, fuzzy
 #| msgid "Could not establish a connection to Tracker"
 msgid "Could not connect to LocalSearch"
-msgstr "Tracker bilan aloqa o‘rnatib bo‘lmadi"
+msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
 #: src/cli/tracker-info.c:419
 msgid "Unable to retrieve data for URI"
@@ -370,7 +372,7 @@ msgstr "Muvofiq maqomga ega boʻlmadi: "
 #: src/cli/tracker-info.c:460 src/extractor/tracker-main.c:184
 #, c-format
 msgid "Unsupported serialization format “%s”\n"
-msgstr "“%s” seriyali formati qo‘llab-quvvatlanmaydi\n"
+msgstr "“%s” seriyali formati qoʻllab-quvvatlanmaydi\n"
 
 #: src/cli/tracker-inhibit.c:39
 msgid "List inhibitions"
@@ -406,7 +408,7 @@ msgstr "Fayl indekslanishi mumkin"
 #, fuzzy
 #| msgid "Could not resume miner: %s"
 msgid "Could not terminate indexer"
-msgstr "Minerni davom ettirib bo‘lmadi: %s"
+msgstr "Minerni davom ettirib boʻlmadi: %s"
 
 #: src/cli/tracker-process.c:92
 msgid "Indexer process terminated"
@@ -420,7 +422,7 @@ msgstr "Fayl tizimi indeksatori ma'lumotlar bazasini olib tashlang"
 msgid ""
 "Erase indexed information about a file, works recursively for directories"
 msgstr ""
-"Fayl haqidagi indekslangan ma'lumotlarni o'chirish, kataloglar uchun "
+"Fayl haqidagi indekslangan ma'lumotlarni oʻchirish, kataloglar uchun "
 "rekursiv ishlaydi"
 
 #. Now, delete the element recursively
@@ -432,7 +434,7 @@ msgstr "Oʻchirilmoqda…"
 msgid ""
 "The indexed data for this file has been deleted and will be reindexed again."
 msgstr ""
-"Ushbu fayl uchun indekslangan ma'lumotlar o'chirildi va yana qayta "
+"Ushbu fayl uchun indekslangan ma'lumotlar oʻchirildi va yana qayta "
 "indekslanadi."
 
 #: src/cli/tracker-reset.c:223
@@ -442,7 +444,6 @@ msgstr ""
 #. TRANSLATORS: this is our test for a [y|N] question in the command line.
 #. * A partial or full match will be considered an affirmative answer,
 #. * it is intentionally lowercase, so please keep it like this.
-#.
 #: src/cli/tracker-reset.c:231
 msgid "yes"
 msgstr ""
@@ -518,11 +519,11 @@ msgstr "Rasm fayllarini qidirish"
 
 #: src/cli/tracker-search.c:157 src/cli/tracker-tag.c:87
 msgid "Limit the number of results shown"
-msgstr "Ko'rsatilgan natijalar sonini cheklang"
+msgstr "Koʻrsatilgan natijalar sonini cheklang"
 
 #: src/cli/tracker-search.c:161 src/cli/tracker-tag.c:91
 msgid "Offset the results"
-msgstr "Natijalarni o'zgartiring"
+msgstr "Natijalarni oʻzgartiring"
 
 #: src/cli/tracker-search.c:165
 msgid "Show URNs for results"
@@ -531,8 +532,8 @@ msgstr ""
 #: src/cli/tracker-search.c:169
 msgid "Return all non-existing matches too (i.e. include unmounted volumes)"
 msgstr ""
-"Mavjud bo'lmagan barcha mosliklarni ham qaytaring (ya'ni, o'rnatilmagan "
-"jildlarni ham qo'shing)"
+"Mavjud boʻlmagan barcha mosliklarni ham qaytaring (ya'ni, oʻrnatilmagan "
+"jildlarni ham qoʻshing)"
 
 #: src/cli/tracker-search.c:173
 msgid "Show help options"
@@ -540,7 +541,7 @@ msgstr ""
 
 #: src/cli/tracker-search.c:180 src/cli/tracker-status.c:80
 msgid "search terms"
-msgstr "qidiruv so'zlari"
+msgstr "qidiruv soʻzlari"
 
 #: src/cli/tracker-search.c:181
 #, fuzzy
@@ -549,20 +550,20 @@ msgstr "SHARTLAR"
 
 #: src/cli/tracker-status.c:67
 msgid "Follow status changes as they happen"
-msgstr "Vaziyat o'zgarishlari sodir bo'lganda kuzatib boring"
+msgstr "Vaziyat oʻzgarishlari sodir boʻlganda kuzatib boring"
 
 #: src/cli/tracker-status.c:71
 msgid "Show statistics for current index / data set"
 msgstr ""
-"Joriy indeks / ma'lumotlar to'plami uchun statistik ma'lumotlarni ko'rsatish"
+"Joriy indeks / ma'lumotlar toʻplami uchun statistik ma'lumotlarni koʻrsatish"
 
 #: src/cli/tracker-status.c:75
 msgid ""
 "Watch changes to the database in real time (e.g. resources or files being "
 "added)"
 msgstr ""
-"Haqiqiy vaqtda ma'lumotlar bazasidagi o'zgarishlarni tomosha qiling "
-"(masalan, manbalar yoki qo'shilayotgan fayllar)"
+"Haqiqiy vaqtda ma'lumotlar bazasidagi oʻzgarishlarni tomosha qiling "
+"(masalan, manbalar yoki qoʻshilayotgan fayllar)"
 
 #: src/cli/tracker-status.c:81
 #, fuzzy
@@ -601,7 +602,7 @@ msgstr[1] "%d ta jild"
 
 #: src/cli/tracker-status.c:429
 msgid "Remaining space on database partition"
-msgstr "Ma'lumotlar bazasi bo'limida qolgan bo'sh joy"
+msgstr "Ma'lumotlar bazasi boʻlimida qolgan boʻsh joy"
 
 #: src/cli/tracker-status.c:439 src/cli/tracker-status.c:645
 msgid "Indexer is paused"
@@ -638,7 +639,7 @@ msgstr "Endi ma'lumotlar bazasidagi resurs yangilanishlarini tinglash"
 
 #: src/cli/tracker-status.c:715
 msgid "Press Ctrl+C to stop"
-msgstr "To'xtatish uchun Ctrl+C tugmalarini bosing"
+msgstr "Toʻxtatish uchun Ctrl+C tugmalarini bosing"
 
 #: src/cli/tracker-tag.c:67
 msgid "List all tags"
@@ -647,14 +648,14 @@ msgstr ""
 #: src/cli/tracker-tag.c:71
 msgid "Show files associated with each tag (this is only used with --list)"
 msgstr ""
-"Har bir teg bilan bog'langan fayllarni ko'rsatish (bu faqat --list bilan "
+"Har bir teg bilan bogʻlangan fayllarni koʻrsatish (bu faqat --list bilan "
 "ishlatiladi)"
 
 #: src/cli/tracker-tag.c:75
 msgid "Add a tag (if FILEs are omitted, TAG is not associated with any files)"
 msgstr ""
-"Teg qo'shing (agar FILElar qoldirilsa, TAG hech qanday fayl bilan "
-"bog'lanmagan)"
+"Teg qoʻshing (agar FILElar qoldirilsa, TAG hech qanday fayl bilan "
+"bogʻlanmagan)"
 
 #: src/cli/tracker-tag.c:76 src/cli/tracker-tag.c:80
 msgid "TAG"
@@ -663,8 +664,8 @@ msgstr "TAG"
 #: src/cli/tracker-tag.c:79
 msgid "Delete a tag (if FILEs are omitted, TAG is removed for all files)"
 msgstr ""
-"Tegni o'chirish (agar FILElar qoldirilsa, barcha fayllar uchun TAG "
-"o'chiriladi)"
+"Tegni oʻchirish (agar FILElar qoldirilsa, barcha fayllar uchun TAG "
+"oʻchiriladi)"
 
 #: src/cli/tracker-tag.c:83
 msgid "Description for a tag (this is only used with --add)"
@@ -680,7 +681,7 @@ msgstr "FILE…"
 
 #: src/cli/tracker-tag.c:119
 msgid "Could not get files related to tag"
-msgstr "Teg bilan bog'liq fayllarni olib bo'lmadi"
+msgstr "Teg bilan bogʻliq fayllarni olib boʻlmadi"
 
 #: src/cli/tracker-tag.c:151 src/cli/tracker-tag.c:335
 msgid "Could not get all tags"
@@ -688,15 +689,15 @@ msgstr "Barcha teglar olinmadi"
 
 #: src/cli/tracker-tag.c:156
 msgid "Tags (shown by name)"
-msgstr "Teglar (nomi bilan ko'rsatilgan)"
+msgstr "Teglar (nomi bilan koʻrsatilgan)"
 
 #: src/cli/tracker-tag.c:217
 msgid "Could not add tag"
-msgstr "Teg qo‘shib bo‘lmadi"
+msgstr "Teg qoʻshib boʻlmadi"
 
 #: src/cli/tracker-tag.c:222
 msgid "Tag was added successfully"
-msgstr "Teg muvaffaqiyatli qo'shildi"
+msgstr "Teg muvaffaqiyatli qoʻshildi"
 
 #: src/cli/tracker-tag.c:248
 msgid "Could not add tag to files"
@@ -708,7 +709,7 @@ msgstr "Belgilangan"
 
 #: src/cli/tracker-tag.c:278 src/cli/tracker-tag.c:306
 msgid "Could not remove tag"
-msgstr "Tegni olib tashlab bo'lmadi"
+msgstr "Tegni olib tashlab boʻlmadi"
 
 #: src/cli/tracker-tag.c:283 src/cli/tracker-tag.c:311
 msgid "Tag was removed successfully"
@@ -718,7 +719,7 @@ msgstr "Teg muvaffaqiyatli olib tashlandi"
 #, fuzzy
 #| msgid "Could not establish a connection to Tracker"
 msgid "Could not establish a connection to LocalSearch"
-msgstr "Tracker bilan aloqa o‘rnatib bo‘lmadi"
+msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
 #: src/cli/tracker-tag.c:425
 msgid "The --list option is required for --show-files"
@@ -726,7 +727,7 @@ msgstr "--list opsiyasi --show-files uchun talab qilinadi"
 
 #: src/cli/tracker-tag.c:427
 msgid "Add and delete actions can not be used together"
-msgstr "Qo‘shish va o‘chirish amallarini birgalikda ishlatib bo‘lmaydi"
+msgstr "Qoʻshish va oʻchirish amallarini birgalikda ishlatib boʻlmaydi"
 
 #: src/cli/tracker-tag.c:429
 msgid "The --description option can only be used with --add"
@@ -799,11 +800,10 @@ msgstr[1] " %2.2d soniya"
 #: src/control/tracker-main.c:61 src/extractor/tracker-main.c:89
 #: src/indexer/tracker-application.c:62 src/writeback/tracker-main.c:50
 msgid "Displays version information"
-msgstr "Versiya ma'lumotlarini ko'rsatadi"
+msgstr "Versiya ma'lumotlarini koʻrsatadi"
 
 #. Translators: this messagge will apper immediately after the
 #. * usage string - Usage: COMMAND <THIS_MESSAGE>
-#.
 #: src/control/tracker-main.c:136
 msgid "— start the tracker index proxy"
 msgstr "— treker indeksi proksi-serverini ishga tushiring"
@@ -814,7 +814,7 @@ msgstr "Meta-ma'lumotlarni olish uchun fayl"
 
 #: src/extractor/tracker-main.c:78
 msgid "MIME type for file (if not provided, this will be guessed)"
-msgstr "Fayl uchun MIME turi (agar ko'rsatilmagan bo'lsa, bu taxmin qilinadi)"
+msgstr "Fayl uchun MIME turi (agar koʻrsatilmagan boʻlsa, bu taxmin qilinadi)"
 
 #: src/extractor/tracker-main.c:79
 msgid "MIME"
@@ -858,7 +858,7 @@ msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 
 #: src/indexer/tracker-application.c:58
 msgid "Avoids changes in the filesystem"
-msgstr "Fayl tizimidagi o'zgarishlarni oldini oladi"
+msgstr "Fayl tizimidagi oʻzgarishlarni oldini oladi"
 
 #: src/indexer/tracker-application.c:589
 #, c-format
@@ -885,7 +885,8 @@ msgstr "“%s” ota-katalogini indekslash MUMKIN EMAS (yashirin fayl)"
 msgid ""
 "Parent directory “%s” is NOT eligible to be indexed (based on content "
 "filters)"
-msgstr "“%s” ota-katalogini indekslash MUMKIN EMAS (kontent filtrlari asosida)"
+msgstr ""
+"“%s” ota-katalogini indekslash MUMKIN EMAS (kontent filtrlari asosida)"
 
 #: src/indexer/tracker-application.c:643
 msgid "Directory is NOT eligible to be indexed (based on filters)"
@@ -913,51 +914,51 @@ msgstr "Fayl indekslanishi mumkin"
 
 #: src/writeback/tracker-main.c:54
 msgid ""
-"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug (default=0)"
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug "
+"(default=0)"
 msgstr ""
-"Jurnal, 0 = faqat xatolar, 1 = minimal, 2 = batafsil va 3 = disk raskadrovka "
-"(standart = 0)"
+"Jurnal, 0 = faqat xatolar, 1 = minimal, 2 = batafsil va 3 = disk raskadrovka"
+" (standart = 0)"
 
 #: src/writeback/tracker-main.c:61
 msgid "Disable shutting down after 30 seconds of inactivity"
-msgstr "30 soniya harakatsizlikdan keyin o'chirishni o'chiring"
+msgstr "30 soniya harakatsizlikdan keyin oʻchirishni oʻchiring"
 
 #. Translators: this message will appear immediately after the
 #. * usage string - Usage: COMMAND <THIS_MESSAGE>
-#.
 #: src/writeback/tracker-main.c:93
 msgid "— start the tracker writeback service"
 msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #~ msgid ""
-#~ "Simplify the words to their root to provide more results. E.g. “shelves” "
-#~ "and “shelf” to “shel”"
+#~ "Simplify the words to their root to provide more results. E.g. “shelves” and"
+#~ " “shelf” to “shel”"
 #~ msgstr ""
-#~ "Ko'proq natijalar berish uchun so'zlarni ildiziga soddalashtiring. "
-#~ "Masalan, \"javonlar\" va \"javon\" dan \"javon\" ga"
+#~ "Koʻproq natijalar berish uchun soʻzlarni ildiziga soddalashtiring. Masalan, "
+#~ "\"javonlar\" va \"javon\" dan \"javon\" ga"
 
 #~ msgid ""
-#~ "Translate accented characters to the equivalent unaccented. E.g. “Idéa” "
-#~ "to “Idea” for improved matching."
+#~ "Translate accented characters to the equivalent unaccented. E.g. “Idéa” to "
+#~ "“Idea” for improved matching."
 #~ msgstr ""
-#~ "Urg'uli belgilarni aksentsiz ekvivalentga tarjima qiling. Masalan, "
+#~ "Urgʻuli belgilarni aksentsiz ekvivalentga tarjima qiling. Masalan, "
 #~ "Muvofiqlikni yaxshilash uchun “Idéa” dan “Idea”ga."
 
 #~ msgid "If enabled, numbers will not be indexed."
-#~ msgstr "Agar yoqilgan bo'lsa, raqamlar indekslanmaydi."
+#~ msgstr "Agar yoqilgan boʻlsa, raqamlar indekslanmaydi."
 
 #~ msgid "Initial sleep time, in seconds."
 #~ msgstr "Dastlabki uyqu vaqti, soniyalarda."
 
 #~ msgid "Indexing speed, the higher the slower."
-#~ msgstr "Indekslash tezligi qanchalik baland bo'lsa, sekinroq."
+#~ msgstr "Indekslash tezligi qanchalik baland boʻlsa, sekinroq."
 
 #~ msgid ""
 #~ "Disk space threshold in percent at which to pause indexing, or -1 to "
 #~ "disable."
 #~ msgstr ""
-#~ "Indekslashni to'xtatib turish uchun foizda disk maydoni chegarasi yoki "
-#~ "o'chirish uchun -1."
+#~ "Indekslashni toʻxtatib turish uchun foizda disk maydoni chegarasi yoki "
+#~ "oʻchirish uchun -1."
 
 #~ msgid ""
 #~ "Interval in days to check whether the filesystem is up to date in the "
@@ -965,47 +966,44 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ "shutdowns, and -2 disables it entirely."
 #~ msgstr ""
 #~ "Fayl tizimining ma'lumotlar bazasida yangilanganligini tekshirish uchun "
-#~ "kunlar oralig'i. 0 istalgan vaqtda emaklashga majbur qiladi, -1 uni faqat "
-#~ "nopok o'chirishlardan keyin majburlaydi va -2 uni butunlay o'chirib "
-#~ "qo'yadi."
+#~ "kunlar oraligʻi. 0 istalgan vaqtda emaklashga majbur qiladi, -1 uni faqat "
+#~ "nopok oʻchirishlardan keyin majburlaydi va -2 uni butunlay oʻchirib qoʻyadi."
 
 #~ msgid ""
-#~ "Threshold in days after which files from removables devices will be "
-#~ "removed from database if not mounted. 0 means never, maximum is 365."
+#~ "Threshold in days after which files from removables devices will be removed "
+#~ "from database if not mounted. 0 means never, maximum is 365."
 #~ msgstr ""
-#~ "Ko'chma qurilmalardagi fayllar o'rnatilmagan bo'lsa, ma'lumotlar "
-#~ "bazasidan olib tashlanadigan kundan keyin chegara. 0 hech qachon, "
-#~ "maksimal 365 degan ma'noni anglatadi."
+#~ "Koʻchma qurilmalardagi fayllar oʻrnatilmagan boʻlsa, ma'lumotlar bazasidan "
+#~ "olib tashlanadigan kundan keyin chegara. 0 hech qachon, maksimal 365 degan "
+#~ "ma'noni anglatadi."
 
 #~ msgid ""
 #~ "Set to true to enable indexing CDs, DVDs, and generally optical media (if "
 #~ "removable devices are not indexed, optical discs won’t be either)"
 #~ msgstr ""
 #~ "CD, DVD va umuman optik tashuvchilarni indekslashni yoqish uchun rost "
-#~ "qiymatini o'rnating (agar olinadigan qurilmalar indekslanmagan bo'lsa, "
-#~ "optik disklar ham indekslanmaydi)"
+#~ "qiymatini oʻrnating (agar olinadigan qurilmalar indekslanmagan boʻlsa, optik"
+#~ " disklar ham indekslanmaydi)"
 
 #~ msgid "Set to true to index while running on battery"
 #~ msgstr ""
-#~ "Batareya quvvatida ishlayotganda indeks uchun true qiymatini o‘rnating"
+#~ "Batareya quvvatida ishlayotganda indeks uchun true qiymatini oʻrnating"
 
-#~ msgid ""
-#~ "Set to true to index while running on battery for the first time only"
+#~ msgid "Set to true to index while running on battery for the first time only"
 #~ msgstr ""
 #~ "Batareyada birinchi marta ishlayotganda indeks uchun true qiymatini "
-#~ "o'rnating"
+#~ "oʻrnating"
 
-#~ msgid ""
-#~ "Start, stop, restart and list daemons responsible for indexing content"
+#~ msgid "Start, stop, restart and list daemons responsible for indexing content"
 #~ msgstr ""
-#~ "Tarkibni indekslash uchun mas'ul bo'lgan demonlarni ishga tushirish, "
-#~ "to'xtatish, qayta ishga tushirish va ro'yxatlash"
+#~ "Tarkibni indekslash uchun mas'ul boʻlgan demonlarni ishga tushirish, "
+#~ "toʻxtatish, qayta ishga tushirish va roʻyxatlash"
 
 #~ msgid "Trigger content indexing of a location"
 #~ msgstr "Joylashuv tarkibini indekslashni ishga tushiring"
 
 #~ msgid "Reset the index and configuration"
-#~ msgstr "Indeks va konfiguratsiyani qayta o'rnating"
+#~ msgstr "Indeks va konfiguratsiyani qayta oʻrnating"
 
 #~ msgid "Unavailable"
 #~ msgstr "DBus mavjud emas"
@@ -1034,7 +1032,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "Ishsiz"
 
 #~ msgid "List common statuses for miners"
-#~ msgstr "Konchilar uchun umumiy holatlar ro'yxati"
+#~ msgstr "Konchilar uchun umumiy holatlar roʻyxati"
 
 #~ msgid "Pause a miner (you must use this with --miner)"
 #~ msgstr "Minerni pauza qilish (siz buni --miner bilan ishlatishingiz kerak)"
@@ -1043,50 +1041,49 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "SABAB"
 
 #~ msgid ""
-#~ "Pause a miner while the calling process is alive or until resumed (you "
-#~ "must use this with --miner)"
+#~ "Pause a miner while the calling process is alive or until resumed (you must "
+#~ "use this with --miner)"
 #~ msgstr ""
-#~ "Qo'ng'iroq jarayoni jonli yoki davom etguncha konchini pauza qiling (buni "
+#~ "Qoʻngʻiroq jarayoni jonli yoki davom etguncha konchini pauza qiling (buni "
 #~ "--miner bilan ishlatishingiz kerak)"
 
 #~ msgid "Resume a miner (you must use this with --miner)"
-#~ msgstr ""
-#~ "Minerni davom ettirish (siz buni --miner bilan ishlatishingiz kerak)"
+#~ msgstr "Minerni davom ettirish (siz buni --miner bilan ishlatishingiz kerak)"
 
 #~ msgid "COOKIE"
 #~ msgstr "COOKIE"
 
 #~ msgid ""
-#~ "Miner to use with --resume or --pause (you can use suffixes, e.g. Files "
-#~ "or Applications)"
+#~ "Miner to use with --resume or --pause (you can use suffixes, e.g. Files or "
+#~ "Applications)"
 #~ msgstr ""
-#~ "Miner --resume yoki --pause bilan foydalanish uchun (siz qo'shimchalardan "
+#~ "Miner --resume yoki --pause bilan foydalanish uchun (siz qoʻshimchalardan "
 #~ "foydalanishingiz mumkin, masalan, Fayllar yoki Ilovalar)"
 
 #~ msgid "MINER"
 #~ msgstr "MINER"
 
 #~ msgid "List all miners currently running"
-#~ msgstr "Hozirda ishlayotgan barcha konchilarni sanab o'ting"
+#~ msgstr "Hozirda ishlayotgan barcha konchilarni sanab oʻting"
 
 #~ msgid "List all miners installed"
-#~ msgstr "O'rnatilgan barcha konchilar ro'yxati"
+#~ msgstr "Oʻrnatilgan barcha konchilar roʻyxati"
 
 #~ msgid "List pause reasons"
-#~ msgstr "Pauza sabablarini sanab o'ting"
+#~ msgstr "Pauza sabablarini sanab oʻting"
 
 #~ msgid "List all Tracker processes"
-#~ msgstr "Barcha Tracker jarayonlarini sanab o'ting"
+#~ msgstr "Barcha Tracker jarayonlarini sanab oʻting"
 
 #~ msgid "Use SIGKILL to stop all miners"
-#~ msgstr "Barcha konchilarni to'xtatish uchun SIGKILL dan foydalaning"
+#~ msgstr "Barcha konchilarni toʻxtatish uchun SIGKILL dan foydalaning"
 
 #, fuzzy
 #~ msgid "APPS"
 #~ msgstr "APPS"
 
 #~ msgid "Use SIGTERM to stop all miners"
-#~ msgstr "Barcha konchilarni to'xtatish uchun SIGTERM dan foydalaning"
+#~ msgstr "Barcha konchilarni toʻxtatish uchun SIGTERM dan foydalaning"
 
 #~ msgid "Starts miners"
 #~ msgstr "Konchilarni ishga tushiradi"
@@ -1106,7 +1103,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "Toʻxtatildi"
 
 #~ msgid "Not running or is a disabled plugin"
-#~ msgstr "Ishlamaydi yoki o'chirilgan plagin"
+#~ msgstr "Ishlamaydi yoki oʻchirilgan plagin"
 
 #, c-format
 #~ msgid "Could not pause miner, manager could not be created, %s"
@@ -1121,7 +1118,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #, c-format
 #~ msgid "Could not pause miner: %s"
-#~ msgstr "Minerni to‘xtatib bo‘lmadi: %s"
+#~ msgstr "Minerni toʻxtatib boʻlmadi: %s"
 
 #, c-format
 #~ msgid "Cookie is %d"
@@ -1129,7 +1126,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #, c-format
 #~ msgid "Could not resume miner, manager could not be created, %s"
-#~ msgstr "Minerni davom ettirib bo‘lmadi, menejer yaratib bo‘lmadi, %s"
+#~ msgstr "Minerni davom ettirib boʻlmadi, menejer yaratib boʻlmadi, %s"
 
 #, c-format
 #~ msgid "Attempting to resume miner %s with cookie %d"
@@ -1156,7 +1153,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #, c-format
 #~ msgid "Could not get pause details, manager could not be created, %s"
-#~ msgstr "Pauza tafsilotlarini olinmadi, boshqaruvchi yaratib bo‘lmadi, %s"
+#~ msgstr "Pauza tafsilotlarini olinmadi, boshqaruvchi yaratib boʻlmadi, %s"
 
 #~ msgid "No miners are running"
 #~ msgstr "Hech qanday konchi yugurmayapti"
@@ -1165,10 +1162,10 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "Konchilar"
 
 #~ msgid "No miners are paused"
-#~ msgstr "Hech qanday konchilar to'xtatilmaydi"
+#~ msgstr "Hech qanday konchilar toʻxtatilmaydi"
 
 #~ msgid "All nie:plainTextContent properties are omitted"
-#~ msgstr "Barcha nie:plainTextContent xususiyatlari o'tkazib yuborilgan"
+#~ msgstr "Barcha nie:plainTextContent xususiyatlari oʻtkazib yuborilgan"
 
 #~ msgid "Common statuses include"
 #~ msgstr "Umumiy holatlarga quyidagilar kiradi"
@@ -1179,7 +1176,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #, c-format
 #~ msgid "Could not get display name for miner “%s”"
-#~ msgstr "“%s” konchi uchun ko‘rsatiladigan nomni olib bo‘lmadi"
+#~ msgstr "“%s” konchi uchun koʻrsatiladigan nomni olib boʻlmadi"
 
 #~ msgid "You can not use miner pause and resume switches together"
 #~ msgstr ""
@@ -1187,15 +1184,14 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #~ msgid "You must provide the miner for pause or resume commands"
 #~ msgstr ""
-#~ "To'xtatib turish yoki davom ettirish buyruqlari uchun konchini taqdim "
+#~ "Toʻxtatib turish yoki davom ettirish buyruqlari uchun konchini taqdim "
 #~ "etishingiz kerak"
 
 #~ msgid "You must provide a pause or resume command for the miner"
-#~ msgstr "Miner uchun pauza yoki davom ettirish buyrug'ini berishingiz kerak"
+#~ msgstr "Miner uchun pauza yoki davom ettirish buyrugʻini berishingiz kerak"
 
 #~ msgid "You can not use the --kill and --terminate arguments together"
-#~ msgstr ""
-#~ "Siz --kill va --terminate argumentlarini birgalikda ishlata olmaysiz"
+#~ msgstr "Siz --kill va --terminate argumentlarini birgalikda ishlata olmaysiz"
 
 #, c-format
 #~ msgid "Found %d PID…"
@@ -1208,51 +1204,50 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 
 #, c-format
 #~ msgid "Could not start miners, manager could not be created, %s"
-#~ msgstr "Minerlarni ishga tushirib bo‘lmadi, menejer yaratib bo‘lmadi, %s"
+#~ msgstr "Minerlarni ishga tushirib boʻlmadi, menejer yaratib boʻlmadi, %s"
 
 #~ msgid "perhaps a disabled plugin?"
-#~ msgstr "ehtimol o'chirilgan plagin?"
+#~ msgstr "ehtimol oʻchirilgan plagin?"
 
 #~ msgid "If no arguments are given, the status of the data miners is shown"
 #~ msgstr ""
 #~ "Agar argumentlar keltirilmasa, ma'lumotlar konchilarining holati "
-#~ "ko'rsatiladi"
+#~ "koʻrsatiladi"
 
 #~ msgid "Could not get D-Bus connection"
 #~ msgstr "D-Bus ulanishi olinmadi"
 
 #~ msgid "Could not create D-Bus proxy to tracker-store"
-#~ msgstr "Treker-do'konga D-Bus proksi-serverini yaratib bo'lmadi"
+#~ msgstr "Treker-doʻkonga D-Bus proksi-serverini yaratib boʻlmadi"
 
 #~ msgid ""
-#~ "Instead of looking up a file name, treat the FILE arguments as actual "
-#~ "IRIs (e.g. <file:///path/to/some/file.txt>)"
+#~ "Instead of looking up a file name, treat the FILE arguments as actual IRIs "
+#~ "(e.g. <file:///path/to/some/file.txt>)"
 #~ msgstr ""
-#~ "Fayl nomini qidirish o'rniga, FILE argumentlarini haqiqiy IRI sifatida "
-#~ "ko'rib chiqing (masalan, <file:///path/to/some/file.txt>)"
+#~ "Fayl nomini qidirish oʻrniga, FILE argumentlarini haqiqiy IRI sifatida "
+#~ "koʻrib chiqing (masalan, <file:///path/to/some/file.txt>)"
 
 #~ msgid "Output results as RDF in Turtle format"
 #~ msgstr "Turtle formatida RDF sifatida chiqish natijalari"
 
 #~ msgid "RDF property to treat as URL (eg. “nie:url”)"
-#~ msgstr ""
-#~ "URL sifatida koʻrib chiqiladigan RDF xususiyati (masalan, “nie:url”)"
+#~ msgstr "URL sifatida koʻrib chiqiladigan RDF xususiyati (masalan, “nie:url”)"
 
 #~ msgid "Unable to retrieve URN for URI"
-#~ msgstr "URI uchun URNni olib bo‘lmadi"
+#~ msgstr "URI uchun URNni olib boʻlmadi"
 
 #, c-format
 #~ msgid "Could not kill process %d — “%s”"
-#~ msgstr "%d - “%s” jarayonini o‘chirib bo‘lmadi"
+#~ msgstr "%d - “%s” jarayonini oʻchirib boʻlmadi"
 
 #, c-format
 #~ msgid "Killed process %d — “%s”"
-#~ msgstr "O'chirilgan jarayon %d — “%s”"
+#~ msgstr "Oʻchirilgan jarayon %d — “%s”"
 
 #~ msgid "Search for content matching TERMS, by type or across all types."
 #~ msgstr ""
-#~ "Turi boʻyicha yoki barcha turlar boʻyicha SHARTLARga mos keladigan "
-#~ "kontentni qidiring."
+#~ "Turi boʻyicha yoki barcha turlar boʻyicha SHARTLARga mos keladigan kontentni"
+#~ " qidiring."
 
 #~ msgid "Search for music albums (--all has no effect on this)"
 #~ msgstr "Musiqiy albomlarni qidirish (--hammasi bunga ta'sir qilmaydi)"
@@ -1277,23 +1272,23 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ "Show URNs for results (doesn’t apply to --music-albums, --music-artists, "
 #~ "--feeds, --software, --software-categories)"
 #~ msgstr ""
-#~ "Natijalar uchun URN-larni ko'rsatish (--music-alboms, --music-artists, --"
-#~ "feeds, --software, --software-categories uchun amal qilmaydi)"
+#~ "Natijalar uchun URN-larni koʻrsatish (--music-alboms, --music-artists, "
+#~ "--feeds, --software, --software-categories uchun amal qilmaydi)"
 
 #~ msgid ""
 #~ "Disable showing snippets with results. This is only shown for some "
 #~ "categories, e.g. Documents, Music…"
 #~ msgstr ""
-#~ "Natijalar bilan parchalarni ko'rsatishni o'chirib qo'ying. Bu faqat ba'zi "
-#~ "toifalar uchun ko'rsatiladi, masalan. Hujjatlar, musiqa…"
+#~ "Natijalar bilan parchalarni koʻrsatishni oʻchirib qoʻying. Bu faqat ba'zi "
+#~ "toifalar uchun koʻrsatiladi, masalan. Hujjatlar, musiqa…"
 
 #~ msgid "Disable Full Text Search (FTS). Implies --disable-snippets"
 #~ msgstr ""
-#~ "To'liq matnli qidiruvni (FTS) o'chiring. --disable-snippetlarni nazarda "
+#~ "Toʻliq matnli qidiruvni (FTS) oʻchiring. --disable-snippetlarni nazarda "
 #~ "tutadi"
 
 #~ msgid "Disable color when printing snippets and results"
-#~ msgstr "Parchalar va natijalarni chop etishda rangni o'chiring"
+#~ msgstr "Parchalar va natijalarni chop etishda rangni oʻchiring"
 
 #~ msgid "Could not get search results"
 #~ msgstr "Qidiruv natijalari olinmadi"
@@ -1326,7 +1321,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "Dasturiy ta'minot toifalari"
 
 #~ msgid "No results were found matching your query"
-#~ msgstr "Sizning so'rovingizga mos keladigan natijalar topilmadi"
+#~ msgstr "Sizning soʻrovingizga mos keladigan natijalar topilmadi"
 
 #~ msgid "No statistics available"
 #~ msgstr "Hech qanday statistika mavjud emas"
@@ -1350,8 +1345,8 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgid ""
 #~ "List all tags (using FILTER if specified; FILTER always uses logical OR)"
 #~ msgstr ""
-#~ "Barcha teglarni sanab o'ting (agar belgilangan bo'lsa FILTERdan "
-#~ "foydalaning; FILTER har doim mantiqiy OR dan foydalanadi)"
+#~ "Barcha teglarni sanab oʻting (agar belgilangan boʻlsa FILTERdan foydalaning;"
+#~ " FILTER har doim mantiqiy OR dan foydalanadi)"
 
 #, fuzzy
 #~ msgid "FILTER"
@@ -1367,11 +1362,11 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ "NOTE: Limit was reached, there are more items in the database not listed "
 #~ "here"
 #~ msgstr ""
-#~ "DIQQAT: Cheklovga erishildi, ma'lumotlar bazasida bu erda ko'rsatilmagan "
-#~ "yana ko'p narsalar mavjud"
+#~ "DIQQAT: Cheklovga erishildi, ma'lumotlar bazasida bu erda koʻrsatilmagan "
+#~ "yana koʻp narsalar mavjud"
 
 #~ msgid "Could not get file URNs"
-#~ msgstr "Fayl URN-larini olib bo‘lmadi"
+#~ msgstr "Fayl URN-larini olib boʻlmadi"
 
 #~ msgid "Could not get all tags in the database"
 #~ msgstr "Maʼlumotlar bazasidagi barcha teglar olinmadi"
@@ -1389,7 +1384,7 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "Hech qanday teg topilmadi"
 
 #~ msgid "No files were modified"
-#~ msgstr "Hech qanday fayl o'zgartirilmadi"
+#~ msgstr "Hech qanday fayl oʻzgartirilmadi"
 
 #~ msgid "Files do not exist or aren’t indexed"
 #~ msgstr "Fayllar mavjud emas yoki indekslanmagan"
@@ -1398,13 +1393,13 @@ msgstr "— kuzatuvchini qayta yozish xizmatini ishga tushiring"
 #~ msgstr "Belgilanmagan, fayl indekslanmagan"
 
 #~ msgid "Could not get tag by label"
-#~ msgstr "Yorliq bo‘yicha teg olinmadi"
+#~ msgstr "Yorliq boʻyicha teg olinmadi"
 
 #~ msgid "No tags were found by that name"
 #~ msgstr "Bunday nomdagi teglar topilmadi"
 
 #~ msgid "None of the files had this tag set"
-#~ msgstr "Hech bir faylda bu teg o'rnatilmagan"
+#~ msgstr "Hech bir faylda bu teg oʻrnatilmagan"
 
 #~ msgid "Untagged"
 #~ msgstr "Belgilanmagan"

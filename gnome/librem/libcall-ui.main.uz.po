@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: libcall-ui main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/libcall-ui/"
-"issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/libcall-ui/issues/\n"
 "POT-Creation-Date: 2025-09-21 11:42+0000\n"
 "PO-Revision-Date: 2025-04-04 22:32+0500\n"
 "Last-Translator: \n"
@@ -20,23 +19,23 @@ msgstr ""
 
 #: src/cui-call.c:336
 msgid "Call active"
-msgstr "Qo'ng'iroq faol"
+msgstr "Qoʻngʻiroq faol"
 
 #: src/cui-call.c:338
 msgid "Call held"
-msgstr "Qo'ng'iroq ushlab turildi"
+msgstr "Qoʻngʻiroq ushlab turildi"
 
 #: src/cui-call.c:340
 msgid "Calling…"
-msgstr "Qo‘ng‘iroq qilinmoqda…"
+msgstr "Qoʻngʻiroq qilinmoqda…"
 
 #: src/cui-call.c:342
 msgid "Incoming call"
-msgstr "Kiruvchi qo'ng'iroq"
+msgstr "Kiruvchi qoʻngʻiroq"
 
 #: src/cui-call.c:344
 msgid "Call ended"
-msgstr "Qo'ng'iroq tugadi"
+msgstr "Qoʻngʻiroq tugadi"
 
 #: src/cui-call.c:347 src/cui-call.c:367 src/cui-call-display.c:288
 msgid "Unknown"
@@ -52,8 +51,8 @@ msgstr ""
 
 #: src/cui-call-display.c:102
 msgid "Accepting call…"
-msgstr "Qo‘ng‘iroq qabul qilinmoqda…"
+msgstr "Qoʻngʻiroq qabul qilinmoqda…"
 
 #: src/cui-call-display.c:117
 msgid "Hanging up…"
-msgstr "O‘chirilmoqda…"
+msgstr "Oʻchirilmoqda…"

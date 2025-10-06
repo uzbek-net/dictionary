@@ -24,15 +24,15 @@ msgstr "Sushi"
 
 #: data/org.gnome.NautilusPreviewer.appdata.xml.in.in:10
 msgid "Provide a facility for quickly viewing different kinds of files"
-msgstr "Turli xil fayllarni tezda ko'rish imkoniyatini taqdim eting"
+msgstr "Turli xil fayllarni tezda koʻrish imkoniyatini taqdim eting"
 
 #: data/org.gnome.NautilusPreviewer.appdata.xml.in.in:12
 msgid ""
 "Sushi is a file previewer for the GNOME desktop environment. It is an "
 "independent component that integrates with GNOME Files (Nautilus)."
 msgstr ""
-"Sushi - bu GNOME ish stoli muhiti uchun fayllarni ko'rib chiqish dasturi. Bu "
-"GNOME Files (Nautilus) bilan integratsiyalashgan mustaqil komponent."
+"Sushi - bu GNOME ish stoli muhiti uchun fayllarni koʻrib chiqish dasturi. Bu"
+" GNOME Files (Nautilus) bilan integratsiyalashgan mustaqil komponent."
 
 #: src/ui/fallbackRenderer.js:244
 msgid "Type"
@@ -46,11 +46,11 @@ msgstr[0] "%d element"
 
 #: src/ui/fallbackRenderer.js:259
 msgid "Empty Folder"
-msgstr "Bo'sh papka"
+msgstr "Boʻsh papka"
 
 #: src/ui/fallbackRenderer.js:263
 msgid "Size"
-msgstr "O'lcham"
+msgstr "Oʻlcham"
 
 #: src/ui/fallbackRenderer.js:269
 msgid "Modified"
@@ -62,7 +62,8 @@ msgstr "Oʻzgartirilgan"
 msgid "Unable to display %s"
 msgstr "%s koʻrsatilmadi"
 
-#. TRANSLATORS: This is the display name of an application, e.g. "Open With Image Viewer"
+#. TRANSLATORS: This is the display name of an application, e.g. "Open With
+#. Image Viewer"
 #: src/ui/mainWindow.js:358
 #, javascript-format
 msgid "Open With %s"

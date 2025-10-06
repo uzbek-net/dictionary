@@ -39,7 +39,7 @@ msgid ""
 "Confirm the Bluetooth PIN for “%s”. This can usually be found in the "
 "device’s manual."
 msgstr ""
-"“%s” uchun Bluetooth PIN-kodini tasdiqlang. Bu odatda qurilma qo'llanmasida "
+"“%s” uchun Bluetooth PIN-kodini tasdiqlang. Bu odatda qurilma qoʻllanmasida "
 "topiladi."
 
 #: lib/bluetooth-pairing-dialog.c:101
@@ -52,12 +52,12 @@ msgstr "“%s” ga ulanmoqda"
 msgid ""
 "Please confirm that the following PIN matches the one displayed on “%s”."
 msgstr ""
-"Iltimos, quyidagi PIN \"%s\" da ko‘rsatilgan PIN bilan mos kelishini "
+"Iltimos, quyidagi PIN \"%s\" da koʻrsatilgan PIN bilan mos kelishini "
 "tasdiqlang."
 
 #: lib/bluetooth-pairing-dialog.c:114
 msgid "Bluetooth Pairing Request"
-msgstr "Bluetooth Ulanish So'rovi"
+msgstr "Bluetooth Ulanish Soʻrovi"
 
 #: lib/bluetooth-pairing-dialog.c:115
 #, c-format
@@ -66,14 +66,14 @@ msgstr "“%s” ushbu qurilmga bilan ulanmoqchi, Ulanishga ruxsat berasizmi?"
 
 #: lib/bluetooth-pairing-dialog.c:120
 msgid "Confirm Bluetooth Connection"
-msgstr "Bluetooth Bog'lanishni Tasdiqlang"
+msgstr "Bluetooth Bogʻlanishni Tasdiqlang"
 
 # muqobil varyant:
 # "Bunga ruxsat berishni istaysizmi?"
 #: lib/bluetooth-pairing-dialog.c:121
 #, c-format
 msgid "“%s” wants to connect with this device. Do you want to allow it?"
-msgstr "“%s” ushbu qurilma bilan bog'lanmoqchi. Bunga ruxsat berasizmi?"
+msgstr "“%s” ushbu qurilma bilan bogʻlanmoqchi. Bunga ruxsat berasizmi?"
 
 #: lib/bluetooth-pairing-dialog.c:129
 #, c-format
@@ -94,8 +94,8 @@ msgid ""
 "Please move the joystick of your iCade in the following directions. Then "
 "press any of the white buttons."
 msgstr ""
-"Iltimos, iCade joystickini quyidagi yo‘nalishlarda harakatlantiring. So‘ngra "
-"oq tugmalardan birini bosing."
+"Iltimos, iCade joystickini quyidagi yoʻnalishlarda harakatlantiring. Soʻngra"
+" oq tugmalardan birini bosing."
 
 #: lib/bluetooth-pairing-dialog.c:145
 msgid "_Allow"
@@ -120,11 +120,11 @@ msgstr "Sozlanmagan"
 
 #: lib/bluetooth-settings-row.c:80
 msgid "Connected"
-msgstr "Bog'langan"
+msgstr "Bogʻlangan"
 
 #: lib/bluetooth-settings-row.c:82
 msgid "Disconnected"
-msgstr "Bog'lanmagan"
+msgstr "Bogʻlanmagan"
 
 #: lib/bluetooth-settings-widget.c:1141 lib/settings.ui:71
 msgid "Yes"
@@ -132,7 +132,7 @@ msgstr "Ha"
 
 #: lib/bluetooth-settings-widget.c:1141
 msgid "No"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #. translators: first %s is the name of the computer, for example:
 #. * Visible as “Bastien Nocera’s Computer” followed by the
@@ -143,7 +143,7 @@ msgid ""
 "Visible as “%s” and available for Bluetooth file transfers. Transferred "
 "files are placed in the <a href=\"%s\">Downloads</a> folder."
 msgstr ""
-"“%s” sifatida ko'rinadi va Bluetoth file uzatuvi uchun mavjud. Uzatilgan "
+"“%s” sifatida koʻrinadi va Bluetoth file uzatuvi uchun mavjud. Uzatilgan "
 "fayllar <a href=\"%s\">Yuklamalar</a> jildida joylashgan."
 
 #: lib/bluetooth-settings-widget.c:1303
@@ -156,10 +156,11 @@ msgid ""
 "“%s” will be removed from your saved devices. You will have to set it up "
 "again to use it."
 msgstr ""
-"“%s” saqlangan qurilmalardan o'chiriladi. Undan foydalanish uchun qayta "
-"sozlashingizga to'g'ri keladi."
+"“%s” saqlangan qurilmalardan oʻchiriladi. Undan foydalanish uchun qayta "
+"sozlashingizga toʻgʻri keladi."
 
-# Bluetooth qurilma kontekstida bo'lgani uchun "Uzish" so'zidan ham foydalanish mumkin.
+# Bluetooth qurilma kontekstida bo'lgani uchun "Uzish" so'zidan ham
+# foydalanish mumkin.
 #: lib/bluetooth-settings-widget.c:1312
 msgid "_Forget"
 msgstr "_Unutish"
@@ -215,7 +216,8 @@ msgstr "Kompyuter"
 msgid "Network"
 msgstr "Tarmoq"
 
-#. translators: a hands-free headset, a combination of a single speaker with a microphone
+#. translators: a hands-free headset, a combination of a single speaker with a
+#. microphone
 #: lib/bluetooth-utils.c:65
 msgid "Headset"
 msgstr "Garnitura"
@@ -286,7 +288,7 @@ msgstr "Noma'lum"
 
 #: lib/settings.ui:49
 msgid "_Connection"
-msgstr "_Bog'lanish"
+msgstr "_Bogʻlanish"
 
 #: lib/settings.ui:70
 msgid "Paired"
@@ -314,7 +316,7 @@ msgstr "_Klaviatura Sozlamalari"
 
 #: lib/settings.ui:123
 msgid "Send _Files…"
-msgstr "_Fayllarni Jo'natish…"
+msgstr "_Fayllarni Joʻnatish…"
 
 # yoki "Uzish"
 #: lib/settings.ui:129
@@ -335,7 +337,7 @@ msgstr "Bluetooth Uzatuv"
 
 #: sendto/bluetooth-sendto.desktop.in:3
 msgid "Send files via Bluetooth"
-msgstr "Fayllarni Bluetooth orqali jo'natish"
+msgstr "Fayllarni Bluetooth orqali joʻnatish"
 
 #: sendto/main.c:118
 msgid "An unknown error occurred"
@@ -346,7 +348,7 @@ msgid ""
 "Make sure that the remote device is switched on and that it accepts "
 "Bluetooth connections"
 msgstr ""
-"Iltimos, masofaviy qurilma yoqilgan va Bluetooth bog'lanishlarni qabul "
+"Iltimos, masofaviy qurilma yoqilgan va Bluetooth bogʻlanishlarni qabul "
 "qilishini tekshiring"
 
 #: sendto/main.c:364
@@ -375,7 +377,7 @@ msgstr[0] "taxminan %'d soat"
 
 #: sendto/main.c:403 sendto/main.c:503
 msgid "Connecting…"
-msgstr "Bog'lanmoqda…"
+msgstr "Bogʻlanmoqda…"
 
 #: sendto/main.c:444
 msgid "Bluetooth File Transfer"
@@ -396,12 +398,12 @@ msgstr "Ga:"
 #: sendto/main.c:567
 #, c-format
 msgid "Sending %s"
-msgstr "%s jo'natilmoqda"
+msgstr "%s joʻnatilmoqda"
 
 #: sendto/main.c:574 sendto/main.c:623
 #, c-format
 msgid "Sending file %d of %d"
-msgstr "%d ning %d fayli jo'natilmoqda"
+msgstr "%d ning %d fayli joʻnatilmoqda"
 
 #: sendto/main.c:619
 #, c-format
@@ -429,7 +431,7 @@ msgstr "Xatolik yuz berdi"
 
 #: sendto/main.c:693
 msgid "Choose files to send"
-msgstr "Jo'natish uchun faylni tanlang"
+msgstr "Joʻnatish uchun faylni tanlang"
 
 #: sendto/main.c:700
 msgid "Select"

@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gsettings-desktop-schemas master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gsettings-desktop-"
-"schemas/issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/issues/\n"
 "POT-Creation-Date: 2025-10-01 19:49+0000\n"
 "PO-Revision-Date: 2025-04-25 19:04+0500\n"
 "Last-Translator: \n"
@@ -37,34 +36,34 @@ msgstr "Ekran kattalashtirgich yoqilganmi."
 
 #: schemas/org.gnome.desktop.a11y.applications.gschema.xml.in:16
 msgid "Screen reader"
-msgstr "Ovozli o'quvchi"
+msgstr "Ovozli oʻquvchi"
 
 #: schemas/org.gnome.desktop.a11y.applications.gschema.xml.in:17
 msgid "Whether the screen reader is turned on."
-msgstr "Erkan o'quvchi yoqilganmi."
+msgstr "Erkan oʻquvchi yoqilganmi."
 
 #: schemas/org.gnome.desktop.a11y.gschema.xml.in:6
 msgid "Always show the Universal Access status icon"
-msgstr "Universal Kirish belgisi har doim ko'rinsin"
+msgstr "Universal Kirish belgisi har doim koʻrinsin"
 
 #: schemas/org.gnome.desktop.a11y.gschema.xml.in:7
 msgid ""
 "This key overrides the automatic hiding of the Universal Access status icon "
 "when no accessibility features are enabled."
 msgstr ""
-"Maxsus imkoniyatlar yoqilmaganda, bu kalit Universal Kirish holati belgisini "
-"avtomatik yashirishni bekor qiladi."
+"Maxsus imkoniyatlar yoqilmaganda, bu kalit Universal Kirish holati belgisini"
+" avtomatik yashirishni bekor qiladi."
 
 #: schemas/org.gnome.desktop.a11y.gschema.xml.in:14
 msgid "Always show the text caret"
-msgstr "Matn kursori doimiy ko'rinsin"
+msgstr "Matn kursori doimiy koʻrinsin"
 
 #: schemas/org.gnome.desktop.a11y.gschema.xml.in:15
 msgid ""
 "This key overrides the hiding of the text caret in noneditable text in "
 "applications."
 msgstr ""
-"Ushbu kalit, dasturlarda tahrir qilib bo‘lmaydigan matnda matn kursorini "
+"Ushbu kalit, dasturlarda tahrir qilib boʻlmaydigan matnda matn kursorini "
 "yashirishni bekor qiladi."
 
 #: schemas/org.gnome.desktop.a11y.interface.gschema.xml.in:6
@@ -73,17 +72,17 @@ msgstr "Yuqori kontrast"
 
 #: schemas/org.gnome.desktop.a11y.interface.gschema.xml.in:7
 msgid "Whether to use the high contrast style."
-msgstr "Yuqori kontrast uslubi qo'llashni tanlash."
+msgstr "Yuqori kontrast uslubi qoʻllashni tanlash."
 
 #: schemas/org.gnome.desktop.a11y.interface.gschema.xml.in:13
 msgid "Show status shapes"
-msgstr "Holat shakllarini ko'rsatilsin"
+msgstr "Holat shakllarini koʻrsatilsin"
 
 #: schemas/org.gnome.desktop.a11y.interface.gschema.xml.in:14
 msgid ""
 "Whether to use shapes to indicate status in addition or instead of color."
 msgstr ""
-"Holatni ko‘rsatishda rang o‘rniga yoki qo‘shimcha ravishda shakllardan "
+"Holatni koʻrsatishda rang oʻrniga yoki qoʻshimcha ravishda shakllardan "
 "foydalanishni tanlash."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:6
@@ -92,35 +91,36 @@ msgstr "Maxsus imkoniyatlar uchun klaviatura tezkor tugmalarini yoqish"
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:10
 msgid "Beep when a keyboard accessibility feature changes"
-msgstr "Klaviatura maxsus imkoniyatlari o‘zgarganda tovush chiqarish"
+msgstr "Klaviatura maxsus imkoniyatlari oʻzgarganda tovush chiqarish"
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:11
 msgid ""
-"Whether to beep when a keyboard accessibility feature is enabled or disabled."
+"Whether to beep when a keyboard accessibility feature is enabled or "
+"disabled."
 msgstr ""
-"Klaviatura maxsus imkoniyatlari yoqilganda yoki o'chirilganda tovush "
+"Klaviatura maxsus imkoniyatlari yoqilganda yoki oʻchirilganda tovush "
 "chiqarish."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:15
 msgid "Disable keyboard accessibility after a timeout"
-msgstr "Vaqt o'tgach klaviatura maxsus imkoniyatlarini o'chirish"
+msgstr "Vaqt oʻtgach klaviatura maxsus imkoniyatlarini oʻchirish"
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:16
 msgid ""
-"Whether to disable keyboard accessibility after a timeout, useful for shared "
-"machines."
+"Whether to disable keyboard accessibility after a timeout, useful for shared"
+" machines."
 msgstr ""
-"Vaqt o‘tgach klaviatura maxsus imkoniyatlarini o‘chirishni tanlash, "
+"Vaqt oʻtgach klaviatura maxsus imkoniyatlarini oʻchirishni tanlash, "
 "ulashilgan kompyuterlarda uchun foydali."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:20
 msgid "Duration of the disabling timeout"
-msgstr "O'chirish vaqtining davomiyligi"
+msgstr "Oʻchirish vaqtining davomiyligi"
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:21
 msgid "Duration of the timeout before disabling the keyboard accessibility."
 msgstr ""
-"Klaviatura maxsus imkoniyatlarini o‘chirishdan oldingi kutish vaqti "
+"Klaviatura maxsus imkoniyatlarini oʻchirishdan oldingi kutish vaqti "
 "davomiyligi."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:25
@@ -130,7 +130,7 @@ msgstr "Tugma cheklovini yoqish"
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:26
 msgid "Whether the “Bounce Keys” keyboard accessibility feature is turned on."
 msgstr ""
-"\"Tugma cheklovi\" klaviatura maxsus imkoniyati yoqilgan yoki yo‘qligini "
+"\"Tugma cheklovi\" klaviatura maxsus imkoniyati yoqilgan yoki yoʻqligini "
 "tekshirish."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:30
@@ -186,7 +186,7 @@ msgstr "Dastlabki kutish vaqti millisekundlarda"
 msgid ""
 "How many milliseconds to wait before mouse movement keys start to operate."
 msgstr ""
-"Sichqoncha harakat tugmalari ishga tushishi uchun boshlang‘ich kechikish "
+"Sichqoncha harakat tugmalari ishga tushishi uchun boshlangʻich kechikish "
 "millisekundlarda."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:60
@@ -230,14 +230,14 @@ msgstr "Tugmalarni ketma-ket bosib ishlatish imkoniyati yoqilganmi."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:90
 msgid "Disable when two keys are pressed at the same time"
-msgstr "Ikki tugma birga bosilganda o'chirish"
+msgstr "Ikki tugma birga bosilganda oʻchirish"
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:91
 msgid ""
 "Whether to disable sticky keys if two keys are pressed at the same time."
 msgstr ""
 "Ikki tugma bir vaqtda bosilganda Tugmalarni ketma-ket bosib ishlatishni "
-"o‘chirish."
+"oʻchirish."
 
 #: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:95
 msgid "Beep when a modifier is pressed."
@@ -264,23 +264,23 @@ msgid ""
 "Determines the position of the magnified mouse image within the magnified "
 "view and how it reacts to system mouse movement. The values are • none: no "
 "mouse tracking; • centered: the mouse image is displayed at the center of "
-"the zoom region (which also represents the point under the system mouse) and "
-"the magnified contents are scrolled as the system mouse moves; • "
+"the zoom region (which also represents the point under the system mouse) and"
+" the magnified contents are scrolled as the system mouse moves; • "
 "proportional: the position of the magnified mouse in the zoom region is "
 "proportionally the same as the position of the system mouse on screen; • "
-"push: when the magnified mouse intersects a boundary of the zoom region, the "
-"contents are scrolled into view."
+"push: when the magnified mouse intersects a boundary of the zoom region, the"
+" contents are scrolled into view."
 msgstr ""
-"Kattalashtirilgan sichqoncha tasvirining kattalashtirilgan ko'rinishdagi "
-"o'rnini va tizim sichqoncha harakatiga qanday javob beradi. Qiymatlar "
-"quyidagilar: • yo'q: sichqoncha kuzatilmaydi; • markazlashtirilgan: "
-"sichqoncha tasviri kattalashtirilgan hududning markazida ko'rsatiladi (bu "
+"Kattalashtirilgan sichqoncha tasvirining kattalashtirilgan koʻrinishdagi "
+"oʻrnini va tizim sichqoncha harakatiga qanday javob beradi. Qiymatlar "
+"quyidagilar: • yoʻq: sichqoncha kuzatilmaydi; • markazlashtirilgan: "
+"sichqoncha tasviri kattalashtirilgan hududning markazida koʻrsatiladi (bu "
 "tizim sichqonchasi ostidagi nuqtani ham ifodalaydi) va tizim sichqonchasi "
 "harakatlanganda kattalashtirilgan kontent scroll qilinadi; • mutanosib: "
 "kattalashtirilgan sichqonchaning masshtab hududidagi joylashuvi tizim "
 "sichqonchasining ekrandagi holati bilan mutanosib ravishda bir xil; • "
-"surish: kattalashtirilgan sichqoncha kattalashtirilgan hududning chegarasiga "
-"yetganda, kontent ko'rinadigan qilib scroll qilinadi."
+"surish: kattalashtirilgan sichqoncha kattalashtirilgan hududning chegarasiga"
+" yetganda, kontent koʻrinadigan qilib scroll qilinadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:26
 msgid "Focus Tracking Mode"
@@ -297,14 +297,14 @@ msgid ""
 "focus on screen • push: when the magnified focus intersects a boundary of "
 "the zoom region, the contents are scrolled into view"
 msgstr ""
-"Fokuslangan vidjetning kattalashtirilgan ko‘rinishdagi joylashuvini "
-"aniqlaydi. Qiymatlar: • yo‘q: fokus kuzatilmaydi • markazda: fokuslangan "
-"tasvir kattalashtirilgan hududning markazida ko‘rsatiladi (bu tizim "
+"Fokuslangan vidjetning kattalashtirilgan koʻrinishdagi joylashuvini "
+"aniqlaydi. Qiymatlar: • yoʻq: fokus kuzatilmaydi • markazda: fokuslangan "
+"tasvir kattalashtirilgan hududning markazida koʻrsatiladi (bu tizim "
 "fokusining ostidagi nuqtani ham bildiradi) va kengaytirilgan kontent tizim "
 "fokusi harakatlanganda siljitiladi • proportsional: kengaytirilgan fokusing "
-"zoom mintaqasidagi joylashuvi ekran bo‘yicha tizim fokusi joylashuvi bilan "
-"proportsional bo‘ladi • surish: agar kengaytirilgan fokus kattalashtirilgan "
-"hududning chegarasiga yetsa, kontent ko‘rinadigan qilib siljitiladi"
+"zoom mintaqasidagi joylashuvi ekran boʻyicha tizim fokusi joylashuvi bilan "
+"proportsional boʻladi • surish: agar kengaytirilgan fokus kattalashtirilgan "
+"hududning chegarasiga yetsa, kontent koʻrinadigan qilib siljitiladi"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:46
 msgid "Caret Tracking Mode"
@@ -313,22 +313,22 @@ msgstr "Kursorni kuzatish rejimi"
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:47
 msgid ""
 "Determines the position of the caret within magnified view. The values are: "
-"• none: no caret tracking • centered: the image of the caret is displayed at "
-"the center of the zoom region (which also represents the point under the "
+"• none: no caret tracking • centered: the image of the caret is displayed at"
+" the center of the zoom region (which also represents the point under the "
 "system caret) and the magnified contents are scrolled as the system caret "
-"moves • proportional: the position of the magnified caret in the zoom region "
-"is proportionally the same as the position of the system caret on screen • "
-"push: when the magnified caret intersects a boundary of the zoom region, the "
-"contents are scrolled into view"
+"moves • proportional: the position of the magnified caret in the zoom region"
+" is proportionally the same as the position of the system caret on screen • "
+"push: when the magnified caret intersects a boundary of the zoom region, the"
+" contents are scrolled into view"
 msgstr ""
-"Kattalashtirilgan ko‘rinish ichida matn kursorining joylashuvini aniqlaydi. "
-"Qiymatlar: • yo‘q: kursor kuzatilmaydi • markazda: kursor tasviri "
-"kattalashtirilgan hududning markazida ko‘rsatiladi (bu tizim kursorining "
+"Kattalashtirilgan koʻrinish ichida matn kursorining joylashuvini aniqlaydi. "
+"Qiymatlar: • yoʻq: kursor kuzatilmaydi • markazda: kursor tasviri "
+"kattalashtirilgan hududning markazida koʻrsatiladi (bu tizim kursorining "
 "ostidagi nuqtani ham bildiradi) va kattalashtirilgan kontent tizim kursori "
 "harakatlanganda siljitiladi • proportsional: kattalashtirilgan kursorning "
 "kattalashtirilgan hududdagu joylashuvi ekrandagi tizim kursori joylashuvi "
-"bilan proportsional bo‘ladi • surish: agar kattalashtirilgan kursor "
-"kattalashtirilgan hududning chegarasiga yetsa, kontent ko‘rinadigan qilib "
+"bilan proportsional boʻladi • surish: agar kattalashtirilgan kursor "
+"kattalashtirilgan hududning chegarasiga yetsa, kontent koʻrinadigan qilib "
 "siljitiladi"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:64
@@ -337,15 +337,15 @@ msgstr "Ekrandagi joylashuv"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:65
 msgid ""
-"The magnified view either fills the entire screen, or occupies the top-half, "
-"bottom-half, left-half, or right-half of the screen."
+"The magnified view either fills the entire screen, or occupies the top-half,"
+" bottom-half, left-half, or right-half of the screen."
 msgstr ""
-"Kengaytirilgan ko‘rish oynasi butun ekranni to‘ldirishi yoki ekraning yuqori "
-"yarmi, pastki yarmi, chap yarmi yoki o‘ng yarmida joylashishi mumkin."
+"Kengaytirilgan koʻrish oynasi butun ekranni toʻldirishi yoki ekraning yuqori"
+" yarmi, pastki yarmi, chap yarmi yoki oʻng yarmida joylashishi mumkin."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:73
 msgid "Magnification factor"
-msgstr "Kengaytirish ko‘rsatkichi"
+msgstr "Kengaytirish koʻrsatkichi"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:74
 msgid ""
@@ -353,7 +353,7 @@ msgid ""
 "value of 2.0 doubles the size."
 msgstr ""
 "Kattalashtirish kuchi. 1.0 qiymati kattalashtirilmaganini bildiradi. 2.0 "
-"qiymati o‘lchamni ikki baravarga kattalashtiradi."
+"qiymati oʻlchamni ikki baravarga kattalashtiradi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:81
 msgid "Enable lens mode"
@@ -364,12 +364,13 @@ msgid ""
 "Whether the magnified view should be centered over the location of the "
 "system mouse and move with it."
 msgstr ""
-"Kattalashtirilgan ko‘rish tizim sichqonchasining joylashuvi ustida "
+"Kattalashtirilgan koʻrish tizim sichqonchasining joylashuvi ustida "
 "markazlashtirilishi va u bilan harakatlanishi kerakligini aniqlaydi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:89
 msgid "Scroll magnified contents beyond the edges of the desktop"
-msgstr "Kattalashtirilgan kontentni ish stoli chetlaridan tashqariga siljitish"
+msgstr ""
+"Kattalashtirilgan kontentni ish stoli chetlaridan tashqariga siljitish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:92
 msgid ""
@@ -377,14 +378,14 @@ msgid ""
 "of the screen, the magnified contents continue to scroll such that the "
 "screen edge moves into the magnified view."
 msgstr ""
-"Markazlashtirilgan sichqoncha kuzatuvi uchun, tizim ko‘rsatkichi ekran "
+"Markazlashtirilgan sichqoncha kuzatuvi uchun, tizim koʻrsatkichi ekran "
 "chetiga yetganda yoki yaqinlashganda, kattalashtirilgan kontent davom etib "
-"scroll qilinadi, shunday qilib, ekran chetini kattalashtirilgan ko‘rish "
+"scroll qilinadi, shunday qilib, ekran chetini kattalashtirilgan koʻrish "
 "oynasiga kiritadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:102
 msgid "Show or hide crosshairs"
-msgstr "Kesishmalarni ko'rsatish yoki yashirish"
+msgstr "Kesishmalarni koʻrsatish yoki yashirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:103
 msgid ""
@@ -392,7 +393,7 @@ msgid ""
 "sprite."
 msgstr ""
 "Kattalashtirilgan sichqoncha tasvirida markazlashtirilgan kesishmalarni "
-"ko‘rsatish/yashirishni yoqadi/o‘chiradi."
+"koʻrsatish/yashirishni yoqadi/oʻchiradi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:110
 msgid "Thickness of the crosshairs in pixels"
@@ -425,8 +426,8 @@ msgid ""
 "Determines the transparency of the crosshairs, from fully opaque to fully "
 "transparent."
 msgstr ""
-"Kesishmalarning shaffofligini belgilaydi, to‘liq shaffof bo'lmagan holatdan "
-"to‘liq shaffoflikgacha."
+"Kesishmalarning shaffofligini belgilaydi, toʻliq shaffof boʻlmagan holatdan "
+"toʻliq shaffoflikgacha."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:135
 msgid "Length of the crosshairs in pixels"
@@ -447,11 +448,11 @@ msgstr "Kesishmalarni markazda cheklash"
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:144
 msgid ""
 "Determines whether the crosshairs intersect the magnified mouse sprite, or "
-"are clipped such that the ends of the horizontal and vertical lines surround "
-"the mouse image."
+"are clipped such that the ends of the horizontal and vertical lines surround"
+" the mouse image."
 msgstr ""
-"Kesishmalar kattalashtirilgan sichqoncha tasviriga tegishli bo‘lishi yoki "
-"chiziqlarning oxirlarini sichqoncha tasvirini o‘rab turadigan tarzda "
+"Kesishmalar kattalashtirilgan sichqoncha tasviriga tegishli boʻlishi yoki "
+"chiziqlarning oxirlarini sichqoncha tasvirini oʻrab turadigan tarzda "
 "cheklanishi kerakligini belgilaydi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:152
@@ -463,24 +464,24 @@ msgid ""
 "Determines whether the lightness values are inverted: darker colors become "
 "lighter and vice versa, and white and black are interchanged."
 msgstr ""
-"Yoritilish qiymatlari teskari bo‘lishini aniqlaydi: qorong‘i ranglar "
-"yorqinroq bo‘ladi va aksincha, oq va qora ranglar o‘rnini almashtiradi."
+"Yoritilish qiymatlari teskari boʻlishini aniqlaydi: qorongʻi ranglar "
+"yorqinroq boʻladi va aksincha, oq va qora ranglar oʻrnini almashtiradi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:161
 msgid "Color Saturation"
-msgstr "Ranglar to'yinganligi"
+msgstr "Ranglar toʻyinganligi"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:162
 msgid ""
 "Represents a change to the color saturation, from 0.0 (grayscale) to 1.0 "
 "(full color)."
 msgstr ""
-"Rangning to‘yinganligini o‘zgartirishni bildiradi, 0.0 (grayscale) dan 1.0 "
-"(to‘liq rang) gacha."
+"Rangning toʻyinganligini oʻzgartirishni bildiradi, 0.0 (grayscale) dan 1.0 "
+"(toʻliq rang) gacha."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:170
 msgid "Change brightness of red"
-msgstr "Qizil rang yorqinligini o'zgartirish"
+msgstr "Qizil rang yorqinligini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:171
 msgid ""
@@ -488,13 +489,13 @@ msgid ""
 "indicates no change, values less than zero indicate a decrease, and values "
 "greater than zero indicate an increase."
 msgstr ""
-"Qizil komponentning standart yorqinligini o‘zgartirishni bildiradi. Nol "
-"qiymati o‘zgarmasligini, noldan kichik qiymatlar kamayishini, nolga katta "
+"Qizil komponentning standart yorqinligini oʻzgartirishni bildiradi. Nol "
+"qiymati oʻzgarmasligini, noldan kichik qiymatlar kamayishini, nolga katta "
 "qiymatlar esa oshishini anglatadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:180
 msgid "Change brightness of green"
-msgstr "Yashil rang yorqinligini o'zgartirish"
+msgstr "Yashil rang yorqinligini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:181
 msgid ""
@@ -502,13 +503,13 @@ msgid ""
 "indicates no change, values less than zero indicate a decrease, and values "
 "greater than zero indicate an increase."
 msgstr ""
-"Yashil komponentning standart yorqinligini o‘zgartirishni bildiradi. Nol "
-"qiymati o‘zgarmasligini, noldan kichik qiymatlar kamayishini, nolga katta "
+"Yashil komponentning standart yorqinligini oʻzgartirishni bildiradi. Nol "
+"qiymati oʻzgarmasligini, noldan kichik qiymatlar kamayishini, nolga katta "
 "qiymatlar esa oshishini anglatadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:190
 msgid "Change brightness of blue"
-msgstr "Ko'k rang yorqinligini o'zgartirish"
+msgstr "Koʻk rang yorqinligini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:191
 msgid ""
@@ -516,13 +517,13 @@ msgid ""
 "indicates no change, values less than zero indicate a decrease, and values "
 "greater than zero indicate an increase."
 msgstr ""
-"Ko'k komponentning standart yorqinligini o‘zgartirishni bildiradi. Nol "
-"qiymati o‘zgarmasligini, noldan kichik qiymatlar kamayishini, nolga katta "
+"Koʻk komponentning standart yorqinligini oʻzgartirishni bildiradi. Nol "
+"qiymati oʻzgarmasligini, noldan kichik qiymatlar kamayishini, nolga katta "
 "qiymatlar esa oshishini anglatadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:200
 msgid "Change contrast of red"
-msgstr "Qizil rang kontrastini o‘zgartirish"
+msgstr "Qizil rang kontrastini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:201
 msgid ""
@@ -530,13 +531,13 @@ msgid ""
 "indicates no change in contrast, values less than zero indicate a decrease, "
 "and values greater than zero indicate an increase."
 msgstr ""
-"Qizil komponentning standart kontrastini o‘zgartirishni bildiradi. Nol "
-"qiymati kontrastning o‘zgarmasligini, noldan kichik qiymatlar kamayishini, "
+"Qizil komponentning standart kontrastini oʻzgartirishni bildiradi. Nol "
+"qiymati kontrastning oʻzgarmasligini, noldan kichik qiymatlar kamayishini, "
 "nolga katta qiymatlar esa oshishini anglatadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:210
 msgid "Change contrast of green"
-msgstr "Yashil rang kontrastini o‘zgartirish"
+msgstr "Yashil rang kontrastini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:211
 msgid ""
@@ -544,13 +545,13 @@ msgid ""
 "indicates no change in contrast, values less than zero indicate a decrease, "
 "and values greater than zero indicate an increase."
 msgstr ""
-"Yashil komponentning standart kontrastini o‘zgartirishni bildiradi. Nol "
-"qiymati kontrastning o‘zgarmasligini, noldan kichik qiymatlar kamayishini, "
+"Yashil komponentning standart kontrastini oʻzgartirishni bildiradi. Nol "
+"qiymati kontrastning oʻzgarmasligini, noldan kichik qiymatlar kamayishini, "
 "nolga katta qiymatlar esa oshishini anglatadi."
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:220
 msgid "Change contrast of blue"
-msgstr "Ko'k rang kontrastini o‘zgartirish"
+msgstr "Koʻk rang kontrastini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.a11y.magnifier.gschema.xml.in:221
 msgid ""
@@ -558,8 +559,8 @@ msgid ""
 "indicates no change in contrast, values less than zero indicate a decrease, "
 "and values greater than zero indicate an increase."
 msgstr ""
-"Ko'k komponentning standart kontrastini o‘zgartirishni bildiradi. Nol "
-"qiymati kontrastning o‘zgarmasligini, noldan kichik qiymatlar kamayishini, "
+"Koʻk komponentning standart kontrastini oʻzgartirishni bildiradi. Nol "
+"qiymati kontrastning oʻzgarmasligini, noldan kichik qiymatlar kamayishini, "
 "nolga katta qiymatlar esa oshishini anglatadi."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:6
@@ -576,7 +577,7 @@ msgstr "Harakat chegarasi"
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:12
 msgid "Distance in pixels before movement will be recognized."
-msgstr "Harakat tan olinishi uchun zarur bo‘lgan masofa piksellarda."
+msgstr "Harakat tan olinishi uchun zarur boʻlgan masofa piksellarda."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:16
 msgid "Gesture single click"
@@ -585,7 +586,7 @@ msgstr "Yagona bosish harakati"
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:17
 msgid "Direction to perform a single click (“left”, “right”, “up”, “down”)."
 msgstr ""
-"Bitta bosishni amalga oshirish yo‘nalishi (“chapga”, “o‘ngga”, “yuqoriga”, "
+"Bitta bosishni amalga oshirish yoʻnalishi (“chapga”, “oʻngga”, “yuqoriga”, "
 "“pastga”)."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:21
@@ -595,7 +596,7 @@ msgstr "Ikki marta bosish harakati"
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:22
 msgid "Direction to perform a double click (“left”, “right”, “up”, “down”)."
 msgstr ""
-"Ikki martalik bosishni amalga oshirish yo‘nalishi (“chapga”, “o‘ngga”, "
+"Ikki martalik bosishni amalga oshirish yoʻnalishi (“chapga”, “oʻngga”, "
 "“yuqoriga”, “pastga”)."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:26
@@ -605,7 +606,7 @@ msgstr "Bosib siljitish harakati"
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:27
 msgid "Direction to perform dragging (“left”, “right”, “up”, “down”)."
 msgstr ""
-"Siljitish harakatini amalga oshirish yo‘nalishi (“chapga”, “o‘ngga”, "
+"Siljitish harakatini amalga oshirish yoʻnalishi (“chapga”, “oʻngga”, "
 "“yuqoriga”, “pastga”)."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:31
@@ -613,9 +614,10 @@ msgid "Gesture secondary click"
 msgstr "Ikkinchi darajali bosish harakati"
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:32
-msgid "Direction to perform a secondary click (“left”, “right”, “up”, “down”)."
+msgid ""
+"Direction to perform a secondary click (“left”, “right”, “up”, “down”)."
 msgstr ""
-"Ikkinchi darajali bosishni amalga oshirish yo‘nalishi (“chapga”, “o‘ngga”, "
+"Ikkinchi darajali bosishni amalga oshirish yoʻnalishi (“chapga”, “oʻngga”, "
 "“yuqoriga”, “pastga”)."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:36
@@ -626,16 +628,16 @@ msgstr "Bosish rejimi (uzoq bosish)"
 msgid ""
 "The active dwell click mode. Possible values are “window” and “gesture”."
 msgstr ""
-"Faol bosish rejimi (uzoq bosish). Mumkin bo‘lgan qiymatlar: “oyna” va "
+"Faol bosish rejimi (uzoq bosish). Mumkin boʻlgan qiymatlar: “oyna” va "
 "“harakat”."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:41
 msgid "Show click type window"
-msgstr "Klik turi oynasini ko‘rsatish"
+msgstr "Klik turi oynasini koʻrsatish"
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:42
 msgid "Show click type window."
-msgstr "Klik turi oynasini ko‘rsatish."
+msgstr "Klik turi oynasini koʻrsatish."
 
 #: schemas/org.gnome.desktop.a11y.mouse.gschema.xml.in:46
 msgid "Enable dwell clicks"
@@ -661,7 +663,7 @@ msgstr "Ikkinchi darajali bosish vaqti"
 msgid "Time in seconds before a simulated secondary click is triggered."
 msgstr ""
 "Simulyatsiya qilingan ikkinchi darajali bosish amalga oshirilishidan oldin "
-"kutish uchun kerak bo‘lgan vaqt (soniyalarda)."
+"kutish uchun kerak boʻlgan vaqt (soniyalarda)."
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:6
 msgid "Folder children"
@@ -669,10 +671,10 @@ msgstr "Ichki jildlar"
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:7
 msgid ""
-"List of relative settings paths at which app-folders are stored. Each folder "
-"uses the org.gnome.desktop.app-folders.folder schema."
+"List of relative settings paths at which app-folders are stored. Each folder"
+" uses the org.gnome.desktop.app-folders.folder schema."
 msgstr ""
-"Ilovalar jildlari saqlanadigan aloqador sozlamalar joylashuvi ro'yxati. Har "
+"Ilovalar jildlari saqlanadigan aloqador sozlamalar joylashuvi roʻyxati. Har "
 "bir jild org.gnome.desktop.app-folders.folder sxemasidan foydalanadi."
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:15
@@ -693,7 +695,7 @@ msgid ""
 "directories."
 msgstr ""
 "\"Name\" kaliti /usr/share/desktop-directories ichida topilishi kerak "
-"bo'lgan fayl nomi yoki yo'qligi."
+"boʻlgan fayl nomi yoki yoʻqligi."
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:26
 msgid "Applications"
@@ -702,19 +704,19 @@ msgstr "Ilovalar"
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:27
 msgid ""
 "The list of IDs of applications that are explicitly included in this folder."
-msgstr "Bu papkaga aniq kiritilgan ilovalarning ID'lari ro'yxati."
+msgstr "Bu papkaga aniq kiritilgan ilovalarning ID'lari roʻyxati."
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:32
 msgid "Categories"
-msgstr "Bo'limlar"
+msgstr "Boʻlimlar"
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:33
 msgid ""
 "A list of categories for which apps will be placed into this folder by "
 "default, in addition to the apps that are listed in the apps key."
 msgstr ""
-"Ilovalar bo'limida sanab o'tilgan dasturlardan tashqari, bu jildga avtomatik "
-"ravishda joylashtiriladigan bo'limlar ro'yxati."
+"Ilovalar boʻlimida sanab oʻtilgan dasturlardan tashqari, bu jildga avtomatik"
+" ravishda joylashtiriladigan boʻlimlar roʻyxati."
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:39
 msgid "Excluded applications"
@@ -725,8 +727,8 @@ msgid ""
 "A list of IDs of applications that are excluded from this folder. This can "
 "be used to remove applications that would otherwise be included by category."
 msgstr ""
-"Agar bo'limi bo'yicha avtomatik ravishda qo'shilishi kerak bo'lgan "
-"ilovalarni olib tashlash zarur bo'lsa, unda bu ilovalar ID'lari ro'yxati "
+"Agar boʻlimi boʻyicha avtomatik ravishda qoʻshilishi kerak boʻlgan "
+"ilovalarni olib tashlash zarur boʻlsa, unda bu ilovalar ID'lari roʻyxati "
 "ishlatiladi."
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:6
@@ -741,10 +743,10 @@ msgid ""
 "values are “none”, “wallpaper”, “centered”, “scaled”, “stretched”, “zoom”, "
 "“spanned”."
 msgstr ""
-"Bu \"wallpaper_filename\" orqali o'rnatilgan rasmning qanday ko'rinishda aks "
-"etishini belgilaydi. Mumkin bo'lgan qiymatlar: “yo'q”, “fon rasmi sifatida”, "
-"“markazga joylashgan”, “masshtablangan”, “cho'zilgan”, “yaqinlashtirilgan”, "
-"“butun ekranga yoyilgan”."
+"Bu \"wallpaper_filename\" orqali oʻrnatilgan rasmning qanday koʻrinishda aks"
+" etishini belgilaydi. Mumkin boʻlgan qiymatlar: “yoʻq”, “fon rasmi "
+"sifatida”, “markazga joylashgan”, “masshtablangan”, “choʻzilgan”, "
+"“yaqinlashtirilgan”, “butun ekranga yoyilgan”."
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:15
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:106
@@ -759,11 +761,11 @@ msgid ""
 "local (file://) URIs."
 msgstr ""
 "Orqa fon rasmi sifatida ishlatiladigan URI manzili. Diqqat qiling: dasturiy "
-"ta'minot faqat mahalliy (file://) URI manzillarini qo'llaydi."
+"ta'minot faqat mahalliy (file://) URI manzillarini qoʻllaydi."
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:23
 msgid "Picture URI (dark)"
-msgstr "Qorong'i rejim uchun rasmning URI manzili"
+msgstr "Qorongʻi rejim uchun rasmning URI manzili"
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:32
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:115
@@ -773,7 +775,7 @@ msgstr "Rasmning shaffofligi"
 #: schemas/org.gnome.desktop.background.gschema.xml.in:33
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:116
 msgid "Opacity with which to draw the background picture."
-msgstr "Orqa fon rasmi qanday shaffoflikda ko'rsatilishini belgilaydi."
+msgstr "Orqa fon rasmi qanday shaffoflikda koʻrsatilishini belgilaydi."
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:39
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:122
@@ -793,9 +795,10 @@ msgstr "Ikkilamchi Rang"
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:47
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:130
-msgid "Right or Bottom color when drawing gradients, not used for solid color."
+msgid ""
+"Right or Bottom color when drawing gradients, not used for solid color."
 msgstr ""
-"Gradient chizishda ishlatiladigan o'ng yoki pastki rang, yoxud yagona rang."
+"Gradient chizishda ishlatiladigan oʻng yoki pastki rang, yoxud yagona rang."
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:53
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:136
@@ -808,7 +811,7 @@ msgid ""
 "How to shade the background color. Possible values are “horizontal”, "
 "“vertical”, and “solid”."
 msgstr ""
-"Fon rangini qanday soyalash kerak. Mumkin bo'lgan qiymatlar: “gorizontal”, "
+"Fon rangini qanday soyalash kerak. Mumkin boʻlgan qiymatlar: “gorizontal”, "
 "“vertikal” va “tekis”."
 
 #: schemas/org.gnome.desktop.background.gschema.xml.in:61
@@ -823,7 +826,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:10
 msgid "List of breaks that are currently enabled"
-msgstr "Hozirda yoqilgan tanaffuslar ro'yxati"
+msgstr "Hozirda yoqilgan tanaffuslar roʻyxati"
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:22
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:87
@@ -833,7 +836,7 @@ msgstr "Tanaffuslar oraliq vaqti"
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:23
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:88
 msgid "The time between rest breaks, in seconds."
-msgstr "Tanaffuslar oralig'idagi vaqt, sekundlarda."
+msgstr "Tanaffuslar oraligʻidagi vaqt, sekundlarda."
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:29
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:94
@@ -848,7 +851,7 @@ msgstr "Har bir tanaffusning davomiyligi, sekundlarda."
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:36
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:101
 msgid "Amount to delay break if requested"
-msgstr "Agar so'ralsa, tanaffusni qanchaga kechiktirish vaqti"
+msgstr "Agar soʻralsa, tanaffusni qanchaga kechiktirish vaqti"
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:37
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:102
@@ -856,13 +859,13 @@ msgid ""
 "The amount to delay taking the break by, if the user requests a delay, in "
 "seconds."
 msgstr ""
-"Agar foydalanuvchi tanaffusni kechiktirishni so'rasa, uni necha sekundga "
-"surish mumkin bo'lgan vaqt miqdori."
+"Agar foydalanuvchi tanaffusni kechiktirishni soʻrasa, uni necha sekundga "
+"surish mumkin boʻlgan vaqt miqdori."
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:43
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:108
 msgid "Fade screen during breaks"
-msgstr "Tanaffuslar vaqtida ekran yorug'ligini pasaytirish"
+msgstr "Tanaffuslar vaqtida ekran yorugʻligini pasaytirish"
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:44
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:109
@@ -917,7 +920,7 @@ msgstr "Tanaffus vaqti yaqinlashayotganida ogohlantirish"
 msgid "True to emit a notification a few minutes before a break is due."
 msgstr ""
 "Tanaffusdan bir necha daqiqa oldin ogohlantirish uchun \"true\" (rost) "
-"qiymatini qo'llang."
+"qiymatini qoʻllang."
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:73
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:138
@@ -928,24 +931,24 @@ msgstr "Tanaffus kechiksa ogohlantirish"
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:139
 msgid "True to emit a notification when a break is overdue."
 msgstr ""
-"Dam olish vaqti o'tib ketganida bildirishnoma ko'rsatish uchun \"true\" "
-"(rost) qiymatini qo'llang."
+"Dam olish vaqti oʻtib ketganida bildirishnoma koʻrsatish uchun \"true\" "
+"(rost) qiymatini qoʻllang."
 
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:80
 #: schemas/org.gnome.desktop.break-reminders.gschema.xml.in:145
 msgid "True to show a prominent countdown shortly before a break is due."
 msgstr ""
-"Tanaffus yaqinlashganda taymerni ko'rsatish uchun \"true\" (rost) qiymatini "
-"qo'llang."
+"Tanaffus yaqinlashganda taymerni koʻrsatish uchun \"true\" (rost) qiymatini "
+"qoʻllang."
 
 #: schemas/org.gnome.desktop.calendar.gschema.xml.in:6
 msgid "Show the week date in the calendar"
-msgstr "Taqvimda hafta sanasini ko'rsatish"
+msgstr "Taqvimda hafta sanasini koʻrsatish"
 
 #: schemas/org.gnome.desktop.calendar.gschema.xml.in:7
 msgid "If true, display the ISO week date in the calendar."
 msgstr ""
-"Agar \"true\" (rost) qo'llansa, taqvim ichida ISO hafta sanasi ko'rsatilsin."
+"Agar \"true\" (rost) qoʻllansa, taqvim ichida ISO hafta sanasi koʻrsatilsin."
 
 #: schemas/org.gnome.desktop.datetime.gschema.xml.in:6
 msgid "Automatically update timezone"
@@ -961,9 +964,9 @@ msgstr "Standart taqvim"
 
 #: schemas/org.gnome.desktop.default-applications.gschema.xml.in:15
 msgid ""
-"Default calendar application DEPRECATED: This key is deprecated and ignored. "
-"The preferred calendar application is the application handling the text/"
-"calendar mime type."
+"Default calendar application DEPRECATED: This key is deprecated and ignored."
+" The preferred calendar application is the application handling the "
+"text/calendar mime type."
 msgstr ""
 "Standart taqvim ilovasi ESKIRGAN: Ushbu kalit eskirgan va e'tiborga "
 "olinmaydi. Tavsiya etilgan taqvim ilovasi esa text/calendar mime turini "
@@ -977,13 +980,13 @@ msgstr "Taqvim terminalni talab qiladi"
 msgid ""
 "Whether the default calendar application needs a terminal to run. "
 "DEPRECATED: This key is deprecated and ignored. The preferred calendar "
-"application is the application handling the text/calendar mime type, whether "
-"it needs a terminal is taken from its desktop file."
+"application is the application handling the text/calendar mime type, whether"
+" it needs a terminal is taken from its desktop file."
 msgstr ""
 "Standart taqvim ilovasi ishga tushishi uchun terminalga ehtiyoj bormi. "
 "ESKIRGAN: Ushbu kalit eskirgan va e'tiborga olinmaydi. Tavsiya etilgan "
 "taqvim ilovasi text/calendar mime turini boshqaradigan ilova, terminalga "
-"ehtiyoj bor-yo‘qligi esa uning desktop faylidan olinadi."
+"ehtiyoj bor-yoʻqligi esa uning desktop faylidan olinadi."
 
 #: schemas/org.gnome.desktop.default-applications.gschema.xml.in:37
 msgid "Default tasks"
@@ -1022,9 +1025,9 @@ msgstr "Ishga tushirish argumentlari"
 
 #: schemas/org.gnome.desktop.default-applications.gschema.xml.in:64
 msgid ""
-"Argument used to execute programs in the terminal defined by the “exec” key. "
-"DEPRECATED: This key is deprecated and ignored. The default terminal and how "
-"to invoke it is handled in GIO."
+"Argument used to execute programs in the terminal defined by the “exec” key."
+" DEPRECATED: This key is deprecated and ignored. The default terminal and "
+"how to invoke it is handled in GIO."
 msgstr ""
 "“Exec” kaliti orqali belgilangan terminalda dasturlarni ishga tushirish "
 "uchun ishlatiladigan argument. ESKIRGAN: Bu kalit eskirgan va e'tiborga "
@@ -1044,12 +1047,12 @@ msgid ""
 msgstr ""
 "Joriy tanlangan kiritish manbasining nolga asoslangan indeksi. Qiymat "
 "avtomatik ravishda [0, sources_length) oraliqda qolish uchun cheklab "
-"qo‘yiladi, agar manbalar ro‘yxati bo‘sh bo‘lmasa. ESKIRGAN: Bu kalit "
+"qoʻyiladi, agar manbalar roʻyxati boʻsh boʻlmasa. ESKIRGAN: Bu kalit "
 "eskirgan va e’tiborga olinmaydi."
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:19
 msgid "List of input sources"
-msgstr "Kiritish qurilmalari ro'yxati"
+msgstr "Kiritish qurilmalari roʻyxati"
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:20
 msgid ""
@@ -1061,37 +1064,37 @@ msgid ""
 "server’s current XKB layout and variant won’t be touched and IBus won’t be "
 "used."
 msgstr ""
-"Mavjud kiritish manbalari identifikatorlarining ro'yxati. Har bir manba 2 ta "
-"satrdan iborat tuple (o'zgarmas ro'yxat) sifatida ko'rsatilgan. Birinchi "
-"satr tur bo'lib, \"xkb\" yoki \"ibus\" dan biri bo'lishi mumkin. \"xkb\" "
+"Mavjud kiritish manbalari identifikatorlarining roʻyxati. Har bir manba 2 ta"
+" satrdan iborat tuple (oʻzgarmas roʻyxat) sifatida koʻrsatilgan. Birinchi "
+"satr tur boʻlib, \"xkb\" yoki \"ibus\" dan biri boʻlishi mumkin. \"xkb\" "
 "manbalari uchun ikkinchi satr \"xkb_layout+xkb_variant\" yoki agar XKB "
-"varianti kerak bo'lmasa faqat \"xkb_layout\" bo'ladi. \"ibus\" manbalari "
-"uchun ikkinchi satr IBus dvigatelining nomi. Bo'sh ro'yxat X serverning "
+"varianti kerak boʻlmasa faqat \"xkb_layout\" boʻladi. \"ibus\" manbalari "
+"uchun ikkinchi satr IBus dvigatelining nomi. Boʻsh roʻyxat X serverning "
 "joriy XKB tartibi va variantiga tegmaslikni va IBus ishlatilmasligini "
 "bildiradi."
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:33
 msgid "List of most recently used input sources"
-msgstr "Eng so'nggi ishlatilgan kiritish manbalari ro'yxati"
+msgstr "Eng soʻnggi ishlatilgan kiritish manbalari roʻyxati"
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:34
 msgid ""
-"List of most recently used input sources. The value is in the same format as "
-"the available sources list."
+"List of most recently used input sources. The value is in the same format as"
+" the available sources list."
 msgstr ""
-"Eng so'nggi ishlatilgan kiritish manbalari ro'yxati. Qiymat mavjud manbalar "
-"ro'yxati bilan bir xil formatda."
+"Eng soʻnggi ishlatilgan kiritish manbalari roʻyxati. Qiymat mavjud manbalar "
+"roʻyxati bilan bir xil formatda."
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:41
 msgid "List of XKB options"
-msgstr "XKB parametrlari ro'yxati"
+msgstr "XKB parametrlari roʻyxati"
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:42
 msgid ""
 "List of XKB options. Each option is an XKB option string as defined by "
 "xkeyboard-config’s rules files."
 msgstr ""
-"XKB parametrlar ro‘yxati. Har bir parametr — bu xkeyboard-config qoidalar "
+"XKB parametrlar roʻyxati. Har bir parametr — bu xkeyboard-config qoidalar "
 "faylida belgilangan XKB parametr satridir."
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:49
@@ -1103,18 +1106,18 @@ msgid ""
 "The XKB model to use. The value is the same identifier as defined by "
 "xkeyboard-config’s geometry files."
 msgstr ""
-"Foydalaniladigan XKB modeli. Qiymat xkeyboard-config'ning geometriya "
-"fayllarida belgilangan identifikator bilan bir xil bo‘ladi."
+"Foydalaniladigan XKB modeli. Qiymat xkeyboard-configʻning geometriya "
+"fayllarida belgilangan identifikator bilan bir xil boʻladi."
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:57
 msgid "Show all installed input sources"
-msgstr "Barcha o'rnatilgan kiritish manbalarini ko'rsatish"
+msgstr "Barcha oʻrnatilgan kiritish manbalarini koʻrsatish"
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:58
 msgid ""
 "Makes all installed input sources available for choosing in System Settings."
 msgstr ""
-"O'rnatilgan barcha kiritish usullarini Tizim Sozlamalarida tanlash "
+"Oʻrnatilgan barcha kiritish usullarini Tizim Sozlamalarida tanlash "
 "imkoniyatini yaratadi."
 
 #: schemas/org.gnome.desktop.input-sources.gschema.xml.in:65
@@ -1126,8 +1129,8 @@ msgid ""
 "When enabled, input sources get attached to the currently focused window "
 "when activated."
 msgstr ""
-"Agar yoqilgan bo'lsa, kiritish usullari ishga tushirilganda hozirgi aktiv "
-"oynaga bog'lanadi."
+"Agar yoqilgan boʻlsa, kiritish usullari ishga tushirilganda hozirgi aktiv "
+"oynaga bogʻlanadi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:6
 msgid "Enable Toolkit Accessibility"
@@ -1146,32 +1149,32 @@ msgid ""
 "Whether animations should be displayed. Note: This is a global key, it "
 "changes the behaviour of the window manager, the panel etc."
 msgstr ""
-"Animatsiyalarni namoyish qo'llansinmi. Diqqat: Bu global sozlama, u oyna "
-"menejeri va panel kabi elementlarning ishlashini o'zgartiradi."
+"Animatsiyalarni namoyish qoʻllansinmi. Diqqat: Bu global sozlama, u oyna "
+"menejeri va panel kabi elementlarning ishlashini oʻzgartiradi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:21
 msgid "Menus Have Tearoff"
-msgstr "Menyularni alohida oynalarga aylantirish mumkin bo'lsin"
+msgstr "Menyularni alohida oynalarga aylantirish mumkin boʻlsin"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:22
 msgid "Whether menus should have a tearoff."
-msgstr "Menyularni alohida oynalarga aylantirish mumkin bo'lsinmi."
+msgstr "Menyularni alohida oynalarga aylantirish mumkin boʻlsinmi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:28
 msgid "Can Change Accels"
-msgstr "Accelsni o'zgartirish imkoni bor"
+msgstr "Accelsni oʻzgartirish imkoni bor"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:29
 msgid ""
-"Whether the user can dynamically type a new accelerator when positioned over "
-"an active menuitem."
+"Whether the user can dynamically type a new accelerator when positioned over"
+" an active menuitem."
 msgstr ""
-"Foydalanuvchi faol menyu punktining ustida bo'lganida yangi tezlashtirilgan "
+"Foydalanuvchi faol menyu punktining ustida boʻlganida yangi tezlashtirilgan "
 "tugmani dinamik ravishda yozishi mumkinmi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:36
 msgid "Toolbar Style"
-msgstr "Asboblar paneli (ToolBar) ko'rinishi"
+msgstr "Asboblar paneli (ToolBar) koʻrinishi"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:37
 msgid ""
@@ -1186,7 +1189,7 @@ msgstr "Menyular panelini ajratib olish imkoniyati"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:45
 msgid "Whether the user can detach menubars and move them around."
-msgstr "Foydalanuvchi menyu panellarini ajratib boshqa joyga o'tkaza oladimi."
+msgstr "Foydalanuvchi menyu panellarini ajratib boshqa joyga oʻtkaza oladimi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:51
 msgid "Toolbar Detachable"
@@ -1195,15 +1198,15 @@ msgstr "Asboblar panelini ajratib olish imkoniyati"
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:52
 msgid "Whether the user can detach toolbars and move them around."
 msgstr ""
-"Foydalanuvchi asboblar panellarini ajratib boshqa joyga o'tkaza oladimi."
+"Foydalanuvchi asboblar panellarini ajratib boshqa joyga oʻtkaza oladimi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:58
 msgid "Toolbar Icon Size"
-msgstr "Asboblar paneli belgilarining o'lchami"
+msgstr "Asboblar paneli belgilarining oʻlchami"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:59
 msgid "Size of icons in toolbars, either “small” or “large”."
-msgstr "Asboblar panellaridagi belgilar o'lchami, “small” yoki “large”."
+msgstr "Asboblar panellaridagi belgilar oʻlchami, “small” yoki “large”."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:65
 msgid "Cursor Blink"
@@ -1227,7 +1230,7 @@ msgstr "Kursor miltillash taym-auti"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:82
 msgid "Time after which the cursor stops blinking, in seconds."
-msgstr "Kursor miltillashdan to'xtaydigan vaqt, sekundlarda."
+msgstr "Kursor miltillashdan toʻxtaydigan vaqt, sekundlarda."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:88
 msgid "Icon Theme"
@@ -1235,7 +1238,8 @@ msgstr "Belgi Mavzusi"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:89
 msgid "Icon theme to use for the panel, nautilus etc."
-msgstr "Panel, Nautilus kabi dasturlar uchun qo'llaniladigan belgilar mavzusi."
+msgstr ""
+"Panel, Nautilus kabi dasturlar uchun qoʻllaniladigan belgilar mavzusi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:95
 msgid "Gtk+ Theme"
@@ -1252,7 +1256,7 @@ msgstr "Gtk+ Klaviatura Kombinatsiyalari Mavzusi"
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:103
 msgid "Basename of the default keybinding theme used by gtk+."
 msgstr ""
-"Bu gtk+ tomonidan qo'llaniladigan standart klaviatura kombinatsiyalari "
+"Bu gtk+ tomonidan qoʻllaniladigan standart klaviatura kombinatsiyalari "
 "mavzusining asosiy nomi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:109
@@ -1265,14 +1269,14 @@ msgstr "Standart shriftning nomi, gtk+ uni ishlatadi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:116
 msgid "Directories with avatar faces"
-msgstr "Avatar rasmlari bo'lgan jildlar"
+msgstr "Avatar rasmlari boʻlgan jildlar"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:117
 msgid ""
 "Directories to override the default avatar faces installed by gnome-control-"
 "center."
 msgstr ""
-"Jildlar gnome-control-center o'rnatgan standart avatar suratlari o'rniga "
+"Jildlar gnome-control-center oʻrnatgan standart avatar suratlari oʻrniga "
 "ishlatiladi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:124
@@ -1283,12 +1287,12 @@ msgstr "Matnni masshtablash koeffitsiyenti"
 msgid ""
 "Factor used to enlarge or reduce text display, without changing font size."
 msgstr ""
-"Shriftning kattaligini o'zgartirmasdan, matnning aks etishini "
+"Shriftning kattaligini oʻzgartirmasdan, matnning aks etishini "
 "kattalashtirish yoki kichraytirish uchun ishlatiladigan faktor."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:131
 msgid "Window scaling factor"
-msgstr "Oyna o'lchamini kattalashtirish omili"
+msgstr "Oyna oʻlchamini kattalashtirish omili"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:132
 msgid ""
@@ -1296,12 +1300,12 @@ msgid ""
 "means pick automatically based on monitor."
 msgstr ""
 "Oynalarni masshtablash uchun ishlatiladigan butun son koeffitsienti. Bu "
-"yuqori aniqlikdagi (hiDPI) ekranlar uchun ishlatiladi. 0 bo‘lsa, monitor "
+"yuqori aniqlikdagi (hiDPI) ekranlar uchun ishlatiladi. 0 boʻlsa, monitor "
 "asosida avtomatik tanlanadi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:139
 msgid "GTK IM Preedit Style"
-msgstr "GTK matn kiritish uslubini oldindan ko‘rsatish uslubi"
+msgstr "GTK matn kiritish uslubini oldindan koʻrsatish uslubi"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:140
 msgid "Name of the GTK+ input method Preedit Style used by gtk+."
@@ -1329,7 +1333,7 @@ msgstr "Hujjat shrifti"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:161
 msgid "Name of the default font used for reading documents."
-msgstr "Hujjatlarni o'qish uchun ishlatiladigan standart shrift nomi."
+msgstr "Hujjatlarni oʻqish uchun ishlatiladigan standart shrift nomi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:167
 msgid "Monospace font"
@@ -1339,7 +1343,7 @@ msgstr "Monospace shrift"
 msgid ""
 "Name of a monospaced (fixed-width) font for use in locations like terminals."
 msgstr ""
-"Terminal kabi joylarda ishlatish uchun mo'ljallangan monospace shrifti nomi."
+"Terminal kabi joylarda ishlatish uchun moʻljallangan monospace shrifti nomi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:175
 msgid "Menubar accelerator"
@@ -1357,16 +1361,16 @@ msgstr "Kursor mavzusi"
 msgid ""
 "Cursor theme name. Used only by Xservers that support the Xcursor extension."
 msgstr ""
-"Kursor mavzusining nomi. Faqat Xcursor kengaytmasini qo'llab-quvvatlaydigan "
+"Kursor mavzusining nomi. Faqat Xcursor kengaytmasini qoʻllab-quvvatlaydigan "
 "Xserverlar tomonidan ishlatiladi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:187
 msgid "Cursor size"
-msgstr "Kurson o'lchami"
+msgstr "Kurson oʻlchami"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:188
 msgid "Size of the cursor used as cursor theme."
-msgstr "Kursor mavzusi sifatida ishlatiladigan kursorning o'lchami."
+msgstr "Kursor mavzusi sifatida ishlatiladigan kursorning oʻlchami."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:192
 msgid "Timeout before click repeat"
@@ -1406,17 +1410,18 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:207
 msgid "List of symbolic names and color equivalents"
-msgstr "Ramziy nomlar va rang ekvivalentlari ro'yxati"
+msgstr "Ramziy nomlar va rang ekvivalentlari roʻyxati"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:208
 msgid ""
 "A “\\n” separated list of “name:color” as defined by the “gtk-color-scheme” "
 "setting"
 msgstr ""
-"gtk-color-scheme” sozlamasi bo'yicha aniqlangan “name:color” formatidagi "
-"“\\n” bilan ajratilgan ro'yxat"
+"gtk-color-scheme” sozlamasi boʻyicha aniqlangan “name:color” formatidagi "
+"“\\n” bilan ajratilgan roʻyxat"
 
-#. TRANSLATORS: select your locale's default clock format, this should be '12h' or '24h' (with the quotes!)
+#. TRANSLATORS: select your locale's default clock format, this should be
+#. '12h' or '24h' (with the quotes!)
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:212
 msgid "'24h'"
 msgstr "'24h' (24 soat)"
@@ -1424,34 +1429,34 @@ msgstr "'24h' (24 soat)"
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:213
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:214
 msgid "Whether the clock displays in 24h or 12h format"
-msgstr "Soatning 24 yoki 12 soatlik formatda ko'rsatilishini tanlash"
+msgstr "Soatning 24 yoki 12 soatlik formatda koʻrsatilishini tanlash"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:220
 msgid "Whether the clock shows seconds"
-msgstr "Soatda soniyalar ham ko'rsatilsinmi"
+msgstr "Soatda soniyalar ham koʻrsatilsinmi"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:221
 msgid "If true, display seconds in the clock."
-msgstr "Agar bu sozlama yoqilgan bo'lsa, soatda soniyalar ham ko'rsatiladi."
+msgstr "Agar bu sozlama yoqilgan boʻlsa, soatda soniyalar ham koʻrsatiladi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:227
 msgid "Show date in clock"
-msgstr "Soat bilan sanani ham ko'rsatish"
+msgstr "Soat bilan sanani ham koʻrsatish"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:228
 msgid "If true, display date in the clock, in addition to time."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, soatda vaqt bilan birga sana ham aks "
+"Agar bu sozlama yoqilgan boʻlsa, soatda vaqt bilan birga sana ham aks "
 "ettirilsin."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:234
 msgid "Show weekday in clock"
-msgstr "Soat bilan hafta kunlarini ham ko'rsatish"
+msgstr "Soat bilan hafta kunlarini ham koʻrsatish"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:235
 msgid "If true, display weekday in the clock, in addition to time."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, soatda vaqt bilan birga hafta kuni ham aks "
+"Agar bu sozlama yoqilgan boʻlsa, soatda vaqt bilan birga hafta kuni ham aks "
 "ettirilsin."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:241
@@ -1463,19 +1468,19 @@ msgid ""
 "If true, the activities overview can be accessed by moving the mouse to the "
 "top-left corner."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, sichqonchani ekraning yuqori chap qismiga "
+"Agar bu sozlama yoqilgan boʻlsa, sichqonchani ekraning yuqori chap qismiga "
 "surish orqali faolliklar menyusi ochiladi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:249
 msgid "Show battery percentage"
-msgstr "Batareya foizini ko'rsatish"
+msgstr "Batareya foizini koʻrsatish"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:250
 msgid ""
 "If true, display battery percentage in the status menu, in addition to the "
 "icon."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, holat panelida ikonka bilan birga batareya "
+"Agar bu sozlama yoqilgan boʻlsa, holat panelida ikonka bilan birga batareya "
 "zaryadining foizini ham aks ettirish."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:256
@@ -1487,8 +1492,8 @@ msgid ""
 "If true, gtk+ uses the primary paste selection, usually triggered by a "
 "middle mouse button click."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, gtk+ birlamchi joylashtirishni ishlatadi, "
-"uni ko'pincha sichqonchaning o'rtadagi tugmasini bosish faollashtiradi."
+"Agar bu sozlama yoqilgan boʻlsa, gtk+ birlamchi joylashtirishni ishlatadi, "
+"uni koʻpincha sichqonchaning oʻrtadagi tugmasini bosish faollashtiradi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:263
 msgid "Allow overlay scrolling"
@@ -1499,21 +1504,21 @@ msgid ""
 "Whether scrollbars should be overlayed as indicators. Depending on input "
 "devices in use, permanent scrollbars may still be displayed."
 msgstr ""
-"Scroll chiziqlari indikator sifatida ustma-ust (qoplangan) ko‘rsatilishi "
-"kerakmi-yo‘qmi. Foydalanilayotgan kiritish qurilmalariga qarab, doimiy "
-"scroll chiziqlari ham ko‘rinishi mumkin."
+"Scroll chiziqlari indikator sifatida ustma-ust (qoplangan) koʻrsatilishi "
+"kerakmi-yoʻqmi. Foydalanilayotgan kiritish qurilmalariga qarab, doimiy "
+"scroll chiziqlari ham koʻrinishi mumkin."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:272
 msgid "Highlights the current location of the pointer."
-msgstr "Kursorni hozirgi turgan o'rnini ajratib ko'rsatadi."
+msgstr "Kursorni hozirgi turgan oʻrnini ajratib koʻrsatadi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:273
 msgid ""
 "If true, pressing a key will highlight the current pointer location on "
 "screen."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, klaviaturadagi tugmani bosish sichqoncha "
-"kursorining hozirgi turgan o'rnini ekranda ajratib ko'rsatadi."
+"Agar bu sozlama yoqilgan boʻlsa, klaviaturadagi tugmani bosish sichqoncha "
+"kursorining hozirgi turgan oʻrnini ekranda ajratib koʻrsatadi."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:279
 msgid "Antialiasing"
@@ -1522,12 +1527,12 @@ msgstr "Antialiasing"
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:280
 msgid ""
 "The type of antialiasing to use when rendering fonts. Possible values are: "
-"“none” for no antialiasing, “grayscale” for standard grayscale antialiasing, "
-"and “rgba” for subpixel antialiasing (LCD screens only)."
+"“none” for no antialiasing, “grayscale” for standard grayscale antialiasing,"
+" and “rgba” for subpixel antialiasing (LCD screens only)."
 msgstr ""
-"Shriftlarni renderlashda ishlatiladigan antialiasing turi. Mumkin bo‘lgan "
-"qiymatlar: “none” antialiasing ishlatilmaydi, “grayscale” standart grayscale "
-"antialiasing, va “rgba” subpixel antialiasing (faqat LCD ekranlar uchun)."
+"Shriftlarni renderlashda ishlatiladigan antialiasing turi. Mumkin boʻlgan "
+"qiymatlar: “none” antialiasing ishlatilmaydi, “grayscale” standart grayscale"
+" antialiasing, va “rgba” subpixel antialiasing (faqat LCD ekranlar uchun)."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:286
 msgid "Hinting"
@@ -1535,26 +1540,26 @@ msgstr "Hinting"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:287
 msgid ""
-"The type of hinting to use when rendering fonts. Possible values are: “none” "
-"for no hinting and “slight” for fitting only to the Y-axis like Microsoft’s "
-"ClearType, DirectWrite and Adobe’s proprietary font rendering engine. "
+"The type of hinting to use when rendering fonts. Possible values are: “none”"
+" for no hinting and “slight” for fitting only to the Y-axis like Microsoft’s"
+" ClearType, DirectWrite and Adobe’s proprietary font rendering engine. "
 "Ignores native hinting within the font, generates hints algorithmically. "
 "Used on Ubuntu by default. Recommended. The meaning of “medium” and “full” "
-"depends on the font format (.ttf, .otf, .pfa/.pfb) and the installed version "
-"of FreeType. They usually try to fit glyphs to both the X and the Y axis "
+"depends on the font format (.ttf, .otf, .pfa/.pfb) and the installed version"
+" of FreeType. They usually try to fit glyphs to both the X and the Y axis "
 "(except for .otf: Y-only). This can lead to distortion and/or inconsistent "
 "rendering depending on the quality of the font, the font format and the "
 "state of FreeType’s font engines."
 msgstr ""
-"Shriftlarni renderlashda ishlatiladigan hinting turi. Mumkin bo‘lgan "
-"qiymatlar: “none” — hinting ishlatilmaydi va “slight” — faqat Y-o‘qi "
-"bo‘yicha moslashtirish, bu Microsoft’ning ClearType, DirectWrite va "
-"Adobe’ning o‘ziga xos shrift renderlash tizimi kabi ishlaydi. Bu shriftning "
-"o‘zidagi hintingni e'tiborsiz qoldiradi va hintlarni algoritmik tarzda "
+"Shriftlarni renderlashda ishlatiladigan hinting turi. Mumkin boʻlgan "
+"qiymatlar: “none” — hinting ishlatilmaydi va “slight” — faqat Y-oʻqi "
+"boʻyicha moslashtirish, bu Microsoft’ning ClearType, DirectWrite va "
+"Adobe’ning oʻziga xos shrift renderlash tizimi kabi ishlaydi. Bu shriftning "
+"oʻzidagi hintingni e'tiborsiz qoldiradi va hintlarni algoritmik tarzda "
 "yaratadi. Ubuntu’da standart tarzda ishlatiladi. Tavsiya etiladi. “Medium” "
-"va “full”ning ma'nosi shrift formati (.ttf, .otf, .pfa/.pfb) va o‘rnatilgan "
-"FreeType versiyasiga bog‘liq. Ular odatda belgilarga X va Y o‘qlariga "
-"moslashtirishga harakat qiladi (lekin .otf formatida: faqat Y-o‘qi). Bu "
+"va “full”ning ma'nosi shrift formati (.ttf, .otf, .pfa/.pfb) va oʻrnatilgan "
+"FreeType versiyasiga bogʻliq. Ular odatda belgilarga X va Y oʻqlariga "
+"moslashtirishga harakat qiladi (lekin .otf formatida: faqat Y-oʻqi). Bu "
 "shriftning sifati, shrift formati va FreeType shrift dvigatelining holatiga "
 "qarab, deformatsiya va/yoki tutarsiz renderlashga olib kelishi mumkin."
 
@@ -1564,13 +1569,13 @@ msgstr "RGBA tartibi"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:294
 msgid ""
-"The order of subpixel elements on an LCD screen; only used when antialiasing "
-"is set to “rgba”. Possible values are: “rgb” for red on left (most common), "
-"“bgr” for blue on left, “vrgb” for red on top, “vbgr” for red on bottom."
+"The order of subpixel elements on an LCD screen; only used when antialiasing"
+" is set to “rgba”. Possible values are: “rgb” for red on left (most common),"
+" “bgr” for blue on left, “vrgb” for red on top, “vbgr” for red on bottom."
 msgstr ""
 "LCD ekrandagi subpiksel elementlarining joylashuvi; faqat antialiasing "
-"“rgba” holatida bo'lganda qo'llaniladi. Quyidagi qiymatlar mavjud: chap "
-"tomonda qizil uchun “rgb” (eng keng tarqalgan), chap tomonda ko'k uchun "
+"“rgba” holatida boʻlganda qoʻllaniladi. Quyidagi qiymatlar mavjud: chap "
+"tomonda qizil uchun “rgb” (eng keng tarqalgan), chap tomonda koʻk uchun "
 "“bgr”, yuqori qismda qizil uchun “vrgb”, pastki qismda qizil uchun “vbgr”."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:300
@@ -1582,9 +1587,9 @@ msgid ""
 "The preferred color scheme for the user interface. Valid values are "
 "“default”, “prefer-dark”, “prefer-light”."
 msgstr ""
-"Foydalanuvchi interfeysi uchun tanlangan ranglar mavzusi. Mumkin bo'lgan "
-"qiymatlar: “default” (standart), “prefer-dark” (qorong'u), “prefer-light” "
-"(yorug')."
+"Foydalanuvchi interfeysi uchun tanlangan ranglar mavzusi. Mumkin boʻlgan "
+"qiymatlar: “default” (standart), “prefer-dark” (qorongʻu), “prefer-light” "
+"(yorugʻ)."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:307
 msgid "Font rendering"
@@ -1600,9 +1605,9 @@ msgid ""
 msgstr ""
 "Shriftlarni renderlashda past darajadagi font-hinting, font-antialiasing va "
 "font-rgba-order sozlamalariga rioya qilish yoki ekranning rezolyutsiyasi va "
-"o‘lchamini hisobga olish kerakligini belgilaydigan afzallik. Mumkin bo‘lgan "
+"oʻlchamini hisobga olish kerakligini belgilaydigan afzallik. Mumkin boʻlgan "
 "qiymatlar: \"manual\" past darajadagi sozlamalarga rioya qilish, yoki "
-"\"automatic\" vositaning o‘z qarorlarini qabul qilishiga ruxsat berish."
+"\"automatic\" vositaning oʻz qarorlarini qabul qilishiga ruxsat berish."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:316
 msgid "Accent color"
@@ -1614,27 +1619,27 @@ msgid ""
 "\"blue\", \"teal\", \"green\", \"yellow\", \"orange\", \"red\", \"pink\", "
 "\"purple\", \"slate\"."
 msgstr ""
-"Foydalanuvchi interfeysi uchun tanlangan asosiy rang. Mumkin bo'lgan "
+"Foydalanuvchi interfeysi uchun tanlangan asosiy rang. Mumkin boʻlgan "
 "qiymatlar: \"blue\", \"teal\", \"green\", \"yellow\", \"orange\", \"red\", "
 "\"pink\", \"purple\", \"slate\"."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:6
 msgid "Disable command line"
-msgstr "Buyruq satrini o'chirish"
+msgstr "Buyruq satrini oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:7
 msgid ""
-"Prevent the user from accessing the terminal or specifying a command line to "
-"be executed. For example, this would disable access to the panel’s “Run "
+"Prevent the user from accessing the terminal or specifying a command line to"
+" be executed. For example, this would disable access to the panel’s “Run "
 "Application” dialog."
 msgstr ""
-"Foydalanuvchining terminalga kirishiga yoki bajarilishi kerak bo‘lgan buyruq "
-"satrini ko‘rsatishiga yo‘l qo‘ymaslik. Masalan, bu paneldagi “Dastur ishga "
-"tushurish” oynasiga kirishni ham o‘chiradi."
+"Foydalanuvchining terminalga kirishiga yoki bajarilishi kerak boʻlgan buyruq"
+" satrini koʻrsatishiga yoʻl qoʻymaslik. Masalan, bu paneldagi “Dastur ishga "
+"tushurish” oynasiga kirishni ham oʻchiradi."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:15
 msgid "Disable saving files to disk"
-msgstr "Fayllarni diskka saqlashni o‘chirish"
+msgstr "Fayllarni diskka saqlashni oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:16
 msgid ""
@@ -1642,11 +1647,11 @@ msgid ""
 "access to all applications’ “Save as” dialogs."
 msgstr ""
 "Foydalanuvchiga fayllarni diskka saqlashni oldini olish. Masalan, bu barcha "
-"ilovalarning “Saqlash” oynalariga kirishni o‘chirishni anglatadi."
+"ilovalarning “Saqlash” oynalariga kirishni oʻchirishni anglatadi."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:23
 msgid "Disable printing"
-msgstr "Chop etishni o'chirish"
+msgstr "Chop etishni oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:24
 msgid ""
@@ -1654,7 +1659,7 @@ msgid ""
 "all applications’ “Print” dialogs."
 msgstr ""
 "Foydalanuvchining chop etish imkoniyatini cheklash. Masalan, bu barcha "
-"ilovalar uchun \"Chop etish\" dialoglariga kirishni o'chiradi."
+"ilovalar uchun \"Chop etish\" dialoglariga kirishni oʻchiradi."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:31
 msgid "Disable print setup"
@@ -1665,33 +1670,33 @@ msgid ""
 "Prevent the user from modifying print settings. For example, this would "
 "disable access to all applications’ “Print Setup” dialogs."
 msgstr ""
-"Foydalanuvchining chop etish sozlamalarini o'zgartirish imkoniyatini "
+"Foydalanuvchining chop etish sozlamalarini oʻzgartirish imkoniyatini "
 "cheklash. Masalan, bu barcha ilovalar uchun \"Chop etish sozlamalari\" "
-"dialoglariga kirishni o'chiradi."
+"dialoglariga kirishni oʻchiradi."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:39
 msgid "Disable user switching"
-msgstr "Foydalanuvchi hisobini almashtirishni o'chirish"
+msgstr "Foydalanuvchi hisobini almashtirishni oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:40
 msgid ""
 "Prevent the user from switching to another account while their session is "
 "active."
 msgstr ""
-"Foydalanuvchining o'z sessiyasi faol bo'lgan vaqtda boshqa foydalanuvchi "
-"hisobiga o'tishiga yo'l qo'ymaslik."
+"Foydalanuvchining oʻz sessiyasi faol boʻlgan vaqtda boshqa foydalanuvchi "
+"hisobiga oʻtishiga yoʻl qoʻymaslik."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:47
 msgid "Disable lock screen"
-msgstr "Ekran qulflashini o'chirish"
+msgstr "Ekran qulflashini oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:48
 msgid "Prevent the user from locking their screen."
-msgstr "Foydalanuvchiga o'z ekranini qulflashni taqiqlash."
+msgstr "Foydalanuvchiga oʻz ekranini qulflashni taqiqlash."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:54
 msgid "Disable URL and MIME type handlers"
-msgstr "URL va MIME turidagi ishlovchilarni o'chirish"
+msgstr "URL va MIME turidagi ishlovchilarni oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:55
 msgid "Prevent running any URL or MIME type handler applications."
@@ -1701,7 +1706,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:61
 msgid "Disable log out"
-msgstr "Foydalanuvchi hisobidan chiqishni o'chirish"
+msgstr "Foydalanuvchi hisobidan chiqishni oʻchirish"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:62
 msgid "Prevent the user from logging out."
@@ -1716,14 +1721,14 @@ msgid ""
 "Stop the user from modifying user accounts. By default, we allow adding and "
 "removing users, as well as changing other users settings."
 msgstr ""
-"Foydalanuvchiga o'z hisobidan tashqari boshqa foydalanuvchi hisoblarini "
-"tahrirlashga yo'l qo'ymaslik. Odatda, biz foydalanuvchilarni qo'shish, "
-"o'chirish va boshqa foydalanuvchi hisoblari parametrlarini o'zgartirishga "
+"Foydalanuvchiga oʻz hisobidan tashqari boshqa foydalanuvchi hisoblarini "
+"tahrirlashga yoʻl qoʻymaslik. Odatda, biz foydalanuvchilarni qoʻshish, "
+"oʻchirish va boshqa foydalanuvchi hisoblari parametrlarini oʻzgartirishga "
 "imkon beramiz."
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:76
 msgid "Mount removable storage devices as read-only"
-msgstr "Ko'chma xotira qurilmalarini faqat o'qish (read-only) rejimida ulash"
+msgstr "Koʻchma xotira qurilmalarini faqat oʻqish (read-only) rejimida ulash"
 
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:77
 msgid ""
@@ -1740,8 +1745,8 @@ msgstr "Disable password showing"
 #: schemas/org.gnome.desktop.lockdown.gschema.xml.in:85
 msgid "Disable the \"Show Password\" menu item in password entries."
 msgstr ""
-"Parol kiritish maydonlaridagi \"Parolni ko'rsatish\" menyu elementini "
-"o'chirish."
+"Parol kiritish maydonlaridagi \"Parolni koʻrsatish\" menyu elementini "
+"oʻchirish."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:6
 msgid "Whether to automatically mount media"
@@ -1752,9 +1757,9 @@ msgid ""
 "If set to true, then Nautilus will automatically mount media such as user-"
 "visible hard disks and removable media on start-up and media insertion."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, Nautilus dasturi ishga tushganda va yangi "
-"media (masalan, flesh disk) ulanganida foydalanuvchi ko'ra oladigan qattiq "
-"disklar va olinadigan qurilmalarni o'z-o'zidan ulab qo'yadi."
+"Agar bu sozlama yoqilgan boʻlsa, Nautilus dasturi ishga tushganda va yangi "
+"media (masalan, flesh disk) ulanganida foydalanuvchi koʻra oladigan qattiq "
+"disklar va olinadigan qurilmalarni oʻz-oʻzidan ulab qoʻyadi."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:11
 msgid "Whether to automatically open a folder for automounted media"
@@ -1764,20 +1769,20 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:12
 msgid ""
-"If set to true, then Nautilus will automatically open a folder when media is "
-"automounted. This only applies to media where no known x-content/* type was "
-"detected; for media where a known x-content type is detected, the user "
+"If set to true, then Nautilus will automatically open a folder when media is"
+" automounted. This only applies to media where no known x-content/* type was"
+" detected; for media where a known x-content type is detected, the user "
 "configurable action will be taken instead."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, Nautilus media avtomatik tarzda ulanganida "
-"papkani o'z-o'zidan ochadi. Bu faqat aniqlanmagan x-content/* turdagi "
+"Agar bu sozlama yoqilgan boʻlsa, Nautilus media avtomatik tarzda ulanganida "
+"papkani oʻz-oʻzidan ochadi. Bu faqat aniqlanmagan x-content/* turdagi "
 "mediaga taalluqli; agar ma'lum x-content turi aniqlansa, foydalanuvchi "
 "belgilagan harakat bajariladi."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:16
 msgid "Never prompt or autorun/autostart programs when media are inserted"
 msgstr ""
-"Qurilma ulanganda hech qanday so'rov chiqarmaslik va dasturlarni avtomatik "
+"Qurilma ulanganda hech qanday soʻrov chiqarmaslik va dasturlarni avtomatik "
 "ravishda ishga tushirmaslik/avtomatik boshlamaslik"
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:17
@@ -1785,8 +1790,8 @@ msgid ""
 "If set to true, then Nautilus will never prompt nor autorun/autostart "
 "programs when a medium is inserted."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, Nautilus dasturi media (masalan, flesh "
-"disk) ulanganida hech qanday so'rov chiqarmaydi va dasturlarni avtomatik "
+"Agar bu sozlama yoqilgan boʻlsa, Nautilus dasturi media (masalan, flesh "
+"disk) ulanganida hech qanday soʻrov chiqarmaydi va dasturlarni avtomatik "
 "ravishda ishga tushirmaydi/avtomatik boshlamaydi."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:21
@@ -1794,7 +1799,7 @@ msgid ""
 "List of x-content/* types where the preferred application will be launched"
 msgstr ""
 "Qaysi x-content/* turlari uchun tanlangan dastur avtomatik ravishda "
-"ochilishining ro'yxati"
+"ochilishining roʻyxati"
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:22
 msgid ""
@@ -1803,32 +1808,32 @@ msgid ""
 "given type will be started on insertion on media matching these types."
 msgstr ""
 "Foydalanuvchi sozlamalar panelida dasturni avtomatik ravishda ochishni "
-"belgilagan x-content/* turlarining ro'yxati. Agar shunday turdagi media "
-"(masalan, flesh diskda rasm bo'lsa) ulansa, shu tur uchun tanlangan dastur "
+"belgilagan x-content/* turlarining roʻyxati. Agar shunday turdagi media "
+"(masalan, flesh diskda rasm boʻlsa) ulansa, shu tur uchun tanlangan dastur "
 "avtomatik ravishda ishga tushiriladi."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:26
 msgid "List of x-content/* types set to “Do Nothing”"
 msgstr ""
 "Qaysi x-content/* turlari uchun \"Hech narsa qilmaslik\" amali "
-"tanlanganining ro'yxati"
+"tanlanganining roʻyxati"
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:27
 msgid ""
-"List of x-content/* types for which the user have chosen “Do Nothing” in the "
-"preference capplet. No prompt will be shown nor will any matching "
+"List of x-content/* types for which the user have chosen “Do Nothing” in the"
+" preference capplet. No prompt will be shown nor will any matching "
 "application be started on insertion of media matching these types."
 msgstr ""
 "Foydalanuvchi sozlamalar panelida “Hech narsa qilmaslik” amalini belgilagan "
-"x-content/* turlarining ro'yxati. Agar shunday turdagi media (masalan, "
-"ma'lum bir formatdagi video) ulansa, hech qanday so'rov chiqmaydi va shu "
+"x-content/* turlarining roʻyxati. Agar shunday turdagi media (masalan, "
+"ma'lum bir formatdagi video) ulansa, hech qanday soʻrov chiqmaydi va shu "
 "turga mos keladigan dastur avtomatik ravishda ochilmaydi."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:31
 msgid "List of x-content/* types set to “Open Folder”"
 msgstr ""
 "Qaysi x-content/* turlari uchun \"Jildni ochish\" amali tanlanganining "
-"ro'yxati."
+"roʻyxati."
 
 #: schemas/org.gnome.desktop.media-handling.gschema.xml.in:32
 msgid ""
@@ -1836,28 +1841,30 @@ msgid ""
 "the preferences capplet. A folder window will be opened on insertion of "
 "media matching these types."
 msgstr ""
-"Foydalanuvchi sozlamalar panelida “Papkani ochish” amalini belgilagan x-"
-"content/* turlarining ro'yxati. Agar shunday turdagi media (masalan, turli "
-"xil hujjatlar saqlangan flesh disk) ulansa, uning ichidagi fayllarni "
-"ko'rsatadigan papka oynasi avtomatik ravishda ochiladi."
+"Foydalanuvchi sozlamalar panelida “Papkani ochish” amalini belgilagan "
+"x-content/* turlarining roʻyxati. Agar shunday turdagi media (masalan, turli"
+" xil hujjatlar saqlangan flesh disk) ulansa, uning ichidagi fayllarni "
+"koʻrsatadigan papka oynasi avtomatik ravishda ochiladi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:6
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:55
 msgid "Show notification banners"
-msgstr "Bildirishnoma bannerlarini ko'rsatish"
+msgstr "Bildirishnoma bannerlarini koʻrsatish"
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:7
-msgid "Whether notification banners are visible for application notifications."
+msgid ""
+"Whether notification banners are visible for application notifications."
 msgstr ""
-"Dastur bildirishnomalari uchun xabarnoma bannerlari ko'rinib turishi kerakmi."
+"Dastur bildirishnomalari uchun xabarnoma bannerlari koʻrinib turishi "
+"kerakmi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:14
 msgid "Show notifications in the lock screen"
-msgstr "Qulflangan ekranda xabarnomalarni ko'rsatish"
+msgstr "Qulflangan ekranda xabarnomalarni koʻrsatish"
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:15
 msgid "Whether notifications are shown in the lock screen or not."
-msgstr "Bildirishnomalar qulflangan ekranda ko'rsatilsinmi."
+msgstr "Bildirishnomalar qulflangan ekranda koʻrsatilsinmi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:31
 msgid "Application ID"
@@ -1873,7 +1880,8 @@ msgstr "Bildirishnomalarni yoqish"
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:40
 msgid "Whether notifications are globally enabled for this application."
-msgstr "Ushbu ilova uchun xabarnomalar butun tizim bo'ylab faollashtirilganmi."
+msgstr ""
+"Ushbu ilova uchun xabarnomalar butun tizim boʻylab faollashtirilganmi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:47
 msgid "Enable sound alerts"
@@ -1881,14 +1889,15 @@ msgstr "Tovushli bildirishnomalarni faollashtirish"
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:48
 msgid "Whether notifications should be accompanied by sound alerts."
-msgstr "Bildirishnomalar ovozli ogohlantirishlar bilan birga bo'lishi kerakmi."
+msgstr ""
+"Bildirishnomalar ovozli ogohlantirishlar bilan birga boʻlishi kerakmi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:56
 msgid ""
-"Whether notification banners for this application are shown or not. Does not "
-"affect clicking on message tray buttons."
+"Whether notification banners for this application are shown or not. Does not"
+" affect clicking on message tray buttons."
 msgstr ""
-"Ushbu ilova uchun xabarnoma bannerlari namoyish qilinsinmi yoki yo'qmi. Bu "
+"Ushbu ilova uchun xabarnoma bannerlari namoyish qilinsinmi yoki yoʻqmi. Bu "
 "xabar qutisi tugmalarini bosishga aloqador emas."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:64
@@ -1900,23 +1909,23 @@ msgid ""
 "Whether notifications from this application are expanded automatically when "
 "in banner mode."
 msgstr ""
-"Bu dasturdan kelgan bildirishnomalar banner rejimida bo'lganda avtomatik "
+"Bu dasturdan kelgan bildirishnomalar banner rejimida boʻlganda avtomatik "
 "ravishda kengaytirilishi kerakmi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:72
 msgid "Show in the lock screen"
-msgstr "Qulflangan ekranda ko'rsatish"
+msgstr "Qulflangan ekranda koʻrsatish"
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:73
 msgid ""
 "Whether notifications from this application are shown when the screen is "
 "locked."
 msgstr ""
-"Ushbu ilovadan kelgan bildirishnomalar ekran qulflanganda ko'rsatilsinmi."
+"Ushbu ilovadan kelgan bildirishnomalar ekran qulflanganda koʻrsatilsinmi."
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:80
 msgid "Show details in the lock screen"
-msgstr "Qulflangan ekranda tafsilotlarni ko'rsatish"
+msgstr "Qulflangan ekranda tafsilotlarni koʻrsatish"
 
 #: schemas/org.gnome.desktop.notifications.gschema.xml.in:81
 msgid ""
@@ -1924,7 +1933,7 @@ msgid ""
 "visible in the locked screen."
 msgstr ""
 "Bu ilovadan kelgan bildirishnomalarning qisqacha mazmuni va asosiy qismi "
-"qulflangan ekranda ko'rinib turadimi."
+"qulflangan ekranda koʻrinib turadimi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:15
 msgid "Whether edge scrolling is enabled"
@@ -1935,28 +1944,28 @@ msgid ""
 "When enabled, touchpads that support edge scrolling will have that feature "
 "enabled."
 msgstr ""
-"Agar faollashtirilsa, scroll bar g'ildiratish imkoniyatiga ega bo'lgan "
-"touchpadlar bu funksiyani ishlatishi mumkin bo'ladi."
+"Agar faollashtirilsa, scroll bar gʻildiratish imkoniyatiga ega boʻlgan "
+"touchpadlar bu funksiyani ishlatishi mumkin boʻladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:20
 msgid "Whether two-finger scrolling is enabled"
-msgstr "Ikki barmoq bilan g'ildiratish yoqilganmi"
+msgstr "Ikki barmoq bilan gʻildiratish yoqilganmi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:21
 msgid ""
 "When enabled, touchpads that support two-finger scrolling will have that "
 "feature enabled."
 msgstr ""
-"Yoqilganda, ikki barmoq bilan aylantirishni qo'llab-quvvatlaydigan "
-"touchpadlar bu funksiyaga ega bo'ladi."
+"Yoqilganda, ikki barmoq bilan aylantirishni qoʻllab-quvvatlaydigan "
+"touchpadlar bu funksiyaga ega boʻladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:25
 msgid "Whether to disable the touchpad while typing"
-msgstr "Yozish vaqtida touchpadni o'chirish kerakmi"
+msgstr "Yozish vaqtida touchpadni oʻchirish kerakmi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:26
 msgid "When enabled, touchpads will be disabled while typing on the keyboard."
-msgstr "Yoqilganda, klaviaturada yozish vaqtida touchpadlar o'chiriladi."
+msgstr "Yoqilganda, klaviaturada yozish vaqtida touchpadlar oʻchiriladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:30
 msgid "Enable mouse clicks with touchpad"
@@ -1967,7 +1976,7 @@ msgid ""
 "Set this to TRUE to be able to send mouse clicks by tapping on the touchpad."
 msgstr ""
 "Touchpadga teginish orqali sichqoncha bosishlarini bajarish uchun bu "
-"sozlamaga TRUE qiymatni qo'llang."
+"sozlamaga TRUE qiymatni qoʻllang."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:35
 msgid "Tap Button Map"
@@ -1981,7 +1990,7 @@ msgid ""
 msgstr ""
 "Bu sozlama barmoqlar soni va touchpadning qaysi tugmasi bosilishiga mos "
 "kelishini aniqlaydi. Odatda, bir barmoq bilan teginish chap tugma, ikki "
-"barmoq bilan teginish o'ng tugma va uch barmoq bilan teginish o'rta tugma "
+"barmoq bilan teginish oʻng tugma va uch barmoq bilan teginish oʻrta tugma "
 "vazifasini bajaradi (\"lrm\" qisqartmasi bilan belgilanadi)."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:40
@@ -1994,7 +2003,7 @@ msgid ""
 "moving the finger that’s now pressed on the touchpad."
 msgstr ""
 "Touchpadga teginib, keyin bosib turgan barmoqni darhol siljitish orqali "
-"sudrab olib o'tishni boshlash uchun buni TRUE ga o'zgartiring."
+"sudrab olib oʻtishni boshlash uchun buni TRUE ga oʻzgartiring."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:45
 msgid "Enable tap-and-drag-lock with touchpad"
@@ -2004,11 +2013,12 @@ msgstr ""
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:46
 msgid ""
 "Set this to TRUE to lock the dragging process within a short timeout when "
-"the finger is lifted on the touchpad and the tap-and-drag setting is enabled."
+"the finger is lifted on the touchpad and the tap-and-drag setting is "
+"enabled."
 msgstr ""
-"Agar teginish va sudrash funksiyasi faol bo'lsa, touchpaddan barmoq "
+"Agar teginish va sudrash funksiyasi faol boʻlsa, touchpaddan barmoq "
 "olingandan keyin qisqa vaqt ichida sudrashni qulflash uchun buni TRUE ga "
-"o'zgartiring."
+"oʻzgartiring."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:50
 msgid "Touchpad enabled"
@@ -2016,7 +2026,7 @@ msgstr "Touchpad yoqilgan"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:51
 msgid "Defines the situations in which the touchpad is enabled."
-msgstr "Touchpadning qaysi vaziyatlarda faol bo'lishini aniqlaydi."
+msgstr "Touchpadning qaysi vaziyatlarda faol boʻlishini aniqlaydi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:55
 msgid "Touchpad button orientation"
@@ -2027,8 +2037,8 @@ msgid ""
 "Swap left and right mouse buttons for left-handed mice with “left”, “right” "
 "for right-handed, “mouse” to follow the mouse setting."
 msgstr ""
-"Sichqoncha tugmalarini almashtirish: chapqo‘l foydalanuvchilar uchun “left”, "
-"o‘ngqo‘l foydalanuvchilar uchun “right”, yoki sichqoncha sozlamasi asosida "
+"Sichqoncha tugmalarini almashtirish: chapqoʻl foydalanuvchilar uchun “left”,"
+" oʻngqoʻl foydalanuvchilar uchun “right”, yoki sichqoncha sozlamasi asosida "
 "“mouse”."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:60
@@ -2041,45 +2051,45 @@ msgstr "Tezlanish profili"
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:61
 msgid ""
 "Acceleration profile used for connected touchpads. The acceleration profile "
-"can be set to either default (“default”) which uses the default acceleration "
-"profile for each device, flat (“flat”), which accelerates by a device "
+"can be set to either default (“default”) which uses the default acceleration"
+" profile for each device, flat (“flat”), which accelerates by a device "
 "specific constant factor derived from the configured pointer speed, or "
 "adaptive (“adaptive”) which adapts the acceleration depending on the mouse "
 "movement. If a touchpad doesn’t support the configured profile, “default” "
 "will be used."
 msgstr ""
 "Ulangan touchpadlar uchun ishlatiladigan tezlanish profili. Tezlanish "
-"profilini quyidagi qiymatlarga o'rnatish mumkin: “default” (har bir qurilma "
-"uchun standart tezlanish profilini qo'llaydi), “flat” (sozlangan ko'rsatkich "
-"tezligidan kelib chiqqan qurilmaga xos doimiy omilga ko'paytirib "
+"profilini quyidagi qiymatlarga oʻrnatish mumkin: “default” (har bir qurilma "
+"uchun standart tezlanish profilini qoʻllaydi), “flat” (sozlangan koʻrsatkich"
+" tezligidan kelib chiqqan qurilmaga xos doimiy omilga koʻpaytirib "
 "tezlashtiradi) yoki “adaptive” (sichqoncha harakatiga moslashuvchan "
-"tezlanish). Agar sensorli panel sozlangan profilni qo'llab-quvvatlamasa, "
+"tezlanish). Agar sensorli panel sozlangan profilni qoʻllab-quvvatlamasa, "
 "“default” ishlatiladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:65
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:120
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:273
 msgid "Pointer speed"
-msgstr "Ko'rsatkich tezligi"
+msgstr "Koʻrsatkich tezligi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:66
 msgid ""
 "Pointer speed for the touchpad. Accepted values are in the [-1..1] range "
 "(from “unaccelerated” to “fast”). A value of 0 is the system default."
 msgstr ""
-"Touchpad uchun ko'rsatkich tezligi. Qabul qilinadigan qiymatlar [-1..1] "
+"Touchpad uchun koʻrsatkich tezligi. Qabul qilinadigan qiymatlar [-1..1] "
 "oraliqda (eng sekindan “tez”gacha). 0 qiymati tizim standartidir."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:71
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:126
 msgid "Natural scrolling"
-msgstr "Tabiiy ravishda g'ildiratish"
+msgstr "Tabiiy ravishda gʻildiratish"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:72
 msgid "Set this to TRUE to enable natural (reverse) scrolling for touchpads."
 msgstr ""
 "Touchpadlar uchun tabiiy (teskari) aylantirishni yoqish uchun buni TRUE "
-"qilib o'rnating."
+"qilib oʻrnating."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:76
 msgid "Click method"
@@ -2087,12 +2097,12 @@ msgstr "Bosish usuli"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:77
 msgid ""
-"How to generate software-emulated buttons, either disabled (“none”), through "
-"specific areas (“areas”), number of fingers (“fingers”) or left as hardware "
-"default (“default”)."
+"How to generate software-emulated buttons, either disabled (“none”), through"
+" specific areas (“areas”), number of fingers (“fingers”) or left as hardware"
+" default (“default”)."
 msgstr ""
 "Dasturiy ta'minot yordamida yaratilgan tugmalarni qanday sozlash mumkin: "
-"ularni o'chirish (“none”), touchpadning ma'lum joylaridan foydalanish "
+"ularni oʻchirish (“none”), touchpadning ma'lum joylaridan foydalanish "
 "(“areas”), barmoqlar soniga qarab (“fingers”) yoki qurilma sozlamalarini "
 "saqlab qolish (“default”)."
 
@@ -2100,7 +2110,7 @@ msgstr ""
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:136
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:266
 msgid "Emulate middle click"
-msgstr "O'rta tugmani emulyatsiya qilish"
+msgstr "Oʻrta tugmani emulyatsiya qilish"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:82
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:137
@@ -2109,8 +2119,8 @@ msgid ""
 "Set this to TRUE to enable middle click during simultaneous left and right "
 "click."
 msgstr ""
-"Chap va o'ng tugmalarni bir vaqtda bosish vaqtida o'rta tugmani yoqish uchun "
-"buni TRUE qilib o'rnating."
+"Chap va oʻng tugmalarni bir vaqtda bosish vaqtida oʻrta tugmani yoqish uchun"
+" buni TRUE qilib oʻrnating."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:88
 msgid "Keyboard repeat"
@@ -2118,7 +2128,7 @@ msgstr "Klaviatura takrori"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:89
 msgid "Set this to TRUE to enable keyboard repeat."
-msgstr "Klaviatura takrorini yoqish uchun buni TRUE qilib o'rnating."
+msgstr "Klaviatura takrorini yoqish uchun buni TRUE qilib oʻrnating."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:93
 msgid "Key Repeat Interval"
@@ -2146,7 +2156,7 @@ msgid ""
 "sessions."
 msgstr ""
 "Agar bu sozlama TRUE qilib belgilansa, GNOME NumLock chiroqchasining "
-"holatini (yoqilgan yoki o'chirilganligini) har safar tizimga kirganingizda "
+"holatini (yoqilgan yoki oʻchirilganligini) har safar tizimga kirganingizda "
 "saqlab qoladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:108
@@ -2159,12 +2169,12 @@ msgstr "NumLock chiroqchasining eslab qolingan holati."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:115
 msgid "Mouse button orientation"
-msgstr "Sichqoncha tugmalarining yo'nalishi"
+msgstr "Sichqoncha tugmalarining yoʻnalishi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:116
 msgid "Swap left and right mouse buttons for left-handed mice."
 msgstr ""
-"Chap qo'llar uchun sichqonchaning chap va o'ng tugmalarining o'rnini "
+"Chap qoʻllar uchun sichqonchaning chap va oʻng tugmalarining oʻrnini "
 "almashtirish."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:121
@@ -2179,8 +2189,8 @@ msgstr ""
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:127
 msgid "Set this to TRUE to enable natural (reverse) scrolling for mice."
 msgstr ""
-"Sichqonchalar uchun teskari g'ildiratish funksiyasini faollashtirish uchun "
-"buni TRUE ga o'zgartiring."
+"Sichqonchalar uchun teskari gʻildiratish funksiyasini faollashtirish uchun "
+"buni TRUE ga oʻzgartiring."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:132
 msgid ""
@@ -2193,11 +2203,11 @@ msgid ""
 "be used."
 msgstr ""
 "Ulangan sichqonchalar uchun ishlatiladigan tezlanish profili. Tezlanish "
-"profilini quyidagi qiymatlarga o'rnatish mumkin: “default” (har bir qurilma "
+"profilini quyidagi qiymatlarga oʻrnatish mumkin: “default” (har bir qurilma "
 "uchun standart tezlanish profilini ishlatadi), “flat” (sozlangan kursor "
-"tezligidan olingan qurilmaga xos doimiy ko'paytuvchi bilan tezlashtiradi) "
+"tezligidan olingan qurilmaga xos doimiy koʻpaytuvchi bilan tezlashtiradi) "
 "yoki “adaptive” (sichqoncha harakatiga qarab tezlanishni moslashtiradi). "
-"Agar sichqoncha sozlangan profilni qo'llab-quvvatlamasa, “default” "
+"Agar sichqoncha sozlangan profilni qoʻllab-quvvatlamasa, “default” "
 "ishlatiladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:141
@@ -2210,7 +2220,7 @@ msgstr "Ikki marta bosishning uzunligi millisekundlarda."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:146
 msgid "Drag threshold"
-msgstr "Sudrab olib o'tish chegarasi"
+msgstr "Sudrab olib oʻtish chegarasi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:147
 msgid "Distance before a drag is started."
@@ -2227,7 +2237,7 @@ msgid ""
 "mapping."
 msgstr ""
 "Planshet xaritalangan chiqishning EDID ma'lumotlari. [Ishlab chiqaruvchi, "
-"mahsulot, seriya raqami] formatida bo'lishi kerak. [\"\", \"\", \"\"] "
+"mahsulot, seriya raqami] formatida boʻlishi kerak. [\"\", \"\", \"\"] "
 "avtomatik xaritalashga tayanadi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:158
@@ -2247,8 +2257,8 @@ msgid ""
 "Dead area padding around the active area, in percentages. Respectively "
 "applied to left,right,top and bottom sides."
 msgstr ""
-"Aktiv soha atrofidagi sezgir bo'lmagan (o'lik) zonaning kengligi, foizlarda. "
-"Mos ravishda chap, o'ng, yuqori va pastki tomonlarga qo'llaniladi."
+"Aktiv soha atrofidagi sezgir boʻlmagan (oʻlik) zonaning kengligi, foizlarda."
+" Mos ravishda chap, oʻng, yuqori va pastki tomonlarga qoʻllaniladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:168
 msgid "Tablet aspect ratio"
@@ -2264,24 +2274,24 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:173
 msgid "Tablet left-handed mode"
-msgstr "Planshetning chap qo'l rejimi"
+msgstr "Planshetning chap qoʻl rejimi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:174
 msgid ""
 "Enable this to allow physically rotating the tablet for left-handed setups"
 msgstr ""
-"Chap qo'l uchun sozlashda planshetni fizik jihatdan aylantirishga ruxsat "
+"Chap qoʻl uchun sozlashda planshetni fizik jihatdan aylantirishga ruxsat "
 "berish uchun buni yoqing"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:180
 msgid "Stylus pressure curve"
-msgstr "Qalam bosimi egri chizig'i"
+msgstr "Qalam bosimi egri chizigʻi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:181
 msgid ""
 "Set this to x1, y1 and x2, y2 of the pressure curve applied to the stylus."
 msgstr ""
-"Stilusning bosim sezgirligi egri chizig'i uchun x1, y1 va x2, y2 "
+"Stilusning bosim sezgirligi egri chizigʻi uchun x1, y1 va x2, y2 "
 "qiymatlarini belgilang."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:185
@@ -2291,26 +2301,26 @@ msgstr "Stilus bosim diapazoni"
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:186
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:196
 msgid ""
-"Set this to the percentage of the physical pressure range that should map to "
-"the logical range."
+"Set this to the percentage of the physical pressure range that should map to"
+" the logical range."
 msgstr ""
 "Jismoniy bosim diapazonining mantiqiy diapazonga qancha foizi mos kelishini "
-"foizlarda ko'rsating."
+"foizlarda koʻrsating."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:190
 msgid "Eraser pressure curve"
-msgstr "O'chirg'ich bosim egri chizig'i"
+msgstr "Oʻchirgʻich bosim egri chizigʻi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:191
 msgid ""
 "Set this to x1, y1 and x2, y2 of the pressure curve applied to the eraser."
 msgstr ""
-"O'chirg'ichning bosim sezgirligi egri chizig'i uchun x1, y1 va x2, y2 "
+"Oʻchirgʻichning bosim sezgirligi egri chizigʻi uchun x1, y1 va x2, y2 "
 "qiymatlarini belgilang."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:195
 msgid "Eraser pressure range"
-msgstr "O'chirg'ich bosim diapazoni"
+msgstr "Oʻchirgʻich bosim diapazoni"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:200
 msgid "Button action"
@@ -2319,7 +2329,7 @@ msgstr "Tugma vazifasi"
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:201
 msgid "Stylus button action, this button is located along the pen handle."
 msgstr ""
-"Stilus tugmasining harakati, bu tugma qalam dastasi bo'ylab joylashgan."
+"Stilus tugmasining harakati, bu tugma qalam dastasi boʻylab joylashgan."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:205
 msgid "Secondary button action"
@@ -2332,8 +2342,8 @@ msgid ""
 "Inking Pen only have one button, this setting is ineffective on those."
 msgstr ""
 "Stilusning ikkinchi yon tugmasining vazifasi, bu tugma Grip Pen kabi ayrim "
-"stiluslarning ushlagichi bo'ylab joylashgan. Airbrush Pen yoki Inking Pen "
-"kabi boshqa stiluslarda faqat bitta tugma bo'lganligi sababli, bu sozlama "
+"stiluslarning ushlagichi boʻylab joylashgan. Airbrush Pen yoki Inking Pen "
+"kabi boshqa stiluslarda faqat bitta tugma boʻlganligi sababli, bu sozlama "
 "ularga ta'sir qilmaydi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:210
@@ -2347,9 +2357,9 @@ msgid ""
 "buttons, this setting is ineffective on those."
 msgstr ""
 "Stilusning uchinchi yon tugmasining vazifasi, bu tugma 3D Pen kabi ayrim "
-"stiluslarning ushlagichi bo'ylab joylashgan. Grip Pen kabi boshqa "
-"stiluslarda faqat ikkita tugma bo'lganligi sababli, bu sozlama ularga ta'sir "
-"qilmaydi."
+"stiluslarning ushlagichi boʻylab joylashgan. Grip Pen kabi boshqa "
+"stiluslarda faqat ikkita tugma boʻlganligi sababli, bu sozlama ularga ta'sir"
+" qilmaydi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:215
 msgid "Key combination for the primary button"
@@ -2396,45 +2406,45 @@ msgid ""
 "format [vendor, product, serial]. [\"\",\"\",\"\"] relies on automatic "
 "mapping."
 msgstr ""
-"Sensorli ekran ulangan chiqish qurilmasining EDID informatsiyasi. U shaklida "
-"bo'lishi kerak. Agar [\"\", \"\", \"\"] qiymati berilsa, avtomatik bog'lash "
-"amalga oshiriladi."
+"Sensorli ekran ulangan chiqish qurilmasining EDID informatsiyasi. U shaklida"
+" boʻlishi kerak. Agar [\"\", \"\", \"\"] qiymati berilsa, avtomatik bogʻlash"
+" amalga oshiriladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:252
 msgid "Mouse wheel emulation button. 0 to disable the feature."
 msgstr ""
-"Sichqoncha g'ildiragini taqlid qiluvchi tugma. Bu funksiyani o'chirib "
-"qo'yish uchun 0 raqamini qo'llang."
+"Sichqoncha gʻildiragini taqlid qiluvchi tugma. Bu funksiyani oʻchirib "
+"qoʻyish uchun 0 raqamini qoʻllang."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:256
 msgid "Mouse wheel emulation button lock"
-msgstr "Sichqoncha g'ildiragini emulyatsiya qilish tugmasini qulflanishi"
+msgstr "Sichqoncha gʻildiragini emulyatsiya qilish tugmasini qulflanishi"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:257
 msgid ""
-"Set this to TRUE to enable button locking for the wheel emulation button. If "
-"enabled, the first click of the button enables scrolling, the second click "
+"Set this to TRUE to enable button locking for the wheel emulation button. If"
+" enabled, the first click of the button enables scrolling, the second click "
 "disables scrolling again."
 msgstr ""
-"Sichqoncha g'ildiragini taqlid qilish tugmasi uchun qulflash funksiyasini "
-"yoqish uchun buni TRUE ga o'zgartiring. Agar bu funksiya ishga tushirilsa, "
+"Sichqoncha gʻildiragini taqlid qilish tugmasi uchun qulflash funksiyasini "
+"yoqish uchun buni TRUE ga oʻzgartiring. Agar bu funksiya ishga tushirilsa, "
 "tugmani birinchi marta bosish scroll rejimini yoqadi, ikkinchi marta bosish "
-"esa uni o'chiradi."
+"esa uni oʻchiradi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:262
 msgid ""
-"Acceleration profile used for the trackball. The acceleration profile can be "
-"set to either default (“default”) which uses the default acceleration "
+"Acceleration profile used for the trackball. The acceleration profile can be"
+" set to either default (“default”) which uses the default acceleration "
 "profile, flat (“flat”), which accelerates by a device specific constant "
 "factor derived from the configured speed, or adaptive (“adaptive”) which "
 "adapts the acceleration depending on the movement. If the trackball doesn’t "
 "support the configured profile, “default” will be used."
 msgstr ""
-"Trekbol uchun qo'llaniladigan tezlashuv profili. Bu profilni quyidagi "
-"ko'rinishlarda sozlash mumkin: “default” (o'rnatilgan tezlashuv profilini "
+"Trekbol uchun qoʻllaniladigan tezlashuv profili. Bu profilni quyidagi "
+"koʻrinishlarda sozlash mumkin: “default” (oʻrnatilgan tezlashuv profilini "
 "ishlatadi), “flat” (sozlangan tezlikdan kelib chiqqan qurilmaga xos doimiy "
-"koeffitsientga ko'paytirib tezlashtiradi) yoki “adaptive” (harakatga qarab "
-"tezlashuvni o'zgartiradi). Agar trekbol sozlangan profilni qo'llab-"
+"koeffitsientga koʻpaytirib tezlashtiradi) yoki “adaptive” (harakatga qarab "
+"tezlashuvni oʻzgartiradi). Agar trekbol sozlangan profilni qoʻllab-"
 "quvvatlamasa, “default” rejimi ishlatiladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:274
@@ -2444,27 +2454,27 @@ msgid ""
 msgstr ""
 "Ishora tayoqchalari uchun kursor tezligi. Qabul qilinadigan qiymatlar [-1 "
 "dan 1 gacha] oraliqda (tezlanmaganidan “tez”gacha). 0 qiymati tizimning "
-"o'rnatilgan tezligidir."
+"oʻrnatilgan tezligidir."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:280
 msgid ""
 "Acceleration profile used for the pointing stick. The acceleration profile "
-"can be set to either default (“default”) which uses the default acceleration "
-"profile, flat (“flat”), which accelerates by a device specific constant "
+"can be set to either default (“default”) which uses the default acceleration"
+" profile, flat (“flat”), which accelerates by a device specific constant "
 "factor derived from the configured speed, or adaptive (“adaptive”) which "
 "adapts the acceleration depending on the movement. If the pointing stick "
 "doesn’t support the configured profile, “default” will be used."
 msgstr ""
-"Ishora tayoqchasi uchun qo'llaniladigan tezlashuv profili. Bu profilni "
-"quyidagi ko'rinishlarda sozlash mumkin: “default” (o'rnatilgan tezlashuv "
+"Ishora tayoqchasi uchun qoʻllaniladigan tezlashuv profili. Bu profilni "
+"quyidagi koʻrinishlarda sozlash mumkin: “default” (oʻrnatilgan tezlashuv "
 "profilini ishlatadi), “flat” (sozlangan tezlikdan kelib chiqqan qurilmaga "
-"xos doimiy koeffitsientga ko'paytirib tezlashtiradi) yoki “adaptive” "
-"(harakatga qarab tezlashuvni o'zgartiradi). Agar ishora tayoqchasi sozlangan "
-"profilni qo'llab-quvvatlamasa, “default” rejimi ishlatiladi."
+"xos doimiy koeffitsientga koʻpaytirib tezlashtiradi) yoki “adaptive” "
+"(harakatga qarab tezlashuvni oʻzgartiradi). Agar ishora tayoqchasi sozlangan"
+" profilni qoʻllab-quvvatlamasa, “default” rejimi ishlatiladi."
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:284
 msgid "Scrolling method"
-msgstr "G'ildiratish (scroll) usuli"
+msgstr "Gʻildiratish (scroll) usuli"
 
 #: schemas/org.gnome.desktop.peripherals.gschema.xml.in:285
 msgid ""
@@ -2473,55 +2483,55 @@ msgid ""
 "which disables scrolling, or middle-button (“on-button-down”) which enables "
 "scrolling whilst the middle button is held down."
 msgstr ""
-"Ishora tayoqchalari uchun qo'llaniladigan sahifani o'tkazish usuli. "
-"O'tkazish usulini quyidagi ko'rinishlarda sozlash mumkin: “default” "
-"(o'rnatilgan usulni ishlatadi), “none” (o'tkazishni o'chirib qo'yadi) yoki "
-"“middle-button” (“on-button-down”) (o'rta tugma bosib turilganda o'tkazishni "
-"faollashtiradi)."
+"Ishora tayoqchalari uchun qoʻllaniladigan sahifani oʻtkazish usuli. "
+"Oʻtkazish usulini quyidagi koʻrinishlarda sozlash mumkin: “default” "
+"(oʻrnatilgan usulni ishlatadi), “none” (oʻtkazishni oʻchirib qoʻyadi) yoki "
+"“middle-button” (“on-button-down”) (oʻrta tugma bosib turilganda oʻtkazishni"
+" faollashtiradi)."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:6
 msgid "Controls visibility of personal information"
-msgstr "Shaxsiy ma'lumotlarning ko'rinishini boshqaradi"
+msgstr "Shaxsiy ma'lumotlarning koʻrinishini boshqaradi"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:7
 msgid ""
 "If set to true, the system will make an effort to not divulge the user’s "
 "identity on screen or on the network."
 msgstr ""
-"Agar bu parametr \"true\" qiymatiga o'rnatilsa, tizim ekranda yoki "
-"internetda foydalanuvchining kimligini ko'rsatmaslik uchun choralar ko'radi."
+"Agar bu parametr \"true\" qiymatiga oʻrnatilsa, tizim ekranda yoki "
+"internetda foydalanuvchining kimligini koʻrsatmaslik uchun choralar koʻradi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:12
 msgid "Show full name in the user menu"
-msgstr "Foydalanuvchi menyusida to'liq ismni ko'rsatish"
+msgstr "Foydalanuvchi menyusida toʻliq ismni koʻrsatish"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:13
 msgid "Whether the users full name is shown in the user menu or not."
-msgstr "Foydalanuvchi ro'yxatida to'liq ism aks etadimi yoki yo'qmi."
+msgstr "Foydalanuvchi roʻyxatida toʻliq ism aks etadimi yoki yoʻqmi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:17
 msgid "Whether to remove old files from the trash automatically"
-msgstr "Savatdagi eski fayllar avtomatik tarzda o'chirilsinmi yoki yo'qmi"
+msgstr "Savatdagi eski fayllar avtomatik tarzda oʻchirilsinmi yoki yoʻqmi"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:18
 msgid ""
 "If TRUE, automatically remove files from the trash when they are older than "
 "“old-files-age” days."
 msgstr ""
-"Agar TRUE bo'lsa, fayllar “old-files-age” kunidan oshgan bo'lsa, savatdan "
-"avtomatik ravishda o'chiriladi."
+"Agar TRUE boʻlsa, fayllar “old-files-age” kunidan oshgan boʻlsa, savatdan "
+"avtomatik ravishda oʻchiriladi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:23
 msgid "Whether to remove old temporary files automatically"
-msgstr "Eski vaqtinchalik fayllar avtomatik tarzda o'chirilsinmi yoki yo'qmi"
+msgstr "Eski vaqtinchalik fayllar avtomatik tarzda oʻchirilsinmi yoki yoʻqmi"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:24
 msgid ""
 "If TRUE, automatically remove temporary files when they are older than “old-"
 "files-age” days."
 msgstr ""
-"Agar TRUE bo'lsa, vaqtinchalik fayllar “old-files-age” kunidan oshgan "
-"bo'lsa, avtomatik ravishda o'chiriladi."
+"Agar TRUE boʻlsa, vaqtinchalik fayllar “old-files-age” kunidan oshgan "
+"boʻlsa, avtomatik ravishda oʻchiriladi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:29
 msgid "Number of days to keep trash and temporary files"
@@ -2539,7 +2549,7 @@ msgstr "Yaqinda ishlatilgan fayllarni eslab qolinsinmi"
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:36
 msgid "If FALSE, applications will not remember recently used files."
 msgstr ""
-"Agar FALSE bo'lsa, ilovalar yaqinda ishlatilgan fayllarni eslab qolmaydi."
+"Agar FALSE boʻlsa, ilovalar yaqinda ishlatilgan fayllarni eslab qolmaydi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:41
 msgid "Number of days to remember recently used files for"
@@ -2552,8 +2562,8 @@ msgid ""
 "indefinitely."
 msgstr ""
 "Yaqinda ishlatilgan fayllar shuncha kun davomida eslab qolinadi. Agar 0 ga "
-"o'rnatilsa, yaqinda ishlatilgan fayllar esda saqlanmaydi; agar -1 ga "
-"o'rnatilsa, ular cheksiz saqlanadi."
+"oʻrnatilsa, yaqinda ishlatilgan fayllar esda saqlanmaydi; agar -1 ga "
+"oʻrnatilsa, ular cheksiz saqlanadi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:48
 msgid "Whether to remember application usage"
@@ -2562,28 +2572,28 @@ msgstr "Ilovalardan foydalanish tarixi saqlansinmi"
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:49
 msgid "If FALSE, application usage will not be monitored and recorded."
 msgstr ""
-"Agar FALSE bo'lsa, dasturlardan foydalanish kuzatilmaydi va qayd etilmaydi."
+"Agar FALSE boʻlsa, dasturlardan foydalanish kuzatilmaydi va qayd etilmaydi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:54
 msgid "Send statistics when applications are removed or installed"
-msgstr "Ilovalar o'chirilganda yoki o'rnatilganda statistika yuborilsin"
+msgstr "Ilovalar oʻchirilganda yoki oʻrnatilganda statistika yuborilsin"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:55
 msgid ""
 "If FALSE, no anonymous installation or removal information will be sent to "
 "the vendor."
 msgstr ""
-"Agar FALSE bo'lsa, ishlab chiqaruvchiga o'rnatish yoki olib tashlash haqida "
-"hech qanday ma'lumot jo'natilmaydi."
+"Agar FALSE boʻlsa, ishlab chiqaruvchiga oʻrnatish yoki olib tashlash haqida "
+"hech qanday ma'lumot joʻnatilmaydi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:59
 msgid "Send reports of technical problems to the vendor"
-msgstr "Texnik nosozliklar haqida hisobotni ishlab chiqaruvchiga jo'natish"
+msgstr "Texnik nosozliklar haqida hisobotni ishlab chiqaruvchiga joʻnatish"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:60
 msgid "If TRUE, anonymized reports will be sent automatically to the vendor."
 msgstr ""
-"Agar TRUE bo'lsa, anonimlashtirilgan hisobotlar avtomatik ravishda ishlab "
+"Agar TRUE boʻlsa, anonimlashtirilgan hisobotlar avtomatik ravishda ishlab "
 "chiqaruvchiga yuboriladi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:64
@@ -2592,7 +2602,7 @@ msgstr "Ilovalarga mikrofon foydalanishiga ruxsat berilmasin"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:65
 msgid "If TRUE, applications should not use the microphone."
-msgstr "Agar TRUE bo'lsa, ilovalar mikrofonni ishlatmasligi kerak."
+msgstr "Agar TRUE boʻlsa, ilovalar mikrofonni ishlatmasligi kerak."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:69
 msgid "Don’t allow applications to access the camera"
@@ -2600,7 +2610,7 @@ msgstr "Ilovalarga kameradan foydalanishga ruxsat berilmasin"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:70
 msgid "If TRUE, applications should not use the camera."
-msgstr "Agar TRUE bo'lsa, ilovalar kamerani ishlatmasligi kerak."
+msgstr "Agar TRUE boʻlsa, ilovalar kamerani ishlatmasligi kerak."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:74
 msgid "Don’t allow applications to output sound"
@@ -2608,7 +2618,7 @@ msgstr "Ilovalarga ovoz chiqarishga ruxsat bermang"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:75
 msgid "If TRUE, applications should not make sound."
-msgstr "Agar TRUE bo'lsa, ilovalar ovoz chiqarmasligi kerak."
+msgstr "Agar TRUE boʻlsa, ilovalar ovoz chiqarmasligi kerak."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:79
 msgid "Whether to protect USB devices"
@@ -2619,8 +2629,8 @@ msgid ""
 "If the USBGuard service is present and this setting is enabled, USB devices "
 "will be protected as configured in the usb-protection-level setting."
 msgstr ""
-"Agar USBGuard xizmati mavjud bo'lsa va bu sozlama yoqilgan bo'lsa, USB "
-"qurilmalari usb-protection-level sozlamasida ko'rsatilganidek himoyalanadi."
+"Agar USBGuard xizmati mavjud boʻlsa va bu sozlama yoqilgan boʻlsa, USB "
+"qurilmalari usb-protection-level sozlamasida koʻrsatilganidek himoyalanadi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:87
 msgid "When USB devices should be rejected"
@@ -2628,13 +2638,13 @@ msgstr "USB qurilmalari qachon rad etilishi kerak"
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:88
 msgid ""
-"If set to “lockscreen”, only when the lock screen is present new USB devices "
-"will be rejected; if set to “always”, all new USB devices will always be "
+"If set to “lockscreen”, only when the lock screen is present new USB devices"
+" will be rejected; if set to “always”, all new USB devices will always be "
 "rejected."
 msgstr ""
-"Agar “lockscreen” (qulf ekran) qilib o'rnatilsa, faqat qulf ekrani mavjud "
-"bo'lganda yangi USB qurilmalari rad etiladi; agar “always” (doim) qilib "
-"o'rnatilsa, barcha yangi USB qurilmalari har doim rad etiladi."
+"Agar “lockscreen” (qulf ekran) qilib oʻrnatilsa, faqat qulf ekrani mavjud "
+"boʻlganda yangi USB qurilmalari rad etiladi; agar “always” (doim) qilib "
+"oʻrnatilsa, barcha yangi USB qurilmalari har doim rad etiladi."
 
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:95
 msgid "Whether the privacy screen is enabled"
@@ -2643,12 +2653,12 @@ msgstr "Maxfiylik ekrani yoqilganmi"
 #: schemas/org.gnome.desktop.privacy.gschema.xml.in:96
 msgid ""
 "If the underlying hardware has privacy screen support and this setting is "
-"enabled, the panels supporting this technology will be obscured from lateral "
-"view."
+"enabled, the panels supporting this technology will be obscured from lateral"
+" view."
 msgstr ""
-"Agar qurilmaning asosiy apparat ta'minoti maxfiylik ekranini qo'llab-"
-"quvvatlasa va bu sozlama yoqilgan bo'lsa, bu texnologiyani qo'llab-"
-"quvvatlaydigan panellar yon tomondan qaraganda ko'rinmaydigan bo'ladi."
+"Agar qurilmaning asosiy apparat ta'minoti maxfiylik ekranini qoʻllab-"
+"quvvatlasa va bu sozlama yoqilgan boʻlsa, bu texnologiyani qoʻllab-"
+"quvvatlaydigan panellar yon tomondan qaraganda koʻrinmaydigan boʻladi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:6
 msgid "Enable restart/shutdown"
@@ -2658,23 +2668,23 @@ msgstr ""
 #, fuzzy
 #| msgid "Show notifications in the lock screen"
 msgid "Allow shutdown and restart actions from the lock screen."
-msgstr "Qulflangan ekranda xabarnomalarni ko'rsatish"
+msgstr "Qulflangan ekranda xabarnomalarni koʻrsatish"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:13
 msgid "Activate when idle"
-msgstr "Bo'sh turganda faollashsin"
+msgstr "Boʻsh turganda faollashsin"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:14
 msgid ""
 "Set this to TRUE to activate the screensaver when the session is idle. "
 "DEPRECATED: This key is deprecated and ignored. Set "
-"org.gnome.desktop.session idle-delay to 0 if you do not want to activate the "
-"screensaver."
+"org.gnome.desktop.session idle-delay to 0 if you do not want to activate the"
+" screensaver."
 msgstr ""
 "Sessiya ishlamay qolganda ekran saqlagichni faollashtirish uchun buni TRUE "
-"qilib o'rnating. ESKIRGAN: Bu kalit eskirgan va e'tiborga olinmaydi. Agar "
+"qilib oʻrnating. ESKIRGAN: Bu kalit eskirgan va e'tiborga olinmaydi. Agar "
 "ekran saqlagichni faollashtirishni xohlamasangiz, org.gnome.desktop.session "
-"idle-delay ni 0 ga o'rnating."
+"idle-delay ni 0 ga oʻrnating."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:23
 msgid "Lock on activation"
@@ -2684,7 +2694,7 @@ msgstr "Ishga tushganda qulflash"
 msgid "Set this to TRUE to lock the screen when the screensaver goes active."
 msgstr ""
 "Ekran saqlagich ishga tushganda ekranni qulflash uchun buni TRUE qilib "
-"o'rnating."
+"oʻrnating."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:28
 msgid "Time before locking"
@@ -2692,22 +2702,23 @@ msgstr "Qulflashdan oldingi vaqt"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:29
 msgid ""
-"The number of seconds after screensaver activation before locking the screen."
+"The number of seconds after screensaver activation before locking the "
+"screen."
 msgstr ""
 "Ekran saqlagich faollashganidan keyin ekranni qulflash uchun soniyalar soni."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:33
 msgid "Show full name in the lock screen"
-msgstr "Bloklash ekranida to'liq familiya ismini ko'rsatish"
+msgstr "Bloklash ekranida toʻliq familiya ismini koʻrsatish"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:34
 msgid ""
 "Whether the user’s full name is shown in the lock screen or not. This only "
 "affects the screen shield, the name is always shown in the unlock dialog."
 msgstr ""
-"Foydalanuvchi ro'yxatidagi to'liq ism qulflash ekranida aks etadimi yoki "
-"yo'qmi. Bu faqat ekran himoyasiga ta'sir qiladi, ism qulfni ochish oynasida "
-"doim ko'rinadi."
+"Foydalanuvchi roʻyxatidagi toʻliq ism qulflash ekranida aks etadimi yoki "
+"yoʻqmi. Bu faqat ekran himoyasiga ta'sir qiladi, ism qulfni ochish oynasida "
+"doim koʻrinadi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:38
 msgid "Allow embedding a keyboard into the window"
@@ -2720,13 +2731,13 @@ msgid ""
 "command. DEPRECATED: This key is deprecated and ignored."
 msgstr ""
 "Qulfni ochishga urinayotganda klaviaturani oynaga joylashtirishga ruxsat "
-"berish uchun buni TRUE qilib o'rnating. “keyboard_command” kaliti tegishli "
-"buyruq bilan o'rnatilgan bo'lishi kerak. ESKIRGAN: Bu kalit eskirgan va "
+"berish uchun buni TRUE qilib oʻrnating. “keyboard_command” kaliti tegishli "
+"buyruq bilan oʻrnatilgan boʻlishi kerak. ESKIRGAN: Bu kalit eskirgan va "
 "e'tiborga olinmaydi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:47
 msgid "Embedded keyboard command"
-msgstr "O'rnatilgan klaviatura buyrug'i"
+msgstr "Oʻrnatilgan klaviatura buyrugʻi"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:48
 msgid ""
@@ -2735,10 +2746,10 @@ msgid ""
 "implement an XEMBED plug interface and output a window XID on the standard "
 "output. DEPRECATED: This key is deprecated and ignored."
 msgstr ""
-"Agar “embedded_keyboard_enabled” kaliti TRUE (rost) qiymatiga o'rnatilgan "
-"bo'lsa, oynaga klaviatura виджетини joylashtirish uchun bajariladigan "
-"buyruq. Bu buyruq XEMBED plagin interfeysini qo'llab-quvvatlashi va standart "
-"chiqishga oyna XID-sini chop etishi zarur. ESKIRGAN: Bu kalit endi "
+"Agar “embedded_keyboard_enabled” kaliti TRUE (rost) qiymatiga oʻrnatilgan "
+"boʻlsa, oynaga klaviatura виджетини joylashtirish uchun bajariladigan "
+"buyruq. Bu buyruq XEMBED plagin interfeysini qoʻllab-quvvatlashi va standart"
+" chiqishga oyna XID-sini chop etishi zarur. ESKIRGAN: Bu kalit endi "
 "ishlatilmaydi va e'tiborga olinmaydi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:56
@@ -2752,7 +2763,7 @@ msgid ""
 "DEPRECATED: This key is deprecated and ignored."
 msgstr ""
 "Qulfni ochish oynasida kechikish bilan tizimdan chiqish imkoniyatini berish "
-"uchun buni TRUE ga o'zgartiring. Kechikish vaqti “logout_delay” kalitida "
+"uchun buni TRUE ga oʻzgartiring. Kechikish vaqti “logout_delay” kalitida "
 "belgilangan. ESKIRGAN: Bu kalit endi ishlatilmaydi va e'tiborga olinmaydi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:65
@@ -2767,8 +2778,8 @@ msgid ""
 "ignored"
 msgstr ""
 "Ekran saqlagich ishga tushganidan keyin qulfni ochish oynasida tizimdan "
-"chiqish imkoniyati paydo bo'lishi uchun soniyalar soni. Bu kalit faqat "
-"“logout_enable” kaliti TRUE (rost) bo'lgandagina ishlaydi. ESKIRGAN: Bu "
+"chiqish imkoniyati paydo boʻlishi uchun soniyalar soni. Bu kalit faqat "
+"“logout_enable” kaliti TRUE (rost) boʻlgandagina ishlaydi. ESKIRGAN: Bu "
 "kalit endi ishlatilmaydi va e'tiborga olinmaydi"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:74
@@ -2777,14 +2788,14 @@ msgstr "Tizimdan chiqish (logout) komandasi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:75
 msgid ""
-"The command to invoke when the logout button is clicked. This command should "
-"simply log the user out without any interaction. This key has effect only if "
-"the “logout_enable” key is set to TRUE. DEPRECATED: This key is deprecated "
-"and ignored."
+"The command to invoke when the logout button is clicked. This command should"
+" simply log the user out without any interaction. This key has effect only "
+"if the “logout_enable” key is set to TRUE. DEPRECATED: This key is "
+"deprecated and ignored."
 msgstr ""
 "Chiqish tugmasi bosilganda bajariladigan buyruq. Bu buyruq foydalanuvchini "
-"hech qanday so'rovsiz shunchaki tizimdan chiqarishi kerak. Bu kalit faqat "
-"“logout_enable” kaliti TRUE (rost) bo'lgandagina ishlaydi. ESKIRGAN: Bu "
+"hech qanday soʻrovsiz shunchaki tizimdan chiqarishi kerak. Bu kalit faqat "
+"“logout_enable” kaliti TRUE (rost) boʻlgandagina ishlaydi. ESKIRGAN: Bu "
 "kalit endi ishlatilmaydi va e'tiborga olinmaydi."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:83
@@ -2796,19 +2807,19 @@ msgid ""
 "Set this to TRUE to offer an option in the unlock dialog to switch to a "
 "different user account."
 msgstr ""
-"Qulfni ochish oynasida boshqa foydalanuvchi hisobiga o'tish imkoniyatini "
-"berish uchun buni TRUE ga o'zgartiring."
+"Qulfni ochish oynasida boshqa foydalanuvchi hisobiga oʻtish imkoniyatini "
+"berish uchun buni TRUE ga oʻzgartiring."
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:88
 msgid "Allow the session status message to be displayed"
-msgstr "Seans holati xabarining ko'rsatilishiga ruxsat berish"
+msgstr "Seans holati xabarining koʻrsatilishiga ruxsat berish"
 
 #: schemas/org.gnome.desktop.screensaver.gschema.xml.in:89
 msgid ""
 "Allow the session status message to be displayed when the screen is locked. "
 "DEPRECATED: This key is deprecated and ignored."
 msgstr ""
-"Ekran qulflangan paytda seans holati haqidagi xabarning ko'rinishiga "
+"Ekran qulflangan paytda seans holati haqidagi xabarning koʻrinishiga "
 "imkoniyat berish. ESKIRGAN: Bu kalit endi ishlatilmaydi va e'tiborga "
 "olinmaydi."
 
@@ -2821,8 +2832,8 @@ msgid ""
 "Enable basic screen time functionality, recording usage data for viewing "
 "history."
 msgstr ""
-"Ekran foydalanish vaqti funksiyasining asosiy ishini faollashtirish, tarixni "
-"ko'rish uchun foydalanish ma'lumotlarini qayd etish."
+"Ekran foydalanish vaqti funksiyasining asosiy ishini faollashtirish, tarixni"
+" koʻrish uchun foydalanish ma'lumotlarini qayd etish."
 
 #: schemas/org.gnome.desktop.screen-time-limits.gschema.xml.in:17
 msgid "Enable daily screen time limit"
@@ -2834,7 +2845,7 @@ msgid ""
 "seconds."
 msgstr ""
 "Foydalanuvchiga kunlik-limit-soniyalarda belgilangan ekran vaqti limitini "
-"qo'llash."
+"qoʻllash."
 
 #: schemas/org.gnome.desktop.screen-time-limits.gschema.xml.in:23
 msgid "Daily screen time limit"
@@ -2842,82 +2853,84 @@ msgstr "Kunlik foydalanish vaqti limiti"
 
 #: schemas/org.gnome.desktop.screen-time-limits.gschema.xml.in:24
 msgid ""
-"The limit on the amount of daily screen time the user is allowed, in seconds."
+"The limit on the amount of daily screen time the user is allowed, in "
+"seconds."
 msgstr ""
-"Foydalanuvchi bir kun davomida ekran bilan o'tkazishi mumkin bo'lgan "
+"Foydalanuvchi bir kun davomida ekran bilan oʻtkazishi mumkin boʻlgan "
 "maksimal vaqt, soniyalarda."
 
 #: schemas/org.gnome.desktop.screen-time-limits.gschema.xml.in:30
 msgid "Grayscale once limit is reached"
-msgstr "Limitga yetganda kulrang rangga o'tish"
+msgstr "Limitga yetganda kulrang rangga oʻtish"
 
 #: schemas/org.gnome.desktop.screen-time-limits.gschema.xml.in:31
 msgid ""
 "Whether to make the screen grayscale once the user’s screen time limit is "
 "reached."
 msgstr ""
-"Foydalanuvchining ekran vaqti limiti tugagandan so'ng ekranni kulrang qilish "
-"kerakmi."
+"Foydalanuvchining ekran vaqti limiti tugagandan soʻng ekranni kulrang qilish"
+" kerakmi."
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:7
 msgid "Disable all external search providers"
-msgstr "Barcha tashqi qidiruv provayderlarini o'chirish"
+msgstr "Barcha tashqi qidiruv provayderlarini oʻchirish"
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:8
 msgid ""
-"Set to true to disable all external search provider programs, whether or not "
-"they are independently disabled or enabled. External search providers are "
+"Set to true to disable all external search provider programs, whether or not"
+" they are independently disabled or enabled. External search providers are "
 "installed by applications in $XDG_DATA_DIR/gnome-shell/search-providers."
 msgstr ""
 "Barcha tashqi qidiruv provayderi dasturlarini, ular mustaqil ravishda "
-"o'chirilgan yoki yoqilganligidan qat'i nazar, o'chirish uchun buni TRUE "
-"qilib o'rnating. Tashqi qidiruv provayderlari $XDG_DATA_DIR/gnome-shell/"
-"search-providers jildidagi ilovalar tomonidan o'rnatiladi."
+"oʻchirilgan yoki yoqilganligidan qat'i nazar, oʻchirish uchun buni TRUE "
+"qilib oʻrnating. Tashqi qidiruv provayderlari $XDG_DATA_DIR/gnome-"
+"shell/search-providers jildidagi ilovalar tomonidan oʻrnatiladi."
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:18
 msgid ""
 "List of desktop file IDs for which the associated default-enabled search "
 "provider should be disabled"
 msgstr ""
-"Standart ravishda yoqilgan va o'chirilishi lozim bo'lgan qidiruv xizmatiga "
-"ega desktop fayllarining ID'lari ro'yxati"
+"Standart ravishda yoqilgan va oʻchirilishi lozim boʻlgan qidiruv xizmatiga "
+"ega desktop fayllarining ID'lari roʻyxati"
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:22
 msgid ""
 "Results for applications contained in this list will not be displayed when "
 "searching."
 msgstr ""
-"Qidiruv vaqtida bu ro'yxatdagi ilovalar uchun natijalar ko'rsatilmaydi."
+"Qidiruv vaqtida bu roʻyxatdagi ilovalar uchun natijalar koʻrsatilmaydi."
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:30
 msgid ""
 "List of desktop file IDs for which the associated default-disabled search "
 "provider should be enabled"
 msgstr ""
-"Standart ravishda o'chirilgan va yoqilishi lozim bo'lgan qidiruv xizmatiga "
-"ega desktop fayllarining ID'lari ro'yxati"
+"Standart ravishda oʻchirilgan va yoqilishi lozim boʻlgan qidiruv xizmatiga "
+"ega desktop fayllarining ID'lari roʻyxati"
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:34
 msgid ""
 "Results for applications contained in this list will be displayed when "
 "searching."
-msgstr "Qidiruv vaqtida bu ro'yxatdagi dasturlar uchun natijalar ko'rsatiladi."
+msgstr ""
+"Qidiruv vaqtida bu roʻyxatdagi dasturlar uchun natijalar koʻrsatiladi."
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:42
 msgid "List of desktop file IDs for search providers sort order"
 msgstr ""
 "Qidiruv xizmatlarining saralash tartibi uchun desktop fayllarining ID'lari "
-"ro'yxati"
+"roʻyxati"
 
 #: schemas/org.gnome.desktop.search-providers.gschema.xml.in:43
 msgid ""
 "Results for applications contained in this list will be displayed in the "
-"specified order. Results for applications not specified in this list will be "
-"displayed last, sorted alphabetically."
+"specified order. Results for applications not specified in this list will be"
+" displayed last, sorted alphabetically."
 msgstr ""
-"Bu ro'yxatdagi ilovalar uchun natijalar ko'rsatilgan tartibda namoyish "
-"etiladi. Bu ro'yxatda ko'rsatilmagan ilovalar uchun natijalar oxirida, "
-"alifbo tartibida saralanib ko'rsatiladi."
+"Bu roʻyxatdagi ilovalar uchun natijalar koʻrsatilgan tartibda namoyish "
+"etiladi. Bu roʻyxatda koʻrsatilmagan ilovalar uchun natijalar oxirida, "
+"alifbo tartibida saralanib koʻrsatiladi."
 
 #: schemas/org.gnome.desktop.session.gschema.xml.in:6
 msgid "Time before session is considered idle"
@@ -2927,7 +2940,7 @@ msgstr "Sessiya harakatsiz deb hisoblanishidan oldingi muddat"
 msgid ""
 "The number of seconds of inactivity before the session is considered idle."
 msgstr ""
-"Sessiya harakatsiz deb hisoblangunga qadar o'tishi kerak bo'lgan soniyalari."
+"Sessiya harakatsiz deb hisoblangunga qadar oʻtishi kerak boʻlgan soniyalari."
 
 #: schemas/org.gnome.desktop.session.gschema.xml.in:11
 msgid "Session type"
@@ -2977,107 +2990,107 @@ msgid ""
 "cleaning."
 msgstr ""
 "Keshdagi thumbnail'larning maksimal saqlanish muddati, kunlarda. Tozalashni "
-"o'chirish uchun -1 ga o'rnating."
+"oʻchirish uchun -1 ga oʻrnating."
 
 #: schemas/org.gnome.desktop.thumbnail-cache.gschema.xml.in:10
 msgid ""
 "Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable "
 "cleaning."
 msgstr ""
-"Thumbnail'lar keshining maksimal hajmi, megabaytlarda. Tozalashni o'chirish "
-"uchun -1 ga o'rnating."
+"Thumbnail'lar keshining maksimal hajmi, megabaytlarda. Tozalashni oʻchirish "
+"uchun -1 ga oʻrnating."
 
 #: schemas/org.gnome.desktop.thumbnailers.gschema.xml.in:6
 msgid "Disable all external thumbnailers"
-msgstr "Barcha tashqi thumbnail'larni o'chirish"
+msgstr "Barcha tashqi thumbnail'larni oʻchirish"
 
 #: schemas/org.gnome.desktop.thumbnailers.gschema.xml.in:7
 msgid ""
 "Set to true to disable all external thumbnailer programs, independent on "
 "whether they are independently disabled/enabled."
 msgstr ""
-"Barcha tashqi thumbnailer dasturlarini, ular mustaqil ravishda o'chirilgan "
-"yoki yoqilganligidan qat'i nazar, o'chirish uchun buni TRUE qilib o'rnating."
+"Barcha tashqi thumbnailer dasturlarini, ular mustaqil ravishda oʻchirilgan "
+"yoki yoqilganligidan qat'i nazar, oʻchirish uchun buni TRUE qilib oʻrnating."
 
 #: schemas/org.gnome.desktop.thumbnailers.gschema.xml.in:15
 msgid ""
 "List of mime-types for which external thumbnailer programs will be disabled"
-msgstr "Tashqi thumbnailer dasturlari o'chiriladigan MIME-tiplar ro'yxati"
+msgstr "Tashqi thumbnailer dasturlari oʻchiriladigan MIME-tiplar roʻyxati"
 
 #: schemas/org.gnome.desktop.thumbnailers.gschema.xml.in:19
 msgid ""
-"Thumbnails will not be created for files whose mime-type is contained in the "
-"list."
+"Thumbnails will not be created for files whose mime-type is contained in the"
+" list."
 msgstr ""
-"Ro'yxatda MIME-tipi ko'rsatilgan fayllar uchun thumbnail'lar yaratilmaydi."
+"Roʻyxatda MIME-tipi koʻrsatilgan fayllar uchun thumbnail'lar yaratilmaydi."
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:8
 msgid "Switch to workspace 1"
-msgstr "1-ish maydoniga o'tish"
+msgstr "1-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:12
 msgid "Switch to workspace 2"
-msgstr "2-ish maydoniga o'tish"
+msgstr "2-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:16
 msgid "Switch to workspace 3"
-msgstr "3-ish maydoniga o'tish"
+msgstr "3-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:20
 msgid "Switch to workspace 4"
-msgstr "4-ish maydoniga o'tish"
+msgstr "4-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:24
 msgid "Switch to workspace 5"
-msgstr "5-ish maydoniga o'tish"
+msgstr "5-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:28
 msgid "Switch to workspace 6"
-msgstr "6-ish maydoniga o'tish"
+msgstr "6-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:32
 msgid "Switch to workspace 7"
-msgstr "7-ish maydoniga o'tish"
+msgstr "7-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:36
 msgid "Switch to workspace 8"
-msgstr "8-ish maydoniga o'tish"
+msgstr "8-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:40
 msgid "Switch to workspace 9"
-msgstr "9-ish maydoniga o'tish"
+msgstr "9-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:44
 msgid "Switch to workspace 10"
-msgstr "10-ish maydoniga o'tish"
+msgstr "10-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:48
 msgid "Switch to workspace 11"
-msgstr "11-ish maydoniga o'tish"
+msgstr "11-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:52
 msgid "Switch to workspace 12"
-msgstr "12-ish maydoniga o'tish"
+msgstr "12-ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:56
 msgid "Switch to workspace left"
-msgstr "Chap tarafdagi ish maydoniga o'tish"
+msgstr "Chap tarafdagi ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:60
 msgid "Switch to workspace right"
-msgstr "O'ng tarafdagi ish maydoniga o'tish"
+msgstr "Oʻng tarafdagi ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:64
 msgid "Switch to workspace above"
-msgstr "Yuqoridagi ish maydoniga o'tish"
+msgstr "Yuqoridagi ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:68
 msgid "Switch to workspace below"
-msgstr "Pastdagi ish maydoniga o'tish"
+msgstr "Pastdagi ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:72
 msgid "Switch to last workspace"
-msgstr "Oxirgi ish maydoniga o'tish"
+msgstr "Oxirgi ish maydoniga oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:76
 msgid "Switch windows of an application"
@@ -3113,19 +3126,19 @@ msgstr "Tizim boshqaruv elementlarini teskari tartibda almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:108
 msgid "Switch windows of an app directly"
-msgstr "Ilova oynalarini to'g'ridan-to'g'ri almashtirish"
+msgstr "Ilova oynalarini toʻgʻridan-toʻgʻri almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:112
 msgid "Reverse switch windows of an app directly"
-msgstr "Teskari yo'nalishda ilova oynalarini to'g'ridan-to'g'ri almashtirish"
+msgstr "Teskari yoʻnalishda ilova oynalarini toʻgʻridan-toʻgʻri almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:116
 msgid "Switch windows directly"
-msgstr "Oynalarni to'g'ridan-to'g'ri almashtirish"
+msgstr "Oynalarni toʻgʻridan-toʻgʻri almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:120
 msgid "Reverse switch windows directly"
-msgstr "Teskari tartibda oynalarni to'g'ridan-to'g'ri almashtirish"
+msgstr "Teskari tartibda oynalarni toʻgʻridan-toʻgʻri almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:124
 msgid "Switch system controls directly"
@@ -3141,7 +3154,7 @@ msgstr "Barcha normal oynalarni yashirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:136
 msgid "DEPRECATED: This key is deprecated and ignored."
-msgstr "QO'LLANILMAYDI: Bu kalit eskirgan va inkor qilingan."
+msgstr "QOʻLLANILMAYDI: Bu kalit eskirgan va inkor qilingan."
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:140
 msgid "Show the run command prompt"
@@ -3157,15 +3170,15 @@ msgstr "Oyna menyusini faollashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:152
 msgid "Toggle fullscreen mode"
-msgstr "Oynani to‘liq ekran rejimiga o‘tkazish yoki chiqarish"
+msgstr "Oynani toʻliq ekran rejimiga oʻtkazish yoki chiqarish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:156
 msgid "Toggle maximization state"
-msgstr "Oynaning maksimal holatini yoqish yoki o‘chirish"
+msgstr "Oynaning maksimal holatini yoqish yoki oʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:160
 msgid "Toggle window always appearing on top"
-msgstr "Oynani doimo yuqorida ko‘rinishini yoqish yoki o‘chirish"
+msgstr "Oynani doimo yuqorida koʻrinishini yoqish yoki oʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:164
 msgid "Maximize window"
@@ -3189,102 +3202,102 @@ msgstr "Oynani surish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:184
 msgid "Resize window"
-msgstr "Oyna o'lchamini o'zgartirish"
+msgstr "Oyna oʻlchamini oʻzgartirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:188
 msgid "Toggle window on all workspaces or one"
 msgstr ""
-"Oynani barcha ish maydonlarida ko‘rsatish yoki faqat bittasida ko‘rsatishga "
-"o‘tish"
+"Oynani barcha ish maydonlarida koʻrsatish yoki faqat bittasida koʻrsatishga "
+"oʻtish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:192
 msgid "Move window to workspace 1"
-msgstr "Oynani 1-ish maydoniga o'tkazish"
+msgstr "Oynani 1-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:196
 msgid "Move window to workspace 2"
-msgstr "Oynani 2-ish maydoniga o'tkazish"
+msgstr "Oynani 2-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:200
 msgid "Move window to workspace 3"
-msgstr "Oynani 3-ish maydoniga o'tkazish"
+msgstr "Oynani 3-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:204
 msgid "Move window to workspace 4"
-msgstr "Oynani 4-ish maydoniga o'tkazish"
+msgstr "Oynani 4-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:208
 msgid "Move window to workspace 5"
-msgstr "Oynani 5-ish maydoniga o'tkazish"
+msgstr "Oynani 5-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:212
 msgid "Move window to workspace 6"
-msgstr "Oynani 6-ish maydoniga o'tkazish"
+msgstr "Oynani 6-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:216
 msgid "Move window to workspace 7"
-msgstr "Oynani 7-ish maydoniga o'tkazish"
+msgstr "Oynani 7-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:220
 msgid "Move window to workspace 8"
-msgstr "Oynani 8-ish maydoniga o'tkazish"
+msgstr "Oynani 8-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:224
 msgid "Move window to workspace 9"
-msgstr "Oynani 9-ish maydoniga o'tkazish"
+msgstr "Oynani 9-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:228
 msgid "Move window to workspace 10"
-msgstr "Oynani 10-ish maydoniga o'tkazish"
+msgstr "Oynani 10-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:232
 msgid "Move window to workspace 11"
-msgstr "Oynani 11-ish maydoniga o'tkazish"
+msgstr "Oynani 11-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:236
 msgid "Move window to workspace 12"
-msgstr "Oynani 12-ish maydoniga o'tkazish"
+msgstr "Oynani 12-ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:240
 msgid "Move window to last workspace"
-msgstr "Oynani oxirgi ish maydoniga o'tkazish"
+msgstr "Oynani oxirgi ish maydoniga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:244
 msgid "Move window one workspace to the left"
-msgstr "Oynani bir ish maydoni chapga o'tkazish"
+msgstr "Oynani bir ish maydoni chapga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:248
 msgid "Move window one workspace to the right"
-msgstr "Oynani bir ish maydoni o'ngga o'tkazish"
+msgstr "Oynani bir ish maydoni oʻngga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:252
 msgid "Move window one workspace up"
-msgstr "Oynani bir ishchi maydon yuqoriga ko‘chirish"
+msgstr "Oynani bir ishchi maydon yuqoriga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:256
 msgid "Move window one workspace down"
-msgstr "Oynani bir ishchi maydon pastga ko‘chirish"
+msgstr "Oynani bir ishchi maydon pastga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:260
 msgid "Move window to the next monitor on the left"
-msgstr "Oynani chapdagi keyingi monitorga ko‘chirish"
+msgstr "Oynani chapdagi keyingi monitorga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:264
 msgid "Move window to the next monitor on the right"
-msgstr "Oynani o'ngdagi keyingi monitorga ko‘chirish"
+msgstr "Oynani oʻngdagi keyingi monitorga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:268
 msgid "Move window to the next monitor above"
-msgstr "Oynani tepadagi keyingi monitorga ko‘chirish"
+msgstr "Oynani tepadagi keyingi monitorga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:272
 msgid "Move window to the next monitor below"
-msgstr "Oynani pastdagi keyingi monitorga ko‘chirish"
+msgstr "Oynani pastdagi keyingi monitorga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:276
 msgid "Raise window if covered, otherwise lower it"
 msgstr ""
-"Agar oyna boshqa oynalar bilan yopilgan bo‘lsa oldinga olib chiqiladi, aks "
+"Agar oyna boshqa oynalar bilan yopilgan boʻlsa oldinga olib chiqiladi, aks "
 "holda orqaga suriladi"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:280
@@ -3293,51 +3306,51 @@ msgstr "Oynani boshqa barcha oynalarning ustiga olib chiqish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:284
 msgid "Lower window below other windows"
-msgstr "Oynani boshqa oynalar orqasiga o'tkazish"
+msgstr "Oynani boshqa oynalar orqasiga oʻtkazish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:288
 msgid "Maximize window vertically"
-msgstr "Oynani vertikal yo'nalishda to'liq ekran qilish"
+msgstr "Oynani vertikal yoʻnalishda toʻliq ekran qilish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:292
 msgid "Maximize window horizontally"
-msgstr "Oynani gorizontal yo'nalishda to'liq ekran qilish"
+msgstr "Oynani gorizontal yoʻnalishda toʻliq ekran qilish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:296
 msgid "Move window to top left corner"
-msgstr "Oynani yuqori chap burchakka ko'chirish"
+msgstr "Oynani yuqori chap burchakka koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:300
 msgid "Move window to top right corner"
-msgstr "Oynani yuqori o'ng burchakka ko'chirish"
+msgstr "Oynani yuqori oʻng burchakka koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:304
 msgid "Move window to bottom left corner"
-msgstr "Oynani pastki chap burchakka ko'chirish"
+msgstr "Oynani pastki chap burchakka koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:308
 msgid "Move window to bottom right corner"
-msgstr "Oynani pastki o'ng burchakka ko'chirish"
+msgstr "Oynani pastki oʻng burchakka koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:312
 msgid "Move window to top edge of screen"
-msgstr "Oynani ekranning yuqori chetiga ko'chirish"
+msgstr "Oynani ekranning yuqori chetiga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:316
 msgid "Move window to bottom edge of screen"
-msgstr "Oynani ekranning pastki chetiga ko'chirish"
+msgstr "Oynani ekranning pastki chetiga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:320
 msgid "Move window to right side of screen"
-msgstr "Oynani ekranning o'ng tarafiga ko'chirish"
+msgstr "Oynani ekranning oʻng tarafiga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:324
 msgid "Move window to left side of screen"
-msgstr "Oynani ekranning chap tarafiga ko'chirish"
+msgstr "Oynani ekranning chap tarafiga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:328
 msgid "Move window to center of screen"
-msgstr "Oynani ekranning markaziga ko'chirish"
+msgstr "Oynani ekranning markaziga koʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:332
 msgid "Switch input source"
@@ -3345,7 +3358,7 @@ msgstr "Kiritish manbaini almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:333
 msgid "Binding to select the next input source"
-msgstr "Keyingi kirish manbasini tanlash uchun bog'lash"
+msgstr "Keyingi kirish manbasini tanlash uchun bogʻlash"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:337
 msgid "Switch input source backward"
@@ -3353,22 +3366,22 @@ msgstr "Kiritish manbasini orqaga almashtirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:338
 msgid "Binding to select the previous input source"
-msgstr "Avvalgi kirish manbasini tanlash uchun bog'lash"
+msgstr "Avvalgi kirish manbasini tanlash uchun bogʻlash"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:342
 msgid "Toggle window to be always on top"
-msgstr "Derazani doimo eng yuqorida qilishni yoqish/o‘chirish"
+msgstr "Derazani doimo eng yuqorida qilishni yoqish/oʻchirish"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:343
 msgid "Set or unset window to appear always on top"
 msgstr ""
-"Derazani doimo eng yuqorida ko‘rinadigan qilib sozlash yoki sozlamani bekor "
+"Derazani doimo eng yuqorida koʻrinadigan qilib sozlash yoki sozlamani bekor "
 "qilish"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:8
 msgid "Modifier to use for modified window click actions"
 msgstr ""
-"O'zgartirilgan deraza ustida bosish amallari uchun ishlatiladigan modifier"
+"Oʻzgartirilgan deraza ustida bosish amallari uchun ishlatiladigan modifier"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:9
 msgid ""
@@ -3379,16 +3392,17 @@ msgid ""
 "“<Super>” for example."
 msgstr ""
 "Agar ushbu modifikator tugmasi bosib turilgan holatda oyna sichqonchaning "
-"chap tugmasi bilan bosilsa, oyna siljiydi, o'rta tugma bilan bosilsa, "
-"o'lchami o'zgaradi, o'ng tugma bilan bosilsa esa oyna menyusi ochiladi. "
-"O'rta va o'ng tugmalarning bu harakatlari “resize-with-right-button” "
-"sozlamasi orqali o'zgartirilishi mumkin. Modifikator tugmasi “<Alt>” yoki "
-"“<Super>” kabi ko'rsatiladi."
+"chap tugmasi bilan bosilsa, oyna siljiydi, oʻrta tugma bilan bosilsa, "
+"oʻlchami oʻzgaradi, oʻng tugma bilan bosilsa esa oyna menyusi ochiladi. "
+"Oʻrta va oʻng tugmalarning bu harakatlari “resize-with-right-button” "
+"sozlamasi orqali oʻzgartirilishi mumkin. Modifikator tugmasi “<Alt>” yoki "
+"“<Super>” kabi koʻrsatiladi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:19
 msgid "Whether to resize with the right button"
 msgstr ""
-"O'ng tugmani bosib turib oynaning o'lchamini o'zgartirishga ruxsat berilsinmi"
+"Oʻng tugmani bosib turib oynaning oʻlchamini oʻzgartirishga ruxsat "
+"berilsinmi"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:20
 msgid ""
@@ -3396,10 +3410,10 @@ msgid ""
 "middle button while holding down the key given in “mouse-button-modifier”; "
 "set it to false to make it work the opposite way around."
 msgstr ""
-"Agar “mouse-button-modifier” sozlamasida belgilangan tugma bosib turilganida "
-"o'ng tugma orqali oynaning o'lchamini o'zgartirish va o'rta tugma orqali "
-"menyuni ochishni xohlasangiz, bu sozlamani \"true\" ga o'rnating; agar "
-"aksincha bo'lishini istasangiz (\"false\" ga o'rnating)."
+"Agar “mouse-button-modifier” sozlamasida belgilangan tugma bosib turilganida"
+" oʻng tugma orqali oynaning oʻlchamini oʻzgartirish va oʻrta tugma orqali "
+"menyuni ochishni xohlasangiz, bu sozlamani \"true\" ga oʻrnating; agar "
+"aksincha boʻlishini istasangiz (\"false\" ga oʻrnating)."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:29
 msgid "Arrangement of buttons on the titlebar"
@@ -3415,13 +3429,13 @@ msgid ""
 "without breaking older versions. A special spacer tag can be used to insert "
 "some space between two adjacent buttons."
 msgstr ""
-"Sarlavha satridagi tugmalarning joylashuvi. Qiymat satr bo'lishi kerak, "
+"Sarlavha satridagi tugmalarning joylashuvi. Qiymat satr boʻlishi kerak, "
 "masalan, “menu:minimize,maximize,spacer,close”; ikki nuqta oynaning chap "
-"burchagini o'ng burchagidan ajratadi, tugma nomlari esa vergul bilan "
+"burchagini oʻng burchagidan ajratadi, tugma nomlari esa vergul bilan "
 "ajratiladi. Takroriy tugmalarga ruxsat etilmaydi. Noma'lum tugma nomlari "
 "e'tiborsiz qoldiriladi, shunda kelajakdagi metacity versiyalarida tugmalar "
-"qo'shilganda eski versiyalar buzilmaydi. Ikki qo'shni tugma orasiga bo'sh "
-"joy qo'shish uchun maxsus spacer tegidan foydalanish mumkin."
+"qoʻshilganda eski versiyalar buzilmaydi. Ikki qoʻshni tugma orasiga boʻsh "
+"joy qoʻshish uchun maxsus spacer tegidan foydalanish mumkin."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:43
 msgid "Window focus mode"
@@ -3435,16 +3449,16 @@ msgid ""
 "and “mouse” means windows are focused when the mouse enters the window and "
 "unfocused when the mouse leaves the window."
 msgstr ""
-"Oyna fokuslash rejimi oynalar qanday aktivlashtirilishini ko'rsatadi. Uning "
-"uchta mumkin bo'lgan qiymati bor; “click” (bosish) oynalarni fokuslash uchun "
-"ularni bosish kerakligini anglatadi, “sloppy” (ehtiyotsiz) sichqoncha oyna "
+"Oyna fokuslash rejimi oynalar qanday aktivlashtirilishini koʻrsatadi. Uning "
+"uchta mumkin boʻlgan qiymati bor; “click” (bosish) oynalarni fokuslash uchun"
+" ularni bosish kerakligini anglatadi, “sloppy” (ehtiyotsiz) sichqoncha oyna "
 "ichiga kirganda oynalar fokuslanishini anglatadi, va “mouse” (sichqoncha) "
 "sichqoncha oyna ichiga kirganda oynalar fokuslanishini va sichqoncha oyna "
-"tashqarisiga chiqqanda fokusni yo'qotishini anglatadi."
+"tashqarisiga chiqqanda fokusni yoʻqotishini anglatadi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:55
 msgid "Control how new windows get focus"
-msgstr "Yangi oynalarning aktiv holatga o'tishini boshqarish"
+msgstr "Yangi oynalarning aktiv holatga oʻtishini boshqarish"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:56
 msgid ""
@@ -3456,11 +3470,11 @@ msgstr ""
 "Bu sozlama yangi ochilgan oynalar qanday qilib diqqat markaziga tushishini "
 "yanada yaxshiroq sozlash imkonini beradi. Ikki xil qiymat mavjud: “smart” "
 "(aqlli) foydalanuvchining standart fokuslash usulini ishlatadi, “strict” "
-"(qat'iy) esa yangi oynalarning o'z-o'zidan aktivlashishiga yo'l qo'ymaydi."
+"(qat'iy) esa yangi oynalarning oʻz-oʻzidan aktivlashishiga yoʻl qoʻymaydi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:65
 msgid "Whether windows should be raised when their client area is clicked"
-msgstr "Oynaning mijoz sohasi bosilganda oyna ustki qatlamga ko'tarilsinmi"
+msgstr "Oynaning mijoz sohasi bosilganda oyna ustki qatlamga koʻtarilsinmi"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:68
 msgid ""
@@ -3471,10 +3485,11 @@ msgid ""
 "the window. This mode is useful if one uses many overlapping windows."
 msgstr ""
 "Standart qiymat — true, bu oynaga (ichki qismiga yoki ramkasiga) bosilganda "
-"u yuqoriga ko‘tarilishini anglatadi. Agar false qilib qo‘yilsa, oyna faqat "
-"ramkaga bosilgandagina yuqoriga ko‘tariladi. Ichki qismga oddiy bosish bilan "
-"esa ko‘tarilmaydi. Biroq istalgan joyga Super tugmasi bilan bosilsa, baribir "
-"ko‘tariladi. Bu usul bir nechta ustma-ust derazalar bilan ishlaganda qulay."
+"u yuqoriga koʻtarilishini anglatadi. Agar false qilib qoʻyilsa, oyna faqat "
+"ramkaga bosilgandagina yuqoriga koʻtariladi. Ichki qismga oddiy bosish bilan"
+" esa koʻtarilmaydi. Biroq istalgan joyga Super tugmasi bilan bosilsa, "
+"baribir koʻtariladi. Bu usul bir nechta ustma-ust derazalar bilan ishlaganda"
+" qulay."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:82
 msgid "Action on title bar double-click"
@@ -3485,62 +3500,62 @@ msgid ""
 "This option determines the effects of double-clicking on the title bar. "
 "Current valid options are “toggle-maximize” which will maximize/unmaximize "
 "the window, “toggle-maximize-horizontally” and “toggle-maximize-vertically” "
-"which will maximize/unmaximize the window in that direction only, “minimize” "
-"which will minimize the window, “menu” which will display the window menu, "
+"which will maximize/unmaximize the window in that direction only, “minimize”"
+" which will minimize the window, “menu” which will display the window menu, "
 "“lower” which will put the window behind all the others, and “none” which "
 "will not do anything."
 msgstr ""
 "Bu parametr sarlavha satrini ikki marta bosishning ta'sirini belgilaydi. "
 "Hozirgi yaroqli variantlar: oynani maksimalallashtirish/tiklash uchun "
-"“toggle-maximize”, oynani faqat shu yo'nalishda maksimalallashtirish/tiklash "
-"uchun “toggle-maximize-horizontally” va “toggle-maximize-vertically”, oynani "
-"minimallashtirish uchun “minimize”, oyna menyusini ko'rsatish uchun “menu”, "
-"oynani boshqa barcha oynalar orqasiga qo'yish uchun “lower” va hech narsa "
-"qilmaslik uchun “none”."
+"“toggle-maximize”, oynani faqat shu yoʻnalishda maksimalallashtirish/tiklash"
+" uchun “toggle-maximize-horizontally” va “toggle-maximize-vertically”, "
+"oynani minimallashtirish uchun “minimize”, oyna menyusini koʻrsatish uchun "
+"“menu”, oynani boshqa barcha oynalar orqasiga qoʻyish uchun “lower” va hech "
+"narsa qilmaslik uchun “none”."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:105
 msgid "Action on title bar middle-click"
-msgstr "Sarlavha panelini o'rta tugma bilan bosganda bajariladigan amal"
+msgstr "Sarlavha panelini oʻrta tugma bilan bosganda bajariladigan amal"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:106
 msgid ""
 "This option determines the effects of middle-clicking on the title bar. "
 "Current valid options are “toggle-maximize” which will maximize/unmaximize "
 "the window, “toggle-maximize-horizontally” and “toggle-maximize-vertically” "
-"which will maximize/unmaximize the window in that direction only, “minimize” "
-"which will minimize the window, “menu” which will display the window menu, "
+"which will maximize/unmaximize the window in that direction only, “minimize”"
+" which will minimize the window, “menu” which will display the window menu, "
 "“lower” which will put the window behind all the others, and “none” which "
 "will not do anything."
 msgstr ""
-"Bu parametr sarlavha satrini o'rta tugma bilan bosishning ta'sirini "
+"Bu parametr sarlavha satrini oʻrta tugma bilan bosishning ta'sirini "
 "belgilaydi. Hozirgi yaroqli variantlar: oynani maksimalallashtirish/tiklash "
-"uchun “toggle-maximize”, oynani faqat shu yo'nalishda maksimalallashtirish/"
-"tiklash uchun “toggle-maximize-horizontally” va “toggle-maximize-"
-"vertically”, oynani minimallashtirish uchun “minimize”, oyna menyusini "
-"ko'rsatish uchun “menu”, oynani boshqa barcha oynalar orqasiga qo'yish uchun "
-"“lower” va hech narsa qilmaslik uchun “none”."
+"uchun “toggle-maximize”, oynani faqat shu yoʻnalishda "
+"maksimalallashtirish/tiklash uchun “toggle-maximize-horizontally” va "
+"“toggle-maximize-vertically”, oynani minimallashtirish uchun “minimize”, "
+"oyna menyusini koʻrsatish uchun “menu”, oynani boshqa barcha oynalar "
+"orqasiga qoʻyish uchun “lower” va hech narsa qilmaslik uchun “none”."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:129
 msgid "Action on title bar right-click"
-msgstr "Sarlavha panelini o'rta tugma bilan bosganda bajariladigan amal"
+msgstr "Sarlavha panelini oʻrta tugma bilan bosganda bajariladigan amal"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:130
 msgid ""
 "This option determines the effects of right-clicking on the title bar. "
 "Current valid options are “toggle-maximize” which will maximize/unmaximize "
 "the window, “toggle-maximize-horizontally” and “toggle-maximize-vertically” "
-"which will maximize/unmaximize the window in that direction only, “minimize” "
-"which will minimize the window, “menu” which will display the window menu, "
+"which will maximize/unmaximize the window in that direction only, “minimize”"
+" which will minimize the window, “menu” which will display the window menu, "
 "“lower” which will put the window behind all the others, and “none” which "
 "will not do anything."
 msgstr ""
-"Bu parametr sarlavha satrini o'ng tugma bilan bosishning ta'sirini "
+"Bu parametr sarlavha satrini oʻng tugma bilan bosishning ta'sirini "
 "belgilaydi. Hozirgi yaroqli variantlar: oynani maksimalallashtirish/tiklash "
-"uchun “toggle-maximize”, oynani faqat shu yo'nalishda maksimalallashtirish/"
-"tiklash uchun “toggle-maximize-horizontally” va “toggle-maximize-"
-"vertically”, oynani minimallashtirish uchun “minimize”, oyna menyusini "
-"ko'rsatish uchun “menu”, oynani boshqa barcha oynalar orqasiga qo'yish uchun "
-"“lower” va hech narsa qilmaslik uchun “none”."
+"uchun “toggle-maximize”, oynani faqat shu yoʻnalishda "
+"maksimalallashtirish/tiklash uchun “toggle-maximize-horizontally” va "
+"“toggle-maximize-vertically”, oynani minimallashtirish uchun “minimize”, "
+"oyna menyusini koʻrsatish uchun “menu”, oynani boshqa barcha oynalar "
+"orqasiga qoʻyish uchun “lower” va hech narsa qilmaslik uchun “none”."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:152
 msgid "Automatically raises the focused window"
@@ -3553,16 +3568,16 @@ msgid ""
 "auto-raise-delay key. This is not related to clicking on a window to raise "
 "it, nor to entering a window during drag-and-drop."
 msgstr ""
-"Agar bu sozlama \"true\" ga o'rnatilgan bo'lsa va fokuslash usuli \"sloppy\" "
-"yoki \"mouse\" bo'lardan biri bo'lsa, diqqat markazidagi oyna \"auto-raise-"
-"delay\" sozlamasida ko'rsatilgan vaqtdan keyin o'z-o'zidan oldinga chiqadi. "
-"Bu oynani bosib ko'tarish yoki sudrab olib o'tish jarayonida oynaga kirish "
-"bilan bog'liq emas."
+"Agar bu sozlama \"true\" ga oʻrnatilgan boʻlsa va fokuslash usuli \"sloppy\""
+" yoki \"mouse\" boʻlardan biri boʻlsa, diqqat markazidagi oyna \"auto-raise-"
+"delay\" sozlamasida koʻrsatilgan vaqtdan keyin oʻz-oʻzidan oldinga chiqadi. "
+"Bu oynani bosib koʻtarish yoki sudrab olib oʻtish jarayonida oynaga kirish "
+"bilan bogʻliq emas."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:163
 msgid "Delay in milliseconds for the auto raise option"
 msgstr ""
-"Avtimatik oldinga chiqarish opsiyasi uchun millisekundlardagi vaqt oralig'i"
+"Avtimatik oldinga chiqarish opsiyasi uchun millisekundlardagi vaqt oraligʻi"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:164
 msgid ""
@@ -3570,8 +3585,8 @@ msgid ""
 "delay is given in thousandths of a second."
 msgstr ""
 "Agar avtomatik ravishda oldinga chiqarish (auto-raise) funksiyasi yoqilgan "
-"bo'lsa, oynani ko'tarishdan oldingi vaqt oralig'i. Bu vaqt soniyaning "
-"mingdan bir qismlarida ko'rsatiladi."
+"boʻlsa, oynani koʻtarishdan oldingi vaqt oraligʻi. Bu vaqt soniyaning "
+"mingdan bir qismlarida koʻrsatiladi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:171
 msgid "Current theme"
@@ -3582,7 +3597,7 @@ msgid ""
 "The theme determines the appearance of window borders, titlebar, and so "
 "forth. DEPRECATED: This key is deprecated and ignored."
 msgstr ""
-"Mavzu oyna chegaralari, sarlavha satri va boshqalarning ko'rinishini "
+"Mavzu oyna chegaralari, sarlavha satri va boshqalarning koʻrinishini "
 "belgilaydi. ESKIRGAN: Bu kalit eskirgan va e'tiborga olinmaydi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:181
@@ -3594,7 +3609,7 @@ msgid ""
 "If true, ignore the titlebar-font option, and use the standard application "
 "font for window titles."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, \"titlebar-font\" sozlamasiga ahamiyat "
+"Agar bu sozlama yoqilgan boʻlsa, \"titlebar-font\" sozlamasiga ahamiyat "
 "bermasdan va oyna nomlari uchun standart dastur shriftini ishlating."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:189
@@ -3610,8 +3625,8 @@ msgid ""
 msgstr ""
 "Oyna sarlavhalari uchun shriftni belgilovchi shrift ta'rifi matni. "
 "Ta'rifdagi shrift hajmi faqat \"titlebar-font-size\" sozlamasi 0 ga teng "
-"bo'lganda qo'llaniladi. Bundan tashqari, agar \"titlebar-uses-desktop-font\" "
-"sozlamasi yoqilgan bo'lsa, bu sozlama ishlamaydi."
+"boʻlganda qoʻllaniladi. Bundan tashqari, agar \"titlebar-uses-desktop-font\""
+" sozlamasi yoqilgan boʻlsa, bu sozlama ishlamaydi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:200
 msgid "Number of workspaces"
@@ -3623,8 +3638,8 @@ msgid ""
 "prevent making the desktop unusable by accidentally asking for too many "
 "workspaces."
 msgstr ""
-"Ish maydonlari soni. U noldan katta bo'lishi shart va tasodifan juda ko'p "
-"ish maydoni so'rab, ish stolini buzib qo'ymaslik uchun qat'iy maksimal "
+"Ish maydonlari soni. U noldan katta boʻlishi shart va tasodifan juda koʻp "
+"ish maydoni soʻrab, ish stolini buzib qoʻymaslik uchun qat'iy maksimal "
 "miqdori belgilangan."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:209
@@ -3638,7 +3653,7 @@ msgid ""
 msgstr ""
 "Dasturlar yoki operatsion tizim eshitiladigan \"signal\" tovushlarini "
 "chiqarishiga ruxsat berish yoki bermaslikni aniqlaydi; ovozsiz "
-"\"signal\"larni yaratish uchun \"vizual qo'ng'iroq\" bilan birga "
+"\"signal\"larni yaratish uchun \"vizual qoʻngʻiroq\" bilan birga "
 "ishlatilishi mumkin."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:218
@@ -3651,8 +3666,8 @@ msgid ""
 "“bell” or “beep”; useful for the hard-of-hearing and for use in noisy "
 "environments."
 msgstr ""
-"Ilova yoki tizim \"qo'ng'iroq\" yoki \"beep\" signalini berganda vizual "
-"ko'rsatkichni yoqadi; bu eshitishida muammo bo‘lgan foydalanuvchilar yoki "
+"Ilova yoki tizim \"qoʻngʻiroq\" yoki \"beep\" signalini berganda vizual "
+"koʻrsatkichni yoqadi; bu eshitishida muammo boʻlgan foydalanuvchilar yoki "
 "shovqinli muhitda ishlayotganlar uchun foydali."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:228
@@ -3669,18 +3684,18 @@ msgid ""
 "unknown (as is usually the case for the default “system beep”), the "
 "currently focused window’s titlebar is flashed."
 msgstr ""
-"WM (Window Manager) ga tizim signal ovozi yoki boshqa dastur signal berganda "
-"ekranda qanday ko‘rinish ko‘rsatishni belgilaydi. Hozirda ikkita amal "
+"WM (Window Manager) ga tizim signal ovozi yoki boshqa dastur signal berganda"
+" ekranda qanday koʻrinish koʻrsatishni belgilaydi. Hozirda ikkita amal "
 "qiluvchi qiymat mavjud: “fullscreen-flash” — butun ekran oq-qora "
 "miltillaydi, va “frame-flash” — signal yuborgan dastur oynasining sarlavha "
-"paneli miltillaydi. Agar signal yuborgan dastur noma’lum bo‘lsa (odatda bu "
-"“tizim signal”ida shunday bo‘ladi), hozir faol oynaning sarlavha paneli "
+"paneli miltillaydi. Agar signal yuborgan dastur noma’lum boʻlsa (odatda bu "
+"“tizim signal”ida shunday boʻladi), hozir faol oynaning sarlavha paneli "
 "miltillaydi."
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:250
 msgid "Disable misfeatures that are required by old or broken applications"
 msgstr ""
-"Eski yoki buzilgan dasturlar talab qiladigan nosoz funksiyalarni o‘chirish"
+"Eski yoki buzilgan dasturlar talab qiladigan nosoz funksiyalarni oʻchirish"
 
 #: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:253
 msgid ""
@@ -3691,7 +3706,7 @@ msgid ""
 msgstr ""
 "Ayrim dasturlar belgilangan qoidalarga rioya qilmasligi natijasida oyna "
 "boshqaruvchisida muammolar kelib chiqishi mumkin. Bu sozlama oyna "
-"boshqaruvchini qat'iy to'g'ri ishlash rejimiga o'rnatadi, bu esa noto'g'ri "
+"boshqaruvchini qat'iy toʻgʻri ishlash rejimiga oʻrnatadi, bu esa notoʻgʻri "
 "ishlaydigan dasturlarni ishlatmasangiz, yanada bir xil va tushunarli "
 "interfeysni yaratadi."
 
@@ -3706,10 +3721,10 @@ msgid ""
 "If the list is too short, or includes empty names, missing values will be "
 "replaced with the default (“Workspace N”)."
 msgstr ""
-"Ish maydonlariga berilishi kerak bo‘lgan nomlarni belgilaydi. Agar ro‘yxat "
-"hozirgi ish maydonlari soni uchun juda uzun bo‘lsa, ortiqcha nomlar "
-"e’tiborga olinmaydi. Agar ro‘yxat juda qisqa bo‘lsa yoki bo‘sh nomlarni o‘z "
-"ichiga olsa, yo‘q nomlar standart nomlar bilan almashtiriladi (“Workspace "
+"Ish maydonlariga berilishi kerak boʻlgan nomlarni belgilaydi. Agar roʻyxat "
+"hozirgi ish maydonlari soni uchun juda uzun boʻlsa, ortiqcha nomlar "
+"e’tiborga olinmaydi. Agar roʻyxat juda qisqa boʻlsa yoki boʻsh nomlarni oʻz "
+"ichiga olsa, yoʻq nomlar standart nomlar bilan almashtiriladi (“Workspace "
 "N”)."
 
 #: schemas/org.gnome.system.locale.gschema.xml.in:6
@@ -3721,7 +3736,7 @@ msgid ""
 "Specify the locale to be used for displaying dates, times and numbers "
 "formats."
 msgstr ""
-"Sanalar, vaqtlar va raqamlar formatlarini ko‘rsatish uchun ishlatiladigan "
+"Sanalar, vaqtlar va raqamlar formatlarini koʻrsatish uchun ishlatiladigan "
 "mintaqani belgilash."
 
 #: schemas/org.gnome.system.location.gschema.xml.in:7
@@ -3731,7 +3746,7 @@ msgstr "Geolokatsiya xizmati yoqilgan."
 #: schemas/org.gnome.system.location.gschema.xml.in:8
 msgid "If true, applications are allowed to access location information."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, dasturlarga joylashuv haqidagi "
+"Agar bu sozlama yoqilgan boʻlsa, dasturlarga joylashuv haqidagi "
 "ma'lumotlardan foydalanishga ruxsat beriladi."
 
 #: schemas/org.gnome.system.location.gschema.xml.in:14
@@ -3747,12 +3762,12 @@ msgid ""
 "user’s location on their own using network resources (albeit with street-"
 "level accuracy at best)."
 msgstr ""
-"Ilovalarga ko'rishga ruxsat etilgan joylashuv aniqligining maksimal "
-"darajasini sozlaydi. Mumkin bo'lgan qiymatlar: “mamlakat”, “shahar”, "
-"“mahalla”, “ko'cha” va “aniq” (odatda GPS qabul qiluvchini talab qiladi). "
-"Shuni yodda tutingki, bu faqat GeoClue ilovalarga ko'rishga ruxsat beradigan "
-"darajani nazorat qiladi, ular esa tarmoq resurslaridan foydalanib (eng "
-"yaxshi holatda ko'cha darajasidagi aniqlik bilan bo'lsa ham) foydalanuvchi "
+"Ilovalarga koʻrishga ruxsat etilgan joylashuv aniqligining maksimal "
+"darajasini sozlaydi. Mumkin boʻlgan qiymatlar: “mamlakat”, “shahar”, "
+"“mahalla”, “koʻcha” va “aniq” (odatda GPS qabul qiluvchini talab qiladi). "
+"Shuni yodda tutingki, bu faqat GeoClue ilovalarga koʻrishga ruxsat beradigan"
+" darajani nazorat qiladi, ular esa tarmoq resurslaridan foydalanib (eng "
+"yaxshi holatda koʻcha darajasidagi aniqlik bilan boʻlsa ham) foydalanuvchi "
 "joylashuvini mustaqil ravishda aniqlashlari mumkin."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:10
@@ -3764,26 +3779,26 @@ msgid ""
 "Select the proxy configuration mode. Supported values are “none”, “manual”, "
 "“auto”. If this is “none”, then proxies are not used. If it is “auto”, the "
 "autoconfiguration URL described by the “autoconfig-url” key is used. If it "
-"is “manual”, then the proxies described by “/system/proxy/http”, “/system/"
-"proxy/https”, “/system/proxy/ftp” and “/system/proxy/socks” will be used. "
-"Each of the 4 proxy types is enabled if its “host” key is non-empty and its "
-"“port” key is non-0. If an http proxy is configured, but an https proxy is "
-"not, then the http proxy is also used for https. If a SOCKS proxy is "
-"configured, it is used for all protocols, except that the http, https, and "
-"ftp proxy settings override it for those protocols only."
+"is “manual”, then the proxies described by “/system/proxy/http”, "
+"“/system/proxy/https”, “/system/proxy/ftp” and “/system/proxy/socks” will be"
+" used. Each of the 4 proxy types is enabled if its “host” key is non-empty "
+"and its “port” key is non-0. If an http proxy is configured, but an https "
+"proxy is not, then the http proxy is also used for https. If a SOCKS proxy "
+"is configured, it is used for all protocols, except that the http, https, "
+"and ftp proxy settings override it for those protocols only."
 msgstr ""
-"Proksi sozlamalari rejimini tanlang. Qo‘llab-quvvatlanadigan qiymatlar: "
-"“yo‘q”, “qo‘lda”, “avtomatik”. Agar “yo‘q” tanlansa, proksilar "
+"Proksi sozlamalari rejimini tanlang. Qoʻllab-quvvatlanadigan qiymatlar: "
+"“yoʻq”, “qoʻlda”, “avtomatik”. Agar “yoʻq” tanlansa, proksilar "
 "ishlatilmaydi. Agar “avtomatik” tanlansa, “autoconfig-url” kalitida "
-"ko‘rsatilgan URL orqali barcha protokollar uchun proksi ma’lumotlari "
-"olinadi. Agar “qo‘lda” tanlansa, unda “/system/proxy/http”, “/system/proxy/"
-"https”, “/system/proxy/ftp” va “/system/proxy/socks” orqali belgilanadigan "
-"proksilar ishlatiladi. Har bir proksi turi faollashadi, agar uning “host” "
-"kaliti bo‘sh bo‘lmasa va “port” kaliti 0 dan farqli bo‘lsa. Agar http proksi "
-"mavjud bo‘lib, https proksi belgilanmagan bo‘lsa, https uchun ham http "
-"proksi ishlatiladi. Agar SOCKS proksi belgilanayotgan bo‘lsa, u barcha "
-"protokollar uchun ishlatiladi, biroq http, https va ftp uchun alohida proksi "
-"sozlamalari mavjud bo‘lsa, ular ustun bo‘ladi."
+"koʻrsatilgan URL orqali barcha protokollar uchun proksi ma’lumotlari "
+"olinadi. Agar “qoʻlda” tanlansa, unda “/system/proxy/http”, "
+"“/system/proxy/https”, “/system/proxy/ftp” va “/system/proxy/socks” orqali "
+"belgilanadigan proksilar ishlatiladi. Har bir proksi turi faollashadi, agar "
+"uning “host” kaliti boʻsh boʻlmasa va “port” kaliti 0 dan farqli boʻlsa. "
+"Agar http proksi mavjud boʻlib, https proksi belgilanmagan boʻlsa, https "
+"uchun ham http proksi ishlatiladi. Agar SOCKS proksi belgilanayotgan boʻlsa,"
+" u barcha protokollar uchun ishlatiladi, biroq http, https va ftp uchun "
+"alohida proksi sozlamalari mavjud boʻlsa, ular ustun boʻladi."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:36
 msgid "Automatic proxy configuration URL"
@@ -3799,20 +3814,20 @@ msgstr ""
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:45
 msgid "Non-proxy hosts"
-msgstr "Proksi orqali o'tmaydigan hostlar"
+msgstr "Proksi orqali oʻtmaydigan hostlar"
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:46
 msgid ""
 "This key contains a list of hosts which are connected to directly, rather "
 "than via the proxy (if it is active). The values can be hostnames, domains "
-"(using an initial wildcard like *.foo.com), IP host addresses (both IPv4 and "
-"IPv6) and network addresses with a netmask (something like 192.168.0.0/24)."
+"(using an initial wildcard like *.foo.com), IP host addresses (both IPv4 and"
+" IPv6) and network addresses with a netmask (something like 192.168.0.0/24)."
 msgstr ""
-"Bu sozlama, agar proksi ishlayotgan bo'lsa ham, unga emas, balki bevosita "
-"ulanadigan qurilmalar ro'yxatini saqlaydi. Bu ro'yxatdagi elementlar host "
-"nomlari, domenlar (masalan, *.foo.com), IP manzillar (ham IPv4, ham IPv6) va "
-"netmask bilan tarmoq manzillari (masalan, 192.168.0.0/24) ko'rinishida "
-"bo'lishi mumkin."
+"Bu sozlama, agar proksi ishlayotgan boʻlsa ham, unga emas, balki bevosita "
+"ulanadigan qurilmalar roʻyxatini saqlaydi. Bu roʻyxatdagi elementlar host "
+"nomlari, domenlar (masalan, *.foo.com), IP manzillar (ham IPv4, ham IPv6) va"
+" netmask bilan tarmoq manzillari (masalan, 192.168.0.0/24) koʻrinishida "
+"boʻlishi mumkin."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:56
 msgid "Use HTTP proxy for all protocols"
@@ -3820,7 +3835,7 @@ msgstr "HTTP proksini barcha protocollar uchun foydalanish"
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:57
 msgid "Whether to use the HTTP proxy for all protocols or not."
-msgstr "Barcha protokollar uchun HTTP proksidan foydalanilsinmi yoki yo‘qmi."
+msgstr "Barcha protokollar uchun HTTP proksidan foydalanilsinmi yoki yoʻqmi."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:65
 msgid "Unused; ignore"
@@ -3831,8 +3846,8 @@ msgid ""
 "This key is not used; HTTP proxying is enabled when the host key is non-"
 "empty and the port is non-0."
 msgstr ""
-"Bu sozlama qo'llanilmaydi; HTTP proksisi, agar xost nomi ko'rsatilgan bo'lsa "
-"va port raqami noldan katta bo'lsa, faollashadi."
+"Bu sozlama qoʻllanilmaydi; HTTP proksisi, agar xost nomi koʻrsatilgan boʻlsa"
+" va port raqami noldan katta boʻlsa, faollashadi."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:73
 msgid "HTTP proxy host name"
@@ -3862,16 +3877,16 @@ msgstr "Proksi server ulanishlarini autentifikatsiya qilish"
 msgid ""
 "If true, then connections to the proxy server require authentication. The "
 "username/password combo is defined by “/system/proxy/http/authentication-"
-"user” and “/system/proxy/http/authentication-password”. This applies only to "
-"the http proxy; when using a separate https proxy, there is currently no way "
-"to specify that it should use authentication."
+"user” and “/system/proxy/http/authentication-password”. This applies only to"
+" the http proxy; when using a separate https proxy, there is currently no "
+"way to specify that it should use authentication."
 msgstr ""
-"Agar bu sozlama yoqilgan bo'lsa, proksi serverga ulanish uchun "
-"autentifikatsiya zarur bo'ladi. Foydalanuvchi ismi va paroli (“/system/proxy/"
-"http/authentication-user” va “/system/proxy/http/authentication-password” "
-"sozlamalarida ko'rsatiladi). Bu faqat HTTP proksi uchun amal qiladi; agar "
-"alohida HTTPS proksi ishlatilsa, hozircha unga autentifikatsiya kerakligini "
-"ko'rsatishning usuli mavjud emas."
+"Agar bu sozlama yoqilgan boʻlsa, proksi serverga ulanish uchun "
+"autentifikatsiya zarur boʻladi. Foydalanuvchi ismi va paroli "
+"(“/system/proxy/http/authentication-user” va "
+"“/system/proxy/http/authentication-password” sozlamalarida koʻrsatiladi). Bu"
+" faqat HTTP proksi uchun amal qiladi; agar alohida HTTPS proksi ishlatilsa, "
+"hozircha unga autentifikatsiya kerakligini koʻrsatishning usuli mavjud emas."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:103
 msgid "HTTP proxy username"
@@ -3906,8 +3921,8 @@ msgstr "Xavfsiz HTTP proksi porti"
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:128
 msgid ""
-"The port on the machine defined by “/system/proxy/https/host” that you proxy "
-"through."
+"The port on the machine defined by “/system/proxy/https/host” that you proxy"
+" through."
 msgstr ""
 "/system/proxy/https/host orqali belgilangan qurilmadagi siz proksi "
 "qilayotgan port."
@@ -3929,7 +3944,7 @@ msgid ""
 "The port on the machine defined by “/system/proxy/ftp/host” that you proxy "
 "through."
 msgstr ""
-"Bu system/proxy/ftp/host manzili bo'yicha aniqlangan qurilmada siz "
+"Bu system/proxy/ftp/host manzili boʻyicha aniqlangan qurilmada siz "
 "ulanayotgan proksi porti."
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:155
@@ -3946,8 +3961,8 @@ msgstr "SOCKS proksi porti"
 
 #: schemas/org.gnome.system.proxy.gschema.xml.in:164
 msgid ""
-"The port on the machine defined by “/system/proxy/socks/host” that you proxy "
-"through."
+"The port on the machine defined by “/system/proxy/socks/host” that you proxy"
+" through."
 msgstr ""
-"/system/proxy/socks/host manzili bo'yicha aniqlangan qurilmada siz "
+"/system/proxy/socks/host manzili boʻyicha aniqlangan qurilmada siz "
 "ulanayotgan proksi porti."

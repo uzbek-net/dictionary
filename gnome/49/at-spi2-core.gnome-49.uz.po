@@ -23,7 +23,7 @@ msgstr "Tanlangan havola"
 
 #: atk/atkhyperlink.c:128
 msgid "Specifies whether the AtkHyperlink object is selected"
-msgstr "AtkHyperlink ob'ekti tanlangan yoki yo'qligini belgilaydi"
+msgstr "AtkHyperlink ob'ekti tanlangan yoki yoʻqligini belgilaydi"
 
 #: atk/atkhyperlink.c:134
 msgid "Number of Anchors"
@@ -31,7 +31,7 @@ msgstr "Ankorlar soni"
 
 #: atk/atkhyperlink.c:135
 msgid "The number of anchors associated with the AtkHyperlink object"
-msgstr "AtkHyperlink ob'ekti bilan bog'langan langarlar soni"
+msgstr "AtkHyperlink ob'ekti bilan bogʻlangan langarlar soni"
 
 #: atk/atkhyperlink.c:143
 msgid "End index"
@@ -47,11 +47,11 @@ msgstr "Boshlanish indeksi"
 
 #: atk/atkhyperlink.c:153
 msgid "The start index of the AtkHyperlink object"
-msgstr "AtkHyperlink ob'ektining boshlang'ich indeksi"
+msgstr "AtkHyperlink ob'ektining boshlangʻich indeksi"
 
 #: atk/atkobject.c:273
 msgid "Accessible Name"
-msgstr "Kirish mumkin bo'lgan ism"
+msgstr "Kirish mumkin boʻlgan ism"
 
 #: atk/atkobject.c:274
 msgid "Object instance’s name formatted for assistive technology access"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: atk/atkobject.c:280
 msgid "Accessible Description"
-msgstr "Foydalanish mumkin bo'lgan tavsif"
+msgstr "Foydalanish mumkin boʻlgan tavsif"
 
 #: atk/atkobject.c:281
 msgid "Description of an object, formatted for assistive technology access"
@@ -71,22 +71,23 @@ msgid "Accessible Parent"
 msgstr "Mumkin ota-ona"
 
 #: atk/atkobject.c:288
-msgid "Parent of the current accessible as returned by atk_object_get_parent()"
+msgid ""
+"Parent of the current accessible as returned by atk_object_get_parent()"
 msgstr ""
-"atk_object_get_parent() tomonidan qaytarilgan joriy kirish mumkin bo'lgan "
+"atk_object_get_parent() tomonidan qaytarilgan joriy kirish mumkin boʻlgan "
 "ota-ona"
 
 #: atk/atkobject.c:304
 msgid "Accessible Value"
-msgstr "Foydalanish mumkin bo'lgan qiymat"
+msgstr "Foydalanish mumkin boʻlgan qiymat"
 
 #: atk/atkobject.c:305
 msgid "Is used to notify that the value has changed"
-msgstr "Qiymat o'zgarganligi haqida xabar berish uchun ishlatiladi"
+msgstr "Qiymat oʻzgarganligi haqida xabar berish uchun ishlatiladi"
 
 #: atk/atkobject.c:313
 msgid "Accessible Role"
-msgstr "Kirish mumkin bo'lgan rol"
+msgstr "Kirish mumkin boʻlgan rol"
 
 #: atk/atkobject.c:314
 msgid "The accessible role of this object"
@@ -94,32 +95,32 @@ msgstr "Ushbu ob'ektning mavjud roli"
 
 #: atk/atkobject.c:321
 msgid "Accessible Layer"
-msgstr "Kirish mumkin bo'lgan qatlam"
+msgstr "Kirish mumkin boʻlgan qatlam"
 
 #: atk/atkobject.c:322
 msgid "The accessible layer of this object"
-msgstr "Ushbu ob'ektning kirish mumkin bo'lgan qatlami"
+msgstr "Ushbu ob'ektning kirish mumkin boʻlgan qatlami"
 
 #: atk/atkobject.c:330
 msgid "Accessible MDI Value"
-msgstr "Kirish mumkin bo'lgan MDI qiymati"
+msgstr "Kirish mumkin boʻlgan MDI qiymati"
 
 #: atk/atkobject.c:331
 msgid "The accessible MDI value of this object"
-msgstr "Ushbu ob'ektning kirish mumkin bo'lgan MDI qiymati"
+msgstr "Ushbu ob'ektning kirish mumkin boʻlgan MDI qiymati"
 
 #: atk/atkobject.c:347
 msgid "Accessible Table Caption"
-msgstr "Foydalanish mumkin bo'lgan jadval sarlavhasi"
+msgstr "Foydalanish mumkin boʻlgan jadval sarlavhasi"
 
 #: atk/atkobject.c:348
 msgid ""
 "Is used to notify that the table caption has changed; this property should "
 "not be used. accessible-table-caption-object should be used instead"
 msgstr ""
-"Jadval sarlavhasi o'zgarganligi haqida xabar berish uchun ishlatiladi; bu "
-"xususiyat ishlatilmasligi kerak. o‘rniga accessible-table-caption-object-dan "
-"foydalanish kerak"
+"Jadval sarlavhasi oʻzgarganligi haqida xabar berish uchun ishlatiladi; bu "
+"xususiyat ishlatilmasligi kerak. oʻrniga accessible-table-caption-object-dan"
+" foydalanish kerak"
 
 #: atk/atkobject.c:362
 msgid "Accessible Table Column Header"
@@ -128,42 +129,43 @@ msgstr "Jadval ustuni sarlavhasi"
 #: atk/atkobject.c:363
 msgid "Is used to notify that the table column header has changed"
 msgstr ""
-"Jadval ustuni sarlavhasi o'zgarganligi haqida xabar berish uchun ishlatiladi"
+"Jadval ustuni sarlavhasi oʻzgarganligi haqida xabar berish uchun ishlatiladi"
 
 #: atk/atkobject.c:378
 msgid "Accessible Table Column Description"
-msgstr "Foydalanish mumkin bo'lgan jadval ustuni tavsifi"
+msgstr "Foydalanish mumkin boʻlgan jadval ustuni tavsifi"
 
 #: atk/atkobject.c:379
 msgid "Is used to notify that the table column description has changed"
 msgstr ""
-"Jadval ustunining tavsifi o'zgarganligi haqida xabar berish uchun ishlatiladi"
+"Jadval ustunining tavsifi oʻzgarganligi haqida xabar berish uchun "
+"ishlatiladi"
 
 #: atk/atkobject.c:394
 msgid "Accessible Table Row Header"
-msgstr "Foydalanish mumkin bo'lgan jadval qatori sarlavhasi"
+msgstr "Foydalanish mumkin boʻlgan jadval qatori sarlavhasi"
 
 #: atk/atkobject.c:395
 msgid "Is used to notify that the table row header has changed"
 msgstr ""
-"Jadval qatori sarlavhasi o'zgarganligi haqida xabar berish uchun ishlatiladi"
+"Jadval qatori sarlavhasi oʻzgarganligi haqida xabar berish uchun ishlatiladi"
 
 #: atk/atkobject.c:409
 msgid "Accessible Table Row Description"
-msgstr "Foydalanish mumkin bo'lgan jadval qatori tavsifi"
+msgstr "Foydalanish mumkin boʻlgan jadval qatori tavsifi"
 
 #: atk/atkobject.c:410
 msgid "Is used to notify that the table row description has changed"
 msgstr ""
-"Jadval qatori tavsifi o'zgarganligi haqida xabar berish uchun ishlatiladi"
+"Jadval qatori tavsifi oʻzgarganligi haqida xabar berish uchun ishlatiladi"
 
 #: atk/atkobject.c:416
 msgid "Accessible Table Summary"
-msgstr "Foydalanish mumkin bo'lgan jadval xulosasi"
+msgstr "Foydalanish mumkin boʻlgan jadval xulosasi"
 
 #: atk/atkobject.c:417
 msgid "Is used to notify that the table summary has changed"
-msgstr "Jadval xulosasi o'zgarganligi haqida xabar berish uchun ishlatiladi"
+msgstr "Jadval xulosasi oʻzgarganligi haqida xabar berish uchun ishlatiladi"
 
 #: atk/atkobject.c:423
 msgid "Accessible Table Caption Object"
@@ -171,19 +173,19 @@ msgstr "Jadval sarlavhasi obyekti"
 
 #: atk/atkobject.c:424
 msgid "Is used to notify that the table caption has changed"
-msgstr "Jadval sarlavhasi o'zgarganligi haqida xabar berish uchun ishlatiladi"
+msgstr "Jadval sarlavhasi oʻzgarganligi haqida xabar berish uchun ishlatiladi"
 
 #: atk/atkobject.c:430
 msgid "Number of Accessible Hypertext Links"
-msgstr "Kirish mumkin bo'lgan gipermatnli havolalar soni"
+msgstr "Kirish mumkin boʻlgan gipermatnli havolalar soni"
 
 #: atk/atkobject.c:431
 msgid "The number of links which the current AtkHypertext has"
-msgstr "Joriy AtkHypertextda mavjud bo'lgan havolalar soni"
+msgstr "Joriy AtkHypertextda mavjud boʻlgan havolalar soni"
 
 #: atk/atkobject.c:440
 msgid "Accessible ID"
-msgstr "Kirish mumkin bo'lgan ID"
+msgstr "Kirish mumkin boʻlgan ID"
 
 #: atk/atkobject.c:441
 msgid "ID for the accessible; useful for automated testing"
@@ -195,14 +197,13 @@ msgstr "Yozdam matni"
 
 #: atk/atkobject.c:448
 msgid "Help text associated with the accessible"
-msgstr "Foydalanish mumkin bo'lgan matn bilan bog'liq yordam matni"
+msgstr "Foydalanish mumkin boʻlgan matn bilan bogʻliq yordam matni"
 
 #. Translators: This string describes a range within value-related
 #. * widgets such as a password-strength meter. Note that what such a
 #. * widget presents is controlled by application developers. Thus
 #. * assistive technologies such as screen readers are expected to
 #. * present this string alone or as a token in a list.
-#.
 #: atk/atkvalue.c:193
 msgid "very weak"
 msgstr "juda zaif"
@@ -212,7 +213,6 @@ msgstr "juda zaif"
 #. * widget presents is controlled by application developers. Thus
 #. * assistive technologies such as screen readers are expected to
 #. * present this string alone or as a token in a list.
-#.
 #: atk/atkvalue.c:200
 msgid "weak"
 msgstr "zaif"
@@ -222,7 +222,6 @@ msgstr "zaif"
 #. * widget presents is controlled by application developers. Thus
 #. * assistive technologies such as screen readers are expected to
 #. * present this string alone or as a token in a list.
-#.
 #: atk/atkvalue.c:207
 msgid "acceptable"
 msgstr "qabul qilinadi"
@@ -232,7 +231,6 @@ msgstr "qabul qilinadi"
 #. * widget presents is controlled by application developers. Thus
 #. * assistive technologies such as screen readers are expected to
 #. * present this string alone or as a token in a list.
-#.
 #: atk/atkvalue.c:214
 msgid "strong"
 msgstr "kuchli"
@@ -242,7 +240,6 @@ msgstr "kuchli"
 #. * widget presents is controlled by application developers. Thus
 #. * assistive technologies such as screen readers are expected to
 #. * present this string alone or as a token in a list.
-#.
 #: atk/atkvalue.c:221
 msgid "very strong"
 msgstr "juda kuchli"
@@ -253,7 +250,6 @@ msgstr "juda kuchli"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:229
 msgid "very low"
 msgstr "Juda past"
@@ -264,10 +260,9 @@ msgstr "Juda past"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:237
 msgid "medium"
-msgstr "o'rta"
+msgstr "oʻrta"
 
 #. Translators: This string describes a range within value-related
 #. * widgets such as a volume slider. Note that what such a widget
@@ -275,7 +270,6 @@ msgstr "o'rta"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:245
 msgid "high"
 msgstr "yuqori"
@@ -286,7 +280,6 @@ msgstr "yuqori"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:253
 msgid "very high"
 msgstr "juda yuqori"
@@ -297,7 +290,6 @@ msgstr "juda yuqori"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:261
 msgid "very bad"
 msgstr "juda yomon"
@@ -308,7 +300,6 @@ msgstr "juda yomon"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:269
 msgid "bad"
 msgstr "yomon"
@@ -319,7 +310,6 @@ msgstr "yomon"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:277
 msgid "good"
 msgstr "yaxshi"
@@ -330,7 +320,6 @@ msgstr "yaxshi"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:285
 msgid "very good"
 msgstr "juda yaxshi"
@@ -341,7 +330,6 @@ msgstr "juda yaxshi"
 #. * application developers. Thus assistive technologies such as screen
 #. * readers are expected to present this string alone or as a token in
 #. * a list.
-#.
 #: atk/atkvalue.c:293
 msgid "best"
 msgstr "eng yaxshi"
@@ -432,7 +420,7 @@ msgstr "fayl tanlash"
 
 #: atspi/atspi-misc.c:69
 msgid "filler"
-msgstr "to'ldiruvchi"
+msgstr "toʻldiruvchi"
 
 #. I know it looks wrong but that is what Java returns
 #: atspi/atspi-misc.c:71
@@ -473,11 +461,11 @@ msgstr "qatlamli panel"
 
 #: atspi/atspi-misc.c:80
 msgid "list"
-msgstr "ro'yxat"
+msgstr "roʻyxat"
 
 #: atspi/atspi-misc.c:81
 msgid "list item"
-msgstr "ro'yxat elementi"
+msgstr "roʻyxat elementi"
 
 #: atspi/atspi-misc.c:82
 msgid "menu"
@@ -501,15 +489,15 @@ msgstr "variantlar paneli"
 
 #: atspi/atspi-misc.c:87
 msgid "page tab"
-msgstr "sahifa yorlig'i"
+msgstr "sahifa yorligʻi"
 
 #: atspi/atspi-misc.c:88
 msgid "page tab list"
-msgstr "sahifalar ro'yxati"
+msgstr "sahifalar roʻyxati"
 
 #: atspi/atspi-misc.c:89
 msgid "panel"
-msgstr "O'ng panelni almashtirish"
+msgstr "Oʻng panelni almashtirish"
 
 #: atspi/atspi-misc.c:90
 msgid "password text"
@@ -597,7 +585,7 @@ msgstr "menyu elementini yirtib tashlang"
 
 #: atspi/atspi-misc.c:111
 msgid "terminal"
-msgstr "Virtual terminal to'xtatildi"
+msgstr "Virtual terminal toʻxtatildi"
 
 #: atspi/atspi-misc.c:112
 msgid "text"
@@ -629,7 +617,7 @@ msgstr "noma'lum"
 
 #: atspi/atspi-misc.c:119
 msgid "viewport"
-msgstr "ko'rish oynasi"
+msgstr "koʻrish oynasi"
 
 #: atspi/atspi-misc.c:120
 msgid "window"
@@ -649,7 +637,7 @@ msgstr "paragraf"
 
 #: atspi/atspi-misc.c:124
 msgid "ruler"
-msgstr "chizg'ich"
+msgstr "chizgʻich"
 
 #: atspi/atspi-misc.c:125
 msgid "application"
@@ -665,7 +653,7 @@ msgstr "tahrirlash paneli"
 
 #: atspi/atspi-misc.c:128
 msgid "embedded component"
-msgstr "o'rnatilgan komponent"
+msgstr "oʻrnatilgan komponent"
 
 #: atspi/atspi-misc.c:129
 msgid "entry"
@@ -693,7 +681,7 @@ msgstr "sahifa"
 
 #: atspi/atspi-misc.c:135
 msgid "section"
-msgstr "bo'limida"
+msgstr "boʻlimida"
 
 #: atspi/atspi-misc.c:136
 msgid "redundant object"
@@ -725,7 +713,8 @@ msgstr "hujjat jadvali"
 
 #: atspi/atspi-misc.c:143
 msgid "document presentation"
-msgstr "pdf;ps;postscript;dvi;xps;djvu;tiff;hujjat;prezentatsiya;tomoshabin;evince;"
+msgstr ""
+"pdf;ps;postscript;dvi;xps;djvu;tiff;hujjat;prezentatsiya;tomoshabin;evince;"
 
 #: atspi/atspi-misc.c:144
 msgid "document text"
@@ -733,7 +722,7 @@ msgstr "hujjat matni"
 
 #: atspi/atspi-misc.c:145
 msgid "document web"
-msgstr "hujjat tarmog'i"
+msgstr "hujjat tarmogʻi"
 
 #: atspi/atspi-misc.c:146
 msgid "document email"
@@ -745,7 +734,7 @@ msgstr "fikr"
 
 #: atspi/atspi-misc.c:148
 msgid "list box"
-msgstr "ro'yxat oynasi"
+msgstr "roʻyxat oynasi"
 
 #: atspi/atspi-misc.c:149
 msgid "grouping"
@@ -817,7 +806,7 @@ msgstr "taymer"
 
 #: atspi/atspi-misc.c:166
 msgid "description list"
-msgstr "tavsif ro'yxati"
+msgstr "tavsif roʻyxati"
 
 #: atspi/atspi-misc.c:167
 msgid "description term"

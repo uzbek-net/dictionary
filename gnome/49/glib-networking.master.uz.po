@@ -34,10 +34,9 @@ msgstr "Aloqa uzildi"
 #. * accept-certificate callback. Allowing a blocking op would stall
 #. * the handshake (forever, if there's no timeout). Even a close
 #. * op would deadlock here.
-#.
 #: tls/base/gtlsconnection-base.c:690
 msgid "Cannot perform blocking operation during TLS handshake"
-msgstr "TLS bog'lanish jarayonida bloklovchi operatsiyani bajarib bo‘lmaydi"
+msgstr "TLS bogʻlanish jarayonida bloklovchi operatsiyani bajarib boʻlmaydi"
 
 #: tls/base/gtlsconnection-base.c:755 tls/base/gtlsconnection-base.c:1303
 #: tls/openssl/gtlsconnection-openssl.c:373
@@ -51,27 +50,27 @@ msgstr "Server TLS sertifikatini talab qiladi"
 #: tls/base/gtlsconnection-base.c:1516
 #, c-format
 msgid "Handshake is not finished, no channel binding information yet"
-msgstr "Bog'lanish tugamagan, hali kanal biriktirish ma’lumoti mavjud emas"
+msgstr "Bogʻlanish tugamagan, hali kanal biriktirish ma’lumoti mavjud emas"
 
 #: tls/base/gtlsconnection-base.c:1595
 msgid "Peer does not support safe renegotiation"
-msgstr "Qarama-qarshi tomon xavfsiz qayta ulanishni qo‘llab-quvvatlamaydi"
+msgstr "Qarama-qarshi tomon xavfsiz qayta ulanishni qoʻllab-quvvatlamaydi"
 
 #: tls/base/gtlsconnection-base.c:1743 tls/gnutls/gtlsconnection-gnutls.c:490
 #: tls/openssl/gtlsconnection-openssl.c:209
 #: tls/openssl/gtlsconnection-openssl.c:852
 msgid "Unacceptable TLS certificate"
-msgstr "Qabulqilib bo'lmas TLS sertifikat"
+msgstr "Qabulqilib boʻlmas TLS sertifikat"
 
 #: tls/base/gtlsconnection-base.c:2215
 #, c-format
 msgid "Receive flags are not supported"
-msgstr "Qabul qilish bayroqlari qo'llab-quvvatlanmaydi"
+msgstr "Qabul qilish bayroqlari qoʻllab-quvvatlanmaydi"
 
 #: tls/base/gtlsconnection-base.c:2362
 #, c-format
 msgid "Send flags are not supported"
-msgstr "Yuborish bayroqlari qo'llab-quvvatlanmaydi"
+msgstr "Yuborish bayroqlari qoʻllab-quvvatlanmaydi"
 
 #: tls/gnutls/gtlscertificate-gnutls.c:297
 #: tls/openssl/gtlscertificate-openssl.c:318
@@ -137,7 +136,7 @@ msgstr "TLS ulanishini yaratish mumkin emas: %s"
 #: tls/openssl/gtlsconnection-openssl.c:176
 #, c-format
 msgid "Peer failed to perform TLS handshake: %s"
-msgstr "Peer TLSga bog'lanishda xatolik yuzberdi : %s"
+msgstr "Peer TLSga bogʻlanishda xatolik yuzberdi : %s"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:467
 #: tls/openssl/gtlsconnection-openssl.c:246
@@ -172,20 +171,20 @@ msgstr "Amal bajarish vaqti tugadi"
 #: tls/gnutls/gtlsconnection-gnutls.c:878
 #, c-format
 msgid "Error performing TLS handshake: %s"
-msgstr "TLS bog'lanish jarayonida xatolik yuz berdi: %s"
+msgstr "TLS bogʻlanish jarayonida xatolik yuz berdi: %s"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:981
 #: tls/openssl/gtlsconnection-openssl.c:630
 msgid "Error performing TLS handshake"
-msgstr "TLS bog'lanish jarayonida xatolik yuz berdi"
+msgstr "TLS bogʻlanish jarayonida xatolik yuz berdi"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:1154
 #, c-format
 msgid ""
 "Empty channel binding data indicates a bug in the TLS library implementation"
 msgstr ""
-"Bo‘sh kanal biriktirish ma’lumotlari TLS kutubxonasi implementatsiyasida "
-"xatolik borligini ko‘rsatmoqda"
+"Boʻsh kanal biriktirish ma’lumotlari TLS kutubxonasi implementatsiyasida "
+"xatolik borligini koʻrsatmoqda"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:1172
 #, c-format
@@ -201,14 +200,14 @@ msgstr "Kanal biriktirish ma’lumotlari hali mavjud emas"
 #: tls/openssl/gtlsconnection-openssl.c:827
 #, c-format
 msgid "Requested channel binding type is not implemented"
-msgstr "So‘ralgan kanal biriktirish turi implementatsiya qilinmagan"
+msgstr "Soʻralgan kanal biriktirish turi implementatsiya qilinmagan"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:1249
 #: tls/gnutls/gtlsconnection-gnutls.c:1309
 #: tls/openssl/gtlsconnection-openssl.c:845
 #: tls/openssl/gtlsconnection-openssl.c:941
 msgid "Error reading data from TLS socket"
-msgstr "TLS socket'ida ma’lumot o‘qishda xatolik yuz berdi"
+msgstr "TLS socket'ida ma’lumot oʻqishda xatolik yuz berdi"
 
 #. flags
 #: tls/gnutls/gtlsconnection-gnutls.c:1331
@@ -237,20 +236,20 @@ msgstr "TLS yopish jarayonida xatolik yuz berdi: %s"
 #: tls/gnutls/gtlsdatabase-gnutls.c:92
 #, c-format
 msgid "Failed to allocate credentials: %s"
-msgstr "Akkreditatsiyani ajratib bo‘lmadi: %s"
+msgstr "Akkreditatsiyani ajratib boʻlmadi: %s"
 
 #: tls/gnutls/gtlsdatabase-gnutls.c:594
 msgid ""
 "Failed to load system trust store: GnuTLS was not configured with a system "
 "trust"
 msgstr ""
-"Tizim to'g'ri omborini yuklash muvaffaqiyatsiz tugadi: GnuTLS tizim to'g'ri "
+"Tizim toʻgʻri omborini yuklash muvaffaqiyatsiz tugadi: GnuTLS tizim toʻgʻri "
 "sozlanmagan"
 
 #: tls/gnutls/gtlsdatabase-gnutls.c:599 tls/openssl/gtlsdatabase-openssl.c:381
 #, c-format
 msgid "Failed to load system trust store: %s"
-msgstr "Tizim to'g'ri omborini yuklash muvaffaqiyatsiz tugadi: %s"
+msgstr "Tizim toʻgʻri omborini yuklash muvaffaqiyatsiz tugadi: %s"
 
 #: tls/gnutls/gtlsdatabase-gnutls.c:605
 #, c-format
@@ -258,19 +257,19 @@ msgid ""
 "System trust contains zero trusted certificates; please investigate your "
 "GnuTLS configuration"
 msgstr ""
-"To'g'ri tizim to'g'ri sertifikatlar mavjud emas; GnuTLS konfiguratsiyasini "
+"Toʻgʻri tizim toʻgʻri sertifikatlar mavjud emas; GnuTLS konfiguratsiyasini "
 "tekshiring"
 
 #: tls/gnutls/gtlsdatabase-gnutls.c:621
 #, c-format
 msgid "Failed to initialize trust list: %s"
-msgstr "To'g'ri ro‘yxatni ishga tushirish muvaffaqiyatsiz bo‘ldi: %s"
+msgstr "Toʻgʻri roʻyxatni ishga tushirish muvaffaqiyatsiz boʻldi: %s"
 
 #: tls/gnutls/gtlsfiledatabase-gnutls.c:153
 #: tls/openssl/gtlsfiledatabase-openssl.c:456
 #, c-format
 msgid "Failed to populate trust list from %s: %s"
-msgstr "To'g'ri ro‘yxatni %s dan to‘ldirish muvaffaqiyatsiz bo‘ldi: %s"
+msgstr "Toʻgʻri roʻyxatni %s dan toʻldirish muvaffaqiyatsiz boʻldi: %s"
 
 #: tls/gnutls/gtlsserverconnection-gnutls.c:120
 #: tls/openssl/gtlsserverconnection-openssl.c:172
@@ -281,23 +280,23 @@ msgstr "Sertifikatda maxfiy kalit mavjud emas"
 #: tls/openssl/gtlsserverconnection-openssl.c:299
 #, c-format
 msgid "Could not set TLS cipher list: %s"
-msgstr "TLS shifrlashlar ro‘yxatini o‘rnatib bo‘lmadi: %s"
+msgstr "TLS shifrlashlar roʻyxatini oʻrnatib boʻlmadi: %s"
 
 #: tls/openssl/gtlsclientconnection-openssl.c:368
 #: tls/openssl/gtlsserverconnection-openssl.c:327
 #, c-format
 msgid "Could not set MAX protocol to %d: %s"
-msgstr "Maksimal protokolni %d ga o‘rnatib bo‘lmadi: %s"
+msgstr "Maksimal protokolni %d ga oʻrnatib boʻlmadi: %s"
 
 #: tls/openssl/gtlsclientconnection-openssl.c:457
 #: tls/openssl/gtlsserverconnection-openssl.c:390
 #, c-format
 msgid "Could not create TLS context: %s"
-msgstr "TLS kontekstini yaratib bo‘lmadi: %s"
+msgstr "TLS kontekstini yaratib boʻlmadi: %s"
 
 #: tls/openssl/gtlsconnection-openssl.c:217
 msgid "Unacceptable TLS certificate authority"
-msgstr "Qabul qilib bo‘lmaydigan TLS sertifikat"
+msgstr "Qabul qilib boʻlmaydigan TLS sertifikat"
 
 #: tls/openssl/gtlsconnection-openssl.c:225
 msgid "Digest too big for RSA key"
@@ -305,7 +304,7 @@ msgstr "Digest RSA kaliti uchun juda katta"
 
 #: tls/openssl/gtlsconnection-openssl.c:234
 msgid "Secure renegotiation is disabled"
-msgstr "Xavfsiz qayta kelishuv o‘chirib qo‘yilgan"
+msgstr "Xavfsiz qayta kelishuv oʻchirib qoʻyilgan"
 
 #: tls/openssl/gtlsconnection-openssl.c:268
 #, c-format
@@ -314,7 +313,7 @@ msgstr "%s: Ulanish uzilgan"
 
 #: tls/openssl/gtlsconnection-openssl.c:676
 msgid "The request is invalid."
-msgstr "So‘rov yaroqsiz."
+msgstr "Soʻrov yaroqsiz."
 
 #: tls/openssl/gtlsconnection-openssl.c:699
 msgid "Channel binding data tls-unique is not available"
@@ -326,13 +325,13 @@ msgstr "Ulanishda X.509 sertifikati mavjud emas"
 
 #: tls/openssl/gtlsconnection-openssl.c:731
 msgid "Unable to obtain certificate signature algorithm"
-msgstr "Sertifikat imzo algoritmini olishning iloji yo‘q"
+msgstr "Sertifikat imzo algoritmini olishning iloji yoʻq"
 
 #: tls/openssl/gtlsconnection-openssl.c:751
 msgid ""
 "Current X.509 certificate uses unknown or unsupported signature algorithm"
 msgstr ""
-"Amaldagi X.509 sertifikati noma’lum yoki qo‘llab-quvvatlanmaydigan imzo "
+"Amaldagi X.509 sertifikati noma’lum yoki qoʻllab-quvvatlanmaydigan imzo "
 "algoritmidan foydalanmoqda"
 
 #: tls/openssl/gtlsconnection-openssl.c:769
@@ -341,7 +340,7 @@ msgstr "X.509 sertifikat hazm qilish jarayonida xatolik"
 
 #: tls/openssl/gtlsconnection-openssl.c:800
 msgid "TLS Connection does not support TLS-Exporter feature"
-msgstr "TLS ulanishi TLS-Exporter funksiyasini qo‘llab-quvvatlamaydi"
+msgstr "TLS ulanishi TLS-Exporter funksiyasini qoʻllab-quvvatlamaydi"
 
 #: tls/openssl/gtlsconnection-openssl.c:803
 msgid "Unexpected error while exporting keying data"
@@ -353,23 +352,23 @@ msgstr "TLS yopish jarayonida xatolik"
 
 #: tls/openssl/gtlsdatabase-openssl.c:174
 msgid "Could not get trust settings for certificate"
-msgstr "Sertifikat uchun to'g'ri sozlamalarini olishning iloji yo‘q"
+msgstr "Sertifikat uchun toʻgʻri sozlamalarini olishning iloji yoʻq"
 
 #: tls/openssl/gtlsdatabase-openssl.c:261
 msgid "Could not retrieve certificates"
-msgstr "Sertifikatlarni olishning iloji yo‘q"
+msgstr "Sertifikatlarni olishning iloji yoʻq"
 
 #: tls/openssl/gtlsdatabase-openssl.c:358
 msgid "Could not get root certificate store"
-msgstr "Ildiz sertifikatlar omborini olishning iloji yo‘q"
+msgstr "Ildiz sertifikatlar omborini olishning iloji yoʻq"
 
 #: tls/openssl/gtlsdatabase-openssl.c:365
 msgid "Could not get CA certificate store"
-msgstr "CA sertifikatlar omborini olishning iloji yo‘q"
+msgstr "CA sertifikatlar omborini olishning iloji yoʻq"
 
 #: tls/openssl/gtlsdatabase-openssl.c:430
 msgid "Could not create CA store"
-msgstr "CA omborini yaratib bo‘lmadi"
+msgstr "CA omborini yaratib boʻlmadi"
 
 #: tls/openssl/gtlsserverconnection-openssl.c:184
 #, c-format

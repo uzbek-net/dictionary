@@ -23,7 +23,7 @@ msgstr "Tecla"
 
 #: data/org.gnome.Tecla.desktop.in:3
 msgid "Preview keyboard layouts"
-msgstr "Klaviatura tartiblarini oldindan ko'rish"
+msgstr "Klaviatura tartiblarini oldindan koʻrish"
 
 #: src/tecla-application.c:88
 msgid "Attach to a parent window"
@@ -35,7 +35,7 @@ msgstr "Deraza tutqichi"
 
 #: src/tecla-application.c:89
 msgid "Display version number"
-msgstr "Versiya raqamini ko'rsatish"
+msgstr "Versiya raqamini koʻrsatish"
 
 #: src/tecla-application.c:170
 msgid "Keyboard Layout"

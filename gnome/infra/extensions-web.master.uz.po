@@ -20,15 +20,15 @@ msgstr ""
 
 #: sweettooth/auth/forms.py:123 extensions-web-domain-django:1
 msgid "You cannot change your email more than once every 7 days"
-msgstr "E-pochtangizni 7 kunda bir martadan ortiq o'zgartira olmaysiz"
+msgstr "E-pochtangizni 7 kunda bir martadan ortiq oʻzgartira olmaysiz"
 
 #: sweettooth/auth/forms.py:157 extensions-web-domain-django:1
 msgid "Your display name contains forbidden words"
-msgstr "Ko'rsatilgan nomingizda taqiqlangan so'zlar mavjud"
+msgstr "Koʻrsatilgan nomingizda taqiqlangan soʻzlar mavjud"
 
 #: sweettooth/auth/forms.py:201 extensions-web-domain-django:1
 msgid "Delete my account"
-msgstr "Hisobimni o'chirish"
+msgstr "Hisobimni oʻchirish"
 
 #: sweettooth/auth/forms.py:202 extensions-web-domain-django:1
 msgid "Your account will be deleted in 7 days"
@@ -36,7 +36,7 @@ msgstr "Hisobingiz 7 kundan keyin oʻchiriladi"
 
 #: sweettooth/auth/forms.py:204 extensions-web-domain-django:1
 msgid "No"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #: sweettooth/auth/forms.py:204 extensions-web-domain-django:1
 msgid "Yes"
@@ -61,7 +61,7 @@ msgid ""
 "using your username or you can request removal of duplicate accounts using "
 "GNOME Gitlab (%(url)s)."
 msgstr ""
-"Sizda bitta elektron pochta orqali ro'yxatdan o'tgan bir nechta hisoblar "
+"Sizda bitta elektron pochta orqali roʻyxatdan oʻtgan bir nechta hisoblar "
 "mavjud. Siz foydalanuvchi nomidan foydalanib tizimga kirishingiz yoki GNOME "
 "Gitlab (%(url)s) yordamida takroriy hisoblarni oʻchirishni soʻrashingiz "
 "mumkin."
@@ -78,7 +78,7 @@ msgstr ""
 #: sweettooth/auth/forms.py:78 extensions-web-domain-django:1
 msgid "This value may contain only letters, numbers and @/./+/-/_ characters."
 msgstr ""
-"Bu qiymat faqat harflar, raqamlar va @/./+/-/_ belgilaridan iborat bo'lishi "
+"Bu qiymat faqat harflar, raqamlar va @/./+/-/_ belgilaridan iborat boʻlishi "
 "mumkin."
 
 #: sweettooth/auth/forms.py:82 extensions-web-domain-django:1
@@ -93,27 +93,27 @@ msgstr ""
 
 #: sweettooth/auth/forms.py:92 extensions-web-domain-django:1
 msgid "Your username contains forbidden words"
-msgstr "Sizning foydalanuvchi nomingizda taqiqlangan so'zlar mavjud"
+msgstr "Sizning foydalanuvchi nomingizda taqiqlangan soʻzlar mavjud"
 
 #: sweettooth/auth/serializers.py:42 extensions-web-domain-django:1
 msgid "This email is already registered"
-msgstr "Ushbu e-pochta manzili allaqachon ro'yxatdan o'tkazilgan"
+msgstr "Ushbu e-pochta manzili allaqachon roʻyxatdan oʻtkazilgan"
 
 #: sweettooth/auth/serializers.py:48 extensions-web-domain-django:1
 msgid "This username is already registered"
-msgstr "Bu foydalanuvchi nomi allaqachon ro'yxatdan o'tgan"
+msgstr "Bu foydalanuvchi nomi allaqachon roʻyxatdan oʻtgan"
 
 #: sweettooth/auth/templates/django_registration/registration_form.html:11
 #: sweettooth/auth/templates/registration/login.html:35
 #: sweettooth/auth/templates/registration/login_popup_form.html:19
 #: extensions-web-domain-django:1
 msgid "Register"
-msgstr "Ro'yxatdan o'tish"
+msgstr "Roʻyxatdan oʻtish"
 
 #: sweettooth/auth/templates/django_registration/registration_form.html:7
 #: extensions-web-domain-django:1
 msgid "Account Registration"
-msgstr "Hisobni ro'yxatdan o'tkazish"
+msgstr "Hisobni roʻyxatdan oʻtkazish"
 
 #: sweettooth/auth/templates/profile/account-removal.html:4
 #: sweettooth/auth/templates/profile/settings.html:44
@@ -154,7 +154,7 @@ msgstr "Yuborish"
 #: sweettooth/auth/templates/profile/settings.html:41
 #: extensions-web-domain-django:1
 msgid "Change your password"
-msgstr "Parolni o'zgartirish"
+msgstr "Parolni oʻzgartirish"
 
 #. Translators: `schedule_delete_after` is a string representation of Python
 #. datetime object.
@@ -183,7 +183,7 @@ msgstr "Kirish"
 #: sweettooth/auth/templates/registration/login_popup_form.html:17
 #: extensions-web-domain-django:1
 msgid "Don't have an account?"
-msgstr "Hisobingiz yo'qmi?"
+msgstr "Hisobingiz yoʻqmi?"
 
 #: sweettooth/auth/templates/registration/login.html:6
 #: extensions-web-domain-django:1
@@ -194,7 +194,7 @@ msgstr "Login"
 #: sweettooth/auth/templates/registration/password_reset_form.html:12
 #: extensions-web-domain-django:1
 msgid "Reset your password"
-msgstr "Parolingizni qayta o'rnating"
+msgstr "Parolingizni qayta oʻrnating"
 
 #: sweettooth/auth/templates/registration/password_reset_confirm.html:15
 #: extensions-web-domain-django:1
@@ -202,8 +202,8 @@ msgid ""
 "The token for the password reset is incorrect. Please check your link and "
 "try again."
 msgstr ""
-"Parolni tiklash tokeni noto'g'ri. Iltimos, havolani tekshiring va qayta "
-"urinib ko'ring."
+"Parolni tiklash tokeni notoʻgʻri. Iltimos, havolani tekshiring va qayta "
+"urinib koʻring."
 
 #: sweettooth/auth/templates/registration/password_reset_form.html:7
 #: extensions-web-domain-django:1
@@ -217,7 +217,7 @@ msgid ""
 "instructions for setting a new one."
 msgstr ""
 "Parolingiz esdan chiqdimi? Quyida elektron pochta manzilingizni kiriting va "
-"biz yangisini o'rnatish bo'yicha ko'rsatmalarni elektron pochta orqali "
+"biz yangisini oʻrnatish boʻyicha koʻrsatmalarni elektron pochta orqali "
 "yuboramiz."
 
 #: sweettooth/auth/views.py:104 extensions-web-domain-django:1
@@ -226,29 +226,30 @@ msgstr "Email manzilingiz muvaffaqiyatli yangilandi"
 
 #: sweettooth/auth/views.py:116 extensions-web-domain-django:1
 msgid "Your confirmation link expired. Please request new one."
-msgstr "Tasdiqlash havolasi muddati tugagan. Iltimos, yangisini so'rang."
+msgstr "Tasdiqlash havolasi muddati tugagan. Iltimos, yangisini soʻrang."
 
 #: sweettooth/auth/views.py:118 extensions-web-domain-django:1
 msgid "Wrong request"
-msgstr "Noto'g'ri so'rov"
+msgstr "Notoʻgʻri soʻrov"
 
 #: sweettooth/auth/views.py:128 extensions-web-domain-django:1
 msgid "Profile data saved"
 msgstr "Profil maʼlumotlari saqlandi"
 
 #: sweettooth/auth/views.py:271 extensions-web-domain-django:1
-msgid "Confirmation mail is sent to your new address. Please check your inbox."
+msgid ""
+"Confirmation mail is sent to your new address. Please check your inbox."
 msgstr ""
 "Tasdiqlash xati yangi manzilingizga yuboriladi. Iltimos, pochta qutingizni "
 "tekshiring."
 
 #: sweettooth/auth/views.py:298 extensions-web-domain-django:1
 msgid "Password is wrong"
-msgstr "Parol noto'g'ri"
+msgstr "Parol notoʻgʻri"
 
 #: sweettooth/auth/views.py:86 extensions-web-domain-django:1
 msgid "Restore email and reset password"
-msgstr "Elektron pochtani tiklang va parolni o'rnating"
+msgstr "Elektron pochtani tiklang va parolni oʻrnating"
 
 #: sweettooth/context_processors.py:10 extensions-web-domain-django:1
 msgid "About"
@@ -260,11 +261,11 @@ msgstr "Kengaytmalar"
 
 #: sweettooth/context_processors.py:8 extensions-web-domain-django:1
 msgid "Add yours"
-msgstr "O'zingiznikini qo'shing"
+msgstr "Oʻzingiznikini qoʻshing"
 
 #: sweettooth/context_processors.py:9 extensions-web-domain-django:1
 msgid "Installed extensions"
-msgstr "O'rnatilgan kengaytmalar yo'q"
+msgstr "Oʻrnatilgan kengaytmalar yoʻq"
 
 #: sweettooth/extensions/models.py:127 extensions-web-domain-django:1
 msgid "You must define `shell-version` key in metadata.json"
@@ -294,14 +295,14 @@ msgstr ""
 
 #: sweettooth/extensions/models.py:471 extensions-web-domain-django:1
 msgid "Version name cannot be just spaces or dots."
-msgstr "Versiya nomi faqat bo'shliq yoki nuqta bo'lishi mumkin emas."
+msgstr "Versiya nomi faqat boʻshliq yoki nuqta boʻlishi mumkin emas."
 
 #: sweettooth/extensions/models.py:477 extensions-web-domain-django:1
 msgid ""
-"Only alphanumeric characters (eng), spaces, and dots are allowed for version "
-"name."
+"Only alphanumeric characters (eng), spaces, and dots are allowed for version"
+" name."
 msgstr ""
-"Versiya nomi uchun faqat harf-raqamli belgilar (inglizcha), bo'shliqlar va "
+"Versiya nomi uchun faqat harf-raqamli belgilar (inglizcha), boʻshliqlar va "
 "nuqtalarga ruxsat beriladi."
 
 #: sweettooth/extensions/serializers.py:107 extensions-web-domain-django:1
@@ -310,30 +311,30 @@ msgid ""
 "reassign maintainership of the extension uploaded by me"
 msgstr ""
 "Men extensions.gnome.org veb-sayti xodimlari men yuklagan kengaytmani olib "
-"tashlashi, o‘zgartirishi yoki xizmat ko‘rsatishni qayta tayinlashi "
+"tashlashi, oʻzgartirishi yoki xizmat koʻrsatishni qayta tayinlashi "
 "mumkinligiga roziman"
 
 #: sweettooth/extensions/serializers.py:117 extensions-web-domain-django:1
 msgid "The `uuid` field is missing in `metadata.json`"
-msgstr "“Metadata.json”da “uuid” maydoni yo‘q"
+msgstr "“Metadata.json”da “uuid” maydoni yoʻq"
 
 #: sweettooth/extensions/serializers.py:156 extensions-web-domain-django:1
 msgid "An extension with that UUID has already been added"
-msgstr "UUID bilan kengaytma allaqachon qo'shilgan"
+msgstr "UUID bilan kengaytma allaqachon qoʻshilgan"
 
 #: sweettooth/extensions/serializers.py:91 extensions-web-domain-django:1
 msgid "You must agree with the extensions.gnome.org terms of service"
-msgstr "Siz extensions.gnome.org xizmat shartlariga rozi bo'lishingiz kerak"
+msgstr "Siz extensions.gnome.org xizmat shartlariga rozi boʻlishingiz kerak"
 
 #: sweettooth/extensions/serializers.py:98 extensions-web-domain-django:1
 msgid ""
 "By uploading this extension I agree and verify that in any controversial "
 "case regarding the compatibility of extension's license with the GNOME "
-"Shell's license, the extension uploaded by me may be used by any GNOME Shell "
-"user under the terms of the license used by GNOME Shell"
+"Shell's license, the extension uploaded by me may be used by any GNOME Shell"
+" user under the terms of the license used by GNOME Shell"
 msgstr ""
 "Ushbu kengaytmani yuklash orqali men kengaytma litsenziyasining GNOME Shell "
-"litsenziyasiga muvofiqligi bilan bog‘liq har qanday bahsli holatda men "
+"litsenziyasiga muvofiqligi bilan bogʻliq har qanday bahsli holatda men "
 "yuklagan kengaytmadan har qanday GNOME Shell foydalanuvchisi GNOME Shell "
 "tomonidan ishlatiladigan litsenziya shartlariga muvofiq foydalanishi "
 "mumkinligini tasdiqlayman"
@@ -364,12 +365,12 @@ msgstr "Bekor qilish"
 #, python-format
 msgid ""
 "Unfortunately, to help prevent spam, we require that you <a "
-"href=\"%(login_url)s\">log in to GNOME Shell Extensions</a> in order to post "
-"a comment or report an error. You understand, right?"
+"href=\"%(login_url)s\">log in to GNOME Shell Extensions</a> in order to post"
+" a comment or report an error. You understand, right?"
 msgstr ""
 "Afsuski, spamning oldini olish uchun fikr bildirish yoki xato haqida xabar "
 "berish uchun sizdan <a href=\"%(login_url)s\">GNOME Shell Extensions "
-"tizimiga kirishingiz</a> talab etiladi. Tushundingiz, to'g'rimi?"
+"tizimiga kirishingiz</a> talab etiladi. Tushundingiz, toʻgʻrimi?"
 
 #: sweettooth/extensions/templates/extensions/comments.html:22
 #: extensions-web-domain-django:1
@@ -407,15 +408,15 @@ msgid ""
 "A reviewer will review the extension you submitted to make sure there's "
 "nothing too dangerous. You'll be emailed the result of the review."
 msgstr ""
-"Ko'rib chiquvchi siz yuborgan kengaytmani ko'rib chiqadi va hech qanday "
-"xavfli narsa yo'qligiga ishonch hosil qiladi. Tekshiruv natijasi sizga "
+"Koʻrib chiquvchi siz yuborgan kengaytmani koʻrib chiqadi va hech qanday "
+"xavfli narsa yoʻqligiga ishonch hosil qiladi. Tekshiruv natijasi sizga "
 "elektron pochta orqali yuboriladi."
 
 #: sweettooth/extensions/templates/extensions/detail.html:113
 #: sweettooth/extensions/templates/extensions/detail_edit.html:7
 #: extensions-web-domain-django:1
 msgid "Comments are disabled for this extension."
-msgstr "Ushbu kengaytma uchun sharhlar o‘chirib qo‘yilgan."
+msgstr "Ushbu kengaytma uchun sharhlar oʻchirib qoʻyilgan."
 
 #: sweettooth/extensions/templates/extensions/detail.html:21
 #: extensions-web-domain-django:1
@@ -439,7 +440,7 @@ msgstr "Xayriya qiling"
 #: sweettooth/extensions/templates/extensions/detail.html:43
 #: extensions-web-domain-django:1
 msgid "Install"
-msgstr "O'rnatish"
+msgstr "Oʻrnatish"
 
 #: sweettooth/extensions/templates/extensions/detail.html:46
 #: extensions-web-domain-django:1
@@ -500,7 +501,7 @@ msgstr "Kengaytmalarni qidirish…"
 #: sweettooth/extensions/templates/extensions/local.html:8
 #: extensions-web-domain-django:1
 msgid "Installed Extensions"
-msgstr "O'rnatilgan kengaytmalar yo'q"
+msgstr "Oʻrnatilgan kengaytmalar yoʻq"
 
 #: sweettooth/extensions/templates/extensions/local.html:5
 #: extensions-web-domain-django:1
@@ -519,8 +520,8 @@ msgid ""
 "be uploaded using the same form. Once your extension has been reviewed you "
 "will be notified of the result by e-mail."
 msgstr ""
-"Ko'rib chiqish uchun yuborish uchun kengaytmali Zip faylni yuklang. Keyingi "
-"versiyalarni bir xil shakl yordamida yuklash mumkin. Kengaytmangiz ko'rib "
+"Koʻrib chiqish uchun yuborish uchun kengaytmali Zip faylni yuklang. Keyingi "
+"versiyalarni bir xil shakl yordamida yuklash mumkin. Kengaytmangiz koʻrib "
 "chiqilgach, sizga natija haqida elektron pochta orqali xabar beriladi."
 
 #: sweettooth/extensions/templates/extensions/upload.html:22
@@ -541,8 +542,8 @@ msgid ""
 "href=\"%(url)s\">gjs.guide</a> for directions on creating an extension and "
 "preparing it for upload."
 msgstr ""
-"Agar bu sizning birinchi kengaytmangiz bo'lsa, kengaytma yaratish va uni "
-"yuklashga tayyorlash bo'yicha ko'rsatmalar uchun <a "
+"Agar bu sizning birinchi kengaytmangiz boʻlsa, kengaytma yaratish va uni "
+"yuklashga tayyorlash boʻyicha koʻrsatmalar uchun <a "
 "href=\"%(url)s\">gjs.guide</a> dagi hujjatlarga qarang."
 
 #: sweettooth/extensions/templates/extensions/upload.html:34
@@ -579,13 +580,13 @@ msgstr "Xabar"
 #: sweettooth/ratings/templates/comments/preview.html:46
 #: extensions-web-domain-django:1
 msgid "Preview"
-msgstr "Oldindan ko'rish"
+msgstr "Oldindan koʻrish"
 
 #: sweettooth/ratings/templates/comments/form.html:8
 #: sweettooth/ratings/templates/comments/preview.html:27
 #: extensions-web-domain-django:1
 msgid "What do you think about this GNOME extension?"
-msgstr "Ushbu GNOME kengaytmasi haqida nima deb o'ylaysiz?"
+msgstr "Ushbu GNOME kengaytmasi haqida nima deb oʻylaysiz?"
 
 #: sweettooth/ratings/templates/comments/preview.html:13
 #: extensions-web-domain-django:1
@@ -598,7 +599,7 @@ msgstr[1] "Quyidagi xatolarni tuzating"
 #: sweettooth/ratings/templates/comments/preview.html:15
 #: extensions-web-domain-django:1
 msgid "Preview your comment"
-msgstr "Fikringizni oldindan ko'rib chiqing"
+msgstr "Fikringizni oldindan koʻrib chiqing"
 
 #: sweettooth/ratings/templates/comments/preview.html:18
 #: extensions-web-domain-django:1
@@ -613,11 +614,13 @@ msgstr "Izohlsiz"
 #: sweettooth/review/templates/review/review.html:73
 #: extensions-web-domain-django:1
 msgid ""
-"You can upload the next version by the <a href='https://extensions.gnome.org/"
-"upload/'>same form</a> you've posted this version."
+"You can upload the next version by the <a "
+"href='https://extensions.gnome.org/upload/'>same form</a> you've posted this"
+" version."
 msgstr ""
-"Siz keyingi versiyani ushbu versiyani joylagan <a href='https://"
-"extensions.gnome.org/upload/'>shakl</a> orqali yuklashingiz mumkin."
+"Siz keyingi versiyani ushbu versiyani joylagan <a "
+"href='https://extensions.gnome.org/upload/'>shakl</a> orqali yuklashingiz "
+"mumkin."
 
 #: sweettooth/review/templates/review/review.html:76
 #: extensions-web-domain-django:1
@@ -626,39 +629,39 @@ msgid ""
 "page."
 msgstr ""
 "Kengaytma sahifangizdagi belgini bosish orqali kengaytma belgisini "
-"o'zgartirishingiz mumkin."
+"oʻzgartirishingiz mumkin."
 
 #: sweettooth/review/templates/review/review.html:79
 #: extensions-web-domain-django:1
 msgid ""
-"In case you want to inactivate an approved version, click on inactivate link "
-"in your extension page."
+"In case you want to inactivate an approved version, click on inactivate link"
+" in your extension page."
 msgstr ""
-"Agar siz tasdiqlangan versiyani faolsizlantirmoqchi bo'lsangiz, kengaytma "
+"Agar siz tasdiqlangan versiyani faolsizlantirmoqchi boʻlsangiz, kengaytma "
 "sahifangizdagi faolsizlantirish havolasini bosing."
 
 #: sweettooth/review/templates/review/review.html:82
 #: extensions-web-domain-django:1
 msgid ""
-"You can find developer guides in <a href='https://gjs.guide/"
-"extensions/'>gjs.guide</a>."
+"You can find developer guides in <a "
+"href='https://gjs.guide/extensions/'>gjs.guide</a>."
 msgstr ""
-"Ishlab chiquvchi qoʻllanmalarini <a href='https://gjs.guide/"
-"extensions/'>gjs.guide</a> da topishingiz mumkin."
+"Ishlab chiquvchi qoʻllanmalarini <a "
+"href='https://gjs.guide/extensions/'>gjs.guide</a> da topishingiz mumkin."
 
 #: sweettooth/review/templates/review/review.html:85
 #: extensions-web-domain-django:1
 msgid ""
-"If you need any help with your extension, you can ask us on <a href='https://"
-"matrix.to/#/#extensions:gnome.org'>GNOME Matrix Channel</a>."
+"If you need any help with your extension, you can ask us on <a "
+"href='https://matrix.to/#/#extensions:gnome.org'>GNOME Matrix Channel</a>."
 msgstr ""
-"Agar sizga kengaytmangiz bo'yicha yordam kerak bo'lsa, bizdan <a "
-"href='https://matrix.to/#/#extensions:gnome.org'>GNOME Matrix Channel</a> "
-"orqali so'rashingiz mumkin."
+"Agar sizga kengaytmangiz boʻyicha yordam kerak boʻlsa, bizdan <a "
+"href='https://matrix.to/#/#extensions:gnome.orgʻ>GNOME Matrix Channel</a> "
+"orqali soʻrashingiz mumkin."
 
 #: sweettooth/templates/base.html:16 extensions-web-domain-django:1
 msgid "Latest extensions in GNOME Shell Extensions"
-msgstr "GNOME Shell kengaytmalaridagi so'nggi kengaytmalar"
+msgstr "GNOME Shell kengaytmalaridagi soʻnggi kengaytmalar"
 
 #: sweettooth/templates/base.html:17 sweettooth/templates/base.html:50
 #: extensions-web-domain-django:1
@@ -667,13 +670,13 @@ msgstr "GNOME Shell kengaytmalari"
 
 #: sweettooth/templates/base.html:96 extensions-web-domain-django:1
 msgid "Developers Guide"
-msgstr "Ishlab chiquvchilar uchun qo'llanma"
+msgstr "Ishlab chiquvchilar uchun qoʻllanma"
 
 #: sweettooth/templates/maintenance.html:5 extensions-web-domain-django:1
 msgid "The website is under maintenance. Please retry in a few minutes."
 msgstr ""
-"Veb-sayt parvarish qilinmoqda. Bir necha daqiqadan so‘ng qayta urinib "
-"ko‘ring."
+"Veb-sayt parvarish qilinmoqda. Bir necha daqiqadan soʻng qayta urinib "
+"koʻring."
 
 #: sweettooth/templates/usermenu.html:10 extensions-web-domain-django:1
 msgid "Log out"
@@ -694,16 +697,16 @@ msgid ""
 "host messaging application"
 msgstr ""
 "Ushbu sayt yordamida GNOME Shell kengaytmalarini boshqarish uchun siz ikki "
-"qismdan iborat GNOME Shell integratsiyasini o'rnatishingiz kerak: brauzer "
+"qismdan iborat GNOME Shell integratsiyasini oʻrnatishingiz kerak: brauzer "
 "kengaytmasi va mahalliy xost xabar almashish ilovasi"
 
 #: sweettooth/static/js/extensions.js:111 extensions-web-domain-djangojs:1
 msgid "Install GNOME Shell integration browser extension"
-msgstr "GNOME Shell integratsiya brauzer kengaytmasini o'rnating"
+msgstr "GNOME Shell integratsiya brauzer kengaytmasini oʻrnating"
 
 #: sweettooth/static/js/extensions.js:112 extensions-web-domain-djangojs:1
 msgid "Click here to install browser extension"
-msgstr "Brauzer kengaytmasini o'rnatish uchun shu yerni bosing"
+msgstr "Brauzer kengaytmasini oʻrnatish uchun shu yerni bosing"
 
 #: sweettooth/static/js/extensions.js:114 extensions-web-domain-djangojs:1
 #, javascript-format
@@ -719,18 +722,18 @@ msgid ""
 "troubleshooting entry</a> for more information."
 msgstr ""
 "Ushbu tizimda GNOME-ning ishlayotgan nusxasini aniqlay olmadik, shuning "
-"uchun interfeysning ba'zi qismlari o'chirilgan bo'lishi mumkin. Qo'shimcha "
+"uchun interfeysning ba'zi qismlari oʻchirilgan boʻlishi mumkin. Qoʻshimcha "
 "ma'lumot olish uchun <a href=\"/about/#no-detection\">bizning muammolarni "
-"bartaraf etish bo'limiga</a> qarang."
+"bartaraf etish boʻlimiga</a> qarang."
 
 #: sweettooth/static/js/extensions.js:136 extensions-web-domain-djangojs:1
 msgid "GNOME Shell Extensions cannot list your installed extensions."
 msgstr ""
-"GNOME Shell kengaytmalari o'rnatilgan kengaytmalaringizni ro'yxatga olmaydi."
+"GNOME Shell kengaytmalari oʻrnatilgan kengaytmalaringizni roʻyxatga olmaydi."
 
 #: sweettooth/static/js/fsui.js:125 extensions-web-domain-djangojs:1
 msgid "Compatible with"
-msgstr "Mos keladigan loyihalar ro'yxati"
+msgstr "Mos keladigan loyihalar roʻyxati"
 
 #: sweettooth/static/js/fsui.js:40 extensions-web-domain-djangojs:1
 msgid "Name"
@@ -738,7 +741,7 @@ msgstr "Ism"
 
 #: sweettooth/static/js/fsui.js:41 extensions-web-domain-djangojs:1
 msgid "Recent"
-msgstr "So‘nggi"
+msgstr "Soʻnggi"
 
 #: sweettooth/static/js/fsui.js:42 extensions-web-domain-djangojs:1
 msgid "Downloads"
@@ -764,12 +767,12 @@ msgstr "Muallif"
 #: sweettooth/static/js/templates/extensions/comments_list.mst:21
 #: extensions-web-domain-djangojs:1
 msgid "Show more reviews"
-msgstr "Ko'proq sharhlarni ko'rsatish"
+msgstr "Koʻproq sharhlarni koʻrsatish"
 
 #: sweettooth/static/js/templates/extensions/comments_list.mst:25
 #: extensions-web-domain-djangojs:1
 msgid "There are no comments. Be the first!"
-msgstr "Hech qanday izoh yo'q. Birinchi bo'ling!"
+msgstr "Hech qanday izoh yoʻq. Birinchi boʻling!"
 
 #: sweettooth/static/js/templates/extensions/info_contents.mst:21
 #: extensions-web-domain-djangojs:1

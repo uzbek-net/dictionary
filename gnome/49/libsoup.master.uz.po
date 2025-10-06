@@ -23,7 +23,7 @@ msgstr "Tarmoq oqimi kutilmaganda yopildi"
 
 #: libsoup/cache/soup-cache-input-stream.c:252
 msgid "Failed to completely cache the resource"
-msgstr "Resursni to‘liq keshlash amalga oshmadi"
+msgstr "Resursni toʻliq keshlash amalga oshmadi"
 
 #: libsoup/content-decoder/soup-converter-wrapper.c:197
 #, c-format
@@ -42,11 +42,11 @@ msgstr "Ulanish kutilmaganda uzildi"
 
 #: libsoup/http1/soup-body-input-stream.c:484
 msgid "Invalid seek request"
-msgstr "Noto'g'ri qidiruv so'rovi"
+msgstr "Notoʻgʻri qidiruv soʻrovi"
 
 #: libsoup/http1/soup-body-input-stream.c:512
 msgid "Cannot truncate SoupBodyInputStream"
-msgstr "SoupBodyInputStreamni kesib bo‘lmadi"
+msgstr "SoupBodyInputStreamni kesib boʻlmadi"
 
 #: libsoup/http1/soup-client-message-io-http1.c:322
 #: libsoup/http1/soup-client-message-io-http1.c:775
@@ -89,7 +89,7 @@ msgstr "TLS sertifikatisiz TLS serverini yaratib boʻlmaydi"
 
 #: libsoup/soup-session.c:1134
 msgid "Location header is missing or empty in response headers"
-msgstr "Javob sarlavhalarida joylashuv sarlavhasi yo'q yoki bo'sh"
+msgstr "Javob sarlavhalarida joylashuv sarlavhasi yoʻq yoki boʻsh"
 
 #: libsoup/soup-session.c:1148
 #, c-format
@@ -98,7 +98,7 @@ msgstr "Manzilga javob sarlavhasida \"%s\" URI haqiqiy emas"
 
 #: libsoup/soup-session.c:1168
 msgid "Too many redirects"
-msgstr "Juda ko'p yo'naltirishlar"
+msgstr "Juda koʻp yoʻnaltirishlar"
 
 #: libsoup/soup-session.c:1173
 msgid "Message was restarted too many times"
@@ -136,13 +136,13 @@ msgstr "Domenlar yetarli emas"
 #: libsoup/websocket/soup-websocket.c:435
 #: libsoup/websocket/soup-websocket.c:451
 msgid "Server requested unsupported extension"
-msgstr "Server qo'llab-quvvatlanmagan kengaytma talab qildi"
+msgstr "Server qoʻllab-quvvatlanmagan kengaytma talab qildi"
 
 #: libsoup/websocket/soup-websocket.c:414
 #: libsoup/websocket/soup-websocket.c:606
 #, c-format
 msgid "Incorrect WebSocket “%s” header"
-msgstr "Noto'g'ri WebSocket “%s” sarlavhasi"
+msgstr "Notoʻgʻri WebSocket “%s” sarlavhasi"
 
 #: libsoup/websocket/soup-websocket.c:415
 #: libsoup/websocket/soup-websocket.c:870
@@ -168,11 +168,11 @@ msgstr "WebSocket aloqasi kutilmoqda"
 
 #: libsoup/websocket/soup-websocket.c:587
 msgid "Unsupported WebSocket version"
-msgstr "Qo'llab-quvvatlanmaydigan WebSocket versiyasi"
+msgstr "Qoʻllab-quvvatlanmaydigan WebSocket versiyasi"
 
 #: libsoup/websocket/soup-websocket.c:596
 msgid "Invalid WebSocket key"
-msgstr "Noto'g'ri WebSocket kaliti"
+msgstr "Notoʻgʻri WebSocket kaliti"
 
 #: libsoup/websocket/soup-websocket.c:615
 msgid "Unsupported WebSocket subprotocol"
@@ -189,4 +189,4 @@ msgstr "WebSocket aloqasini server eʼtiborsiz qoldirdi"
 
 #: libsoup/websocket/soup-websocket.c:850
 msgid "Server requested unsupported protocol"
-msgstr "Server qo‘llab-quvvatlanmaydigan protokolni so‘radi"
+msgstr "Server qoʻllab-quvvatlanmaydigan protokolni soʻradi"

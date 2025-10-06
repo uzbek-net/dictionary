@@ -25,12 +25,12 @@ msgstr "%s ni ulash muvaffaqiyatsiz yakunlandi."
 #: plparse/totem-disc.c:418
 #, c-format
 msgid "No media in drive for device “%s”."
-msgstr "“%s” qurilmasida media yo'q."
+msgstr "“%s” qurilmasida media yoʻq."
 
 #: plparse/totem-disc.c:475
 #, c-format
 msgid "Please check that a disc is present in the drive."
-msgstr "Iltimos, diskning drayvda mavjudligini tekshirib ko'ring."
+msgstr "Iltimos, diskning drayvda mavjudligini tekshirib koʻring."
 
 #: plparse/totem-disc.c:946
 msgid "Audio CD"

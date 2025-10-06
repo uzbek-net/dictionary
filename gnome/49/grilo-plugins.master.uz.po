@@ -19,26 +19,26 @@ msgstr ""
 
 #: src/bookmarks/grl-bookmarks.c:60
 msgid "Bookmarks"
-msgstr "Xatcho'plar"
+msgstr "Xatchoʻplar"
 
 #: src/bookmarks/grl-bookmarks.c:61
 msgid "A source for organizing media bookmarks"
-msgstr "Media xatcho'plarni tashkil etish uchun manba"
+msgstr "Media xatchoʻplarni tashkil etish uchun manba"
 
 #: src/bookmarks/grl-bookmarks.c:427
 msgid "Failed to get bookmark metadata"
-msgstr "Xatcho'p metama'lumotini olishda xatolik"
+msgstr "Xatchoʻp metama'lumotini olishda xatolik"
 
 #: src/bookmarks/grl-bookmarks.c:457 src/bookmarks/grl-bookmarks.c:474
 #, c-format
 msgid "Failed to find bookmarks: %s"
-msgstr "%s Xatcho'plar topilmadi"
+msgstr "%s Xatchoʻplar topilmadi"
 
 #: src/bookmarks/grl-bookmarks.c:626 src/podcasts/grl-podcasts.c:823
 #: src/podcasts/grl-podcasts.c:855 src/podcasts/grl-podcasts.c:887
 #, c-format
 msgid "Failed to remove: %s"
-msgstr "%s ni o'chirishda xatolik"
+msgstr "%s ni oʻchirishda xatolik"
 
 #: src/bookmarks/grl-bookmarks.c:768 src/podcasts/grl-podcasts.c:928
 #: src/podcasts/grl-podcasts.c:961 src/podcasts/grl-podcasts.c:1813
@@ -48,11 +48,11 @@ msgstr "%s ni saqlashda xatolik"
 
 #: src/bookmarks/grl-bookmarks.c:842 src/bookmarks/grl-bookmarks.c:877
 #: src/bookmarks/grl-bookmarks.c:908 src/bookmarks/grl-bookmarks.c:966
-#: src/metadata-store/grl-metadata-store.c:874 src/podcasts/grl-podcasts.c:1669
-#: src/podcasts/grl-podcasts.c:1713 src/podcasts/grl-podcasts.c:1747
-#: src/podcasts/grl-podcasts.c:1782
+#: src/metadata-store/grl-metadata-store.c:874
+#: src/podcasts/grl-podcasts.c:1669 src/podcasts/grl-podcasts.c:1713
+#: src/podcasts/grl-podcasts.c:1747 src/podcasts/grl-podcasts.c:1782
 msgid "No database connection"
-msgstr "Ma'lumotlar bazasi bilan a'loqa yo'q"
+msgstr "Ma'lumotlar bazasi bilan a'loqa yoʻq"
 
 #: src/chromaprint/grl-chromaprint.c:41
 msgid "A plugin to get metadata using gstreamer framework"
@@ -65,7 +65,7 @@ msgstr "“%s” DLNA serverni qarab chiqish manbasi"
 
 #: src/dleyna/grl-dleyna-source.c:279
 msgid "Upload failed, target source destroyed"
-msgstr "Yuklashda xatolik, mo'ljal manbasi buzilgan"
+msgstr "Yuklashda xatolik, moʻljal manbasi buzilgan"
 
 # bizda qismni ifodalashda butun va qism joyi ingliz tiliga teskari.
 #: src/dleyna/grl-dleyna-source.c:382
@@ -82,7 +82,7 @@ msgstr ""
 #: src/dleyna/grl-dleyna-source.c:1572
 #, c-format
 msgid "Upload failed, URL missing on the media object to be transferred"
-msgstr "Yuklashda xatolik, o'tkazilayotgan media obyektida URL yo'q"
+msgstr "Yuklashda xatolik, oʻtkazilayotgan media obyektida URL yoʻq"
 
 #: src/dmap/grl-daap.c:51
 #, c-format
@@ -100,7 +100,7 @@ msgstr "San'atkorlar"
 #: src/dmap/grl-daap-db.c:291 src/magnatune/grl-magnatune.c:866
 #, c-format
 msgid "Invalid container identifier %s"
-msgstr "Noto'g'ri konteyner identifikatori %s"
+msgstr "Notoʻgʻri konteyner identifikatori %s"
 
 #: src/dmap/grl-dpap.c:51
 #, c-format
@@ -127,7 +127,7 @@ msgstr "%s File topilmadi"
 #: src/filesystem/grl-filesystem.c:1294 src/youtube/grl-youtube.c:1469
 #, c-format
 msgid "Cannot get media from %s"
-msgstr "%s dan mediani olib bo'lmadi"
+msgstr "%s dan mediani olib boʻlmadi"
 
 #: src/flickr/grl-flickr.c:53
 msgid "A source for browsing and searching Flickr photos"
@@ -184,7 +184,7 @@ msgstr "Mahalliy mavjud metama'lumotlarni ta'minlash manbasi"
 #: src/tracker/grl-tracker-source-api.c:530
 #, c-format
 msgid "Failed to resolve: %s"
-msgstr "%s ni topib bo'lmadi"
+msgstr "%s ni topib boʻlmadi"
 
 #: src/local-metadata/grl-local-metadata.c:673
 msgid "Cannot resolve any of the given keys"
@@ -192,7 +192,7 @@ msgstr "Berilgan kalitlardan hech biri topilmadi"
 
 #: src/local-metadata/grl-local-metadata.c:677
 msgid "A GIO supported URL for images is required"
-msgstr "Tasvirlar uchun GIO qo'llab-quvvtalaydigan URL zarur"
+msgstr "Tasvirlar uchun GIO qoʻllab-quvvtalaydigan URL zarur"
 
 #: src/magnatune/grl-magnatune.c:123
 msgid "Genres"
@@ -205,17 +205,17 @@ msgstr "Musiqani qarab chiqish uchun manba"
 #: src/magnatune/grl-magnatune.c:421
 #, c-format
 msgid "Failed to get database from magnatune: %s"
-msgstr "Magnatune dan ma'lumotlar bazasini olib bo'lmadi : %s"
+msgstr "Magnatune dan ma'lumotlar bazasini olib boʻlmadi : %s"
 
 #: src/magnatune/grl-magnatune.c:451
 #, c-format
 msgid "Failed to save database from magnatune: “%s”"
-msgstr "Magnatune dan ma'lumotlar bazasini saqlab bo'lmadi: “%s”"
+msgstr "Magnatune dan ma'lumotlar bazasini saqlab boʻlmadi: “%s”"
 
 #: src/magnatune/grl-magnatune.c:722
 #, c-format
 msgid "Failed to get table from magnatune db: %s"
-msgstr "Magnatune MB sidan jadvalni olib bo'lmadi: %s"
+msgstr "Magnatune MB sidan jadvalni olib boʻlmadi: %s"
 
 #: src/magnatune/grl-magnatune.c:738
 #, c-format
@@ -228,7 +228,7 @@ msgstr "Metama'lumotlar ombori"
 
 #: src/metadata-store/grl-metadata-store.c:41
 msgid "A plugin for storing extra metadata information"
-msgstr "Qo'shimcha metama'lumotlarni saqlash uchun plagin"
+msgstr "Qoʻshimcha metama'lumotlarni saqlash uchun plagin"
 
 #: src/metadata-store/grl-metadata-store.c:598
 #: src/metadata-store/grl-metadata-store.c:617
@@ -237,15 +237,15 @@ msgstr "Qo'shimcha metama'lumotlarni saqlash uchun plagin"
 #: src/tracker/grl-tracker-source-api.c:640
 #, c-format
 msgid "Failed to update metadata: %s"
-msgstr "Metama'lumotni yangilab bo'lmadi: %s"
+msgstr "Metama'lumotni yangilab boʻlmadi: %s"
 
 #: src/metadata-store/grl-metadata-store.c:599
 msgid "specified keys are not writable"
-msgstr "belgilangan kalitlarni yozib bo'lmaydi"
+msgstr "belgilangan kalitlarni yozib boʻlmaydi"
 
 #: src/metadata-store/grl-metadata-store.c:639
 msgid "Failed to update metadata"
-msgstr "Metama'lumotlarni yangilab bo'lmadi"
+msgstr "Metama'lumotlarni yangilab boʻlmadi"
 
 #: src/metadata-store/grl-metadata-store.c:785
 #: src/metadata-store/grl-metadata-store.c:830
@@ -254,7 +254,7 @@ msgstr "“source-id” mavjud emas"
 
 #: src/metadata-store/grl-metadata-store.c:805
 msgid "Failed to resolve"
-msgstr "Hal qilib bo'lmadi"
+msgstr "Hal qilib boʻlmadi"
 
 #: src/metadata-store/grl-metadata-store.c:942
 #: src/metadata-store/grl-metadata-store.c:979
@@ -278,42 +278,42 @@ msgstr "Podkastlarni qarab chiqish manbasi"
 #: src/podcasts/grl-podcasts.c:759 src/podcasts/grl-podcasts.c:779
 #, c-format
 msgid "Failed to get podcast streams: %s"
-msgstr "Podkast oqimini olib bo'lmadi: %s"
+msgstr "Podkast oqimini olib boʻlmadi: %s"
 
 # Ko'rish kerak
 #: src/podcasts/grl-podcasts.c:1245 src/podcasts/grl-podcasts.c:1254
 #: src/podcasts/grl-podcasts.c:1264
 msgid "Failed to parse content"
-msgstr "Tarkibni pars qilib bo'lmadi"
+msgstr "Tarkibni pars qilib boʻlmadi"
 
 #: src/podcasts/grl-podcasts.c:1275 src/podcasts/grl-podcasts.c:1304
 msgid "Failed to parse podcast contents"
-msgstr "Podkastl tarkibini pars qilib bo'lmadi"
+msgstr "Podkastl tarkibini pars qilib boʻlmadi"
 
 #: src/podcasts/grl-podcasts.c:1370 src/shoutcast/grl-shoutcast.c:417
 msgid "Empty response"
-msgstr "Bo'sh javob"
+msgstr "Boʻsh javob"
 
 #: src/podcasts/grl-podcasts.c:1459
 msgid "Failed to get podcast information"
-msgstr "Podkast ma'lumotlarini olib bo'lmadi"
+msgstr "Podkast ma'lumotlarini olib boʻlmadi"
 
 #: src/podcasts/grl-podcasts.c:1499 src/podcasts/grl-podcasts.c:1519
 #, c-format
 msgid "Failed to get podcasts list: %s"
-msgstr "Podkastlar ro'yxatini olib bo'lmadi: %s"
+msgstr "Podkastlar roʻyxatini olib boʻlmadi: %s"
 
 #: src/podcasts/grl-podcasts.c:1572 src/podcasts/grl-podcasts.c:1587
 msgid "Failed to get podcast stream metadata"
-msgstr "Podkast oqimi metama'lumotlarini olib bo'lmadi"
+msgstr "Podkast oqimi metama'lumotlarini olib boʻlmadi"
 
 #: src/podcasts/grl-podcasts.c:1625
 msgid "Failed to get podcast metadata"
-msgstr "Podkast metama'lumotini olib bo'lmadi"
+msgstr "Podkast metama'lumotini olib boʻlmadi"
 
 #: src/podcasts/grl-podcasts.c:1809
 msgid "Cannot create containers. Only feeds are accepted"
-msgstr "Konteynerlar yaratib bo'lmaydi. Faqat tasmalar qabul qilinadi"
+msgstr "Konteynerlar yaratib boʻlmaydi. Faqat tasmalar qabul qilinadi"
 
 #: src/podcasts/grl-podcasts.c:1814
 msgid "URL required"
@@ -325,7 +325,7 @@ msgstr "SHOUTcast radiolarini qarab chiqish manbasi"
 
 #: src/shoutcast/grl-shoutcast.c:409 src/shoutcast/grl-shoutcast.c:463
 msgid "Failed to parse response"
-msgstr "Javobni tahlil qilib bo'lmadi"
+msgstr "Javobni tahlil qilib boʻlmadi"
 
 #: src/shoutcast/grl-shoutcast.c:455
 #, c-format
@@ -335,11 +335,11 @@ msgstr "%s media topilmadi"
 #: src/shoutcast/grl-shoutcast.c:551
 #, c-format
 msgid "Failed to connect: %s"
-msgstr "Ulanib bo'lmadi: %s"
+msgstr "Ulanib boʻlmadi: %s"
 
 #: src/shoutcast/grl-shoutcast.c:750
 msgid "non-NULL search text is required"
-msgstr "qidiruv matni bo'lishi shart"
+msgstr "qidiruv matni boʻlishi shart"
 
 #: src/thetvdb/grl-thetvdb.c:93
 msgid "A source for fetching metadata of television shows"
@@ -347,7 +347,7 @@ msgstr "Televideniye shoulari metama'lumotlarini olish manbasi"
 
 #: src/tmdb/grl-tmdb.c:993
 msgid "Remote data does not contain valid identifier"
-msgstr "Masofaviy ma'lumotlarda to'g'ri identifikator yo'q"
+msgstr "Masofaviy ma'lumotlarda toʻgʻri identifikator yoʻq"
 
 #. I can haz templatze ??
 #. Schedule the next row to parse
@@ -360,7 +360,7 @@ msgstr "Masofaviy ma'lumotlarda to'g'ri identifikator yo'q"
 #: src/tracker/grl-tracker-source-api.c:484
 #, c-format
 msgid "Failed to query: %s"
-msgstr "So'rovda xatolik: %s"
+msgstr "Soʻrovda xatolik: %s"
 
 #: src/tracker3/grl-tracker-source-api.c:455
 #: src/tracker/grl-tracker-source-api.c:585
@@ -371,7 +371,7 @@ msgstr "Mediani uri dan olishda xatolik: %s"
 #: src/tracker3/grl-tracker-source-api.c:605
 #: src/tracker/grl-tracker-source-api.c:816
 msgid "Empty query"
-msgstr "Bo'sh so'rov"
+msgstr "Boʻsh soʻrov"
 
 #: src/tracker3/grl-tracker-source-api.c:826
 #: src/tracker3/grl-tracker-source-api.c:922
@@ -411,16 +411,16 @@ msgstr "Ta'minotni olishda xatolik"
 #: src/youtube/grl-youtube.c:997 src/youtube/grl-youtube.c:1385
 #, c-format
 msgid "Invalid feed identifier %s"
-msgstr "Noto'g'ri tasma identifikatori %s"
+msgstr "Notoʻgʻri tasma identifikatori %s"
 
 #: src/youtube/grl-youtube.c:1061 src/youtube/grl-youtube.c:1194
 #: src/youtube/grl-youtube.c:1406
 #, c-format
 msgid "Invalid category identifier %s"
-msgstr "Noto'g'ri kategoriya identifikatori %s"
+msgstr "Notoʻgʻri kategoriya identifikatori %s"
 
 #~ msgid "OpenSubtitles Provider"
 #~ msgstr "OpenSubtitles Ta'minotchisi"
 
 #~ msgid "A source providing a list of subtitles for a video"
-#~ msgstr "Videolarni subtitrlar ro'yxati bilan ta'minlash mabasi"
+#~ msgstr "Videolarni subtitrlar roʻyxati bilan ta'minlash mabasi"

@@ -87,19 +87,19 @@ msgstr ""
 #. (itstool) path: vbnet.lang/language@_section
 #. (itstool) path: verilog.lang/language@_section
 #. (itstool) path: vhdl.lang/language@_section
-#: abnf.lang:30 actionscript.lang:24 ada.lang:25 ansforth94.lang:24 asp.lang:23
-#: automake.lang:23 bennugd.lang:22 bluespec.lang:21 boo.lang:23 cg.lang:23
-#: chdr.lang:24 c.lang:24 cobol.lang:26 commonlisp.lang:24 cpphdr.lang:24
-#: cpp.lang:25 csharp.lang:26 cuda.lang:22 dart.lang:22 d.lang:29
-#: docker.lang:21 eiffel.lang:23 erlang.lang:23 forth.lang:23 fortran.lang:24
-#: fsharp.lang:24 genie.lang:23 glsl.lang:30 go.lang:24 gradle.lang:21
-#: groovy.lang:24 haskell.lang:24 haskell-literate.lang:23 haxe.lang:34
-#: idl.lang:23 java.lang:24 j.lang:23 kotlin.lang:24 lean.lang:23 lex.lang:24
-#: llvm.lang:22 logtalk.lang:23 makefile.lang:22 meson.lang:23 nemerle.lang:23
-#: netrexx.lang:23 objc.lang:23 objj.lang:26 ocaml.lang:26 ooc.lang:23
-#: opal.lang:23 opencl.lang:23 pascal.lang:24 pig.lang:26 powershell.lang:23
-#: prolog.lang:23 rust.lang:35 scala.lang:24 scheme.lang:23 sml.lang:23
-#: solidity.lang:28 sparql.lang:23 sql.lang:23 swift.lang:24
+#: abnf.lang:30 actionscript.lang:24 ada.lang:25 ansforth94.lang:24
+#: asp.lang:23 automake.lang:23 bennugd.lang:22 bluespec.lang:21 boo.lang:23
+#: cg.lang:23 chdr.lang:24 c.lang:24 cobol.lang:26 commonlisp.lang:24
+#: cpphdr.lang:24 cpp.lang:25 csharp.lang:26 cuda.lang:22 dart.lang:22
+#: d.lang:29 docker.lang:21 eiffel.lang:23 erlang.lang:23 forth.lang:23
+#: fortran.lang:24 fsharp.lang:24 genie.lang:23 glsl.lang:30 go.lang:24
+#: gradle.lang:21 groovy.lang:24 haskell.lang:24 haskell-literate.lang:23
+#: haxe.lang:34 idl.lang:23 java.lang:24 j.lang:23 kotlin.lang:24 lean.lang:23
+#: lex.lang:24 llvm.lang:22 logtalk.lang:23 makefile.lang:22 meson.lang:23
+#: nemerle.lang:23 netrexx.lang:23 objc.lang:23 objj.lang:26 ocaml.lang:26
+#: ooc.lang:23 opal.lang:23 opencl.lang:23 pascal.lang:24 pig.lang:26
+#: powershell.lang:23 prolog.lang:23 rust.lang:35 scala.lang:24 scheme.lang:23
+#: sml.lang:23 solidity.lang:28 sparql.lang:23 sql.lang:23 swift.lang:24
 #: systemverilog.lang:21 thrift.lang:20 vala.lang:27 vbnet.lang:23
 #: verilog.lang:23 vhdl.lang:23
 msgid "Source"
@@ -239,7 +239,7 @@ msgstr "C++ sarlavhasi"
 #. (itstool) path: dosbatch.lang/language@_name
 #: dosbatch.lang:23
 msgid "DOS Batch"
-msgstr "DOS to'plami"
+msgstr "DOS toʻplami"
 
 #. (itstool) path: dtl.lang/language@_name
 #: dtl.lang:25
@@ -332,7 +332,7 @@ msgstr "Tango ranglar palitrasidan foydalangan holda quyuq rang sxemasi"
 #. (itstool) path: solarized-dark.xml/style-scheme@_name
 #: solarized-dark.xml:23
 msgid "Solarized Dark"
-msgstr "Solarizatsiyalangan qorong'u"
+msgstr "Solarizatsiyalangan qorongʻu"
 
 #. (itstool) path: style-scheme/_description
 #: solarized-dark.xml:25
@@ -344,13 +344,14 @@ msgstr ""
 #. (itstool) path: solarized-light.xml/style-scheme@_name
 #: solarized-light.xml:23
 msgid "Solarized Light"
-msgstr "Solarizatsiyalangan yorug'lik"
+msgstr "Solarizatsiyalangan yorugʻlik"
 
 #. (itstool) path: style-scheme/_description
 #: solarized-light.xml:25
 msgid "Color scheme using Solarized light color palette"
 msgstr ""
-"Solarizatsiyalangan ochiq ranglar palitrasidan foydalangan holda rang sxemasi"
+"Solarizatsiyalangan ochiq ranglar palitrasidan foydalangan holda rang "
+"sxemasi"
 
 #. (itstool) path: tango.xml/style-scheme@_name
 #: tango.xml:23
@@ -364,7 +365,7 @@ msgstr "Tango rang palitrasidan foydalangan holda rang sxemasi"
 
 #: gtksourceview/completion-providers/words/gtksourcecompletionwords.c:332
 msgid "Document Words"
-msgstr "Hujjat so'zlari"
+msgstr "Hujjat soʻzlari"
 
 #: gtksourceview/gtksourcebufferoutputstream.c:843
 msgid "Invalid byte sequence in conversion input"
@@ -379,12 +380,12 @@ msgstr "Konvertatsiya paytida xatolik yuz berdi: %s"
 #, c-format
 msgid "Conversion from character set “%s” to “UTF-8” is not supported"
 msgstr ""
-"“%s” belgilar to‘plamidan “UTF-8”ga o‘zgartirish qo‘llab-quvvatlanmaydi"
+"“%s” belgilar toʻplamidan “UTF-8”ga oʻzgartirish qoʻllab-quvvatlanmaydi"
 
 #: gtksourceview/gtksourcebufferoutputstream.c:936
 #, c-format
 msgid "Could not open converter from “%s” to “UTF-8”"
-msgstr "“%s” dan “UTF-8” ga konvertorni ochib bo‘lmadi"
+msgstr "“%s” dan “UTF-8” ga konvertorni ochib boʻlmadi"
 
 #: gtksourceview/gtksourcebufferoutputstream.c:996
 msgid "Invalid object, not initialized"
@@ -412,7 +413,7 @@ msgstr "Provayder"
 
 #: gtksourceview/gtksourcecompletion.ui:86
 msgid "Show detailed proposal information"
-msgstr "Batafsil taklif ma'lumotlarini ko'rsatish"
+msgstr "Batafsil taklif ma'lumotlarini koʻrsatish"
 
 #: gtksourceview/gtksourcecompletion.ui:88
 msgid "_Details…"
@@ -425,12 +426,10 @@ msgstr "_Tafsilotlar…"
 #: gtksourceview/gtksourcecontextengine.c:3140
 #, c-format
 msgid ""
-"Cannot create a regex for all the transitions, the syntax highlighting "
-"process will be slower than usual.\n"
+"Cannot create a regex for all the transitions, the syntax highlighting process will be slower than usual.\n"
 "The error was: %s"
 msgstr ""
-"Barcha o'tishlar uchun regex yaratib bo'lmaydi, sintaksisni ta'kidlash "
-"jarayoni odatdagidan sekinroq bo'ladi.\n"
+"Barcha oʻtishlar uchun regex yaratib boʻlmaydi, sintaksisni ta'kidlash jarayoni odatdagidan sekinroq boʻladi.\n"
 "Xato: %s"
 
 #: gtksourceview/gtksourcecontextengine.c:4474
@@ -438,13 +437,13 @@ msgid ""
 "Highlighting a single line took too much time, syntax highlighting will be "
 "disabled"
 msgstr ""
-"Bitta qatorni ajratib ko'rsatish juda ko'p vaqtni oldi, sintaksisni ajratib "
-"ko'rsatish o'chirib qo'yiladi"
+"Bitta qatorni ajratib koʻrsatish juda koʻp vaqtni oldi, sintaksisni ajratib "
+"koʻrsatish oʻchirib qoʻyiladi"
 
 #: gtksourceview/gtksourcecontextengine.c:5724
 #, c-format
 msgid "context “%s” cannot contain a \\%%{...@start} command"
-msgstr "“%s” kontekstida \\%%{...@start} buyrug‘i bo‘lishi mumkin emas"
+msgstr "“%s” kontekstida \\%%{...@start} buyrugʻi boʻlishi mumkin emas"
 
 #: gtksourceview/gtksourcecontextengine.c:5887
 #: gtksourceview/gtksourcecontextengine.c:5977
@@ -459,13 +458,13 @@ msgid ""
 "style override used with wildcard context reference in language “%s” in ref "
 "“%s”"
 msgstr ""
-"uslubni bekor qilish “%s” refidagi “%s” tilida joker kontekst havolasi bilan "
-"ishlatiladi"
+"uslubni bekor qilish “%s” refidagi “%s” tilida joker kontekst havolasi bilan"
+" ishlatiladi"
 
 #: gtksourceview/gtksourcecontextengine.c:6165
 #, c-format
 msgid "invalid context reference “%s”"
-msgstr "“%s” kontekst havolasi noto‘g‘ri"
+msgstr "“%s” kontekst havolasi notoʻgʻri"
 
 #: gtksourceview/gtksourcecontextengine.c:6184
 #: gtksourceview/gtksourcecontextengine.c:6194
@@ -488,7 +487,7 @@ msgstr "Yunikod"
 #: gtksourceview/gtksourceencoding.c:154 gtksourceview/gtksourceencoding.c:178
 #: gtksourceview/gtksourceencoding.c:228 gtksourceview/gtksourceencoding.c:271
 msgid "Western"
-msgstr "G'arbiy"
+msgstr "Gʻarbiy"
 
 #: gtksourceview/gtksourceencoding.c:156 gtksourceview/gtksourceencoding.c:230
 #: gtksourceview/gtksourceencoding.c:267
@@ -604,10 +603,10 @@ msgstr "Nomaʼlum"
 #. * value used by GtkSourceView and it represents the encoding for the
 #. * current locale, so please don't translate the "CURRENT" term.  Only
 #. * recognized encodings are used. See
-#. * https://gitlab.gnome.org/GNOME/gtksourceview/blob/master/gtksourceview/gtksourceencoding.c#L142
+#. *
+#. https://gitlab.gnome.org/GNOME/gtksourceview/blob/master/gtksourceview/gtksourceencoding.c#L142
 #. * for a list of supported encodings.
 #. * Keep the same format: square brackets, single quotes, commas.
-#.
 #: gtksourceview/gtksourceencoding.c:638
 msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
 msgstr "['UTF-8', 'JORIY', 'ISO-8859-15', 'UTF-16']"
@@ -630,7 +629,7 @@ msgstr "Oddiy fayl emas."
 
 #: gtksourceview/gtksourcefilesaver.c:975
 msgid "The file is externally modified."
-msgstr "Fayl tashqi tomondan o'zgartirilgan."
+msgstr "Fayl tashqi tomondan oʻzgartirilgan."
 
 #: gtksourceview/gtksourcefilesaver.c:1427
 msgid "The buffer contains invalid characters."
@@ -642,12 +641,13 @@ msgstr "Buferda yaroqsiz belgilar mavjud."
 #. * @Title: GtkSourceLanguage
 #. * @See_also: #GtkSourceLanguageManager
 #. *
-#. * A #GtkSourceLanguage represents a programming or markup language, affecting
+#. * A #GtkSourceLanguage represents a programming or markup language,
+#. affecting
 #. * syntax highlighting and [context classes][context-classes].
 #. *
-#. * Use #GtkSourceLanguageManager to obtain a #GtkSourceLanguage instance, and
+#. * Use #GtkSourceLanguageManager to obtain a #GtkSourceLanguage instance,
+#. and
 #. * gtk_source_buffer_set_language() to apply it to a #GtkSourceBuffer.
-#.
 #: gtksourceview/gtksourcelanguage.c:56
 msgid "Others"
 msgstr "Boshqalar"
@@ -699,7 +699,7 @@ msgstr "Hammasi kichik harf"
 
 #: gtksourceview/gtksourceview.c:1860
 msgid "_Invert Case"
-msgstr "Registrni o'zgartiring"
+msgstr "Registrni oʻzgartiring"
 
 #: gtksourceview/gtksourceview.c:1870
 msgid "_Title Case"
@@ -707,4 +707,4 @@ msgstr "Bosh harfli"
 
 #: gtksourceview/gtksourceview.c:1880
 msgid "C_hange Case"
-msgstr "O'zgartirish"
+msgstr "Oʻzgartirish"

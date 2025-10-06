@@ -20,16 +20,15 @@ msgstr ""
 #: gspell/gspell-checker.c:397
 #, c-format
 msgid "Error when checking the spelling of word “%s”: %s"
-msgstr "\"%s\" so'zining imlosini tekshirayotganda xatolik ro'y berdi: %s"
+msgstr "\"%s\" soʻzining imlosini tekshirayotganda xatolik roʻy berdi: %s"
 
 #. Translators: Displayed in the "Check Spelling"
 #. * dialog if there are no suggestions for the current
 #. * misspelled word.
-#.
 #. No suggestions. Put something in the menu anyway...
 #: gspell/gspell-checker-dialog.c:132 gspell/gspell-context-menu.c:199
 msgid "(no suggested words)"
-msgstr "(taklif qilingan so'zlar yo'q)"
+msgstr "(taklif qilingan soʻzlar yoʻq)"
 
 #: gspell/gspell-checker-dialog.c:217
 msgid "Error:"
@@ -41,15 +40,14 @@ msgstr "Imlo tekshiruvi yakunlandi"
 
 #: gspell/gspell-checker-dialog.c:257
 msgid "No misspelled words"
-msgstr "Xato yozilgan so'zlar yo'q"
+msgstr "Xato yozilgan soʻzlar yoʻq"
 
 #. Translators: Displayed in the "Check
 #. * Spelling" dialog if the current word
 #. * isn't misspelled.
-#.
 #: gspell/gspell-checker-dialog.c:484
 msgid "(correct spelling)"
-msgstr "(to'g'ri imlo)"
+msgstr "(toʻgʻri imlo)"
 
 #: gspell/gspell-checker-dialog.c:626
 msgid "Suggestions"
@@ -71,7 +69,7 @@ msgstr "_Hammasini e'tiborsiz qoldirish"
 #. Add to Dictionary
 #: gspell/gspell-context-menu.c:285
 msgid "_Add"
-msgstr "_Qo'shish"
+msgstr "_Qoʻshish"
 
 #: gspell/gspell-context-menu.c:322
 msgid "_Spelling Suggestions…"
@@ -90,11 +88,11 @@ msgstr "Til tanlanmagan"
 
 #: gspell/gspell-navigator-text-view.c:292
 msgid ""
-"Spell checker error: no language set. It’s maybe because no dictionaries are "
-"installed."
+"Spell checker error: no language set. It’s maybe because no dictionaries are"
+" installed."
 msgstr ""
-"Imlo tekshiruvi xatosi: til o'rnatilmagan. Lug'atlar o'rnatilmagani sabab "
-"bo'lishi mumkin."
+"Imlo tekshiruvi xatosi: til oʻrnatilmagan. Lugʻatlar oʻrnatilmagani sabab "
+"boʻlishi mumkin."
 
 #: gspell/resources/checker-dialog.ui:7
 msgid "Check Spelling"
@@ -102,19 +100,19 @@ msgstr "Imloni Tekshiring"
 
 #: gspell/resources/checker-dialog.ui:36
 msgid "Misspelled word:"
-msgstr "Xato yozilgan so'z:"
+msgstr "Xato yozilgan soʻz:"
 
 #: gspell/resources/checker-dialog.ui:49
 msgid "word"
-msgstr "so'z"
+msgstr "soʻz"
 
 #: gspell/resources/checker-dialog.ui:66
 msgid "Change _to:"
-msgstr "_ga o'zgartirish:"
+msgstr "_ga oʻzgartirish:"
 
 #: gspell/resources/checker-dialog.ui:91
 msgid "Check _Word"
-msgstr "_So'zni tekshiring"
+msgstr "_Soʻzni tekshiring"
 
 #: gspell/resources/checker-dialog.ui:120
 msgid "_Suggestions:"
@@ -130,19 +128,19 @@ msgstr "_Hammasini e'tiborsiz qoldirish"
 
 #: gspell/resources/checker-dialog.ui:159
 msgid "Cha_nge"
-msgstr "O'zgartirish"
+msgstr "Oʻzgartirish"
 
 #: gspell/resources/checker-dialog.ui:174
 msgid "Change A_ll"
-msgstr "Hammasini O'zgartirish"
+msgstr "Hammasini Oʻzgartirish"
 
 #: gspell/resources/checker-dialog.ui:191
 msgid "User dictionary:"
-msgstr "Foydalanuvchi lug'ati:"
+msgstr "Foydalanuvchi lugʻati:"
 
 #: gspell/resources/checker-dialog.ui:203
 msgid "Add w_ord"
-msgstr "So'z qo'shing"
+msgstr "Soʻz qoʻshing"
 
 #: gspell/resources/language-dialog.ui:7
 msgid "Set Language"

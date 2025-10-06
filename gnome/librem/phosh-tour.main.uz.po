@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: phosh-tour main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-tour/-/"
-"issues\n"
-"POT-Creation-Date: 2025-10-01 04:19+0000\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-tour/-/issues\n"
+"POT-Creation-Date: 2025-10-05 09:20+0000\n"
 "PO-Revision-Date: 2025-04-04 22:11+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -18,17 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.6\n"
 
-#. @BRAND@ is a substitution variable and must not be translated, it is the brand of a device (e.g. Librem 5)
-#. Translators @BRAND@ is substitution variable and must not be translated, it is the brand of a device (e.g. Librem 5)
+#. @BRAND@ is a substitution variable and must not be translated, it is the
+#. brand of a device (e.g. Librem 5)
+#. Translators @BRAND@ is substitution variable and must not be translated, it
+#. is the brand of a device (e.g. Librem 5)
 #: data/mobi.phosh.PhoshTour.desktop.in.in:3
 #: data/mobi.phosh.PhoshTour-first-login.desktop.in.in:2
 #: data/mobi.phosh.PhoshTour.metainfo.xml.in.in:5
 msgid "@BRAND@ Tour"
 msgstr "@BRAND@ sayohat"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#. @BRAND@ is a substitution variable and must not be translated, it is the brand of a device (e.g. Librem 5)
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons. The list MUST also end with a semicolon.
+#. @BRAND@ is a substitution variable and must not be translated, it is the
+#. brand of a device (e.g. Librem 5)
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons. The list MUST also end with a semicolon.
 #: data/mobi.phosh.PhoshTour.desktop.in.in:13
 #: data/mobi.phosh.PhoshTour-first-login.desktop.in.in:11
 msgid "Mobile;Tour;@BRAND@;"
@@ -40,7 +44,8 @@ msgstr ""
 "Ushbu ilovalar sizni kichik grafik ekskursiya orqali qurilmangiz bilan "
 "tanishtiradi."
 
-#. Translators @BRAND@ is substitution variable and must not be translated, it is the brand of a device (e.g. Librem 5)
+#. Translators @BRAND@ is substitution variable and must not be translated, it
+#. is the brand of a device (e.g. Librem 5)
 #: data/mobi.phosh.PhoshTour.metainfo.xml.in.in:14
 msgid "@BRAND@ graphical tour"
 msgstr "@BRAND@ grafik sayohat"
@@ -88,7 +93,7 @@ msgstr "Umumiy"
 #: src/gtk/help-overlay.ui:50
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: src/gtk/help-overlay.ui:56
 msgctxt "shortcut window"
@@ -111,8 +116,10 @@ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 msgid "Welcome"
 msgstr "Xush kelibsiz"
 
-#. Translators: @BRAND@ and @VENDOR@ are substitution variables and must not be translated
-#. @VENDOR@ is a device vendor (e.g. Purism) and @BRAND@ is the brand of a device (e.g. Librem 5)
+#. Translators: @BRAND@ and @VENDOR@ are substitution variables and must not
+#. be translated
+#. @VENDOR@ is a device vendor (e.g. Purism) and @BRAND@ is the brand of a
+#. device (e.g. Librem 5)
 #: src/ui/pt-window.ui:34
 msgid "Get to know the features of your @BRAND@ and @VENDOR@."
 msgstr "@BRAND@ va @VENDOR@ xususiyatlari bilan tanishing."
@@ -128,8 +135,8 @@ msgid ""
 "At any time you can disable Wi-Fi, Bluetooth and telephony by flipping the "
 "kill switches on the side of your @BRAND@"
 msgstr ""
-"Istalgan vaqtda @BRAND@ yonidagi oʻchirish tugmachalarini aylantirib, Wi-Fi, "
-"Bluetooth va telefoniyani oʻchirib qoʻyishingiz mumkin"
+"Istalgan vaqtda @BRAND@ yonidagi oʻchirish tugmachalarini aylantirib, Wi-Fi,"
+" Bluetooth va telefoniyani oʻchirib qoʻyishingiz mumkin"
 
 #: src/ui/pt-window.ui:52
 msgid "Going Home"
@@ -145,7 +152,7 @@ msgstr ""
 
 #: src/ui/pt-window.ui:60
 msgid "Show Keyboard"
-msgstr "Klaviatura tartibini ko'rsatish"
+msgstr "Klaviatura tartibini koʻrsatish"
 
 #: src/ui/pt-window.ui:61
 msgid "Long pressing on the home bar will reveal the keyboard at any time."
@@ -170,13 +177,13 @@ msgstr "Quvvat menyusi"
 
 #: src/ui/pt-window.ui:77
 msgid ""
-"Pressing and holding the Power button will display a menu with quick actions "
-"for your device. When set up, an Emergency calling action will also be "
+"Pressing and holding the Power button will display a menu with quick actions"
+" for your device. When set up, an Emergency calling action will also be "
 "available."
 msgstr ""
-"Quvvat tugmasini bosish va ushlab turish qurilmangiz uchun tezkor harakatlar "
-"menyusini ko'rsatadi. Sozlanganda Favqulodda qo'ng'iroq qilish funksiyasi "
-"ham mavjud bo'ladi."
+"Quvvat tugmasini bosish va ushlab turish qurilmangiz uchun tezkor harakatlar"
+" menyusini koʻrsatadi. Sozlanganda Favqulodda qoʻngʻiroq qilish funksiyasi "
+"ham mavjud boʻladi."
 
 #: src/ui/pt-window.ui:84
 msgid "Slide to Unlock"
@@ -188,7 +195,8 @@ msgid ""
 "unlock your device with your PIN."
 msgstr ""
 "Qurilmangiz qulflanganda, yuqoriga sursangiz, PIN kodingiz bilan "
-"qurilmangizni qulfdan chiqarishingiz mumkin bo‘lgan klaviatura paydo bo‘ladi."
+"qurilmangizni qulfdan chiqarishingiz mumkin boʻlgan klaviatura paydo "
+"boʻladi."
 
 #: src/ui/pt-window.ui:92
 msgid "Closing Applications"
@@ -199,8 +207,8 @@ msgid ""
 "In the Overview, you can see a list of your applications, dismiss them with "
 "a swipe up or by hitting the close button."
 msgstr ""
-"Umumiy ko'rinishda siz ilovalaringiz ro'yxatini ko'rishingiz, ularni "
-"yuqoriga suring yoki yopish tugmasini bosish orqali o'chirib qo'yishingiz "
+"Umumiy koʻrinishda siz ilovalaringiz roʻyxatini koʻrishingiz, ularni "
+"yuqoriga suring yoki yopish tugmasini bosish orqali oʻchirib qoʻyishingiz "
 "mumkin."
 
 #: src/ui/pt-window.ui:100
@@ -212,8 +220,8 @@ msgid ""
 "Tap an application icon in the App Grid to launch it, or use the Search bar "
 "to find the application you are looking for."
 msgstr ""
-"Uni ishga tushirish uchun Ilovalar panjarasidagi ilova belgisiga teging yoki "
-"izlayotgan ilovani topish uchun Qidiruv panelidan foydalaning."
+"Uni ishga tushirish uchun Ilovalar panjarasidagi ilova belgisiga teging yoki"
+" izlayotgan ilovani topish uchun Qidiruv panelidan foydalaning."
 
 #: src/ui/pt-window.ui:108
 msgid "See Your Notifications"
@@ -233,8 +241,10 @@ msgstr ""
 msgid "Welcome to your @BRAND@!"
 msgstr "@BRAND@ ga xush kelibsiz!"
 
-#. Translators: @VENDOR@ and @URL@ are substitution variable and must not be translated
-#. @VENDOR@ is a device vendor (e.g. Purism) and @URL@ the URL to a web site with further information
+#. Translators: @VENDOR@ and @URL@ are substitution variable and must not be
+#. translated
+#. @VENDOR@ is a device vendor (e.g. Purism) and @URL@ the URL to a web site
+#. with further information
 #: src/ui/pt-window.ui:121
 msgid "To find out more about @VENDOR@ or your device, check out @URL@."
 msgstr ""

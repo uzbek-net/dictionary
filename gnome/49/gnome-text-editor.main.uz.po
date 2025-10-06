@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-text-editor main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/chergert/gnome-text-editor/"
-"issues\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/chergert/gnome-text-editor/issues\n"
 "POT-Creation-Date: 2025-09-29 17:05+0000\n"
 "PO-Revision-Date: 2025-04-02 15:52+0500\n"
 "Last-Translator: \n"
@@ -32,7 +31,7 @@ msgstr "Matnni tahrirlagich"
 
 #: data/org.gnome.TextEditor.desktop.in.in:9
 msgid "View and edit text files"
-msgstr "Matn fayllarini ko'rish va tahrirlash"
+msgstr "Matn fayllarini koʻrish va tahrirlash"
 
 #: data/org.gnome.TextEditor.desktop.in.in:21
 msgid "New Window"
@@ -79,7 +78,7 @@ msgstr "Chiziq uslubi"
 msgid ""
 "Whether the editor should insert multiple spaces characters instead of tabs."
 msgstr ""
-"Tahrirlovchi yorliqlar o’rniga bir nechta bo’sh joy belgilarini kiritishi "
+"Tahrirlovchi yorliqlar oʻrniga bir nechta boʻsh joy belgilarini kiritishi "
 "kerakmi."
 
 #: data/org.gnome.TextEditor.gschema.xml:40
@@ -87,7 +86,8 @@ msgid "Auto Indent"
 msgstr "Avtomatik chekinish"
 
 #: data/org.gnome.TextEditor.gschema.xml:41
-msgid "Automatically indent new lines copying the previous line's indentation."
+msgid ""
+"Automatically indent new lines copying the previous line's indentation."
 msgstr ""
 "Avtomatik ravishda yangi satrlarni oldingi qatorning chekinishini nusxalash."
 
@@ -97,7 +97,7 @@ msgstr "Yorliq kengligi"
 
 #: data/org.gnome.TextEditor.gschema.xml:47
 msgid "The number of spaces represented by a tab."
-msgstr "Yorliq bilan ifodalangan bo’shliqlar soni."
+msgstr "Yorliq bilan ifodalangan boʻshliqlar soni."
 
 #: data/org.gnome.TextEditor.gschema.xml:52
 msgid "Indent Width"
@@ -106,32 +106,33 @@ msgstr "Indent kengligi"
 #: data/org.gnome.TextEditor.gschema.xml:53
 msgid "The number of spaces to indent or -1 to use tab-width."
 msgstr ""
-"Chekish uchun bo’shliqlar soni yoki yorliq kengligidan foydalanish uchun -1."
+"Chekish uchun boʻshliqlar soni yoki yorliq kengligidan foydalanish uchun -1."
 
 #: data/org.gnome.TextEditor.gschema.xml:57
 msgid "Show Line Numbers"
-msgstr "Satr raqamlarini ko’rsatish"
+msgstr "Satr raqamlarini koʻrsatish"
 
 #: data/org.gnome.TextEditor.gschema.xml:58
 msgid "Whether line numbers should be displayed next to each line."
-msgstr "Har bir satr yonida qator raqamlari ko’rsatilishi kerakmi."
+msgstr "Har bir satr yonida qator raqamlari koʻrsatilishi kerakmi."
 
 #: data/org.gnome.TextEditor.gschema.xml:62
 msgid "Show Right Margin"
-msgstr "O’ng chetini ko’rsatish"
+msgstr "Oʻng chetini koʻrsatish"
 
 #: data/org.gnome.TextEditor.gschema.xml:63
 msgid "Whether a margin line should be displayed on the right of the editor."
-msgstr "Tahrirlovchining o’ng tomonida chegara chizig’i ko’rsatilishi kerakmi."
+msgstr ""
+"Tahrirlovchining oʻng tomonida chegara chizigʻi koʻrsatilishi kerakmi."
 
 #: data/org.gnome.TextEditor.gschema.xml:68
 msgid "Right Margin Position"
-msgstr "O’ng chegara pozitsiyasi"
+msgstr "Oʻng chegara pozitsiyasi"
 
 #: data/org.gnome.TextEditor.gschema.xml:69
 msgid ""
 "The position in characters at which the right margin should be displayed."
-msgstr "O’ng chekka ko’rsatilishi kerak bo’lgan belgilardagi joy."
+msgstr "Oʻng chekka koʻrsatilishi kerak boʻlgan belgilardagi joy."
 
 #: data/org.gnome.TextEditor.gschema.xml:73
 msgid "Show Overview Map"
@@ -139,28 +140,30 @@ msgstr "Umumiy koʻrinish xaritasini koʻrsatish"
 
 #: data/org.gnome.TextEditor.gschema.xml:74
 msgid ""
-"If enabled, an overview map of the file will be displayed to the side of the "
-"editor."
+"If enabled, an overview map of the file will be displayed to the side of the"
+" editor."
 msgstr ""
-"Agar yoqilgan bo’lsa, muharrir tomonida faylning umumiy ko’rinishi xaritasi "
-"ko’rsatiladi."
+"Agar yoqilgan boʻlsa, muharrir tomonida faylning umumiy koʻrinishi xaritasi "
+"koʻrsatiladi."
 
 #: data/org.gnome.TextEditor.gschema.xml:78
 msgid "Show Background Grid"
-msgstr "Fon panjarasini ko’rsatish"
+msgstr "Fon panjarasini koʻrsatish"
 
 #: data/org.gnome.TextEditor.gschema.xml:79
-msgid "If enabled, a blueprint style grid is printed on the editor background."
+msgid ""
+"If enabled, a blueprint style grid is printed on the editor background."
 msgstr ""
-"Agar yoqilgan bo’lsa, muharrir fonida chizma uslubidagi panjara chop etiladi."
+"Agar yoqilgan boʻlsa, muharrir fonida chizma uslubidagi panjara chop "
+"etiladi."
 
 #: data/org.gnome.TextEditor.gschema.xml:83
 msgid "Highlight current line"
-msgstr "Joriy qatorni ajratib ko’rsatish"
+msgstr "Joriy qatorni ajratib koʻrsatish"
 
 #: data/org.gnome.TextEditor.gschema.xml:84
 msgid "If enabled, the current line will be highlighted."
-msgstr "Agar yoqilgan bo’lsa, joriy qator ajratib ko’rsatiladi."
+msgstr "Agar yoqilgan boʻlsa, joriy qator ajratib koʻrsatiladi."
 
 #: data/org.gnome.TextEditor.gschema.xml:88
 msgid "Text Wrapping"
@@ -168,7 +171,7 @@ msgstr "Matnni oʻrash"
 
 #: data/org.gnome.TextEditor.gschema.xml:89
 msgid "Whether text should be wrapped."
-msgstr "Matn o’ralgan bo’lishi kerakmi."
+msgstr "Matn oʻralgan boʻlishi kerakmi."
 
 #: data/org.gnome.TextEditor.gschema.xml:93
 msgid "Use System Font"
@@ -196,7 +199,7 @@ msgid ""
 "format when available."
 msgstr ""
 "Tahrirlovchi tomonidan foydalaniladigan uslublar sxemasi. Agar mavjud "
-"bo’lsa, u buni qorong’i formatga tarjima qilishi mumkin."
+"boʻlsa, u buni qorongʻi formatga tarjima qilishi mumkin."
 
 #: data/org.gnome.TextEditor.gschema.xml:108
 msgid "Discover File Settings"
@@ -207,7 +210,7 @@ msgid ""
 "If enabled, then Text Editor will try to discover file settings from "
 "modelines, editorconfig, or per-language defaults."
 msgstr ""
-"Agar yoqilgan bo’lsa, matn muharriri fayl sozlamalarini modellar, "
+"Agar yoqilgan boʻlsa, matn muharriri fayl sozlamalarini modellar, "
 "tahrirlovchi konfiguratsiyasi yoki har bir til uchun standart sozlamalardan "
 "topishga harakat qiladi."
 
@@ -218,7 +221,7 @@ msgstr "Imloni avtomatik tekshirish"
 #: data/org.gnome.TextEditor.gschema.xml:114
 msgid "If enabled, then Text Editor will check spelling as you type."
 msgstr ""
-"Agar yoqilgan bo’lsa, matn muharriri siz yozayotganda imloni tekshiradi."
+"Agar yoqilgan boʻlsa, matn muharriri siz yozayotganda imloni tekshiradi."
 
 #: data/org.gnome.TextEditor.gschema.xml:118
 msgid "Restore session"
@@ -235,7 +238,7 @@ msgstr "Oynani qayta ranglash"
 #: data/org.gnome.TextEditor.gschema.xml:124
 msgid "Use the style-scheme to recolor the application window."
 msgstr ""
-"Ilova oynasining rangini o’zgartirish uchun uslublar sxemasidan foydalaning."
+"Ilova oynasining rangini oʻzgartirish uchun uslublar sxemasidan foydalaning."
 
 #: data/org.gnome.TextEditor.gschema.xml:132
 msgid "Keybindings"
@@ -257,11 +260,11 @@ msgstr ""
 
 #: data/org.gnome.TextEditor.gschema.xml:142
 msgid "Draw Spaces"
-msgstr "Bo’shliqlarni chizish"
+msgstr "Boʻshliqlarni chizish"
 
 #: data/org.gnome.TextEditor.gschema.xml:143
 msgid "The various types of spaces to draw in the editor."
-msgstr "Tahrirlovchida chizish uchun turli xil bo’shliqlar."
+msgstr "Tahrirlovchida chizish uchun turli xil boʻshliqlar."
 
 #: data/org.gnome.TextEditor.gschema.xml:147
 msgid "Enable Snippets"
@@ -285,11 +288,11 @@ msgstr "Tanlangan shrift uchun ishlatiladigan chiziq balandligi."
 
 #: data/org.gnome.TextEditor.gschema.xml:158
 msgid "Highlight Matching Brackets"
-msgstr "Mos keladigan qavslarni ajratib ko’rsatish"
+msgstr "Mos keladigan qavslarni ajratib koʻrsatish"
 
 #: data/org.gnome.TextEditor.gschema.xml:159
 msgid "Highlight matching brackets and braces."
-msgstr "Mos keladigan qavs va qavslarni ajratib ko’rsatish."
+msgstr "Mos keladigan qavs va qavslarni ajratib koʻrsatish."
 
 #: src/editor-animation.c:1038
 #, c-format
@@ -299,7 +302,7 @@ msgstr "%s ichida %s xususiyati topilmadi"
 #: src/editor-animation.c:1047
 #, fuzzy, c-format
 msgid "Failed to retrieve va_list value: %s"
-msgstr "va_list qiymatini olib bo‘lmadi: %s"
+msgstr "va_list qiymatini olib boʻlmadi: %s"
 
 #: src/editor-application-actions.c:202
 msgid "The GNOME Project"
@@ -315,7 +318,7 @@ msgstr "Fayllar tarixi tozalansinmi?"
 
 #: src/editor-application-actions.c:350
 msgid "This action cannot be undone"
-msgstr "Bu amalni ortga qaytarib bo‘lmaydi"
+msgstr "Bu amalni ortga qaytarib boʻlmaydi"
 
 #: src/editor-application-actions.c:352 src/editor-save-changes-dialog.c:260
 #: src/editor-window-actions.c:115 src/editor-window-actions.c:219
@@ -329,13 +332,13 @@ msgstr "_Hammasini tozalash"
 #: src/editor-application.c:531
 msgid "Standard input was requested multiple times. Ignoring request."
 msgstr ""
-"Standart kiritish bir necha marta so’ralgan. So’rovni e’tiborsiz qoldirish."
+"Standart kiritish bir necha marta soʻralgan. Soʻrovni e’tiborsiz qoldirish."
 
 #: src/editor-application.c:535
 msgid "Standard input is not supported on this platform. Ignoring request."
 msgstr ""
-"Bu platformada standart kiritish qo‘llab-quvvatlanmaydi. So’rovni e’tiborsiz "
-"qoldirish."
+"Bu platformada standart kiritish qoʻllab-quvvatlanmaydi. Soʻrovni e’tiborsiz"
+" qoldirish."
 
 #: src/editor-application.c:638
 msgid "Bugs may be reported at:"
@@ -375,7 +378,7 @@ msgstr "Yangi hujjat"
 
 #: src/editor-encoding-dialog.ui:5
 msgid "Change Encoding"
-msgstr "Kodlashni o’zgartirish"
+msgstr "Kodlashni oʻzgartirish"
 
 #: src/editor-encoding-dialog.ui:22
 msgid "Search encodings"
@@ -387,12 +390,12 @@ msgstr "Hech qanday natija topilmadi"
 
 #: src/editor-encoding-dialog.ui:59 src/editor-language-dialog.ui:76
 msgid "Try a different search"
-msgstr "Boshqa qidiruvni sinab ko'ring"
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: src/editor-file-manager.c:99
 #, fuzzy
 msgid "File path is NULL"
-msgstr "Fayl yo'li NULL"
+msgstr "Fayl yoʻli NULL"
 
 #: src/editor-file-manager.c:108 src/editor-file-manager.c:119
 msgid "Error converting UTF-8 filename to wide char"
@@ -405,11 +408,11 @@ msgstr "ILCreateFromPath() bajarilmadi"
 #: src/editor-file-manager.c:164
 #, c-format
 msgid "Cannot convert “%s” into a valid NSURL."
-msgstr "“%s”ni yaroqli NSURLga aylantirib bo‘lmadi."
+msgstr "“%s”ni yaroqli NSURLga aylantirib boʻlmadi."
 
 #: src/editor-indent-model.c:173
 msgid "Space"
-msgstr "Bo'sh joy"
+msgstr "Boʻsh joy"
 
 #: src/editor-indent-model.c:178
 msgid "Tab"
@@ -417,15 +420,15 @@ msgstr "Tab"
 
 #: src/editor-info-bar.c:108
 msgid "_Discard Changes and Reload"
-msgstr "_O'zgarishlarni bekor qiling va qayta yuklang"
+msgstr "_Oʻzgarishlarni bekor qiling va qayta yuklang"
 
 #: src/editor-info-bar.c:112
 msgid "File Has Changed on Disk"
-msgstr "Diskdagi fayl o'zgardi"
+msgstr "Diskdagi fayl oʻzgardi"
 
 #: src/editor-info-bar.c:113
 msgid "The file has been changed by another program."
-msgstr "Fayl boshqa dastur tomonidan o'zgartirildi."
+msgstr "Fayl boshqa dastur tomonidan oʻzgartirildi."
 
 #: src/editor-info-bar.c:122 src/editor-window.ui:371
 msgid "Save _As…"
@@ -453,7 +456,7 @@ msgstr "Qoralama oʻzgarishlar tiklandi"
 
 #: src/editor-info-bar.c:137
 msgid "Unsaved changes to the document have been restored."
-msgstr "Hujjatga saqlanmagan o'zgartirishlar tiklandi."
+msgstr "Hujjatga saqlanmagan oʻzgartirishlar tiklandi."
 
 #: src/editor-info-bar.ui:19
 msgid "Could Not Open File"
@@ -480,7 +483,7 @@ msgstr ""
 
 #: src/editor-info-bar.ui:136
 msgid "Change _Encoding…"
-msgstr "Kodlashni o’zgartirish"
+msgstr "Kodlashni oʻzgartirish"
 
 #: src/editor-language-dialog.c:248
 msgid "Other Document Types"
@@ -522,7 +525,7 @@ msgstr "Yangi hujjatni oching"
 
 #: src/editor-open-popover.ui:80
 msgid "No Recent Documents"
-msgstr "Oxirgi hujjatlar yo'q"
+msgstr "Oxirgi hujjatlar yoʻq"
 
 #: src/editor-page.c:1151 src/editor-properties.c:606
 #: src/editor-sidebar-item.c:101
@@ -550,7 +553,7 @@ msgstr "Ln %u, polvon %u"
 
 #: src/editor-page.ui:94
 msgid "Go to Line"
-msgstr "Chiziqga o’ting"
+msgstr "Chiziqga oʻting"
 
 #: src/editor-page.ui:111
 msgid "Go"
@@ -581,19 +584,19 @@ msgstr "Maxsus _shrift"
 
 #: src/editor-preferences-dialog.ui:78
 msgid "Show Grid Pattern"
-msgstr "Grid naqshini ko'rsatish"
+msgstr "Grid naqshini koʻrsatish"
 
 #: src/editor-preferences-dialog.ui:85
 msgid "Display _Line Numbers"
-msgstr "_Satr raqamlarini ko'rsatish"
+msgstr "_Satr raqamlarini koʻrsatish"
 
 #: src/editor-preferences-dialog.ui:92
 msgid "_Highlight Current Line"
-msgstr "Joriy qatorni ajratib ko’rsatish"
+msgstr "Joriy qatorni ajratib koʻrsatish"
 
 #: src/editor-preferences-dialog.ui:99
 msgid "Display _Overview Map"
-msgstr "_Umumiy ko'rinish xaritasini ko'rsatish"
+msgstr "_Umumiy koʻrinish xaritasini koʻrsatish"
 
 #: src/editor-preferences-dialog.ui:110
 msgid "Check _Spelling"
@@ -601,11 +604,11 @@ msgstr "Imloni tekshirish"
 
 #: src/editor-preferences-dialog.ui:119
 msgid "Line Wrap"
-msgstr "Chiziqni o'rash"
+msgstr "Chiziqni oʻrash"
 
 #: src/editor-preferences-dialog.ui:122
 msgid "Show _Right Margin"
-msgstr "O’ng chetini ko’rsatish"
+msgstr "Oʻng chetini koʻrsatish"
 
 #: src/editor-preferences-dialog.ui:129
 msgid "_Margin Position"
@@ -633,7 +636,7 @@ msgstr "_Tab uchun boʻsh joy"
 
 #: src/editor-preferences-dialog.ui:183 src/editor-properties-panel.ui:136
 msgid "Spaces Per _Indent"
-msgstr "Bo'shliqlar boshiga _Indent"
+msgstr "Boʻshliqlar boshiga _Indent"
 
 #: src/editor-preferences-dialog.ui:204
 msgid "Behavior"
@@ -672,7 +675,6 @@ msgstr "Fayl: %s"
 
 #. Translators: %N is the current page number, %Q is the total
 #. * number of pages (ex. Page 2 of 10)
-#.
 #: src/editor-print-operation.c:196
 msgid "Page %N of %Q"
 msgstr "Sahifa %Q dan %N"
@@ -695,7 +697,7 @@ msgstr "_Hujjat turi"
 
 #: src/editor-properties-panel.ui:54
 msgid "Change Document Type"
-msgstr "Hujjat turini o'zgartirish"
+msgstr "Hujjat turini oʻzgartirish"
 
 #: src/editor-properties-panel.ui:76
 msgid "_Encoding"
@@ -715,11 +717,11 @@ msgstr "Chiziqlar"
 
 #: src/editor-properties-panel.ui:166
 msgid "Words"
-msgstr "So'zlar"
+msgstr "Soʻzlar"
 
 #: src/editor-properties-panel.ui:179
 msgid "Characters, No Spaces"
-msgstr "Belgilar, bo'sh joy yo'q"
+msgstr "Belgilar, boʻsh joy yoʻq"
 
 #: src/editor-properties-panel.ui:192
 msgid "All Characters"
@@ -727,7 +729,7 @@ msgstr "Barcha belgilar"
 
 #: src/editor-save-changes-dialog.c:254 src/editor-window-actions.c:220
 msgid "_Discard"
-msgstr "_O'chirish"
+msgstr "_Oʻchirish"
 
 #: src/editor-save-changes-dialog.c:254
 msgid "_Discard All"
@@ -742,8 +744,8 @@ msgid ""
 "Open documents contain unsaved changes. Changes which are not saved will be "
 "permanently lost."
 msgstr ""
-"Ochiq hujjatlarda saqlanmagan o'zgarishlar mavjud. Saqlanmagan o'zgarishlar "
-"butunlay yo'qoladi."
+"Ochiq hujjatlarda saqlanmagan oʻzgarishlar mavjud. Saqlanmagan oʻzgarishlar "
+"butunlay yoʻqoladi."
 
 #: src/editor-save-changes-dialog.c:262 src/editor-window-actions.c:116
 #: src/editor-window.ui:365
@@ -766,11 +768,11 @@ msgstr "Almashtiring"
 
 #: src/editor-search-bar.ui:57
 msgid "Previous Match"
-msgstr "Oldingi o'yin"
+msgstr "Oldingi oʻyin"
 
 #: src/editor-search-bar.ui:70
 msgid "Next Match"
-msgstr "Keyingi o'yin"
+msgstr "Keyingi oʻyin"
 
 #: src/editor-search-bar.ui:86
 msgid "Search & Replace"
@@ -802,9 +804,10 @@ msgstr "_Harflar katta-kichikligiga sezgir"
 
 #: src/editor-search-bar.ui:178
 msgid "Match Whole _Word Only"
-msgstr "Butun _Faqat so'zni moslang"
+msgstr "Butun _Faqat soʻzni moslang"
 
-#. translators: the first %u is replaced with the current position, the second with the number of search results
+#. translators: the first %u is replaced with the current position, the second
+#. with the number of search results
 #: src/editor-search-entry.c:221
 #, c-format
 msgid "%u of %u"
@@ -816,7 +819,7 @@ msgstr "Kirishni tozalash"
 
 #: src/editor-sidebar-row.ui:82
 msgid "Remove"
-msgstr "O'chirish"
+msgstr "Oʻchirish"
 
 #: src/editor-theme-selector.ui:23
 msgid "Follow System Style"
@@ -828,19 +831,19 @@ msgstr "Tizim uslubiga rioya qiling"
 
 #: src/editor-theme-selector.ui:40
 msgid "Light Style"
-msgstr "Yorug’ uslub"
+msgstr "Yorugʻ uslub"
 
 #: src/editor-theme-selector.ui:42
 msgid "Light style"
-msgstr "Yorug’ uslub"
+msgstr "Yorugʻ uslub"
 
 #: src/editor-theme-selector.ui:58
 msgid "Dark Style"
-msgstr "Qorong'u uslub"
+msgstr "Qorongʻu uslub"
 
 #: src/editor-theme-selector.ui:60
 msgid "Dark style"
-msgstr "Qorong'i uslub"
+msgstr "Qorongʻi uslub"
 
 #: src/editor-utils.c:355
 msgid "Just now"
@@ -867,7 +870,7 @@ msgstr[1] "Taxminan %u yil oldin"
 
 #: src/editor-window-actions.c:109
 msgid "Saving changes will replace the previously saved version."
-msgstr "O'zgarishlarni saqlash avval saqlangan versiyani almashtiradi."
+msgstr "Oʻzgarishlarni saqlash avval saqlangan versiyani almashtiradi."
 
 #. translators: %s is replaced with the document title
 #: src/editor-window-actions.c:112
@@ -877,7 +880,7 @@ msgstr "Oʻzgarishlar “%s”ga saqlansinmi?"
 
 #: src/editor-window-actions.c:213
 msgid "Unsaved changes will be permanently lost."
-msgstr "Saqlanmagan o'zgarishlar butunlay yo'qoladi."
+msgstr "Saqlanmagan oʻzgarishlar butunlay yoʻqoladi."
 
 #. translators: %s is replaced with the document title
 #: src/editor-window-actions.c:216
@@ -913,7 +916,8 @@ msgstr "Kichraytirish"
 msgid "Reset Zoom"
 msgstr "Masshtabni tiklash"
 
-#. translators: the first %s is replaced with the title, the second %s is replaced with the subtitle
+#. translators: the first %s is replaced with the title, the second %s is
+#. replaced with the subtitle
 #: src/editor-window.c:690
 #, c-format
 msgid "%s (%s) - Text Editor"
@@ -933,7 +937,7 @@ msgstr "Yangi hujjat yarating (Ctrl+N) yoki mavjud hujjatni oching (Ctrl+O)"
 
 #: src/editor-window.ui:93
 msgid "_New Empty File"
-msgstr "_Yangi bo'sh fayl"
+msgstr "_Yangi boʻsh fayl"
 
 #: src/editor-window.ui:166
 msgid "Recently Used Documents"
@@ -998,7 +1002,7 @@ msgstr "_Chapga siljiting"
 
 #: src/editor-window.ui:433
 msgid "Move _Right"
-msgstr "_O’ngga siljiting"
+msgstr "_Oʻngga siljiting"
 
 #: src/editor-window.ui:440
 msgid "_Move to New Window"
@@ -1021,27 +1025,27 @@ msgstr "Yangi oyna"
 #: src/shortcuts-dialog.ui:17
 msgctxt "shortcut window"
 msgid "Move document to new window"
-msgstr "Hujjatni yangi oynaga ko’chiring"
+msgstr "Hujjatni yangi oynaga koʻchiring"
 
 #: src/shortcuts-dialog.ui:24
 msgctxt "shortcut window"
 msgid "Move to next tab"
-msgstr "Keyingi sahifaga o’ting"
+msgstr "Keyingi sahifaga oʻting"
 
 #: src/shortcuts-dialog.ui:30
 msgctxt "shortcut window"
 msgid "Move to previous tab"
-msgstr "Oldingi tabga o’tish"
+msgstr "Oldingi tabga oʻtish"
 
 #: src/shortcuts-dialog.ui:36
 msgctxt "shortcut window"
 msgid "Reorder after next tab"
-msgstr "Keyingi varaqdan keyin tartibni o’zgartiring"
+msgstr "Keyingi varaqdan keyin tartibni oʻzgartiring"
 
 #: src/shortcuts-dialog.ui:42
 msgctxt "shortcut window"
 msgid "Reorder before previous tab"
-msgstr "Oldingi yorliqdan oldin tartibni o’zgartiring"
+msgstr "Oldingi yorliqdan oldin tartibni oʻzgartiring"
 
 #: src/shortcuts-dialog.ui:48
 msgctxt "shortcut window"
@@ -1086,7 +1090,7 @@ msgstr "Browse to open document"
 #: src/shortcuts-dialog.ui:93
 msgctxt "shortcut window"
 msgid "Find document by name"
-msgstr "Hujjatni nomi bo’yicha toping"
+msgstr "Hujjatni nomi boʻyicha toping"
 
 #: src/shortcuts-dialog.ui:99
 msgctxt "shortcut window"
@@ -1196,7 +1200,7 @@ msgstr "Qayta yozishni almashtirish"
 #: src/shortcuts-dialog.ui:223
 msgctxt "shortcut window"
 msgid "Toggle visibility of insertion caret"
-msgstr "Qo’shish karetining ko’rinishini o’zgartirish"
+msgstr "Qoʻshish karetining koʻrinishini oʻzgartirish"
 
 #: src/shortcuts-dialog.ui:230
 msgctxt "shortcut window"
@@ -1226,22 +1230,22 @@ msgstr "Harakatlar"
 #: src/shortcuts-dialog.ui:257
 msgctxt "shortcut window"
 msgid "Move to beginning of document"
-msgstr "Hujjatning boshiga o’ting"
+msgstr "Hujjatning boshiga oʻting"
 
 #: src/shortcuts-dialog.ui:263
 msgctxt "shortcut window"
 msgid "Move to end of document"
-msgstr "Hujjat oxiriga o’ting"
+msgstr "Hujjat oxiriga oʻting"
 
 #: src/shortcuts-dialog.ui:269
 msgctxt "shortcut window"
 msgid "Move to start of previous paragraph"
-msgstr "Oldingi paragrafning boshiga o’ting"
+msgstr "Oldingi paragrafning boshiga oʻting"
 
 #: src/shortcuts-dialog.ui:275
 msgctxt "shortcut window"
 msgid "Move to end of next paragraph"
-msgstr "Keyingi paragrafning oxiriga o’ting"
+msgstr "Keyingi paragrafning oxiriga oʻting"
 
 #: src/shortcuts-dialog.ui:281
 msgctxt "shortcut window"
@@ -1256,7 +1260,7 @@ msgstr "Joriy yoki tanlangan chiziqlarni pastga siljiting"
 #: src/shortcuts-dialog.ui:293
 msgctxt "shortcut window"
 msgid "Go to line"
-msgstr "Chiziqga o’ting"
+msgstr "Chiziqga oʻting"
 
 #: src/shortcuts-dialog.ui:300
 msgctxt "shortcut window"
@@ -1266,27 +1270,27 @@ msgstr "Oʻchirish"
 #: src/shortcuts-dialog.ui:304
 msgctxt "shortcut window"
 msgid "Delete from cursor to word start"
-msgstr "Kursordan so’z boshiga o’chirish"
+msgstr "Kursordan soʻz boshiga oʻchirish"
 
 #: src/shortcuts-dialog.ui:310
 msgctxt "shortcut window"
 msgid "Delete from cursor to word end"
-msgstr "Kursordan so’z oxirigacha o’chirish"
+msgstr "Kursordan soʻz oxirigacha oʻchirish"
 
 #: src/shortcuts-dialog.ui:316
 msgctxt "shortcut window"
 msgid "Delete from cursor to paragraph start"
-msgstr "Kursordan paragraf boshiga o'chirish"
+msgstr "Kursordan paragraf boshiga oʻchirish"
 
 #: src/shortcuts-dialog.ui:322
 msgctxt "shortcut window"
 msgid "Delete from cursor to paragraph end"
-msgstr "Kursordan paragraf oxirigacha o'chirish"
+msgstr "Kursordan paragraf oxirigacha oʻchirish"
 
 #: src/shortcuts-dialog.ui:328
 msgctxt "shortcut window"
 msgid "Delete the current line"
-msgstr "Joriy qatorni o'chiring"
+msgstr "Joriy qatorni oʻchiring"
 
 #: src/shortcuts-dialog.ui:335
 msgctxt "shortcut window"
@@ -1296,17 +1300,17 @@ msgstr "Umumiy"
 #: src/shortcuts-dialog.ui:339
 msgctxt "shortcut window"
 msgid "Show preferences"
-msgstr "Afzalliklarni ko’rsatish"
+msgstr "Afzalliklarni koʻrsatish"
 
 #: src/shortcuts-dialog.ui:345
 msgctxt "shortcut window"
 msgid "Show keyboard shortcuts"
-msgstr "Klaviatura yorliqlarini ko’rsatish"
+msgstr "Klaviatura yorliqlarini koʻrsatish"
 
 #: src/shortcuts-dialog.ui:351
 msgctxt "shortcut window"
 msgid "Show help"
-msgstr "Yordam ko’rsatish"
+msgstr "Yordam koʻrsatish"
 
 #: src/shortcuts-dialog.ui:357
 msgctxt "shortcut window"

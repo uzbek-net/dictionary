@@ -18,7 +18,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.6\n"
 
-# "Boxes" so'zini asl holicha qoldirish yoki "qutilar" sifatida tarjima qilish?
+# "Boxes" so'zini asl holicha qoldirish yoki "qutilar" sifatida tarjima
+# qilish?
 #: data/org.gnome.Boxes.desktop.in:2 data/org.gnome.Boxes.metainfo.xml.in:7
 #: data/ui/app-window.ui:6 data/ui/collection-toolbar.ui:7 src/app.vala:117
 #: src/app-window.vala:105 src/app-window.vala:218 src/app-window.vala:220
@@ -29,13 +30,14 @@ msgstr "Boxes"
 # ko'ruvchi / boshqaruvchi
 #: data/org.gnome.Boxes.desktop.in:3
 msgid "Virtual machine viewer/manager"
-msgstr "Virtual mashinani ko'rish/boshqarish"
+msgstr "Virtual mashinani koʻrish/boshqarish"
 
 #: data/org.gnome.Boxes.desktop.in:4
 msgid "View and use virtual machines"
-msgstr "Virtual mashinalarni ko‘rish va boshqarish"
+msgstr "Virtual mashinalarni koʻrish va boshqarish"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Boxes.desktop.in:6
 msgid "virtual machine;vm;"
 msgstr "virtual mashina;vm;"
@@ -50,8 +52,8 @@ msgid ""
 "Select an operating system and let Boxes download and install it for you in "
 "a virtual machine."
 msgstr ""
-"Operatsion tizimni tanlang va Boxes-ga uni virtual mashinada yuklab olish va "
-"o'rnatishga ruxsat bering."
+"Operatsion tizimni tanlang va Boxes-ga uni virtual mashinada yuklab olish va"
+" oʻrnatishga ruxsat bering."
 
 #: data/org.gnome.Boxes.metainfo.xml.in:15
 msgid "Features:"
@@ -67,9 +69,10 @@ msgid ""
 "OpenSUSE, Red Hat Enterprise Linux, and Ubuntu"
 msgstr ""
 "CentOS Stream, Debian, Fedora, Microsoft Windows, OpenSUSE, Red Hat "
-"Enterprise Linux va Ubuntu tizimlarini avtomatik tarzda o‘rnating"
+"Enterprise Linux va Ubuntu tizimlarini avtomatik tarzda oʻrnating"
 
-# 'click"ni shunchaki bosish emas, tugmani bosish deb tarjima qilgan ma'qulroq emasmi
+# 'click"ni shunchaki bosish emas, tugmani bosish deb tarjima qilgan ma'qulroq
+# emasmi
 #: data/org.gnome.Boxes.metainfo.xml.in:20
 msgid ""
 "Create virtual machines from operating system images with a couple of clicks"
@@ -94,29 +97,29 @@ msgstr ""
 #: data/org.gnome.Boxes.metainfo.xml.in:23
 msgid "Redirect USB devices from your physical machine into virtual machines"
 msgstr ""
-"USB qurilmalarni jismoniy mashinangizdan virtual mashinalarga yo'naltirish"
+"USB qurilmalarni jismoniy mashinangizdan virtual mashinalarga yoʻnaltirish"
 
 #: data/org.gnome.Boxes.metainfo.xml.in:24
 msgid "3D acceleration for some of the supported operating systems"
 msgstr ""
-"Ba'zi qo'llab-quvvatlanadigan operatsion tizimlar uchun 3D tezlashtirish"
+"Ba'zi qoʻllab-quvvatlanadigan operatsion tizimlar uchun 3D tezlashtirish"
 
 #: data/org.gnome.Boxes.metainfo.xml.in:25
 msgid "Automatically resize virtual machines displays to the window size"
 msgstr ""
-"Virtual mashinalarning displeylarini avtomatik ravishda oynaning o'lchamiga "
+"Virtual mashinalarning displeylarini avtomatik ravishda oynaning oʻlchamiga "
 "moslashtirish"
 
 # clipboard
 #: data/org.gnome.Boxes.metainfo.xml.in:26
 msgid "Share clipboard between your system and virtual machines"
-msgstr "Tizim va virtual mashinalar o'rtasida almashish buferi"
+msgstr "Tizim va virtual mashinalar oʻrtasida almashish buferi"
 
 # Boxes
 #: data/org.gnome.Boxes.metainfo.xml.in:27
 msgid ""
-"Share files to virtual machines by dropping them from your file manager into "
-"the Boxes window"
+"Share files to virtual machines by dropping them from your file manager into"
+" the Boxes window"
 msgstr ""
 "Fayllarni fayl menejeridan Boxes oynasiga tashlab, virtual mashinalarga "
 "ulashish"
@@ -124,7 +127,7 @@ msgstr ""
 # "Shared Folders" katalog nomi bo'lishi kerak
 #: data/org.gnome.Boxes.metainfo.xml.in:28
 msgid "Setup Shared Folders between your system and virtual machines"
-msgstr "Tizim va virtual mashinalar o'rtasida umumiy papkalarni o'rnating"
+msgstr "Tizim va virtual mashinalar oʻrtasida umumiy papkalarni oʻrnating"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Boxes.metainfo.xml.in:77
@@ -138,15 +141,15 @@ msgstr "Ekran suratini olish intervali"
 
 #: data/org.gnome.boxes.gschema.xml:12
 msgid "The interval in seconds between screenshot updates"
-msgstr "Skrinshotlarni yangilash orasidagi soniyalar oralig'i"
+msgstr "Skrinshotlarni yangilash orasidagi soniyalar oraligʻi"
 
 #: data/org.gnome.boxes.gschema.xml:24
 msgid "Window size"
-msgstr "Oyna o‘lchami"
+msgstr "Oyna oʻlchami"
 
 #: data/org.gnome.boxes.gschema.xml:25
 msgid "Window size (width and height)"
-msgstr "Oyna o‘lchami (eni va bo‘yi)"
+msgstr "Oyna oʻlchami (eni va boʻyi)"
 
 #: data/org.gnome.boxes.gschema.xml:31
 msgid "Window position"
@@ -181,7 +184,7 @@ msgstr "Umumiy papkalar"
 #: data/org.gnome.boxes.gschema.xml:54
 msgid "Variant array of shared folders’ names and path mapping"
 msgstr ""
-"Birgalikda papkalar nomlari va yo'llarni xaritalashning turli xil qatori"
+"Birgalikda papkalar nomlari va yoʻllarni xaritalashning turli xil qatori"
 
 # URL = havola
 #: data/org.gnome.boxes.gschema.xml:59
@@ -201,7 +204,8 @@ msgstr "Boxes'ga Xush kelibsiz"
 #: data/ui/app-window.ui:82
 msgid "Use the <b>+</b> button to create your first virtual machine."
 msgstr ""
-"Birinchi virtual mashinangizni yaratishingiz uchun <b>+</b> tugmasini bosing."
+"Birinchi virtual mashinangizni yaratishingiz uchun <b>+</b> tugmasini "
+"bosing."
 
 #: data/ui/assistant/assistant.ui:51
 msgid "New Virtual Machine"
@@ -257,11 +261,11 @@ msgstr "Drayvlar sozlanmoqda..."
 
 #: data/ui/assistant/express-install-row.ui:5 data/ui/welcome-tutorial.ui:49
 msgid "Express Installation"
-msgstr "Ekspress o'rnatish"
+msgstr "Ekspress oʻrnatish"
 
 #: data/ui/assistant/express-install-row.ui:6
 msgid "Set credentials for an automatic install of the operating system."
-msgstr "Operatsion tizimni avtomatik o'rnatish uchun ma'lumotlarni sozlang."
+msgstr "Operatsion tizimni avtomatik oʻrnatish uchun ma'lumotlarni sozlang."
 
 #: data/ui/assistant/express-install-row.ui:16
 msgid "Username"
@@ -325,7 +329,7 @@ msgstr "Ilova menyusi"
 
 #: data/ui/collection-toolbar.ui:110
 msgid "List view"
-msgstr "Ro'yxat ko'rinishi"
+msgstr "Roʻyxat koʻrinishi"
 
 #: data/ui/collection-toolbar.ui:138
 msgid "Grid view"
@@ -346,12 +350,12 @@ msgstr "Yangi virtual mashina yarating"
 
 #: data/ui/collection-toolbar.ui:221
 msgid "Install from File"
-msgstr "Fayldan o'rnatish"
+msgstr "Fayldan oʻrnatish"
 
 #: data/ui/collection-toolbar.ui:222
 msgid "Select an .iso or .qcow2 file to install a virtual machine."
 msgstr ""
-"Virtual mashinani o‘rnatish uchun .iso yoki .qcow2 file turini tanlang."
+"Virtual mashinani oʻrnatish uchun .iso yoki .qcow2 file turini tanlang."
 
 #: data/ui/collection-toolbar.ui:238
 msgid "Download OS"
@@ -359,7 +363,7 @@ msgstr "OSni yuklash"
 
 #: data/ui/collection-toolbar.ui:239
 msgid "Browse and search for operating systems to install."
-msgstr "O'rnatish uchun operatsion tizimlarni ko'rib chiqing va qidiring."
+msgstr "Oʻrnatish uchun operatsion tizimlarni koʻrib chiqing va qidiring."
 
 #: data/ui/display-page.ui:96
 msgid "Ready to Receive File"
@@ -380,7 +384,7 @@ msgstr "Harakatlar"
 # Qaynoq tugmalar?
 #: data/ui/display-toolbar.ui:91
 msgid "Keyboard shortcuts"
-msgstr "Afzalliklarni ko’rsatish"
+msgstr "Afzalliklarni koʻrsatish"
 
 #: data/ui/display-toolbar.ui:122 src/display-toolbar.vala:90
 msgid "Fullscreen"
@@ -388,7 +392,7 @@ msgstr "Toʻliq ekran"
 
 #: data/ui/downloads-hub-row.ui:54
 msgid "Ready to install"
-msgstr "O‘rnatishga tayyor"
+msgstr "Oʻrnatishga tayyor"
 
 #: data/ui/kbd-shortcuts-window.ui:18
 msgctxt "shortcut window"
@@ -418,7 +422,7 @@ msgstr "Qidirish"
 #: data/ui/kbd-shortcuts-window.ui:57
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
-msgstr "Afzalliklarni ko’rsatish"
+msgstr "Afzalliklarni koʻrsatish"
 
 # Boxes
 #: data/ui/kbd-shortcuts-window.ui:65 data/ui/kbd-shortcuts-window.ui:157
@@ -435,7 +439,7 @@ msgstr "Box yaratish va xususiyatlari"
 #: data/ui/kbd-shortcuts-window.ui:84 data/ui/kbd-shortcuts-window.ui:103
 msgctxt "shortcut window"
 msgid "Switch to the next page"
-msgstr "Keyingi sahifaga o‘tish"
+msgstr "Keyingi sahifaga oʻtish"
 
 #: data/ui/kbd-shortcuts-window.ui:93 data/ui/kbd-shortcuts-window.ui:112
 msgctxt "shortcut window"
@@ -446,7 +450,7 @@ msgstr "Oldingi sahifaga qaytish"
 #: data/ui/kbd-shortcuts-window.ui:122
 msgctxt "shortcut window"
 msgid "Box Display"
-msgstr "Box ko'rinishi"
+msgstr "Box koʻrinishi"
 
 #: data/ui/kbd-shortcuts-window.ui:129
 msgctxt "shortcut window"
@@ -478,7 +482,7 @@ msgstr "Boxes haqilda"
 
 #: data/ui/preferences/cdrom-row.ui:5
 msgid "No CDROM/DVD image"
-msgstr "CDROM/DVD tasviri yo'q"
+msgstr "CDROM/DVD tasviri yoʻq"
 
 #: data/ui/preferences/cdrom-row.ui:15
 msgid "Select"
@@ -565,7 +569,7 @@ msgstr "Snapshot'ga qaytarish"
 # snapshot
 #: data/ui/preferences/snapshot-list-row.ui:83
 msgid "Rename snapshot"
-msgstr "Snapshot nomini o'zgartirish"
+msgstr "Snapshot nomini oʻzgartirish"
 
 #: data/ui/preferences/snapshot-list-row.ui:98
 msgid "Delete snapshot"
@@ -605,7 +609,7 @@ msgstr "Oʻquv qoʻllanma"
 # Boxes
 #: data/ui/welcome-tutorial.ui:41
 msgid "Boxes makes it easy to install and run virtual machines."
-msgstr "Boxes virtual mashinalarni o'rnatish va ishlatishni osonlashtiradi."
+msgstr "Boxes virtual mashinalarni oʻrnatish va ishlatishni osonlashtiradi."
 
 # Express installation - tezkor o'rnatish, adashmasam.
 #: data/ui/welcome-tutorial.ui:50
@@ -614,8 +618,9 @@ msgid ""
 "virtual machine. Just start the installation and everything will be taken "
 "care of for you."
 msgstr ""
-"Tez o'rnatish bilan Boxes yangi virtual mashina uchun o'rnatish opsiyalarini "
-"o'rnatadi. Faqat o'rnatishni boshlang va hamma narsa siz uchun hal qilinadi."
+"Tez oʻrnatish bilan Boxes yangi virtual mashina uchun oʻrnatish opsiyalarini"
+" oʻrnatadi. Faqat oʻrnatishni boshlang va hamma narsa siz uchun hal "
+"qilinadi."
 
 #: data/ui/welcome-tutorial.ui:58
 msgid "Easy Downloads"
@@ -629,7 +634,7 @@ msgid ""
 "and Boxes will automatically download it for you."
 msgstr ""
 "Boxes yordamida virtual mashina yaratish uchun operatsion tizimni yuklab "
-"olishning hojati yo'q. O'rnatmoqchi bo'lgan operatsion tizimni tanlang, va "
+"olishning hojati yoʻq. Oʻrnatmoqchi boʻlgan operatsion tizimni tanlang, va "
 "Boxes uni avtomatik ravishda siz uchun yuklab oladi."
 
 # 😂
@@ -644,10 +649,11 @@ msgid ""
 "will appear in your Downloads folder."
 msgstr ""
 "Fayllarni almashish ularni virtual mashinangizga tashlash kabi oddiy. Ular "
-"Yuklashlar jildida paydo bo'ladi."
+"Yuklashlar jildida paydo boʻladi."
 
 # Box
-#. Translators: Accessibility name for context menu with box-related actions (e.g Pause, Delete etc)
+#. Translators: Accessibility name for context menu with box-related actions
+#. (e.g Pause, Delete etc)
 #: src/actions-popover.vala:29
 msgid "Box actions"
 msgstr "Box harakatlari"
@@ -660,7 +666,7 @@ msgstr "Yangi oynada ochish"
 #. Send files
 #: src/actions-popover.vala:49
 msgid "Send File…"
-msgstr "Faylni Jo‘natish…"
+msgstr "Faylni Joʻnatish…"
 
 #. Take Screenshot
 #: src/actions-popover.vala:57
@@ -669,7 +675,7 @@ msgstr "Ekran tasvirini olish"
 
 #: src/actions-popover.vala:65
 msgid "Force Shutdown"
-msgstr "Majburiy o'chirish"
+msgstr "Majburiy oʻchirish"
 
 # Nusxalash
 #: src/actions-popover.vala:76
@@ -679,7 +685,7 @@ msgstr "Klonlash"
 #. Delete
 #: src/actions-popover.vala:81
 msgid "Delete"
-msgstr "O‘chirish"
+msgstr "Oʻchirish"
 
 #: src/actions-popover.vala:85 src/machine.vala:606
 msgid "Restart"
@@ -690,7 +696,8 @@ msgstr "Qayta yuklash"
 msgid "Preferences"
 msgstr "Sozlamalar"
 
-#. Translators: name of the folder under ~/Pictures for screenshots. This is the same folder where GNOME Shell saves screenshots.
+#. Translators: name of the folder under ~/Pictures for screenshots. This is
+#. the same folder where GNOME Shell saves screenshots.
 #: src/actions-popover.vala:109
 msgid "Screenshots"
 msgstr "Ekran tasvirlari"
@@ -714,16 +721,16 @@ msgstr "Virtual tizimlarga kirish uchun oddiy GNOME ilovasi"
 
 #: src/app.vala:176 src/main.vala:9
 msgid "Display version number"
-msgstr "Versiya raqamini ko'rsatish"
+msgstr "Versiya raqamini koʻrsatish"
 
 #: src/app.vala:177
 msgid "Show help"
-msgstr "Yordam ko’rsatish"
+msgstr "Yordam koʻrsatish"
 
 # To'liq/katta oynada
 #: src/app.vala:178
 msgid "Open in full screen"
-msgstr "To‘liq ekranda ochish"
+msgstr "Toʻliq ekranda ochish"
 
 #: src/app.vala:179 src/main.vala:10
 msgid "Check virtualization capabilities"
@@ -739,10 +746,11 @@ msgstr "Box`ni UUID bilan ochish"
 msgid "Search term"
 msgstr "Atamalarni qidirish"
 
-#. A 'broker' is a virtual-machine manager (local or remote). Currently only libvirt is supported.
+#. A 'broker' is a virtual-machine manager (local or remote). Currently only
+#. libvirt is supported.
 #: src/app.vala:183
 msgid "URL to display, broker or installer media"
-msgstr "Ko'rsatish uchun URL, broker yoki o'rnatuvchi media"
+msgstr "Koʻrsatish uchun URL, broker yoki oʻrnatuvchi media"
 
 # bu yerda ma'noga moslab kirish o'rniga foydalanish`ni maslahat beraman
 #: src/app.vala:194
@@ -757,7 +765,7 @@ msgstr "Juda koʻp buyruq qatori argumentlari koʻrsatilgan.\n"
 #: src/app.vala:458
 #, c-format
 msgid "Box “%s” installed and ready to use"
-msgstr "Box \"%s\" o‘rnatildi va ishlatishga tayyor"
+msgstr "Box \"%s\" oʻrnatildi va ishlatishga tayyor"
 
 #: src/app.vala:460
 msgid "Launch"
@@ -772,7 +780,7 @@ msgstr "\"%s\" orqa fonda ishlayabdi"
 #: src/app.vala:571
 #, c-format
 msgid "Box “%s” has been deleted"
-msgstr "Box \"%s\" o'chirildi"
+msgstr "Box \"%s\" oʻchirildi"
 
 # box
 #: src/app.vala:572
@@ -788,7 +796,7 @@ msgstr "Box'lar ishlayabdi"
 
 #: src/app-window.vala:273
 msgid "Select files to transfer"
-msgstr "Ko‘chirish uchun fayllarni tanlang"
+msgstr "Koʻchirish uchun fayllarni tanlang"
 
 #: src/app-window.vala:274
 msgid "_Cancel"
@@ -804,7 +812,8 @@ msgstr "_Ochish"
 msgid "Failed to prepare express installation: %s"
 msgstr "Ekspress oʻrnatishni tayyorlab boʻlmadi: %s"
 
-#. Translators: We show 'Live' tag next or below the name of live OS media or box based on such media.
+#. Translators: We show 'Live' tag next or below the name of live OS media or
+#. box based on such media.
 #. http://en.wikipedia.org/wiki/Live_CD
 #: src/assistant/media-entry.vala:18 src/util-app.vala:172
 msgid "Live"
@@ -818,7 +827,8 @@ msgstr "32-bit x86 tizimi"
 msgid "64-bit x86 system"
 msgstr "64-bit x86 tizimi"
 
-#. Translator comment: %s is name of vendor here (e.g Canonical Ltd or Red Hat Inc)
+#. Translator comment: %s is name of vendor here (e.g Canonical Ltd or Red Hat
+#. Inc)
 #: src/assistant/media-entry.vala:29
 #, c-format
 msgid " from %s"
@@ -850,7 +860,7 @@ msgstr "%d×%d"
 
 #: src/display-toolbar.vala:87
 msgid "Exit fullscreen"
-msgstr "To‘liq ekrandan chiqish"
+msgstr "Toʻliq ekrandan chiqish"
 
 #: src/downloads-hub.vala:52
 msgid "Downloading media"
@@ -863,7 +873,7 @@ msgstr "\"%s\" yuklandi"
 
 #: src/downloads-hub.vala:80
 msgid "Install"
-msgstr "O‘rnatish"
+msgstr "Oʻrnatish"
 
 #: src/downloads-hub.vala:180
 #, c-format
@@ -909,7 +919,8 @@ msgstr "Ctrl + Alt + F7"
 msgid "Ctrl + Alt + F9"
 msgstr "Ctrl + Alt + F9"
 
-#. Translators: Accessibility name for context menu with a set of keyboard combos (that would normally be
+#. Translators: Accessibility name for context menu with a set of keyboard
+#. combos (that would normally be
 #. intercepted by host/client, to send to the box.
 #: src/keys-input-popover.vala:47
 msgid "Send key combinations"
@@ -932,11 +943,11 @@ msgstr "%s ishga tushirilmoqda"
 msgid "Restart of “%s” is taking too long. Force it to shutdown?"
 msgstr ""
 "“%s” qayta ishga tushirilishi juda uzoq davom etmoqda. Uni majburan "
-"o‘chirishni xohlaysizmi?"
+"oʻchirishni xohlaysizmi?"
 
 #: src/libvirt-machine.vala:571
 msgid "Shutdown"
-msgstr "O‘chirish"
+msgstr "Oʻchirish"
 
 #: src/libvirt-machine.vala:586
 #, c-format
@@ -945,7 +956,7 @@ msgstr "\"%s\" nusxalanmoqda…"
 
 #: src/libvirt-machine.vala:715
 msgid "Installing…"
-msgstr "O‘rnatilmoqda…"
+msgstr "Oʻrnatilmoqda…"
 
 #: src/libvirt-machine.vala:717
 msgid "Setting up clone…"
@@ -962,11 +973,11 @@ msgstr "Ishlamoqda"
 
 #: src/list-view-row.vala:54
 msgid "Paused"
-msgstr "To'xtatilgan"
+msgstr "Toʻxtatilgan"
 
 #: src/list-view-row.vala:59
 msgid "Powered Off"
-msgstr "O'chirilgan"
+msgstr "Oʻchirilgan"
 
 #. Translators: The %s will be expanded with the name of the vm
 #: src/machine.vala:184
@@ -987,11 +998,12 @@ msgstr "Mashina qurilmoqda"
 msgid "Saving…"
 msgstr "Saqlanmoqda…"
 
-#. Translators: The first %s is the name of the box, the second is the reason of the error
+#. Translators: The first %s is the name of the box, the second is the reason
+#. of the error
 #: src/machine.vala:603
 #, c-format
 msgid "“%s” could not be restored from disk: %s"
-msgstr "\"%s\"ni diskdan tiklash imkoni yo'q: %s"
+msgstr "\"%s\"ni diskdan tiklash imkoni yoʻq: %s"
 
 #: src/machine.vala:614
 #, c-format
@@ -1002,17 +1014,18 @@ msgstr "“%s”ni ishga tushirish muaffaqiyatsiz yakunlandi"
 msgid "Troubleshooting Log"
 msgstr "Nosozliklarni tuzatish"
 
-#. Translators: the first %s is the name of the box, the second is the reason of the error.
+#. Translators: the first %s is the name of the box, the second is the reason
+#. of the error.
 #: src/machine.vala:641
 #, c-format
 msgid "Connection to “%s” failed: %s"
-msgstr "“%s”ga ulanib bo'lmadi: %s"
+msgstr "“%s”ga ulanib boʻlmadi: %s"
 
 #. FIXME: add proper UI & docs
 #: src/main.vala:53
 #, c-format
 msgid "• The CPU is capable of virtualization: %s\n"
-msgstr "• CPU virtualizatsiyani qo‘llab-quvvatlaydi: %s\n"
+msgstr "• CPU virtualizatsiyani qoʻllab-quvvatlaydi: %s\n"
 
 #: src/main.vala:54
 #, c-format
@@ -1048,11 +1061,11 @@ msgstr "%s bosh sahifasi: <%s>.\n"
 
 #: src/media-manager.vala:31
 msgid "Media is not supported"
-msgstr "Media qo‘llab-quvvatlanmaydi"
+msgstr "Media qoʻllab-quvvatlanmaydi"
 
 #: src/preferences/cdrom-row.vala:33
 msgid "No CD/DVD image"
-msgstr "CD/DVD tasviri yo'q"
+msgstr "CD/DVD tasviri yoʻq"
 
 #: src/preferences/cdrom-row.vala:62
 msgid "Select a device or ISO file"
@@ -1062,14 +1075,15 @@ msgstr "Qurilma yoki ISO faylni tanlang"
 #: src/preferences/devices-page.vala:25
 msgid "The Flatpak version of GNOME Boxes does not support USB redirection."
 msgstr ""
-"GNOME Boxes'ning Flatpak versiyasi USB yo‘naltirishni qo‘llab-quvvatlamaydi."
+"GNOME Boxes'ning Flatpak versiyasi USB yoʻnaltirishni qoʻllab-quvvatlamaydi."
 
 # Box
 #: src/preferences/devices-page.vala:37
 msgid "Turn on your box to see the USB devices available for redirection."
 msgstr "USB qurilmalaridan foydalanish uchun boxni yoqing."
 
-#. Translators: %s is a recommended value for RAM/storage limit. For example "Recommended 4 GB."
+#. Translators: %s is a recommended value for RAM/storage limit. For example
+#. "Recommended 4 GB."
 #: src/preferences/resources-page.vala:82
 #, c-format
 msgid "Recommended %s."
@@ -1096,8 +1110,8 @@ msgid ""
 "your box. Would you like to create a snapshot to recover from your changes?"
 msgstr ""
 "Qutingiz konfiguratsiyasini tahrirlash qutingizning operatsion tizimida "
-"muammolarga olib kelishi mumkin. Oʻzgartirishlaringizdan qayta tiklash uchun "
-"surat yaratmoqchimisiz?"
+"muammolarga olib kelishi mumkin. Oʻzgartirishlaringizdan qayta tiklash uchun"
+" surat yaratmoqchimisiz?"
 
 #: src/preferences/resources-page.vala:270
 #, c-format
@@ -1108,26 +1122,27 @@ msgstr "Domen konfiguratsiyasini saqlash muvaffaqiyatsiz yakunlandi: %s"
 #: src/preferences/resources-page.vala:279
 msgid "Changes to the settings below take effect after you restart your box."
 msgstr ""
-"Quyidagi sozlamalarga kiritilgan o‘zgarishlar box’ni qayta ishga "
-"tushirgandan so‘ng kuchga kiradi."
+"Quyidagi sozlamalarga kiritilgan oʻzgarishlar box’ni qayta ishga "
+"tushirgandan soʻng kuchga kiradi."
 
 # guest box != mehmon box
-#. Translators: "spice-webdav" is a name and shouldn't be translated. %s is an URL.
+#. Translators: "spice-webdav" is a name and shouldn't be translated. %s is an
+#. URL.
 #: src/preferences/shared-folders-widget.vala:76
 #, c-format
 msgid ""
 "Use the button below to add your first shared folder. For file sharing to "
 "work, the guest box needs to have <a href='%s'>spice-webdav</a> installed."
 msgstr ""
-"Birinchi umumiy jildni qo‘shish uchun quyidagi tugmadan foydalaning. Fayl "
+"Birinchi umumiy jildni qoʻshish uchun quyidagi tugmadan foydalaning. Fayl "
 "almashish ishlashi uchun mehmon qutisiga <a href='%s'>spice-webdav</a> "
-"o'rnatilgan bo'lishi kerak."
+"oʻrnatilgan boʻlishi kerak."
 
 #. Translators: %s is the reason why Boxes failed to rename the snapshot.
 #: src/preferences/snapshot-list-row.vala:77
 #, c-format
 msgid "Failed to rename snapshot: %s"
-msgstr "Surat nomini o‘zgartirib bo‘lmadi: %s"
+msgstr "Surat nomini oʻzgartirib boʻlmadi: %s"
 
 #: src/preferences/snapshot-list-row.vala:93
 #, c-format
@@ -1144,12 +1159,12 @@ msgstr "Suratga qaytarilmadi: %s"
 #: src/preferences/snapshot-list-row.vala:133
 #, c-format
 msgid "Snapshot “%s” deleted."
-msgstr "Snapshot “%s” o'chirildi."
+msgstr "Snapshot “%s” oʻchirildi."
 
 #: src/preferences/snapshots-page.vala:139
 #, c-format
 msgid "Failed to create snapshot of %s"
-msgstr "%s suratini yaratib bo‘lmadi"
+msgstr "%s suratini yaratib boʻlmadi"
 
 #. we need to account for the "+" button
 #: src/preferences/snapshots-page.vala:160
@@ -1159,7 +1174,8 @@ msgstr "Qutingizning oldingi holatiga qayting."
 # Snapshot
 #: src/preferences/snapshots-page.vala:162
 msgid "Use the button below to create your first snapshot."
-msgstr "Birinchi snapshotingizni yaratish uchun quyidagi tugmadan foydalaning."
+msgstr ""
+"Birinchi snapshotingizni yaratish uchun quyidagi tugmadan foydalaning."
 
 #. Translators: "%s" is a disk size string (for example "4.2 GB")
 #: src/preferences/storage-row.vala:47
@@ -1170,7 +1186,7 @@ msgstr "%sdan foydalanilgan."
 #: src/preferences/storage-row.vala:50
 msgid ""
 "There is not enough space on your machine to increase the maximum disk size."
-msgstr "Disk hajmini oshirish uchun tizimingizda yetarlicha joy yo‘q."
+msgstr "Disk hajmini oshirish uchun tizimingizda yetarlicha joy yoʻq."
 
 #: src/preferences/storage-row.vala:68
 msgid "Storage disk"
@@ -1181,7 +1197,8 @@ msgstr "Saqlash diski"
 msgid "Used %s"
 msgstr "%sdan foydalanilgan"
 
-#. Translators: "Unknown" is a placeholder for a box name when it could not be determined
+#. Translators: "Unknown" is a placeholder for a box name when it could not be
+#. determined
 #: src/spice-display.vala:46
 msgid "Unknown"
 msgstr "Noma'lum"
@@ -1189,8 +1206,7 @@ msgstr "Noma'lum"
 #: src/spice-display.vala:61 src/spice-display.vala:452
 #, c-format
 msgid "Redirection of USB device “%s” for “%s” failed"
-msgstr ""
-"\"%s\" USB qurilmasini \"%s\"ga yo‘naltirish muvaffaqiyatsiz yakunlandi"
+msgstr "\"%s\" USB qurilmasini \"%s\"ga yoʻnaltirish muvaffaqiyatsiz yakunlandi"
 
 #. Translators: "%s" is a file name.
 #: src/transfer-info-row.vala:31
@@ -1198,15 +1214,18 @@ msgstr ""
 msgid "Copying “%s” to “Downloads”"
 msgstr "“%s” “Yuklashlar”ga nusxalanmoqda"
 
-#. An error occurred when trying to setup unattended installation, but it's likely that a non-unattended
-#. installation will work. When this happens, just disable unattended installs, and let the caller decide
-#. if it wants to retry a non-automatic install or to just abort the box creation..
+#. An error occurred when trying to setup unattended installation, but it's
+#. likely that a non-unattended
+#. installation will work. When this happens, just disable unattended
+#. installs, and let the caller decide
+#. if it wants to retry a non-automatic install or to just abort the box
+#. creation..
 #: src/unattended-installer.vala:174
 msgid ""
 "An error occurred during installation preparation. Express Install disabled."
 msgstr ""
-"O'rnatishga tayyorgarlik jarayonida xatolik yuz berdi. Ekspress o'rnatish "
-"o'chirilgan."
+"Oʻrnatishga tayyorgarlik jarayonida xatolik yuz berdi. Ekspress oʻrnatish "
+"oʻchirilgan."
 
 #: src/unattended-installer.vala:371
 msgid "Downloading device drivers…"
@@ -1218,28 +1237,27 @@ msgid ""
 "Your SELinux context looks incorrect, you can try to fix it by running:\n"
 "%s"
 msgstr ""
-"Sizning SELinux kontekstingiz noto'g'ri ko'rinadi, uni ishga tushirish "
-"orqali tuzatishga urinib ko'rishingiz mumkin:\n"
+"Sizning SELinux kontekstingiz notoʻgʻri koʻrinadi, uni ishga tushirish orqali tuzatishga urinib koʻrishingiz mumkin:\n"
 "%s"
 
 #: src/util-app.vala:418
 msgid "SELinux not installed?"
-msgstr "SELinux o'rnatilmaganmi?"
+msgstr "SELinux oʻrnatilmaganmi?"
 
 #: src/util-app.vala:512
 msgid ""
-"Could not get “gnome-boxes” storage pool information from libvirt. Make sure "
-"“virsh -c qemu:///session pool-dumpxml gnome-boxes” is working."
+"Could not get “gnome-boxes” storage pool information from libvirt. Make sure"
+" “virsh -c qemu:///session pool-dumpxml gnome-boxes” is working."
 msgstr ""
 "Libvirt'dan ‘gnome-boxes’ storage pool haqida ma'lumot olishning iloji "
-"bo‘lmadi. ‘virsh -c qemu:///session pool-dumpxml gnome-boxes’ buyruği "
+"boʻlmadi. ‘virsh -c qemu:///session pool-dumpxml gnome-boxes’ buyruği "
 "ishlayotganini tekshiring."
 
 #: src/util-app.vala:517
 #, c-format
 msgid ""
-"%s is known to libvirt as GNOME Boxes’s storage pool but this directory does "
-"not exist"
+"%s is known to libvirt as GNOME Boxes’s storage pool but this directory does"
+" not exist"
 msgstr ""
 "%s libvirt sifatida GNOME Boxes saqlash havzasi sifatida tanilgan, ammo bu "
 "katalog mavjud emas"
@@ -1267,7 +1285,7 @@ msgstr "ha"
 
 #: src/util.vala:334
 msgid "no"
-msgstr "yo‘q"
+msgstr "yoʻq"
 
 #. No guest caps or none compatible
 #. FIXME: Better error messsage than this please?
@@ -1276,7 +1294,8 @@ msgid "Incapable host system"
 msgstr "Qobiliyatsiz xost tizimi"
 
 # Box, import
-#. Translators: the first %s is a path, the second is the reason of the failure.
+#. Translators: the first %s is a path, the second is the reason of the
+#. failure.
 #: src/vm-importer.vala:65
 #, c-format
 msgid "Box import from file “%s” failed: %s"

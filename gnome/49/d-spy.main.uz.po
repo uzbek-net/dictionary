@@ -25,7 +25,7 @@ msgstr "D-Spy"
 
 #: data/org.gnome.dspy.desktop.in.in:6
 msgid "Discover and explore D-Bus services"
-msgstr "D-Bus xizmatlarini ko'ring va o'rganing"
+msgstr "D-Bus xizmatlarini koʻring va oʻrganing"
 
 #: data/org.gnome.dspy.desktop.in.in:7
 msgid "dspy;dbus;"
@@ -48,7 +48,7 @@ msgstr "D-Bus aloqasini tahlil qilish"
 
 #: data/org.gnome.dspy.metainfo.xml.in.in:18
 msgid "D-Spy is a simple tool to explore D-Bus connections."
-msgstr "D-Spy D-bus aloqalarini o'rganish uchun oddiy vosita."
+msgstr "D-Spy D-bus aloqalarini oʻrganish uchun oddiy vosita."
 
 #: data/org.gnome.dspy.metainfo.xml.in.in:29
 msgid "D-Spy Interface"
@@ -77,7 +77,7 @@ msgstr ""
 
 #: src/dspy-property.c:63
 msgid "read/write"
-msgstr "o'qish/yozish"
+msgstr "oʻqish/yozish"
 
 #: src/dspy-property.c:65
 msgid "write-only"
@@ -85,7 +85,7 @@ msgstr "faqat-yozish"
 
 #: src/dspy-property.c:67
 msgid "read-only"
-msgstr "faqat-o'qish"
+msgstr "faqat-oʻqish"
 
 #: src/dspy-property.c:207
 msgid "Error"
@@ -95,7 +95,7 @@ msgstr ""
 #: src/dspy-signature.c:77
 #, c-format
 msgid "Array of [%s]"
-msgstr "[%s] to'plami"
+msgstr "[%s] toʻplami"
 
 #: src/dspy-window.c:136
 msgid "Accessibility Bus"
@@ -125,7 +125,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Connect"
 msgid "Connections"
-msgstr "Bog'lanish"
+msgstr "Bogʻlanish"
 
 #: src/dspy-window.ui:165
 msgid "Bus Names"
@@ -271,7 +271,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Connect"
 msgid "New Connection"
-msgstr "Bog'lanish"
+msgstr "Bogʻlanish"
 
 #: src/dspy-window.ui:1547
 msgid "Bus Address"
@@ -279,7 +279,7 @@ msgstr "Bus manzili"
 
 #: src/dspy-window.ui:1558
 msgid "Connect"
-msgstr "Bog'lanish"
+msgstr "Bogʻlanish"
 
 #: src/dspy-window.ui:1579
 msgid "_New Window"
@@ -305,7 +305,7 @@ msgstr ""
 
 #, c-format
 #~ msgid "Connected to “%s”"
-#~ msgstr "\"%s\" ga bog'langan"
+#~ msgstr "\"%s\" ga bogʻlangan"
 
 #~ msgid "_Other"
 #~ msgstr "_Boshqalar"
@@ -320,7 +320,7 @@ msgstr ""
 #~ msgstr "_Nusxalash"
 
 #~ msgid "Elapsed Time"
-#~ msgstr "O'tgan vaqt"
+#~ msgstr "Oʻtgan vaqt"
 
 #~ msgid "Name"
 #~ msgstr "Ism"
@@ -339,7 +339,7 @@ msgstr ""
 #~ msgstr "Ha"
 
 #~ msgid "No"
-#~ msgstr "Yo'q"
+#~ msgstr "Yoʻq"
 
 #~ msgid "PID"
 #~ msgstr "PID"
@@ -351,10 +351,10 @@ msgstr ""
 #~ msgstr "Autentifikatsiya muvaffaqiyatsizlikka uchradi"
 
 #~ msgid "Operation Timed Out"
-#~ msgstr "Operatsiya vaqtidan o'tib ketdi"
+#~ msgstr "Operatsiya vaqtidan oʻtib ketdi"
 
 #~ msgid "Lost Connection to Bus"
-#~ msgstr "Bus bilan aloqa yo'qoldi"
+#~ msgstr "Bus bilan aloqa yoʻqoldi"
 
 #~ msgid "D-Bus Connection Failed"
 #~ msgstr "D-Bus aloqasi muvaffaqiyatsizlikka uchradi"

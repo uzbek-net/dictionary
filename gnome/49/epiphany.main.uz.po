@@ -36,7 +36,8 @@ msgstr "Web brauzer"
 msgid "Browse the web"
 msgstr "Vebga kiring"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Epiphany.desktop.in.in:6
 msgid "web;browser;internet;epiphany;"
 msgstr "web;veb;browser;brauzer;internet;epiphany;"
@@ -109,7 +110,8 @@ msgstr "Yangi oynalarni varaqlarda ochilishini majburlash"
 
 #: data/org.gnome.epiphany.gschema.xml:56
 msgid ""
-"Force new window requests to be opened in tabs instead of using a new window."
+"Force new window requests to be opened in tabs instead of using a new "
+"window."
 msgstr ""
 "Yangi oyna soʻrovlarini yangi oynada ochish oʻrniga varaqlarda ochishni "
 "majburlash."
@@ -130,8 +132,8 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:68
 msgid ""
-"Whether to delay loading of tabs that are not immediately visible on session "
-"restore"
+"Whether to delay loading of tabs that are not immediately visible on session"
+" restore"
 msgstr ""
 "Seansni tiklashda darhol koʻrinmaydigan varaqlarni yuklashni kechiktirish "
 "kerakmi"
@@ -162,8 +164,8 @@ msgstr "Brauzerni birlamchi brauzer sifatida oʻrnatishni soʻrash kerakmi"
 
 #: data/org.gnome.epiphany.gschema.xml:79
 msgid ""
-"When this option is set to true, browser will ask for being default if it is "
-"not already set."
+"When this option is set to true, browser will ask for being default if it is"
+" not already set."
 msgstr ""
 "Bu parametr qiymati true deb sozlansa, brauzer birlamchi sifatida "
 "oʻrnatilmagan boʻlsa, birlamchi brauzer sifatida oʻrnatilishni soʻraydi."
@@ -176,8 +178,8 @@ msgstr "Maxfiy rejimda ishga tushurish"
 msgid ""
 "When this option is set to true, browser will always start in incognito mode"
 msgstr ""
-"Bu parametr qiymati true deb sozlansa, brauzer har doim maxfiy rejimda ishga "
-"tushadi"
+"Bu parametr qiymati true deb sozlansa, brauzer har doim maxfiy rejimda ishga"
+" tushadi"
 
 #: data/org.gnome.epiphany.gschema.xml:88
 msgid "Active clear data items."
@@ -209,8 +211,8 @@ msgid ""
 "If enabled the tabs will expand to use the entire available space in the "
 "tabs bar. This setting is ignored in Pantheon desktop."
 msgstr ""
-"Agar yoqilsa varaqlar varaqlar panelidagi butun mavjud boʻshliqni egallaydi. "
-"Ushbu sozlama Pantheon ish stolida qoʻllanilmaydi."
+"Agar yoqilsa varaqlar varaqlar panelidagi butun mavjud boʻshliqni egallaydi."
+" Ushbu sozlama Pantheon ish stolida qoʻllanilmaydi."
 
 #: data/org.gnome.epiphany.gschema.xml:100
 msgid "Show url bar at bottom"
@@ -227,9 +229,9 @@ msgstr "Varaqlar paneli koʻrinishlik siyosati."
 #: data/org.gnome.epiphany.gschema.xml:106
 msgid ""
 "Controls when the tabs bar is shown. Possible values are “always” (the tabs "
-"bar is always shown), “more-than-one” (the tabs bar is only shown if there’s "
-"two or more tabs) and “never” (the tabs bar is never shown). This setting is "
-"ignored in Pantheon desktop, and “always” value is used."
+"bar is always shown), “more-than-one” (the tabs bar is only shown if there’s"
+" two or more tabs) and “never” (the tabs bar is never shown). This setting "
+"is ignored in Pantheon desktop, and “always” value is used."
 msgstr ""
 "Varaqlar paneli qachon koʻrsatilishini boshqaradi. Ruxsat etilgan qiymatlar "
 "\"always\" (varaqlar paneli har doim koʻrsatiladi), \"more-than-one\" "
@@ -252,11 +254,11 @@ msgstr "WebKit funksiyalari afzalliklar sahifasini koʻrsatish."
 
 #: data/org.gnome.epiphany.gschema.xml:116
 msgid ""
-"Controls whether the preferences window shows the page which allows toggling "
-"experimental and development WebKit features."
+"Controls whether the preferences window shows the page which allows toggling"
+" experimental and development WebKit features."
 msgstr ""
-"Afzalliklar oynasida WebKitʼning tajriba va ishlanma funksiyalarini yoqish/"
-"oʻchirish imkonini beruvchi sahifa koʻrsatilishini nazorat qiladi."
+"Afzalliklar oynasida WebKitʼning tajriba va ishlanma funksiyalarini "
+"yoqish/oʻchirish imkonini beruvchi sahifa koʻrsatilishini nazorat qiladi."
 
 #: data/org.gnome.epiphany.gschema.xml:120
 msgid "Show internal WebKit features in the features preferences page."
@@ -280,8 +282,8 @@ msgid ""
 "Chooses the style of the main body text for articles in reader mode. "
 "Possible values are “sans” and “serif”."
 msgstr ""
-"Mutolaa rejimidagi maqolalar asosiy matn stilini tanlaydi. Mavjud qiymatlar: "
-"“sans” va “serif”."
+"Mutolaa rejimidagi maqolalar asosiy matn stilini tanlaydi. Mavjud qiymatlar:"
+" “sans” va “serif”."
 
 #: data/org.gnome.epiphany.gschema.xml:132
 msgid "Reader mode color scheme."
@@ -290,8 +292,8 @@ msgstr "Mutolaa rejimi rang sxemasi."
 #: data/org.gnome.epiphany.gschema.xml:133
 msgid ""
 "Selects the style of colors for articles displayed in reader mode. Possible "
-"values are “light” (dark text on light background) and “dark” (light text on "
-"dark background). This setting is ignored on systems that provide a system-"
+"values are “light” (dark text on light background) and “dark” (light text on"
+" dark background). This setting is ignored on systems that provide a system-"
 "wide dark style preference, such as GNOME 42 and newer."
 msgstr ""
 "Mutolaa rejimidagi maqolalar ranglar stilini tanlaydi. Mavjud qiymatlar: "
@@ -345,8 +347,8 @@ msgid ""
 "A value to be used to override monospace desktop font when use-gnome-fonts "
 "is set."
 msgstr ""
-"use-gnome-fonts yoqilganida monospace ish stoli shriftini almashtirish uchun "
-"ishlatiladigan qiymat."
+"use-gnome-fonts yoqilganida monospace ish stoli shriftini almashtirish uchun"
+" ishlatiladigan qiymat."
 
 #: data/org.gnome.epiphany.gschema.xml:163
 msgid "Use a custom CSS"
@@ -380,7 +382,8 @@ msgstr "Birlamchi kodlash usuli"
 msgid ""
 "Default encoding. Accepted values are the ones WebKitGTK can understand."
 msgstr ""
-"Birlamchi kodlash usuli. WebKitGTK tushuna oladigan qiymatlar qabul qilinadi."
+"Birlamchi kodlash usuli. WebKitGTK tushuna oladigan qiymatlar qabul "
+"qilinadi."
 
 #: data/org.gnome.epiphany.gschema.xml:183
 #: src/resources/gtk/prefs-general-page.blp:201
@@ -389,7 +392,8 @@ msgstr "Tillar"
 
 #: data/org.gnome.epiphany.gschema.xml:184
 msgid ""
-"Preferred languages. Array of locale codes or “system” to use current locale."
+"Preferred languages. Array of locale codes or “system” to use current "
+"locale."
 msgstr "Afzal til(lar). Til kodlari massivi yoki “system” (joriy til uchun)."
 
 #: data/org.gnome.epiphany.gschema.xml:188
@@ -463,7 +467,8 @@ msgstr "Aqlli trekingni oldini olish yoqilsinmi."
 
 #: data/org.gnome.epiphany.gschema.xml:223
 msgid "Allow websites to store local website data"
-msgstr "Veb-saytlarga mahalliy veb-sayt maʼlumotlarini saqlashga ruxsat berish"
+msgstr ""
+"Veb-saytlarga mahalliy veb-sayt maʼlumotlarini saqlashga ruxsat berish"
 
 #: data/org.gnome.epiphany.gschema.xml:224
 msgid ""
@@ -546,12 +551,12 @@ msgstr "Uskunani tezlashtirish siyosati"
 msgid ""
 "Whether to enable hardware acceleration. Possible values are “always” and "
 "“never”. Hardware acceleration may be required to achieve acceptable "
-"performance on embedded devices, but increases memory usage requirements and "
-"could expose severe hardware-specific graphics driver bugs."
+"performance on embedded devices, but increases memory usage requirements and"
+" could expose severe hardware-specific graphics driver bugs."
 msgstr ""
 "Uskuna tezlashuvini yoqish kerakmi. Mumkin boʻlgan qiymatlar: \"har doim\" "
-"va \"hech qachon\". Oʻrnatilgan qurilmalarda maqbul ishlashga erishish uchun "
-"apparat tezlashuvi talab qilinishi mumkin, lekin xotiradan foydalanish "
+"va \"hech qachon\". Oʻrnatilgan qurilmalarda maqbul ishlashga erishish uchun"
+" apparat tezlashuvi talab qilinishi mumkin, lekin xotiradan foydalanish "
 "talablarini oshiradi va qurilmaga xos grafik drayverlarga jiddiy "
 "xatoliklarni keltirib chiqarishi mumkin."
 
@@ -578,8 +583,8 @@ msgstr "WebExtensionsʼni yoqish"
 
 #: data/org.gnome.epiphany.gschema.xml:278
 msgid ""
-"Whether to enable WebExtensions. WebExtensions is a cross-browser system for "
-"extensions."
+"Whether to enable WebExtensions. WebExtensions is a cross-browser system for"
+" extensions."
 msgstr ""
 "WebExtensionsʼni yoqish kerakmi. WebExtensions bu kengaytmalar uchun "
 "brauzerlararo tizimidir."
@@ -662,10 +667,10 @@ msgstr "Yuklab olishlar jildi"
 
 #: data/org.gnome.epiphany.gschema.xml:327
 msgid ""
-"The path of the folder where to download files to; or “Downloads” to use the "
-"default downloads folder, or “Desktop” to use the desktop folder."
+"The path of the folder where to download files to; or “Downloads” to use the"
+" default downloads folder, or “Desktop” to use the desktop folder."
 msgstr ""
-"Fayllarni yuklab olish uchun jildni yo'li; yoki birlamchi yuklashlar "
+"Fayllarni yuklab olish uchun jildni yoʻli; yoki birlamchi yuklashlar "
 "jildidan foydalanish uchun “Yuklashlar” yoki ish stoli jildidan foydalanish "
 "uchun “Ish stoli”dan foydalaning."
 
@@ -688,7 +693,8 @@ msgstr "Oyna oʻlchami"
 msgid ""
 "The size to use for a new window that is not restored from a previous "
 "session."
-msgstr "Oldingi seansdan tiklanmagan yangi oyna uchun qoʻllaniladigan oʻlcham."
+msgstr ""
+"Oldingi seansdan tiklanmagan yangi oyna uchun qoʻllaniladigan oʻlcham."
 
 #: data/org.gnome.epiphany.gschema.xml:344
 msgid "Is maximized"
@@ -739,8 +745,8 @@ msgid ""
 "The email linked to the Mozilla account used to sync data with Mozilla’s "
 "servers."
 msgstr ""
-"Mozilla hisobiga bogʻlangan elektron pochta manzili Mozilla serverlari bilan "
-"sinxronlashtirish uchun ishlatiladi."
+"Mozilla hisobiga bogʻlangan elektron pochta manzili Mozilla serverlari bilan"
+" sinxronlashtirish uchun ishlatiladi."
 
 #: data/org.gnome.epiphany.gschema.xml:394
 msgid "Last sync timestamp"
@@ -783,8 +789,8 @@ msgid ""
 "TRUE if Ephy collections should be synced with Firefox collections, FALSE "
 "otherwise."
 msgstr ""
-"Agar Ephy toʻplamlari Firefox toʻplamlari bilan sinxronlanishi kerak boʻlsa, "
-"TRUE, aks holda FALSE."
+"Agar Ephy toʻplamlari Firefox toʻplamlari bilan sinxronlanishi kerak boʻlsa,"
+" TRUE, aks holda FALSE."
 
 #: data/org.gnome.epiphany.gschema.xml:419
 msgid "Enable bookmarks sync"
@@ -883,7 +889,8 @@ msgid "The timestamp at which last open tabs sync was made."
 msgstr "Oxirgi ochiq varaqlar sinxronlangan vaqt belgisi."
 
 #: data/org.gnome.epiphany.gschema.xml:481
-msgid "Decision to apply when microphone permission is requested for this host"
+msgid ""
+"Decision to apply when microphone permission is requested for this host"
 msgstr "Ushbu xost uchun mikrofonga ruxsat soʻralganda qoʻllanadigan qarori"
 
 #: data/org.gnome.epiphany.gschema.xml:482
@@ -894,8 +901,8 @@ msgid ""
 "automatically make the decision upon request."
 msgstr ""
 "Ushbu parametr xost mikrofoniga ruxsat berilganligini saqlash uchun "
-"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi "
-"kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
+"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi"
+" kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
 "avtomatik ravishda qaror qabul qilishini bildiradi."
 
 #: data/org.gnome.epiphany.gschema.xml:486
@@ -947,10 +954,10 @@ msgid ""
 "the user for permission, while “allow” and “deny” tell it to automatically "
 "make the decision upon request."
 msgstr ""
-"Ushbu parametr xost parollarni saqlashga ruxsat berilganligini saqlash uchun "
-"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi "
-"kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
-"avtomatik ravishda qaror qabul qilishini bildiradi."
+"Ushbu parametr xost parollarni saqlashga ruxsat berilganligini saqlash uchun"
+" ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat "
+"soʻrashi kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov "
+"boʻyicha avtomatik ravishda qaror qabul qilishini bildiradi."
 
 #: data/org.gnome.epiphany.gschema.xml:501
 msgid "Decision to apply when webcam permission is requested for this host"
@@ -959,8 +966,8 @@ msgstr "Ushbu xost uchun veb-kameraga ruxsat soʻralganda qoʻllanadigan qarori"
 #: data/org.gnome.epiphany.gschema.xml:502
 msgid ""
 "This option is used to save whether a given host has been given permission "
-"to access the user’s webcam. The “undecided” default means the browser needs "
-"to ask the user for permission, while “allow” and “deny” tell it to "
+"to access the user’s webcam. The “undecided” default means the browser needs"
+" to ask the user for permission, while “allow” and “deny” tell it to "
 "automatically make the decision upon request."
 msgstr ""
 "Ushbu parametr xost foydalanuvchi veb-kamerasiga ruxsat berilganligini "
@@ -997,24 +1004,25 @@ msgid ""
 "decision upon request."
 msgstr ""
 "Ushbu parametr xost reklamalarga ruxsat berilganligini saqlash uchun "
-"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi "
-"kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
+"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi"
+" kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
 "avtomatik ravishda qaror qabul qilishini bildiradi."
 
 #: data/org.gnome.epiphany.gschema.xml:516
 msgid "Decision to apply when an autoplay policy is requested for this host"
-msgstr "Ushbu xost uchun avtomatik ijro etish soʻralganda qoʻllanadigan qarori"
+msgstr ""
+"Ushbu xost uchun avtomatik ijro etish soʻralganda qoʻllanadigan qarori"
 
 #: data/org.gnome.epiphany.gschema.xml:517
 msgid ""
 "This option is used to save whether a given host has been given permission "
-"to autoplay. The “undecided” default means to allow autoplay of muted media, "
-"while “allow” and “deny” tell it to allow / deny all requests to autoplay "
+"to autoplay. The “undecided” default means to allow autoplay of muted media,"
+" while “allow” and “deny” tell it to allow / deny all requests to autoplay "
 "media respectively."
 msgstr ""
 "Ushbu parametr xost avtomatik ijroga ruxsat berilganligini saqlash uchun "
-"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi "
-"kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
+"ishlatiladi. “undecided” birlamchii brauzer foydalanuvchidan ruxsat soʻrashi"
+" kerakligini bildiradi, “ruxsat berish” va “rad etish” esa soʻrov boʻyicha "
 "avtomatik ravishda qaror qabul qilishini bildiradi."
 
 #: data/org.gnome.Epiphany.metainfo.xml.in.in:9
@@ -1175,19 +1183,20 @@ msgstr "Sertifikatni tanlash"
 #: embed/ephy-client-certificate-manager.c:435
 #, c-format
 msgid ""
-"The website %s:%d requests that you provide a certificate for authentication "
-"for %s."
+"The website %s:%d requests that you provide a certificate for authentication"
+" for %s."
 msgstr ""
 "%s:%d veb-sayti sizdan autentifikatsiya uchun %s uchun sertifikat taqdim "
-"etishingizni so‘rayapti."
+"etishingizni soʻrayapti."
 
 #: embed/ephy-client-certificate-manager.c:440
 #, c-format
 msgid ""
-"The website %s:%d requests that you provide a certificate for authentication."
+"The website %s:%d requests that you provide a certificate for "
+"authentication."
 msgstr ""
-"%s:%d veb-sayti sizdan autentifikatsiya uchun sertifikat taqdim etishingizni "
-"so‘rayapti."
+"%s:%d veb-sayti sizdan autentifikatsiya uchun sertifikat taqdim etishingizni"
+" soʻrayapti."
 
 #: embed/ephy-client-certificate-manager.c:447 src/window-commands.c:364
 msgid "_Select"
@@ -1300,12 +1309,13 @@ msgstr "“%s” ga elektron pochta xabarini joʻnatish"
 
 #. TRANSLATORS: This string is part of the previous translatable string.
 #. * It is appended for each extraneous mailto: URI email address. For
-#. * example if you have mailto:foo@example.com,bar@example.com,baz@example.com
+#. * example if you have
+#. mailto:foo@example.com,bar@example.com,baz@example.com
 #. * it will show
 #. * Send an email to “foo@example.com”, “bar@example.com”, “baz@example.com”
-#. * when you hover such link, at the same place as regular URLs when you hover
+#. * when you hover such link, at the same place as regular URLs when you
+#. hover
 #. * a link in a web page.
-#.
 #: embed/ephy-embed-utils.c:82
 #, c-format
 msgid ", “%s”"
@@ -1615,7 +1625,6 @@ msgstr "Gʻarbiy (_Windows-1252)"
 #. The following encodings are so rarely used that we don't want to
 #. * pollute the "related" part of the encodings menu with them, so we
 #. * set the language group to 0 here.
-#.
 #: embed/ephy-encodings.c:136
 msgid "English (_US-ASCII)"
 msgstr "Inglizcha (_US-ASCII)"
@@ -1638,7 +1647,6 @@ msgstr "Yunikod (UTF-3_2 LE)"
 
 #. Translators: this is the title that an unknown encoding will
 #. * be displayed as.
-#.
 #: embed/ephy-encodings.c:219
 #, c-format
 msgid "Unknown (%s)"
@@ -1744,14 +1752,15 @@ msgstr "Veb-ilova oʻchirib tashlansinmi?"
 #: embed/ephy-web-view.c:1373
 #, c-format
 msgid ""
-"“%s” will be removed. You will have to re-install the website as an app from "
-"the menu to use it again."
+"“%s” will be removed. You will have to re-install the website as an app from"
+" the menu to use it again."
 msgstr ""
 "“%s” oʻchirib tashlanadi. Qaytadan ishlatish uchun veb-saytni ilova "
 "tariqasida menyudan qayta oʻrnatishingiz kerak."
 
 #: embed/ephy-web-view.c:1378 src/ephy-passwords-view.c:159
-#: src/preferences/autofill-view.c:364 src/resources/gtk/history-dialog.blp:144
+#: src/preferences/autofill-view.c:364
+#: src/resources/gtk/history-dialog.blp:144
 msgid "_Delete"
 msgstr "_Oʻchirish"
 
@@ -1773,7 +1782,8 @@ msgstr ""
 
 #. Possible error message when a site presents a bad certificate.
 #: embed/ephy-web-view.c:1816
-msgid "This website’s identification was not issued by a trusted organization."
+msgid ""
+"This website’s identification was not issued by a trusted organization."
 msgstr ""
 "Ushbu veb-sayt identifikatori ishonchli tashkilot tomonidan berilmagan."
 
@@ -1782,7 +1792,8 @@ msgstr ""
 msgid ""
 "This website’s identification could not be processed. It may be corrupted."
 msgstr ""
-"Bu veb-sayt identifikatsiyasini aniqlab boʻlmadi. U buzilgan boʻlishi mumkin."
+"Bu veb-sayt identifikatsiyasini aniqlab boʻlmadi. U buzilgan boʻlishi "
+"mumkin."
 
 #. Possible error message when a site presents a bad certificate.
 #: embed/ephy-web-view.c:1826
@@ -1790,8 +1801,8 @@ msgid ""
 "This website’s identification has been revoked by the trusted organization "
 "that issued it."
 msgstr ""
-"Ushbu veb-sayt identifikatsiyasi uni chiqargan ishonchli tashkilot tomonidan "
-"bekor qilingan."
+"Ushbu veb-sayt identifikatsiyasi uni chiqargan ishonchli tashkilot tomonidan"
+" bekor qilingan."
 
 #. Possible error message when a site presents a bad certificate.
 #: embed/ephy-web-view.c:1831
@@ -1805,8 +1816,8 @@ msgstr ""
 #. Possible error message when a site presents a bad certificate.
 #: embed/ephy-web-view.c:1836
 msgid ""
-"This website’s identification is only valid for future dates. Check the date "
-"on your computer’s calendar."
+"This website’s identification is only valid for future dates. Check the date"
+" on your computer’s calendar."
 msgstr ""
 "Ushbu veb-sayt identifikatsiyasi faqat kelajakdagi sanalar uchun amal "
 "qiladi. Kompyuteringiz taqvimidagi sanani tekshiring."
@@ -1836,7 +1847,8 @@ msgid ""
 "to verify that your internet connection is working correctly."
 msgstr ""
 "Saytga vaqtincha ulanib boʻlmaydi yoki yangi manzilga koʻchib oʻtgan "
-"boʻlishi mumkin. Internetingiz ishlayotganligini tekshirishni tavsiya etamiz."
+"boʻlishi mumkin. Internetingiz ishlayotganligini tekshirishni tavsiya "
+"etamiz."
 
 #. Technical details when a site cannot be loaded due to a network error.
 #: embed/ephy-web-view.c:1923
@@ -1847,7 +1859,8 @@ msgstr "Aynan ushbu xato: %s"
 #. The button on the network error page. DO NOT ADD MNEMONICS HERE.
 #. The button on the page crash error page. DO NOT ADD MNEMONICS HERE.
 #. The button on the process crash error page. DO NOT ADD MNEMONICS HERE.
-#. The button on the unresponsive process error page. DO NOT ADD MNEMONICS HERE.
+#. The button on the unresponsive process error page. DO NOT ADD MNEMONICS
+#. HERE.
 #. Translators: tooltip for the refresh button
 #: embed/ephy-web-view.c:1928 embed/ephy-web-view.c:1981
 #: embed/ephy-web-view.c:2017 embed/ephy-web-view.c:2053
@@ -1875,7 +1888,8 @@ msgstr ""
 "%s sahifasi Web dasturini kutilmaganda yopib qoʻyishiga sababchi boʻlishi "
 "mumkin."
 
-#. Further error details when a site cannot be loaded due to a page crash error.
+#. Further error details when a site cannot be loaded due to a page crash
+#. error.
 #: embed/ephy-web-view.c:1972
 #, c-format
 msgid "If this happens again, please report the problem to the %s developers."
@@ -1900,8 +1914,8 @@ msgid ""
 "Something went wrong while displaying this page. Please reload or visit a "
 "different page to continue."
 msgstr ""
-"Bu sahifani koʻrsatishda xatolik yuz berdi. Iltimos, sahifani yangilang yoki "
-"boshqa sahifaga oʻting."
+"Bu sahifani koʻrsatishda xatolik yuz berdi. Iltimos, sahifani yangilang yoki"
+" boshqa sahifaga oʻting."
 
 #. Page title when web content has become unresponsive.
 #: embed/ephy-web-view.c:2042
@@ -1942,10 +1956,11 @@ msgid ""
 "alter information going to or from this site."
 msgstr ""
 "Bu haqiqiy %s ga oʻxshamaydi. Hujumchilar ushbu saytga kiruvchi yoki undan "
-"chiqadigan maʼlumotlarni oʻgʻirlash yoki oʻzgartirishga urinayotgan boʻlishi "
-"mumkin."
+"chiqadigan maʼlumotlarni oʻgʻirlash yoki oʻzgartirishga urinayotgan boʻlishi"
+" mumkin."
 
-#. The button on the invalid TLS certificate error page. DO NOT ADD MNEMONICS HERE.
+#. The button on the invalid TLS certificate error page. DO NOT ADD MNEMONICS
+#. HERE.
 #. The button on no such file error page. DO NOT ADD MNEMONICS HERE.
 #: embed/ephy-web-view.c:2102 embed/ephy-web-view.c:2152
 msgid "Go Back"
@@ -1958,12 +1973,14 @@ msgctxt "back-access-key"
 msgid "B"
 msgstr "O"
 
-#. The hidden button on the invalid TLS certificate error page. Do not add mnemonics here.
+#. The hidden button on the invalid TLS certificate error page. Do not add
+#. mnemonics here.
 #: embed/ephy-web-view.c:2108
 msgid "Accept Risk and Proceed"
 msgstr "Tahlikani qabul qilish va davom etish"
 
-#. Mnemonic for the Accept Risk and Proceed button on the invalid TLS certificate error page.
+#. Mnemonic for the Accept Risk and Proceed button on the invalid TLS
+#. certificate error page.
 #: embed/ephy-web-view.c:2112
 msgctxt "proceed-anyway-access-key"
 msgid "P"
@@ -2080,8 +2097,8 @@ msgstr "%2$s URL manzilida nomaʼlum %1$s URL andoza parametri topildi."
 #: lib/ephy-opensearch-engine.c:262
 #, c-format
 msgid ""
-"Parsing of URL template %s succeeded, but no search terms were found so it's "
-"not useful as a search engine."
+"Parsing of URL template %s succeeded, but no search terms were found so it's"
+" not useful as a search engine."
 msgstr ""
 "%s URL andozasini muvaffaqiyatli pars qilindi, lekin hech qanday qidiruv "
 "soʻzlar topilmadi, shuning uchun u qidiruv tizimi sifatida foydali emas."
@@ -2090,9 +2107,11 @@ msgstr ""
 #, c-format
 msgid "Skipping <Param> tag as it has no name or value attribute"
 msgstr ""
-"<Param> tegi oʻtkazib yuborilmoqda, chunki unda nom yoki qiymat atributi yoʻq"
+"<Param> tegi oʻtkazib yuborilmoqda, chunki unda nom yoki qiymat atributi "
+"yoʻq"
 
-#. TRANSLATORS: First %s is the name of the search engine. Second %s is the error message (supposedly partially localized on the GLib level).
+#. TRANSLATORS: First %s is the name of the search engine. Second %s is the
+#. error message (supposedly partially localized on the GLib level).
 #: lib/ephy-opensearch-engine.c:447
 #, c-format
 msgid "Couldn't parse search engine description file for %s: %s"
@@ -2102,7 +2121,8 @@ msgstr "%s uchun qidiruv tizimi tavsif faylini pars qilib boʻlmadi: %s"
 #, c-format
 msgid ""
 "Couldn't create search engine as it did not provide sufficient information!"
-msgstr "Qidiruv tizimini yaratib boʻlmadi, chunki yetarli maʼlumot berilmagan!"
+msgstr ""
+"Qidiruv tizimini yaratib boʻlmadi, chunki yetarli maʼlumot berilmagan!"
 
 #. TRANSLATORS: The %s is the name of the search engine.
 #: lib/ephy-opensearch-engine.c:518
@@ -2130,7 +2150,8 @@ msgstr ""
 "Boʻsh JSON javobi yoki massiv boʻlmagan ildiz tuguni yoki 2 elementdan "
 "kichik boʻlgan ildiz tuguni massivi qabul qilindi"
 
-#. TRANSLATORS: The first %s is the URL for the search suggestions and the second one is raw JSON content.
+#. TRANSLATORS: The first %s is the URL for the search suggestions and the
+#. second one is raw JSON content.
 #: lib/ephy-search-engine.c:541 lib/ephy-search-engine.c:556
 #, c-format
 msgid "Could not parse JSON suggestions from %s with JSON %s: "
@@ -2144,61 +2165,56 @@ msgstr "%s dan JSON tavsiyalarini JSON %s bilan pars qilib boʻlmadi: "
 msgid "%s’s GNOME Web on %s"
 msgstr "%2$sʼdagi %1$sʼni GNOME Webʼi"
 
-#. Translators: "friendly time" string for the current day, strftime format. like "Today 12∶34 am"
+#. Translators: "friendly time" string for the current day, strftime format.
+#. like "Today 12∶34 am"
 #: lib/ephy-time-helpers.c:236
 msgid "Today %I∶%M %p"
 msgstr "Bugun %I∶%M %p"
 
-#. Translators: "friendly time" string for the current day, strftime format. like "Today 15∶34"
+#. Translators: "friendly time" string for the current day, strftime format.
+#. like "Today 15∶34"
 #: lib/ephy-time-helpers.c:239
 msgid "Today %H∶%M"
 msgstr "Bugun %H∶%M"
 
 #. Translators: "friendly time" string for the previous day,
 #. * strftime format. e.g. "Yesterday 12∶34 am"
-#.
 #: lib/ephy-time-helpers.c:254
 msgid "Yesterday %I∶%M %p"
 msgstr "Kecha %I∶%M %p"
 
 #. Translators: "friendly time" string for the previous day,
 #. * strftime format. e.g. "Yesterday 15∶34"
-#.
 #: lib/ephy-time-helpers.c:259
 msgid "Yesterday %H∶%M"
 msgstr "Kecha %H∶%M"
 
 #. Translators: "friendly time" string for a day in the current week,
 #. * strftime format. e.g. "Wed 12∶34 am"
-#.
 #: lib/ephy-time-helpers.c:277
 msgid "%a %I∶%M %p"
 msgstr "%a %I∶%M %p"
 
 #. Translators: "friendly time" string for a day in the current week,
 #. * strftime format. e.g. "Wed 15∶34"
-#.
 #: lib/ephy-time-helpers.c:282
 msgid "%a %H∶%M"
 msgstr "%a %H∶%M"
 
 #. Translators: "friendly time" string for a day in the current year,
 #. * strftime format. e.g. "Feb 12 12∶34 am"
-#.
 #: lib/ephy-time-helpers.c:296
 msgid "%b %d %I∶%M %p"
 msgstr "%b %d %I∶%M %p"
 
 #. Translators: "friendly time" string for a day in the current year,
 #. * strftime format. e.g. "Feb 12 15∶34"
-#.
 #: lib/ephy-time-helpers.c:301
 msgid "%b %d %H∶%M"
 msgstr "%b %d %I∶%M %p"
 
 #. Translators: "friendly time" string for a day in a different year,
 #. * strftime format. e.g. "Feb 12 1997"
-#.
 #: lib/ephy-time-helpers.c:307
 msgid "%b %d %Y"
 msgstr "%b %d %I∶%M %p"
@@ -2324,15 +2340,16 @@ msgstr ""
 #: lib/sync/ephy-sync-service.c:1966
 msgid "Could not find the sync secrets for the current sync user."
 msgstr ""
-"Joriy sinxronlash foydalanuvchisi uchun sinxronlash sirlarini topib boʻlmadi."
+"Joriy sinxronlash foydalanuvchisi uchun sinxronlash sirlarini topib "
+"boʻlmadi."
 
 #: lib/sync/ephy-sync-service.c:2010
 msgid ""
 "Failed to store sync secrets (is the secret service or secrets portal "
 "broken?): "
 msgstr ""
-"Sinxronizatsiya sirlarini saqlab boʻlmadi (secret service yoki secret portal "
-"buzilganmi?): "
+"Sinxronizatsiya sirlarini saqlab boʻlmadi (secret service yoki secret portal"
+" buzilganmi?): "
 
 #. Translators: %s is the email of the user.
 #: lib/sync/ephy-sync-service.c:2052
@@ -2417,7 +2434,8 @@ msgstr "_Bekor qilish"
 #: src/bookmarks/ephy-bookmarks-import.c:127
 #, c-format
 msgid "File is not a valid Epiphany bookmarks file: missing tags table"
-msgstr "Fayl haqiqiy Epiphany xatchoʻplar fayli emas: teglar jadvali topilmadi"
+msgstr ""
+"Fayl haqiqiy Epiphany xatchoʻplar fayli emas: teglar jadvali topilmadi"
 
 #: src/bookmarks/ephy-bookmarks-import.c:161
 #, c-format
@@ -2605,7 +2623,6 @@ msgstr "Ishga tushirilmoqda…"
 
 #. Translators: the %s refers to the time at which the last sync was made.
 #. * For example: Today 04:34 PM, Sun 11:25 AM, May 31 06:41 PM.
-#.
 #: src/ephy-firefox-sync-dialog.c:140
 #, c-format
 msgid "Last synchronized: %s"
@@ -2817,42 +2834,50 @@ msgstr "Rad etish"
 msgid "Ask"
 msgstr "Soʻralsin"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:520
 msgid "Advertisements"
 msgstr "Reklamalar"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:522
 msgid "Notifications"
 msgstr "Bildirishnomalar"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:524
 msgid "Password Saving"
 msgstr "Parolni saqlash"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:526
 msgid "Location Access"
 msgstr "Lokatsiyaga ruxsat"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:528
 msgid "Microphone Access"
 msgstr "Mikrofonga ruxsat"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:530
 msgid "Webcam Access"
 msgstr "Veb-kameraga ruxsat"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:532
 msgid "Display Access"
 msgstr "Displeyga ruxsat"
 
-#. TRANSLATORS: This is a permission toggle in the Security & Permissions dialog.
+#. TRANSLATORS: This is a permission toggle in the Security & Permissions
+#. dialog.
 #: src/ephy-security-dialog.c:534
 msgid "Media Autoplay"
 msgstr "Media avtomatik ijrosi"
@@ -3053,7 +3078,6 @@ msgstr "Havolani maxfiy oynada ochish"
 #. * explicit user consent. Notably, websites can download malicious files
 #. * without consent, so they should not be able to also open those files
 #. * without user interaction.
-#.
 #: src/ephy-window.c:2286
 #, c-format
 msgid "Allow “%s” to open the “%s” link in an external app"
@@ -3135,12 +3159,12 @@ msgstr "Veb-sayt maʼlumotlariga ruxsat soʻrovi"
 #: src/ephy-window.c:3041
 #, c-format
 msgid ""
-"The page at “%s” would like to access its own data (including cookies) while "
-"browsing “%s”. This will allow “%s” to track your activity on “%s”."
+"The page at “%s” would like to access its own data (including cookies) while"
+" browsing “%s”. This will allow “%s” to track your activity on “%s”."
 msgstr ""
-"“%s” sahifasi “%s”ga tashrif qilgan vaqtda o‘z ma’lumotlarini (shu jumladan "
-"cookie-fayllarini) ishlatmoqchi. Bu “%s”ga “%s”dagi faoliyatingizni kuzatish "
-"imkonini beradi."
+"“%s” sahifasi “%s”ga tashrif qilgan vaqtda oʻz ma’lumotlarini (shu jumladan "
+"cookie-fayllarini) ishlatmoqchi. Bu “%s”ga “%s”dagi faoliyatingizni kuzatish"
+" imkonini beradi."
 
 #. Translators: Clipboard policy for a specific site.
 #: src/ephy-window.c:3046
@@ -3360,11 +3384,11 @@ msgstr "Manzil yaroqli URI emas"
 #: src/preferences/ephy-search-engine-row.c:161
 #, c-format
 msgid ""
-"Address is not a valid URL. The address should look like https://"
-"www.example.com/search?q=%s"
+"Address is not a valid URL. The address should look like "
+"https://www.example.com/search?q=%s"
 msgstr ""
-"Manzil yaroqli URI emas. Manzil quyidagi koʻrinishda boʻlishi kerak: https://"
-"www.example.com/search?q=%s"
+"Manzil yaroqli URI emas. Manzil quyidagi koʻrinishda boʻlishi kerak: "
+"https://www.example.com/search?q=%s"
 
 #: src/preferences/ephy-search-engine-row.c:194
 msgid "This shortcut is already used."
@@ -3376,7 +3400,8 @@ msgstr "Qidiruv qisqa yoʻllarida boʻshliq boʻlmasligi kerak."
 
 #: src/preferences/ephy-search-engine-row.c:204
 msgid "Search shortcuts should start with a symbol such as !, # or @."
-msgstr "Qidiruv qisqa yoʻllari !, # yoki @ kabi belgi bilan boshlanishi kerak."
+msgstr ""
+"Qidiruv qisqa yoʻllari !, # yoki @ kabi belgi bilan boshlanishi kerak."
 
 #: src/preferences/ephy-search-engine-row.c:211
 msgid "Shortcut (for example !ddg)"
@@ -3518,7 +3543,8 @@ msgstr "Kengaytmalar"
 msgid "View Open Tabs"
 msgstr "Ochiq varaqlarni koʻrish"
 
-#: src/resources/gtk/action-bar-end.blp:101 src/resources/gtk/action-bar.blp:67
+#: src/resources/gtk/action-bar-end.blp:101
+#: src/resources/gtk/action-bar.blp:67
 #: src/resources/gtk/bookmarks-dialog.blp:54
 msgid "Bookmarks"
 msgstr "Xatchoʻplar"
@@ -3666,7 +3692,8 @@ msgstr "Bajarildi"
 msgid "Close"
 msgstr "Yopish"
 
-#: src/resources/gtk/bookmarks-dialog.blp:39 src/resources/gtk/data-view.blp:18
+#: src/resources/gtk/bookmarks-dialog.blp:39
+#: src/resources/gtk/data-view.blp:18
 msgid "Options"
 msgstr "Parametrlar"
 
@@ -4108,12 +4135,13 @@ msgstr "Kengaytmalar fayllardan qoʻlda oʻrnatilishi kerak"
 #: src/resources/gtk/prefs-extensions-page.blp:25
 msgid ""
 "Epiphany is compatible with web extensions for Mozilla Firefox. To find and "
-"add web extensions, visit <a href=\"https://"
-"addons.mozilla.org\">addons.mozilla.org</a>"
+"add web extensions, visit <a "
+"href=\"https://addons.mozilla.org\">addons.mozilla.org</a>"
 msgstr ""
 "Epiphany Mozilla Firefox kengaytmalarini qoʻllab-quvvatlaydi. Veb-"
-"kengaytmalarni topish va oʻrnatish uchun <a href=\"https://"
-"addons.mozilla.org\">addons.mozilla.org</a> ga tashrif buyuring"
+"kengaytmalarni topish va oʻrnatish uchun <a "
+"href=\"https://addons.mozilla.org\">addons.mozilla.org</a> ga tashrif "
+"buyuring"
 
 #: src/resources/gtk/prefs-extensions-page.blp:53
 msgid "No Extensions Installed"
@@ -4317,7 +4345,7 @@ msgid ""
 "Trackers that tried to collect personal information across websites will "
 "appear here"
 msgstr ""
-"Veb-saytlar boʻylab shaxsiy maʼlumotlarni yig'ishga uringan trekerlar shu "
+"Veb-saytlar boʻylab shaxsiy maʼlumotlarni yigʻishga uringan trekerlar shu "
 "yerda koʻrsatiladi"
 
 #: src/resources/gtk/privacy-report.blp:83
@@ -4788,9 +4816,9 @@ msgid ""
 "Tabs cannot be opened)."
 msgstr ""
 "Quyida ushbu hisob orqali Firefox Syncʼdan foydalangan boshqa "
-"qurilmalaringizdagi sinxronlashtirilgan ochiq varaqlar koʻrsatilgan. Varaqni "
-"ochish uchun nomini ikki marta bosing (Mahalliy varaqlar ostidagi varaqlarni "
-"ochib boʻlmaydi)."
+"qurilmalaringizdagi sinxronlashtirilgan ochiq varaqlar koʻrsatilgan. Varaqni"
+" ochish uchun nomini ikki marta bosing (Mahalliy varaqlar ostidagi "
+"varaqlarni ochib boʻlmaydi)."
 
 #: src/resources/gtk/tab-overview-menu.blp:23
 msgid "Close _All Tabs"
@@ -5048,8 +5076,8 @@ msgid ""
 msgstr ""
 "F7 tugmasini bosish matnli kursor rejimi yoqadi yoki oʻchiradi. Bu funksiya "
 "veb-sahifalarda harakatlanuvchi kursorni joylashtiradi va klaviatura "
-"yordamida matnda harakatlanish va matnni tanlash imkoniyatini beradi. Matnli "
-"kursor rejimini yoqmoqchimisiz?"
+"yordamida matnda harakatlanish va matnni tanlash imkoniyatini beradi. Matnli"
+" kursor rejimini yoqmoqchimisiz?"
 
 #: src/window-commands.c:3055
 msgid "_Enable"
@@ -5133,8 +5161,8 @@ msgstr "_Yoqish"
 #~ msgstr "Xavfli protokollarni oʻchirish"
 
 #~ msgid ""
-#~ "Disables loading of content from unsafe protocols. Safe protocols are "
-#~ "http and https."
+#~ "Disables loading of content from unsafe protocols. Safe protocols are http "
+#~ "and https."
 #~ msgstr ""
 #~ "Xavfli protokollar tarkibini yuklashni taʼqiqlash. Xavfsiz protokollar - "
 #~ "http va https."
@@ -5164,10 +5192,10 @@ msgstr "_Yoqish"
 #~ msgstr "Cookie'ni qabul qilish"
 
 #~ msgid ""
-#~ "Default encoding. Accepted values are: \"armscii-8\", \"Big5\", \"Big5-"
-#~ "HKSCS\", \"EUC-JP\", \"EUC-KR\", \"gb18030\", \"GB2312\", \"geostd8\", "
-#~ "\"HZ-GB-2312\", \"IBM850\", \"IBM852\", \"IBM855\", \"IBM857\", "
-#~ "\"IBM862\", \"IBM864\", \"IBM866\", \"ISO-2022-CN\", \"ISO-2022-JP\", "
+#~ "Default encoding. Accepted values are: \"armscii-8\", \"Big5\", "
+#~ "\"Big5-HKSCS\", \"EUC-JP\", \"EUC-KR\", \"gb18030\", \"GB2312\", "
+#~ "\"geostd8\", \"HZ-GB-2312\", \"IBM850\", \"IBM852\", \"IBM855\", \"IBM857\","
+#~ " \"IBM862\", \"IBM864\", \"IBM866\", \"ISO-2022-CN\", \"ISO-2022-JP\", "
 #~ "\"ISO-2022-KR\", \"ISO-8859-1\", \"ISO-8859-2\", \"ISO-8859-3\", "
 #~ "\"ISO-8859-4\", \"ISO-8859-5\", \"ISO-8859-6\", \"ISO-8859-7\", "
 #~ "\"ISO-8859-8\", \"ISO-8859-8-I\", \"ISO-8859-9\", \"ISO-8859-10\", "
@@ -5177,41 +5205,40 @@ msgstr "_Yoqish"
 #~ "\"windows-1250\", \"windows-1251\", \"windows-1252\", \"windows-1253\", "
 #~ "\"windows-1254\", \"windows-1255\", \"windows-1256\", \"windows-1257\", "
 #~ "\"windows-1258\", \"x-euc-tw\", \"x-gbk\", \"x-johab\", \"x-mac-arabic\", "
-#~ "\"x-mac-ce\", \"x-mac-croatian\", \"x-mac-cyrillic\", \"x-mac-"
-#~ "devanagari\", \"x-mac-farsi\", \"x-mac-greek\", \"x-mac-gujarati\", \"x-"
-#~ "mac-gurmukhi\", \"x-mac-hebrew\", \"x-mac-icelandic\", \"x-mac-roman\", "
-#~ "\"x-mac-romanian\", \"x-mac-turkish\", \"x-mac-ukrainian\", \"x-user-"
-#~ "defined\", \"x-viet-tcvn5712\", \"x-viet-vps\" and \"x-windows-949\"."
+#~ "\"x-mac-ce\", \"x-mac-croatian\", \"x-mac-cyrillic\", \"x-mac-devanagari\", "
+#~ "\"x-mac-farsi\", \"x-mac-greek\", \"x-mac-gujarati\", \"x-mac-gurmukhi\", "
+#~ "\"x-mac-hebrew\", \"x-mac-icelandic\", \"x-mac-roman\", \"x-mac-romanian\", "
+#~ "\"x-mac-turkish\", \"x-mac-ukrainian\", \"x-user-defined\", \"x-viet-"
+#~ "tcvn5712\", \"x-viet-vps\" and \"x-windows-949\"."
 #~ msgstr ""
-#~ "Andoza kodlash usuli. Qabul qilinadigan qiymatlar: \"armscii-8\", "
-#~ "\"Big5\", \"Big5-HKSCS\", \"EUC-JP\", \"EUC-KR\", \"gb18030\", "
-#~ "\"GB2312\", \"geostd8\", \"HZ-GB-2312\", \"IBM850\", \"IBM852\", "
-#~ "\"IBM855\", \"IBM857\", \"IBM862\", \"IBM864\", \"IBM866\", \"ISO-2022-"
-#~ "CN\", \"ISO-2022-JP\", \"ISO-2022-KR\", \"ISO-8859-1\", \"ISO-8859-2\", "
-#~ "\"ISO-8859-3\", \"ISO-8859-4\", \"ISO-8859-5\", \"ISO-8859-6\", "
-#~ "\"ISO-8859-7\", \"ISO-8859-8\", \"ISO-8859-8-I\", \"ISO-8859-9\", "
-#~ "\"ISO-8859-10\", \"ISO-8859-11\", \"ISO-8859-13\", \"ISO-8859-14\", "
-#~ "\"ISO-8859-15\", \"ISO-8859-16\", \"ISO-IR-111\", \"KOI8-R\", \"KOI8-U\", "
-#~ "\"Shift_JIS\", \"TIS-620\", \"UTF-7\", \"UTF-8\", \"VISCII\", "
-#~ "\"windows-874\", \"windows-1250\", \"windows-1251\", \"windows-1252\", "
-#~ "\"windows-1253\", \"windows-1254\", \"windows-1255\", \"windows-1256\", "
-#~ "\"windows-1257\", \"windows-1258\", \"x-euc-tw\", \"x-gbk\", \"x-johab\", "
-#~ "\"x-mac-arabic\", \"x-mac-ce\", \"x-mac-croatian\", \"x-mac-cyrillic\", "
-#~ "\"x-mac-devanagari\", \"x-mac-farsi\", \"x-mac-greek\", \"x-mac-"
-#~ "gujarati\", \"x-mac-gurmukhi\", \"x-mac-hebrew\", \"x-mac-icelandic\", "
-#~ "\"x-mac-roman\", \"x-mac-romanian\", \"x-mac-turkish\", \"x-mac-"
-#~ "ukrainian\", \"x-user-defined\", \"x-viet-tcvn5712\", \"x-viet-vps\" va "
-#~ "\"x-windows-949\"."
+#~ "Andoza kodlash usuli. Qabul qilinadigan qiymatlar: \"armscii-8\", \"Big5\", "
+#~ "\"Big5-HKSCS\", \"EUC-JP\", \"EUC-KR\", \"gb18030\", \"GB2312\", "
+#~ "\"geostd8\", \"HZ-GB-2312\", \"IBM850\", \"IBM852\", \"IBM855\", \"IBM857\","
+#~ " \"IBM862\", \"IBM864\", \"IBM866\", \"ISO-2022-CN\", \"ISO-2022-JP\", "
+#~ "\"ISO-2022-KR\", \"ISO-8859-1\", \"ISO-8859-2\", \"ISO-8859-3\", "
+#~ "\"ISO-8859-4\", \"ISO-8859-5\", \"ISO-8859-6\", \"ISO-8859-7\", "
+#~ "\"ISO-8859-8\", \"ISO-8859-8-I\", \"ISO-8859-9\", \"ISO-8859-10\", "
+#~ "\"ISO-8859-11\", \"ISO-8859-13\", \"ISO-8859-14\", \"ISO-8859-15\", "
+#~ "\"ISO-8859-16\", \"ISO-IR-111\", \"KOI8-R\", \"KOI8-U\", \"Shift_JIS\", "
+#~ "\"TIS-620\", \"UTF-7\", \"UTF-8\", \"VISCII\", \"windows-874\", "
+#~ "\"windows-1250\", \"windows-1251\", \"windows-1252\", \"windows-1253\", "
+#~ "\"windows-1254\", \"windows-1255\", \"windows-1256\", \"windows-1257\", "
+#~ "\"windows-1258\", \"x-euc-tw\", \"x-gbk\", \"x-johab\", \"x-mac-arabic\", "
+#~ "\"x-mac-ce\", \"x-mac-croatian\", \"x-mac-cyrillic\", \"x-mac-devanagari\", "
+#~ "\"x-mac-farsi\", \"x-mac-greek\", \"x-mac-gujarati\", \"x-mac-gurmukhi\", "
+#~ "\"x-mac-hebrew\", \"x-mac-icelandic\", \"x-mac-roman\", \"x-mac-romanian\", "
+#~ "\"x-mac-turkish\", \"x-mac-ukrainian\", \"x-user-defined\", \"x-viet-"
+#~ "tcvn5712\", \"x-viet-vps\" va \"x-windows-949\"."
 
 #~ msgid "Default font type. Possible values are \"serif\" and \"sans-serif\"."
 #~ msgstr "Andoza shrift turi. \"serif\" va \"sans-serif\"."
 
 #~ msgid ""
-#~ "How to present animated images. Possible values are \"normal\", \"once\" "
-#~ "and \"disabled\"."
+#~ "How to present animated images. Possible values are \"normal\", \"once\" and"
+#~ " \"disabled\"."
 #~ msgstr ""
-#~ "Animatsion rasmlarning koʻrinishi. Quyidagilar boʻlishi mumkin: "
-#~ "\"normal\" (andoza), \"once\" (bir marta) va \"disabled\" (animatsiyasiz)."
+#~ "Animatsion rasmlarning koʻrinishi. Quyidagilar boʻlishi mumkin: \"normal\" "
+#~ "(andoza), \"once\" (bir marta) va \"disabled\" (animatsiyasiz)."
 
 #~ msgid "How to print frames"
 #~ msgstr "Freymlarni bosib chiqarish usuli"
@@ -5220,8 +5247,8 @@ msgstr "_Yoqish"
 #~ "How to print pages containing frames. Allowed values are \"normal\", "
 #~ "\"separately\" and \"selected\"."
 #~ msgstr ""
-#~ "Freym mavjud boʻlgan sahifalarning bosib chiqarilishi. Quyidagilar "
-#~ "boʻlishi mumkin: \"normal\" 9andoza), \"separately\" (alohida-alohida) va "
+#~ "Freym mavjud boʻlgan sahifalarning bosib chiqarilishi. Quyidagilar boʻlishi "
+#~ "mumkin: \"normal\" 9andoza), \"separately\" (alohida-alohida) va "
 #~ "\"selected\" (tanlanganni)."
 
 #~ msgid "ISO-8859-1"
@@ -5231,15 +5258,14 @@ msgstr "_Yoqish"
 #~ msgstr "Rasm animatsiyasi usuli"
 
 #~ msgid ""
-#~ "Middle click to open the web page pointed to by the currently selected "
-#~ "text"
+#~ "Middle click to open the web page pointed to by the currently selected text"
 #~ msgstr ""
-#~ "Joriy tanlangan matn koʻrsatgan veb sahifani ochish uchun sichqoncha "
-#~ "oʻrta tugmasini bosing"
+#~ "Joriy tanlangan matn koʻrsatgan veb sahifani ochish uchun sichqoncha oʻrta "
+#~ "tugmasini bosing"
 
 #~ msgid ""
-#~ "Middle clicking on the main view pane will open the web page pointed to "
-#~ "by the currently selected text."
+#~ "Middle clicking on the main view pane will open the web page pointed to by "
+#~ "the currently selected text."
 #~ msgstr ""
 #~ "Sichqoncha tugmasining asosiy panelda bosilishi, joriy belgilangan matn "
 #~ "koʻrsatadigan veb sahifani ochadi."
@@ -5274,11 +5300,11 @@ msgstr "_Yoqish"
 #~ msgstr "Tahrirchi oynasida koʻrsatiladigan xatchoʻp maʼlumoti"
 
 #~ msgid ""
-#~ "The bookmark information shown in the editor view. Valid values in the "
-#~ "list are \"address\" and \"title\"."
+#~ "The bookmark information shown in the editor view. Valid values in the list "
+#~ "are \"address\" and \"title\"."
 #~ msgstr ""
-#~ "Tahrirchi oynasida koʻrsatiladigan xatchoʻp maʼlumoti. Quyidagilar "
-#~ "boʻlishi mumkin: \"address\" (manzil) va \"title\" (sarlavha)."
+#~ "Tahrirchi oynasida koʻrsatiladigan xatchoʻp maʼlumoti. Quyidagilar boʻlishi "
+#~ "mumkin: \"address\" (manzil) va \"title\" (sarlavha)."
 
 #~ msgid "The currently selected fonts language"
 #~ msgstr "Joriy tanlangan til shriftlari"
@@ -5288,13 +5314,13 @@ msgstr "_Yoqish"
 #~ "\"x-baltic\" (baltic languages), \"x-central-euro\" (central european "
 #~ "languages), \"x-cyrillic\" (languages written with cyrillic alphabet), "
 #~ "\"el\" (greek), \"he\" (hebrew), \"ja\" (japanese), \"ko\" (korean), \"zh-"
-#~ "CN\" (simplified chinese), \"th\" (thai), \"zh-TW\" (traditional "
-#~ "chinese), \"tr\" (turkish), \"x-unicode\" (other languages), \"x-"
-#~ "western\" (languages written in latin script), \"x-tamil\" (tamil) and "
-#~ "\"x-devanagari\" (devanagari)."
+#~ "CN\" (simplified chinese), \"th\" (thai), \"zh-TW\" (traditional chinese), "
+#~ "\"tr\" (turkish), \"x-unicode\" (other languages), \"x-western\" (languages "
+#~ "written in latin script), \"x-tamil\" (tamil) and \"x-devanagari\" "
+#~ "(devanagari)."
 #~ msgstr ""
-#~ "Joriy tanlangan shriftlar tili. Mavjud qiymatlar: \"ar\" (arabcha), \"x-"
-#~ "baltic\" (boltiqboʻyi tillari), \"x-central-euro\" (markaziy yevropa "
+#~ "Joriy tanlangan shriftlar tili. Mavjud qiymatlar: \"ar\" (arabcha), "
+#~ "\"x-baltic\" (boltiqboʻyi tillari), \"x-central-euro\" (markaziy yevropa "
 #~ "tillari), \"x-cyrillic\" (kirilchadan foydalanadigan tillar), \"el\" "
 #~ "(yunoncha), \"he\" (yahudiycha), \"ja\" (yaponcha), \"ko\" (koreyscha), "
 #~ "\"zh-CN\" (soddalashtirilgan xitoycha), \"th\" (taycha), \"zh-TW\" "
@@ -5311,22 +5337,21 @@ msgstr "_Yoqish"
 #~ "\"cjk_parallel_state_machine\" (autodetect east asian encodings), "
 #~ "\"ja_parallel_state_machine\" (autodetect japanese encodings), "
 #~ "\"ko_parallel_state_machine\" (autodetect korean encodings), \"ruprob\" "
-#~ "(autodetect russian encodings), \"ukprob\" (autodetect ukrainian "
-#~ "encodings), \"zh_parallel_state_machine\" (autodetect chinese encodings), "
-#~ "\"zhcn_parallel_state_machine\" (autodetect simplified chinese "
-#~ "encodings), \"zhtw_parallel_state_machine\" (autodetect traditional "
-#~ "chinese encodings) and \"universal_charset_detector\" (autodetect most "
-#~ "encodings)."
+#~ "(autodetect russian encodings), \"ukprob\" (autodetect ukrainian encodings),"
+#~ " \"zh_parallel_state_machine\" (autodetect chinese encodings), "
+#~ "\"zhcn_parallel_state_machine\" (autodetect simplified chinese encodings), "
+#~ "\"zhtw_parallel_state_machine\" (autodetect traditional chinese encodings) "
+#~ "and \"universal_charset_detector\" (autodetect most encodings)."
 #~ msgstr ""
-#~ "Kodlash usulini avto-aniqlash. Mavjud kodlash usullari: \"\" (avto-"
-#~ "aniqlash oʻchirilgan), \"cjk_parallel_state_machine\" (sharqiy osiyocha "
-#~ "kodlash usuli), \"ja_parallel_state_machine\" (yaponcha kodlash usuli), "
-#~ "\"ko_parallel_state_machine\" (koreyscha kodlash usuli), \"ruprob\" "
-#~ "(ruscha kodlash usuli), \"ukprob\" (ukraincha kodlash usuli), "
+#~ "Kodlash usulini avto-aniqlash. Mavjud kodlash usullari: \"\" (avto-aniqlash "
+#~ "oʻchirilgan), \"cjk_parallel_state_machine\" (sharqiy osiyocha kodlash "
+#~ "usuli), \"ja_parallel_state_machine\" (yaponcha kodlash usuli), "
+#~ "\"ko_parallel_state_machine\" (koreyscha kodlash usuli), \"ruprob\" (ruscha "
+#~ "kodlash usuli), \"ukprob\" (ukraincha kodlash usuli), "
 #~ "\"zh_parallel_state_machine\" (xitoycha kodlash usuli), "
-#~ "\"zhcn_parallel_state_machine\" (soddalashtirilgan xitoycha kodlash "
-#~ "usuli), \"zhtw_parallel_state_machine\" (anʼanaviy xitoycha kodlash "
-#~ "usuli) and \"universal_charset_detector\" (koʻplab kodlash usullari)."
+#~ "\"zhcn_parallel_state_machine\" (soddalashtirilgan xitoycha kodlash usuli), "
+#~ "\"zhtw_parallel_state_machine\" (anʼanaviy xitoycha kodlash usuli) and "
+#~ "\"universal_charset_detector\" (koʻplab kodlash usullari)."
 
 #~ msgid "The page information shown in the history view"
 #~ msgstr "Tarix oynasida koʻrsatiladigan sahifa maʼlumoti"
@@ -5347,9 +5372,8 @@ msgstr "_Yoqish"
 #~ "foydalanish."
 
 #~ msgid ""
-#~ "When files cannot be opened by the browser they are automatically "
-#~ "downloaded to the download folder and opened with the appropriate "
-#~ "application."
+#~ "When files cannot be opened by the browser they are automatically downloaded"
+#~ " to the download folder and opened with the appropriate application."
 #~ msgstr ""
 #~ "agar fayllar brauzer tomonidan ochilmasa, ular avtomatik ravishda yozib "
 #~ "olinadi va mos dastur bilan ochiladi."
@@ -5639,8 +5663,7 @@ msgstr "_Yoqish"
 #~ msgstr "“%s” direktoriyasi yozuvdan himoyalangan"
 
 #~ msgid "You do not have permission to create files in this directory."
-#~ msgstr ""
-#~ "Sizda ushbu direktoriyada fayllar yaratish uchun yetarli huquq yoʻq."
+#~ msgstr "Sizda ushbu direktoriyada fayllar yaratish uchun yetarli huquq yoʻq."
 
 #~ msgid "Directory not Writable"
 #~ msgstr "Direktoriya yozuvdan himoyalangan"
@@ -5653,8 +5676,8 @@ msgstr "_Yoqish"
 #~ "A file with this name already exists and you don't have permission to "
 #~ "overwrite it."
 #~ msgstr ""
-#~ "Shunday nomli fayl allaqachon mavjud va uni almashtirish uchun sizda "
-#~ "yetarli huquq yoʻq."
+#~ "Shunday nomli fayl allaqachon mavjud va uni almashtirish uchun sizda yetarli"
+#~ " huquq yoʻq."
 
 #~ msgid "Cannot Overwrite File"
 #~ msgstr "Faylni almashtirib boʻlmadi"
@@ -5886,8 +5909,7 @@ msgstr "_Yoqish"
 #~ msgstr "Xatchoʻplarni _import qilish…"
 
 #~ msgid "Import bookmarks from another browser or a bookmarks file"
-#~ msgstr ""
-#~ "Xatchoʻplarni boshqa brauzerdan yoki xatchoʻp faylidan import qilish"
+#~ msgstr "Xatchoʻplarni boshqa brauzerdan yoki xatchoʻp faylidan import qilish"
 
 #~ msgid "Export bookmarks to a file"
 #~ msgstr "Xatchoʻplarni faylga eksport qilish"
@@ -5965,8 +5987,8 @@ msgstr "_Yoqish"
 
 #, c-format
 #~ msgid ""
-#~ "The bookmarks from “%s” could not be imported because the file is "
-#~ "corrupted or of an unsupported type."
+#~ "The bookmarks from “%s” could not be imported because the file is corrupted "
+#~ "or of an unsupported type."
 #~ msgstr ""
 #~ "“%s” faylidan xatchoʻpni import qilib boʻlmadi, bunga fayl buzuqligi yoki "
 #~ "qoʻllanilmaydigan formatdaligi sabab boʻlishi mumkin."
@@ -6081,8 +6103,8 @@ msgstr "_Yoqish"
 #~ msgstr "Sana va vaqt ustunini koʻrsatish"
 
 #~ msgid ""
-#~ "Clearing the browsing history will cause all history links to be "
-#~ "permanently deleted."
+#~ "Clearing the browsing history will cause all history links to be permanently"
+#~ " deleted."
 #~ msgstr "Tarix tozalansa, undagi barcha bogʻlamalar ham olib tashlanadi."
 
 #~ msgid "Last 30 minutes"
@@ -6127,8 +6149,8 @@ msgstr "_Yoqish"
 #~ msgstr "Tugallanmagan yozib olishlar bekor qilinsinmi?"
 
 #~ msgid ""
-#~ "There are still downloads pending. If you log out, they will be aborted "
-#~ "and lost."
+#~ "There are still downloads pending. If you log out, they will be aborted and "
+#~ "lost."
 #~ msgstr ""
 #~ "Tugallanmagan yozib olishlar mavjud. Agar dasturdan chiqilsa, ular bekor "
 #~ "qilinadi."
@@ -6140,8 +6162,8 @@ msgstr "_Yoqish"
 #~ msgstr "Oldingi oyna va tablar tiklansinmi?"
 
 #~ msgid ""
-#~ "Epiphany appears to have exited unexpectedly the last time it was run. "
-#~ "You can recover the opened windows and tabs."
+#~ "Epiphany appears to have exited unexpectedly the last time it was run. You "
+#~ "can recover the opened windows and tabs."
 #~ msgstr ""
 #~ "Epiphany oxirgi marta xato bilan ishini yakunlagan koʻrinadi. Siz oldin "
 #~ "ochilgan oyna va tablarni tiklashingiz mumkin."
@@ -6163,8 +6185,7 @@ msgstr "_Yoqish"
 
 #~ msgid "The link you clicked needs the sidebar extension to be installed."
 #~ msgstr ""
-#~ "Bosilgan bogʻlama yon panel kengaytmasi oʻrnatilgan boʻlishini talab "
-#~ "qiladi."
+#~ "Bosilgan bogʻlama yon panel kengaytmasi oʻrnatilgan boʻlishini talab qiladi."
 
 #~ msgid "Switch to this tab"
 #~ msgstr "Ushbu tabga oʻtish"

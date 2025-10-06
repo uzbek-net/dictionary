@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-10-04 12:15+0000\n"
+"POT-Creation-Date: 2025-10-05 15:27+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: data/mobi.phosh.Shell.desktop.in.in:3 data/wayland-sessions/phosh.desktop:3
 msgid "Phone Shell"
-msgstr "Telefon qobig'i"
+msgstr "Telefon qobigʻi"
 
 #: data/mobi.phosh.Shell.desktop.in.in:4
 msgid "Window management and application launching for mobile"
@@ -41,7 +41,7 @@ msgstr "Kofeinni tez sozlash"
 
 #: plugins/caffeine-quick-setting/caffeine-quick-setting.desktop.in.in:6
 msgid "Prevent the session from going idle"
-msgstr "Seansning bo'sh qolishiga yo'l qo'ymaslik"
+msgstr "Seansning boʻsh qolishiga yoʻl qoʻymaslik"
 
 #: plugins/calendar/calendar.desktop.in.in:4
 msgid "Calendar"
@@ -53,11 +53,11 @@ msgstr "Oddiy kalendar vidjeti"
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.desktop.in.in:4
 msgid "Dark Mode / Color Scheme Quick Setting"
-msgstr "Qorong'i rejim / Rang sxemasini tez sozlash"
+msgstr "Qorongʻi rejim / Rang sxemasini tez sozlash"
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.desktop.in.in:6
 msgid "Toggle dark mode"
-msgstr "Qorong'i rejimga o'tish"
+msgstr "Qorongʻi rejimga oʻtish"
 
 #: plugins/emergency-info/emergency-info.desktop.in.in:4
 msgid "Emergency Info"
@@ -65,7 +65,7 @@ msgstr "Favqulodda ma'lumot"
 
 #: plugins/emergency-info/emergency-info.desktop.in.in:6
 msgid "Show emergency information and contacts"
-msgstr "Favqulodda ma'lumotlar va kontaktlarni ko'rsatish"
+msgstr "Favqulodda ma'lumotlar va kontaktlarni koʻrsatish"
 
 #: plugins/launcher-box/launcher-box.desktop.in.in:3
 #: plugins/launcher-box/launcher-box.ui:17
@@ -75,7 +75,7 @@ msgstr "Ishga tushirish qutisi"
 #: plugins/launcher-box/launcher-box.desktop.in.in:5
 msgid "Add launchers to the lock screen. <b>This plugin is experimental.</b>"
 msgstr ""
-"Bloklangan ekranga ishga tushirgichlarni qo'shing. <b>Ushbu plagin "
+"Bloklangan ekranga ishga tushirgichlarni qoʻshing. <b>Ushbu plagin "
 "eksperimental hisoblanadi.</b>"
 
 #: plugins/media-players/media-players.desktop.in.in:3
@@ -98,11 +98,11 @@ msgstr "Mobil maʼlumotlarni yoqish/oʻchirish"
 
 #: plugins/night-light-quick-setting/night-light-quick-setting.desktop.in.in:4
 msgid "Night Light Quick Setting"
-msgstr "Tungi yorug'likni tez sozlash"
+msgstr "Tungi yorugʻlikni tez sozlash"
 
 #: plugins/night-light-quick-setting/night-light-quick-setting.desktop.in.in:6
 msgid "Toggle night light on/off"
-msgstr "Tungi yorug'likni yoqish/o'chirish"
+msgstr "Tungi yorugʻlikni yoqish/oʻchirish"
 
 #. Translators: "Pomodoro" is a technique, no need to translate it
 #: plugins/pomodoro-quick-setting/pomodoro-quick-setting.desktop.in.in:5
@@ -121,7 +121,7 @@ msgstr "Chipta qutisi"
 #: plugins/ticket-box/ticket-box.desktop.in.in:5
 msgid "Show PDFs on the lock screen. <b>This plugin is experimental.</b>"
 msgstr ""
-"Bloklangan ekranda PDF-fayllarni ko'rsatish. <b>Ushbu plagin eksperimental "
+"Bloklangan ekranda PDF-fayllarni koʻrsatish. <b>Ushbu plagin eksperimental "
 "hisoblanadi.</b>"
 
 #: plugins/upcoming-events/upcoming-events.desktop.in.in:3
@@ -130,11 +130,11 @@ msgstr "Kelgusi voqealar"
 
 #: plugins/upcoming-events/upcoming-events.desktop.in.in:5
 msgid "Show upcoming calendar events"
-msgstr "Kelgusi kalendar tadbirlarini ko'rsatish"
+msgstr "Kelgusi kalendar tadbirlarini koʻrsatish"
 
 #: src/app-grid-button.c:144
 msgid "Add to Folder"
-msgstr "_Jild qo‘shish"
+msgstr "_Jild qoʻshish"
 
 #: src/app-grid-button.c:168
 msgid "Create new folder"
@@ -142,15 +142,15 @@ msgstr "Yangi jild yarating"
 
 #: src/app-grid-button.c:694 src/app-grid-button.c:748
 msgid "Application"
-msgstr "Ilovani o'rnating (ilova identifikatori yordamida)"
+msgstr "Ilovani oʻrnating (ilova identifikatori yordamida)"
 
 #: src/app-grid.c:261
 msgid "Show All Apps"
-msgstr "Barcha ilovalarni ko'rsatish"
+msgstr "Barcha ilovalarni koʻrsatish"
 
 #: src/app-grid.c:264
 msgid "Show Only Mobile Friendly Apps"
-msgstr "Faqat mobil ilovalarni ko'rsatish"
+msgstr "Faqat mobil ilovalarni koʻrsatish"
 
 #. Translators: a battery level in percent
 #: src/bt-device-row.c:81
@@ -173,24 +173,24 @@ msgstr "Ulanadigan Bluetooth qurilmalari topilmadi"
 
 #: src/bt-status-page.c:127
 msgid "Bluetooth disabled"
-msgstr "Bluetooth o'chirilgan"
+msgstr "Bluetooth oʻchirilgan"
 
 #: src/call-notification.c:63
 msgid "Unknown caller"
-msgstr "Noma'lum qo'ng'iroq qiluvchi"
+msgstr "Noma'lum qoʻngʻiroq qiluvchi"
 
 #: src/connectivity-manager.c:114
 #, c-format
 msgid "Wi-Fi network '%s' uses a captive portal"
-msgstr "\"%s\" Wi-Fi tarmog'i tutqun portaldan foydalanadi"
+msgstr "\"%s\" Wi-Fi tarmogʻi tutqun portaldan foydalanadi"
 
 #: src/connectivity-manager.c:116
 msgid "The Wi-Fi network uses a captive portal"
-msgstr "Wi-Fi tarmog'i tutqun portaldan foydalanadi"
+msgstr "Wi-Fi tarmogʻi tutqun portaldan foydalanadi"
 
 #: src/connectivity-manager.c:123
 msgid "Sign into Wi-Fi network"
-msgstr "Wi-Fi tarmog'iga kiring"
+msgstr "Wi-Fi tarmogʻiga kiring"
 
 #: src/docked-info.c:81
 msgid "Docked"
@@ -207,7 +207,7 @@ msgstr "Ok"
 
 #: src/emergency-menu.c:100
 msgid "Unable to place emergency call"
-msgstr "Favqulodda qo‘ng‘iroqni amalga oshirib bo‘lmadi"
+msgstr "Favqulodda qoʻngʻiroqni amalga oshirib boʻlmadi"
 
 #: src/emergency-menu.c:105
 msgid "Internal error"
@@ -226,7 +226,7 @@ msgstr[1] "%s %d soniyada avtomatik ravishda chiqariladi."
 
 #: src/end-session-dialog.c:182 src/ui/power-menu.ui:72
 msgid "Power Off"
-msgstr "O’chirish"
+msgstr "Oʻchirish"
 
 #: src/end-session-dialog.c:183
 #, c-format
@@ -281,7 +281,7 @@ msgstr "Xa"
 
 #: src/location-manager.c:275
 msgid "No"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #. give visual feedback on error
 #: src/lockscreen.c:313 src/ui/lockscreen.ui:282
@@ -306,7 +306,8 @@ msgstr "Skrinshot saqlanmadi"
 msgid "Screenshot"
 msgstr "Skrinshot"
 
-#. Translators: name of the folder beneath ~/Pictures used to store screenshots
+#. Translators: name of the folder beneath ~/Pictures used to store
+#. screenshots
 #: src/screenshot-manager.c:554
 msgid "Screenshots"
 msgstr "Skrinshotlar"
@@ -331,12 +332,13 @@ msgstr "Noma'lum rassom"
 
 #: src/monitor-manager.c:128
 msgid "Built-in display"
-msgstr "O'rnatilgan displey"
+msgstr "Oʻrnatilgan displey"
 
 #: src/monitor-manager.c:146
 #, c-format
 msgctxt ""
-"This is a monitor vendor name, followed by a size in inches, like 'Dell 15\"'"
+"This is a monitor vendor name, followed by a size in inches, like 'Dell "
+"15\"'"
 msgid "%s %s"
 msgstr "%s %s"
 
@@ -356,12 +358,12 @@ msgstr "Nomaʼlum"
 #: src/network-auth-prompt.c:202
 #, c-format
 msgid "Authentication type of Wi-Fi network “%s” not supported"
-msgstr "“%s” Wi-Fi tarmog‘ining autentifikatsiya turi qo‘llab-quvvatlanmaydi"
+msgstr "“%s” Wi-Fi tarmogʻining autentifikatsiya turi qoʻllab-quvvatlanmaydi"
 
 #: src/network-auth-prompt.c:207
 #, c-format
 msgid "Enter password for the Wi-Fi network “%s”"
-msgstr "“%s” Wi-Fi tarmog‘i parolini kiriting"
+msgstr "“%s” Wi-Fi tarmogʻi parolini kiriting"
 
 #: src/notifications/mount-notification.c:121
 msgid "Open"
@@ -496,7 +498,7 @@ msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 msgid "Portrait"
 msgstr ""
 "Portret nisbatdagi asosiy ekran, bitta taymer 180 daraja aylantirilganini "
-"ko’rsatadi"
+"koʻrsatadi"
 
 #: src/rotateinfo.c:105
 msgid "Landscape"
@@ -505,7 +507,7 @@ msgstr "Peyzaj"
 #: src/rotateinfo.c:125 src/rotateinfo.c:230
 msgctxt "automatic-screen-rotation-disabled"
 msgid "Off"
-msgstr "O'chiq"
+msgstr "Oʻchiq"
 
 #: src/rotateinfo.c:126
 msgctxt "automatic-screen-rotation-enabled"
@@ -531,7 +533,7 @@ msgstr "Parollar mos kelmaydi."
 
 #: src/system-prompt.c:383
 msgid "Password cannot be blank"
-msgstr "Parol bo'sh bo'lishi mumkin emas"
+msgstr "Parol boʻsh boʻlishi mumkin emas"
 
 #: src/torch-info.c:80
 msgid "Torch"
@@ -552,15 +554,15 @@ msgstr "_Sevimlilardan olib tashlash"
 
 #: src/ui/app-grid-button.ui:36
 msgid "Add to _Favorites"
-msgstr "_Sevimlilarga qo'shing"
+msgstr "_Sevimlilarga qoʻshing"
 
 #: src/ui/app-grid-button.ui:41
 msgid "View _Details"
-msgstr "_Tafsilotlarni ko'rish"
+msgstr "_Tafsilotlarni koʻrish"
 
 #: src/ui/app-grid-button.ui:46
 msgid "Uninstall"
-msgstr "O'chirish"
+msgstr "Oʻchirish"
 
 #: src/ui/app-grid-button.ui:53
 msgid "_Remove from Folder"
@@ -572,11 +574,11 @@ msgstr "Ilovalarni qidirish…"
 
 #: src/ui/audio-settings.ui:84
 msgid "Output Devices"
-msgstr "Chiqish qurilmalari yo'q"
+msgstr "Chiqish qurilmalari yoʻq"
 
 #: src/ui/audio-settings.ui:108
 msgid "Input Devices"
-msgstr "Kiritish qurilmalari yo'q"
+msgstr "Kiritish qurilmalari yoʻq"
 
 #: src/ui/audio-settings.ui:136
 msgid "Sound Settings"
@@ -592,7 +594,7 @@ msgstr "Bluetooth sozlamalari"
 
 #: src/ui/emergency-menu.ui:26
 msgid "Close the emergency call dialog"
-msgstr "Favqulodda qo'ng'iroqlar oynasini yoping"
+msgstr "Favqulodda qoʻngʻiroqlar oynasini yoping"
 
 #: src/ui/emergency-menu.ui:52
 msgid "Emergency _Contacts"
@@ -600,7 +602,7 @@ msgstr "Favqulodda _Kontaktlar"
 
 #: src/ui/emergency-menu.ui:59
 msgid "Go to the emergency contacts page"
-msgstr "Favqulodda aloqalar sahifasiga o'ting"
+msgstr "Favqulodda aloqalar sahifasiga oʻting"
 
 #: src/ui/emergency-menu.ui:82
 msgid "Go back to the emergency dialpad page"
@@ -682,7 +684,7 @@ msgstr "Autentifikatsiya"
 
 #: src/ui/power-menu.ui:112
 msgid "Suspend"
-msgstr "To'xtatib turish"
+msgstr "Toʻxtatib turish"
 
 #: src/ui/power-menu.ui:158
 msgid "Lock"
@@ -698,7 +700,7 @@ msgstr "Buyruqni ishga tushirish"
 
 #: src/ui/settings.ui:138
 msgid "No notifications"
-msgstr "Hech qanday bildirishnoma yo'q"
+msgstr "Hech qanday bildirishnoma yoʻq"
 
 #: src/ui/settings.ui:167
 msgid "Notifications"
@@ -753,7 +755,7 @@ msgstr "Plagin topilmadi"
 #: src/widget-box.c:57
 #, c-format
 msgid "The plugin '%s' could not be loaded."
-msgstr "“%s” plaginini yuklab bo‘lmadi."
+msgstr "“%s” plaginini yuklab boʻlmadi."
 
 #: src/wifi-status-page.c:53
 msgid "No Wi-Fi Device Found"
@@ -761,7 +763,7 @@ msgstr "Hech qanday Wi-Fi qurilmasi topilmadi"
 
 #: src/wifi-status-page.c:57
 msgid "Wi-Fi Disabled"
-msgstr "Wi-Fi o'chirilgan"
+msgstr "Wi-Fi oʻchirilgan"
 
 #: src/wifi-status-page.c:58
 msgid "Enable Wi-Fi"
@@ -773,18 +775,19 @@ msgstr "Wi-Fi ulanish nuqtasi faol"
 
 #: src/wifi-status-page.c:62
 msgid "Turn Off"
-msgstr "O'chirib qo'yish"
+msgstr "Oʻchirib qoʻyish"
 
 #: src/wifi-status-page.c:65
 msgid "No Wi-Fi Hotspots"
-msgstr "Wi-Fi ulanish nuqtalari yo'q"
+msgstr "Wi-Fi ulanish nuqtalari yoʻq"
 
 #. Translators: Refers to the cellular wireless network
 #: src/wwan-info.c:210
 msgid "Cellular"
 msgstr "Uyali"
 
-#. Translators: Phosh prevents the session from going idle because the caffeine quick setting is toggled
+#. Translators: Phosh prevents the session from going idle because the
+#. caffeine quick setting is toggled
 #: plugins/caffeine-quick-setting/caffeine-quick-setting.c:53
 msgid "Phosh on caffeine"
 msgstr "Kofein haqida Phosh"
@@ -797,7 +800,7 @@ msgstr "Yoniq"
 #: plugins/caffeine-quick-setting/caffeine-quick-setting.c:132
 msgctxt "caffeine-disabled"
 msgid "Off"
-msgstr "O'chirilgan"
+msgstr "Oʻchirilgan"
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.c:36
 msgid "Default style"
@@ -805,11 +808,11 @@ msgstr "Dastlabki uslub"
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.c:37
 msgid "Dark mode"
-msgstr "Qorong'i rejim"
+msgstr "Qorongʻi rejim"
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.c:38
 msgid "Light mode"
-msgstr "Yorug’ rejimi"
+msgstr "Yorugʻ rejimi"
 
 #: plugins/emergency-info/emergency-info.ui:43
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:62
@@ -818,7 +821,7 @@ msgstr "Shaxsiy ma'lumot"
 
 #: plugins/emergency-info/emergency-info.ui:51
 msgid "Date of Birth"
-msgstr "Tug'ilgan kuni"
+msgstr "Tugʻilgan kuni"
 
 #: plugins/emergency-info/emergency-info.ui:71
 msgid "Preferred Language"
@@ -848,7 +851,7 @@ msgstr "Balandligi"
 
 #: plugins/emergency-info/emergency-info.ui:167
 msgid "Weight"
-msgstr "Og'irlik"
+msgstr "Ogʻirlik"
 
 #: plugins/emergency-info/emergency-info.ui:187
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:129
@@ -879,7 +882,7 @@ msgstr "_Egasining ismi"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:73
 msgid "_Date of Birth"
-msgstr "_Tug'ilgan kuni"
+msgstr "_Tugʻilgan kuni"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:79
 msgid "_Preferred Language"
@@ -887,7 +890,7 @@ msgstr "_Afzal til"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:105
 msgid "_Age"
-msgstr "Yosh reytingi haqida ma'lumot yo'q"
+msgstr "Yosh reytingi haqida ma'lumot yoʻq"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:111
 msgid "_Blood Type"
@@ -899,7 +902,7 @@ msgstr "Chiziq balandligi"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:123
 msgid "_Weight"
-msgstr "_Og'irlik"
+msgstr "_Ogʻirlik"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:142
 msgid "Medications and Conditions"
@@ -907,15 +910,15 @@ msgstr "Dori-darmonlar va shartlar"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:179
 msgid "Add Contact"
-msgstr "_Kontakt qo'shish"
+msgstr "_Kontakt qoʻshish"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:203
 msgid "Add New Contact"
-msgstr "Yangi kontakt qo'shish"
+msgstr "Yangi kontakt qoʻshish"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:220
 msgid "_Add"
-msgstr "_Qo’shish"
+msgstr "_Qoʻshish"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:240
 msgid "_Contact Name"
@@ -1009,7 +1012,7 @@ msgstr "_Tanaffus davomiyligi"
 
 #: plugins/pomodoro-quick-setting/prefs/prefs.ui:30
 msgid "Duration of the break between sessions"
-msgstr "Mashg'ulotlar orasidagi tanaffusning davomiyligi"
+msgstr "Mashgʻulotlar orasidagi tanaffusning davomiyligi"
 
 #: plugins/pomodoro-quick-setting/prefs/prefs.ui:44
 msgid "_Start on unlock"
@@ -1021,7 +1024,7 @@ msgstr ""
 
 #: plugins/ticket-box/ticket-box.ui:18
 msgid "No documents to display"
-msgstr "Ko'rsatiladigan hujjat yo'q"
+msgstr "Koʻrsatiladigan hujjat yoʻq"
 
 #: plugins/ticket-box/ticket-box.ui:82
 msgid "Tickets"
@@ -1041,7 +1044,7 @@ msgstr "Chipta qutisi afzalliklari"
 
 #: plugins/ticket-box/prefs/ticket-box-prefs.ui:10
 msgid "Paths"
-msgstr "Yo'llar"
+msgstr "Yoʻllar"
 
 #: plugins/ticket-box/prefs/ticket-box-prefs.ui:14
 msgid "Folder Settings"
@@ -1071,7 +1074,7 @@ msgstr ""
 
 #: plugins/upcoming-events/event-list.ui:26
 msgid "No events"
-msgstr "Tadbir yo’q"
+msgstr "Tadbir yoʻq"
 
 #. Translators: This is the time format used in 24-hour mode.
 #: plugins/upcoming-events/upcoming-event.c:56
@@ -1087,7 +1090,7 @@ msgstr "%l:%M %p"
 #: plugins/upcoming-events/upcoming-event.c:122
 #: plugins/upcoming-events/upcoming-event.c:159
 msgid "All day"
-msgstr "Kun bo'yi"
+msgstr "Kun boʻyi"
 
 #. Translators: When the event ends: Ends\r16:00
 #: plugins/upcoming-events/upcoming-event.c:148
@@ -1109,15 +1112,15 @@ msgstr "Kun"
 
 #: plugins/upcoming-events/prefs/upcoming-events-prefs.ui:13
 msgid "Date Range"
-msgstr "Sana oralig'i"
+msgstr "Sana oraligʻi"
 
 #: plugins/upcoming-events/prefs/upcoming-events-prefs.ui:14
 msgid "Number of days to show events for"
-msgstr "Tadbirlarni ko'rsatish uchun kunlar soni"
+msgstr "Tadbirlarni koʻrsatish uchun kunlar soni"
 
 #: plugins/scaling-quick-setting/qs.ui:14
 msgid "Monitor scales"
-msgstr "Monitor o'lchovlari"
+msgstr "Monitor oʻlchovlari"
 
 #. Translators: This is scale factor of a monitor in percent
 #: plugins/scaling-quick-setting/scale-row.c:48

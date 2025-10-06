@@ -23,7 +23,8 @@ msgstr ""
 msgid "Boatswain"
 msgstr "Boatswain"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/com.feaneron.Boatswain.desktop.in.in:10
 msgid "stream deck;streaming;deck;elgato;"
 msgstr "stream deck;streaming;deck;elgato;"
@@ -39,7 +40,8 @@ msgstr "Elgato striming paketlaringizni boshqaring"
 
 #: data/com.feaneron.Boatswain.metainfo.xml.in.in:14
 msgid "Boatswain allows you to control Elgato Stream Deck devices."
-msgstr "Boatswain Elgato Stream Deck qurilmalarini boshqarish imkonini beradi."
+msgstr ""
+"Boatswain Elgato Stream Deck qurilmalarini boshqarish imkonini beradi."
 
 #: data/com.feaneron.Boatswain.metainfo.xml.in.in:15
 msgid "With Boatswain you will be able to:"
@@ -70,11 +72,11 @@ msgstr ""
 
 #: data/com.feaneron.Boatswain.metainfo.xml.in.in:22
 msgid "Send network requests"
-msgstr "Tarmoq so‘rovlarini yuborish"
+msgstr "Tarmoq soʻrovlarini yuborish"
 
 #: data/com.feaneron.Boatswain.metainfo.xml.in.in:23
 msgid "Keep track of your gaming score"
-msgstr "O‘yin ballaringizni kuzatib boring"
+msgstr "Oʻyin ballaringizni kuzatib boring"
 
 #: data/com.feaneron.Boatswain.metainfo.xml.in.in:24
 msgid "Open files and launch applications"
@@ -82,28 +84,24 @@ msgstr "Fayllarni ochish va ilovalarni ishga tushirish"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-mini.c:223
 msgid "Elgato Stream Deck Mini"
 msgstr "Elgato Stream Deck Mini"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-mk2.c:73
 msgid "Elgato Stream Deck MK.2"
 msgstr "Elgato Stream Deck MK.2"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-neo.c:72
 msgid "Elgato Stream Deck Neo"
 msgstr "Elgato Stream Deck Neo"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-original.c:250
 #: lib/devices/elgato/elgato-stream-deck-original-v2.c:73
 msgid "Elgato Stream Deck"
@@ -111,21 +109,18 @@ msgstr "Elgato Stream Deck"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-pedal.c:92
 msgid "Elgato Stream Deck Pedal"
 msgstr "Elgato Stream Deck Pedal"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-plus.c:384
 msgid "Elgato Stream Deck Plus"
 msgstr "Elgato Stream Deck Plus"
 
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
-#.
 #: lib/devices/elgato/elgato-stream-deck-xl.c:73
 msgid "Elgato Stream Deck XL"
 msgstr "Elgato Stream Deck XL"
@@ -220,7 +215,7 @@ msgstr "Pastga surish"
 
 #: src/bs-profile-row.ui:24
 msgid "Delete"
-msgstr "O‘chirish"
+msgstr "Oʻchirish"
 
 #. Adwaita
 #: src/bs-touchscreen-background-dialog.c:63
@@ -301,7 +296,7 @@ msgstr "Umumiy"
 #: src/gtk/help-overlay.ui:14
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko‘rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: src/gtk/help-overlay.ui:20
 msgctxt "shortcut window"
@@ -331,7 +326,7 @@ msgstr "Doimiy"
 
 #: src/plugins/default/default-brightness-action.c:142
 msgid "Increase"
-msgstr "Ko‘paytirmoq"
+msgstr "Koʻpaytirmoq"
 
 #: src/plugins/default/default-brightness-action.c:143
 msgid "Decrease"
@@ -378,7 +373,7 @@ msgstr "Profil"
 #: src/plugins/desktop/desktop-action-factory.c:38
 #: src/plugins/desktop/desktop-keyboard-shortcut-action.c:277
 msgid "Keyboard Shortcut"
-msgstr "Klaviatura yorlig‘i"
+msgstr "Klaviatura yorligʻi"
 
 #: src/plugins/desktop/desktop-action-factory.c:39
 msgid "Trigger a keyboard shortcut"
@@ -398,7 +393,7 @@ msgstr "Bekor qilish"
 
 #: src/plugins/desktop/desktop-shortcut-dialog.ui:109
 msgid "_Set"
-msgstr "To‘plam"
+msgstr "Toʻplam"
 
 #: src/plugins/desktop/desktop.plugin.desktop.in:2
 msgid "Desktop"
@@ -414,7 +409,7 @@ msgstr "Ballaringizni kuzatib boring. Uzoq bosib asliga qaytarish."
 
 #: src/plugins/gaming/gaming.plugin.desktop.in:2
 msgid "Gaming"
-msgstr "O‘yin oʻynash"
+msgstr "Oʻyin oʻynash"
 
 #: src/plugins/gaming/score.js:39
 msgid "score.txt"
@@ -437,8 +432,8 @@ msgstr "Faylga saqlash"
 msgid ""
 "Save score to a text file. Other apps such as OBS Studio may read from it."
 msgstr ""
-"Hisobni matnli faylga saqlang. OBS Studio kabi boshqa ilovalar undan o‘qishi "
-"mumkin."
+"Hisobni matnli faylga saqlang. OBS Studio kabi boshqa ilovalar undan oʻqishi"
+" mumkin."
 
 #: src/plugins/gaming/score.js:394
 #: src/plugins/launcher/launcher-open-file-action.c:213
@@ -485,11 +480,11 @@ msgstr "Ishga tushirgich"
 
 #: src/plugins/network/network-action-factory.c:39
 msgid "HTTP Request"
-msgstr "HTTP so‘rovi"
+msgstr "HTTP soʻrovi"
 
 #: src/plugins/network/network-action-factory.c:40
 msgid "Send GET and POST requests to a webserver"
-msgstr "Veb-serverga GET va POST so‘rovlarini yuborish"
+msgstr "Veb-serverga GET va POST soʻrovlarini yuborish"
 
 #: src/plugins/network/network-http-action-prefs.c:146
 msgid "Select payload file"
@@ -513,7 +508,7 @@ msgstr "Yuklamani tahrirlash"
 
 #: src/plugins/network/network-http-action-prefs.ui:99
 msgid "HTTP Request Payload"
-msgstr "HTTP so‘rov yuklamasi"
+msgstr "HTTP soʻrov yuklamasi"
 
 #: src/plugins/network/network.plugin.desktop.in:2
 msgid "Network"
@@ -543,7 +538,7 @@ msgstr "Ovozni yoqish/oʻchirish tugmasi"
 
 #: src/plugins/obs-studio/obs-action-factory.c:76
 msgid "Show / Hide Source"
-msgstr "Manbani ko‘rsatish / berkitish"
+msgstr "Manbani koʻrsatish / berkitish"
 
 #: src/plugins/obs-studio/obs-connection.c:800
 msgid "Invalid password"
@@ -583,7 +578,7 @@ msgstr "Ovozni yoqish"
 
 #: src/plugins/obs-studio/obs-toggle-source-action.c:129
 msgid "Toggle visibility"
-msgstr "Ko‘rinishni almashtirish"
+msgstr "Koʻrinishni almashtirish"
 
 #: src/plugins/obs-studio/obs-toggle-source-action.c:130
 msgid "Hide"
@@ -632,7 +627,7 @@ msgstr "Pauza"
 
 #: src/plugins/soundboard/soundboard-mpris-action.c:203
 msgid "Play"
-msgstr "O‘yin"
+msgstr "Oʻyin"
 
 #: src/plugins/soundboard/soundboard-mpris-action.c:204
 msgid "Previous"
@@ -640,7 +635,7 @@ msgstr "Avvalgi"
 
 #: src/plugins/soundboard/soundboard-mpris-action.c:205
 msgid "Stop"
-msgstr "To‘xtatmoq"
+msgstr "Toʻxtatmoq"
 
 #: src/plugins/soundboard/soundboard-mpris-action.c:206
 msgid "Play / Pause"
@@ -660,7 +655,7 @@ msgstr "Audio faylni tanlash"
 
 #: src/plugins/soundboard/soundboard-play-action-prefs.ui:27
 msgid "Play / Stop"
-msgstr "Ijro / To‘xtatish"
+msgstr "Ijro / Toʻxtatish"
 
 #: src/plugins/soundboard/soundboard-play-action-prefs.ui:28
 msgid "Play / Overlap"
@@ -672,7 +667,7 @@ msgstr "Ijro / Qayta ishga tushirish"
 
 #: src/plugins/soundboard/soundboard-play-action-prefs.ui:30
 msgid "Loop / Stop"
-msgstr "Cheksiz / To‘xtash"
+msgstr "Cheksiz / Toʻxtash"
 
 #: src/plugins/soundboard/soundboard-play-action-prefs.ui:31
 msgid "Press & Hold"

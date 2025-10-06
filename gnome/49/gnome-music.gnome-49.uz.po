@@ -20,7 +20,8 @@ msgstr ""
 
 #: data/org.gnome.Music.desktop.in.in:2
 #: data/org.gnome.Music.metainfo.xml.in.in:9 data/ui/StatusNavigationPage.ui:4
-#: gnomemusic/about.py:143 gnomemusic/application.py:61 gnomemusic/window.py:65
+#: gnomemusic/about.py:143 gnomemusic/application.py:61
+#: gnomemusic/window.py:65
 msgid "Music"
 msgstr "Musiqa"
 
@@ -31,9 +32,10 @@ msgstr "Musiqa pleyr"
 #: data/org.gnome.Music.desktop.in.in:4
 #: data/org.gnome.Music.metainfo.xml.in.in:10
 msgid "Play and organize your music collection"
-msgstr "Musiqa kollektsiyangizni o'ynang va tartibga soling"
+msgstr "Musiqa kollektsiyangizni oʻynang va tartibga soling"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Music.desktop.in.in:12
 msgid "Music;Player;"
 msgstr "Musiqa; Pleyer;"
@@ -70,7 +72,8 @@ msgstr "Oynaning maksimal holati."
 msgid "Playback repeat mode"
 msgstr "Ijro takrorlash rejimi"
 
-#. Translators: Don't translate allowed values, just the description in the brackets
+#. Translators: Don't translate allowed values, just the description in the
+#. brackets
 #: data/org.gnome.Music.gschema.xml:29
 msgid ""
 "Value identifies whether to repeat or randomize playback through the "
@@ -78,31 +81,32 @@ msgid ""
 "(repeat current song), “all” (repeat playlist, no shuffle), “shuffle” "
 "(shuffle playlist, presumes repeat all)."
 msgstr ""
-"Qiymat to'plam orqali ijroni takrorlash yoki tasodifiy tanlashni aniqlaydi. "
-"Ruxsat berilgan qiymatlar: “yo‘q” (takrorlash va aralashish o‘chirilgan), "
-"“qo‘shiq” (joriy qo‘shiqni takrorlash), “barchasi” (pleylistni takrorlash, "
-"aralashish yo‘q), “aralash” (pleylistni aralashtirib yuborish, barchasini "
+"Qiymat toʻplam orqali ijroni takrorlash yoki tasodifiy tanlashni aniqlaydi. "
+"Ruxsat berilgan qiymatlar: “yoʻq” (takrorlash va aralashish oʻchirilgan), "
+"“qoʻshiq” (joriy qoʻshiqni takrorlash), “barchasi” (pleylistni takrorlash, "
+"aralashish yoʻq), “aralash” (pleylistni aralashtirib yuborish, barchasini "
 "takrorlashni nazarda tutadi)."
 
 #: data/org.gnome.Music.gschema.xml:33
 msgid "Enable ReplayGain"
 msgstr "ReplayGain-ni yoqing"
 
-#. Translators: Don't translate allowed values, just the description in the brackets
+#. Translators: Don't translate allowed values, just the description in the
+#. brackets
 #: data/org.gnome.Music.gschema.xml:35
 msgid ""
 "Enables or disables ReplayGain for albums or track. Allowed values are: "
 "“disabled” (disables replaygain), “album” (replaygain per album), “track” "
 "(replaygain per track)."
 msgstr ""
-"Albomlar yoki trek uchun ReplayGain-ni yoqadi yoki o'chiradi. Ruxsat etilgan "
-"qiymatlar: \"o'chirilgan\" (qayta tinglashni o'chirib qo'yadi), \"albom\" "
+"Albomlar yoki trek uchun ReplayGain-ni yoqadi yoki oʻchiradi. Ruxsat etilgan"
+" qiymatlar: \"oʻchirilgan\" (qayta tinglashni oʻchirib qoʻyadi), \"albom\" "
 "(har bir albom uchun qayta ijro etish), \"trek\" (har bir trek uchun qayta "
 "ijro etish)."
 
 #: data/org.gnome.Music.gschema.xml:39
 msgid "Inhibit system suspend"
-msgstr "Tizimni to'xtatib turishni taqiqlash"
+msgstr "Tizimni toʻxtatib turishni taqiqlash"
 
 #: data/org.gnome.Music.gschema.xml:40
 msgid "Enables or disables inhibiting system suspend while playing music"
@@ -116,20 +120,20 @@ msgstr "Albomlar"
 #: data/ui/AlbumWidget.ui:84 data/ui/PlayerToolbar.ui:87
 #: data/ui/PlaylistControls.ui:101 gnomemusic/widgets/playertoolbar.py:177
 msgid "Play"
-msgstr "O'ynang"
+msgstr "Oʻynang"
 
 #: data/ui/AlbumWidget.ui:130 data/ui/PlaylistControls.ui:5
 #: data/ui/SongWidgetMenu.ui:11
 msgid "_Play"
-msgstr "_O'ynang"
+msgstr "_Oʻynang"
 
 #: data/ui/AlbumWidget.ui:134
 msgid "Add to _Favorite Songs"
-msgstr "_Sevimli qo'shiqlarga qo'shing"
+msgstr "_Sevimli qoʻshiqlarga qoʻshing"
 
 #: data/ui/AlbumWidget.ui:138 data/ui/SongWidgetMenu.ui:15
 msgid "_Add to Playlist…"
-msgstr "_Pleylistga qo‘shish…"
+msgstr "_Pleylistga qoʻshish…"
 
 #: data/ui/ArtistsSearchNavigationPage.ui:5 data/ui/SearchView.ui:41
 #: gnomemusic/views/artistsview.py:51
@@ -198,17 +202,17 @@ msgstr "Ijro"
 #: data/ui/help-overlay.ui:49
 msgctxt "shortcut window"
 msgid "Play/Pause"
-msgstr "Tinglash/To'xtatish"
+msgstr "Tinglash/Toʻxtatish"
 
 #: data/ui/help-overlay.ui:55
 msgctxt "shortcut window"
 msgid "Next song"
-msgstr "Keyingi qo'shiq"
+msgstr "Keyingi qoʻshiq"
 
 #: data/ui/help-overlay.ui:61
 msgctxt "shortcut window"
 msgid "Previous song"
-msgstr "Oldingi qo'shiq"
+msgstr "Oldingi qoʻshiq"
 
 #: data/ui/help-overlay.ui:67
 msgctxt "shortcut window"
@@ -218,7 +222,7 @@ msgstr "Takrorlashni almashtirish"
 #: data/ui/help-overlay.ui:73
 msgctxt "shortcut window"
 msgid "Toggle shuffle"
-msgstr "Aralashtirishni yoqish/o‘chirish"
+msgstr "Aralashtirishni yoqish/oʻchirish"
 
 #: data/ui/help-overlay.ui:81
 msgctxt "shortcut window"
@@ -228,17 +232,17 @@ msgstr "Navigatsiya"
 #: data/ui/help-overlay.ui:84
 msgctxt "shortcut window"
 msgid "Go to Albums"
-msgstr "Albomlarga o'ting"
+msgstr "Albomlarga oʻting"
 
 #: data/ui/help-overlay.ui:90
 msgctxt "shortcut window"
 msgid "Go to Artists"
-msgstr "Rassomlarga o'ting"
+msgstr "Rassomlarga oʻting"
 
 #: data/ui/help-overlay.ui:96
 msgctxt "shortcut window"
 msgid "Go to Playlists"
-msgstr "Pleylistlarga o'ting"
+msgstr "Pleylistlarga oʻting"
 
 #: data/ui/help-overlay.ui:102
 msgctxt "shortcut window"
@@ -271,7 +275,7 @@ msgstr "_Bajarilgan"
 
 #: data/ui/PlaylistDialog.ui:16
 msgid "Add to Playlist"
-msgstr "Pleylistga qo'shish"
+msgstr "Pleylistga qoʻshish"
 
 #: data/ui/PlaylistDialog.ui:27
 msgid "_Cancel"
@@ -279,7 +283,7 @@ msgstr "_Bekor qilish"
 
 #: data/ui/PlaylistDialog.ui:36
 msgid "_Add"
-msgstr "_Qo’shish"
+msgstr "_Qoʻshish"
 
 #: data/ui/PlaylistDialog.ui:91
 msgid "Enter a name for your first playlist"
@@ -296,11 +300,11 @@ msgstr "Yangi pleylist…"
 
 #: data/ui/PlaylistDialog.ui:189
 msgid "Add"
-msgstr "Qo'shish"
+msgstr "Qoʻshish"
 
 #: data/ui/PreferencesDialog.ui:9
 msgid "Player Settings"
-msgstr "O'yinchi sozlamalari"
+msgstr "Oʻyinchi sozlamalari"
 
 #: data/ui/PreferencesDialog.ui:12
 msgid "Repeat Mode"
@@ -312,7 +316,7 @@ msgstr "Hech biri"
 
 #: data/ui/PreferencesDialog.ui:17
 msgid "Song"
-msgstr "Qo'shiq"
+msgstr "Qoʻshiq"
 
 #: data/ui/PreferencesDialog.ui:18
 msgid "All"
@@ -334,7 +338,7 @@ msgstr ""
 
 #: data/ui/PreferencesDialog.ui:32
 msgid "Disabled"
-msgstr "O’chirilgan"
+msgstr "Oʻchirilgan"
 
 #: data/ui/PreferencesDialog.ui:33
 msgid "Album"
@@ -350,19 +354,19 @@ msgstr "Quvvat sozlamalari"
 
 #: data/ui/PreferencesDialog.ui:47
 msgid "Inhibit Suspend"
-msgstr "To'xtatib turishni taqiqlash"
+msgstr "Toʻxtatib turishni taqiqlash"
 
 #: data/ui/PreferencesDialog.ui:48
 msgid "Only while playing"
-msgstr "Faqat o'ynash paytida"
+msgstr "Faqat oʻynash paytida"
 
 #: data/ui/SearchView.ui:55 data/ui/SearchView.ui:112
 msgid "View All"
-msgstr "Barchasini ko'rish"
+msgstr "Barchasini koʻrish"
 
 #: data/ui/SearchView.ui:154
 msgid "Songs"
-msgstr "Qo'shiqlar"
+msgstr "Qoʻshiqlar"
 
 #: data/ui/SongWidgetMenu.ui:19
 msgid "_Remove from Playlist"
@@ -390,7 +394,7 @@ msgstr "© GNOME musiqa dasturchilari"
 #. TRANSLATORS: this is a playlist name
 #: gnomemusic/grilowrappers/smartplaylist.py:128
 msgid "Most Played"
-msgstr "Eng ko'p o'ynagan"
+msgstr "Eng koʻp oʻynagan"
 
 #. TRANSLATORS: this is a playlist name
 #: gnomemusic/grilowrappers/smartplaylist.py:182
@@ -400,17 +404,17 @@ msgstr "Hech qachon oʻynamagan"
 #. TRANSLATORS: this is a playlist name
 #: gnomemusic/grilowrappers/smartplaylist.py:235
 msgid "Recently Played"
-msgstr "Yaqinda o'ynagan"
+msgstr "Yaqinda oʻynagan"
 
 #. TRANSLATORS: this is a playlist name
 #: gnomemusic/grilowrappers/smartplaylist.py:314
 msgid "Recently Added"
-msgstr "Yaqinda qo'shilgan"
+msgstr "Yaqinda qoʻshilgan"
 
 #. TRANSLATORS: this is a playlist name
 #: gnomemusic/grilowrappers/smartplaylist.py:377
 msgid "Favorite Songs"
-msgstr "Sevimli Qo'shiqlar"
+msgstr "Sevimli Qoʻshiqlar"
 
 #. TRANSLATORS: this is a playlist name indicating that the
 #. files are not tagged enough to be displayed in the albums
@@ -422,11 +426,11 @@ msgstr "Etarlicha teglanmagan"
 #. TRANSLATORS: this is a playlist name
 #: gnomemusic/grilowrappers/smartplaylist.py:494
 msgid "All Songs"
-msgstr "Barcha qo'shiqlar"
+msgstr "Barcha qoʻshiqlar"
 
 #: gnomemusic/gstplayer.py:424
 msgid "Unable to play the file"
-msgstr "Faylni o‘ynatib bo‘lmadi"
+msgstr "Faylni oʻynatib boʻlmadi"
 
 #: gnomemusic/gstplayer.py:430
 msgid "_Find in {}"
@@ -459,7 +463,7 @@ msgstr "Aralash/takrorlash oʻchirilgan"
 
 #: gnomemusic/player.py:49
 msgid "Repeat Song"
-msgstr "Qo'shiqni takrorlash"
+msgstr "Qoʻshiqni takrorlash"
 
 #: gnomemusic/player.py:50
 msgid "Repeat All"
@@ -496,7 +500,7 @@ msgstr "Qidiruv boshlanmadi"
 #: gnomemusic/views/searchview.py:216
 msgid "Use the searchbar to start searching for albums, artists or songs"
 msgstr ""
-"Albomlar, ijrochilar yoki qo'shiqlarni qidirishni boshlash uchun qidiruv "
+"Albomlar, ijrochilar yoki qoʻshiqlarni qidirishni boshlash uchun qidiruv "
 "panelidan foydalaning"
 
 #: gnomemusic/views/searchview.py:220
@@ -505,7 +509,7 @@ msgstr "Hech qanday natija topilmadi"
 
 #: gnomemusic/views/searchview.py:222
 msgid "Try a different search"
-msgstr "Boshqa qidiruvni sinab ko'ring"
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: gnomemusic/widgets/albumwidget.py:242
 msgid "{} minute"
@@ -525,7 +529,7 @@ msgstr[1] "{} Qoʻshiqlar"
 
 #: gnomemusic/widgets/searchheaderbar.py:54
 msgid "Search songs, artists and albums"
-msgstr "Qo'shiqlar, rassomlar va albomlarni qidiring"
+msgstr "Qoʻshiqlar, rassomlar va albomlarni qidiring"
 
 #. noqa: F841
 #: gnomemusic/widgets/songwidgetmenu.py:94
@@ -544,7 +548,7 @@ msgstr "Yulduz"
 
 #: gnomemusic/widgets/statusnavigationpage.py:51
 msgid "Your XDG Music directory is not set."
-msgstr "XDG musiqa katalogingiz o'rnatilmagan."
+msgstr "XDG musiqa katalogingiz oʻrnatilmagan."
 
 #: gnomemusic/widgets/statusnavigationpage.py:56
 msgid "Music Folder"
@@ -563,7 +567,7 @@ msgstr "Hech qanday musiqa topilmadi"
 
 #: gnomemusic/widgets/statusnavigationpage.py:115
 msgid "Try a Different Search"
-msgstr "Boshqa qidiruvni sinab ko'ring"
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: gnomemusic/widgets/statusnavigationpage.py:119
 msgid "GNOME Music could not connect to Tracker."
@@ -571,11 +575,11 @@ msgstr "GNOME Music Tracker-ga ulana olmadi."
 
 #: gnomemusic/widgets/statusnavigationpage.py:121
 msgid "Your music files cannot be indexed without Tracker running."
-msgstr "Musiqa fayllaringizni Tracker ishlamasdan indekslab bo'lmaydi."
+msgstr "Musiqa fayllaringizni Tracker ishlamasdan indekslab boʻlmaydi."
 
 #: gnomemusic/widgets/statusnavigationpage.py:127
 msgid "Your system Tracker version seems outdated."
-msgstr "Tizim Tracker versiyasi eskirgan ko'rinadi."
+msgstr "Tizim Tracker versiyasi eskirgan koʻrinadi."
 
 #: gnomemusic/widgets/statusnavigationpage.py:129
 msgid "Music needs Tracker version 3.0.0 or higher."

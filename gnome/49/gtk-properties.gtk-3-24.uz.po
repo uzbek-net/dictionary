@@ -17,8 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: gdk/gdkapplaunchcontext.c:127 gdk/gdkcursor.c:139 gdk/gdkdevicemanager.c:185
-#: gdk/gdkglcontext.c:320 gdk/gdkseat.c:202 gdk/gdkseat.c:203
+#: gdk/gdkapplaunchcontext.c:127 gdk/gdkcursor.c:139
+#: gdk/gdkdevicemanager.c:185 gdk/gdkglcontext.c:320 gdk/gdkseat.c:202
+#: gdk/gdkseat.c:203
 #, fuzzy
 msgid "Display"
 msgstr "Andoza displey"
@@ -304,7 +305,8 @@ msgid ""
 "Whether the toolbar item is visible when the toolbar is in a horizontal "
 "orientation."
 msgstr ""
-"Asboblar paneli gorizontal boʻlganda uni koʻrsatilishi yoki koʻrsatilmasligi."
+"Asboblar paneli gorizontal boʻlganda uni koʻrsatilishi yoki "
+"koʻrsatilmasligi."
 
 #: gtk/deprecated/gtkaction.c:400
 msgid "Visible when overflown"
@@ -430,8 +432,8 @@ msgstr "Eniga tekislash"
 
 #: gtk/deprecated/gtkalignment.c:152 gtk/gtkbutton.c:328
 msgid ""
-"Horizontal position of child in available space. 0.0 is left aligned, 1.0 is "
-"right aligned"
+"Horizontal position of child in available space. 0.0 is left aligned, 1.0 is"
+" right aligned"
 msgstr ""
 
 #: gtk/deprecated/gtkalignment.c:170
@@ -460,8 +462,8 @@ msgstr ""
 
 #: gtk/deprecated/gtkalignment.c:207
 msgid ""
-"If available vertical space is bigger than needed for the child, how much of "
-"it to use for the child. 0.0 means none, 1.0 means all"
+"If available vertical space is bigger than needed for the child, how much of"
+" it to use for the child. 0.0 means none, 1.0 means all"
 msgstr ""
 
 #: gtk/deprecated/gtkalignment.c:226
@@ -613,9 +615,9 @@ msgstr "Matn namunasi"
 msgid "The text to display in order to demonstrate the selected font"
 msgstr "Tanlangan shriftni koʻrsatadigan matn"
 
-#: gtk/deprecated/gtkhandlebox.c:223 gtk/gtkcombobox.c:1246 gtk/gtkentry.c:1002
-#: gtk/gtkmenubar.c:253 gtk/gtkstatusbar.c:177 gtk/gtktoolbar.c:680
-#: gtk/gtkviewport.c:408
+#: gtk/deprecated/gtkhandlebox.c:223 gtk/gtkcombobox.c:1246
+#: gtk/gtkentry.c:1002 gtk/gtkmenubar.c:253 gtk/gtkstatusbar.c:177
+#: gtk/gtktoolbar.c:680 gtk/gtkviewport.c:408
 msgid "Shadow type"
 msgstr "Soya turi"
 
@@ -647,8 +649,8 @@ msgstr ""
 
 #: gtk/deprecated/gtkhandlebox.c:251
 msgid ""
-"Whether to use the value from the snap_edge property or a value derived from "
-"handle_position"
+"Whether to use the value from the snap_edge property or a value derived from"
+" handle_position"
 msgstr ""
 
 #: gtk/deprecated/gtkhandlebox.c:258
@@ -800,8 +802,8 @@ msgstr "Joriy qiymat"
 
 #: gtk/deprecated/gtkradioaction.c:158
 msgid ""
-"The value property of the currently active member of the group to which this "
-"action belongs."
+"The value property of the currently active member of the group to which this"
+" action belongs."
 msgstr ""
 
 #: gtk/deprecated/gtkrecentaction.c:674 gtk/gtkrecentchoosermenu.c:239
@@ -899,7 +901,8 @@ msgstr ""
 msgid "Tooltip Text"
 msgstr ""
 
-#: gtk/deprecated/gtkstatusicon.c:402 gtk/gtkwidget.c:1321 gtk/gtkwidget.c:1345
+#: gtk/deprecated/gtkstatusicon.c:402 gtk/gtkwidget.c:1321
+#: gtk/gtkwidget.c:1345
 msgid "The contents of the tooltip for this widget"
 msgstr ""
 
@@ -1795,8 +1798,8 @@ msgstr ""
 #: gtk/gtkbutton.c:289 gtk/gtkexpander.c:318 gtk/gtklabel.c:828
 #: gtk/gtkmenuitem.c:806
 msgid ""
-"If set, an underline in the text indicates the next character should be used "
-"for the mnemonic accelerator key"
+"If set, an underline in the text indicates the next character should be used"
+" for the mnemonic accelerator key"
 msgstr ""
 
 #: gtk/gtkbutton.c:301
@@ -2363,8 +2366,9 @@ msgstr ""
 msgid "Whether the rendered pixbuf should be colorized according to the state"
 msgstr ""
 
-#: gtk/gtkcellrendererpixbuf.c:281 gtk/gtkimage.c:359 gtk/gtkmodelbutton.c:1168
-#: gtk/gtkshortcutsshortcut.c:551 gtk/gtkwindow.c:844
+#: gtk/gtkcellrendererpixbuf.c:281 gtk/gtkimage.c:359
+#: gtk/gtkmodelbutton.c:1168 gtk/gtkshortcutsshortcut.c:551
+#: gtk/gtkwindow.c:844
 msgid "Icon"
 msgstr "Nishoncha"
 
@@ -3146,8 +3150,8 @@ msgstr "Matn ustuni"
 
 #: gtk/gtkcombobox.c:1112
 msgid ""
-"The column in the combo box's model to associate with strings from the entry "
-"if the combo was created with #GtkComboBox:has-entry = %TRUE"
+"The column in the combo box's model to associate with strings from the entry"
+" if the combo was created with #GtkComboBox:has-entry = %TRUE"
 msgstr ""
 
 #: gtk/gtkcombobox.c:1129
@@ -3864,8 +3868,8 @@ msgstr ""
 
 #: gtk/gtkeventbox.c:122
 msgid ""
-"Whether the event-trapping window of the eventbox is above the window of the "
-"child widget as opposed to below it."
+"Whether the event-trapping window of the eventbox is above the window of the"
+" child widget as opposed to below it."
 msgstr ""
 
 #: gtk/gtkeventcontroller.c:169
@@ -4762,8 +4766,8 @@ msgstr "Namuna"
 
 #: gtk/gtklabel.c:879
 msgid ""
-"A string with _ characters in positions correspond to characters in the text "
-"to underline"
+"A string with _ characters in positions correspond to characters in the text"
+" to underline"
 msgstr ""
 
 #: gtk/gtklabel.c:885
@@ -5117,7 +5121,8 @@ msgid "Accel Path"
 msgstr "Akselerator yoʻli"
 
 #: gtk/gtkmenu.c:671
-msgid "An accel path used to conveniently construct accel paths of child items"
+msgid ""
+"An accel path used to conveniently construct accel paths of child items"
 msgstr ""
 
 #: gtk/gtkmenu.c:687
@@ -5302,7 +5307,8 @@ msgid "The text for the child label"
 msgstr ""
 
 #: gtk/gtkmenuitem.c:901
-msgid "Amount of space used up by arrow, relative to the menu item's font size"
+msgid ""
+"Amount of space used up by arrow, relative to the menu item's font size"
 msgstr ""
 
 #: gtk/gtkmenuitem.c:917
@@ -5495,8 +5501,8 @@ msgstr ""
 
 #: gtk/gtknativedialog.c:229
 msgid ""
-"If TRUE, the dialog is modal (other windows are not usable while this one is "
-"up)"
+"If TRUE, the dialog is modal (other windows are not usable while this one is"
+" up)"
 msgstr ""
 
 #: gtk/gtknativedialog.c:243
@@ -5560,8 +5566,8 @@ msgstr ""
 
 #: gtk/gtknotebook.c:804
 msgid ""
-"If TRUE, pressing the right mouse button on the notebook pops up a menu that "
-"you can use to go to a page"
+"If TRUE, pressing the right mouse button on the notebook pops up a menu that"
+" you can use to go to a page"
 msgstr ""
 
 #: gtk/gtknotebook.c:817
@@ -6180,8 +6186,8 @@ msgstr "Printer holatini kuzatish"
 
 #: gtk/gtkprintjob.c:170
 msgid ""
-"TRUE if the print job will continue to emit status-changed signals after the "
-"print data has been sent to the printer or print server."
+"TRUE if the print job will continue to emit status-changed signals after the"
+" print data has been sent to the printer or print server."
 msgstr ""
 
 #: gtk/gtkprintoperation.c:1109
@@ -6472,8 +6478,8 @@ msgstr ""
 
 #: gtk/gtkrange.c:449
 msgid ""
-"The sensitivity policy for the stepper that points to the adjustment's lower "
-"side"
+"The sensitivity policy for the stepper that points to the adjustment's lower"
+" side"
 msgstr ""
 
 #: gtk/gtkrange.c:456
@@ -6482,8 +6488,8 @@ msgstr ""
 
 #: gtk/gtkrange.c:457
 msgid ""
-"The sensitivity policy for the stepper that points to the adjustment's upper "
-"side"
+"The sensitivity policy for the stepper that points to the adjustment's upper"
+" side"
 msgstr ""
 
 #: gtk/gtkrange.c:473
@@ -6627,7 +6633,8 @@ msgid "Show Not Found"
 msgstr ""
 
 #: gtk/gtkrecentchooser.c:193
-msgid "Whether the items pointing to unavailable resources should be displayed"
+msgid ""
+"Whether the items pointing to unavailable resources should be displayed"
 msgstr ""
 
 #: gtk/gtkrecentchooser.c:207
@@ -6715,7 +6722,8 @@ msgstr "Nishoncha oʻlchami"
 
 #: gtk/gtkscalebutton.c:218
 msgid ""
-"The GtkAdjustment that contains the current value of this scale button object"
+"The GtkAdjustment that contains the current value of this scale button "
+"object"
 msgstr ""
 
 #: gtk/gtkscalebutton.c:246
@@ -6875,8 +6883,8 @@ msgstr ""
 
 #: gtk/gtkscrolledwindow.c:617
 msgid ""
-"Whether \"window-placement\" should be used to determine the location of the "
-"contents with respect to the scrollbars."
+"Whether \"window-placement\" should be used to determine the location of the"
+" contents with respect to the scrollbars."
 msgstr ""
 
 #: gtk/gtkscrolledwindow.c:623 gtk/gtkspinbutton.c:455
@@ -6909,7 +6917,8 @@ msgid "Minimum Content Width"
 msgstr "Gorizontal panelning minimal balandligi"
 
 #: gtk/gtkscrolledwindow.c:664
-msgid "The minimum width that the scrolled window will allocate to its content"
+msgid ""
+"The minimum width that the scrolled window will allocate to its content"
 msgstr ""
 
 #: gtk/gtkscrolledwindow.c:677
@@ -6948,7 +6957,8 @@ msgstr "Maksimal uzunlik"
 
 #: gtk/gtkscrolledwindow.c:727
 #, fuzzy
-msgid "The maximum width that the scrolled window will allocate to its content"
+msgid ""
+"The maximum width that the scrolled window will allocate to its content"
 msgstr "Tafsilotlar kengligi belgilarda"
 
 #: gtk/gtkscrolledwindow.c:740
@@ -7044,8 +7054,8 @@ msgstr ""
 
 #: gtk/gtksettings.c:454
 msgid ""
-"Whether two cursors should be displayed for mixed left-to-right and right-to-"
-"left text"
+"Whether two cursors should be displayed for mixed left-to-right and right-"
+"to-left text"
 msgstr ""
 
 #: gtk/gtksettings.c:461
@@ -7487,8 +7497,8 @@ msgstr "Koʻrinadigan"
 
 #: gtk/gtksettings.c:1320
 msgid ""
-"Whether 'focus rectangles' should be hidden until the user starts to use the "
-"keyboard."
+"Whether 'focus rectangles' should be hidden until the user starts to use the"
+" keyboard."
 msgstr ""
 
 #: gtk/gtksettings.c:1346
@@ -7556,7 +7566,8 @@ msgstr ""
 
 #: gtk/gtksettings.c:1470
 msgid ""
-"Whether menu accelerators can be changed by pressing a key over the menu item"
+"Whether menu accelerators can be changed by pressing a key over the menu "
+"item"
 msgstr ""
 
 #: gtk/gtksettings.c:1485
@@ -7565,7 +7576,8 @@ msgstr ""
 
 #: gtk/gtksettings.c:1486
 msgid ""
-"Minimum time the pointer must stay over a menu item before the submenu appear"
+"Minimum time the pointer must stay over a menu item before the submenu "
+"appear"
 msgstr ""
 
 #: gtk/gtksettings.c:1502
@@ -7579,7 +7591,8 @@ msgid ""
 msgstr ""
 
 #: gtk/gtksettings.c:1513
-msgid "Whether to select the contents of a selectable label when it is focused"
+msgid ""
+"Whether to select the contents of a selectable label when it is focused"
 msgstr ""
 
 #: gtk/gtksettings.c:1528
@@ -7694,7 +7707,8 @@ msgstr ""
 
 #: gtk/gtksettings.c:1758
 msgid ""
-"Time for a button/touch press to be considered a long press (in milliseconds)"
+"Time for a button/touch press to be considered a long press (in "
+"milliseconds)"
 msgstr ""
 
 #: gtk/gtksettings.c:1775 gtk/gtksettings.c:1776
@@ -7877,7 +7891,8 @@ msgstr ""
 
 #: gtk/gtkspinbutton.c:428
 msgid ""
-"Whether the spin button should update always, or only when the value is legal"
+"Whether the spin button should update always, or only when the value is "
+"legal"
 msgstr ""
 
 #: gtk/gtkspinbutton.c:437
@@ -8112,7 +8127,8 @@ msgstr ""
 
 #: gtk/gtktextbuffer.c:266
 msgid ""
-"The list of targets this buffer supports for clipboard copying and DND source"
+"The list of targets this buffer supports for clipboard copying and DND "
+"source"
 msgstr ""
 
 #: gtk/gtktextbuffer.c:280
@@ -8161,8 +8177,8 @@ msgstr ""
 
 #: gtk/gtktexttag.c:255
 msgid ""
-"Whether the background color fills the entire line height or only the height "
-"of the tagged characters"
+"Whether the background color fills the entire line height or only the height"
+" of the tagged characters"
 msgstr ""
 
 #: gtk/gtktexttag.c:292
@@ -8199,9 +8215,9 @@ msgstr ""
 
 #: gtk/gtktexttag.c:398
 msgid ""
-"Font size as a scale factor relative to the default font size. This properly "
-"adapts to theme changes etc. so is recommended. Pango predefines some scales "
-"such as PANGO_SCALE_X_LARGE"
+"Font size as a scale factor relative to the default font size. This properly"
+" adapts to theme changes etc. so is recommended. Pango predefines some "
+"scales such as PANGO_SCALE_X_LARGE"
 msgstr ""
 
 #: gtk/gtktexttag.c:418 gtk/gtktextview.c:844
@@ -8690,8 +8706,8 @@ msgstr ""
 
 #: gtk/gtktoolbutton.c:251
 msgid ""
-"If set, an underline in the label property indicates that the next character "
-"should be used for the mnemonic accelerator key in the overflow menu"
+"If set, an underline in the label property indicates that the next character"
+" should be used for the mnemonic accelerator key in the overflow menu"
 msgstr ""
 
 #: gtk/gtktoolbutton.c:258
@@ -8728,8 +8744,8 @@ msgstr ""
 
 #: gtk/gtktoolitem.c:194
 msgid ""
-"Whether the toolbar item is considered important. When TRUE, toolbar buttons "
-"show text in GTK_TOOLBAR_BOTH_HORIZ mode"
+"Whether the toolbar item is considered important. When TRUE, toolbar buttons"
+" show text in GTK_TOOLBAR_BOTH_HORIZ mode"
 msgstr ""
 
 #: gtk/gtktoolitemgroup.c:1640
@@ -9226,8 +9242,8 @@ msgstr ""
 
 #: gtk/gtkwidget.c:1139
 msgid ""
-"Override for width request of the widget, or -1 if natural request should be "
-"used"
+"Override for width request of the widget, or -1 if natural request should be"
+" used"
 msgstr ""
 
 #: gtk/gtkwidget.c:1146
@@ -9565,7 +9581,8 @@ msgid "Window dragging"
 msgstr ""
 
 #: gtk/gtkwidget.c:3595
-msgid "Whether windows can be dragged and maximized by clicking on empty areas"
+msgid ""
+"Whether windows can be dragged and maximized by clicking on empty areas"
 msgstr ""
 
 #: gtk/gtkwidget.c:3612
@@ -9676,8 +9693,8 @@ msgstr ""
 
 #: gtk/gtkwindow.c:793
 msgid ""
-"If TRUE, the window is modal (other windows are not usable while this one is "
-"up)"
+"If TRUE, the window is modal (other windows are not usable while this one is"
+" up)"
 msgstr ""
 
 #: gtk/gtkwindow.c:799
@@ -9693,7 +9710,8 @@ msgid "Default Width"
 msgstr "Andoza kenglik"
 
 #: gtk/gtkwindow.c:808
-msgid "The default width of the window, used when initially showing the window"
+msgid ""
+"The default width of the window, used when initially showing the window"
 msgstr ""
 
 #: gtk/gtkwindow.c:815
@@ -9718,7 +9736,8 @@ msgid "Hide the titlebar during maximization"
 msgstr ""
 
 #: gtk/gtkwindow.c:838
-msgid "If this window's titlebar should be hidden when the window is maximized"
+msgid ""
+"If this window's titlebar should be hidden when the window is maximized"
 msgstr ""
 
 #: gtk/gtkwindow.c:845

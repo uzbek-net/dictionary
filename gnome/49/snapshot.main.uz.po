@@ -28,7 +28,8 @@ msgstr "Kamera"
 msgid "Take pictures and videos"
 msgstr "Rasmlar va videolarni oling"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Snapshot.desktop.in.in:9
 msgid "picture;photos;camera;webcam;snapshot;"
 msgstr "rasm;fotosuratlar;kamera;veb-kamera;snapshot;"
@@ -53,15 +54,15 @@ msgstr "Deklanşör ovozini ijro eting"
 
 #: data/org.gnome.Snapshot.gschema.xml.in:30
 msgid "Whether to play a shutter sound when taking pictures"
-msgstr "Rasmga tushirishda deklanşör ovozi o'ynaladimi"
+msgstr "Rasmga tushirishda deklanşör ovozi oʻynaladimi"
 
 #: data/org.gnome.Snapshot.gschema.xml.in:34
 msgid "Show composition guidelines"
-msgstr "Kompozitsiya qoidalarini ko'rsating"
+msgstr "Kompozitsiya qoidalarini koʻrsating"
 
 #: data/org.gnome.Snapshot.gschema.xml.in:35
 msgid "Whether to show composition guidelines when using the camera"
-msgstr "Kameradan foydalanganda kompozitsiya qoidalarini ko'rsatish kerakmi"
+msgstr "Kameradan foydalanganda kompozitsiya qoidalarini koʻrsatish kerakmi"
 
 #: data/org.gnome.Snapshot.gschema.xml.in:39
 msgid "Enable audio recording"
@@ -109,7 +110,7 @@ msgstr "Rasmlarni png yoki jpeg sifatida saqlash kerakmi"
 
 #: data/org.gnome.Snapshot.gschema.xml.in:64
 msgid "Last Camera Used ID"
-msgstr "So‘nggi foydalanilgan kamera identifikatori"
+msgstr "Soʻnggi foydalanilgan kamera identifikatori"
 
 #: data/org.gnome.Snapshot.gschema.xml.in:65
 msgid "An ID representing the last used camera"
@@ -236,7 +237,7 @@ msgstr "Oldingi rasm"
 
 #: data/resources/ui/gallery.ui:81 src/widgets/gallery.rs:139
 msgid "Open in Image Viewer"
-msgstr "Rasmlarni ko'rish dasturida oching"
+msgstr "Rasmlarni koʻrish dasturida oching"
 
 #: data/resources/ui/preferences_window.ui:7
 #: data/resources/ui/preferences_window.ui:11
@@ -249,7 +250,7 @@ msgstr "_ Deklanşör ovozi"
 
 #: data/resources/ui/preferences_window.ui:21
 msgid "_Composition Guidelines"
-msgstr "_Kompozitsiya bo'yicha ko'rsatmalar"
+msgstr "_Kompozitsiya boʻyicha koʻrsatmalar"
 
 #: data/resources/ui/preferences_window.ui:30
 msgid "Video Recording"
@@ -285,7 +286,7 @@ msgstr "Kontentlar"
 
 #: data/resources/ui/qr_bottom_sheet.ui:22
 msgid "Copy to Clipboard"
-msgstr "Clipboardga ko'chirish"
+msgstr "Clipboardga koʻchirish"
 
 #: data/resources/ui/qr_bottom_sheet.ui:34
 msgid "Open Link"
@@ -299,7 +300,7 @@ msgstr "Umumiy"
 #: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
@@ -344,7 +345,7 @@ msgstr "Rasmga oling yoki yozishni boshlang"
 #: data/resources/ui/shortcuts.ui:62
 msgctxt "shortcut window"
 msgid "Show/Hide Composition Guidelines"
-msgstr "Kompozitsiya bo'yicha ko'rsatmalarni ko'rsatish/yashirish"
+msgstr "Kompozitsiya boʻyicha koʻrsatmalarni koʻrsatish/yashirish"
 
 #: data/resources/ui/shortcuts.ui:70
 msgctxt "shortcut window"
@@ -419,7 +420,7 @@ msgstr "_Oʻchirish"
 
 #: src/widgets/camera.rs:607
 msgid "Could not play camera stream"
-msgstr "Kamera oqimini o‘ynatib bo‘lmadi"
+msgstr "Kamera oqimini oʻynatib boʻlmadi"
 
 #: src/widgets/gallery.rs:141
 msgid "Open in Video Player"
@@ -447,7 +448,7 @@ msgstr "Yozishni boshlang"
 
 #: src/widgets/shutter_button.rs:93
 msgid "Stop Recording"
-msgstr "Yozishni to‘xtating"
+msgstr "Yozishni toʻxtating"
 
 #: src/widgets/window.rs:107 src/widgets/window.rs:363
 msgid "Could not take picture"
@@ -455,7 +456,7 @@ msgstr "Rasmga tushirib boʻlmadi"
 
 #: src/widgets/window.rs:111 src/widgets/window.rs:367
 msgid "Could not record video"
-msgstr "Video yozib bo‘lmadi"
+msgstr "Video yozib boʻlmadi"
 
 #: src/widgets/window.rs:314
 msgid "translator-credits"

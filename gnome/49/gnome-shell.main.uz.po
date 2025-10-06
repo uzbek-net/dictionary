@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2025-10-01 11:45+0000\n"
+"POT-Creation-Date: 2025-10-06 03:07+0000\n"
 "PO-Revision-Date: 2025-04-02 17:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -126,7 +126,7 @@ msgstr "Tizim"
 
 #: data/50-gnome-shell-system.xml:9
 msgid "Show the notification list"
-msgstr "Bildirishnomalar ro'yxatini ko'rsatish"
+msgstr "Bildirishnomalar roʻyxatini koʻrsatish"
 
 #: data/50-gnome-shell-system.xml:12
 msgid "Open the quick settings menu"
@@ -138,11 +138,11 @@ msgstr "Faol bildirishnomaga e'tibor qarating"
 
 #: data/50-gnome-shell-system.xml:18
 msgid "Show the overview"
-msgstr "Umumiy ko'rinishni ko'rsatish"
+msgstr "Umumiy koʻrinishni koʻrsatish"
 
 #: data/50-gnome-shell-system.xml:21
 msgid "Show all apps"
-msgstr "Barcha ilovalarni ko'rsatish"
+msgstr "Barcha ilovalarni koʻrsatish"
 
 #: data/org.gnome.shell.gschema.xml.in:6
 msgid "Enable internal tools useful for developers and testers from Alt-F2"
@@ -164,39 +164,39 @@ msgstr "Yoqish uchun kengaytmalarning UUIDlari"
 
 #: data/org.gnome.shell.gschema.xml.in:17
 msgid ""
-"GNOME Shell extensions have a UUID property; this key lists extensions which "
-"should be loaded. Any extension that wants to be loaded needs to be in this "
-"list. You can also manipulate this list with the EnableExtension and "
+"GNOME Shell extensions have a UUID property; this key lists extensions which"
+" should be loaded. Any extension that wants to be loaded needs to be in this"
+" list. You can also manipulate this list with the EnableExtension and "
 "DisableExtension D-Bus methods on org.gnome.Shell."
 msgstr ""
 "GNOME Shell kengaytmalari UUID xususiyatiga ega; bu kalit yuklanishi kerak "
-"bo'lgan kengaytmalarni ko'rsatadi. Yuklanmoqchi bo'lgan har qanday kengaytma "
-"ushbu ro'yxatda bo'lishi kerak. Siz ushbu roʻyxatni org.gnome.Shell "
+"boʻlgan kengaytmalarni koʻrsatadi. Yuklanmoqchi boʻlgan har qanday kengaytma"
+" ushbu roʻyxatda boʻlishi kerak. Siz ushbu roʻyxatni org.gnome.Shell "
 "saytidagi EnableExtension va DisableExtension D-Bus usullari bilan ham "
 "oʻzgartirishingiz mumkin."
 
 #: data/org.gnome.shell.gschema.xml.in:26
 msgid "UUIDs of extensions to force disabling"
-msgstr "Majburiy o‘chirib qo‘yish uchun kengaytmalarning UUIDlari"
+msgstr "Majburiy oʻchirib qoʻyish uchun kengaytmalarning UUIDlari"
 
 #: data/org.gnome.shell.gschema.xml.in:27
 msgid ""
-"GNOME Shell extensions have a UUID property; this key lists extensions which "
-"should be disabled, even if loaded as part of the current mode. You can also "
-"manipulate this list with the EnableExtension and DisableExtension D-Bus "
-"methods on org.gnome.Shell. This key takes precedence over the “enabled-"
-"extensions” setting."
+"GNOME Shell extensions have a UUID property; this key lists extensions which"
+" should be disabled, even if loaded as part of the current mode. You can "
+"also manipulate this list with the EnableExtension and DisableExtension "
+"D-Bus methods on org.gnome.Shell. This key takes precedence over the "
+"“enabled-extensions” setting."
 msgstr ""
-"GNOME Shell kengaytmalari UUID xususiyatiga ega; Ushbu kalit joriy rejimning "
-"bir qismi sifatida yuklangan bo'lsa ham o'chirib qo'yilishi kerak bo'lgan "
-"kengaytmalarni sanab o'tadi. Siz ushbu roʻyxatni org.gnome.Shell saytidagi "
+"GNOME Shell kengaytmalari UUID xususiyatiga ega; Ushbu kalit joriy rejimning"
+" bir qismi sifatida yuklangan boʻlsa ham oʻchirib qoʻyilishi kerak boʻlgan "
+"kengaytmalarni sanab oʻtadi. Siz ushbu roʻyxatni org.gnome.Shell saytidagi "
 "EnableExtension va DisableExtension D-Bus usullari bilan ham "
-"oʻzgartirishingiz mumkin. Ushbu kalit \"yoqilgan kengaytmalar\" sozlamasidan "
-"ustun turadi."
+"oʻzgartirishingiz mumkin. Ushbu kalit \"yoqilgan kengaytmalar\" sozlamasidan"
+" ustun turadi."
 
 #: data/org.gnome.shell.gschema.xml.in:37
 msgid "Disable user extensions"
-msgstr "Foydalanuvchi kengaytmalarini o'chirib qo'ying"
+msgstr "Foydalanuvchi kengaytmalarini oʻchirib qoʻying"
 
 #: data/org.gnome.shell.gschema.xml.in:38
 msgid ""
@@ -204,11 +204,11 @@ msgid ""
 "extension” setting."
 msgstr ""
 "Foydalanuvchi tomonidan yoqilgan barcha kengaytmalarni \"yoqilgan "
-"kengaytma\" sozlamasiga ta'sir qilmasdan o'chirib qo'ying."
+"kengaytma\" sozlamasiga ta'sir qilmasdan oʻchirib qoʻying."
 
 #: data/org.gnome.shell.gschema.xml.in:45
 msgid "Allow extension installation"
-msgstr "Kengaytmani o'rnatishga ruxsat bering"
+msgstr "Kengaytmani oʻrnatishga ruxsat bering"
 
 #: data/org.gnome.shell.gschema.xml.in:46
 msgid ""
@@ -218,15 +218,15 @@ msgid ""
 "that are already loaded, so a change only takes full effect on the next "
 "login."
 msgstr ""
-"Foydalanuvchilarga kengaytmalarni uy papkasiga o'rnatishga ruxsat bering. "
-"Agar o'chirilgan bo'lsa, InstallRemoteExtension D-Bus usuli muvaffaqiyatsiz "
-"bo'ladi va kengaytmalar faqat ishga tushirilganda tizim kataloglaridan "
+"Foydalanuvchilarga kengaytmalarni uy papkasiga oʻrnatishga ruxsat bering. "
+"Agar oʻchirilgan boʻlsa, InstallRemoteExtension D-Bus usuli muvaffaqiyatsiz "
+"boʻladi va kengaytmalar faqat ishga tushirilganda tizim kataloglaridan "
 "yuklanadi. Bu allaqachon yuklangan kengaytmalarga ta'sir qilmaydi, shuning "
-"uchun o'zgartirish faqat keyingi kirishda to'liq kuchga kiradi."
+"uchun oʻzgartirish faqat keyingi kirishda toʻliq kuchga kiradi."
 
 #: data/org.gnome.shell.gschema.xml.in:56
 msgid "Disables the validation of extension version compatibility"
-msgstr "Kengaytma versiyasi mosligini tekshirishni o'chiradi"
+msgstr "Kengaytma versiyasi mosligini tekshirishni oʻchiradi"
 
 #: data/org.gnome.shell.gschema.xml.in:57
 msgid ""
@@ -234,41 +234,44 @@ msgid ""
 "running version. Enabling this option will disable this check and try to "
 "load all extensions regardless of the versions they claim to support."
 msgstr ""
-"GNOME Shell faqat joriy ishlayotgan versiyani qo'llab-quvvatlaydigan "
+"GNOME Shell faqat joriy ishlayotgan versiyani qoʻllab-quvvatlaydigan "
 "kengaytmalarni yuklaydi. Ushbu parametr yoqilsa, bu tekshirish oʻchiriladi "
 "va ular qoʻllab-quvvatlagan versiyalaridan qatʼi nazar, barcha "
 "kengaytmalarni yuklashga harakat qiladi."
 
 #: data/org.gnome.shell.gschema.xml.in:67
 msgid "List of desktop file IDs for favorite applications"
-msgstr "Sevimli ilovalar uchun ish stoli fayl identifikatorlari ro'yxati"
+msgstr "Sevimli ilovalar uchun ish stoli fayl identifikatorlari roʻyxati"
 
 #: data/org.gnome.shell.gschema.xml.in:68
 msgid ""
-"The applications corresponding to these identifiers will be displayed in the "
-"favorites area."
+"The applications corresponding to these identifiers will be displayed in the"
+" favorites area."
 msgstr ""
 "Ushbu identifikatorlarga mos keladigan ilovalar sevimlilar maydonida "
-"ko'rsatiladi."
+"koʻrsatiladi."
 
 #: data/org.gnome.shell.gschema.xml.in:75
 msgid "History for command (Alt-F2) dialog"
 msgstr "Buyruqlar tarixi (Alt-F2) dialog oynasi"
 
-#. Translators: looking glass is a debugger and inspector tool, see https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/docs/looking-glass.md
+#. Translators: looking glass is a debugger and inspector tool, see
+#. https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/docs/looking-
+#. glass.md
 #: data/org.gnome.shell.gschema.xml.in:80
 msgid "History for the looking glass dialog"
 msgstr "Oynali dialog uchun tarix"
 
 #: data/org.gnome.shell.gschema.xml.in:84
 msgid "Always show the “Log Out” action in the system menu"
-msgstr "Tizim menyusida har doim \"Chiqish\" amalini ko'rsating"
+msgstr "Tizim menyusida har doim \"Chiqish\" amalini koʻrsating"
 
 #: data/org.gnome.shell.gschema.xml.in:85
 msgid ""
 "This key overrides the automatic hiding of the “Log out” action in the "
 "system menu for logged-in situations where there is a single, local, non-"
-"system user and only a single available session type (e.g. GNOME on Wayland)."
+"system user and only a single available session type (e.g. GNOME on "
+"Wayland)."
 msgstr ""
 "Bu kalit tizimga kirgan holatlar uchun tizim menyusidagi “Chiqish” amalini "
 "avtomatik yashirishni bekor qiladi, bunda bitta mahalliy, tizimdan tashqari "
@@ -279,7 +282,7 @@ msgstr ""
 msgid ""
 "Whether to remember password for mounting encrypted or remote filesystems"
 msgstr ""
-"Shifrlangan yoki masofaviy fayl tizimlarini o'rnatish uchun parolni eslab "
+"Shifrlangan yoki masofaviy fayl tizimlarini oʻrnatish uchun parolni eslab "
 "qolish kerakmi"
 
 #: data/org.gnome.shell.gschema.xml.in:95
@@ -289,42 +292,42 @@ msgid ""
 "“Remember Password” checkbox will be present. This key sets the default "
 "state of the checkbox."
 msgstr ""
-"Shifrlangan qurilma yoki masofaviy fayl tizimi o'rnatilganda qobiq parol "
-"so'raydi. Agar parol kelajakda foydalanish uchun saqlanishi mumkin bo'lsa, "
-"\"Parolni eslab qolish\" katagiga belgi qo'yiladi. Ushbu kalit tasdiqlash "
-"qutisining standart holatini o'rnatadi."
+"Shifrlangan qurilma yoki masofaviy fayl tizimi oʻrnatilganda qobiq parol "
+"soʻraydi. Agar parol kelajakda foydalanish uchun saqlanishi mumkin boʻlsa, "
+"\"Parolni eslab qolish\" katagiga belgi qoʻyiladi. Ushbu kalit tasdiqlash "
+"qutisining standart holatini oʻrnatadi."
 
 #: data/org.gnome.shell.gschema.xml.in:104
 msgid "The last selected non-default power profile"
-msgstr "Oxirgi tanlangan standart bo'lmagan quvvat rejimi"
+msgstr "Oxirgi tanlangan standart boʻlmagan quvvat rejimi"
 
 #: data/org.gnome.shell.gschema.xml.in:105
 msgid ""
-"Some systems support more than two power profiles. In order to still support "
-"toggling between two profiles, this key records the last selected non-"
+"Some systems support more than two power profiles. In order to still support"
+" toggling between two profiles, this key records the last selected non-"
 "default profile."
 msgstr ""
-"Ba'zi tizimlar ikkitadan ortiq quvvat rejimini qo'llab-quvvatlaydi. Ikki "
-"profil o'rtasida almashishni qo'llab-quvvatlash uchun bu kalit oxirgi "
-"tanlangan standart bo'lmagan profilni yozib oladi."
+"Ba'zi tizimlar ikkitadan ortiq quvvat rejimini qoʻllab-quvvatlaydi. Ikki "
+"profil oʻrtasida almashishni qoʻllab-quvvatlash uchun bu kalit oxirgi "
+"tanlangan standart boʻlmagan profilni yozib oladi."
 
 #: data/org.gnome.shell.gschema.xml.in:113
 msgid "The last version the “Welcome to GNOME” dialog was shown for"
 msgstr ""
-"“GNOME’ga xush kelibsiz” muloqot oynasining oxirgi versiyasi ko‘rsatilgan"
+"“GNOME’ga xush kelibsiz” muloqot oynasining oxirgi versiyasi koʻrsatilgan"
 
 #: data/org.gnome.shell.gschema.xml.in:114
 msgid ""
-"This key determines for which version the “Welcome to GNOME” dialog was last "
-"shown. An empty string represents the oldest possible version, and a huge "
+"This key determines for which version the “Welcome to GNOME” dialog was last"
+" shown. An empty string represents the oldest possible version, and a huge "
 "number will represent versions that do not exist yet. This huge number can "
 "be used to effectively disable the dialog."
 msgstr ""
 "Bu kalit “GNOME’ga xush kelibsiz” muloqot oynasi oxirgi marta qaysi "
-"versiyada ko‘rsatilganligini aniqlaydi. Bo'sh satr mumkin bo'lgan eng "
-"qadimgi versiyani ifodalaydi va juda katta raqam hali mavjud bo'lmagan "
-"versiyalarni ifodalaydi. Ushbu katta raqam dialogni samarali o'chirish uchun "
-"ishlatilishi mumkin."
+"versiyada koʻrsatilganligini aniqlaydi. Boʻsh satr mumkin boʻlgan eng "
+"qadimgi versiyani ifodalaydi va juda katta raqam hali mavjud boʻlmagan "
+"versiyalarni ifodalaydi. Ushbu katta raqam dialogni samarali oʻchirish uchun"
+" ishlatilishi mumkin."
 
 #: data/org.gnome.shell.gschema.xml.in:125
 msgid "Layout of the app picker"
@@ -338,7 +341,7 @@ msgid ""
 "as 'data': • “position”: the position of the application icon in the page"
 msgstr ""
 "Ilova tanlagichining tartibi. Massivdagi har bir yozuv sahifadir. Sahifalar "
-"GNOME Shell-da paydo bo'ladigan tartibda saqlanadi. Har bir sahifada “ilova "
+"GNOME Shell-da paydo boʻladigan tartibda saqlanadi. Har bir sahifada “ilova "
 "identifikatori” → “maʼlumotlar” juftligi mavjud. Hozirda quyidagi qiymatlar "
 "“maʼlumotlar” sifatida saqlanadi: • “pozitsiya”: sahifadagi ilova "
 "belgisining oʻrni"
@@ -351,19 +354,19 @@ msgstr "Umumiy koʻrinish holatlari oʻrtasida oʻtish uchun tugmalar birikmasi"
 #: data/org.gnome.shell.gschema.xml.in:146
 msgid "Keybinding to shift between session, window picker and app grid"
 msgstr ""
-"Seans, oyna tanlash va ilovalar to'plami o'rtasida siljish uchun tugmalar "
+"Seans, oyna tanlash va ilovalar toʻplami oʻrtasida siljish uchun tugmalar "
 "birikmasi"
 
 #: data/org.gnome.shell.gschema.xml.in:153
 msgid "Keybinding to shift between app grid, window picker and session"
 msgstr ""
-"Ilovalar tarmog'i, oyna tanlash va seans o'rtasida siljish uchun tugmalar "
+"Ilovalar tarmogʻi, oyna tanlash va seans oʻrtasida siljish uchun tugmalar "
 "birikmasi"
 
 #: data/org.gnome.shell.gschema.xml.in:159
 msgid "Keybinding to open the “Show Applications” view"
 msgstr ""
-"\"Ilovalarni ko'rsatish\" ko'rinishini ochish uchun tugmachalarni bog'lash"
+"\"Ilovalarni koʻrsatish\" koʻrinishini ochish uchun tugmachalarni bogʻlash"
 
 #: data/org.gnome.shell.gschema.xml.in:160
 msgid ""
@@ -410,39 +413,39 @@ msgstr "Faol bildirishnomani fokuslash uchun tugmalar birikmasi."
 
 #: data/org.gnome.shell.gschema.xml.in:195
 msgid "Switch to application 1"
-msgstr "1-ilovaga o'tish"
+msgstr "1-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:199
 msgid "Switch to application 2"
-msgstr "2-ilovaga o'tish"
+msgstr "2-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:203
 msgid "Switch to application 3"
-msgstr "3-ilovaga o'tish"
+msgstr "3-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:207
 msgid "Switch to application 4"
-msgstr "4-ilovaga o'tish"
+msgstr "4-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:211
 msgid "Switch to application 5"
-msgstr "5-ilovaga o'tish"
+msgstr "5-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:215
 msgid "Switch to application 6"
-msgstr "6-ilovaga o'tish"
+msgstr "6-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:219
 msgid "Switch to application 7"
-msgstr "7-ilovaga o'tish"
+msgstr "7-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:223
 msgid "Switch to application 8"
-msgstr "8-ilovaga o'tish"
+msgstr "8-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:227
 msgid "Switch to application 9"
-msgstr "9-ilovaga o'tish"
+msgstr "9-ilovaga oʻtish"
 
 #: data/org.gnome.shell.gschema.xml.in:231
 msgid "Open a new instance of application 1"
@@ -516,8 +519,8 @@ msgid ""
 "If true, only applications that have windows on the current workspace are "
 "shown in the switcher. Otherwise, all applications are included."
 msgstr ""
-"Agar rost bo'lsa, almashtirgichda faqat joriy ish maydonida oynalari bo'lgan "
-"ilovalar ko'rsatiladi. Aks holda, barcha ilovalar kiritilgan."
+"Agar rost boʻlsa, almashtirgichda faqat joriy ish maydonida oynalari boʻlgan"
+" ilovalar koʻrsatiladi. Aks holda, barcha ilovalar kiritilgan."
 
 #: data/org.gnome.shell.gschema.xml.in:330
 msgid "The application icon mode."
@@ -529,9 +532,9 @@ msgid ""
 "are “thumbnail-only” (shows a thumbnail of the window), “app-icon-only” "
 "(shows only the application icon) or “both”."
 msgstr ""
-"O'zgartirgichda oynalar qanday ko'rsatilishini sozlaydi. To'g'ri "
-"imkoniyatlar \"faqat eskiz\" (oynaning eskizini ko'rsatadi), \"faqat ilova "
-"belgisi\" (faqat ilova belgisini ko'rsatadi) yoki \"ikkalasi\"."
+"Oʻzgartirgichda oynalar qanday koʻrsatilishini sozlaydi. Toʻgʻri "
+"imkoniyatlar \"faqat eskiz\" (oynaning eskizini koʻrsatadi), \"faqat ilova "
+"belgisi\" (faqat ilova belgisini koʻrsatadi) yoki \"ikkalasi\"."
 
 #: data/org.gnome.shell.gschema.xml.in:340
 msgid ""
@@ -547,7 +550,7 @@ msgstr "Joylar"
 
 #: data/org.gnome.shell.gschema.xml.in:351
 msgid "The locations to show in world clocks"
-msgstr "Dunyo soatlarida ko'rsatiladigan joylar"
+msgstr "Dunyo soatlarida koʻrsatiladigan joylar"
 
 #: data/org.gnome.shell.gschema.xml.in:361
 msgid "Automatic location"
@@ -555,7 +558,7 @@ msgstr "Avtomatik joylashuv"
 
 #: data/org.gnome.shell.gschema.xml.in:362
 msgid "Whether to fetch the current location or not"
-msgstr "Joriy joylashuvni olish kerakmi yoki yo'qmi"
+msgstr "Joriy joylashuvni olish kerakmi yoki yoʻqmi"
 
 #: data/org.gnome.shell.gschema.xml.in:369
 msgid "Location"
@@ -563,7 +566,7 @@ msgstr "Joylashuvi"
 
 #: data/org.gnome.shell.gschema.xml.in:370
 msgid "The location for which to show a forecast"
-msgstr "Prognoz ko'rsatiladigan joy"
+msgstr "Prognoz koʻrsatiladigan joy"
 
 #. Keep in sync with subprojects/extensions-app
 #: data/org.gnome.Shell.Extensions.desktop.in:4
@@ -616,7 +619,7 @@ msgstr "Xato tafsilotlari"
 #, fuzzy
 #| msgid "Show Errors"
 msgid "Copy Error"
-msgstr "Xatolarni ko'rsatish"
+msgstr "Xatolarni koʻrsatish"
 
 #: js/gdm/authPrompt.js:157 js/gdm/loginDialog.js:511
 #: js/ui/audioDeviceSelection.js:60 js/ui/components/networkAgent.js:114
@@ -647,46 +650,46 @@ msgstr "Foydalanish imkoniyati"
 #: js/gdm/loginDialog.js:469
 #, javascript-format
 msgid ""
-"Remote login is not possible because a remote session is already running for "
-"%s. To login remotely, you must log out from the remote session or force "
+"Remote login is not possible because a remote session is already running for"
+" %s. To login remotely, you must log out from the remote session or force "
 "stop it."
 msgstr ""
 "Masofaviy tizimga kirish imkonsiz, chunki %s uchun masofaviy seans "
-"allaqachon ishlamoqda. Masofaviy tizimga kirish uchun siz masofaviy seansdan "
-"chiqishingiz yoki uni majburan to'xtatishingiz kerak."
+"allaqachon ishlamoqda. Masofaviy tizimga kirish uchun siz masofaviy seansdan"
+" chiqishingiz yoki uni majburan toʻxtatishingiz kerak."
 
 #. Translators: is running for <username>
 #: js/gdm/loginDialog.js:472
 #, javascript-format
 msgid ""
-"Login is not possible because a remote session is already running for %s. To "
-"login, you must log out from the remote session or force stop it."
+"Login is not possible because a remote session is already running for %s. To"
+" login, you must log out from the remote session or force stop it."
 msgstr ""
 "Kirish mumkin emas, chunki %s uchun masofaviy seans allaqachon ishlamoqda. "
 "Tizimga kirish uchun siz masofaviy seansdan chiqishingiz yoki uni majburan "
-"to'xtatishingiz kerak."
+"toʻxtatishingiz kerak."
 
 #. Translators: is running for <username>
 #: js/gdm/loginDialog.js:475
 #, javascript-format
 msgid ""
 "Remote login is not possible because a local session is already running for "
-"%s. To login remotely, you must log out from the local session or force stop "
-"it."
+"%s. To login remotely, you must log out from the local session or force stop"
+" it."
 msgstr ""
-"Masofaviy tizimga kirish imkonsiz, chunki %s uchun mahalliy seans allaqachon "
-"ishlamoqda. Masofadan kirish uchun siz mahalliy seansdan chiqishingiz yoki "
-"uni majburan to'xtatishingiz kerak."
+"Masofaviy tizimga kirish imkonsiz, chunki %s uchun mahalliy seans allaqachon"
+" ishlamoqda. Masofadan kirish uchun siz mahalliy seansdan chiqishingiz yoki "
+"uni majburan toʻxtatishingiz kerak."
 
 #. Translators: is running for <username>
 #: js/gdm/loginDialog.js:478
 #, javascript-format
 msgid ""
-"Login is not possible because a session is already running for %s. To login, "
-"you must log out from the session or force stop it."
+"Login is not possible because a session is already running for %s. To login,"
+" you must log out from the session or force stop it."
 msgstr ""
 "Kirish mumkin emas, chunki %s uchun seans allaqachon ishlamoqda. Tizimga "
-"kirish uchun siz sessiyadan chiqishingiz yoki uni majburan to'xtatishingiz "
+"kirish uchun siz sessiyadan chiqishingiz yoki uni majburan toʻxtatishingiz "
 "kerak."
 
 #: js/gdm/loginDialog.js:487
@@ -695,11 +698,11 @@ msgstr "Seans allaqachon ishlamoqda"
 
 #: js/gdm/loginDialog.js:499
 msgid ""
-"Force stopping will quit any running apps and processes, and could result in "
-"data loss"
+"Force stopping will quit any running apps and processes, and could result in"
+" data loss"
 msgstr ""
-"Majburiy to‘xtatish har qanday ishlayotgan ilova va jarayonlarni to‘xtatadi "
-"va ma’lumotlar yo‘qolishiga olib kelishi mumkin"
+"Majburiy toʻxtatish har qanday ishlayotgan ilova va jarayonlarni toʻxtatadi "
+"va ma’lumotlar yoʻqolishiga olib kelishi mumkin"
 
 #: js/gdm/loginDialog.js:519
 msgid "Force Stop"
@@ -707,7 +710,7 @@ msgstr "Majburiy toʻxtatish"
 
 #: js/gdm/loginDialog.js:597
 msgid "Not listed?"
-msgstr "Ro'yxatga kiritilmaganmi?"
+msgstr "Roʻyxatga kiritilmaganmi?"
 
 #. Translators: this message is shown below the username entry field
 #. to clue the user in on how to login to the local network realm
@@ -728,7 +731,7 @@ msgstr "Kirish urinish vaqti tugadi"
 
 #: js/gdm/loginDialog.js:1198
 msgid "Login took too long, please try again"
-msgstr "Kirish juda uzoq davom etdi, qayta urinib ko'ring"
+msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
 #: js/gdm/loginDialog.js:1547
 msgid "Login Window"
@@ -742,18 +745,19 @@ msgstr "Autentifikatsiya xatosi"
 #. to indicate the user can swipe their finger on the fingerprint reader
 #: js/gdm/util.js:729
 msgid "(or swipe finger across reader)"
-msgstr "(yoki barmog'ingizni o'quvchi bo'ylab suring)"
+msgstr "(yoki barmogʻingizni oʻquvchi boʻylab suring)"
 
 #. Translators: this message is shown below the password entry field
-#. to indicate the user can place their finger on the fingerprint reader instead
+#. to indicate the user can place their finger on the fingerprint reader
+#. instead
 #: js/gdm/util.js:734
 msgid "(or place finger on reader)"
-msgstr "(yoki barmog'ingizni o'quvchiga qo'ying)"
+msgstr "(yoki barmogʻingizni oʻquvchiga qoʻying)"
 
 #: js/misc/breakManager.js:770
 #, fuzzy
 msgid "Break complete sound"
-msgstr "To'liq ovozni buzing"
+msgstr "Toʻliq ovozni buzing"
 
 #: js/misc/breakManager.js:980
 #, fuzzy, javascript-format
@@ -779,7 +783,8 @@ msgid "%d day"
 msgid_plural "%d days"
 msgstr[0] "%d kun"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1081
 #, javascript-format
 msgid "It will be time for a break in %s"
@@ -792,7 +797,7 @@ msgstr "Tez orada harakat tanaffus"
 
 #: js/misc/breakManager.js:1092
 msgid "Eyesight Break Soon"
-msgstr "Tez orada ko'rish buzilishi"
+msgstr "Tez orada koʻrish buzilishi"
 
 #: js/misc/breakManager.js:1095
 msgid "Break Soon"
@@ -802,7 +807,8 @@ msgstr "Tez orada tanaffus"
 msgid "Movement Break in Progress"
 msgstr "Harakatning uzilishi davom etmoqda"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1143
 #, javascript-format
 msgid "Continue moving around for %s"
@@ -811,9 +817,10 @@ msgstr[0] "%s atrofida harakatlanishda davom eting"
 
 #: js/misc/breakManager.js:1149
 msgid "Eyesight Break in Progress"
-msgstr "Ko‘rish buzilishi davom etmoqda"
+msgstr "Koʻrish buzilishi davom etmoqda"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1152
 #, javascript-format
 msgid "Continue looking away for %s"
@@ -824,7 +831,8 @@ msgstr[0] "%s ga qarashda davom eting"
 msgid "Break in Progress"
 msgstr "Tanaffus davom etmoqda"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1161
 #, javascript-format
 msgid "%s left in your break"
@@ -835,7 +843,8 @@ msgstr[0] "Tanaffusda %s qoldi"
 msgid "Time for a Movement Break"
 msgstr "Harakat tanaffus vaqti"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1203
 #, javascript-format
 msgid "Take a break from the device and move around for %s"
@@ -844,9 +853,10 @@ msgstr[0] "Qurilmada tanaffus qiling va %s atrofida harakatlaning"
 
 #: js/misc/breakManager.js:1209
 msgid "Time for an Eyesight Break"
-msgstr "Ko'rish uchun tanaffus vaqti"
+msgstr "Koʻrish uchun tanaffus vaqti"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1212
 #, javascript-format
 msgid ""
@@ -859,14 +869,16 @@ msgstr[0] "Ekrandan dam oling. Kamida 6 metr masofani kamida %s qidiring"
 msgid "Time for a Break"
 msgstr "Tanaffus vaqti"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1221
 #, javascript-format
 msgid "It’s time to take a break. Get away from the device for %s!"
 msgid_plural "It’s time to take a break. Get away from the device for %s!"
 msgstr[0] "Tanaffus qilish vaqti keldi. %s uchun qurilmadan uzoqroq turing!"
 
-#. %s will be replaced with a string that describes a time interval, such as “2 minutes”, “40 seconds” or “1 hour”
+#. %s will be replaced with a string that describes a time interval, such as
+#. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1245
 #, javascript-format
 msgid "You were due to take a break %s ago"
@@ -918,13 +930,14 @@ msgstr "Yorqinlik"
 #: js/misc/systemActions.js:93
 msgctxt "search-result"
 msgid "Power Off"
-msgstr "O’chirish"
+msgstr "Oʻchirish"
 
-#. Translators: A list of keywords that match the power-off action, separated by semicolons
+#. Translators: A list of keywords that match the power-off action, separated
+#. by semicolons
 #: js/misc/systemActions.js:96
 msgid "power off;poweroff;shutdown;halt;stop"
 msgstr ""
-"quvvatni o'chirish; quvvatni o'chirish; o'chirish; to'xtatish; to'xtatish"
+"quvvatni oʻchirish; quvvatni oʻchirish; oʻchirish; toʻxtatish; toʻxtatish"
 
 #. Translators: The name of the restart action in search
 #: js/misc/systemActions.js:101
@@ -932,7 +945,8 @@ msgctxt "search-result"
 msgid "Restart"
 msgstr "Qayta ishga tushirish"
 
-#. Translators: A list of keywords that match the restart action, separated by semicolons
+#. Translators: A list of keywords that match the restart action, separated by
+#. semicolons
 #: js/misc/systemActions.js:104
 msgid "reboot;restart;"
 msgstr "qayta ishga tushirish; qayta ishga tushirish;"
@@ -943,7 +957,8 @@ msgctxt "search-result"
 msgid "Lock Screen"
 msgstr "Ekranni qulflash"
 
-#. Translators: A list of keywords that match the lock screen action, separated by semicolons
+#. Translators: A list of keywords that match the lock screen action,
+#. separated by semicolons
 #: js/misc/systemActions.js:112
 msgid "lock screen"
 msgstr "ekranni qulflash"
@@ -954,7 +969,8 @@ msgctxt "search-result"
 msgid "Log Out"
 msgstr "Chiqish"
 
-#. Translators: A list of keywords that match the logout action, separated by semicolons
+#. Translators: A list of keywords that match the logout action, separated by
+#. semicolons
 #: js/misc/systemActions.js:120
 msgid "logout;log out;sign off"
 msgstr "chiqish; chiqish; chiqish"
@@ -963,12 +979,13 @@ msgstr "chiqish; chiqish; chiqish"
 #: js/misc/systemActions.js:125
 msgctxt "search-result"
 msgid "Suspend"
-msgstr "To'xtatib turish"
+msgstr "Toʻxtatib turish"
 
-#. Translators: A list of keywords that match the suspend action, separated by semicolons
+#. Translators: A list of keywords that match the suspend action, separated by
+#. semicolons
 #: js/misc/systemActions.js:128
 msgid "suspend;sleep"
-msgstr "to'xtatib turish; uxlash"
+msgstr "toʻxtatib turish; uxlash"
 
 #. Translators: The name of the switch user action in search
 #: js/misc/systemActions.js:133
@@ -976,15 +993,17 @@ msgctxt "search-result"
 msgid "Switch User"
 msgstr "Foydalanuvchini almashtirish"
 
-#. Translators: A list of keywords that match the switch user action, separated by semicolons
+#. Translators: A list of keywords that match the switch user action,
+#. separated by semicolons
 #: js/misc/systemActions.js:136
 msgid "switch user"
 msgstr "foydalanuvchini almashtirish"
 
-#. Translators: A list of keywords that match the lock orientation action, separated by semicolons
+#. Translators: A list of keywords that match the lock orientation action,
+#. separated by semicolons
 #: js/misc/systemActions.js:143
 msgid "lock orientation;unlock orientation;screen;rotation"
-msgstr "qulf yo'nalishi; qulfni ochish yo'nalishi; ekran; aylanish"
+msgstr "qulf yoʻnalishi; qulfni ochish yoʻnalishi; ekran; aylanish"
 
 #. Translators: The name of the screenshot UI action in search
 #: js/misc/systemActions.js:148
@@ -992,7 +1011,8 @@ msgctxt "search-result"
 msgid "Take a Screenshot"
 msgstr "Skrinshot oling"
 
-#. Translators: A list of keywords that match the screenshot UI action, separated by semicolons
+#. Translators: A list of keywords that match the screenshot UI action,
+#. separated by semicolons
 #: js/misc/systemActions.js:151
 msgid "screenshot;screencast;snip;capture;record"
 msgstr "skrinshot; skrinshot; snip; suratga olish; yozib olish"
@@ -1027,7 +1047,7 @@ msgstr "Ekran vaqti chegarasiga yetdi"
 
 #: js/misc/timeLimitsManager.js:1146
 msgid "It’s time to stop using the device"
-msgstr "Qurilmadan foydalanishni to'xtatish vaqti keldi"
+msgstr "Qurilmadan foydalanishni toʻxtatish vaqti keldi"
 
 #: js/misc/util.js:130
 msgid "Command not found"
@@ -1166,7 +1186,7 @@ msgstr "%B %-d %Y, %l∶%M %p"
 
 #: js/portalHelper/main.js:98
 msgid "Your connection seems to be secure"
-msgstr "Ulanishingiz xavfsiz ko'rinadi"
+msgstr "Ulanishingiz xavfsiz koʻrinadi"
 
 #: js/portalHelper/main.js:104
 msgid ""
@@ -1237,7 +1257,7 @@ msgstr "Dash-ga mahkamlang"
 #, fuzzy
 #| msgid "Launch using Integrated Graphics Card"
 msgid "Launch Using Integrated Graphics Card"
-msgstr "O'rnatilgan grafik karta yordamida ishga tushiring"
+msgstr "Oʻrnatilgan grafik karta yordamida ishga tushiring"
 
 #: js/ui/appMenu.js:179
 #, fuzzy
@@ -1277,7 +1297,8 @@ msgstr "Displey sozlamalari"
 msgid "Settings"
 msgstr "Sozlamalar"
 
-#. Translators: Enter 0-6 (Sunday-Saturday) for non-work days. Examples: "0" (Sunday) "6" (Saturday) "06" (Sunday and Saturday).
+#. Translators: Enter 0-6 (Sunday-Saturday) for non-work days. Examples: "0"
+#. (Sunday) "6" (Saturday) "06" (Sunday and Saturday).
 #: js/ui/calendar.js:32
 msgctxt "calendar-no-work"
 msgid "06"
@@ -1287,7 +1308,6 @@ msgstr "06"
 #. *
 #. * NOTE: These grid abbreviations are always shown together
 #. * and in order, e.g. "S M T W T F S".
-#.
 #: js/ui/calendar.js:58
 msgctxt "grid sunday"
 msgid "S"
@@ -1334,7 +1354,6 @@ msgstr "SH"
 #. * standalone, when this is a month of the current year.
 #. * "%OB" is the new format specifier introduced in glibc 2.27,
 #. * in most cases you should not change it.
-#.
 #: js/ui/calendar.js:421
 msgid "%OB"
 msgstr "%OB"
@@ -1347,7 +1366,6 @@ msgstr "%OB"
 #. * "%OB" is the new format specifier introduced in glibc 2.27,
 #. * in most cases you should not use the old "%B" here unless you
 #. * absolutely know what you are doing.
-#.
 #: js/ui/calendar.js:431
 msgid "%OB %Y"
 msgstr "%OB %Y"
@@ -1394,8 +1412,8 @@ msgid ""
 "You may choose to wait a short while for it to continue or force the app to "
 "quit entirely"
 msgstr ""
-"Davom etish uchun biroz kutishingiz yoki ilovani butunlay oʻchirishga majbur "
-"qilishingiz mumkin"
+"Davom etish uchun biroz kutishingiz yoki ilovani butunlay oʻchirishga majbur"
+" qilishingiz mumkin"
 
 #: js/ui/closeDialog.js:71
 msgid "Force Quit"
@@ -1415,11 +1433,11 @@ msgstr "Tashqi disk uzildi"
 
 #: js/ui/components/automountManager.js:208
 msgid "Unable to unlock volume"
-msgstr "Ovoz balandligini ochib bo‘lmadi"
+msgstr "Ovoz balandligini ochib boʻlmadi"
 
 #: js/ui/components/automountManager.js:209
 msgid "The installed udisks version does not support the PIM setting"
-msgstr "O'rnatilgan udisks versiyasi PIM sozlamalarini qo'llab-quvvatlamaydi"
+msgstr "Oʻrnatilgan udisks versiyasi PIM sozlamalarini qoʻllab-quvvatlamaydi"
 
 #. Translators: %s is the name of a partition on a external drive
 #: js/ui/components/autorunManager.js:189
@@ -1472,7 +1490,8 @@ msgstr "Autentifikatsiya talab qilinadi"
 #: js/ui/components/networkAgent.js:372 js/ui/components/networkAgent.js:746
 #, javascript-format
 msgid ""
-"Passwords or encryption keys are required to access the wireless network “%s”"
+"Passwords or encryption keys are required to access the wireless network "
+"“%s”"
 msgstr ""
 "“%s” simsiz tarmoqqa kirish uchun parollar yoki shifrlash kalitlari talab "
 "qilinadi"
@@ -1538,7 +1557,7 @@ msgstr "Windows"
 
 #: js/ui/dash.js:201 js/ui/dash.js:247
 msgid "Show Apps"
-msgstr "Ilovalarni ko'rsatish"
+msgstr "Ilovalarni koʻrsatish"
 
 #. Translators: this is the name of the dock/favorites area on
 #. the bottom of the overview
@@ -1550,7 +1569,6 @@ msgstr "Dash"
 #. * shown - it is shown just below the time in the top bar (e.g.,
 #. * "Tue 9:29 AM").  The string itself should become a full date, e.g.,
 #. * "February 17 2015".
-#.
 #: js/ui/dateMenu.js:99
 msgid "%B %-d %Y"
 msgstr "%b %d %Y"
@@ -1558,18 +1576,19 @@ msgstr "%b %d %Y"
 #. Translators: This is the accessible name of the date button shown
 #. * below the time in the shell; it should combine the weekday and the
 #. * date, e.g. "Tuesday February 17 2015".
-#.
 #: js/ui/dateMenu.js:106
 msgid "%A %B %e %Y"
 msgstr "%A %B %e %Y"
 
-#. Translators: Shown on calendar heading when selected day occurs on current year
+#. Translators: Shown on calendar heading when selected day occurs on current
+#. year
 #: js/ui/dateMenu.js:173
 msgctxt "calendar heading"
 msgid "%B %-d"
 msgstr "%A %B %d"
 
-#. Translators: Shown on calendar heading when selected day occurs on different year
+#. Translators: Shown on calendar heading when selected day occurs on
+#. different year
 #: js/ui/dateMenu.js:176
 msgctxt "calendar heading"
 msgid "%B %-d %Y"
@@ -1585,26 +1604,24 @@ msgstr "Ertaga"
 
 #. Translators: Shown in calendar event list for all day events
 #. * Keep it short, best if you can use less then 10 characters
-#.
 #: js/ui/dateMenu.js:217
 msgctxt "event list time"
 msgid "All Day"
-msgstr "Kun bo'yi"
+msgstr "Kun boʻyi"
 
 #. Translators: Shown in calendar event list as the start/end of events
 #. * that only show day and month
-#.
 #: js/ui/dateMenu.js:239
 msgid "%m/%d"
 msgstr "%m/%d"
 
 #: js/ui/dateMenu.js:290
 msgid "No Events"
-msgstr "Tadbir yo’q"
+msgstr "Tadbir yoʻq"
 
 #: js/ui/dateMenu.js:412
 msgid "Add World Clocks…"
-msgstr "Jahon soatlarini qo‘shish…"
+msgstr "Jahon soatlarini qoʻshish…"
 
 #: js/ui/dateMenu.js:413
 msgid "World Clocks"
@@ -1661,12 +1678,12 @@ msgstr "Chiqish"
 #: js/ui/endSessionDialog.js:70 js/ui/status/system.js:181
 msgctxt "title"
 msgid "Power Off"
-msgstr "O’chirish"
+msgstr "Oʻchirish"
 
 #: js/ui/endSessionDialog.js:71
 msgctxt "title"
 msgid "Install Updates & Power Off"
-msgstr "Yangilanishlarni o'rnating va o'chiring"
+msgstr "Yangilanishlarni oʻrnating va oʻchiring"
 
 #: js/ui/endSessionDialog.js:74
 #, javascript-format
@@ -1677,12 +1694,12 @@ msgstr[0] "Tizim %d soniyada avtomatik ravishda oʻchadi"
 #: js/ui/endSessionDialog.js:78 js/ui/endSessionDialog.js:97
 msgctxt "checkbox"
 msgid "Install pending software updates"
-msgstr "Kutilayotgan dasturiy ta'minot yangilanishlarini o'rnating"
+msgstr "Kutilayotgan dasturiy ta'minot yangilanishlarini oʻrnating"
 
 #: js/ui/endSessionDialog.js:82
 msgctxt "button"
 msgid "Power Off"
-msgstr "O’chirish"
+msgstr "Oʻchirish"
 
 #: js/ui/endSessionDialog.js:89
 msgctxt "title"
@@ -1692,7 +1709,7 @@ msgstr "Qayta ishga tushirish"
 #: js/ui/endSessionDialog.js:90
 msgctxt "title"
 msgid "Install Updates & Restart"
-msgstr "Yangilanishlarni o'rnating va qayta ishga tushiring"
+msgstr "Yangilanishlarni oʻrnating va qayta ishga tushiring"
 
 #: js/ui/endSessionDialog.js:93
 #, javascript-format
@@ -1708,7 +1725,7 @@ msgstr "Qayta ishga tushirish"
 #: js/ui/endSessionDialog.js:109
 msgctxt "title"
 msgid "Restart & Install Updates"
-msgstr "Yangilanishlarni qayta ishga tushiring va o'rnating"
+msgstr "Yangilanishlarni qayta ishga tushiring va oʻrnating"
 
 #: js/ui/endSessionDialog.js:112
 #, javascript-format
@@ -1716,13 +1733,13 @@ msgid "The system will automatically restart and install updates in %d second"
 msgid_plural ""
 "The system will automatically restart and install updates in %d seconds"
 msgstr[0] ""
-"Tizim avtomatik ravishda qayta ishga tushadi va yangilanishlarni %d soniyada "
-"oʻrnatadi"
+"Tizim avtomatik ravishda qayta ishga tushadi va yangilanishlarni %d soniyada"
+" oʻrnatadi"
 
 #: js/ui/endSessionDialog.js:119 js/ui/endSessionDialog.js:140
 msgctxt "button"
 msgid "Restart & Install"
-msgstr "Qayta ishga tushirish va o'rnatish"
+msgstr "Qayta ishga tushirish va oʻrnatish"
 
 #: js/ui/endSessionDialog.js:121
 msgctxt "button"
@@ -1732,12 +1749,12 @@ msgstr "Oʻrnatish va oʻchirish"
 #: js/ui/endSessionDialog.js:122
 msgctxt "checkbox"
 msgid "Power off after updates are installed"
-msgstr "Yangilanishlar o'rnatilgandan keyin quvvatni o'chiring"
+msgstr "Yangilanishlar oʻrnatilgandan keyin quvvatni oʻchiring"
 
 #: js/ui/endSessionDialog.js:129
 msgctxt "title"
 msgid "Restart & Install Upgrade"
-msgstr "Yangilashni qayta ishga tushiring va o'rnating"
+msgstr "Yangilashni qayta ishga tushiring va oʻrnating"
 
 #. Translators: This is the text displayed for system upgrades in the
 #. shut down dialog. First %s gets replaced with the distro name and
@@ -1748,14 +1765,15 @@ msgid ""
 "%s %s will be installed after restart. Upgrade installation can take a long "
 "time: ensure that you have backed up and that the computer is plugged in."
 msgstr ""
-"%s %s qayta ishga tushirilgandan keyin oʻrnatiladi. Yangilanishni o'rnatish "
+"%s %s qayta ishga tushirilgandan keyin oʻrnatiladi. Yangilanishni oʻrnatish "
 "uzoq vaqt talab qilishi mumkin: zaxira nusxasini yaratganingizga va "
-"kompyuterning elektr tarmog'iga ulanganligiga ishonch hosil qiling."
+"kompyuterning elektr tarmogʻiga ulanganligiga ishonch hosil qiling."
 
 #: js/ui/endSessionDialog.js:283
 msgid "Low battery power: please plug in before installing updates"
 msgstr ""
-"Batareya quvvati kam: yangilanishlarni o‘rnatishdan oldin quvvatlang, iltimos"
+"Batareya quvvati kam: yangilanishlarni oʻrnatishdan oldin quvvatlang, "
+"iltimos"
 
 #: js/ui/endSessionDialog.js:292
 msgid "Some applications are busy or have unsaved work"
@@ -1784,16 +1802,16 @@ msgstr "%s (konsol)"
 
 #: js/ui/extensionDownloader.js:280
 msgid "Install"
-msgstr "O'rnatish"
+msgstr "Oʻrnatish"
 
 #: js/ui/extensionDownloader.js:286
 msgid "Install Extension"
-msgstr "Kengaytmani o'rnatish"
+msgstr "Kengaytmani oʻrnatish"
 
 #: js/ui/extensionDownloader.js:287
 #, fuzzy, javascript-format
 msgid "Download and install “%s” from extensions.gnome.org?"
-msgstr "extensions.gnome.org saytidan “%s” yuklab olib o‘rnatilsinmi?"
+msgstr "extensions.gnome.org saytidan “%s” yuklab olib oʻrnatilsinmi?"
 
 #: js/ui/extensionSystem.js:354
 msgid "Extension Updates Available"
@@ -1801,7 +1819,7 @@ msgstr "Kengaytma yangilanishlari mavjud"
 
 #: js/ui/extensionSystem.js:355
 msgid "Extension updates are ready to be installed"
-msgstr "Kengaytma yangilanishlari o'rnatishga tayyor"
+msgstr "Kengaytma yangilanishlari oʻrnatishga tayyor"
 
 #: js/ui/inhibitShortcutsDialog.js:70
 msgid "Allow inhibiting shortcuts"
@@ -1829,12 +1847,12 @@ msgstr "Sekin tugmalar yoqilgan"
 
 #: js/ui/kbdA11yDialog.js:35
 msgid "Slow Keys Turned Off"
-msgstr "Sekin tugmalar o'chirilgan"
+msgstr "Sekin tugmalar oʻchirilgan"
 
 #: js/ui/kbdA11yDialog.js:36
 msgid ""
-"You just held down the Shift key for 8 seconds. This is the shortcut for the "
-"Slow Keys feature, which affects the way your keyboard works."
+"You just held down the Shift key for 8 seconds. This is the shortcut for the"
+" Slow Keys feature, which affects the way your keyboard works."
 msgstr ""
 "Shift tugmachasini 8 soniya bosib turdingiz. Bu sekin tugmalar funksiyasi "
 "uchun yorliq boʻlib, u klaviaturaning ishlashiga taʼsir qiladi."
@@ -1845,15 +1863,15 @@ msgstr "Yopishqoq tugmalar yoqilgan"
 
 #: js/ui/kbdA11yDialog.js:43
 msgid "Sticky Keys Turned Off"
-msgstr "Yopishqoq tugmalar o'chirilgan"
+msgstr "Yopishqoq tugmalar oʻchirilgan"
 
 #: js/ui/kbdA11yDialog.js:45
 msgid ""
 "You just pressed the Shift key 5 times in a row. This is the shortcut for "
 "the Sticky Keys feature, which affects the way your keyboard works."
 msgstr ""
-"Siz shunchaki Shift tugmasini ketma-ket 5 marta bosdingiz. Bu klaviaturaning "
-"ishlashiga ta'sir qiluvchi Yopishqoq tugmalar funksiyasi uchun yorliqdir."
+"Siz shunchaki Shift tugmasini ketma-ket 5 marta bosdingiz. Bu klaviaturaning"
+" ishlashiga ta'sir qiluvchi Yopishqoq tugmalar funksiyasi uchun yorliqdir."
 
 #: js/ui/kbdA11yDialog.js:47
 msgid ""
@@ -1861,9 +1879,9 @@ msgid ""
 "row. This turns off the Sticky Keys feature, which affects the way your "
 "keyboard works."
 msgstr ""
-"Siz bir vaqtning o'zida ikkita tugmachani bosdingiz yoki Shift tugmachasini "
+"Siz bir vaqtning oʻzida ikkita tugmachani bosdingiz yoki Shift tugmachasini "
 "ketma-ket 5 marta bosdingiz. Bu klaviaturaning ishlashiga ta'sir qiluvchi "
-"Yopishqoq tugmalar funksiyasini o'chiradi."
+"Yopishqoq tugmalar funksiyasini oʻchiradi."
 
 #: js/ui/kbdA11yDialog.js:57
 msgid "Leave On"
@@ -1875,11 +1893,11 @@ msgstr "Yoqish; ishga tushirish"
 
 #: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:455
 msgid "Turn Off"
-msgstr "O'chirib qo'yish"
+msgstr "Oʻchirib qoʻyish"
 
 #: js/ui/kbdA11yDialog.js:67
 msgid "Leave Off"
-msgstr "O'chirish"
+msgstr "Oʻchirish"
 
 #: js/ui/keyboard.js:179 js/ui/status/keyboard.js:901
 msgid "Keyboard Settings"
@@ -1901,7 +1919,7 @@ msgstr "Xatolarni yashirish"
 
 #: js/ui/lookingGlass.js:815 js/ui/lookingGlass.js:895
 msgid "Show Errors"
-msgstr "Xatolarni ko'rsatish"
+msgstr "Xatolarni koʻrsatish"
 
 #: js/ui/lookingGlass.js:824
 msgid "Active"
@@ -1933,7 +1951,7 @@ msgstr "Faollashtirilmoqda"
 
 #: js/ui/lookingGlass.js:873
 msgid "View Source"
-msgstr "Manbani ko'rish"
+msgstr "Manbani koʻrish"
 
 #: js/ui/lookingGlass.js:884
 msgid "Web Page"
@@ -1941,7 +1959,7 @@ msgstr "Veb sahifa"
 
 #: js/ui/main.js:312
 msgid "System was put in unsafe mode"
-msgstr "Tizim xavfli rejimga o'tkazildi"
+msgstr "Tizim xavfli rejimga oʻtkazildi"
 
 #: js/ui/main.js:313
 msgid "Apps now have unrestricted access"
@@ -1957,12 +1975,12 @@ msgid ""
 "reasons. If possible, you should log in as a normal user."
 msgstr ""
 "Xavfsizlik nuqtai nazaridan seansni imtiyozli foydalanuvchi sifatida ishga "
-"tushirishdan qochish kerak. Iloji bo'lsa, oddiy foydalanuvchi sifatida "
+"tushirishdan qochish kerak. Iloji boʻlsa, oddiy foydalanuvchi sifatida "
 "tizimga kirishingiz kerak."
 
 #: js/ui/main.js:422
 msgid "Screen Lock disabled"
-msgstr "Ekran qulfi o‘chirilgan"
+msgstr "Ekran qulfi oʻchirilgan"
 
 #: js/ui/main.js:423
 msgid "Screen Locking requires the GNOME display manager"
@@ -2014,7 +2032,7 @@ msgstr "Ilova aniqlandi"
 
 #: js/ui/padOsd.js:152
 msgid "Show on-screen help"
-msgstr "Ekrandagi yordamni ko'rsatish"
+msgstr "Ekrandagi yordamni koʻrsatish"
 
 #: js/ui/padOsd.js:153
 msgid "Switch monitor"
@@ -2138,11 +2156,11 @@ msgstr "Yozib olish ekrani"
 #. it needs to be phrased as a verb.
 #: js/ui/screenshot.js:1366
 msgid "Capture"
-msgstr "Qo‘lga olish"
+msgstr "Qoʻlga olish"
 
 #: js/ui/screenshot.js:1388
 msgid "Show Pointer"
-msgstr "Pointerni ko'rsatish"
+msgstr "Pointerni koʻrsatish"
 
 #. Translators: this is the folder where recorded
 #. screencasts are stored.
@@ -2190,13 +2208,13 @@ msgstr "Skrinshot kutilmaganda tugadi"
 #, fuzzy
 #| msgid "Click here to view the video."
 msgid "Click here to view the video"
-msgstr "Videoni ko‘rish uchun shu yerni bosing."
+msgstr "Videoni koʻrish uchun shu yerni bosing."
 
 #. Translators: button on the screencast notification.
 #. Translators: button on the screenshot notification.
 #: js/ui/screenshot.js:2116 js/ui/screenshot.js:2359
 msgid "Show in Files"
-msgstr "Fayllarda ko'rsatish"
+msgstr "Fayllarda koʻrsatish"
 
 #. Translators: this is the name of the file that the screenshot is
 #. saved to. The placeholder is a timestamp, e.g. "2017-05-21 12-24-03".
@@ -2229,7 +2247,7 @@ msgstr "Qidirilmoqda…"
 
 #: js/ui/search.js:850
 msgid "No results"
-msgstr "Natija yo'q"
+msgstr "Natija yoʻq"
 
 #: js/ui/search.js:982
 #, javascript-format
@@ -2248,11 +2266,11 @@ msgstr "Nusxalash"
 
 #: js/ui/shellEntry.js:26
 msgid "Paste"
-msgstr "Qo'yish"
+msgstr "Qoʻyish"
 
 #: js/ui/shellEntry.js:78
 msgid "Show Text"
-msgstr "Matnni ko'rsatish"
+msgstr "Matnni koʻrsatish"
 
 #: js/ui/shellEntry.js:80
 msgid "Hide Text"
@@ -2311,7 +2329,7 @@ msgstr "%s oching"
 
 #: js/ui/shellMountOperation.js:436
 msgid "The PIM must be a number or empty"
-msgstr "PIM raqam yoki bo'sh bo'lishi kerak"
+msgstr "PIM raqam yoki boʻsh boʻlishi kerak"
 
 #: js/ui/status/accessibility.js:45 js/ui/status/accessibility.js:155
 msgid "High Contrast"
@@ -2323,7 +2341,7 @@ msgstr "Kattalashtirish"
 
 #: js/ui/status/accessibility.js:55 js/ui/status/accessibility.js:223
 msgid "Screen Reader"
-msgstr "Ekran o'quvchi"
+msgstr "Ekran oʻquvchi"
 
 #: js/ui/status/accessibility.js:59 js/ui/status/accessibility.js:239
 msgid "Screen Keyboard"
@@ -2376,7 +2394,7 @@ msgstr "Ilova sozlamalari"
 
 #: js/ui/status/backgroundApps.js:239
 msgid "No Background Apps"
-msgstr "Fon ilovalari yo'q"
+msgstr "Fon ilovalari yoʻq"
 
 #: js/ui/status/backgroundApps.js:241
 #, javascript-format
@@ -2390,7 +2408,7 @@ msgstr "Klaviatura yorqinligi"
 
 #: js/ui/status/backlight.js:87
 msgid "Off"
-msgstr "O'chirilgan"
+msgstr "Oʻchirilgan"
 
 #: js/ui/status/backlight.js:88
 msgid "Low"
@@ -2442,7 +2460,7 @@ msgstr "Bluetooth sozlamalari"
 
 #: js/ui/status/bluetooth.js:351
 msgid "No available or connected devices"
-msgstr "Mavjud yoki ulangan qurilmalar yo'q"
+msgstr "Mavjud yoki ulangan qurilmalar yoʻq"
 
 #: js/ui/status/bluetooth.js:352
 msgid "Turn on Bluetooth to connect to devices"
@@ -2463,7 +2481,7 @@ msgstr "Menyuni ochish"
 
 #: js/ui/status/darkMode.js:12
 msgid "Dark Style"
-msgstr "Qorong'u uslub"
+msgstr "Qorongʻu uslub"
 
 #: js/ui/status/doNotDisturb.js:10
 msgid "Do Not Disturb"
@@ -2479,7 +2497,7 @@ msgstr "Ikki marta bosing"
 
 #: js/ui/status/dwellClick.js:25
 msgid "Drag"
-msgstr "Tortib o’tkazish"
+msgstr "Tortib oʻtkazish"
 
 #: js/ui/status/dwellClick.js:30
 msgid "Secondary Click"
@@ -2491,7 +2509,7 @@ msgstr "Dwell bosing"
 
 #: js/ui/status/keyboard.js:900
 msgid "Show Keyboard Layout"
-msgstr "Klaviatura tartibini ko'rsatish"
+msgstr "Klaviatura tartibini koʻrsatish"
 
 #: js/ui/status/location.js:337
 msgid "Allow location access"
@@ -2534,7 +2552,9 @@ msgstr "Xavfsiz emas"
 msgid "Signal strength %s%%"
 msgstr "Signal kuchi %s%%"
 
-#. translators: The first placeholder is the network name, the second and indication whether it is secure, and the last the signal strength indication
+#. translators: The first placeholder is the network name, the second and
+#. indication whether it is secure, and the last the signal strength
+#. indication
 #: js/ui/status/network.js:1063
 #, javascript-format
 msgid "%s, %s, %s"
@@ -2632,7 +2652,7 @@ msgstr "Mobil"
 #, fuzzy
 #| msgid "Sign Into Wi–Fi Network"
 msgid "Sign in to Network"
-msgstr "Wi-Fi tarmog'iga kiring"
+msgstr "Wi-Fi tarmogʻiga kiring"
 
 #: js/ui/status/network.js:2177
 msgid "Connection failed"
@@ -2644,7 +2664,7 @@ msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 
 #: js/ui/status/nightLight.js:19
 msgid "Night Light"
-msgstr "Tungi yorug'lik"
+msgstr "Tungi yorugʻlik"
 
 #: js/ui/status/powerProfiles.js:19
 msgctxt "Power profile"
@@ -2680,11 +2700,11 @@ msgstr "Quvvat sozlamalari"
 
 #: js/ui/status/remoteAccess.js:74
 msgid "Stop Screencast"
-msgstr "Skrinshotni to'xtatish"
+msgstr "Skrinshotni toʻxtatish"
 
 #: js/ui/status/remoteAccess.js:144
 msgid "Stop Screen Sharing"
-msgstr "Ekran almashishni to'xtatish"
+msgstr "Ekran almashishni toʻxtatish"
 
 #: js/ui/status/rfkill.js:97
 msgid "Airplane Mode"
@@ -2692,11 +2712,11 @@ msgstr "Samolyot rejimi"
 
 #: js/ui/status/system.js:175
 msgid "Power Off Menu"
-msgstr "Quvvatni o'chirish menyusi"
+msgstr "Quvvatni oʻchirish menyusi"
 
 #: js/ui/status/system.js:183
 msgid "Suspend"
-msgstr "To'xtatib turish"
+msgstr "Toʻxtatib turish"
 
 #: js/ui/status/system.js:188
 msgid "Restart…"
@@ -2704,7 +2724,7 @@ msgstr "Qayta ishga tushirish…"
 
 #: js/ui/status/system.js:193
 msgid "Power Off…"
-msgstr "O’chirish…"
+msgstr "Oʻchirish…"
 
 #: js/ui/status/system.js:200
 msgid "Log Out…"
@@ -2728,7 +2748,7 @@ msgid ""
 "New device has been detected while you were away. Please disconnect and "
 "reconnect the device to start using it."
 msgstr ""
-"Siz yo‘q bo‘lganingizda yangi qurilma aniqlandi. Iltimos, foydalanishni "
+"Siz yoʻq boʻlganingizda yangi qurilma aniqlandi. Iltimos, foydalanishni "
 "boshlash uchun qurilmani uzing va qayta ulang."
 
 #: js/ui/status/thunderbolt.js:315
@@ -2753,7 +2773,7 @@ msgstr "Thunderbolt qurilmasiga ruxsat berilmadi: %s"
 
 #: js/ui/status/volume.js:218
 msgid "Volume changed"
-msgstr "Ovoz o'zgartirildi"
+msgstr "Ovoz oʻzgartirildi"
 
 #: js/ui/status/volume.js:231
 msgid "Unmute"
@@ -2787,31 +2807,27 @@ msgstr "Menyuni ochish"
 
 #. Translators: this is for display mirroring i.e. cloning.
 #. * Try to keep it under around 15 characters.
-#.
 #: js/ui/switchMonitor.js:20
 msgid "Mirror"
 msgstr "Oyna"
 
 #. Translators: this is for the desktop spanning displays.
 #. * Try to keep it under around 15 characters.
-#.
 #: js/ui/switchMonitor.js:29
 msgid "Join Displays"
-msgstr "Displeylarga qo'shilish"
+msgstr "Displeylarga qoʻshilish"
 
 #. Translators: this is for using only external displays.
 #. * Try to keep it under around 15 characters.
-#.
 #: js/ui/switchMonitor.js:39
 msgid "External Only"
 msgstr "Faqat tashqi"
 
 #. Translators: this is for using only the laptop display.
 #. * Try to keep it under around 15 characters.
-#.
 #: js/ui/switchMonitor.js:47
 msgid "Built-in Only"
-msgstr "Faqat o'rnatilgan"
+msgstr "Faqat oʻrnatilgan"
 
 #. Translators: This is a time format for a date in
 #. long format
@@ -2848,7 +2864,7 @@ msgstr "%s ga xush kelibsiz"
 #: js/ui/welcomeDialog.js:52
 msgid "If you want to learn your way around, check out the tour"
 msgstr ""
-"Agar siz o'z yo'lingizni o'rganmoqchi bo'lsangiz, ekskursiyani tekshiring"
+"Agar siz oʻz yoʻlingizni oʻrganmoqchi boʻlsangiz, ekskursiyani tekshiring"
 
 #: js/ui/welcomeDialog.js:66
 msgid "Take Tour"
@@ -2870,7 +2886,7 @@ msgstr "Sozlamalarni qaytarish"
 
 #: js/ui/windowManager.js:75
 msgid "Keep Changes"
-msgstr "O'zgarishlarni saqlang"
+msgstr "Oʻzgarishlarni saqlang"
 
 #: js/ui/windowManager.js:95
 #, javascript-format
@@ -2905,7 +2921,7 @@ msgstr "Maksimallashtirish"
 
 #: js/ui/windowMenu.js:57
 msgid "Move"
-msgstr "Ko'chirish"
+msgstr "Koʻchirish"
 
 #: js/ui/windowMenu.js:71
 msgid "Resize"
@@ -2921,7 +2937,7 @@ msgstr "Har doim koʻrinadigan ish oʻrnida"
 
 #: js/ui/windowMenu.js:118
 msgid "Move to Workspace Left"
-msgstr "Ish maydoni chapga o'ting"
+msgstr "Ish maydoni chapga oʻting"
 
 #: js/ui/windowMenu.js:124
 msgid "Move to Workspace Right"
@@ -2929,7 +2945,7 @@ msgstr "Ish maydoniga oʻngga oʻting"
 
 #: js/ui/windowMenu.js:130
 msgid "Move to Workspace Up"
-msgstr "Ish maydonini tepasiga o'ting"
+msgstr "Ish maydonini tepasiga oʻting"
 
 #: js/ui/windowMenu.js:136
 msgid "Move to Workspace Down"
@@ -2949,7 +2965,7 @@ msgstr "Monitor chapga siljiting"
 
 #: js/ui/windowMenu.js:181
 msgid "Move to Monitor Right"
-msgstr "Monitorning o'ng tomoniga siljiting"
+msgstr "Monitorning oʻng tomoniga siljiting"
 
 #: js/ui/windowMenu.js:189
 msgid "Close"
@@ -2969,7 +2985,7 @@ msgstr "Muayyan rejimdan foydalaning, masalan. Kirish ekrani uchun \"gdm\""
 
 #: src/main.c:533
 msgid "List possible modes"
-msgstr "Mumkin rejimlarni sanab o'ting"
+msgstr "Mumkin rejimlarni sanab oʻting"
 
 #: src/main.c:539
 msgid "Force animations to be enabled"
@@ -2991,7 +3007,7 @@ msgstr "Parollar mos kelmaydi"
 
 #: src/shell-keyring-prompt.c:787
 msgid "Password cannot be blank"
-msgstr "Parol bo'sh bo'lishi mumkin emas"
+msgstr "Parol boʻsh boʻlishi mumkin emas"
 
 #: src/shell-polkit-authentication-agent.c:344
 msgid "Authentication dialog was dismissed by the user"
@@ -3004,7 +3020,7 @@ msgstr "“%s” belgisi %s mavzusida mavjud emas"
 
 #: src/st/st-icon-theme.c:3452 src/st/st-icon-theme.c:3755
 msgid "Failed to load icon"
-msgstr "Belgini yuklab bo‘lmadi"
+msgstr "Belgini yuklab boʻlmadi"
 
 #: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:6
 msgid "Manage your GNOME Extensions"
@@ -3021,8 +3037,8 @@ msgid ""
 "preferences and removing or disabling unwanted extensions."
 msgstr ""
 "GNOME kengaytmalari kengaytmalarni yangilash, kengaytma afzalliklarini "
-"sozlash va keraksiz kengaytmalarni o'chirish yoki o'chirish bilan "
-"shug'ullanadi."
+"sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
+"shugʻullanadi."
 
 #: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:69
 msgid "Main Window"
@@ -3034,7 +3050,7 @@ msgstr "Mavjud yangilanishlar"
 
 #: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:77
 msgid "Search View"
-msgstr "Qidiruv ko'rinishi"
+msgstr "Qidiruv koʻrinishi"
 
 #: subprojects/extensions-app/data/org.gnome.Extensions.desktop.in.in:6
 msgid "Configure GNOME Shell Extensions"
@@ -3047,7 +3063,7 @@ msgid ""
 "current version of GNOME (%s). The extension has been disabled."
 msgstr ""
 "Ushbu kengaytmaning oʻrnatilgan versiyasi (%s) joriy GNOME versiyasiga (%s) "
-"mos kelmaydi. Kengaytma o'chirilgan."
+"mos kelmaydi. Kengaytma oʻchirilgan."
 
 #: subprojects/extensions-app/js/extensionManager.js:238
 #, javascript-format
@@ -3056,7 +3072,7 @@ msgid ""
 "version of GNOME (%s). The extension has been disabled."
 msgstr ""
 "Ushbu kengaytmaning oʻrnatilgan versiyasi joriy GNOME (%s) versiyasiga mos "
-"kelmaydi. Kengaytma o'chirilgan."
+"kelmaydi. Kengaytma oʻchirilgan."
 
 #: subprojects/extensions-app/js/extensionManager.js:242
 msgid ""
@@ -3065,8 +3081,8 @@ msgid ""
 "is resolved."
 msgstr ""
 "Ushbu kengaytmada xatolik yuz berdi. Bu tizimning boshqa joylarida "
-"muammolarga olib kelishi mumkin. Xato hal qilinmaguncha kengaytmani o'chirib "
-"qo'yish tavsiya etiladi."
+"muammolarga olib kelishi mumkin. Xato hal qilinmaguncha kengaytmani oʻchirib"
+" qoʻyish tavsiya etiladi."
 
 #. translators: Details for an extension error
 #: subprojects/extensions-app/js/extensionManager.js:248
@@ -3097,7 +3113,7 @@ msgstr "_Bekor qilish"
 
 #: subprojects/extensions-app/js/extensionsWindow.js:113
 msgid "_Remove"
-msgstr "_O’chirish"
+msgstr "_Oʻchirish"
 
 #: subprojects/extensions-app/js/extensionsWindow.js:153
 msgid "translator-credits"
@@ -3171,8 +3187,8 @@ msgid ""
 "disable all extensions if you experience problems with your system."
 msgstr ""
 "Kengaytmalar ishlash va barqarorlik muammolariga olib kelishi mumkin. Agar "
-"tizimingizda muammolarga duch kelsangiz, barcha kengaytmalarni o'chirib "
-"qo'yish tavsiya etiladi."
+"tizimingizda muammolarga duch kelsangiz, barcha kengaytmalarni oʻchirib "
+"qoʻyish tavsiya etiladi."
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:175
 msgid "User Extensions"
@@ -3192,19 +3208,20 @@ msgstr "Hech qanday natija topilmadi"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:218
 msgid "Try a different search"
-msgstr "Boshqa qidiruvni sinab ko'ring"
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:229
 msgid "No Installed Extensions"
-msgstr "O'rnatilgan kengaytmalar yo'q"
+msgstr "Oʻrnatilgan kengaytmalar yoʻq"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:230
 msgid ""
-"To find and add extensions, visit <a href=\"https://"
-"extensions.gnome.org\">extensions.gnome.org</a>."
+"To find and add extensions, visit <a "
+"href=\"https://extensions.gnome.org\">extensions.gnome.org</a>."
 msgstr ""
-"Kengaytmalarni topish va qo'shish uchun <a href=\"https://"
-"extensions.gnome.org\">extensions.gnome.org</a> saytiga tashrif buyuring."
+"Kengaytmalarni topish va qoʻshish uchun <a "
+"href=\"https://extensions.gnome.org\">extensions.gnome.org</a> saytiga "
+"tashrif buyuring."
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:240
 msgid "Something’s gone wrong"
@@ -3217,7 +3234,7 @@ msgid ""
 msgstr ""
 "Kechirasiz, lekin oʻrnatilgan kengaytmalar roʻyxatini olishning iloji "
 "boʻlmadi. GNOME-ga kirganingizga ishonch hosil qiling va qayta urinib "
-"ko'ring."
+"koʻring."
 
 #: subprojects/extensions-app/data/ui/shortcuts-dialog.ui:6
 msgctxt "shortcut window"
@@ -3237,7 +3254,7 @@ msgstr "Qidiruvni almashtirish"
 #: subprojects/extensions-app/data/ui/shortcuts-dialog.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: subprojects/extensions-app/data/ui/shortcuts-dialog.ui:27
 msgctxt "shortcut window"
@@ -3256,7 +3273,7 @@ msgid ""
 "Name should be a very short (ideally descriptive) string.\n"
 "Examples are: %s"
 msgstr ""
-"Ism juda qisqa (ideal tavsiflovchi) qator bo'lishi kerak.\n"
+"Ism juda qisqa (ideal tavsiflovchi) qator boʻlishi kerak.\n"
 "Misollar: %s"
 
 #: subprojects/extensions-tool/src/command-create.c:382
@@ -3282,12 +3299,10 @@ msgstr "Ta'rif"
 #, c-format
 msgid ""
 "UUID is a globally-unique identifier for your extension.\n"
-"This should be in the format of an email address "
-"(clicktofocus@janedoe.example.com)\n"
+"This should be in the format of an email address (clicktofocus@janedoe.example.com)\n"
 msgstr ""
 "UUID kengaytmangiz uchun global noyob identifikatordir.\n"
-"Bu elektron pochta manzili formatida bo'lishi kerak "
-"(clicktofocus@janedoe.example.com)\n"
+"Bu elektron pochta manzili formatida boʻlishi kerak (clicktofocus@janedoe.example.com)\n"
 
 #: subprojects/extensions-tool/src/command-create.c:443
 #, c-format
@@ -3309,7 +3324,7 @@ msgstr "NAME"
 
 #: subprojects/extensions-tool/src/command-create.c:519
 msgid "The user-visible name of the new extension"
-msgstr "Yangi kengaytmaning foydalanuvchiga ko'rinadigan nomi"
+msgstr "Yangi kengaytmaning foydalanuvchiga koʻrinadigan nomi"
 
 #: subprojects/extensions-tool/src/command-create.c:521
 msgid "DESCRIPTION"
@@ -3348,7 +3363,7 @@ msgstr "Yangi kengaytma uchun ishlatiladigan shablon"
 
 #: subprojects/extensions-tool/src/command-create.c:538
 msgid "Include prefs.js template"
-msgstr "Prefs.js shablonini qo'shing"
+msgstr "Prefs.js shablonini qoʻshing"
 
 #: subprojects/extensions-tool/src/command-create.c:544
 msgid "Enter extension information interactively"
@@ -3375,7 +3390,7 @@ msgstr "“%s” kengaytmasi mavjud emas\n"
 
 #: subprojects/extensions-tool/src/command-disable.c:98
 msgid "Disable an extension"
-msgstr "Kengaytmani o'chirib qo'ying"
+msgstr "Kengaytmani oʻchirib qoʻying"
 
 #: subprojects/extensions-tool/src/command-disable.c:116
 #: subprojects/extensions-tool/src/command-enable.c:116
@@ -3404,7 +3419,7 @@ msgstr "Kengaytmani yoqing"
 #: subprojects/extensions-tool/src/main.c:150
 #, c-format
 msgid "Failed to connect to GNOME Shell\n"
-msgstr "GNOME Shell’ga ulanib bo‘lmadi\n"
+msgstr "GNOME Shell’ga ulanib boʻlmadi\n"
 
 #: subprojects/extensions-tool/src/command-info.c:59
 #: subprojects/extensions-tool/src/main.c:159
@@ -3426,7 +3441,7 @@ msgstr "EXTENSION_BUNDLE"
 
 #: subprojects/extensions-tool/src/command-install.c:201
 msgid "Install an extension bundle"
-msgstr "Kengaytma to'plamini o'rnating"
+msgstr "Kengaytma toʻplamini oʻrnating"
 
 #: subprojects/extensions-tool/src/command-install.c:219
 msgid "No extension bundle specified"
@@ -3438,35 +3453,35 @@ msgstr "Bir nechta kengaytmalar toʻplami koʻrsatilgan"
 
 #: subprojects/extensions-tool/src/command-list.c:140
 msgid "Show user-installed extensions"
-msgstr "Foydalanuvchi tomonidan o'rnatilgan kengaytmalarni ko'rsatish"
+msgstr "Foydalanuvchi tomonidan oʻrnatilgan kengaytmalarni koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:143
 msgid "Show system-installed extensions"
-msgstr "Tizimda o'rnatilgan kengaytmalarni ko'rsatish"
+msgstr "Tizimda oʻrnatilgan kengaytmalarni koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:146
 msgid "Show enabled extensions"
-msgstr "Yoqilgan kengaytmalarni ko'rsatish"
+msgstr "Yoqilgan kengaytmalarni koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:149
 msgid "Show disabled extensions"
-msgstr "O'chirilgan kengaytmalarni ko'rsatish"
+msgstr "Oʻchirilgan kengaytmalarni koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:152
 msgid "Show extensions in active state"
-msgstr "Kengaytmalarni faol holatda ko'rsatish"
+msgstr "Kengaytmalarni faol holatda koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:155
 msgid "Show extensions in inactive state"
-msgstr "Kengaytmalarni nofaol holatda ko'rsatish"
+msgstr "Kengaytmalarni nofaol holatda koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:158
 msgid "Show extensions with preferences"
-msgstr "Kengaytmalarni afzalliklari bilan ko'rsatish"
+msgstr "Kengaytmalarni afzalliklari bilan koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:161
 msgid "Show extensions with updates"
-msgstr "Kengaytmalarni yangilanishlar bilan ko'rsatish"
+msgstr "Kengaytmalarni yangilanishlar bilan koʻrsatish"
 
 #: subprojects/extensions-tool/src/command-list.c:164
 msgid "Print extension details"
@@ -3474,7 +3489,7 @@ msgstr "Kengaytma tafsilotlarini chop eting"
 
 #: subprojects/extensions-tool/src/command-list.c:172
 msgid "List installed extensions"
-msgstr "O'rnatilgan kengaytmalar ro'yxati"
+msgstr "Oʻrnatilgan kengaytmalar roʻyxati"
 
 #: subprojects/extensions-tool/src/command-pack.c:444
 #: subprojects/extensions-tool/src/command-upload.c:427
@@ -3484,11 +3499,11 @@ msgstr "FILE"
 
 #: subprojects/extensions-tool/src/command-pack.c:445
 msgid "Additional source to include in the bundle"
-msgstr "To'plamga qo'shiladigan qo'shimcha manba"
+msgstr "Toʻplamga qoʻshiladigan qoʻshimcha manba"
 
 #: subprojects/extensions-tool/src/command-pack.c:449
 msgid "A GSettings schema that should be included"
-msgstr "Qo'shilishi kerak bo'lgan GSettings sxemasi"
+msgstr "Qoʻshilishi kerak boʻlgan GSettings sxemasi"
 
 #: subprojects/extensions-tool/src/command-pack.c:451
 #: subprojects/extensions-tool/src/command-pack.c:462
@@ -3509,7 +3524,7 @@ msgstr "Mavjud paketning ustiga yozing"
 
 #: subprojects/extensions-tool/src/command-pack.c:464
 msgid "The directory where the pack should be created"
-msgstr "Paket yaratilishi kerak bo'lgan katalog"
+msgstr "Paket yaratilishi kerak boʻlgan katalog"
 
 #: subprojects/extensions-tool/src/command-pack.c:466
 msgid "SOURCE_DIRECTORY"
@@ -3517,11 +3532,11 @@ msgstr "SOURCE_DIRECTORY"
 
 #: subprojects/extensions-tool/src/command-pack.c:475
 msgid "Create an extension bundle"
-msgstr "Kengaytma to'plamini yarating"
+msgstr "Kengaytma toʻplamini yarating"
 
 #: subprojects/extensions-tool/src/command-pack.c:495
 msgid "More than one source directory specified"
-msgstr "Bir nechta manba katalogi ko'rsatilgan"
+msgstr "Bir nechta manba katalogi koʻrsatilgan"
 
 #: subprojects/extensions-tool/src/command-prefs.c:47
 #, c-format
@@ -3531,7 +3546,7 @@ msgstr "“%s” kengaytmasi sozlamalarga ega emas\n"
 #: subprojects/extensions-tool/src/command-prefs.c:62
 #, c-format
 msgid "Failed to open prefs for extension “%s”: %s\n"
-msgstr "“%s” kengaytmasi uchun parametrlarni ochib bo‘lmadi: %s\n"
+msgstr "“%s” kengaytmasi uchun parametrlarni ochib boʻlmadi: %s\n"
 
 #: subprojects/extensions-tool/src/command-prefs.c:87
 msgid "Opens extension preferences"
@@ -3549,7 +3564,7 @@ msgstr "Tizim kengaytmalarini oʻchirib boʻlmadi\n"
 #: subprojects/extensions-tool/src/command-uninstall.c:64
 #, c-format
 msgid "Failed to uninstall “%s”\n"
-msgstr "“%s” o‘chirib tashlanmadi\n"
+msgstr "“%s” oʻchirib tashlanmadi\n"
 
 #: subprojects/extensions-tool/src/command-uninstall.c:86
 msgid "Uninstall an extension"
@@ -3559,7 +3574,7 @@ msgstr "Kengaytmani olib tashlang"
 #, fuzzy, c-format
 #| msgid "List extensions"
 msgid "Login to extensions.gnome.org\n"
-msgstr "Ro'yxat kengaytmalari"
+msgstr "Roʻyxat kengaytmalari"
 
 #: subprojects/extensions-tool/src/command-upload.c:256
 #, c-format
@@ -3584,8 +3599,7 @@ msgid "Password to log into https://extensions.gnome.org"
 msgstr ""
 
 #: subprojects/extensions-tool/src/command-upload.c:429
-msgid ""
-"Read https://extensions.gnome.org password from file, use \"-\" for stdin"
+msgid "Read https://extensions.gnome.org password from file, use \"-\" for stdin"
 msgstr ""
 
 #: subprojects/extensions-tool/src/command-upload.c:432
@@ -3601,7 +3615,7 @@ msgstr "FILE"
 #, fuzzy
 #| msgid "Allow extension installation"
 msgid "Upload new extension versions"
-msgstr "Kengaytmani o'rnatishga ruxsat bering"
+msgstr "Kengaytmani oʻrnatishga ruxsat bering"
 
 #: subprojects/extensions-tool/src/command-upload.c:461
 msgid "Only one of --password and --password-file can be used"
@@ -3623,7 +3637,7 @@ msgstr "Xato xabarlarini chop qilmang"
 
 #: subprojects/extensions-tool/src/main.c:249
 msgid "Path"
-msgstr "Yo'l"
+msgstr "Yoʻl"
 
 #: subprojects/extensions-tool/src/main.c:252
 msgid "URL"
@@ -3649,7 +3663,7 @@ msgstr "Xa"
 
 #: subprojects/extensions-tool/src/main.c:268
 msgid "No"
-msgstr "Yo'q"
+msgstr "Yoʻq"
 
 #: subprojects/extensions-tool/src/main.c:271
 msgid "State"
@@ -3683,7 +3697,7 @@ msgstr "Buyruqlar:"
 
 #: subprojects/extensions-tool/src/main.c:335
 msgid "Print help"
-msgstr "Chop etish bo'yicha yordam"
+msgstr "Chop etish boʻyicha yordam"
 
 #: subprojects/extensions-tool/src/main.c:337
 msgid "Enable extension"
@@ -3691,7 +3705,7 @@ msgstr "Kengaytmani yoqish"
 
 #: subprojects/extensions-tool/src/main.c:338
 msgid "Disable extension"
-msgstr "Kengaytmani o'chiring"
+msgstr "Kengaytmani oʻchiring"
 
 #: subprojects/extensions-tool/src/main.c:339
 msgid "Reset extension"
@@ -3703,7 +3717,7 @@ msgstr "Kengaytmani olib tashlash"
 
 #: subprojects/extensions-tool/src/main.c:341
 msgid "List extensions"
-msgstr "Ro'yxat kengaytmalari"
+msgstr "Roʻyxat kengaytmalari"
 
 #: subprojects/extensions-tool/src/main.c:342
 #: subprojects/extensions-tool/src/main.c:343
@@ -3724,7 +3738,7 @@ msgstr "Paket kengaytmasi"
 
 #: subprojects/extensions-tool/src/main.c:347
 msgid "Install extension bundle"
-msgstr "Kengaytma to'plamini o'rnating"
+msgstr "Kengaytma toʻplamini oʻrnating"
 
 #: subprojects/extensions-tool/src/main.c:349
 #, c-format
@@ -3737,15 +3751,15 @@ msgstr "Oddiy matn"
 
 #: subprojects/extensions-tool/src/templates/00-plain.desktop.in:4
 msgid "An empty extension"
-msgstr "Bo'sh kengaytma"
+msgstr "Boʻsh kengaytma"
 
 #: subprojects/extensions-tool/src/templates/indicator.desktop.in:3
 msgid "Indicator"
-msgstr "Ko'rsatkich"
+msgstr "Koʻrsatkich"
 
 #: subprojects/extensions-tool/src/templates/indicator.desktop.in:4
 msgid "Add an icon to the top bar"
-msgstr "Yuqori panelga belgi qo'shing"
+msgstr "Yuqori panelga belgi qoʻshing"
 
 #: subprojects/extensions-tool/src/templates/quick-settings.desktop.in:3
 msgid "Quick Settings Item"
@@ -3753,13 +3767,13 @@ msgstr "Tez sozlamalar elementi"
 
 #: subprojects/extensions-tool/src/templates/quick-settings.desktop.in:4
 msgid "Add an item to quick settings"
-msgstr "Tez sozlamalarga element qo'shing"
+msgstr "Tez sozlamalarga element qoʻshing"
 
 #. translators:
 #. * The device has been disabled
 #: subprojects/gvc/gvc-mixer-control.c:1908
 msgid "Disabled"
-msgstr "O’chirilgan"
+msgstr "Oʻchirilgan"
 
 #. translators:
 #. * The number of sound outputs on a particular device
@@ -3789,12 +3803,12 @@ msgstr "Tizim tovushlari"
 
 #~ msgid ""
 #~ "We’re very sorry, but there’s been a problem: the settings for this "
-#~ "extension can’t be displayed. We recommend that you report the issue to "
-#~ "the extension authors."
+#~ "extension can’t be displayed. We recommend that you report the issue to the "
+#~ "extension authors."
 #~ msgstr ""
-#~ "Kechirasiz, lekin muammo yuzaga keldi: bu kengaytma sozlamalarini "
-#~ "ko‘rsatib bo‘lmaydi. Muammo haqida kengaytma mualliflariga xabar "
-#~ "berishingizni tavsiya qilamiz."
+#~ "Kechirasiz, lekin muammo yuzaga keldi: bu kengaytma sozlamalarini koʻrsatib "
+#~ "boʻlmaydi. Muammo haqida kengaytma mualliflariga xabar berishingizni tavsiya"
+#~ " qilamiz."
 
 #~ msgid "Technical Details"
 #~ msgstr "Texnik tafsilotlar"

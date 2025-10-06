@@ -8,8 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-characters/"
-"issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-characters/issues/\n"
 "POT-Creation-Date: 2025-09-30 18:17+0000\n"
 "PO-Revision-Date: 2025-03-29 22:05+0500\n"
 "Last-Translator: Baxrom Raxmatov magdiyevbahrom@gmail.com\n"
@@ -90,11 +89,11 @@ msgstr "Tinish belgilari"
 
 #: data/sidebar.ui:100
 msgid "Arrows"
-msgstr "Ko'rsatkichlar"
+msgstr "Koʻrsatkichlar"
 
 #: data/sidebar.ui:107
 msgid "Bullets"
-msgstr "O'qlar"
+msgstr "Oʻqlar"
 
 #: data/sidebar.ui:114
 msgid "Pictures"
@@ -130,7 +129,7 @@ msgstr "Qidiruv"
 #: data/shortcuts.ui:22
 msgctxt "shortcut window"
 msgid "Show Keyboard Shortcuts"
-msgstr "Klaviatura yorliqlarini ko’rsatish"
+msgstr "Klaviatura yorliqlarini koʻrsatish"
 
 #: data/shortcuts.ui:28
 msgctxt "shortcut window"
@@ -165,11 +164,11 @@ msgstr "Belgilarni qidirish"
 
 #: data/window.ui:89
 msgid "No Recent Characters"
-msgstr "Oxirgi belgilar yo'q"
+msgstr "Oxirgi belgilar yoʻq"
 
 #: data/window.ui:90
 msgid "Characters will appear here if you use them"
-msgstr "Agar siz ulardan foydalansangiz, belgilar shu yerda paydo bo'ladi"
+msgstr "Agar siz ulardan foydalansangiz, belgilar shu yerda paydo boʻladi"
 
 #: data/window.ui:117
 msgid "No Results"
@@ -177,13 +176,14 @@ msgstr "Natijalar yoʻq"
 
 #: data/window.ui:118
 msgid "Try a different search"
-msgstr "Boshqa qidiruvni sinab ko'ring"
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: data/org.gnome.Characters.desktop.in.in:4
 msgid "Utility application to find and insert unusual characters"
 msgstr "Noodatiy belgilarni topish va kiritish uchun yordamchi dastur"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Characters.desktop.in.in:12
 msgid "characters;unicode;punctuation;math;letters;emoji;emoticon;symbols;"
 msgstr ""
@@ -203,17 +203,17 @@ msgid ""
 "characters. It allows you to quickly find the character you are looking for "
 "by searching for keywords."
 msgstr ""
-"Belgilar - bu g'ayrioddiy narsalarni topish va kiritish uchun oddiy "
+"Belgilar - bu gʻayrioddiy narsalarni topish va kiritish uchun oddiy "
 "yordamchi dasturbelgilar. Bu sizga izlayotgan personajni tezda topish "
-"imkonini beradi kalit so'zlarni qidirish orqali."
+"imkonini beradi kalit soʻzlarni qidirish orqali."
 
 #: data/org.gnome.Characters.metainfo.xml.in.in:12
 msgid ""
-"You can also browse characters by categories, such as Punctuation, Pictures, "
-"etc."
+"You can also browse characters by categories, such as Punctuation, Pictures,"
+" etc."
 msgstr ""
-"Shuningdek, siz belgilarni tinish belgilari, rasmlar kabi toifalar bo'yicha "
-"ko'rishingiz mumkin.va boshqalar."
+"Shuningdek, siz belgilarni tinish belgilari, rasmlar kabi toifalar boʻyicha "
+"koʻrishingiz mumkin.va boshqalar."
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Characters.metainfo.xml.in.in:26 src/window.js:162

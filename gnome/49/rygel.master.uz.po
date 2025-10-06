@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rygel rygel-0-44\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/rygel/issues/\n"
-"POT-Creation-Date: 2025-10-04 18:40+0000\n"
+"POT-Creation-Date: 2025-10-05 20:11+0000\n"
 "PO-Revision-Date: 2025-04-02 17:59+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -26,7 +26,8 @@ msgstr "Rygel"
 msgid "UPnP/DLNA Services"
 msgstr "UPnP/DLNA xizmatlari"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/rygel.desktop.in:5
 msgid "mediaserver;mediarenderer;share;audio;video;pictures;"
 msgstr "mediaserver;mediarenderer;ulashish;audio;video;rasmlar;"
@@ -41,15 +42,15 @@ msgstr "UPnP/DLNA sozlamalari"
 
 #: data/rygel-preferences.ui:85
 msgid "Add a directory to the list of shared directories"
-msgstr "Umumiy kataloglar ro'yxatiga katalog qo'shing"
+msgstr "Umumiy kataloglar roʻyxatiga katalog qoʻshing"
 
 #: data/rygel-preferences.ui:86
 msgid "Add shared directory"
-msgstr "Umumiy katalog qo'shing"
+msgstr "Umumiy katalog qoʻshing"
 
 #: data/rygel-preferences.ui:92
 msgid "Remove a directory from the list of shared directories"
-msgstr "Umumiy kataloglar ro'yxatidan katalogni olib tashlang"
+msgstr "Umumiy kataloglar roʻyxatidan katalogni olib tashlang"
 
 #: data/rygel-preferences.ui:93
 msgid "Remove shared directory"
@@ -62,11 +63,12 @@ msgstr "_DLNA orqali mediani almashish"
 #: data/rygel-preferences.ui:195 data/rygel-preferences.ui:196
 msgid "Add a network interface Rygel should serve files on"
 msgstr ""
-"Rygel fayllarga xizmat ko'rsatishi kerak bo'lgan tarmoq interfeysini qo'shing"
+"Rygel fayllarga xizmat koʻrsatishi kerak boʻlgan tarmoq interfeysini "
+"qoʻshing"
 
 #: data/rygel-preferences.ui:197
 msgid "Add network interface"
-msgstr "Tarmoq interfeysini qo'shing"
+msgstr "Tarmoq interfeysini qoʻshing"
 
 #: data/rygel-preferences.ui:204 data/rygel-preferences.ui:205
 msgid "Remove a network interface Rygel should no longer serve files on"
@@ -122,7 +124,7 @@ msgstr "%s dan xato chiqishini oʻqib boʻlmadi: %s"
 #. / No test with the specified TestID was found
 #: src/librygel-core/rygel-basic-management.vala:158
 msgid "No Such Test"
-msgstr "Bunday test yo'q"
+msgstr "Bunday test yoʻq"
 
 #. / TestID is valid but refers to the wrong test type
 #: src/librygel-core/rygel-basic-management.vala:166
@@ -130,7 +132,7 @@ msgstr "Bunday test yo'q"
 #: src/librygel-core/rygel-basic-management.vala:382
 #: src/librygel-core/rygel-basic-management.vala:471
 msgid "Wrong Test Type"
-msgstr "Noto'g'ri test turi"
+msgstr "Notoʻgʻri test turi"
 
 #. / TestID is valid but the test Results are not available
 #: src/librygel-core/rygel-basic-management.vala:174
@@ -179,19 +181,19 @@ msgstr "Yaroqsiz argument"
 
 #: src/librygel-core/rygel-basic-management.vala:254
 msgid "Cannot run “Ping” action: Host is empty"
-msgstr "“Ping” amalini bajarib bo‘lmaydi: Xost bo‘sh"
+msgstr "“Ping” amalini bajarib boʻlmaydi: Xost boʻsh"
 
 #: src/librygel-core/rygel-basic-management.vala:352
 msgid "Cannot run “NSLookup” action: HostName is empty"
-msgstr "“NSLookup” amalini bajarib bo‘lmadi: HostName bo‘sh"
+msgstr "“NSLookup” amalini bajarib boʻlmadi: HostName boʻsh"
 
 #: src/librygel-core/rygel-basic-management.vala:440
 msgid "Cannot run “Traceroute” action: Host is empty"
-msgstr "“Traceroute” amalini bajarib bo‘lmaydi: Xost bo‘sh"
+msgstr "“Traceroute” amalini bajarib boʻlmaydi: Xost boʻsh"
 
 #: src/librygel-core/rygel-cmdline-config.vala:47
 msgid "Display version number"
-msgstr "Versiya raqamini ko'rsatish"
+msgstr "Versiya raqamini koʻrsatish"
 
 #: src/librygel-core/rygel-cmdline-config.vala:49
 msgid "Network Interfaces"
@@ -203,7 +205,7 @@ msgstr "Port"
 
 #: src/librygel-core/rygel-cmdline-config.vala:53
 msgid "Disable transcoding"
-msgstr "Transkodlashni o'chirib qo'ying"
+msgstr "Transkodlashni oʻchirib qoʻying"
 
 #: src/librygel-core/rygel-cmdline-config.vala:55
 msgid "Disallow upload"
@@ -221,32 +223,32 @@ msgstr ""
 
 #: src/librygel-core/rygel-cmdline-config.vala:61
 msgid "Plugin Path"
-msgstr "Plagin yo'li"
+msgstr "Plagin yoʻli"
 
 #: src/librygel-core/rygel-cmdline-config.vala:63
 msgid "Engine Path"
-msgstr "Dvigatel yo'li"
+msgstr "Dvigatel yoʻli"
 
 #: src/librygel-core/rygel-cmdline-config.vala:66
 msgid "Disable plugin"
-msgstr "Plaginni o'chirib qo'ying"
+msgstr "Plaginni oʻchirib qoʻying"
 
 #: src/librygel-core/rygel-cmdline-config.vala:68
 msgid "Set plugin titles"
-msgstr "Plagin sarlavhalarini o'rnating"
+msgstr "Plagin sarlavhalarini oʻrnating"
 
 #: src/librygel-core/rygel-cmdline-config.vala:70
 msgid "Set plugin options"
-msgstr "Plagin parametrlarini o'rnating"
+msgstr "Plagin parametrlarini oʻrnating"
 
 #: src/librygel-core/rygel-cmdline-config.vala:72
 msgid "Use configuration file instead of user configuration"
 msgstr ""
-"Foydalanuvchi konfiguratsiyasi o'rniga konfiguratsiya faylidan foydalaning"
+"Foydalanuvchi konfiguratsiyasi oʻrniga konfiguratsiya faylidan foydalaning"
 
 #: src/librygel-core/rygel-cmdline-config.vala:74
 msgid "Shut down remote Rygel reference"
-msgstr "Masofaviy Rygel ma'lumotnomasini o'chiring"
+msgstr "Masofaviy Rygel ma'lumotnomasini oʻchiring"
 
 #: src/librygel-core/rygel-cmdline-config.vala:98
 #: src/librygel-core/rygel-cmdline-config.vala:107
@@ -288,7 +290,7 @@ msgstr "Yaroqsiz ulanish ma'lumotnomasi"
 #: src/librygel-core/rygel-description-file.vala:494
 #, c-format
 msgid "Failed to write modified description to %s"
-msgstr "O‘zgartirilgan tavsifni %s ga yozib bo‘lmadi"
+msgstr "Oʻzgartirilgan tavsifni %s ga yozib boʻlmadi"
 
 #: src/librygel-core/rygel-energy-management-helper.c:55
 #, c-format
@@ -302,7 +304,7 @@ msgstr "%s uchun MAC manzili olinmadi: %s"
 
 #: src/librygel-core/rygel-energy-management-helper.c:104
 msgid "MAC and network type querying not implemented"
-msgstr "MAC va tarmoq turi so'rovi amalga oshirilmagan"
+msgstr "MAC va tarmoq turi soʻrovi amalga oshirilmagan"
 
 #: src/librygel-core/rygel-log-handler.vala:68
 #, c-format
@@ -352,7 +354,7 @@ msgstr "%s nomli modul allaqachon yuklangan"
 #: src/librygel-core/rygel-plugin-loader.vala:118
 #, c-format
 msgid "Failed to load module from path “%s”: %s"
-msgstr "“%s” yo‘lidan modulni yuklab bo‘lmadi: %s"
+msgstr "“%s” yoʻlidan modulni yuklab boʻlmadi: %s"
 
 #: src/librygel-core/rygel-plugin-loader.vala:128
 #, c-format
@@ -367,7 +369,7 @@ msgstr "“%s” moduli allaqachon yuklangan “%s” moduliga zid. Oʻtkazib yu
 #: src/librygel-core/rygel-recursive-module-loader.vala:70
 #, c-format
 msgid "Failed to open plugins folder: “%s”"
-msgstr "Plaginlar jildini ochib bo‘lmadi: “%s”"
+msgstr "Plaginlar jildini ochib boʻlmadi: “%s”"
 
 #: src/librygel-core/rygel-recursive-module-loader.vala:160
 #, c-format
@@ -388,7 +390,7 @@ msgstr "“%s” uchun kontent turini soʻrash amalga oshmadi"
 #: src/librygel-core/rygel-user-config.vala:246
 #, c-format
 msgid "Failed to load user configuration from file “%s”: %s"
-msgstr "“%s” faylidan foydalanuvchi konfiguratsiyasini yuklab bo‘lmadi: %s"
+msgstr "“%s” faylidan foydalanuvchi konfiguratsiyasini yuklab boʻlmadi: %s"
 
 #: src/librygel-core/rygel-user-config.vala:299
 #, c-format
@@ -420,7 +422,7 @@ msgid ""
 "Your GStreamer installation seems to be missing the “playbin3” element. The "
 "Rygel GStreamer renderer implementation cannot work without it"
 msgstr ""
-"GStreamer o‘rnatishingizda “playbin3” elementi yo‘qdek. Rygel GStreamer "
+"GStreamer oʻrnatishingizda “playbin3” elementi yoʻqdek. Rygel GStreamer "
 "renderer ilovasi usiz ishlamaydi"
 
 #: src/librygel-renderer/rygel-av-transport.vala:204
@@ -430,7 +432,7 @@ msgstr "InstanceID yaroqsiz"
 
 #: src/librygel-renderer/rygel-av-transport.vala:474
 msgid "Play speed not supported"
-msgstr "O‘yin tezligi qo‘llab-quvvatlanmaydi"
+msgstr "Oʻyin tezligi qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-renderer/rygel-av-transport.vala:481
 #: src/librygel-renderer/rygel-av-transport.vala:499
@@ -441,7 +443,7 @@ msgstr "Oʻtish mavjud emas"
 #: src/librygel-renderer/rygel-av-transport.vala:554
 #: src/librygel-renderer/rygel-av-transport.vala:584
 msgid "Seek mode not supported"
-msgstr "Qidiruv rejimi qo'llab-quvvatlanmaydi"
+msgstr "Qidiruv rejimi qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-renderer/rygel-av-transport.vala:535
 #: src/librygel-renderer/rygel-av-transport.vala:560
@@ -453,7 +455,7 @@ msgstr "Noqonuniy maqsadni qidirish"
 
 #: src/librygel-renderer/rygel-av-transport.vala:659
 msgid "Play mode not supported"
-msgstr "Ijro rejimi qo‘llab-quvvatlanmaydi"
+msgstr "Ijro rejimi qoʻllab-quvvatlanmaydi"
 
 #. FIXME: Return a more sensible error here.
 #: src/librygel-renderer/rygel-av-transport.vala:773
@@ -476,7 +478,7 @@ msgstr "Pleylistni tahlil qilishda muammo: %s"
 #: src/librygel-renderer/rygel-av-transport.vala:894
 #, c-format
 msgid "Failed to access resource at %s: %s"
-msgstr "Resursga kirish imkoni bo‘lmadi: %s: %s"
+msgstr "Resursga kirish imkoni boʻlmadi: %s: %s"
 
 #: src/librygel-renderer/rygel-av-transport.vala:875
 msgid "Illegal MIME-type"
@@ -484,7 +486,7 @@ msgstr "Noqonuniy MIME turi"
 
 #: src/librygel-renderer/rygel-rendering-control.vala:168
 msgid "Invalid Name"
-msgstr "Nomi noto‘g‘ri"
+msgstr "Nomi notoʻgʻri"
 
 #: src/librygel-renderer/rygel-rendering-control.vala:182
 msgid "Invalid Channel"
@@ -504,7 +506,8 @@ msgstr "Belgi maʼlumotlarini tahlil qilib boʻlmadi — kutilmagan tugun: %s"
 #: src/librygel-ruih/rygel-ruih-protocol-elem.vala:42
 #, c-format
 msgid "Unable to parse Protocol data — unexpected attribute: %s"
-msgstr "Protokol maʼlumotlarini tahlil qilib boʻlmadi — kutilmagan atribut: %s"
+msgstr ""
+"Protokol maʼlumotlarini tahlil qilib boʻlmadi — kutilmagan atribut: %s"
 
 #: src/librygel-ruih/rygel-ruih-protocol-elem.vala:63
 #, c-format
@@ -557,15 +560,15 @@ msgstr "Elementdagi bolalarni koʻrib boʻlmaydi"
 #: src/librygel-server/rygel-browse.vala:134
 #, c-format
 msgid "Failed to browse “%s”: %s\n"
-msgstr "“%s”ni ko‘rib chiqish amalga oshmadi: %s\n"
+msgstr "“%s”ni koʻrib chiqish amalga oshmadi: %s\n"
 
 #: src/librygel-server/rygel-client-hacks.vala:151
 msgid "Not Applicable"
-msgstr "Qo'llanilmaydigan, qo'llab bo'lmaydigan"
+msgstr "Qoʻllanilmaydigan, qoʻllab boʻlmaydigan"
 
 #: src/librygel-server/rygel-content-directory.vala:639
 msgid "No such file transfer"
-msgstr "Bunday fayl uzatish yo'q"
+msgstr "Bunday fayl uzatish yoʻq"
 
 #: src/librygel-server/rygel-dbus-thumbnailer.vala:116
 msgid "No D-Bus thumbnailer service available"
@@ -575,21 +578,21 @@ msgstr "D-Bus eskiz xizmati mavjud emas"
 #, c-format
 msgid "Range end value %lld is smaller than range start value %lld: '%s'"
 msgstr ""
-"%lld diapazonining yakuniy qiymati %lld diapazonining boshlang‘ich "
+"%lld diapazonining yakuniy qiymati %lld diapazonining boshlangʻich "
 "qiymatidan kichik: “%s”"
 
 #: src/librygel-server/rygel-http-get.vala:53
 msgid "Invalid Request (only GET and HEAD supported)"
-msgstr "Noto'g'ri so'rov (faqat GET va HEAD qo'llab-quvvatlanadi)"
+msgstr "Notoʻgʻri soʻrov (faqat GET va HEAD qoʻllab-quvvatlanadi)"
 
 #: src/librygel-server/rygel-http-get.vala:61
 msgid " must be 1"
-msgstr " 1 bo'lishi kerak"
+msgstr " 1 boʻlishi kerak"
 
 #: src/librygel-server/rygel-http-get.vala:91
 #, c-format
 msgid "%s transfer mode not supported for '%s'"
-msgstr "“%s” uchun %s uzatish rejimi qo‘llab-quvvatlanmaydi"
+msgstr "“%s” uchun %s uzatish rejimi qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-http-item-uri.vala:152
 #, c-format
@@ -621,7 +624,7 @@ msgstr "%s nuqta faylini koʻchirib boʻlmadi: %s"
 #: src/librygel-server/rygel-http-request.vala:104
 #, c-format
 msgid "Requested item “%s” not found"
-msgstr "So‘ralgan “%s” elementi topilmadi"
+msgstr "Soʻralgan “%s” elementi topilmadi"
 
 #: src/librygel-server/rygel-http-resource-handler.vala:91
 #, c-format
@@ -641,7 +644,7 @@ msgstr "Kontentni import qilish uchun “%s” URI yaroqsiz"
 #: src/librygel-server/rygel-import-resource.vala:250
 #, c-format
 msgid "Failed to import file from %s: %s"
-msgstr "Faylni %s dan import qilib bo‘lmadi: %s"
+msgstr "Faylni %s dan import qilib boʻlmadi: %s"
 
 #. Sorry we can't do anything without the ID
 #: src/librygel-server/rygel-item-destroyer.vala:53
@@ -651,12 +654,12 @@ msgstr "Konteyner identifikatori yetishmayapti"
 #: src/librygel-server/rygel-item-destroyer.vala:60
 #, c-format
 msgid "Successfully destroyed object “%s”"
-msgstr "“%s” obyekti muvaffaqiyatli yo‘q qilindi"
+msgstr "“%s” obyekti muvaffaqiyatli yoʻq qilindi"
 
 #: src/librygel-server/rygel-item-destroyer.vala:68
 #, c-format
 msgid "Failed to destroy object “%s”: %s"
-msgstr "“%s” obyektini yo‘q qilib bo‘lmadi: %s"
+msgstr "“%s” obyektini yoʻq qilib boʻlmadi: %s"
 
 #: src/librygel-server/rygel-item-destroyer.vala:105
 #: src/librygel-server/rygel-item-updater.vala:283
@@ -664,7 +667,7 @@ msgstr "“%s” obyektini yo‘q qilib bo‘lmadi: %s"
 #: src/librygel-server/rygel-reference-creator.vala:68
 #: src/librygel-server/rygel-reference-creator.vala:115
 msgid "No such object"
-msgstr "Bunday ob'ekt yo'q"
+msgstr "Bunday ob'ekt yoʻq"
 
 #: src/librygel-server/rygel-item-destroyer.vala:108
 #, c-format
@@ -689,7 +692,7 @@ msgstr "“%s” obyekti muvaffaqiyatli yangilandi"
 #: src/librygel-server/rygel-item-updater.vala:89
 #, c-format
 msgid "Failed to update object “%s”: %s"
-msgstr "“%s” obyektini yangilab bo‘lmadi: %s"
+msgstr "“%s” obyektini yangilab boʻlmadi: %s"
 
 #: src/librygel-server/rygel-item-updater.vala:162
 #: src/librygel-server/rygel-object-creator.vala:614
@@ -717,7 +720,7 @@ msgstr "Kerakli tegni oʻchirishga harakat qilindi."
 
 #: src/librygel-server/rygel-item-updater.vala:266
 msgid "Tried to change read-only property."
-msgstr "Faqat o'qish xususiyatini o'zgartirishga harakat qildi."
+msgstr "Faqat oʻqish xususiyatini oʻzgartirishga harakat qildi."
 
 #: src/librygel-server/rygel-item-updater.vala:269
 msgid "Parameter count mismatch."
@@ -735,8 +738,8 @@ msgstr "%s obyektining metamaʼlumotlarini oʻzgartirishga ruxsat berilmagan"
 #: src/librygel-server/rygel-item-updater.vala:290
 #, c-format
 msgid ""
-"Metadata modification of object %s being a child of restricted object %s not "
-"allowed"
+"Metadata modification of object %s being a child of restricted object %s not"
+" allowed"
 msgstr ""
 "Cheklangan %s obyektining bolasi boʻlgan %s obyektining metamaʼlumotlarini "
 "oʻzgartirishga ruxsat berilmaydi"
@@ -749,7 +752,7 @@ msgstr "Noma'lum"
 #: src/librygel-server/rygel-media-art-store.vala:111
 #, c-format
 msgid "Failed to add album art for %s: %s"
-msgstr "%s uchun albom rasmini qo‘shib bo‘lmadi: %s"
+msgstr "%s uchun albom rasmini qoʻshib boʻlmadi: %s"
 
 #: src/librygel-server/rygel-media-art-store.vala:125
 #, c-format
@@ -758,15 +761,15 @@ msgstr "%s uchun media art topilmadi: %s"
 
 #: src/librygel-server/rygel-media-container.vala:67
 msgid "Seeking not supported"
-msgstr "Qidiruv qo'llab-quvvatlanmaydi"
+msgstr "Qidiruv qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-media-container.vala:72
 msgid "Speed not supported"
-msgstr "Tezlik qo'llab-quvvatlanmaydi"
+msgstr "Tezlik qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-media-container.vala:123
 msgid "Failed to generate playlist"
-msgstr "Pleylist yaratib bo‘lmadi"
+msgstr "Pleylist yaratib boʻlmadi"
 
 #: src/librygel-server/rygel-media-container.vala:472
 #, c-format
@@ -779,7 +782,7 @@ msgstr "Hech qanday media vosita topilmadi."
 
 #: src/librygel-server/rygel-media-engine.vala:75
 msgid "MediaEngine.init was not called. Cannot continue."
-msgstr "MediaEngine.init chaqirilmadi. Davom etib bo‘lmaydi."
+msgstr "MediaEngine.init chaqirilmadi. Davom etib boʻlmaydi."
 
 #: src/librygel-server/rygel-media-file-item.vala:177
 #: src/librygel-server/rygel-video-item.vala:242
@@ -795,11 +798,11 @@ msgstr "%s protokoli aniqlanmadi"
 #: src/librygel-server/rygel-media-object.vala:491
 #, c-format
 msgid "Bad URI: %s"
-msgstr "Noto'g'ri URI: %s"
+msgstr "Notoʻgʻri URI: %s"
 
 #: src/librygel-server/rygel-media-query-action.vala:100
 msgid "Invalid number of arguments"
-msgstr "Argumentlar soni noto‘g‘ri"
+msgstr "Argumentlar soni notoʻgʻri"
 
 #. Sorry we can't do anything without ObjectID
 #: src/librygel-server/rygel-media-query-action.vala:122
@@ -817,11 +820,11 @@ msgstr "Filtr etishmayapti"
 #: src/librygel-server/rygel-media-query-action.vala:197
 #: src/librygel-server/rygel-object-creator.vala:414
 msgid "No such container"
-msgstr "Bunday konteyner yo'q"
+msgstr "Bunday konteyner yoʻq"
 
 #: src/librygel-server/rygel-object-creator.vala:150
 msgid "upnp:createClass value not supported"
-msgstr "upnp:createClass qiymati qo'llab-quvvatlanmaydi"
+msgstr "upnp:createClass qiymati qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-object-creator.vala:193
 msgid "“Elements” argument missing."
@@ -839,36 +842,36 @@ msgstr "ContainerID argumenti etishmayapti"
 #: src/librygel-server/rygel-object-creator.vala:226
 #, c-format
 msgid "No objects in DIDL-Lite from client: “%s”"
-msgstr "Mijozdan DIDL-Lite-da hech qanday ob'ekt yo'q: “%s”"
+msgstr "Mijozdan DIDL-Lite-da hech qanday ob'ekt yoʻq: “%s”"
 
 #: src/librygel-server/rygel-object-creator.vala:233
 msgid "@id must be set to \"\" in CreateObject call"
-msgstr "CreateObject chaqiruvida @id \"\" ga o'rnatilishi kerak"
+msgstr "CreateObject chaqiruvida @id \"\" ga oʻrnatilishi kerak"
 
 #: src/librygel-server/rygel-object-creator.vala:238
 msgid "dc:title must not be empty in CreateObject call"
-msgstr "CreateObject chaqiruvida dc:title bo'sh bo'lmasligi kerak"
+msgstr "CreateObject chaqiruvida dc:title boʻsh boʻlmasligi kerak"
 
 #: src/librygel-server/rygel-object-creator.vala:249
 msgid "Flags that must not be set were found in “dlnaManaged”"
-msgstr "O'rnatilmasligi kerak bo'lgan bayroqlar \"dlnaManaged\" da topildi"
+msgstr "Oʻrnatilmasligi kerak boʻlgan bayroqlar \"dlnaManaged\" da topildi"
 
 #: src/librygel-server/rygel-object-creator.vala:257
 msgid "Invalid upnp:class given in CreateObject"
-msgstr "CreateObject da berilgan noto'g'ri upnp:class"
+msgstr "CreateObject da berilgan notoʻgʻri upnp:class"
 
 #: src/librygel-server/rygel-object-creator.vala:261
 msgid "Object is missing the @restricted attribute"
-msgstr "Ob'ektda @restricted atributi yo'q"
+msgstr "Ob'ektda @restricted atributi yoʻq"
 
 #: src/librygel-server/rygel-object-creator.vala:268
 msgid "Cannot create restricted item"
-msgstr "Cheklangan element yaratib bo‘lmaydi"
+msgstr "Cheklangan element yaratib boʻlmaydi"
 
 #: src/librygel-server/rygel-object-creator.vala:385
 #, c-format
 msgid "UPnP class “%s” not supported"
-msgstr "“%s” UPnP sinfi qo‘llab-quvvatlanmaydi"
+msgstr "“%s” UPnP sinfi qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-object-creator.vala:419
 #: src/librygel-server/rygel-object-creator.vala:431
@@ -881,17 +884,17 @@ msgstr "%s da obyekt yaratishga ruxsat berilmagan"
 #: src/librygel-server/rygel-object-creator.vala:476
 #, c-format
 msgid "Failed to create item under “%s”: %s"
-msgstr "“%s” ostida element yaratib bo‘lmadi: %s"
+msgstr "“%s” ostida element yaratib boʻlmadi: %s"
 
 #: src/librygel-server/rygel-object-creator.vala:552
 #, c-format
 msgid "DLNA profile “%s” not supported"
-msgstr "“%s” DLNA profili qo‘llab-quvvatlanmaydi"
+msgstr "“%s” DLNA profili qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-object-creator.vala:656
 #, c-format
 msgid "Cannot create object of class “%s”: Not supported"
-msgstr "“%s” sinfi obyektini yaratib bo‘lmadi: qo‘llab-quvvatlanmaydi"
+msgstr "“%s” sinfi obyektini yaratib boʻlmadi: qoʻllab-quvvatlanmaydi"
 
 #: src/librygel-server/rygel-object-creator.vala:752
 #, c-format
@@ -899,7 +902,7 @@ msgid ""
 "Error from container “%s” on trying to find the newly added child object "
 "“%s” in it: %s"
 msgstr ""
-"“%s” konteyneridan yangi qo‘shilgan “%s” kichik obyektini topishda xatolik "
+"“%s” konteyneridan yangi qoʻshilgan “%s” kichik obyektini topishda xatolik "
 "yuz berdi: %s"
 
 #: src/librygel-server/rygel-reference-creator.vala:50
@@ -913,16 +916,16 @@ msgstr "“ObjectID” argumenti yetishmayapti."
 #: src/librygel-server/rygel-reference-creator.vala:86
 #, c-format
 msgid "Failed to create object under “%s”: %s"
-msgstr "“%s” ostida obyekt yaratib bo‘lmadi: %s"
+msgstr "“%s” ostida obyekt yaratib boʻlmadi: %s"
 
 #: src/librygel-server/rygel-search.vala:70
 msgid "Invalid search criteria given"
-msgstr "Qidiruv mezonlari noto‘g‘ri berilgan"
+msgstr "Qidiruv mezonlari notoʻgʻri berilgan"
 
 #: src/librygel-server/rygel-search.vala:94
 #, c-format
 msgid "Failed to search in “%s”: %s"
-msgstr "“%s” ichida qidirib bo‘lmadi: %s"
+msgstr "“%s” ichida qidirib boʻlmadi: %s"
 
 #: src/librygel-server/rygel-subtitle-manager.vala:49
 #: src/librygel-server/rygel-subtitle-manager.vala:96
@@ -936,7 +939,7 @@ msgstr "Hech qanday eskiz mavjud emas: %s"
 
 #: src/librygel-server/rygel-thumbnailer.vala:74
 msgid "Thumbnailing not supported"
-msgstr "Eskiz qo‘llab-quvvatlanmaydi"
+msgstr "Eskiz qoʻllab-quvvatlanmaydi"
 
 #. Thumbnailing failed previously, so there's no current thumbnail
 #. and it doesn't make any sense to request one.
@@ -948,7 +951,7 @@ msgstr "Hech qanday eskiz mavjud emas"
 
 #: src/librygel-server/rygel-thumbnailer.vala:97
 msgid "No thumbnail available. Generation requested."
-msgstr "Hech qanday eskiz mavjud emas. Avlod so'raldi."
+msgstr "Hech qanday eskiz mavjud emas. Avlod soʻraldi."
 
 #: src/librygel-server/rygel-thumbnailer.vala:132
 msgid "No D-Bus thumbnailer available"
@@ -957,12 +960,12 @@ msgstr "D-Bus eskizi mavjud emas"
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:46
 #, c-format
 msgid "Could not create GstElement for URI %s"
-msgstr "%s URI uchun GstElement yaratib bo‘lmadi"
+msgstr "%s URI uchun GstElement yaratib boʻlmadi"
 
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:78
 #: src/media-engines/simple/rygel-simple-data-source.vala:84
 msgid "Playspeed not supported"
-msgstr "O'yin tezligi qo'llab-quvvatlanmaydi"
+msgstr "Oʻyin tezligi qoʻllab-quvvatlanmaydi"
 
 #. Unknown/unsupported seek type
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:108
@@ -972,7 +975,7 @@ msgstr "HTTPSeekRequest turi %s qoʻllab-quvvatlanmaydi"
 
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:152
 msgid "Failed to create pipeline"
-msgstr "Quvurni yaratib bo‘lmadi"
+msgstr "Quvurni yaratib boʻlmadi"
 
 #. static pads? easy!
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:163
@@ -984,7 +987,7 @@ msgstr "%s %s ga ulanmadi"
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:198
 #, c-format
 msgid "Failed to link pad %s to %s"
-msgstr "%s padini %s bilan bog‘lab bo‘lmadi"
+msgstr "%s padini %s bilan bogʻlab boʻlmadi"
 
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:263
 #, c-format
@@ -998,7 +1001,7 @@ msgstr "%s quvur liniyasidan ogohlantirish: %s"
 
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:323
 msgid "Unsupported seek type"
-msgstr "Qo'llab-quvvatlanmaydigan qidiruv turi"
+msgstr "Qoʻllab-quvvatlanmaydigan qidiruv turi"
 
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:340
 #, c-format
@@ -1007,7 +1010,7 @@ msgstr "%lld:%lld ofsetlarini izlab boʻlmadi"
 
 #: src/media-engines/gstreamer/rygel-gst-data-source.vala:342
 msgid "Failed to seek"
-msgstr "Qidirib bo'lmadi"
+msgstr "Qidirib boʻlmadi"
 
 #: src/media-engines/gstreamer/rygel-gst-media-engine.vala:131
 #, c-format
@@ -1029,8 +1032,8 @@ msgid ""
 "Could not create a transcoder configuration. Your GStreamer installation "
 "might be missing a plug-in"
 msgstr ""
-"Transkoder konfiguratsiyasi yaratilmadi. GStreamer o'rnatishingizda plagin "
-"etishmayotgan bo'lishi mumkin"
+"Transkoder konfiguratsiyasi yaratilmadi. GStreamer oʻrnatishingizda plagin "
+"etishmayotgan boʻlishi mumkin"
 
 #: src/media-engines/gstreamer/rygel-gst-utils.vala:39
 #, c-format
@@ -1040,12 +1043,12 @@ msgstr "Majburiy element %s yetishmayapti"
 #: src/media-engines/gstreamer/rygel-gst-utils.vala:58
 msgid "GStreamer element “dvdreadsrc” not found. DVD support does not work"
 msgstr ""
-"GStreamer elementi \"dvdreadsrc\" topilmadi. DVD qo'llab-quvvatlash "
+"GStreamer elementi \"dvdreadsrc\" topilmadi. DVD qoʻllab-quvvatlash "
 "ishlamaydi"
 
 #: src/media-engines/simple/rygel-simple-data-source.vala:64
 msgid "Only byte-based seek supported"
-msgstr "Faqat baytga asoslangan qidiruv qo'llab-quvvatlanadi"
+msgstr "Faqat baytga asoslangan qidiruv qoʻllab-quvvatlanadi"
 
 #: src/media-engines/simple/rygel-simple-media-engine.vala:57
 #: src/media-engines/simple/rygel-simple-media-engine.vala:99
@@ -1058,7 +1061,8 @@ msgstr ""
 #: src/plugins/mpris/rygel-mpris-plugin-factory.vala:35
 #, c-format
 msgid "Module “%s” could not connect to D-Bus session bus. Ignoring…"
-msgstr "“%s” moduli D-Bus seans avtobusiga ulanib bo‘lmadi. E'tibor bermaslik…"
+msgstr ""
+"“%s” moduli D-Bus seans avtobusiga ulanib boʻlmadi. E'tibor bermaslik…"
 
 #: src/plugins/external/rygel-external-variant-util.vala:23
 #, c-format
@@ -1074,12 +1078,12 @@ msgstr "Sarlavha %d"
 msgid ""
 "Failed to find lsdvd binary in path. DVD extraction will not be available"
 msgstr ""
-"Yo'lda lsdvd ikkilik faylini topib bo'lmadi. DVD ekstraktsiyasi mavjud "
-"bo'lmaydi"
+"Yoʻlda lsdvd ikkilik faylini topib boʻlmadi. DVD ekstraktsiyasi mavjud "
+"boʻlmaydi"
 
 #: src/plugins/media-export/rygel-media-export-extract.vala:73
 msgid "Invalid command received, ignoring"
-msgstr "Qabul qilingan buyruq noto'g'ri, e'tiborsiz"
+msgstr "Qabul qilingan buyruq notoʻgʻri, e'tiborsiz"
 
 #: src/plugins/media-export/rygel-media-export-extract.vala:90
 #, c-format
@@ -1089,7 +1093,7 @@ msgstr "%s URI topilmadi: %s"
 #: src/plugins/media-export/rygel-media-export-extract.vala:105
 #, c-format
 msgid "Failed to read from pipe: %s"
-msgstr "Quvurdan o‘qib bo‘lmadi: %s"
+msgstr "Quvurdan oʻqib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-extract.vala:132
 #: src/plugins/media-export/rygel-media-export-extract.vala:144
@@ -1109,7 +1113,7 @@ msgstr "Buyruqlar qatorini tahlil qilib boʻlmadi: %s"
 #: src/plugins/media-export/rygel-media-export-generic-extractor.vala:50
 #, c-format
 msgid "Failed to create media art extractor: %s"
-msgstr "Media art ekstraktor yaratib bo‘lmadi: %s"
+msgstr "Media art ekstraktor yaratib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-harvester.vala:158
 #, c-format
@@ -1140,7 +1144,7 @@ msgstr "Ob'ektni ma'lumotlar bazasidan olib tashlashda xatolik yuz berdi: %s"
 #: src/plugins/media-export/rygel-media-export-harvesting-task.vala:128
 #, c-format
 msgid "Failed to harvest file %s: %s"
-msgstr "%s faylini yig‘ib bo‘lmadi: %s"
+msgstr "%s faylini yigʻib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-harvesting-task.vala:194
 #, c-format
@@ -1150,12 +1154,12 @@ msgstr "Maʼlumotlar bazasi soʻrovi amalga oshmadi: %s"
 #: src/plugins/media-export/rygel-media-export-harvesting-task.vala:275
 #, c-format
 msgid "Failed to enumerate folder “%s”: %s"
-msgstr "“%s” jildini sanab bo‘lmadi: %s"
+msgstr "“%s” jildini sanab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-harvesting-task.vala:293
 #, c-format
 msgid "Failed to get children of container %s: %s"
-msgstr "%s konteynerining bolalarini olib bo‘lmadi: %s"
+msgstr "%s konteynerining bolalarini olib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-harvesting-task.vala:352
 #, c-format
@@ -1173,7 +1177,7 @@ msgstr "%s URI oʻtkazib yuborilmoqda; Ekstraksiya butunlay bajarilmadi: %s"
 #: src/plugins/media-export/rygel-media-export-leaf-query-container.vala:62
 #, c-format
 msgid "Failed to get child count of query container: %s"
-msgstr "So‘rovlar konteynerining bolalar soni olinmadi: %s"
+msgstr "Soʻrovlar konteynerining bolalar soni olinmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache-upgrader.vala:67
 #, c-format
@@ -1183,12 +1187,12 @@ msgstr "Reindex maʼlumotlar bazasini tuzatishga majburlab boʻlmadi: %s"
 #: src/plugins/media-export/rygel-media-export-media-cache-upgrader.vala:78
 #, c-format
 msgid "Failed to create indices: %s"
-msgstr "Indekslarni yaratib bo‘lmadi: %s"
+msgstr "Indekslarni yaratib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache-upgrader.vala:97
 #, c-format
 msgid "Cannot upgrade from version %d"
-msgstr "%d versiyasidan yangilanib bo‘lmadi"
+msgstr "%d versiyasidan yangilanib boʻlmadi"
 
 #: src/plugins/media-export/rygel-media-export-media-cache-upgrader.vala:117
 #, c-format
@@ -1198,7 +1202,7 @@ msgstr "Maʼlumotlar bazasini v18 versiyasiga yangilab boʻlmadi: %s"
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:135
 #, c-format
 msgid "Failed to add item with ID %s: %s"
-msgstr "%s identifikatorli element qo‘shib bo‘lmadi: %s"
+msgstr "%s identifikatorli element qoʻshib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:218
 #, c-format
@@ -1222,21 +1226,21 @@ msgstr "ServiceResetToken davom etib boʻlmadi: %s"
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:548
 #, c-format
 msgid "Failed to remove virtual folders: %s"
-msgstr "Virtual jildlarni olib tashlab bo‘lmadi: %s"
+msgstr "Virtual jildlarni olib tashlab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:562
 #, c-format
 msgid "Failed to mark item %s as guarded (%d): %s"
-msgstr "%s bandini himoyalangan (%d) deb belgilab bo‘lmadi: %s"
+msgstr "%s bandini himoyalangan (%d) deb belgilab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:572
 msgid "Cannot create references to containers"
-msgstr "Konteynerlarga havolalar yaratib bo‘lmaydi"
+msgstr "Konteynerlarga havolalar yaratib boʻlmaydi"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:598
 #, c-format
 msgid "Failed to add %s to ignored files: %s"
-msgstr "E’tibor berilmagan fayllarga %s qo‘shib bo‘lmadi: %s"
+msgstr "E’tibor berilmagan fayllarga %s qoʻshib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:611
 #, c-format
@@ -1259,13 +1263,14 @@ msgstr ""
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:689
 msgid "Incompatible schema… cannot proceed"
-msgstr "Mos kelmaydigan sxema… davom ettirib bo‘lmaydi"
+msgstr "Mos kelmaydigan sxema… davom ettirib boʻlmaydi"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:695
 #, c-format
 msgid "Invalid database, cannot query sqlite_master table: %s"
 msgstr ""
-"Maʼlumotlar bazasi notoʻgʻri, sqlite_master jadvalini soʻrash mumkin emas: %s"
+"Maʼlumotlar bazasi notoʻgʻri, sqlite_master jadvalini soʻrash mumkin emas: "
+"%s"
 
 #: src/plugins/media-export/rygel-media-export-media-cache.vala:896
 #, c-format
@@ -1279,7 +1284,7 @@ msgstr "Qoʻllab-quvvatlanmaydigan saralash maydoni oʻtkazib yuborilmoqda: %s"
 
 #: src/plugins/media-export/rygel-media-export-metadata-extractor.vala:104
 msgid "Failed to gracefully stop the process. Using KILL"
-msgstr "Jarayonni to'xtatib bo'lmadi. KILL dan foydalanish"
+msgstr "Jarayonni toʻxtatib boʻlmadi. KILL dan foydalanish"
 
 #. Process exitted properly -> That shouldn't really
 #. happen
@@ -1296,12 +1301,12 @@ msgstr "URI %s bilan ishlashda jarayon tugadi"
 #: src/plugins/media-export/rygel-media-export-metadata-extractor.vala:164
 #, c-format
 msgid "Setting up extraction subprocess failed: %s"
-msgstr "Ekstraksiya quyi jarayonini o‘rnatib bo‘lmadi: %s"
+msgstr "Ekstraksiya quyi jarayonini oʻrnatib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-metadata-extractor.vala:186
 #, c-format
 msgid "Received invalid string from child: %s"
-msgstr "Boladan noto'g'ri qator qabul qilindi: %s"
+msgstr "Boladan notoʻgʻri qator qabul qilindi: %s"
 
 #: src/plugins/media-export/rygel-media-export-metadata-extractor.vala:193
 #, c-format
@@ -1318,7 +1323,7 @@ msgstr "Boladan oʻqish amalga oshmadi: %s"
 #: src/plugins/media-export/rygel-media-export-metadata-extractor.vala:270
 #, c-format
 msgid "Failed to send command to child: %s"
-msgstr "Bolaga buyruq yuborib bo‘lmadi: %s"
+msgstr "Bolaga buyruq yuborib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-node-query-container.vala:63
 #: src/plugins/media-export/rygel-media-export-root-container.vala:33
@@ -1334,7 +1339,7 @@ msgstr "Bolalar soni olinmadi: %s"
 #: src/plugins/media-export/rygel-media-export-playlist-root-container.vala:75
 #, c-format
 msgid "Can’t create items in %s"
-msgstr "%s ichida elementlar yaratib bo‘lmadi"
+msgstr "%s ichida elementlar yaratib boʻlmadi"
 
 #: src/plugins/media-export/rygel-media-export-playlist-container.vala:91
 #, c-format
@@ -1368,7 +1373,7 @@ msgstr "%s plaginini yuklab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-recursive-file-monitor.vala:36
 msgid "Will not monitor file changes"
-msgstr "Fayl o'zgarishlarini kuzatmaydi"
+msgstr "Fayl oʻzgarishlarini kuzatmaydi"
 
 #. Avoid warning when file is removed in the meantime, e.g. in
 #. upload case.
@@ -1403,7 +1408,8 @@ msgstr "Janr"
 msgid "Files & Folders"
 msgstr "Fayllar va papkalar"
 
-#. translators: @REALNAME@ is substituted for user's real name and it doesn't need translation.
+#. translators: @REALNAME@ is substituted for user's real name and it doesn't
+#. need translation.
 #: src/plugins/media-export/rygel-media-export-root-container.vala:366
 #: src/plugins/localsearch/localsearch-plugin.vala:34
 msgid "@REALNAME@’s media"
@@ -1413,7 +1419,7 @@ msgstr "@REALNAME@ mediasi"
 #: src/plugins/media-export/rygel-media-export-root-container.vala:524
 #, c-format
 msgid "Failed to remove entry: %s"
-msgstr "Yozuvni olib tashlab bo‘lmadi: %s"
+msgstr "Yozuvni olib tashlab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-root-container.vala:605
 msgid "Music"
@@ -1431,17 +1437,17 @@ msgstr "Videolar"
 #: src/plugins/media-export/rygel-media-export-trackable-db-container.vala:64
 #, c-format
 msgid "Failed to save object: %s"
-msgstr "Ob'ektni saqlab bo'lmadi: %s"
+msgstr "Ob'ektni saqlab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-trackable-db-container.vala:79
 #, c-format
 msgid "Failed to add object: %s"
-msgstr "Ob'ektni qo'shib bo'lmadi: %s"
+msgstr "Ob'ektni qoʻshib boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-trackable-db-container.vala:87
 #, c-format
 msgid "Failed to remove object: %s"
-msgstr "Ob'ektni olib tashlab bo'lmadi: %s"
+msgstr "Ob'ektni olib tashlab boʻlmadi: %s"
 
 #: src/plugins/media-export/rygel-media-export-writable-db-container.vala:108
 #, c-format
@@ -1456,15 +1462,15 @@ msgstr "Keshda %d obyekti topilmadi"
 #: src/plugins/mpris/rygel-mpris-plugin-factory.vala:131
 #, c-format
 msgid "MPRIS interface at %s is read-only. Ignoring."
-msgstr "%sdagi MPRIS interfeysi faqat o‘qish uchun. E'tibor bermaslik."
+msgstr "%sdagi MPRIS interfeysi faqat oʻqish uchun. E'tibor bermaslik."
 
 #: src/plugins/playbin/rygel-playbin-plugin.vala:35
 msgid "GStreamer Player"
-msgstr "GStreamer o'yinchisi"
+msgstr "GStreamer oʻyinchisi"
 
 #: src/plugins/playbin/rygel-playbin-plugin.vala:43
 msgid "Could not create GStreamer player"
-msgstr "GStreamer pleyerini yaratib bo‘lmadi"
+msgstr "GStreamer pleyerini yaratib boʻlmadi"
 
 #: src/plugins/localsearch/localsearch-albums.vala:31
 msgid "Albums"
@@ -1477,7 +1483,7 @@ msgstr "Rassomlar"
 #: src/plugins/localsearch/localsearch-category-all-container.vala:56
 #, c-format
 msgid "Failed to construct URI for folder “%s”: %s"
-msgstr "“%s” jild uchun URI yaratib bo‘lmadi: %s"
+msgstr "“%s” jild uchun URI yaratib boʻlmadi: %s"
 
 #: src/plugins/localsearch/localsearch-category-all-container.vala:67
 #, fuzzy, c-format
@@ -1487,7 +1493,7 @@ msgstr "Tracker signallariga obuna boʻlmadi: %s"
 
 #: src/plugins/localsearch/localsearch-category-all-container.vala:92
 msgid "Not supported"
-msgstr "Qo’llab-quvvatlanmaydi"
+msgstr "Qoʻllab-quvvatlanmaydi"
 
 #: src/plugins/localsearch/localsearch-metadata-container.vala:99
 #, c-format
@@ -1498,7 +1504,7 @@ msgstr "“%s” uchun barcha qiymatlarni olishda xatolik yuz berdi: %s"
 #, fuzzy, c-format
 #| msgid "Failed to start Tracker service: %s. Plugin disabled."
 msgid "Failed to start LocalSearch service: %s. Plugin disabled."
-msgstr "Tracker xizmati ishga tushmadi: %s. Plagin o'chirilgan."
+msgstr "Tracker xizmati ishga tushmadi: %s. Plagin oʻchirilgan."
 
 #: src/plugins/localsearch/localsearch-root-container.vala:46
 #, c-format
@@ -1543,7 +1549,7 @@ msgstr "Ildiz qurilma zavodini yaratib boʻlmadi: %s"
 #: src/rygel/rygel-acl.vala:110
 #, c-format
 msgid "Failed to query ACL: %s"
-msgstr "ACL so‘rovi amalga oshmadi: %s"
+msgstr "ACL soʻrovi amalga oshmadi: %s"
 
 #: src/rygel/rygel-acl.vala:127
 #, c-format
@@ -1557,13 +1563,12 @@ msgstr ""
 
 #: src/rygel/rygel-acl.vala:147
 msgid "No ACL fallback policy found. Using “deny”"
-msgstr ""
-"Hech qanday ACL zaxira siyosati topilmadi. \"Rad etish\" dan foydalanish"
+msgstr "Hech qanday ACL zaxira siyosati topilmadi. \"Rad etish\" dan foydalanish"
 
 #: src/ui/rygel-preferences-dialog.vala:100
 #, c-format
 msgid "Failed to create preferences dialog: %s"
-msgstr "Parametrlar dialogini yaratib bo‘lmadi: %s"
+msgstr "Parametrlar dialogini yaratib boʻlmadi: %s"
 
 #: src/ui/rygel-writable-user-config.vala:119
 #, c-format
@@ -1578,4 +1583,4 @@ msgstr "Rygel xizmati ishga tushmadi: %s"
 #: src/ui/rygel-writable-user-config.vala:216
 #, c-format
 msgid "Failed to stop Rygel service: %s"
-msgstr "Rygel xizmatini to‘xtatib bo‘lmadi: %s"
+msgstr "Rygel xizmatini toʻxtatib boʻlmadi: %s"

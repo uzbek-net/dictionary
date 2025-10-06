@@ -30,14 +30,15 @@ msgid "Clocks for world times, plus alarms, stopwatch and a timer"
 msgstr ""
 "Dunyo vaqtlari uchun soatlar, shuningdek signallar, sekundomer va taymer"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.clocks.desktop.in.in:6
 msgid "time;timer;alarm;world clock;stopwatch;time zone;"
 msgstr "vaqt;taymer;signal;jahon soati;sekundomer;vaqt zonasi;"
 
 #: data/org.gnome.clocks.desktop.in.in:16
 msgid "Allows world clocks to be displayed for your time zone."
-msgstr "Vaqt mintaqangiz uchun jahon soatlarini ko'rsatishga imkon beradi."
+msgstr "Vaqt mintaqangiz uchun jahon soatlarini koʻrsatishga imkon beradi."
 
 #: data/org.gnome.clocks.gschema.xml.in:5
 msgid "Configured world clocks"
@@ -45,7 +46,7 @@ msgstr "Sozlangan dunyo soatlari"
 
 #: data/org.gnome.clocks.gschema.xml.in:6
 msgid "List of world clocks to show."
-msgstr "Ko'rsatish uchun dunyo soatlari ro'yxati."
+msgstr "Koʻrsatish uchun dunyo soatlari roʻyxati."
 
 #: data/org.gnome.clocks.gschema.xml.in:12
 msgid "Configured alarms"
@@ -53,7 +54,7 @@ msgstr "Sozlangan signallar"
 
 #: data/org.gnome.clocks.gschema.xml.in:13
 msgid "List of alarms set."
-msgstr "O'rnatilgan signallar ro'yxati."
+msgstr "Oʻrnatilgan signallar roʻyxati."
 
 #: data/org.gnome.clocks.gschema.xml.in:19
 msgid "Configured Timers"
@@ -61,15 +62,15 @@ msgstr "Sozlangan taymerlar"
 
 #: data/org.gnome.clocks.gschema.xml.in:20
 msgid "List of timers set."
-msgstr "O’rnatilgan taymerlar ro’yxati."
+msgstr "Oʻrnatilgan taymerlar roʻyxati."
 
 #: data/org.gnome.clocks.gschema.xml.in:26
 msgid "Geolocation support"
-msgstr "Geolokatsiyani qo’llab-quvvatlash"
+msgstr "Geolokatsiyani qoʻllab-quvvatlash"
 
 #: data/org.gnome.clocks.gschema.xml.in:27
 msgid "Turn geolocation support on and off."
-msgstr "Geolokatsiyani qo’llab-quvvatlashni yoqing va o’chiring."
+msgstr "Geolokatsiyani qoʻllab-quvvatlashni yoqing va oʻchiring."
 
 #: data/org.gnome.clocks.gschema.xml.in:44
 msgid "Window maximized"
@@ -77,7 +78,7 @@ msgstr "Kattalashgan oyna"
 
 #: data/org.gnome.clocks.gschema.xml.in:45
 msgid "Whether the window is maximized."
-msgstr "Deraza kattalashtirilganmi yoki yo’qmi."
+msgstr "Deraza kattalashtirilganmi yoki yoʻqmi."
 
 #: data/org.gnome.clocks.gschema.xml.in:51
 msgid "Window width and height"
@@ -105,23 +106,23 @@ msgid ""
 "stopwatch, and timers."
 msgstr ""
 "Oddiy va oqlangan soat ilovasi. U dunyo soatlari, signallar, sekundomer va "
-"taymerlarni o’z ichiga oladi."
+"taymerlarni oʻz ichiga oladi."
 
 #: data/org.gnome.clocks.metainfo.xml.in.in:14
 msgid "Show the time in different cities around the world"
-msgstr "Dunyoning turli shaharlaridagi vaqtni ko’rsating"
+msgstr "Dunyoning turli shaharlaridagi vaqtni koʻrsating"
 
 #: data/org.gnome.clocks.metainfo.xml.in.in:15
 msgid "Set alarms to wake you up"
-msgstr "Sizni uyg’otish uchun signallarni o’rnating"
+msgstr "Sizni uygʻotish uchun signallarni oʻrnating"
 
 #: data/org.gnome.clocks.metainfo.xml.in.in:16
 msgid "Measure elapsed time with an accurate stopwatch"
-msgstr "O’tgan vaqtni aniq sekundomer bilan o’lchang"
+msgstr "Oʻtgan vaqtni aniq sekundomer bilan oʻlchang"
 
 #: data/org.gnome.clocks.metainfo.xml.in.in:17
 msgid "Set timers to properly cook your food"
-msgstr "Ovqatni to’g’ri pishirish uchun taymerlarni o’rnating"
+msgstr "Ovqatni toʻgʻri pishirish uchun taymerlarni oʻrnating"
 
 #: data/org.gnome.clocks.metainfo.xml.in.in:34
 msgid "Initial screen"
@@ -184,7 +185,7 @@ msgstr "_Bekor qilish"
 
 #: data/ui/alarm-setup-dialog.ui:23 data/ui/world-location-dialog.ui:24
 msgid "_Add"
-msgstr "_Qo’shish"
+msgstr "_Qoʻshish"
 
 #: data/ui/alarm-setup-dialog.ui:38
 msgid "You already have an alarm for this time"
@@ -250,32 +251,32 @@ msgstr "Chiqish"
 #: data/ui/shortcuts-dialog.ui:34
 msgctxt "shortcut window"
 msgid "Go to the Next Section"
-msgstr "Keyingi bo’limga o’ting"
+msgstr "Keyingi boʻlimga oʻting"
 
 #: data/ui/shortcuts-dialog.ui:40
 msgctxt "shortcut window"
 msgid "Go to the Previous Section"
-msgstr "Oldingi bo’limga o’ting"
+msgstr "Oldingi boʻlimga oʻting"
 
 #: data/ui/shortcuts-dialog.ui:46
 msgctxt "shortcut window"
 msgid "Go to the World Section"
-msgstr "Dunyo bo’limiga o’ting"
+msgstr "Dunyo boʻlimiga oʻting"
 
 #: data/ui/shortcuts-dialog.ui:52
 msgctxt "shortcut window"
 msgid "Go to the Alarms Section"
-msgstr "Signallar bo’limiga o’ting"
+msgstr "Signallar boʻlimiga oʻting"
 
 #: data/ui/shortcuts-dialog.ui:58
 msgctxt "shortcut window"
 msgid "Go to the Stopwatch Section"
-msgstr "Sekundomer bo’limiga o’ting"
+msgstr "Sekundomer boʻlimiga oʻting"
 
 #: data/ui/shortcuts-dialog.ui:64
 msgctxt "shortcut window"
 msgid "Go to the Timer Section"
-msgstr "Taymer bo’limiga o’ting"
+msgstr "Taymer boʻlimiga oʻting"
 
 #: data/ui/shortcuts-dialog.ui:71
 msgctxt "shortcut window"
@@ -285,7 +286,7 @@ msgstr "Jahon soatlari"
 #: data/ui/shortcuts-dialog.ui:75
 msgctxt "shortcut window"
 msgid "Add a World Clock"
-msgstr "Jahon soatini qo’shing"
+msgstr "Jahon soatini qoʻshing"
 
 #: data/ui/shortcuts-dialog.ui:82
 msgctxt "shortcut window"
@@ -295,7 +296,7 @@ msgstr "Signal"
 #: data/ui/shortcuts-dialog.ui:86
 msgctxt "shortcut window"
 msgid "Add an Alarm"
-msgstr "Signal qo’shing"
+msgstr "Signal qoʻshing"
 
 #: data/ui/shortcuts-dialog.ui:93
 msgctxt "shortcut window"
@@ -398,7 +399,7 @@ msgstr "1 soat"
 
 #: data/ui/timer-setup.ui:137
 msgid "Set Timer"
-msgstr "Taymerni o’rnatish"
+msgstr "Taymerni oʻrnatish"
 
 #: data/ui/timer-setup.ui:163 data/ui/timer-setup.ui:195
 #: data/ui/timer-setup.ui:228
@@ -435,11 +436,11 @@ msgstr "Signal jiringlashi"
 
 #: data/ui/world-face.ui:15
 msgid "_Add World Clock…"
-msgstr "_Dunyo soatini qo‘shish…"
+msgstr "_Dunyo soatini qoʻshish…"
 
 #: data/ui/world-location-dialog.ui:4
 msgid "Add a New World Clock"
-msgstr "Yangi dunyo soatini qo’shing"
+msgstr "Yangi dunyo soatini qoʻshing"
 
 #: data/ui/world-location-dialog.ui:53
 msgid "Search for a City"
@@ -456,7 +457,7 @@ msgstr "Quyosh botishi"
 #: src/alarm-face.vala:157
 #, c-format
 msgid "Alarm set for %s from now"
-msgstr "Signal hozirdan boshlab %s uchun o‘rnatilgan"
+msgstr "Signal hozirdan boshlab %s uchun oʻrnatilgan"
 
 #. Prior to 3.36 unamed alarms would just be called "Alarm",
 #. pretend alarms called "Alarm" don't have a name (of course
@@ -481,11 +482,11 @@ msgstr "%s gacha kechiktirildi"
 #: src/alarm-row.vala:107
 #, c-format
 msgid "Alarm %s was missed"
-msgstr "Signal %s o‘tkazib yuborildi"
+msgstr "Signal %s oʻtkazib yuborildi"
 
 #: src/alarm-row.vala:109
 msgid "Alarm was missed"
-msgstr "Signal o‘tkazib yuborildi"
+msgstr "Signal oʻtkazib yuborildi"
 
 #: src/alarm-setup-dialog.vala:41
 msgid "1 minute"
@@ -542,7 +543,7 @@ msgstr "Lap %i"
 
 #: src/timer-face.vala:82
 msgid "Time is up!"
-msgstr "Vaqt bo’ldi!"
+msgstr "Vaqt boʻldi!"
 
 #: src/timer-face.vala:83
 msgid "Timer countdown finished"
@@ -685,7 +686,7 @@ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 #. Translators: Tooltip for the + button
 #: src/world-face.vala:29
 msgid "Add Location"
-msgstr "Joy qo’shish"
+msgstr "Joy qoʻshish"
 
 #. If it is Jan 1st there, and not Jan 2nd here, then it must be
 #. Dec 31st here, so return "tomorrow"

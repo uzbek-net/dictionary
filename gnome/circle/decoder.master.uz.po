@@ -28,7 +28,8 @@ msgstr "Dekoder"
 msgid "Scan and Generate QR Codes"
 msgstr "QR kodlarni skanerlash va yaratish"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/com.belmoussaoui.Decoder.desktop.in.in:9
 msgid "QR;Scan;Generate;Code;"
 msgstr "QR;Skanerlash;Yaratish;Kod;"
@@ -268,7 +269,7 @@ msgstr "Yashirin"
 
 #: data/resources/ui/wifi_page.ui:23
 msgid "Is this a hidden Wi-Fi network?"
-msgstr "Bu yashirin Wi-Fi tarmog‘imi?"
+msgstr "Bu yashirin Wi-Fi tarmogʻimi?"
 
 #: data/resources/ui/wifi_page.ui:31
 msgid "_Encryption Algorithm"
@@ -300,7 +301,7 @@ msgstr "Tarix"
 
 #: src/application.rs:45
 msgid "translator-credits"
-msgstr "Hamidulloh To'xtayev <toxtayevhamidulloh6997@gmail.com>"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
 #. NOTE This is in the context of selecting a wifi encryption
 #. algorithm.
@@ -310,7 +311,7 @@ msgstr "Hech biri"
 
 #: src/widgets/qrcode/create.rs:118 src/widgets/qrcode/scanned_page.rs:124
 msgid "Could not generate QR code"
-msgstr "QR kod yaratib bo‘lmadi"
+msgstr "QR kod yaratib boʻlmadi"
 
 #: src/widgets/qrcode/create.rs:162 src/widgets/qrcode/scanned_page.rs:119
 msgid "QR Code saved in history"

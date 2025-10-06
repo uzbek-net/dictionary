@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-share master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-user-share/"
-"issues\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-user-share/issues\n"
 "POT-Creation-Date: 2025-09-22 15:32+0000\n"
 "PO-Revision-Date: 2025-03-20 18:28+0500\n"
 "Last-Translator: \n"
@@ -27,8 +26,8 @@ msgid ""
 "When to ask for passwords. Possible values are \"never\", \"on_write\", and "
 "\"always\"."
 msgstr ""
-"Qachon parollarni so’rash kerak. Mumkin qiymatlar: “hech qachon”, “on_write” "
-"va “always”."
+"Qachon parollarni soʻrash kerak. Mumkin qiymatlar: “hech qachon”, “on_write”"
+" va “always”."
 
 #: data/gnome-user-share-webdav.desktop.in.in:2
 msgid "File Sharing"
@@ -36,9 +35,10 @@ msgstr "Fayl ulashish"
 
 #: data/gnome-user-share-webdav.desktop.in.in:3
 msgid "Launch File Sharing if enabled"
-msgstr "Agar yoqilgan bo’lsa, Fayl ulashishni ishga tushiring"
+msgstr "Agar yoqilgan boʻlsa, Fayl ulashishni ishga tushiring"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/gnome-user-share-webdav.desktop.in.in:5
 msgid "share;files;http;network;copy;send;"
 msgstr "ulashish;fayllar;http;tarmoq;nusxa olish;yuborish;"

@@ -19,15 +19,15 @@ msgstr ""
 
 #: data/shumate-inspector-page.ui:32
 msgid "Show Debug Overlay"
-msgstr "Debugger oynasini ko'rsatish"
+msgstr "Debugger oynasini koʻrsatish"
 
 #: data/shumate-inspector-page.ui:62
 msgid "Show Tile Bounds"
-msgstr "Tile chegaralarini ko'rsatish"
+msgstr "Tile chegaralarini koʻrsatish"
 
 #: data/shumate-inspector-page.ui:92
 msgid "Show Collision Boxes"
-msgstr "To'qnashuv qutilarini ko'rsatish"
+msgstr "Toʻqnashuv qutilarini koʻrsatish"
 
 #: data/shumate-simple-map.ui:39
 msgid "Zoom In"

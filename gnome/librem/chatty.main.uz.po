@@ -18,11 +18,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.6\n"
 
-#: data/sm.puri.Chatty.desktop.in.in:2 data/sm.puri.Chatty.metainfo.xml.in.in:6
-#: src/chatty-application.c:157 src/chatty-application.c:388
-#: src/chatty-side-bar.c:385 src/ui/chatty-main-view.ui:4
-#: src/ui/chatty-side-bar.ui:4 src/ui/chatty-side-bar.ui:12
-#: src/ui/chatty-window.ui:4
+#: data/sm.puri.Chatty.desktop.in.in:2
+#: data/sm.puri.Chatty.metainfo.xml.in.in:6 src/chatty-application.c:157
+#: src/chatty-application.c:388 src/chatty-side-bar.c:385
+#: src/ui/chatty-main-view.ui:4 src/ui/chatty-side-bar.ui:4
+#: src/ui/chatty-side-bar.ui:12 src/ui/chatty-window.ui:4
 msgid "Chats"
 msgstr "Chatlar"
 
@@ -36,7 +36,7 @@ msgstr "XMPP;SMS;chat;jabber;xabarlar;modem;matritsa;"
 
 #: data/sm.puri.Chatty.gschema.xml:7 data/sm.puri.Chatty.gschema.xml:8
 msgid "Whether the application is launching the first time"
-msgstr "Ilova birinchi marta ishga tushyaptimi yoki yo'qmi"
+msgstr "Ilova birinchi marta ishga tushyaptimi yoki yoʻqmi"
 
 #: data/sm.puri.Chatty.gschema.xml:13
 msgid "Country code in ISO 3166-1 alpha-2 format"
@@ -52,7 +52,7 @@ msgstr "Xabarning oʻqilganligi toʻgʻrisida xabar yuboring"
 
 #: data/sm.puri.Chatty.gschema.xml:20
 msgid "Whether to send the status of the message if read"
-msgstr "Agar o'qilgan bo'lsa, xabarning holatini yuborish kerakmi"
+msgstr "Agar oʻqilgan boʻlsa, xabarning holatini yuborish kerakmi"
 
 #: data/sm.puri.Chatty.gschema.xml:25
 msgid "Message carbon copies"
@@ -98,19 +98,19 @@ msgstr ""
 
 #: data/sm.puri.Chatty.gschema.xml:55
 msgid "Whether Strip Tracking IDs was shown"
-msgstr "Strip Tracking identifikatorlari ko'rsatilganmi yoki yo'qmi"
+msgstr "Strip Tracking identifikatorlari koʻrsatilganmi yoki yoʻqmi"
 
 #: data/sm.puri.Chatty.gschema.xml:56
 msgid "Whether the Tracking IDs dialog has been shown"
-msgstr "Kuzatuv identifikatorlari dialog oynasi ko'rsatilganmi"
+msgstr "Kuzatuv identifikatorlari dialog oynasi koʻrsatilganmi"
 
 #: data/sm.puri.Chatty.gschema.xml:61
 msgid "Render Attachments"
-msgstr "Qo'shimchalarni ko'rsatish"
+msgstr "Qoʻshimchalarni koʻrsatish"
 
 #: data/sm.puri.Chatty.gschema.xml:62
 msgid "Whether to Render Attachments or not"
-msgstr "Qo'shimchalarni ko'rsatish kerakmi yoki yo'qmi"
+msgstr "Qoʻshimchalarni koʻrsatish kerakmi yoki yoʻqmi"
 
 #: data/sm.puri.Chatty.gschema.xml:67 data/sm.puri.Chatty.gschema.xml:68
 msgid "Mark Idle users differently"
@@ -118,7 +118,7 @@ msgstr "Ishsiz foydalanuvchilarni boshqacha belgilang"
 
 #: data/sm.puri.Chatty.gschema.xml:73 data/sm.puri.Chatty.gschema.xml:74
 msgid "Indicate unknown contacts"
-msgstr "Noma'lum kontaktlarni ko'rsating"
+msgstr "Noma'lum kontaktlarni koʻrsating"
 
 #: data/sm.puri.Chatty.gschema.xml:79
 msgid "Convert text to emoticons"
@@ -134,25 +134,26 @@ msgstr "Enter tugmasi xabarni yuboradi"
 
 #: data/sm.puri.Chatty.gschema.xml:86
 msgid "Whether pressing Enter key sends the message"
-msgstr "Enter tugmasini bosish xabarni yuboradimi yoki yo'qmi"
+msgstr "Enter tugmasini bosish xabarni yuboradimi yoki yoʻqmi"
 
 #: data/sm.puri.Chatty.gschema.xml:91
 msgid "Request SMS delivery reports"
-msgstr "SMS yetkazib berish hisobotlarini so'rang"
+msgstr "SMS yetkazib berish hisobotlarini soʻrang"
 
 #: data/sm.puri.Chatty.gschema.xml:92
 msgid "Whether to request delivery reports for outgoing SMS"
-msgstr "Chiquvchi SMS uchun yetkazib berish hisobotlarini so'rash kerakmi"
+msgstr "Chiquvchi SMS uchun yetkazib berish hisobotlarini soʻrash kerakmi"
 
 #: data/sm.puri.Chatty.gschema.xml:97
 msgid "Clear out stuck SMS"
-msgstr "Qopqog'i SMSni o'chiring"
+msgstr "Qopqogʻi SMSni oʻchiring"
 
 #: data/sm.puri.Chatty.gschema.xml:98
 msgid ""
-"Whether Chatty should clear out SMS that are stuck in receiving/unknown state"
+"Whether Chatty should clear out SMS that are stuck in receiving/unknown "
+"state"
 msgstr ""
-"Chatty qabul qilish/noma'lum holatda qolgan SMSlarni o'chirishi kerakmi"
+"Chatty qabul qilish/noma'lum holatda qolgan SMSlarni oʻchirishi kerakmi"
 
 #: data/sm.puri.Chatty.gschema.xml:103
 msgid "Enable experimental features"
@@ -195,7 +196,7 @@ msgstr "Ochiq kalit barmoq izi"
 #: data/sm.puri.Chatty.gschema.xml:131
 msgid "The default keyid the remote side should use to encrypt messages to us"
 msgstr ""
-"Masofaviy tomon bizga xabarlarni shifrlash uchun foydalanishi kerak bo'lgan "
+"Masofaviy tomon bizga xabarlarni shifrlash uchun foydalanishi kerak boʻlgan "
 "standart kalit identifikatori"
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:7
@@ -207,60 +208,60 @@ msgid ""
 "Chats is a simple to use to messaging app for 1:1 communication and small "
 "groups supporting SMS, MMS, XMPP and Matrix."
 msgstr ""
-"Chats - SMS, MMS, XMPP va Matrixni qo'llab-quvvatlaydigan 1:1 aloqa va "
+"Chats - SMS, MMS, XMPP va Matrixni qoʻllab-quvvatlaydigan 1:1 aloqa va "
 "kichik guruhlar uchun xabar almashish uchun ishlatish uchun oddiy dastur."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:23
 msgid "Folded view of a chat using the light theme."
-msgstr "Yengil mavzudan foydalangan holda chatning buklangan ko'rinishi."
+msgstr "Yengil mavzudan foydalangan holda chatning buklangan koʻrinishi."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:27
 msgid "Folded view of a chat using the dark theme."
-msgstr "Qorong'i mavzu yordamida chatning buklangan ko'rinishi."
+msgstr "Qorongʻi mavzu yordamida chatning buklangan koʻrinishi."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:31
 msgid "Unfolded view of a chat and the chat list in the sidebar."
-msgstr "Chatning ochilgan ko'rinishi va yon paneldagi chatlar ro'yxati."
+msgstr "Chatning ochilgan koʻrinishi va yon paneldagi chatlar roʻyxati."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:35
 msgid ""
 "The chat view using the dark theme as seen on a mobile phone running Phosh "
 "with unfolded keyboard."
 msgstr ""
-"Ochilmagan klaviatura bilan Phosh bilan ishlaydigan mobil telefonda ko'rinib "
-"turganidek, qorong'u mavzudan foydalangan holda chat ko'rinishi."
+"Ochilmagan klaviatura bilan Phosh bilan ishlaydigan mobil telefonda koʻrinib"
+" turganidek, qorongʻu mavzudan foydalangan holda chat koʻrinishi."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:39
 msgid ""
 "The chat list view using the light theme as seen on a mobile phone running "
 "Phosh."
 msgstr ""
-"Phosh bilan ishlaydigan mobil telefonda ko'rinib turganidek, yorug'lik "
-"mavzusidan foydalangan holda chatlar ro'yxati ko'rinishi."
+"Phosh bilan ishlaydigan mobil telefonda koʻrinib turganidek, yorugʻlik "
+"mavzusidan foydalangan holda chatlar roʻyxati koʻrinishi."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:43
 msgid ""
 "The SMS/MMS preferences using the light theme as seen on a mobile phone "
 "running Phosh."
 msgstr ""
-"Phosh bilan ishlaydigan mobil telefonda ko'rinib turganidek, ochiq mavzudan "
+"Phosh bilan ishlaydigan mobil telefonda koʻrinib turganidek, ochiq mavzudan "
 "foydalangan holda SMS/MMS afzalliklari."
 
 #: data/sm.puri.Chatty.metainfo.xml.in.in:48
 msgid ""
-"The chat details view using the dark theme as seen on a mobile phone running "
-"Phosh."
+"The chat details view using the dark theme as seen on a mobile phone running"
+" Phosh."
 msgstr ""
-"Chat tafsilotlari Phosh bilan ishlaydigan mobil telefonda ko'rsatilganidek, "
-"qorong'u mavzudan foydalangan holda ko'rinadi."
+"Chat tafsilotlari Phosh bilan ishlaydigan mobil telefonda koʻrsatilganidek, "
+"qorongʻu mavzudan foydalangan holda koʻrinadi."
 
 #: src/chatty-application.c:73
 msgid "Show release version"
-msgstr "Chiqarish versiyasini ko'rsatish"
+msgstr "Chiqarish versiyasini koʻrsatish"
 
 #: src/chatty-application.c:74
 msgid "Disable all accounts"
-msgstr "Barcha hisoblarni o'chirib qo'ying"
+msgstr "Barcha hisoblarni oʻchirib qoʻying"
 
 #: src/chatty-application.c:76
 msgid "Enable libpurple debug messages"
@@ -286,7 +287,7 @@ msgid ""
 "There was an error displaying help:\n"
 "%s"
 msgstr ""
-"Yordamni ko'rsatishda xatolik yuz berdi:\n"
+"Yordamni koʻrsatishda xatolik yuz berdi:\n"
 "%s"
 
 #: src/chatty-application.c:195 src/chatty-manager.c:681
@@ -315,15 +316,15 @@ msgstr "Sarlavha panelidagi <b>\"+\"</b> tugmasi bilan kontaktni tanlang."
 
 #: src/chatty-chat-list.c:198
 msgid "Add instant messaging accounts in Preferences."
-msgstr "Sozlamalarda tezkor xabar almashish hisoblarini qo'shing."
+msgstr "Sozlamalarda tezkor xabar almashish hisoblarini qoʻshing."
 
 #: src/chatty-chat-list.c:234 src/chatty-contact-list.c:282
 msgid "No Search Results"
-msgstr "Qidiruv natijalari yo'q"
+msgstr "Qidiruv natijalari yoʻq"
 
 #: src/chatty-chat-list.c:235
 msgid "Try different search"
-msgstr "Boshqa qidiruvni sinab ko'ring"
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: src/chatty-chat-list.c:240
 msgid "No archived chats"
@@ -364,7 +365,7 @@ msgstr "Sizning xabarlaringiz shifrlanmagan"
 
 #: src/chatty-chat.c:726
 msgid "Empty room"
-msgstr "Bo'sh xona"
+msgstr "Boʻsh xona"
 
 #. TRANSLATORS: %s are name/user-id/phone numbers of two users
 #: src/chatty-chat.c:733
@@ -386,7 +387,7 @@ msgstr "Noma'lum kontakt"
 #: src/chatty-contact-list.c:283
 msgid "Try different search, or type a valid number to create new chat"
 msgstr ""
-"Boshqa qidiruvni sinab ko'ring yoki yangi chat yaratish uchun yaroqli "
+"Boshqa qidiruvni sinab koʻring yoki yangi chat yaratish uchun yaroqli "
 "raqamni kiriting"
 
 #: src/chatty-contact-list.c:289
@@ -400,8 +401,9 @@ msgstr "Hozirgina"
 #. TRANSLATORS: Timestamp with 12 hour time, e.g. “06∶42 PM”.
 #. * See https://docs.gtk.org/glib/method.DateTime.format.html
 #. * Note, that this is a regular colon to ensure times are not
-#. * reversed in RTL locales, see https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig/-/issues/127
-#.
+#. * reversed in RTL locales, see
+#. https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-
+#. hig/-/issues/127
 #: src/chatty-clock.c:98 src/chatty-clock.c:137
 msgid "%I:%M %p"
 msgstr "%I:%M %p"
@@ -415,8 +417,9 @@ msgstr[1] "%<PRIi64> daqiqa oldin"
 
 #. TRANSLATORS:
 #. * Note, that this is a regular colon to ensure times are not
-#. * reversed in RTL locales, see https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig/-/issues/127
-#.
+#. * reversed in RTL locales, see
+#. https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-
+#. hig/-/issues/127
 #: src/chatty-clock.c:120
 msgid "Today %H:%M"
 msgstr "Bugun %H:%M"
@@ -424,8 +427,9 @@ msgstr "Bugun %H:%M"
 #. TRANSLATORS: Timestamp with 12 hour time, e.g. “Today 06∶42 PM”.
 #. * See https://docs.gtk.org/glib/method.DateTime.format.html
 #. * Note, that this is a regular colon to ensure times are not
-#. * reversed in RTL locales, see https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig/-/issues/127
-#.
+#. * reversed in RTL locales, see
+#. https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-
+#. hig/-/issues/127
 #: src/chatty-clock.c:130
 msgid "Today %I:%M %p"
 msgstr "Bugun %I:%M %p"
@@ -437,16 +441,18 @@ msgstr "Kecha %H:%M"
 #. TRANSLATORS: Timestamp with 12 hour time, e.g. “Yesterday 06∶42 PM”.
 #. * See https://docs.gtk.org/glib/method.DateTime.format.html
 #. * Note, that this is a regular colon to ensure times are not
-#. * reversed in RTL locales, see https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig/-/issues/127
-#.
+#. * reversed in RTL locales, see
+#. https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-
+#. hig/-/issues/127
 #: src/chatty-clock.c:151
 msgid "Yesterday %I:%M %p"
 msgstr "Kecha %I:%M %p"
 
 #. TRANSLATORS:
 #. * Note, that this is a regular colon to ensure times are not
-#. * reversed in RTL locales, see https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig/-/issues/127
-#.
+#. * reversed in RTL locales, see
+#. https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-
+#. hig/-/issues/127
 #: src/chatty-clock.c:176
 msgid "%Y-%m-%d %H:%M"
 msgstr "%Y-%daqiqa-%d %H:%M"
@@ -454,8 +460,9 @@ msgstr "%Y-%daqiqa-%d %H:%M"
 #. TRANSLATORS: Timestamp with 12 hour time, e.g. “Today 06∶42 PM”.
 #. * See https://docs.gtk.org/glib/method.DateTime.format.html
 #. * Note, that this is a regular colon to ensure times are not
-#. * reversed in RTL locales, see https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig/-/issues/127
-#.
+#. * reversed in RTL locales, see
+#. https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-
+#. hig/-/issues/127
 #: src/chatty-clock.c:183
 msgid "%Y-%m-%d %I:%M %p"
 msgstr "%Y-%daq-%d %I:%M %p"
@@ -493,7 +500,7 @@ msgstr "Qurilma ID %s barmoq izi:"
 #: src/chatty-invite-page.c:72
 #, c-format
 msgid "Do you want to join “%s”?"
-msgstr "“%s” guruhiga qo‘shilishni xohlaysizmi?"
+msgstr "“%s” guruhiga qoʻshilishni xohlaysizmi?"
 
 #: src/chatty-list-row.c:123
 msgid "Owner"
@@ -562,13 +569,13 @@ msgstr ""
 
 #: src/chatty-message-bar.c:469
 msgid "Don't Show Again"
-msgstr "Boshqa ko'rsatma"
+msgstr "Boshqa koʻrsatma"
 
 #: src/chatty-message.c:230
 msgid "Got an encrypted message, but couldn't decrypt due to missing keys"
 msgstr ""
 "Shifrlangan xabar oldim, lekin kalitlar yetishmagani uchun shifrini yechib "
-"bo‘lmadi"
+"boʻlmadi"
 
 #: src/chatty-notification.c:150
 #, c-format
@@ -637,13 +644,13 @@ msgstr "Faylni ochish…"
 #: src/purple/chatty-purple.c:197
 #, c-format
 msgid "User %s has added %s to the contacts"
-msgstr "%s foydalanuvchisi kontaktlarga %s qo‘shdi"
+msgstr "%s foydalanuvchisi kontaktlarga %s qoʻshdi"
 
 #: src/purple/chatty-purple.c:283 src/dialogs/chatty-settings-dialog.c:477
 #: src/ui/chatty-ma-account-details.ui:144
 #: src/ui/chatty-pp-account-details.ui:80
 msgid "Delete Account"
-msgstr "Hisobni o'chirish"
+msgstr "Hisobni oʻchirish"
 
 #: src/purple/chatty-purple.c:285
 #, c-format
@@ -672,7 +679,8 @@ msgstr "Ruxsat berish"
 msgid "Please check ID and password"
 msgstr "Iltimos, ID va parolni tekshiring"
 
-#. TRANSLATORS: You may copy translations from https://github.com/matrix-org/matrix-spec-proposals/blob/old_master/data-definitions/sas-emoji.json
+#. TRANSLATORS: You may copy translations from https://github.com/matrix-
+#. org/matrix-spec-proposals/blob/old_master/data-definitions/sas-emoji.json
 #. * if available
 #: src/chatty-verification-page.c:27
 msgid "Dog"
@@ -701,7 +709,7 @@ msgstr "Yakka shox"
 #. "U+1F984"
 #: src/chatty-verification-page.c:32
 msgid "Pig"
-msgstr "Cho'chqa"
+msgstr "Choʻchqa"
 
 #. "U+1F437"
 #: src/chatty-verification-page.c:33
@@ -721,7 +729,7 @@ msgstr "Panda"
 #. "U+1F43C"
 #: src/chatty-verification-page.c:36
 msgid "Rooster"
-msgstr "Xo'roz"
+msgstr "Xoʻroz"
 
 #. "U+1F413"
 #: src/chatty-verification-page.c:37
@@ -766,7 +774,7 @@ msgstr "Kaktus"
 #. "U+1F335"
 #: src/chatty-verification-page.c:45
 msgid "Mushroom"
-msgstr "Qo'ziqorin"
+msgstr "Qoʻziqorin"
 
 #. "U+1F344"
 #: src/chatty-verification-page.c:46
@@ -786,7 +794,7 @@ msgstr "Bulut"
 #. "U+2601U+FE0F"
 #: src/chatty-verification-page.c:49
 msgid "Fire"
-msgstr "Yong'in"
+msgstr "Yongʻin"
 
 #. "U+1F525"
 #: src/chatty-verification-page.c:50
@@ -806,7 +814,7 @@ msgstr "Qulupnay"
 #. "U+1F353"
 #: src/chatty-verification-page.c:53
 msgid "Corn"
-msgstr "Makkajo'xori"
+msgstr "Makkajoʻxori"
 
 #. "U+1F33D"
 #: src/chatty-verification-page.c:54
@@ -841,7 +849,7 @@ msgstr "Shlyapa"
 #. "U+1F3A9"
 #: src/chatty-verification-page.c:60
 msgid "Glasses"
-msgstr "Ko'zoynak"
+msgstr "Koʻzoynak"
 
 #. "U+1F453"
 #: src/chatty-verification-page.c:61
@@ -876,7 +884,7 @@ msgstr "Soat"
 #. "U+23F0"
 #: src/chatty-verification-page.c:67
 msgid "Gift"
-msgstr "Sovg'a"
+msgstr "Sovgʻa"
 
 #. "U+1F381"
 #: src/chatty-verification-page.c:68
@@ -896,7 +904,7 @@ msgstr "Qalam"
 #. "U+270FU+FE0F"
 #: src/chatty-verification-page.c:71
 msgid "Paperclip"
-msgstr "Qog'oz qisqichi"
+msgstr "Qogʻoz qisqichi"
 
 #. "U+1F4CE"
 #: src/chatty-verification-page.c:72
@@ -906,7 +914,7 @@ msgstr "Qaychi"
 #. "U+2702U+FE0F"
 #: src/chatty-verification-page.c:73
 msgid "Lock"
-msgstr "Bloklash ekrani uchun qo'shimcha vidjetlar"
+msgstr "Bloklash ekrani uchun qoʻshimcha vidjetlar"
 
 #. "U+1F512"
 #: src/chatty-verification-page.c:74
@@ -916,7 +924,7 @@ msgstr "Kalit"
 #. "U+1F511"
 #: src/chatty-verification-page.c:75
 msgid "Hammer"
-msgstr "Bolg'a"
+msgstr "Bolgʻa"
 
 #. "U+1F528"
 #: src/chatty-verification-page.c:76
@@ -956,7 +964,7 @@ msgstr "Kubok"
 #. "U+1F3C6"
 #: src/chatty-verification-page.c:83
 msgid "Ball"
-msgstr "To'p"
+msgstr "Toʻp"
 
 #. "U+26BD"
 #: src/chatty-verification-page.c:84
@@ -971,7 +979,7 @@ msgstr "Karnay"
 #. "U+1F3BA"
 #: src/chatty-verification-page.c:86
 msgid "Bell"
-msgstr "Qo'ng'iroq"
+msgstr "Qoʻngʻiroq"
 
 #. "U+1F514"
 #: src/chatty-verification-page.c:87
@@ -995,11 +1003,11 @@ msgstr "PIN-kod"
 
 #: src/chatty-verification-page.c:387
 msgid "Show Emojis"
-msgstr "Emojilarni ko'rsatish"
+msgstr "Emojilarni koʻrsatish"
 
 #: src/chatty-verification-page.c:389
 msgid "Show Numbers"
-msgstr "Raqamlarni ko'rsatish"
+msgstr "Raqamlarni koʻrsatish"
 
 #: src/chatty-utils.c:299
 #, c-format
@@ -1018,7 +1026,8 @@ msgstr "%s %s"
 
 #: src/chatty-window.c:379
 msgid "You shall no longer be notified for new messages, continue?"
-msgstr "Siz endi yangi xabarlar haqida bildirishnoma olmaysiz, davom etasizmi?"
+msgstr ""
+"Siz endi yangi xabarlar haqida bildirishnoma olmaysiz, davom etasizmi?"
 
 #: src/chatty-window.c:383
 msgid "Block"
@@ -1031,7 +1040,7 @@ msgstr "“%s” bilan suhbatni oʻchirish"
 
 #: src/chatty-window.c:471
 msgid "This deletes the conversation history"
-msgstr "Bu suhbatlar tarixini o'chirib tashlaydi"
+msgstr "Bu suhbatlar tarixini oʻchirib tashlaydi"
 
 #: src/chatty-window.c:473
 #, c-format
@@ -1065,7 +1074,7 @@ msgstr "Siz"
 #: src/dialogs/chatty-ma-account-details.c:168
 #: src/dialogs/chatty-pp-account-details.c:115
 msgid "Set Avatar"
-msgstr "Avatarni o'rnatish"
+msgstr "Avatarni oʻrnatish"
 
 #: src/dialogs/chatty-pp-chat-info.c:115
 #: src/dialogs/chatty-ma-account-details.c:175
@@ -1115,7 +1124,7 @@ msgstr "Telegram ID"
 
 #: src/dialogs/chatty-new-chat-dialog.c:170
 msgid "Add"
-msgstr "Qo'shish"
+msgstr "Qoʻshish"
 
 #: src/dialogs/chatty-new-chat-dialog.c:180
 msgid "Create"
@@ -1123,7 +1132,7 @@ msgstr "Yaratish"
 
 #: src/dialogs/chatty-new-chat-dialog.c:186
 msgid "Add Contact"
-msgstr "Kontakt qo'shish"
+msgstr "Kontakt qoʻshish"
 
 #: src/dialogs/chatty-new-chat-dialog.c:224
 #, c-format
@@ -1165,7 +1174,7 @@ msgstr "Server tasdiqlanmadi: %s"
 
 #: src/dialogs/chatty-settings-dialog.c:274
 msgid "Failed to verify server"
-msgstr "Serverni tekshirib bo‘lmadi"
+msgstr "Serverni tekshirib boʻlmadi"
 
 #: src/dialogs/chatty-settings-dialog.c:280
 msgid "Couldn't get Home server address"
@@ -1183,7 +1192,7 @@ msgstr "Chatty %s uchun yaroqli PGP kalitini topa olmadi."
 
 #: src/dialogs/chatty-settings-dialog.c:666
 msgid "Invalid Signing ID"
-msgstr "Imzo identifikatori noto‘g‘ri"
+msgstr "Imzo identifikatori notoʻgʻri"
 
 #: src/dialogs/chatty-settings-dialog.c:701
 #, c-format
@@ -1205,7 +1214,7 @@ msgstr "Men nima qilayotganimni bilaman"
 #: src/dialogs/chatty-settings-dialog.c:870
 #: src/dialogs/chatty-settings-dialog.c:887
 msgid "Cannot Create Signing Key"
-msgstr "Imzo kalitini yaratib bo‘lmadi"
+msgstr "Imzo kalitini yaratib boʻlmadi"
 
 #: src/dialogs/chatty-settings-dialog.c:789
 #: src/dialogs/chatty-settings-dialog.c:886
@@ -1226,18 +1235,19 @@ msgstr "Kalit muvaffaqiyatli yaratildi"
 
 #: src/dialogs/chatty-settings-dialog.c:855
 msgid "Empty Entries"
-msgstr "Bo'sh yozuvlar"
+msgstr "Boʻsh yozuvlar"
 
 #: src/dialogs/chatty-settings-dialog.c:856
 msgid "All entries must be filled to create a PGP Key"
-msgstr "PGP kalitini yaratish uchun barcha yozuvlar to'ldirilishi kerak"
+msgstr "PGP kalitini yaratish uchun barcha yozuvlar toʻldirilishi kerak"
 
 #: src/dialogs/chatty-settings-dialog.c:869
 #, c-format
 msgid ""
 "%s already has key with fingerprint %s. Please choose a different PGP ID"
 msgstr ""
-"%s allaqachon barmoq izi %s kalitiga ega. Boshqa PGP identifikatorini tanlang"
+"%s allaqachon barmoq izi %s kalitiga ega. Boshqa PGP identifikatorini "
+"tanlang"
 
 #: src/dialogs/chatty-settings-dialog.c:898
 #, c-format
@@ -1248,28 +1258,30 @@ msgstr "%s ID uchun kalit yaratilmoqda."
 msgid "Creating Key"
 msgstr "Kalit yaratish"
 
-#. Translators: This means that the existing key will be there, but there will be a new key that Chatty will use by default instead of the existing one.
+#. Translators: This means that the existing key will be there, but there will
+#. be a new key that Chatty will use by default instead of the existing one.
 #: src/dialogs/chatty-settings-dialog.c:947
 #, c-format
 msgid ""
-"Chatty is currently set to use PGP key: %s. The new key will be used instead "
-"of the existing one!"
+"Chatty is currently set to use PGP key: %s. The new key will be used instead"
+" of the existing one!"
 msgstr ""
-"Chatty hozirda PGP kalitidan foydalanadi: %s. Mavjud kalit o'rniga yangi "
+"Chatty hozirda PGP kalitidan foydalanadi: %s. Mavjud kalit oʻrniga yangi "
 "kalit ishlatiladi!"
 
 #: src/dialogs/chatty-settings-dialog.c:949
 msgid "Signing ID Present"
 msgstr "Imzo identifikatori mavjud"
 
-#: src/dialogs/chatty-settings-dialog.c:951 src/ui/chatty-dialog-join-muc.ui:16
-#: src/ui/chatty-info-dialog.ui:23 src/ui/chatty-info-dialog.ui:32
+#: src/dialogs/chatty-settings-dialog.c:951
+#: src/ui/chatty-dialog-join-muc.ui:16 src/ui/chatty-info-dialog.ui:23
+#: src/ui/chatty-info-dialog.ui:32
 msgid "Cancel"
 msgstr "Bekor qilish"
 
 #: src/dialogs/chatty-settings-dialog.c:1107
 msgid "Restart Chatty to disable Purple"
-msgstr "Binafsha rangni o'chirish uchun Chatty-ni qayta ishga tushiring"
+msgstr "Binafsha rangni oʻchirish uchun Chatty-ni qayta ishga tushiring"
 
 #: src/dialogs/chatty-settings-dialog.c:1123
 #: src/ui/chatty-settings-dialog.ui:290
@@ -1278,7 +1290,7 @@ msgstr "Binafsha"
 
 #: src/dialogs/chatty-settings-dialog.c:1125
 msgid "New Account"
-msgstr "Yangi hisob qo'shing"
+msgstr "Yangi hisob qoʻshing"
 
 #: src/dialogs/chatty-settings-dialog.c:1127
 #: src/ui/chatty-settings-dialog.ui:363
@@ -1314,10 +1326,11 @@ msgstr "Eksperimental sozlash!"
 
 #: src/dialogs/chatty-settings-dialog.c:1534
 msgid ""
-"This setting is experimental and may cause loss of SMS. Use at your own risk!"
+"This setting is experimental and may cause loss of SMS. Use at your own "
+"risk!"
 msgstr ""
-"Bu sozlama eksperimental bo‘lib, SMS yo‘qolishiga olib kelishi mumkin. "
-"O'zingizning xavf-xataringiz ostida foydalaning!"
+"Bu sozlama eksperimental boʻlib, SMS yoʻqolishiga olib kelishi mumkin. "
+"Oʻzingizning xavf-xataringiz ostida foydalaning!"
 
 #: src/matrix/chatty-ma-account.c:77
 #, c-format
@@ -1339,15 +1352,15 @@ msgstr "Batafsil ma'lumot uchun jurnallarga qarang"
 
 #: src/mm/chatty-mmsd.c:572 src/mm/chatty-mmsd.c:633 src/mm/chatty-mmsd.c:656
 msgid "MMS cannot be sent"
-msgstr "MMS yuborib bo'lmaydi"
+msgstr "MMS yuborib boʻlmaydi"
 
 #: src/mm/chatty-mmsd.c:574
 msgid "Please send less attachments"
-msgstr "Iltimos, kamroq qo'shimchalar yuboring"
+msgstr "Iltimos, kamroq qoʻshimchalar yuboring"
 
 #: src/mm/chatty-mmsd.c:635
 msgid "Could not resize image to be small enough"
-msgstr "Tasvir hajmini yetarlicha kichik qilib o‘zgartirib bo‘lmadi"
+msgstr "Tasvir hajmini yetarlicha kichik qilib oʻzgartirib boʻlmadi"
 
 #: src/mm/chatty-mmsd.c:653
 #, c-format
@@ -1357,8 +1370,8 @@ msgstr[0] "Biriktirma juda katta"
 msgstr[1] "Qo'shimchalar juda katta"
 
 #. TRANSLATORS: Timestamp for minute accuracy, e.g. “2020-08-11 15:27”.
-#. See https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-time-format
-#.
+#. See https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-
+#. time-format
 #: src/mm/chatty-mmsd.c:984
 msgid "%Y-%m-%d %H∶%M"
 msgstr "%Y-%m-%d %H∶%M"
@@ -1371,11 +1384,11 @@ msgstr "Siz MMS xabar oldingiz, lekin muddati tugagan: %s"
 #: src/mm/chatty-mmsd.c:1311
 #, c-format
 msgid "You received an MMS, but it cannot be retrieved"
-msgstr "Siz MMS xabar oldingiz, lekin uni qaytarib bo‘lmaydi"
+msgstr "Siz MMS xabar oldingiz, lekin uni qaytarib boʻlmaydi"
 
 #: src/mm/chatty-mmsd.c:1313
 msgid "You received an empty MMS."
-msgstr "Siz bo'sh MMS oldingiz."
+msgstr "Siz boʻsh MMS oldingiz."
 
 #: src/mm/chatty-mmsd.c:1794 src/mm/chatty-mmsd.c:1842
 #, c-format
@@ -1398,7 +1411,7 @@ msgstr "MMSC sozlanmagan"
 
 #: src/mm/chatty-mmsd.c:2068
 msgid "APN is not configured correctly"
-msgstr "APN to'g'ri sozlanmagan"
+msgstr "APN toʻgʻri sozlanmagan"
 
 #: src/mm/chatty-mmsd.c:2071
 msgid "Mobile Data is not configured"
@@ -1431,11 +1444,11 @@ msgstr "%s raqamiga MMS yuborishda xatolik yuz berdi"
 
 #: src/ui/chatty-attachment.ui:48
 msgid "Remove Attachment"
-msgstr "Qo'shimchani olib tashlash"
+msgstr "Qoʻshimchani olib tashlash"
 
 #: src/ui/chatty-dialog-wrong-pw.ui:15
 msgid "Incorrect password"
-msgstr "Noto'g'ri parol"
+msgstr "Notoʻgʻri parol"
 
 #: src/ui/chatty-dialog-wrong-pw.ui:33
 msgid "_OK"
@@ -1456,7 +1469,7 @@ msgstr "Yangi guruh suhbati"
 
 #: src/ui/chatty-dialog-join-muc.ui:22
 msgid "Join Chat"
-msgstr "Chatga qo'shiling"
+msgstr "Chatga qoʻshiling"
 
 #: src/ui/chatty-dialog-join-muc.ui:62 src/ui/chatty-dialog-new-chat.ui:192
 msgid "Select chat account"
@@ -1496,11 +1509,11 @@ msgstr "Kontakt identifikatori"
 
 #: src/ui/chatty-dialog-new-chat.ui:225
 msgid "Name (optional)"
-msgstr "Ko'rsatilgan nom (ixtiyoriy)"
+msgstr "Koʻrsatilgan nom (ixtiyoriy)"
 
 #: src/ui/chatty-dialog-new-chat.ui:262
 msgid "Add to Contacts"
-msgstr "Kontaktlarga qo'shish"
+msgstr "Kontaktlarga qoʻshish"
 
 #: src/ui/chatty-file-item.ui:84
 msgid "Save…"
@@ -1512,7 +1525,7 @@ msgstr "Chat tafsilotlari"
 
 #: src/ui/chatty-info-dialog.ui:41
 msgid "Apply"
-msgstr "Qo'llash"
+msgstr "Qoʻllash"
 
 #. Translators: This is invite to a chat room
 #: src/ui/chatty-info-dialog.ui:55
@@ -1566,7 +1579,7 @@ msgstr "Orqaga"
 
 #: src/ui/chatty-main-view.ui:41 src/ui/chatty-list-row.ui:169
 msgid "Call"
-msgstr "Qo'ng'iroq qiling"
+msgstr "Qoʻngʻiroq qiling"
 
 #: src/ui/chatty-main-view.ui:137
 #, fuzzy
@@ -1608,11 +1621,11 @@ msgstr "_Nusxa olish"
 
 #: src/ui/chatty-pp-chat-info.ui:23 src/ui/chatty-pp-account-details.ui:39
 msgid "Change Avatar"
-msgstr "Avatarni o’zgartirish"
+msgstr "Avatarni oʻzgartirish"
 
 #: src/ui/chatty-pp-chat-info.ui:36 src/ui/chatty-pp-account-details.ui:26
 msgid "Delete Avatar"
-msgstr "Avatarni o'chirish"
+msgstr "Avatarni oʻchirish"
 
 #: src/ui/chatty-pp-chat-info.ui:67
 msgid "Room topic"
@@ -1637,7 +1650,7 @@ msgstr "Holat xabarlari"
 
 #: src/ui/chatty-pp-chat-info.ui:124
 msgid "Show status messages in chat"
-msgstr "Chatda holat xabarlarini ko'rsatish"
+msgstr "Chatda holat xabarlarini koʻrsatish"
 
 #: src/ui/chatty-pp-chat-info.ui:143
 msgid "Fingerprints"
@@ -1653,7 +1666,7 @@ msgstr "Sarlavha"
 
 #: src/ui/chatty-mm-chat-info.ui:23
 msgid "Blank for default"
-msgstr "Sukut bo'yicha bo'sh"
+msgstr "Sukut boʻyicha boʻsh"
 
 #: src/ui/chatty-mm-chat-info.ui:32
 msgid "Group Members"
@@ -1711,7 +1724,7 @@ msgstr "Nozik ma'lumotlar"
 
 #: src/ui/chatty-ma-account-details.ui:124
 msgid "Access token"
-msgstr "Kirish to’keni"
+msgstr "Kirish toʻkeni"
 
 #: src/ui/chatty-pp-account-details.ui:55
 msgid "Account ID"
@@ -1732,7 +1745,7 @@ msgstr "_Saqlash"
 #: src/ui/chatty-settings-dialog.ui:45 src/ui/chatty-settings-dialog.ui:65
 #: src/ui/chatty-settings-dialog.ui:85
 msgid "_Apply"
-msgstr "_Qo’llamoq"
+msgstr "_Qoʻllamoq"
 
 #: src/ui/chatty-settings-dialog.ui:136
 msgid "Accounts"
@@ -1744,11 +1757,11 @@ msgstr "Maxfiylik"
 
 #: src/ui/chatty-settings-dialog.ui:158
 msgid "Read Receipts"
-msgstr "O'qish kvitansiyalari"
+msgstr "Oʻqish kvitansiyalari"
 
 #: src/ui/chatty-settings-dialog.ui:171
 msgid "Typing Indicators"
-msgstr "Yozish ko'rsatkichlari"
+msgstr "Yozish koʻrsatkichlari"
 
 #: src/ui/chatty-settings-dialog.ui:184
 msgid "Remove Tracking IDs From URLs"
@@ -1756,7 +1769,7 @@ msgstr "URL manzillardan kuzatuv identifikatorlarini olib tashlang"
 
 #: src/ui/chatty-settings-dialog.ui:197
 msgid "Show Attachment Previews"
-msgstr "Ilovani oldindan ko'rishni ko'rsatish"
+msgstr "Ilovani oldindan koʻrishni koʻrsatish"
 
 #: src/ui/chatty-settings-dialog.ui:213
 msgid "Editor"
@@ -1768,7 +1781,7 @@ msgstr "Emotsional belgilarni aylantirish"
 
 #: src/ui/chatty-settings-dialog.ui:218
 msgid "When you type :) it will be changed to 😃"
-msgstr "Siz yozsangiz :) 😃 ga o'zgaradi"
+msgstr "Siz yozsangiz :) 😃 ga oʻzgaradi"
 
 #. TRANSLATORS: Return is the Enter key.
 #: src/ui/chatty-settings-dialog.ui:231
@@ -1777,11 +1790,11 @@ msgstr "Enter bilan xabarlarni yuboring"
 
 #: src/ui/chatty-settings-dialog.ui:323
 msgid "Request Delivery Reports"
-msgstr "Yetkazib berish hisobotlarini so'rang"
+msgstr "Yetkazib berish hisobotlarini soʻrang"
 
 #: src/ui/chatty-settings-dialog.ui:335
 msgid "Clear Stuck SMS"
-msgstr "Qolgan SMS-ni o'chirish"
+msgstr "Qolgan SMS-ni oʻchirish"
 
 #: src/ui/chatty-settings-dialog.ui:349
 msgid "SMIL for MMS"
@@ -1816,7 +1829,7 @@ msgid ""
 "Chatty can use any existing key embedded with gpg. However, you are given "
 "the option to generate a key specifically for Chatty below."
 msgstr ""
-"Chatty gpg bilan o'rnatilgan istalgan mavjud kalitdan foydalanishi mumkin. "
+"Chatty gpg bilan oʻrnatilgan istalgan mavjud kalitdan foydalanishi mumkin. "
 "Biroq, sizga quyida Chatty uchun maxsus kalit yaratish imkoniyati berilgan."
 
 #: src/ui/chatty-settings-dialog.ui:453
@@ -1837,15 +1850,15 @@ msgstr "Ihtiyoriy"
 
 #: src/ui/chatty-settings-dialog.ui:505
 msgid ""
-"This will generate a key for use with Chatty. Please note that this will not "
-"install the key on a smart card."
+"This will generate a key for use with Chatty. Please note that this will not"
+" install the key on a smart card."
 msgstr ""
 "Bu Chatty bilan foydalanish uchun kalit yaratadi. Shuni yodda tutingki, bu "
-"kalitni smart-kartaga o'rnatmaydi."
+"kalitni smart-kartaga oʻrnatmaydi."
 
 #: src/ui/chatty-settings-dialog.ui:508
 msgid "Full Name"
-msgstr "To'liq ism"
+msgstr "Toʻliq ism"
 
 #: src/ui/chatty-settings-dialog.ui:520
 msgid "PGP ID"
@@ -1861,7 +1874,7 @@ msgstr "Bloklangan kontaktlardan kelgan xabarlar sizga bildirilmaydi"
 
 #: src/ui/chatty-settings-dialog.ui:593
 msgid "No Blocked Chats"
-msgstr "Bloklangan chatlar yo'q"
+msgstr "Bloklangan chatlar yoʻq"
 
 #: src/ui/chatty-settings-dialog.ui:622
 msgid "Enable Purple Accounts"
@@ -1889,15 +1902,15 @@ msgstr "Uy serveri"
 
 #: src/ui/chatty-settings-dialog.ui:810
 msgid "_Add"
-msgstr "_Qo’shish"
+msgstr "_Qoʻshish"
 
 #: src/ui/chatty-settings-dialog.ui:838
 msgid "Add _New Account"
-msgstr "Yangi hisob qo'shing"
+msgstr "Yangi hisob qoʻshing"
 
 #: src/ui/chatty-side-bar.ui:27
 msgid "Add Chat"
-msgstr "Chat qo'shish"
+msgstr "Chat qoʻshish"
 
 #: src/ui/chatty-side-bar.ui:36
 msgid "Menu"
@@ -1956,7 +1969,7 @@ msgstr "Chat haqida"
 
 #: src/ui/chatty-verification-page.ui:24
 msgid "Incoming Verification Request"
-msgstr "Kiruvchi tekshirish so'rovi"
+msgstr "Kiruvchi tekshirish soʻrovi"
 
 #: src/ui/chatty-verification-page.ui:42
 msgid "Verify this user to mark them as trusted."
@@ -1986,13 +1999,13 @@ msgstr ""
 msgid ""
 "Verify this user by confirming the following number appears on their screen."
 msgstr ""
-"Ushbu foydalanuvchining ekranida quyidagi raqam paydo bo'lishini tasdiqlash "
+"Ushbu foydalanuvchining ekranida quyidagi raqam paydo boʻlishini tasdiqlash "
 "orqali tasdiqlang."
 
 #: src/ui/chatty-verification-page.ui:413
 msgid "To be secure, do this in person or use a trusted way to communicate."
 msgstr ""
-"Xavfsiz bo'lish uchun buni shaxsan yuzma-yuz bajaring yoki muloqot "
+"Xavfsiz boʻlish uchun buni shaxsan yuzma-yuz bajaring yoki muloqot "
 "qilishning ishonchli usulidan foydalaning."
 
 #: src/ui/chatty-verification-page.ui:424
@@ -2037,7 +2050,7 @@ msgstr "Yangi guruh suhbati"
 #: src/ui/help-overlay.ui:51
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Yorliqlarni ko’rsatish"
+msgstr "Yorliqlarni koʻrsatish"
 
 #: src/ui/help-overlay.ui:62
 msgctxt "shortcut window"
@@ -2047,7 +2060,7 @@ msgstr "Chat"
 #: src/ui/help-overlay.ui:67
 msgctxt "shortcut window"
 msgid "Show Details"
-msgstr "Tafsilotlarni ko'rsatish"
+msgstr "Tafsilotlarni koʻrsatish"
 
 #: src/ui/help-overlay.ui:75
 #, fuzzy

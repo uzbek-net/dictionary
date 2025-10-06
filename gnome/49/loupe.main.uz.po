@@ -22,12 +22,12 @@ msgstr ""
 #: data/org.gnome.Loupe.metainfo.xml.in.in:6 src/about.rs:32
 #: src/widgets/image_window.rs:867
 msgid "Image Viewer"
-msgstr "Tasvirni ko'ruvchi"
+msgstr "Tasvirni koʻruvchi"
 
 #: data/org.gnome.Loupe.desktop.in.in:3
 #: data/org.gnome.Loupe.metainfo.xml.in.in:13
 msgid "View images"
-msgstr "Rasmlarni ko'rish"
+msgstr "Rasmlarni koʻrish"
 
 #: data/org.gnome.Loupe.desktop.in.in:11
 msgid "Picture;Graphics;Loupe;"
@@ -35,7 +35,7 @@ msgstr "Rasm; Grafika; Lupa;"
 
 #: data/org.gnome.Loupe.gschema.xml.in:6
 msgid "Show the image properties sidebar"
-msgstr "Rasm xususiyatlarining yon panelini ko'rsatish"
+msgstr "Rasm xususiyatlarining yon panelini koʻrsatish"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Loupe.metainfo.xml.in.in:8 src/about.rs:35
@@ -45,7 +45,7 @@ msgstr "GNOME loyihasi"
 #: data/org.gnome.Loupe.metainfo.xml.in.in:15
 msgid "Browse through your images and inspect their metadata with:"
 msgstr ""
-"Rasmlaringizni ko'rib chiqing va ularning metama'lumotlarini tekshiring:"
+"Rasmlaringizni koʻrib chiqing va ularning metama'lumotlarini tekshiring:"
 
 #: data/org.gnome.Loupe.metainfo.xml.in.in:17
 msgid "Fast GPU accelerated image rendering"
@@ -57,7 +57,7 @@ msgstr "Vektorli grafikalar uchun plitkali renderlash"
 
 #: data/org.gnome.Loupe.metainfo.xml.in.in:19
 msgid "Extendable and sandboxed image decoding"
-msgstr "Kengaytiriladigan va sinovdan o'tgan tasvirni dekodlash"
+msgstr "Kengaytiriladigan va sinovdan oʻtgan tasvirni dekodlash"
 
 #: data/org.gnome.Loupe.metainfo.xml.in.in:20
 msgid "Accessible presentation of the most important metadata."
@@ -76,12 +76,12 @@ msgstr "Tasvir yoki tanlangan matnni vaqtinchalik xotiraga nusxalash"
 #: data/resources/gtk/help-overlay.ui:20
 msgctxt "shortcut window"
 msgid "Move Image to Trash"
-msgstr "Rasmni Chiqindiga ko'chiring"
+msgstr "Rasmni Chiqindiga koʻchiring"
 
 #: data/resources/gtk/help-overlay.ui:26
 msgctxt "shortcut window"
 msgid "Permanently Delete Image"
-msgstr "Rasmni butunlay o'chirish"
+msgstr "Rasmni butunlay oʻchirish"
 
 #: data/resources/gtk/help-overlay.ui:32
 msgctxt "shortcut window"
@@ -106,7 +106,7 @@ msgstr "Yordamni oching"
 #: data/resources/gtk/help-overlay.ui:56
 msgctxt "shortcut window"
 msgid "Show Keyboard Shortcuts"
-msgstr "Klaviatura yorliqlarini ko’rsatish"
+msgstr "Klaviatura yorliqlarini koʻrsatish"
 
 #: data/resources/gtk/help-overlay.ui:62
 msgctxt "shortcut window"
@@ -130,7 +130,8 @@ msgctxt "shortcut window"
 msgid "Next Image"
 msgstr "Keyingi rasm"
 
-#: data/resources/gtk/help-overlay.ui:87 data/resources/gtk/help-overlay.ui:101
+#: data/resources/gtk/help-overlay.ui:87
+#: data/resources/gtk/help-overlay.ui:101
 #: data/resources/gtk/help-overlay.ui:242
 #: data/resources/gtk/help-overlay.ui:256
 msgctxt "shortcut window"
@@ -157,7 +158,7 @@ msgstr "Tasvirni aylantirish"
 #: data/resources/gtk/help-overlay.ui:315
 msgctxt "shortcut window"
 msgid "Rotate Clockwise"
-msgstr "Soat yo'nalishi bo'yicha aylantiring"
+msgstr "Soat yoʻnalishi boʻyicha aylantiring"
 
 #: data/resources/gtk/help-overlay.ui:130
 #: data/resources/gtk/help-overlay.ui:280
@@ -196,12 +197,12 @@ msgstr "Asl shkala"
 #: data/resources/gtk/help-overlay.ui:165
 msgctxt "shortcut window"
 msgid "200% Scale"
-msgstr "200% o'lchov"
+msgstr "200% oʻlchov"
 
 #: data/resources/gtk/help-overlay.ui:173
 msgctxt "shortcut window"
 msgid "Pan View"
-msgstr "Panoramani ko'rish"
+msgstr "Panoramani koʻrish"
 
 #: data/resources/gtk/help-overlay.ui:176
 msgctxt "shortcut window"
@@ -211,7 +212,7 @@ msgstr "Chapga siljitish"
 #: data/resources/gtk/help-overlay.ui:182
 msgctxt "shortcut window"
 msgid "Pan Right"
-msgstr "O'ngga siljitish"
+msgstr "Oʻngga siljitish"
 
 #: data/resources/gtk/help-overlay.ui:188
 msgctxt "shortcut window"
@@ -226,7 +227,7 @@ msgstr "Pastga siljitish"
 #: data/resources/gtk/help-overlay.ui:202
 msgctxt "shortcut window"
 msgid "View"
-msgstr "Ko'rish"
+msgstr "Koʻrish"
 
 #: data/resources/gtk/help-overlay.ui:205
 msgctxt "shortcut window"
@@ -246,7 +247,7 @@ msgstr "Rasm xususiyatlarini almashtirish"
 #: data/resources/gtk/help-overlay.ui:223
 msgctxt "shortcut window"
 msgid "Show Main Menu"
-msgstr "Asosiy menyuni ko'rsatish"
+msgstr "Asosiy menyuni koʻrsatish"
 
 #: data/resources/gtk/help-overlay.ui:231
 msgctxt "shortcut window"
@@ -261,7 +262,7 @@ msgstr "Tahrirlash"
 #: data/resources/gtk/help-overlay.ui:291
 msgctxt "shortcut window"
 msgid "Open Editing View"
-msgstr "Tahrirlash ko'rinishini oching"
+msgstr "Tahrirlash koʻrinishini oching"
 
 #: data/resources/gtk/help-overlay.ui:297
 msgctxt "shortcut window"
@@ -281,19 +282,20 @@ msgstr "Bekor qilish"
 #: data/resources/gtk/help-overlay.ui:327
 msgctxt "shortcut window"
 msgid "Mirror Horizontally"
-msgstr "Gorizontal ko'zgu"
+msgstr "Gorizontal koʻzgu"
 
 #: data/resources/gtk/help-overlay.ui:333
 msgctxt "shortcut window"
 msgid "Mirror Vertically"
-msgstr "Vertikal ko'zgu"
+msgstr "Vertikal koʻzgu"
 
 #: data/resources/gtk/help-overlay.ui:339
 msgctxt "shortcut window"
 msgid "Apply Crop"
-msgstr "Crop ilovasini qo'llang"
+msgstr "Crop ilovasini qoʻllang"
 
-#. Translators: Replace "translator-credits" with your names, one name per line
+#. Translators: Replace "translator-credits" with your names, one name per
+#. line
 #: src/about.rs:45
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
@@ -306,7 +308,9 @@ msgstr "Mualliflik huquqi © 2020–2024 Kristofer Devis va boshqalar."
 msgid "Could not list other files in directory."
 msgstr "Katalogdagi boshqa fayllarni roʻyxatga kiritib boʻlmadi."
 
-#. Translators: Display of the f-number <https://en.wikipedia.org/wiki/F-number>. {} will be replaced with the number
+#. Translators: Display of the f-number
+#. <https://en.wikipedia.org/wiki/F-number>. {} will be replaced with the
+#. number
 #: src/metadata.rs:263
 msgid "\\u{192}\\u{2215}{}"
 msgstr "\\u{192}\\u{2215}{}"
@@ -345,8 +349,10 @@ msgstr "E"
 msgid "W"
 msgstr "CH"
 
-#. Translators: This is the date and time format we use in metadata output etc.
-#. The format has to follow <https://docs.gtk.org/glib/method.DateTime.format.html>
+#. Translators: This is the date and time format we use in metadata output
+#. etc.
+#. The format has to follow
+#. <https://docs.gtk.org/glib/method.DateTime.format.html>
 #. The default is already translated. Don't change if you are not sure what to
 #. use.
 #: src/util.rs:39
@@ -356,19 +362,19 @@ msgstr "%x %X"
 
 #: src/util.rs:182 src/widgets/image_window.rs:639
 msgid "Failed to restore image from trash"
-msgstr "Chiqindidan rasmni tiklab bo‘lmadi"
+msgstr "Chiqindidan rasmni tiklab boʻlmadi"
 
 #: src/widgets/drag_overlay.ui:15
 msgid "Drop Image to View"
-msgstr "Ko'rish uchun rasmni tashlang"
+msgstr "Koʻrish uchun rasmni tashlang"
 
 #: src/widgets/edit/crop.rs:364
 msgid "Failed to Edit Image"
-msgstr "Rasmni tahrirlab bo‘lmadi"
+msgstr "Rasmni tahrirlab boʻlmadi"
 
 #: src/widgets/edit/crop.ui:6
 msgid "Free"
-msgstr "Bo’sh"
+msgstr "Boʻsh"
 
 #: src/widgets/edit/crop.ui:11
 msgid "Original"
@@ -400,7 +406,7 @@ msgstr "_Aspekt nisbati"
 
 #: src/widgets/edit/crop.ui:91
 msgid "_Free"
-msgstr "Bo’sh"
+msgstr "Boʻsh"
 
 #: src/widgets/edit/crop.ui:109
 msgid "_Original"
@@ -445,7 +451,7 @@ msgstr "Soat miliga teskari burish"
 
 #: src/widgets/edit/crop.ui:268
 msgid "Rotate Clockwise"
-msgstr "Soat yo'nalishi bo'yicha aylantiring"
+msgstr "Soat yoʻnalishi boʻyicha aylantiring"
 
 #: src/widgets/edit/crop.ui:278
 msgid "Flip"
@@ -453,11 +459,11 @@ msgstr "Juft raqamli sahifalarni teskari aylantiring"
 
 #: src/widgets/edit/crop.ui:287 src/widgets/edit/crop.ui:415
 msgid "Mirror Horizontally"
-msgstr "Gorizontal ko'zgu"
+msgstr "Gorizontal koʻzgu"
 
 #: src/widgets/edit/crop.ui:294
 msgid "Mirror Vertically"
-msgstr "Vertikal ko'zgu"
+msgstr "Vertikal koʻzgu"
 
 #: src/widgets/edit/crop.ui:306 src/widgets/edit/crop.ui:429
 msgid "_Reset"
@@ -465,11 +471,11 @@ msgstr "_Qayta tiklash"
 
 #: src/widgets/edit/crop.ui:307 src/widgets/edit/crop.ui:431
 msgid "Undo Changes in this View"
-msgstr "Ushbu ko'rinishdagi o'zgarishlarni bekor qiling"
+msgstr "Ushbu koʻrinishdagi oʻzgarishlarni bekor qiling"
 
 #: src/widgets/edit/crop_selection.ui:46
 msgid "Crop Selection"
-msgstr "Maydon o'lchami"
+msgstr "Maydon oʻlchami"
 
 #. Translators: Filename suffix
 #. Translators: Filename suffix, {} is replaced by a number
@@ -489,11 +495,11 @@ msgstr "Rasmni tahrirlash"
 
 #: src/widgets/edit_window.rs:363
 msgid "Failed to edit image."
-msgstr "Rasmni tahrirlab bo‘lmadi."
+msgstr "Rasmni tahrirlab boʻlmadi."
 
 #: src/widgets/edit_window.rs:373 src/widgets/edit_window.rs:396
 msgid "Failed to Save Image"
-msgstr "Rasmni saqlab bo‘lmadi"
+msgstr "Rasmni saqlab boʻlmadi"
 
 #: src/widgets/edit_window.rs:379
 msgid "Saving Image"
@@ -521,14 +527,14 @@ msgstr "_Asl nusxani almashtiring"
 
 #: src/widgets/edit_window.ui:128
 msgid "Original image will be moved to the trash"
-msgstr "Asl rasm axlat qutisiga o'tkaziladi"
+msgstr "Asl rasm axlat qutisiga oʻtkaziladi"
 
 #: src/widgets/error_details.rs:80
 msgid ""
 "The following error occurred. If you think this is an issue with the "
 "program, please include this information when you report the error."
 msgstr ""
-"Quyidagi xatolik yuz berdi. Agar bu dastur bilan bog'liq muammo deb "
+"Quyidagi xatolik yuz berdi. Agar bu dastur bilan bogʻliq muammo deb "
 "hisoblasangiz, xato haqida xabar berganingizda ushbu ma'lumotni kiriting."
 
 #: src/widgets/error_details.ui:4
@@ -541,9 +547,9 @@ msgid ""
 "image. Please include this information when you report an error. If "
 "possible, please also provide the image that causes the issue."
 msgstr ""
-"Tasvirni yuklash yoki tahrirlashda rasm yuklovchi quyidagilarni xabar qildi. "
-"Iltimos, xato haqida xabar berganingizda ushbu ma'lumotni kiriting. Iloji "
-"bo'lsa, muammoga sabab bo'lgan rasmni ham taqdim eting."
+"Tasvirni yuklash yoki tahrirlashda rasm yuklovchi quyidagilarni xabar qildi."
+" Iltimos, xato haqida xabar berganingizda ushbu ma'lumotni kiriting. Iloji "
+"boʻlsa, muammoga sabab boʻlgan rasmni ham taqdim eting."
 
 #: src/widgets/error_details.ui:24
 msgid "Error Message"
@@ -563,7 +569,7 @@ msgid ""
 "compatibility version “{}” is not installed."
 msgstr ""
 "Hech qanday rasm yuklovchi mavjud emas. Ehtimol, \"{}\" moslik versiyasiga "
-"ega \"glisin-loaders\" to'plami o'rnatilmagan."
+"ega \"glisin-loaders\" toʻplami oʻrnatilmagan."
 
 #: src/widgets/image_page.rs:242
 msgid "The image format “{} ({})” is known but not installed."
@@ -578,9 +584,10 @@ msgid "There is not enough free memory available to load this image."
 msgstr "Bu rasmni yuklash uchun yetarli boʻsh xotira yoʻq."
 
 #: src/widgets/image_page.rs:281
-msgid "Either the image file is corrupted or it contains unsupported elements."
+msgid ""
+"Either the image file is corrupted or it contains unsupported elements."
 msgstr ""
-"Tasvir fayli buzilgan yoki unda qo'llab-quvvatlanmaydigan elementlar mavjud."
+"Tasvir fayli buzilgan yoki unda qoʻllab-quvvatlanmaydigan elementlar mavjud."
 
 #: src/widgets/image_page.ui:6 src/widgets/image_window.ui:16
 msgid "_Open With…"
@@ -592,7 +599,7 @@ msgstr "_Chop etish…"
 
 #: src/widgets/image_page.ui:26 src/widgets/image_window.ui:36
 msgid "_Set as Background…"
-msgstr "_Fon sifatida o‘rnatish…"
+msgstr "_Fon sifatida oʻrnatish…"
 
 #: src/widgets/image_page.ui:30 src/widgets/image_window.ui:40
 msgid "_Delete"
@@ -620,7 +627,7 @@ msgstr "Chapga aylantiring"
 
 #: src/widgets/image_page.ui:133 src/widgets/image_window.ui:111
 msgid "Rotate Right"
-msgstr "O'ngga aylantiring"
+msgstr "Oʻngga aylantiring"
 
 #: src/widgets/image_view.rs:197
 msgid "{} %"
@@ -634,7 +641,7 @@ msgstr "Fon sifatida sozlash."
 
 #: src/widgets/image_view.rs:849
 msgid "Could not set background."
-msgstr "Fonni o‘rnatib bo‘lmadi."
+msgstr "Fonni oʻrnatib boʻlmadi."
 
 #: src/widgets/image_view.ui:30
 msgid "Previous Image"
@@ -670,7 +677,7 @@ msgstr "Belgilangan darajaga yaqinlashtirish"
 
 #: src/widgets/image_window.rs:503
 msgid "Supported image formats"
-msgstr "Qo'llab-quvvatlanadigan rasm formatlari"
+msgstr "Qoʻllab-quvvatlanadigan rasm formatlari"
 
 #: src/widgets/image_window.rs:509
 msgid "All files"
@@ -694,7 +701,7 @@ msgstr "Oldingi buyruqni bekor qilish"
 
 #: src/widgets/image_window.rs:654
 msgid "Failed to move image to trash"
-msgstr "Rasmni chiqitdonga o‘tkazib bo‘lmadi"
+msgstr "Rasmni chiqitdonga oʻtkazib boʻlmadi"
 
 #: src/widgets/image_window.rs:678
 msgid "Permanently Delete Image?"
@@ -734,7 +741,7 @@ msgstr "_Klaviatura yorliqlari"
 
 #: src/widgets/image_window.ui:54
 msgid "_About Image Viewer"
-msgstr "_Rasmlarni ko'rish dasturi haqida"
+msgstr "_Rasmlarni koʻrish dasturi haqida"
 
 #: src/widgets/image_window.ui:87
 msgid "Toggle Fullscreen"
@@ -754,7 +761,7 @@ msgstr "Rasmni tahrirlash"
 
 #: src/widgets/image_window.ui:220
 msgid "View Images"
-msgstr "Tasvirlarni ko'rish"
+msgstr "Tasvirlarni koʻrish"
 
 #: src/widgets/image_window.ui:221
 msgid "Drag and drop images here"
@@ -782,7 +789,7 @@ msgstr "Chap"
 
 #: src/widgets/print.rs:112
 msgid "Right"
-msgstr "To'g'ri"
+msgstr "Toʻgʻri"
 
 #. Translators: Shorthand for centimeter
 #: src/widgets/print.rs:148
@@ -814,7 +821,7 @@ msgstr "Rasmni chop etish"
 
 #: src/widgets/print.rs:791
 msgid "_Scale"
-msgstr "Xotirani logarifmik masshtabda ko‘rsatish"
+msgstr "Xotirani logarifmik masshtabda koʻrsatish"
 
 #: src/widgets/print.rs:794
 msgid "_Width"
@@ -839,7 +846,7 @@ msgstr "_Orientatsiya"
 
 #: src/widgets/print.ui:72
 msgid "Portrait Page Orientation"
-msgstr "Portret sahifa yo'nalishi"
+msgstr "Portret sahifa yoʻnalishi"
 
 #: src/widgets/print.ui:80
 msgid "Landscape Page Orientation"
@@ -875,7 +882,7 @@ msgstr "Tasvir hajmi birliklari"
 
 #: src/widgets/print.ui:163
 msgid "_Fill Space"
-msgstr "_Bo'sh joyni to'ldirish"
+msgstr "_Boʻsh joyni toʻldirish"
 
 #: src/widgets/print.ui:174
 msgid "H_eight"
@@ -914,7 +921,7 @@ msgstr "Katalog"
 
 #: src/widgets/properties_view.ui:28
 msgid "Open Containing Folder"
-msgstr "O'z ichiga olgan jildni oching"
+msgstr "Oʻz ichiga olgan jildni oching"
 
 #: src/widgets/properties_view.ui:41
 msgid "URI"
@@ -979,4 +986,4 @@ msgstr "Ishlab chiqaruvchi, model"
 
 #: src/widgets/window.rs:222
 msgid "Show Details"
-msgstr "Tafsilotlarni ko'rsatish"
+msgstr "Tafsilotlarni koʻrsatish"

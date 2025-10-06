@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: console main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/console/-/issues/\n"
-"POT-Creation-Date: 2025-09-22 22:01+0000\n"
+"POT-Creation-Date: 2025-10-06 00:18+0000\n"
 "PO-Revision-Date: 2025-03-27 10:23+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -25,10 +25,12 @@ msgid "Console"
 msgstr "Konsol"
 
 # Tahminiy: buyruq;chaqiruv
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Console.desktop.in.in:7
 msgid "command;prompt;cmd;commandline;run;shell;terminal;kgx;kings cross;"
-msgstr "buyruq;prompt;cmd;buyruqlar qatori;run;shell;terminal;kgx;kings cross;"
+msgstr ""
+"buyruq;prompt;cmd;buyruqlar qatori;run;shell;terminal;kgx;kings cross;"
 
 #: data/org.gnome.Console.desktop.in.in:20
 msgid "New Window"
@@ -44,7 +46,8 @@ msgstr "Terminal Emulyatori"
 
 #: data/org.gnome.Console.metainfo.xml.in.in:11
 msgid "A simple user-friendly terminal emulator for the GNOME desktop."
-msgstr "GNOME ish stoli uchun oddiy foydalanuvchiga qulay terminal emulyatori."
+msgstr ""
+"GNOME ish stoli uchun oddiy foydalanuvchiga qulay terminal emulyatori."
 
 #: data/org.gnome.Console.metainfo.xml.in.in:26
 msgid "Terminal window"
@@ -80,7 +83,7 @@ msgstr "tarjimonlarga-minnatdorchilik"
 msgid "Cannot use both --working-directory and positional parameters"
 msgstr ""
 "Bir vaqtda --working-directory va joylashuv parameterlarini ishlatib "
-"bo'lmaydi"
+"boʻlmaydi"
 
 #: src/kgx-application.c:509
 msgid "Execute the argument to this option inside the terminal"
@@ -105,7 +108,7 @@ msgstr "Jarayon tugaguncha kuting(TODO)"
 
 #: src/kgx-application.c:537
 msgid "Set the initial window title"
-msgstr "Dastlabki oyna sarlavhasini o'rnatish"
+msgstr "Dastlabki oyna sarlavhasini oʻrnatish"
 
 #: src/kgx-application.c:538
 msgid "TITLE"
@@ -121,13 +124,14 @@ msgstr "QOBIQ"
 
 #: src/kgx-application.c:555
 msgid "ADVANCED: Set the scrollback length"
-msgstr "ADVANCED: Orqaga aylantirish uzunligini o'rnating"
+msgstr "ADVANCED: Orqaga aylantirish uzunligini oʻrnating"
 
 #: src/kgx-application.c:556
 msgid "LINES"
 msgstr "QATORLAR"
 
-#. Translators: %s is the version string, KGX is a codename and should be left as-is
+#. Translators: %s is the version string, KGX is a codename and should be left
+#. as-is
 #: src/kgx-application.c:695
 #, c-format
 msgid "KGX %s — Terminal Emulator"
@@ -143,8 +147,8 @@ msgstr "Oynani Yopish?"
 
 #: src/kgx-close-dialog.c:75
 msgid ""
-"A command is still running, closing this window will kill it and may lead to "
-"unexpected outcomes"
+"A command is still running, closing this window will kill it and may lead to"
+" unexpected outcomes"
 msgid_plural ""
 "Some commands are still running, closing this window will kill them and may "
 "lead to unexpected outcomes"
@@ -152,8 +156,8 @@ msgstr[0] ""
 "Buyruq hali ham bajarilmoqda, ushbu oynani yopish uni to'xtatadi va "
 "kutilmagan natijalarga olib kelishi mumkin"
 msgstr[1] ""
-"Ayrim buyruqlar hali ham bajarilmoqda, ushbu oynani yopish ularni to'xtatadi "
-"va kutilmagan natijalarga olib kelishi mumkin"
+"Ayrim buyruqlar hali ham bajarilmoqda, ushbu oynani yopish ularni to'xtatadi"
+" va kutilmagan natijalarga olib kelishi mumkin"
 
 #: src/kgx-close-dialog.c:82
 msgid "Close Tab?"
@@ -176,22 +180,24 @@ msgstr[1] ""
 #. Translators: Screen reader label for the list of running commands
 #: src/kgx-close-dialog.c:194
 msgid "Process list"
-msgstr "Jarayonlar ro'yxati"
+msgstr "Jarayonlar roʻyxati"
 
-#. Translators: This action dismisses the dialogue, leaving the tab/window open
+#. Translators: This action dismisses the dialogue, leaving the tab/window
+#. open
 #: src/kgx-close-dialog.c:205 src/kgx-paste-dialog.c:135
 #: src/preferences/kgx-font-picker.ui:22
 msgid "_Cancel"
 msgstr "_Bekor qilish"
 
-#. Translators: This action accepts the ‘unexpected outcomes’ and closes the tab/window
+#. Translators: This action accepts the ‘unexpected outcomes’ and closes the
+#. tab/window
 #: src/kgx-close-dialog.c:207
 msgid "C_lose"
 msgstr ""
 
 #: src/kgx-colour-utils.c:58
 msgid "Color string is wrong length"
-msgstr "Rang chizig’i noto’g’ri uzunlikda"
+msgstr "Rang chizigʻi notoʻgʻri uzunlikda"
 
 #: src/kgx-drop-target.c:198 src/kgx-drop-target.c:250
 #: src/kgx-drop-target.c:334 src/kgx-drop-target.c:368
@@ -241,7 +247,6 @@ msgstr "XTerm"
 #. Translators: %i is, from the users perspective, a random number.
 #. * this string will only be seen when the running program has
 #. * failed to set a title, and exists purely to avoid blank tabs
-#.
 #: src/kgx-pages.c:495
 #, c-format
 msgid "Tab %i"
@@ -267,22 +272,23 @@ msgstr ""
 
 #: src/kgx-paste-dialog.c:129
 msgid "You are pasting a command that runs as an administrator"
-msgstr "Siz administrator huquqlarida ishlovchi buyruqni qo'yayapsiz"
+msgstr "Siz administrator huquqlarida ishlovchi buyruqni qoʻyayapsiz"
 
 #: src/kgx-paste-dialog.c:136 src/kgx-terminal.ui:24
 msgid "_Paste"
-msgstr "_Qo'yish"
+msgstr "_Qoʻyish"
 
 #: src/kgx-process.c:196
 #, c-format
 msgid "Process %d"
 msgstr "Jarayon %d"
 
-#. Translators: <b> </b> marks the text as bold, ensure they are matched please!
+#. Translators: <b> </b> marks the text as bold, ensure they are matched
+#. please!
 #: src/kgx-simple-tab.c:170
 #, c-format
 msgid "<b>Failed to start</b> — %s"
-msgstr "<b>Ishga tushirib bo‘lmadi</b> — %s"
+msgstr "<b>Ishga tushirib boʻlmadi</b> — %s"
 
 #: src/kgx-spad.c:194
 msgid "Unable To Open"
@@ -316,16 +322,18 @@ msgctxt "toast-button"
 msgid "_Details"
 msgstr ""
 
-#. Translators: <b> </b> marks the text as bold, ensure they are matched please!
+#. Translators: <b> </b> marks the text as bold, ensure they are matched
+#. please!
 #: src/kgx-tab.c:889
 #, c-format
 msgid "<b>Read Only</b> — Command exited with code %i"
-msgstr "<b>Faqat o'qish uchun</b> — Buyruq %i kodi bilan tugadi"
+msgstr "<b>Faqat oʻqish uchun</b> — Buyruq %i kodi bilan tugadi"
 
-#. Translators: <b> </b> marks the text as bold, ensure they are matched please!
+#. Translators: <b> </b> marks the text as bold, ensure they are matched
+#. please!
 #: src/kgx-tab.c:897
 msgid "<b>Read Only</b> — Command exited"
-msgstr "<b>Faqat o'qish uchun</b> — Buyruq tugadi"
+msgstr "<b>Faqat oʻqish uchun</b> — Buyruq tugadi"
 
 #: src/kgx-tab.c:917
 msgid "Command completed"
@@ -364,8 +372,9 @@ msgstr ""
 #, c-format
 msgctxt "spad-message"
 msgid ""
-"An unexpected error occurred whilst opening the link “<a href=\"%s\">%s</"
-"a>”. Please include the following information if you report the error."
+"An unexpected error occurred whilst opening the link “<a "
+"href=\"%s\">%s</a>”. Please include the following information if you report "
+"the error."
 msgstr ""
 
 #: src/kgx-terminal.c:421
@@ -378,8 +387,7 @@ msgstr ""
 #, c-format
 msgctxt "spad-message"
 msgid ""
-"The link “<a href=\"%s\">%s</a>” points to a location on a different "
-"device.\n"
+"The link “<a href=\"%s\">%s</a>” points to a location on a different device.\n"
 "\n"
 "This device is “%s” and the location is on “%s”."
 msgstr ""
@@ -437,8 +445,8 @@ msgstr ""
 #: src/kgx-terminal.c:987
 msgctxt "spad-message"
 msgid ""
-"An unexpected error occurred whilst processing the clipboard. Please include "
-"the following information if you report the error."
+"An unexpected error occurred whilst processing the clipboard. Please include"
+" the following information if you report the error."
 msgstr ""
 
 #: src/kgx-terminal.ui:7
@@ -486,7 +494,7 @@ msgstr "--command uchun argument yetishmayabdi"
 
 #: src/kgx-utils.c:129
 msgid "Cannot use both --command and positional parameters"
-msgstr "Bir vaqtda --command va joylashuv parameterlarini ishlatib bo'lmaydi"
+msgstr "Bir vaqtda --command va joylashuv parameterlarini ishlatib boʻlmaydi"
 
 #: src/kgx-window.ui:17 src/kgx-window.ui:274
 msgid "_New Window"
@@ -494,7 +502,7 @@ msgstr "_Yangi Oyna"
 
 #: src/kgx-window.ui:23
 msgid "_Show All Tabs"
-msgstr "_Barcha Tablarni Ko'rsatish"
+msgstr "_Barcha Tablarni Koʻrsatish"
 
 #: src/kgx-window.ui:28 src/kgx-window.ui:280
 msgid "_Fullscreen"
@@ -555,15 +563,15 @@ msgstr "Font Oylasi"
 
 #: src/preferences/kgx-font-picker.ui:158
 msgid "Font Preview"
-msgstr "Shrift Ko‘rinishi"
+msgstr "Shrift Koʻrinishi"
 
 #: src/preferences/kgx-font-picker.ui:179
 msgid "Font Size"
-msgstr "Font O'lchami"
+msgstr "Font Oʻlchami"
 
 #: src/preferences/kgx-preferences-window.c:126
 msgid "No Font Set"
-msgstr "Shrift O'rnatilmagan"
+msgstr "Shrift Oʻrnatilmagan"
 
 #: src/preferences/kgx-preferences-window.ui:7
 msgid "General"
@@ -595,7 +603,7 @@ msgstr "_Orqaga aylantiruvchi chiziqlar"
 
 #: src/preferences/kgx-preferences-window.ui:90
 msgid "Terminal Bell"
-msgstr "Terminal Qo'ng'irog'i"
+msgstr "Terminal Qoʻngʻirogʻi"
 
 # Kuylash o'rniga Ijro Etish ishaltish mumkinmi?
 #: src/preferences/kgx-preferences-window.ui:93
@@ -634,7 +642,7 @@ msgstr "Nusxalash"
 #: src/shortcuts-dialog.ui:33
 msgctxt "shortcut window"
 msgid "Paste"
-msgstr "Qo'yish"
+msgstr "Qoʻyish"
 
 #: src/shortcuts-dialog.ui:41
 msgctxt "shortcut window"
@@ -654,7 +662,7 @@ msgstr "Tabni yopish"
 #: src/shortcuts-dialog.ui:56
 msgctxt "shortcut window"
 msgid "Show All Tabs"
-msgstr "Barcha Tablarni Ko'rsatish"
+msgstr "Barcha Tablarni Koʻrsatish"
 
 #: src/shortcuts-dialog.ui:62
 msgctxt "shortcut window"
@@ -674,14 +682,14 @@ msgstr "Tabni Chapga Surish"
 #: src/shortcuts-dialog.ui:81 src/shortcuts-dialog.ui:88
 msgctxt "shortcut window"
 msgid "Move Tab Right"
-msgstr "Tabni O'nga Surish"
+msgstr "Tabni Oʻnga Surish"
 
 #: src/shortcuts-dialog.ui:102
 msgctxt "shortcut window"
 msgid "Switch to Tab 1–9"
-msgstr "1-9 Tabga O'tish"
+msgstr "1-9 Tabga Oʻtish"
 
 #: src/shortcuts-dialog.ui:108
 msgctxt "shortcut window"
 msgid "Switch to Tab 10"
-msgstr "Tab 10 ga o'tish"
+msgstr "Tab 10 ga oʻtish"

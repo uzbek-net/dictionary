@@ -26,9 +26,10 @@ msgstr "Ob-havo"
 #: data/org.gnome.Weather.desktop.in.in:4
 #: data/org.gnome.Weather.metainfo.xml.in.in:6
 msgid "Show weather conditions and forecast"
-msgstr "Ob-havo sharoiti va prognozini ko'rsatish"
+msgstr "Ob-havo sharoiti va prognozini koʻrsatish"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Weather.desktop.in.in:12
 msgid "Weather;Forecast;"
 msgstr "Ob-havo; Prognoz;"
@@ -36,19 +37,19 @@ msgstr "Ob-havo; Prognoz;"
 #: data/org.gnome.Weather.desktop.in.in:13
 msgid "Allows weather information to be displayed for your location."
 msgstr ""
-"Sizning joylashuvingiz uchun ob-havo ma'lumotlarini ko'rsatishga imkon "
+"Sizning joylashuvingiz uchun ob-havo ma'lumotlarini koʻrsatishga imkon "
 "beradi."
 
 #: data/org.gnome.Weather.gschema.xml:6
 msgid "Configured cities to show weather for"
-msgstr "Ob-havoni ko'rsatish uchun sozlangan shaharlar"
+msgstr "Ob-havoni koʻrsatish uchun sozlangan shaharlar"
 
 #: data/org.gnome.Weather.gschema.xml:7
 msgid ""
 "The locations shown in the world view of gnome-weather. Each value is a "
 "GVariant returned by gweather_location_serialize()."
 msgstr ""
-"Gnome-ob-havoning dunyo ko'rinishida ko'rsatilgan joylar. Har bir qiymat "
+"Gnome-ob-havoning dunyo koʻrinishida koʻrsatilgan joylar. Har bir qiymat "
 "gweather_location_serialize() tomonidan qaytariladigan GVariantdir."
 
 #: data/org.gnome.Weather.gschema.xml:14
@@ -65,7 +66,7 @@ msgstr "Kattalashgan oyna"
 
 #: data/org.gnome.Weather.gschema.xml:23
 msgid "Whether or not the window is maximized."
-msgstr "Oyna kattalashtiriladimi yoki yo’qmi."
+msgstr "Oyna kattalashtiriladimi yoki yoʻqmi."
 
 #: data/org.gnome.Weather.metainfo.xml.in.in:16
 msgid ""
@@ -80,8 +81,8 @@ msgid ""
 "It provides access to detailed forecasts, up to 7 days, with hourly details "
 "for the current and next day, using various internet services."
 msgstr ""
-"Bu turli internet xizmatlaridan foydalangan holda joriy va keyingi kun uchun "
-"soatlik ma'lumotlar bilan 7 kungacha bo'lgan batafsil prognozlarga kirish "
+"Bu turli internet xizmatlaridan foydalangan holda joriy va keyingi kun uchun"
+" soatlik ma'lumotlar bilan 7 kungacha boʻlgan batafsil prognozlarga kirish "
 "imkonini beradi."
 
 #: data/org.gnome.Weather.metainfo.xml.in.in:24
@@ -92,7 +93,8 @@ msgid ""
 msgstr ""
 "Shuningdek, u ixtiyoriy ravishda GNOME Shell bilan integratsiyalanadi, bu "
 "sizga Faoliyatlar haqida umumiy ma'lumotga faqat nomini kiritish orqali eng "
-"so'nggi qidirilgan shaharlarning joriy sharoitlarini ko'rish imkonini beradi."
+"soʻnggi qidirilgan shaharlarning joriy sharoitlarini koʻrish imkonini "
+"beradi."
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Weather.metainfo.xml.in.in:482
@@ -101,7 +103,7 @@ msgstr "GNOME loyihasi"
 
 #: data/day-entry.ui:20
 msgid "Night"
-msgstr "Qorong’u"
+msgstr "Qorongʻu"
 
 #: data/day-entry.ui:33
 msgid "Morning"
@@ -221,7 +223,7 @@ msgstr "Asosiy menyu"
 #~ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
 #~ msgid "World view"
-#~ msgstr "Dunyo ko’rinishi"
+#~ msgstr "Dunyo koʻrinishi"
 
 #, javascript-format
 #~ msgid "%s / %s"

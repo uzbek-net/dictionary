@@ -6,8 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-font-viewer main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-font-viewer/"
-"issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-font-viewer/issues/\n"
 "POT-Creation-Date: 2025-10-04 21:31+0000\n"
 "PO-Revision-Date: 2025-04-04 11:26+0500\n"
 "Last-Translator: \n"
@@ -27,7 +26,7 @@ msgstr "Shriftlar"
 #: data/org.gnome.font-viewer.appdata.xml.in:7
 #: data/org.gnome.font-viewer.desktop.in.in:3
 msgid "View fonts on your system"
-msgstr "Tizimingizda shriftlarni ko'ring"
+msgstr "Tizimingizda shriftlarni koʻring"
 
 #: data/org.gnome.font-viewer.appdata.xml.in:9
 msgid ""
@@ -35,27 +34,29 @@ msgid ""
 "thumbnails. Selecting any thumbnails shows the full view of how the font "
 "would look under various sizes."
 msgstr ""
-"Shriftlar eskiz sifatida foydalanish uchun kompyuteringizda o'rnatilgan "
-"shriftlarni ko'rsatadi. Har qanday eskizni tanlash shriftning turli "
-"o'lchamlarda qanday ko'rinishini to'liq ko'rinishini ko'rsatadi."
+"Shriftlar eskiz sifatida foydalanish uchun kompyuteringizda oʻrnatilgan "
+"shriftlarni koʻrsatadi. Har qanday eskizni tanlash shriftning turli "
+"oʻlchamlarda qanday koʻrinishini toʻliq koʻrinishini koʻrsatadi."
 
 #: data/org.gnome.font-viewer.appdata.xml.in:15
 msgid ""
 "Fonts also supports installing new font files downloaded in the .ttf and "
-"other formats. Fonts may be installed only for your use or made available to "
-"all users on the computer."
+"other formats. Fonts may be installed only for your use or made available to"
+" all users on the computer."
 msgstr ""
 "Shriftlar .ttf va boshqa formatlarda yuklab olingan yangi shrift fayllarini "
-"o'rnatishni ham qo'llab-quvvatlaydi. Shriftlar faqat sizning "
-"foydalanishingiz uchun o'rnatilishi yoki kompyuterdagi barcha "
+"oʻrnatishni ham qoʻllab-quvvatlaydi. Shriftlar faqat sizning "
+"foydalanishingiz uchun oʻrnatilishi yoki kompyuterdagi barcha "
 "foydalanuvchilarga taqdim etilishi mumkin."
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.font-viewer.appdata.xml.in:22 src/font-view-application.c:126
+#: data/org.gnome.font-viewer.appdata.xml.in:22
+#: src/font-view-application.c:126
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.font-viewer.desktop.in.in:5
 msgid "fonts;fontface;"
 msgstr "shriftlar;shrift yuzi;"
@@ -82,7 +83,7 @@ msgstr "SHIFT-FILE OUTPUT-FILE"
 
 #: src/font-view-application.c:79 src/font-view-window.c:744
 msgid "Could Not Display Font"
-msgstr "Shriftni ko‘rsatib bo‘lmadi"
+msgstr "Shriftni koʻrsatib boʻlmadi"
 
 #: src/font-view-application.c:129
 msgid "translator-credits"
@@ -94,7 +95,7 @@ msgstr "Muvaffaqiyatsiz"
 
 #: src/font-view-window.c:128
 msgid "Installed"
-msgstr "O'rnatilgan"
+msgstr "Oʻrnatilgan"
 
 #: src/font-view-window.c:133
 msgid "Installing"
@@ -102,13 +103,12 @@ msgstr "Oʻrnatilmoqda"
 
 #: src/font-view-window.c:136 src/font-view-window.ui:176
 msgid "_Install"
-msgstr "_O‘rnatish"
+msgstr "_Oʻrnatish"
 
 #. Translators, this string is used to display information about
 #. * a 'font variation axis'. The %s gets replaced with the name
 #. * of the axis, for example 'Width'. The three %g get replaced
 #. * with the minimum, maximum and default values for the axis.
-#.
 #: src/font-view-window.c:250
 #, c-format
 msgid "%s %g — %g, default %g"
@@ -180,7 +180,7 @@ msgstr "ha"
 
 #: src/font-view-window.c:502
 msgid "no"
-msgstr "yo’q"
+msgstr "yoʻq"
 
 #: src/font-view-window.c:506
 msgid "Layout Features"
@@ -188,7 +188,7 @@ msgstr "Joylashtirish xususiyatlari"
 
 #: src/font-view-window.c:512
 msgid "Variation Axes"
-msgstr "Variatsiya o'qlari"
+msgstr "Variatsiya oʻqlari"
 
 #: src/font-view-window.c:519
 msgid "Named Styles"
@@ -216,7 +216,7 @@ msgstr "Shriftlarni qidirish"
 
 #: src/font-view-window.ui:179
 msgid "Install Font"
-msgstr "Shriftni o'rnating"
+msgstr "Shriftni oʻrnating"
 
 #: src/font-view-window.ui:184
 msgid "I_nfo"
@@ -236,7 +236,7 @@ msgstr "GNOME shriftlari"
 
 #: src/main.c:44
 msgid "Show the application's version"
-msgstr "Ilova versiyasini ko’rsating"
+msgstr "Ilova versiyasini koʻrsating"
 
 #: src/open-type-layout.h:13
 msgctxt "OpenType layout"
@@ -301,7 +301,7 @@ msgstr "Glif tarkibi/parchalanishi"
 #: src/open-type-layout.h:25
 msgctxt "OpenType layout"
 msgid "Conjunct Form After Ro"
-msgstr "Ro'dan keyin qo'shma shakl"
+msgstr "Roʻdan keyin qoʻshma shakl"
 
 #: src/open-type-layout.h:26
 msgctxt "OpenType layout"
@@ -321,7 +321,7 @@ msgstr "Markazlangan CJK tinish belgilari"
 #: src/open-type-layout.h:29
 msgctxt "OpenType layout"
 msgid "Capital Spacing"
-msgstr "Kapital oralig'i"
+msgstr "Kapital oraligʻi"
 
 #: src/open-type-layout.h:30
 msgctxt "OpenType layout"
@@ -346,97 +346,97 @@ msgstr "Poytaxtlardan kichik kapitallar"
 #: src/open-type-layout.h:34
 msgctxt "OpenType layout"
 msgid "Character Variation 1"
-msgstr "Belgilarning o'zgarishi 1"
+msgstr "Belgilarning oʻzgarishi 1"
 
 #: src/open-type-layout.h:35
 msgctxt "OpenType layout"
 msgid "Character Variation 2"
-msgstr "Belgilarning o'zgarishi 2"
+msgstr "Belgilarning oʻzgarishi 2"
 
 #: src/open-type-layout.h:36
 msgctxt "OpenType layout"
 msgid "Character Variation 3"
-msgstr "Belgilarning o'zgarishi 3"
+msgstr "Belgilarning oʻzgarishi 3"
 
 #: src/open-type-layout.h:37
 msgctxt "OpenType layout"
 msgid "Character Variation 4"
-msgstr "Belgilarning o'zgarishi 4"
+msgstr "Belgilarning oʻzgarishi 4"
 
 #: src/open-type-layout.h:38
 msgctxt "OpenType layout"
 msgid "Character Variation 5"
-msgstr "Belgilarning o'zgarishi 5"
+msgstr "Belgilarning oʻzgarishi 5"
 
 #: src/open-type-layout.h:39
 msgctxt "OpenType layout"
 msgid "Character Variation 6"
-msgstr "Belgilarning o'zgarishi 6"
+msgstr "Belgilarning oʻzgarishi 6"
 
 #: src/open-type-layout.h:40
 msgctxt "OpenType layout"
 msgid "Character Variation 7"
-msgstr "Belgilarning o'zgarishi 7"
+msgstr "Belgilarning oʻzgarishi 7"
 
 #: src/open-type-layout.h:41
 msgctxt "OpenType layout"
 msgid "Character Variation 8"
-msgstr "Belgilarning o'zgarishi 8"
+msgstr "Belgilarning oʻzgarishi 8"
 
 #: src/open-type-layout.h:42
 msgctxt "OpenType layout"
 msgid "Character Variation 9"
-msgstr "Belgilarning o'zgarishi 9"
+msgstr "Belgilarning oʻzgarishi 9"
 
 #: src/open-type-layout.h:43
 msgctxt "OpenType layout"
 msgid "Character Variation 10"
-msgstr "Belgilarning o'zgarishi 10"
+msgstr "Belgilarning oʻzgarishi 10"
 
 #: src/open-type-layout.h:44
 msgctxt "OpenType layout"
 msgid "Character Variation 11"
-msgstr "Belgilarning o'zgarishi 11"
+msgstr "Belgilarning oʻzgarishi 11"
 
 #: src/open-type-layout.h:45
 msgctxt "OpenType layout"
 msgid "Character Variation 12"
-msgstr "Belgilarning o'zgarishi 12"
+msgstr "Belgilarning oʻzgarishi 12"
 
 #: src/open-type-layout.h:46
 msgctxt "OpenType layout"
 msgid "Character Variation 13"
-msgstr "Belgilarning o'zgarishi 13"
+msgstr "Belgilarning oʻzgarishi 13"
 
 #: src/open-type-layout.h:47
 msgctxt "OpenType layout"
 msgid "Character Variation 14"
-msgstr "Belgilarning o'zgarishi 14"
+msgstr "Belgilarning oʻzgarishi 14"
 
 #: src/open-type-layout.h:48
 msgctxt "OpenType layout"
 msgid "Character Variation 15"
-msgstr "Belgilarning o'zgarishi 15"
+msgstr "Belgilarning oʻzgarishi 15"
 
 #: src/open-type-layout.h:49
 msgctxt "OpenType layout"
 msgid "Character Variation 16"
-msgstr "Belgilarning o'zgarishi 16"
+msgstr "Belgilarning oʻzgarishi 16"
 
 #: src/open-type-layout.h:50
 msgctxt "OpenType layout"
 msgid "Character Variation 17"
-msgstr "Belgilarning o'zgarishi 17"
+msgstr "Belgilarning oʻzgarishi 17"
 
 #: src/open-type-layout.h:51
 msgctxt "OpenType layout"
 msgid "Character Variation 18"
-msgstr "Belgilarning o'zgarishi 18"
+msgstr "Belgilarning oʻzgarishi 18"
 
 #: src/open-type-layout.h:52
 msgctxt "OpenType layout"
 msgid "Character Variation 19"
-msgstr "Belgilarning o'zgarishi 19"
+msgstr "Belgilarning oʻzgarishi 19"
 
 #: src/open-type-layout.h:53
 msgctxt "OpenType layout"
@@ -486,7 +486,7 @@ msgstr "Terminal shakllari"
 #: src/open-type-layout.h:62
 msgctxt "OpenType layout"
 msgid "Flattened accent forms"
-msgstr "Yassilangan urg'u shakllari"
+msgstr "Yassilangan urgʻu shakllari"
 
 #: src/open-type-layout.h:63
 msgctxt "OpenType layout"
@@ -496,7 +496,7 @@ msgstr "Kasrlar"
 #: src/open-type-layout.h:64
 msgctxt "OpenType layout"
 msgid "Full Widths"
-msgstr "To'liq kengliklar"
+msgstr "Toʻliq kengliklar"
 
 #: src/open-type-layout.h:65
 msgctxt "OpenType layout"
@@ -616,12 +616,12 @@ msgstr "Mahalliylashtirilgan shakllar"
 #: src/open-type-layout.h:88
 msgctxt "OpenType layout"
 msgid "Left-to-right alternates"
-msgstr "Chapdan o'ngga almashinadi"
+msgstr "Chapdan oʻngga almashinadi"
 
 #: src/open-type-layout.h:89
 msgctxt "OpenType layout"
 msgid "Left-to-right mirrored forms"
-msgstr "Chapdan o'ngga aks ettirilgan shakllar"
+msgstr "Chapdan oʻngga aks ettirilgan shakllar"
 
 #: src/open-type-layout.h:90
 msgctxt "OpenType layout"
@@ -771,17 +771,17 @@ msgstr "Ref shakllari"
 #: src/open-type-layout.h:119
 msgctxt "OpenType layout"
 msgid "Right Bounds"
-msgstr "To'g'ri chegaralar"
+msgstr "Toʻgʻri chegaralar"
 
 #: src/open-type-layout.h:120
 msgctxt "OpenType layout"
 msgid "Right-to-left alternates"
-msgstr "O'ngdan chapga almashinadi"
+msgstr "Oʻngdan chapga almashinadi"
 
 #: src/open-type-layout.h:121
 msgctxt "OpenType layout"
 msgid "Right-to-left mirrored forms"
-msgstr "O'ngdan chapga aks ettirilgan shakllar"
+msgstr "Oʻngdan chapga aks ettirilgan shakllar"
 
 #: src/open-type-layout.h:122
 msgctxt "OpenType layout"
@@ -791,7 +791,7 @@ msgstr "Ruby notation shakllari"
 #: src/open-type-layout.h:123
 msgctxt "OpenType layout"
 msgid "Required Variation Alternates"
-msgstr "Majburiy o'zgarishlar muqobillari"
+msgstr "Majburiy oʻzgarishlar muqobillari"
 
 #: src/open-type-layout.h:124
 msgctxt "OpenType layout"
@@ -806,7 +806,7 @@ msgstr "Ilmiy inferiorlar"
 #: src/open-type-layout.h:126
 msgctxt "OpenType layout"
 msgid "Optical size"
-msgstr "Optik o'lcham"
+msgstr "Optik oʻlcham"
 
 #: src/open-type-layout.h:127
 msgctxt "OpenType layout"
@@ -821,102 +821,102 @@ msgstr "Soddalashtirilgan shakllar"
 #: src/open-type-layout.h:129
 msgctxt "OpenType layout"
 msgid "Stylistic Set 1"
-msgstr "Stilistik to'plam 1"
+msgstr "Stilistik toʻplam 1"
 
 #: src/open-type-layout.h:130
 msgctxt "OpenType layout"
 msgid "Stylistic Set 2"
-msgstr "Stilistik to'plam 2"
+msgstr "Stilistik toʻplam 2"
 
 #: src/open-type-layout.h:131
 msgctxt "OpenType layout"
 msgid "Stylistic Set 3"
-msgstr "Stilistik to'plam 3"
+msgstr "Stilistik toʻplam 3"
 
 #: src/open-type-layout.h:132
 msgctxt "OpenType layout"
 msgid "Stylistic Set 4"
-msgstr "Stilistik to'plam 4"
+msgstr "Stilistik toʻplam 4"
 
 #: src/open-type-layout.h:133
 msgctxt "OpenType layout"
 msgid "Stylistic Set 5"
-msgstr "Stilistik to'plam 5"
+msgstr "Stilistik toʻplam 5"
 
 #: src/open-type-layout.h:134
 msgctxt "OpenType layout"
 msgid "Stylistic Set 6"
-msgstr "Stilistik to'plam 6"
+msgstr "Stilistik toʻplam 6"
 
 #: src/open-type-layout.h:135
 msgctxt "OpenType layout"
 msgid "Stylistic Set 7"
-msgstr "Stilistik to'plam 7"
+msgstr "Stilistik toʻplam 7"
 
 #: src/open-type-layout.h:136
 msgctxt "OpenType layout"
 msgid "Stylistic Set 8"
-msgstr "Stilistik to'plam 8"
+msgstr "Stilistik toʻplam 8"
 
 #: src/open-type-layout.h:137
 msgctxt "OpenType layout"
 msgid "Stylistic Set 9"
-msgstr "Stilistik to'plam 9"
+msgstr "Stilistik toʻplam 9"
 
 #: src/open-type-layout.h:138
 msgctxt "OpenType layout"
 msgid "Stylistic Set 10"
-msgstr "Stilistik to'plam 10"
+msgstr "Stilistik toʻplam 10"
 
 #: src/open-type-layout.h:139
 msgctxt "OpenType layout"
 msgid "Stylistic Set 11"
-msgstr "Stilistik to'plam 11"
+msgstr "Stilistik toʻplam 11"
 
 #: src/open-type-layout.h:140
 msgctxt "OpenType layout"
 msgid "Stylistic Set 12"
-msgstr "Stilistik to'plam 12"
+msgstr "Stilistik toʻplam 12"
 
 #: src/open-type-layout.h:141
 msgctxt "OpenType layout"
 msgid "Stylistic Set 13"
-msgstr "Stilistik to'plam 13"
+msgstr "Stilistik toʻplam 13"
 
 #: src/open-type-layout.h:142
 msgctxt "OpenType layout"
 msgid "Stylistic Set 14"
-msgstr "Stilistik to'plam 14"
+msgstr "Stilistik toʻplam 14"
 
 #: src/open-type-layout.h:143
 msgctxt "OpenType layout"
 msgid "Stylistic Set 15"
-msgstr "Stilistik to'plam 15"
+msgstr "Stilistik toʻplam 15"
 
 #: src/open-type-layout.h:144
 msgctxt "OpenType layout"
 msgid "Stylistic Set 16"
-msgstr "Stilistik to'plam 16"
+msgstr "Stilistik toʻplam 16"
 
 #: src/open-type-layout.h:145
 msgctxt "OpenType layout"
 msgid "Stylistic Set 17"
-msgstr "Stilistik to'plam 17"
+msgstr "Stilistik toʻplam 17"
 
 #: src/open-type-layout.h:146
 msgctxt "OpenType layout"
 msgid "Stylistic Set 18"
-msgstr "Stilistik to'plam 18"
+msgstr "Stilistik toʻplam 18"
 
 #: src/open-type-layout.h:147
 msgctxt "OpenType layout"
 msgid "Stylistic Set 19"
-msgstr "Stilistik to'plam 19"
+msgstr "Stilistik toʻplam 19"
 
 #: src/open-type-layout.h:148
 msgctxt "OpenType layout"
 msgid "Stylistic Set 20"
-msgstr "Stilistik to'plam 20"
+msgstr "Stilistik toʻplam 20"
 
 #: src/open-type-layout.h:149
 msgctxt "OpenType layout"
@@ -981,7 +981,7 @@ msgstr "Unicase"
 #: src/open-type-layout.h:161
 msgctxt "OpenType layout"
 msgid "Alternate Vertical Metrics"
-msgstr "Muqobil vertikal ko'rsatkichlar"
+msgstr "Muqobil vertikal koʻrsatkichlar"
 
 #: src/open-type-layout.h:162
 msgctxt "OpenType layout"
@@ -996,7 +996,7 @@ msgstr "Vertikal yozish"
 #: src/open-type-layout.h:164
 msgctxt "OpenType layout"
 msgid "Alternate Vertical Half Metrics"
-msgstr "Muqobil vertikal yarim ko'rsatkichlar"
+msgstr "Muqobil vertikal yarim koʻrsatkichlar"
 
 #: src/open-type-layout.h:165
 msgctxt "OpenType layout"
@@ -1016,7 +1016,7 @@ msgstr "Vertikal Kerning"
 #: src/open-type-layout.h:168
 msgctxt "OpenType layout"
 msgid "Proportional Alternate Vertical Metrics"
-msgstr "Proportsional muqobil vertikal ko'rsatkichlar"
+msgstr "Proportsional muqobil vertikal koʻrsatkichlar"
 
 #: src/open-type-layout.h:169
 msgctxt "OpenType layout"

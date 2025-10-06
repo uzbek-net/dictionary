@@ -83,7 +83,7 @@ msgstr "Jurnallarni faylga eksport qiling"
 
 #: data/gl-eventtoolbar.ui:49
 msgid "Choose the boot from which to view logs"
-msgstr "Jurnallarni ko'rish uchun yuklashni tanlang"
+msgstr "Jurnallarni koʻrish uchun yuklashni tanlang"
 
 #: data/gl-eventtoolbar.ui:59
 msgid "Search all the logs of the current category"
@@ -123,7 +123,7 @@ msgstr "Ilova aniqlandi"
 
 #: data/gl-eventviewdetail.ui:260
 msgid "Support"
-msgstr "Qo'llab-quvvatlash"
+msgstr "Qoʻllab-quvvatlash"
 
 #: data/gl-eventviewdetail.ui:292
 msgid "Documentation"
@@ -136,7 +136,7 @@ msgstr "Jurnallarni qidirish"
 #: data/gl-eventviewlist.ui:35
 msgid "Select journal field and timestamp range filtering options"
 msgstr ""
-"Jurnal maydoni va vaqt tamg'asi diapazonini filtrlash opsiyalarini tanlang"
+"Jurnal maydoni va vaqt tamgʻasi diapazonini filtrlash opsiyalarini tanlang"
 
 #: data/gl-searchpopover.ui:27
 msgid "Select a Journal Field to filter the Logs according to it"
@@ -166,11 +166,11 @@ msgstr "Qachon"
 
 #: data/gl-searchpopover.ui:156
 msgid "Show Logs from…"
-msgstr "Jurnallarni ko‘rsatish…"
+msgstr "Jurnallarni koʻrsatish…"
 
 #: data/gl-searchpopover.ui:181
 msgid "Select Timestamp Range of the Log Entries to be shown"
-msgstr "Ko'rsatiladigan jurnal yozuvlarining vaqt tamg'asi oralig'ini tanlang"
+msgstr "Koʻrsatiladigan jurnal yozuvlarining vaqt tamgʻasi oraligʻini tanlang"
 
 #: data/gl-searchpopover.ui:188 data/gl-searchpopover.ui:906
 #: src/gl-searchpopover.c:1306
@@ -195,7 +195,7 @@ msgstr "Aniq"
 
 #: data/gl-searchpopover.ui:277
 msgid "Match complete string only"
-msgstr "Faqat to'liq qatorni moslang"
+msgstr "Faqat toʻliq qatorni moslang"
 
 #: data/gl-searchpopover.ui:319
 msgid "Back"
@@ -203,7 +203,7 @@ msgstr "Orqaga"
 
 #: data/gl-searchpopover.ui:337
 msgid "Show Logs Starting From…"
-msgstr "Jurnallarni ko‘rsatish…"
+msgstr "Jurnallarni koʻrsatish…"
 
 #: data/gl-searchpopover.ui:358
 msgid "Select a start date"
@@ -283,7 +283,7 @@ msgstr "Tizimli birlik"
 
 #: data/gl-searchpopover.ui:892
 msgid "Executable Path"
-msgstr "Bajariladigan yo'l"
+msgstr "Bajariladigan yoʻl"
 
 #: data/gl-searchpopover.ui:911
 msgid "Previous Boot"
@@ -307,7 +307,7 @@ msgstr "Butun jurnal"
 
 #: data/gl-searchpopover.ui:948
 msgid "Set Custom Range…"
-msgstr "Maxsus diapazonni o‘rnatish…"
+msgstr "Maxsus diapazonni oʻrnatish…"
 
 #: data/gl-window.ui:30
 msgid "Help"
@@ -335,12 +335,12 @@ msgstr "Oynani yopish"
 #: data/help-overlay.ui:24
 msgctxt "shortcut window"
 msgid "Show help"
-msgstr "Yordam ko’rsatish"
+msgstr "Yordam koʻrsatish"
 
 #: data/help-overlay.ui:30
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
-msgstr "Afzalliklarni ko’rsatish"
+msgstr "Afzalliklarni koʻrsatish"
 
 #: data/help-overlay.ui:37
 msgctxt "shortcut window"
@@ -364,14 +364,14 @@ msgstr "Loglar"
 
 #: data/org.gnome.Logs.appdata.xml.in:8 data/org.gnome.Logs.desktop.in:4
 msgid "View detailed event logs for the system"
-msgstr "Tizim uchun batafsil voqealar jurnallarini ko'ring"
+msgstr "Tizim uchun batafsil voqealar jurnallarini koʻring"
 
 #: data/org.gnome.Logs.appdata.xml.in:10
 msgid ""
 "Logs shows events from the systemd journal, and sorts them into categories, "
 "such as hardware and applications."
 msgstr ""
-"Jurnallar tizim jurnalidagi voqealarni ko'rsatadi va ularni apparat va "
+"Jurnallar tizim jurnalidagi voqealarni koʻrsatadi va ularni apparat va "
 "ilovalar kabi toifalarga ajratadi."
 
 #: data/org.gnome.Logs.appdata.xml.in:12
@@ -379,9 +379,9 @@ msgid ""
 "Using Logs you can search your logs by typing a search term, and view "
 "detailed information about each event by clicking on it."
 msgstr ""
-"Jurnallardan foydalanib, siz qidiruv so'zini kiritish orqali "
+"Jurnallardan foydalanib, siz qidiruv soʻzini kiritish orqali "
 "jurnallaringizni qidirishingiz va ustiga bosish orqali har bir voqea haqida "
-"batafsil ma'lumotni ko'rishingiz mumkin."
+"batafsil ma'lumotni koʻrishingiz mumkin."
 
 #: data/org.gnome.Logs.appdata.xml.in:63 src/gl-application.c:134
 msgid "The GNOME Project"
@@ -389,9 +389,10 @@ msgstr "GNOME loyihasi"
 
 #: data/org.gnome.Logs.desktop.in:3
 msgid "Log Viewer"
-msgstr "Jurnalni ko'ruvchi"
+msgstr "Jurnalni koʻruvchi"
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Logs.desktop.in:6
 msgid "log;journal;debug;error;"
 msgstr "jurnal;jurnal;debug;xato;"
@@ -402,17 +403,17 @@ msgstr "Ogohlantirishga e'tibor bermang"
 
 #: data/org.gnome.Logs.gschema.xml:6
 msgid ""
-"Whether to ignore the warning that says you don’t have sufficient permission "
-"to view logs. If ignored, the warning won’t show up again."
+"Whether to ignore the warning that says you don’t have sufficient permission"
+" to view logs. If ignored, the warning won’t show up again."
 msgstr ""
-"Jurnallarni ko'rish uchun etarli ruxsatingiz yo'qligini bildiruvchi "
+"Jurnallarni koʻrish uchun etarli ruxsatingiz yoʻqligini bildiruvchi "
 "ogohlantirishga e'tibor bermaslik kerakmi. Agar e'tibor berilmasa, "
-"ogohlantirish yana ko'rinmaydi."
+"ogohlantirish yana koʻrinmaydi."
 
 #: data/org.gnome.Logs.gschema.xml:10
 msgid "How to sort list rows in the event view list"
 msgstr ""
-"Voqealarni ko'rish ro'yxatida ro'yxat satrlarini qanday saralash mumkin"
+"Voqealarni koʻrish roʻyxatida roʻyxat satrlarini qanday saralash mumkin"
 
 #: data/org.gnome.Logs.gschema.xml:11
 msgid "Sort list rows in ascending or descending order for the selected type"
@@ -422,12 +423,12 @@ msgstr ""
 
 #: src/gl-application.c:82 src/gl-window.c:285
 msgid "Failed To Open Help"
-msgstr "Yordamni ochib bo'lmadi"
+msgstr "Yordamni ochib boʻlmadi"
 
 #: src/gl-application.c:85 src/gl-window.c:288
 #, c-format
 msgid "Failed to open the given help URI: %s"
-msgstr "Berilgan yordam URI ni ochib bo‘lmadi: %s"
+msgstr "Berilgan yordam URI ni ochib boʻlmadi: %s"
 
 #: src/gl-application.c:88 src/gl-window.c:175 src/gl-window.c:291
 msgid "_Close"
@@ -450,7 +451,7 @@ msgstr "Xavfsiz Boot yuklash oʻchirilgan"
 #. * view.
 #: src/gl-eventviewlist.c:431
 msgid "No Results"
-msgstr "Natija yo'q"
+msgstr "Natija yoʻq"
 
 #: src/gl-eventviewrow.c:228
 msgid "Other"
@@ -622,7 +623,7 @@ msgstr "Eksport amalga oshmadi"
 
 #: src/gl-window.c:173
 msgid "Unable to export log messages to a file"
-msgstr "Jurnal xabarlarini faylga eksport qilib bo‘lmadi"
+msgstr "Jurnal xabarlarini faylga eksport qilib boʻlmadi"
 
 #: src/gl-window.c:194
 msgid "log messages"
@@ -634,7 +635,7 @@ msgstr "Tizim jurnallarini oʻqib boʻlmadi"
 
 #: src/gl-window.c:483
 msgid "Unable to read user logs"
-msgstr "Foydalanuvchi jurnallarini o‘qib bo‘lmadi"
+msgstr "Foydalanuvchi jurnallarini oʻqib boʻlmadi"
 
 #: src/gl-window.c:501
 msgid "No logs available"

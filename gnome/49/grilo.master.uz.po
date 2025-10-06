@@ -33,16 +33,16 @@ msgstr "Soxta tarkibga kira olmadi: %s"
 
 #: libs/net/grl-net-wc.c:465
 msgid "Cannot connect to the server"
-msgstr "Serverga ulanib bo'lmadi"
+msgstr "Serverga ulanib boʻlmadi"
 
 #: libs/net/grl-net-wc.c:471
 msgid "Cannot connect to the proxy server"
-msgstr "Proksi serverga ulanib bo'lmadi"
+msgstr "Proksi serverga ulanib boʻlmadi"
 
 #: libs/net/grl-net-wc.c:481
 #, c-format
 msgid "Invalid request URI or header: %s"
-msgstr "Noto‘g‘ri so‘rov URI yoki sarlavha: %s"
+msgstr "Notoʻgʻri soʻrov URI yoki sarlavha: %s"
 
 #: libs/net/grl-net-wc.c:488
 #, c-format
@@ -52,7 +52,7 @@ msgstr "Tasdiqlash talab qilinadi: %s"
 #: libs/net/grl-net-wc.c:493
 #, c-format
 msgid "The requested resource was not found: %s"
-msgstr "So‘ralgan manba topilmadi: %s"
+msgstr "Soʻralgan manba topilmadi: %s"
 
 #: libs/net/grl-net-wc.c:500
 #, c-format
@@ -73,24 +73,25 @@ msgstr "Maʼlumot mavjud emas"
 #: libs/net/grl-net-wc.c:731
 #, c-format
 msgid "Invalid URL %s"
-msgstr "Noto'g'ri URL %s"
+msgstr "Notoʻgʻri URL %s"
 
 #: src/grilo.c:218
 msgid "Semicolon-separated paths containing Grilo plugins"
 msgstr ""
-"Grilo plaginlarini o‘z ichiga olgan fayl yo‘llari nuqtali vergul(;) bilan "
+"Grilo plaginlarini oʻz ichiga olgan fayl yoʻllari nuqtali vergul(;) bilan "
 "ajratilgan"
 
 #: src/grilo.c:220
 msgid "Colon-separated paths containing Grilo plugins"
 msgstr ""
-"Grilo plaginlarini o‘z ichiga olgan fayl yo‘llari ikki nuqta(:) bilan "
+"Grilo plaginlarini oʻz ichiga olgan fayl yoʻllari ikki nuqta(:) bilan "
 "ajratilgan"
 
 #: src/grilo.c:223
 msgid "Colon-separated list of Grilo plugins to use"
 msgstr ""
-"Foydalaniladigan Grilo plaginlarining ikki nuqta(:) bilan ajratilgan ro‘yxati"
+"Foydalaniladigan Grilo plaginlarining ikki nuqta(:) bilan ajratilgan "
+"roʻyxati"
 
 #: src/grilo.c:228
 msgid "Grilo Options"
@@ -98,7 +99,7 @@ msgstr "Grilo Tanlovlari"
 
 #: src/grilo.c:229
 msgid "Show Grilo Options"
-msgstr "Grillo Tanlovlarini ko’rsatish"
+msgstr "Grillo Tanlovlarini koʻrsatish"
 
 #: src/grl-multiple.c:134
 #, c-format
@@ -108,7 +109,7 @@ msgstr "Qidiriladigan manbalar mavjud emas"
 #: src/grl-multiple.c:511
 #, c-format
 msgid "Could not resolve media for URI “%s”"
-msgstr "URI “%s” uchun media manbasini topib bo‘lmadi"
+msgstr "URI “%s” uchun media manbasini topib boʻlmadi"
 
 #: src/grl-registry.c:499 src/grl-registry.c:1538
 #, c-format
@@ -139,17 +140,17 @@ msgstr "\"%s\" identifikatoriga ega manba topilmadi"
 #: src/grl-registry.c:1218
 #, c-format
 msgid "Failed to load plugin from %s"
-msgstr "%s manzilidan plagin yuklab olib bo'lmadi"
+msgstr "%s manzilidan plagin yuklab olib boʻlmadi"
 
 #: src/grl-registry.c:1227
 #, c-format
 msgid "Invalid plugin file %s"
-msgstr "Noto‘g‘ri plagin fayli: %s"
+msgstr "Notoʻgʻri plagin fayli: %s"
 
 #: src/grl-registry.c:1238
 #, c-format
 msgid "“%s” is not a valid plugin file"
-msgstr "“%s” to‘g‘ri plagin fayli emas"
+msgstr "“%s” toʻgʻri plagin fayli emas"
 
 #: src/grl-registry.c:1257
 #, c-format
@@ -159,12 +160,12 @@ msgstr "Plagin “%s” allaqachon mavjud"
 #: src/grl-registry.c:1420
 #, c-format
 msgid "Invalid path %s"
-msgstr "Noto‘g‘ri fayl yo‘li: %s"
+msgstr "Notoʻgʻri fayl yoʻli: %s"
 
 #: src/grl-registry.c:1487
 #, c-format
 msgid "All configured plugin paths are invalid"
-msgstr "Sozlangan barcha plagin yo‘llari noto‘g‘ri"
+msgstr "Sozlangan barcha plagin yoʻllari notoʻgʻri"
 
 #: src/grl-registry.c:1527
 #, c-format
@@ -184,7 +185,7 @@ msgstr "Plagin konfiguratsiyasida “plugin-id” havolasi topilmadi"
 #: src/grl-source.c:2775
 #, c-format
 msgid "Some keys could not be written"
-msgstr "Ba'zi kalitlarni yozib bo'lmadi"
+msgstr "Ba'zi kalitlarni yozib boʻlmadi"
 
 #: src/grl-source.c:2848
 #, c-format
@@ -194,4 +195,4 @@ msgstr "Belgilangan kalitlarning hech biri yozilmaydi"
 #: src/grl-source.c:4191
 #, c-format
 msgid "Media has no “id”, cannot remove"
-msgstr "Mediada “id” mavjud emas, o‘chirish mumkin emas"
+msgstr "Mediada “id” mavjud emas, oʻchirish mumkin emas"
