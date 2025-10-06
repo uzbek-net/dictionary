@@ -2,8 +2,10 @@
 source: https://gist.github.com/devhero/8ae2229d9ea1a59003ced4587c9cb236
 """
 
+from apostrophe_normalize_list import normalize_apostrophes
 import requests
 import tarfile
+
 
 gnome_49: str = "https://l10n.gnome.org/languages/uz/gnome-49/ui.tar.gz"
 gnome_circle: str = "https://l10n.gnome.org/languages/uz/gnome-circle/ui.tar.gz"
@@ -24,3 +26,6 @@ for k, v in archives.items():
     if res.status_code == 200:
         file = tarfile.open(fileobj=res.raw, mode="r|gz")
         file.extractall("gnome/{}".format(k), filter="data")
+
+        # fix oʻ, gʻ and ʼ unicodes
+        normalize_apostrophes("gnome/{}/".format(k))
