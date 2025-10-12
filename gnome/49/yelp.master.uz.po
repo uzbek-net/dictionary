@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: yelp\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp/issues/\n"
-"POT-Creation-Date: 2025-09-22 03:37+0000\n"
+"POT-Creation-Date: 2025-10-11 04:12+0000\n"
 "PO-Revision-Date: 2025-04-02 21:58+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -88,8 +88,6 @@ msgstr "%s sahifasi %s qoʻllanmasida topilmadi."
 
 #: libyelp/yelp-docbook-document.c:337 libyelp/yelp-info-document.c:357
 #: libyelp/yelp-man-document.c:335
-#, fuzzy, c-format
-#| msgid "The file does not exist."
 msgid "The file does not exist."
 msgstr "'%s' fayli mavjud emas."
 
@@ -137,7 +135,6 @@ msgid "No matching help pages found."
 msgstr "Mos yordam sahifalari topilmadi."
 
 #: libyelp/yelp-error.c:35
-#, c-format
 msgid "An unknown error occurred."
 msgstr "Noma'lum xatolik yuz berdi."
 
@@ -177,7 +174,6 @@ msgid "The URI ‘%s’ does not point to a valid page."
 msgstr "'%s' fayli mavjud emas."
 
 #: libyelp/yelp-view.c:820 libyelp/yelp-view.c:2104
-#, c-format
 msgid "The URI does not point to a valid page."
 msgstr "URI haqiqiy sahifaga ishora qilmaydi."
 
@@ -187,7 +183,6 @@ msgid "The URI ‘%s’ could not be parsed."
 msgstr "'%s' fayli mavjud emas."
 
 #: libyelp/yelp-view.c:830
-#, c-format
 msgid "Unknown Error."
 msgstr "Noma'lum xato."
 
@@ -284,7 +279,6 @@ msgid "Could not load a document for ‘%s’"
 msgstr "“%s” uchun hujjat yuklanmadi"
 
 #: libyelp/yelp-view.c:1859
-#, c-format
 msgid "Could not load a document"
 msgstr "Hujjatni yuklab boʻlmadi"
 

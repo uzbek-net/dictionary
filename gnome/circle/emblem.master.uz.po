@@ -1,0 +1,191 @@
+# Uzbek (Latin) translation for emblem.
+# Copyright (C) 2025 emblem's COPYRIGHT HOLDER
+# This file is distributed under the same license as the emblem package.
+# BeMeritus <bemerituss@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: emblem master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/design/emblem/-/issues\n"
+"POT-Creation-Date: 2025-10-10 16:52+0000\n"
+"PO-Revision-Date: 2025-10-06 16:54+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/org.gnome.design.Emblem.desktop.in.in:2
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:7
+#: data/resources/ui/window.ui:5 src/application.rs:101 src/main.rs:36
+msgid "Emblem"
+msgstr "Emblem"
+
+#: data/org.gnome.design.Emblem.desktop.in.in:3
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:8
+msgid "Generate project avatars"
+msgstr "Loyiha avatarlarini yaratish"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.design.Emblem.desktop.in.in:9
+msgid "logo;"
+msgstr "logotip;"
+
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:10
+msgid ""
+"Generate projects avatars for your Matrix rooms and git forges from a "
+"symbolic icon."
+msgstr ""
+"Matrix xonalaringiz va git platformalaringiz uchun ramziy belgilardan loyiha"
+" avatarlarini yarating."
+
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:15
+msgid "Main window"
+msgstr "Asosiy oyna"
+
+#: data/resources/ui/export.ui:11
+msgid "Preview"
+msgstr "Oldindan koʻrish"
+
+#: data/resources/ui/export.ui:45
+msgid "Export as PNG"
+msgstr "PNG sifatida eksport qilish"
+
+#: data/resources/ui/export.ui:53
+msgid "Export as SVG"
+msgstr "SVG sifatida eksport qilish"
+
+#: data/resources/ui/generate.ui:6
+msgid "_Save Favicons…"
+msgstr "Favikonlarni saqlash…"
+
+#: data/resources/ui/generate.ui:10
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/resources/ui/generate.ui:14
+msgid "_About Emblem"
+msgstr "Emblema haqida"
+
+#: data/resources/ui/generate.ui:29
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/resources/ui/generate.ui:58
+msgid "_Auto"
+msgstr "Avtomatik"
+
+#: data/resources/ui/generate.ui:65
+msgid "_Light"
+msgstr "Yorugʻ"
+
+#: data/resources/ui/generate.ui:72
+msgid "_Dark"
+msgstr "Qorongʻi"
+
+#: data/resources/ui/generate.ui:84
+msgid "C_ircle"
+msgstr "Aylana"
+
+#: data/resources/ui/generate.ui:91
+msgid "S_quare"
+msgstr "Kvadrat"
+
+#: data/resources/ui/generate.ui:110
+msgid "Choose _Symbolic…"
+msgstr "Ramziy belgini tanlang"
+
+#: data/resources/ui/generate.ui:129
+msgid "_Color"
+msgstr "Rang"
+
+#: data/resources/ui/generate.ui:132
+msgid "Set Color"
+msgstr "Rangni sozlash"
+
+#: data/resources/ui/generate.ui:143
+msgid "_Gradient"
+msgstr "Gradient"
+
+#: data/resources/ui/generate.ui:151
+msgid "Set Top Gradient Color"
+msgstr "Yuqori gradiyent rangini sozlash"
+
+#: data/resources/ui/generate.ui:160
+msgid "Set Bottom Gradient Color"
+msgstr "Pastki gradiyent rangini sozlash"
+
+#: data/resources/ui/shortcuts.ui:6
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: data/resources/ui/shortcuts.ui:9
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: data/resources/ui/shortcuts.ui:15
+msgctxt "shortcut window"
+msgid "Close Window"
+msgstr "Oynani yopish"
+
+#: data/resources/ui/shortcuts.ui:21
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/resources/ui/shortcuts.ui:27
+msgctxt "shortcut window"
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/resources/ui/shortcuts.ui:33
+msgctxt "shortcut window"
+msgid "Save PNG"
+msgstr "PNGʼni saqlash"
+
+#: data/resources/ui/shortcuts.ui:39
+msgctxt "shortcut window"
+msgid "Save SVG"
+msgstr "SVGʼni saqlash"
+
+#: data/resources/ui/shortcuts.ui:45
+msgctxt "shortcut window"
+msgid "Generate Favicons"
+msgstr "Favikonlar yaratish"
+
+#: src/application.rs:107
+msgid "translator-credits"
+msgstr ""
+"BeMeritus <bemerituss@gmail.com>\n"
+"Baxrom Raxmatov"
+
+#: src/export.rs:195
+msgid "Save PNG"
+msgstr "PNGʼni saqlash"
+
+#. TRANSLATORS Only translate the word logo, not the file format.
+#: src/export.rs:197
+msgid "logo.png"
+msgstr "logotip.png"
+
+#: src/export.rs:211
+msgid "Save SVG"
+msgstr "SVGʼni saqlash"
+
+#. TRANSLATORS Only translate the world logo, not the file format.
+#: src/export.rs:213
+msgid "logo.svg"
+msgstr "logotip.svg"
+
+#: src/generate.rs:237
+msgid "SVG images"
+msgstr "SVG rasmlar"
+
+#: src/generate.rs:244
+msgid "Select Symbolic"
+msgstr "Ramziy belgini tanlang"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdk-pixbuf/issues/new\n"
-"POT-Creation-Date: 2025-09-30 20:07+0000\n"
+"POT-Creation-Date: 2025-10-10 18:21+0000\n"
 "PO-Revision-Date: 2025-04-07 08:52+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -18,18 +18,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.6\n"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:184 gdk-pixbuf/gdk-pixbuf-io.c:1216
+#: gdk-pixbuf/gdk-pixbuf-animation.c:190 gdk-pixbuf/gdk-pixbuf-io.c:1216
 #: gdk-pixbuf/gdk-pixbuf-io.c:1489
 #, c-format
 msgid "Failed to open file “%s”: %s"
 msgstr "“%s” faylini ochib boʻlmadi: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:197 gdk-pixbuf/gdk-pixbuf-io.c:1077
+#: gdk-pixbuf/gdk-pixbuf-animation.c:203 gdk-pixbuf/gdk-pixbuf-io.c:1077
 #, c-format
 msgid "Image file “%s” contains no data"
 msgstr "“%s” rasm faylida maʼlumotlar yoʻq"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:235
+#: gdk-pixbuf/gdk-pixbuf-animation.c:241
 #, c-format
 msgid ""
 "Failed to load animation “%s”: reason not known, probably a corrupt "
@@ -38,7 +38,7 @@ msgstr ""
 "'%s' : animatsiyasini yuklab boʻlmadi: sababi nomaʼlum, balki fayl buzuq "
 "boʻlishi mumkin"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:303 gdk-pixbuf/gdk-pixbuf-io.c:1252
+#: gdk-pixbuf/gdk-pixbuf-animation.c:309 gdk-pixbuf/gdk-pixbuf-io.c:1252
 #: gdk-pixbuf/gdk-pixbuf-io.c:1541
 #, c-format
 msgid ""
@@ -214,11 +214,11 @@ msgstr ""
 msgid "Incremental loading of image type “%s” is not supported"
 msgstr "'%s' rasm turi qoʻllanilmaydi"
 
-#: gdk-pixbuf/gdk-pixbuf-simple-anim.c:164
+#: gdk-pixbuf/gdk-pixbuf-simple-anim.c:166
 msgid "Loop"
 msgstr "Loop"
 
-#: gdk-pixbuf/gdk-pixbuf-simple-anim.c:165
+#: gdk-pixbuf/gdk-pixbuf-simple-anim.c:167
 msgid "Whether the animation should loop when it reaches the end"
 msgstr "Animatsiya oxiriga yetganda aylanish kerakmi"
 

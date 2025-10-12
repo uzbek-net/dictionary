@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calls main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/calls/issues/\n"
-"POT-Creation-Date: 2025-10-03 02:36+0000\n"
+"POT-Creation-Date: 2025-10-10 18:37+0000\n"
 "PO-Revision-Date: 2025-04-02 18:08+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -374,7 +374,7 @@ msgstr "_SMS yuborish"
 msgid "On hold"
 msgstr "Ushlab qolingan"
 
-#: src/ui/contacts-box.ui:39
+#: src/ui/contacts-box.ui:47
 msgid "No Contacts Found"
 msgstr "Hech qanday kontakt topilmadi"
 
@@ -407,11 +407,11 @@ msgstr "_VoIP hisoblari"
 msgid "_About Calls"
 msgstr "_Qoʻngʻiroqlar haqida"
 
-#: src/ui/new-call-box.ui:32
+#: src/ui/new-call-box.ui:36
 msgid "Enter a VoIP address"
 msgstr "VoIP manzilini kiriting"
 
-#: src/ui/new-call-box.ui:56
+#: src/ui/new-call-box.ui:60
 msgid "SIP Account"
 msgstr "SIP hisobi"
 

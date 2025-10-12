@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: d-spy main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/d-spy/issues\n"
-"POT-Creation-Date: 2025-09-22 21:41+0000\n"
+"POT-Creation-Date: 2025-10-06 23:08+0000\n"
 "PO-Revision-Date: 2025-03-27 02:07+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -157,7 +157,7 @@ msgid "Select a bus to explore objects"
 msgstr ""
 
 #: src/dspy-window.ui:673 src/dspy-window.ui:864 src/dspy-window.ui:908
-#: src/dspy-window.ui:1094 src/dspy-window.ui:1255
+#: src/dspy-window.ui:1096 src/dspy-window.ui:1257
 msgid "Members"
 msgstr ""
 
@@ -177,25 +177,25 @@ msgstr ""
 msgid "Select an object to explore members"
 msgstr ""
 
-#: src/dspy-window.ui:941 src/dspy-window.ui:1127 src/dspy-window.ui:1288
+#: src/dspy-window.ui:941 src/dspy-window.ui:1129 src/dspy-window.ui:1290
 msgid "Bus"
 msgstr "Bus"
 
-#: src/dspy-window.ui:954 src/dspy-window.ui:1140 src/dspy-window.ui:1301
+#: src/dspy-window.ui:954 src/dspy-window.ui:1142 src/dspy-window.ui:1303
 #, fuzzy
 #| msgid "Bus Names"
 msgid "Bus Name"
 msgstr "Bus nomlari"
 
-#: src/dspy-window.ui:968 src/dspy-window.ui:1154 src/dspy-window.ui:1315
+#: src/dspy-window.ui:968 src/dspy-window.ui:1156 src/dspy-window.ui:1317
 msgid "Owner"
 msgstr "Ega"
 
-#: src/dspy-window.ui:982 src/dspy-window.ui:1168 src/dspy-window.ui:1329
+#: src/dspy-window.ui:982 src/dspy-window.ui:1170 src/dspy-window.ui:1331
 msgid "Object Path"
 msgstr "Obyekt joylashuvi"
 
-#: src/dspy-window.ui:996 src/dspy-window.ui:1182 src/dspy-window.ui:1343
+#: src/dspy-window.ui:996 src/dspy-window.ui:1184 src/dspy-window.ui:1345
 msgid "Interface"
 msgstr "Interfeys"
 
@@ -213,85 +213,85 @@ msgstr ""
 msgid "Value"
 msgstr ""
 
-#: src/dspy-window.ui:1200
+#: src/dspy-window.ui:1202
 #, fuzzy
 #| msgid "Signals"
 msgid "Signal"
 msgstr "Signallar"
 
-#: src/dspy-window.ui:1214
+#: src/dspy-window.ui:1216
 #, fuzzy
 #| msgid "Signals"
 msgid "Signature"
 msgstr "Signallar"
 
-#: src/dspy-window.ui:1361
+#: src/dspy-window.ui:1363
 msgid "Method"
 msgstr "Metod"
 
-#: src/dspy-window.ui:1375 src/dspy-window.ui:1405
+#: src/dspy-window.ui:1377 src/dspy-window.ui:1407
 msgid "Parameters"
 msgstr "Parametrlar"
 
-#: src/dspy-window.ui:1389
+#: src/dspy-window.ui:1391
 msgid "Return Type"
 msgstr ""
 
-#: src/dspy-window.ui:1426
+#: src/dspy-window.ui:1428
 #, fuzzy
 #| msgid "Method"
 msgid "Call Method"
 msgstr "Metod"
 
-#: src/dspy-window.ui:1442
+#: src/dspy-window.ui:1444
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/dspy-window.ui:1459
+#: src/dspy-window.ui:1461
 msgid "Result"
 msgstr "Natija"
 
-#: src/dspy-window.ui:1491
+#: src/dspy-window.ui:1493
 msgid "Statistics"
 msgstr ""
 
-#: src/dspy-window.ui:1495
+#: src/dspy-window.ui:1497
 msgid "Duration"
 msgstr ""
 
-#: src/dspy-window.ui:1501
+#: src/dspy-window.ui:1503
 msgid "Minimum Duration"
 msgstr ""
 
-#: src/dspy-window.ui:1507
+#: src/dspy-window.ui:1509
 msgid "Maximum Duration"
 msgstr ""
 
-#: src/dspy-window.ui:1536
+#: src/dspy-window.ui:1538
 #, fuzzy
 #| msgid "Connect"
 msgid "New Connection"
 msgstr "Bogʻlanish"
 
-#: src/dspy-window.ui:1547
+#: src/dspy-window.ui:1549
 msgid "Bus Address"
 msgstr "Bus manzili"
 
-#: src/dspy-window.ui:1558
+#: src/dspy-window.ui:1560
 msgid "Connect"
 msgstr "Bogʻlanish"
 
-#: src/dspy-window.ui:1579
+#: src/dspy-window.ui:1581
 msgid "_New Window"
 msgstr "_Yangi Oyna"
 
-#: src/dspy-window.ui:1585
+#: src/dspy-window.ui:1587
 #, fuzzy
 #| msgid "Connect to Other Bus"
 msgid "Connect to Other _Bus"
 msgstr "Boshqa Bus ga ulanish"
 
-#: src/dspy-window.ui:1591
+#: src/dspy-window.ui:1593
 msgid "_About D-Spy"
 msgstr "_D-Spy haqida"
 

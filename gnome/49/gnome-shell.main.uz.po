@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2025-10-06 03:07+0000\n"
+"POT-Creation-Date: 2025-10-10 22:19+0000\n"
 "PO-Revision-Date: 2025-04-02 17:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -95,7 +95,7 @@ msgid "Open new window of pinned app 9"
 msgstr "Qattiqlangan ilovaning yangi oynasini oching 9"
 
 #. Translators: name of the folder under ~/Pictures for screenshots.
-#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2292
+#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2295
 msgid "Screenshots"
 msgstr "Skrinshotlar"
 
@@ -1899,7 +1899,7 @@ msgstr "Oʻchirib qoʻyish"
 msgid "Leave Off"
 msgstr "Oʻchirish"
 
-#: js/ui/keyboard.js:179 js/ui/status/keyboard.js:901
+#: js/ui/keyboard.js:179 js/ui/status/keyboard.js:908
 msgid "Keyboard Settings"
 msgstr "Klaviatura sozlamalari"
 
@@ -2120,91 +2120,91 @@ msgstr "Bloklash ilova tomonidan bloklangan"
 msgid "Screen Capture"
 msgstr "Skrinshot olindi"
 
-#: js/ui/screenshot.js:1268
+#: js/ui/screenshot.js:1271
 msgid "Selection"
 msgstr "Tanlash rejimi"
 
-#: js/ui/screenshot.js:1278
+#: js/ui/screenshot.js:1281
 msgid "Area Selection"
 msgstr "Hududni tanlash"
 
-#: js/ui/screenshot.js:1283
+#: js/ui/screenshot.js:1286
 msgid "Screen"
 msgstr "Ekran"
 
-#: js/ui/screenshot.js:1293
+#: js/ui/screenshot.js:1296
 msgid "Screen Selection"
 msgstr "Ekranni tanlash"
 
-#: js/ui/screenshot.js:1298
+#: js/ui/screenshot.js:1301
 msgid "Window"
 msgstr "Oyna"
 
-#: js/ui/screenshot.js:1308
+#: js/ui/screenshot.js:1311
 msgid "Window Selection"
 msgstr "Oyna tanlash"
 
-#: js/ui/screenshot.js:1333 js/ui/status/system.js:118
+#: js/ui/screenshot.js:1336 js/ui/status/system.js:118
 msgid "Take Screenshot"
 msgstr "Skrinshot oling"
 
-#: js/ui/screenshot.js:1349
+#: js/ui/screenshot.js:1352
 msgid "Record Screen"
 msgstr "Yozib olish ekrani"
 
 #. Translators: since this string refers to an action,
 #. it needs to be phrased as a verb.
-#: js/ui/screenshot.js:1366
+#: js/ui/screenshot.js:1369
 msgid "Capture"
 msgstr "Qoʻlga olish"
 
-#: js/ui/screenshot.js:1388
+#: js/ui/screenshot.js:1391
 msgid "Show Pointer"
 msgstr "Pointerni koʻrsatish"
 
 #. Translators: this is the folder where recorded
 #. screencasts are stored.
-#: js/ui/screenshot.js:2016
+#: js/ui/screenshot.js:2019
 msgid "Screencasts"
 msgstr "Ekran tasvirlari"
 
 #. Translators: this is a filename used for screencast
 #. * recording, where "%d" and "%t" date and time, e.g.
 #. * "Screencast From 07-17-2013 10:00:46 PM"
-#: js/ui/screenshot.js:2021
+#: js/ui/screenshot.js:2024
 #, no-c-format
 msgid "Screencast From %d %t"
 msgstr "Skrinshot: %d %t"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2067
+#: js/ui/screenshot.js:2070
 msgid "Screencast recorded"
 msgstr "Skrinshot yozib olingan"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2080
+#: js/ui/screenshot.js:2083
 msgid "Screencast failed to start"
 msgstr "Skrinshot boshlanmadi"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2086
+#: js/ui/screenshot.js:2089
 msgid "Screencast ended: Out of disk space"
 msgstr "Skrinshot tugadi: Diskda joy qolmadi"
 
 #. We can encourage user to try again on service crashes since the
 #. recorder will auto-blocklist the pipeline that crashed.
 #. Translators: notification title.
-#: js/ui/screenshot.js:2092
+#: js/ui/screenshot.js:2095
 msgid "Screencast ended unexpectedly, please try again"
 msgstr "Skrinshot kutilmaganda tugadi, qayta urinib koʻring"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2095
+#: js/ui/screenshot.js:2098
 msgid "Screencast ended unexpectedly"
 msgstr "Skrinshot kutilmaganda tugadi"
 
 #. Translators: notification body when a screencast was recorded.
-#: js/ui/screenshot.js:2108
+#: js/ui/screenshot.js:2111
 #, fuzzy
 #| msgid "Click here to view the video."
 msgid "Click here to view the video"
@@ -2212,30 +2212,30 @@ msgstr "Videoni koʻrish uchun shu yerni bosing."
 
 #. Translators: button on the screencast notification.
 #. Translators: button on the screenshot notification.
-#: js/ui/screenshot.js:2116 js/ui/screenshot.js:2359
+#: js/ui/screenshot.js:2119 js/ui/screenshot.js:2362
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 
 #. Translators: this is the name of the file that the screenshot is
 #. saved to. The placeholder is a timestamp, e.g. "2017-05-21 12-24-03".
-#: js/ui/screenshot.js:2305
+#: js/ui/screenshot.js:2308
 #, javascript-format
 msgid "Screenshot From %s"
 msgstr "Skrinshot: %s"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2349
+#: js/ui/screenshot.js:2352
 msgid "Screenshot captured"
 msgstr "Skrinshot olindi"
 
 #. Translators: notification body when a screenshot was captured.
-#: js/ui/screenshot.js:2351
+#: js/ui/screenshot.js:2354
 #, fuzzy
 #| msgid "You can paste the image from the clipboard."
 msgid "You can paste the image from the clipboard"
 msgstr "Tasvirni vaqtinchalik xotiradan joylashtirishingiz mumkin."
 
-#: js/ui/screenshot.js:2409 js/ui/screenshot.js:2571
+#: js/ui/screenshot.js:2412 js/ui/screenshot.js:2574
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
@@ -2418,7 +2418,7 @@ msgstr "Past"
 msgid "High"
 msgstr "Yuqori"
 
-#: js/ui/status/backlight.js:162 js/ui/status/keyboard.js:883
+#: js/ui/status/backlight.js:162 js/ui/status/keyboard.js:890
 msgid "Keyboard"
 msgstr "Klaviatura"
 
@@ -2507,7 +2507,7 @@ msgstr "Ikkilamchi bosing"
 msgid "Dwell Click"
 msgstr "Dwell bosing"
 
-#: js/ui/status/keyboard.js:900
+#: js/ui/status/keyboard.js:907
 msgid "Show Keyboard Layout"
 msgstr "Klaviatura tartibini koʻrsatish"
 
@@ -3771,13 +3771,13 @@ msgstr "Tez sozlamalarga element qoʻshing"
 
 #. translators:
 #. * The device has been disabled
-#: subprojects/gvc/gvc-mixer-control.c:1908
+#: subprojects/gvc/gvc-mixer-control.c:1872
 msgid "Disabled"
 msgstr "Oʻchirilgan"
 
 #. translators:
 #. * The number of sound outputs on a particular device
-#: subprojects/gvc/gvc-mixer-control.c:1915
+#: subprojects/gvc/gvc-mixer-control.c:1879
 #, c-format
 msgid "%u Output"
 msgid_plural "%u Outputs"
@@ -3785,13 +3785,13 @@ msgstr[0] "%u Chiqish"
 
 #. translators:
 #. * The number of sound inputs on a particular device
-#: subprojects/gvc/gvc-mixer-control.c:1925
+#: subprojects/gvc/gvc-mixer-control.c:1889
 #, c-format
 msgid "%u Input"
 msgid_plural "%u Inputs"
 msgstr[0] "%u kiritish"
 
-#: subprojects/gvc/gvc-mixer-control.c:2876
+#: subprojects/gvc/gvc-mixer-control.c:2872
 msgid "System Sounds"
 msgstr "Tizim tovushlari"
 

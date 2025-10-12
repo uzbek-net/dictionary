@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2025-10-05 17:22+0000\n"
+"POT-Creation-Date: 2025-10-11 19:50+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -622,51 +622,51 @@ msgstr "Agar belgilansa, betning chegarasi boʻylab rasm chiziladi."
 msgid "Page Handling"
 msgstr "Sahifalarni qayta ishlash"
 
-#: libview/pps-view.c:2109
+#: libview/pps-view.c:2110
 msgid "Go to first page"
 msgstr "Birinchi sahifaga oʻtish"
 
-#: libview/pps-view.c:2111
+#: libview/pps-view.c:2112
 msgid "Go to previous page"
 msgstr "Oldingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2113
+#: libview/pps-view.c:2114
 msgid "Go to next page"
 msgstr "Keyingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2115
+#: libview/pps-view.c:2116
 msgid "Go to last page"
 msgstr "Soʻngi sahifaga oʻtish"
 
-#: libview/pps-view.c:2117
+#: libview/pps-view.c:2118
 msgid "Go to page"
 msgstr "Sahifaga oʻtish"
 
-#: libview/pps-view.c:2119
+#: libview/pps-view.c:2120
 msgid "Find"
 msgstr "Indekslangan xususiyatlar topilmadi"
 
-#: libview/pps-view.c:2148
+#: libview/pps-view.c:2149
 #, c-format
 msgid "Go to page %s"
 msgstr "%s sahifaga oʻtish"
 
-#: libview/pps-view.c:2154
+#: libview/pps-view.c:2155
 #, c-format
 msgid "Go to %s on file “%s”"
 msgstr "\"%s\" faylidagi %s ga oʻtish"
 
-#: libview/pps-view.c:2157
+#: libview/pps-view.c:2158
 #, c-format
 msgid "Go to file “%s”"
 msgstr "\"%s\" faylga oʻtish"
 
-#: libview/pps-view.c:2165
+#: libview/pps-view.c:2166
 #, c-format
 msgid "Launch %s"
 msgstr "%s ishga tushirish"
 
-#: libview/pps-view.c:2172
+#: libview/pps-view.c:2173
 #, c-format
 msgid "Reset form"
 msgstr "Shaklni tiklash"
@@ -1352,15 +1352,15 @@ msgstr "_Tizimga kirish"
 msgid "Search in document"
 msgstr "Hujjat fayllarini qidirish"
 
-#: shell/resources/pps-search-box.blp:38
+#: shell/resources/pps-search-box.blp:45
 msgid "Search Options"
 msgstr "Qidirish parametrlari"
 
-#: shell/resources/pps-search-box.blp:46
+#: shell/resources/pps-search-box.blp:53
 msgid "_Whole Words Only"
 msgstr "_Whole soʻzlar"
 
-#: shell/resources/pps-search-box.blp:51
+#: shell/resources/pps-search-box.blp:58
 #, fuzzy
 msgid "C_ase Sensitive"
 msgstr "C_ase sezgir"

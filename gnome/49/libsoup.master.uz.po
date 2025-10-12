@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libsoup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues/\n"
-"POT-Creation-Date: 2025-09-17 22:58+0000\n"
+"POT-Creation-Date: 2025-10-11 07:55+0000\n"
 "PO-Revision-Date: 2025-04-04 09:46+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -40,11 +40,11 @@ msgstr "Chiqish buferi juda kichik"
 msgid "Connection terminated unexpectedly"
 msgstr "Ulanish kutilmaganda uzildi"
 
-#: libsoup/http1/soup-body-input-stream.c:484
+#: libsoup/http1/soup-body-input-stream.c:489
 msgid "Invalid seek request"
 msgstr "Notoʻgʻri qidiruv soʻrovi"
 
-#: libsoup/http1/soup-body-input-stream.c:512
+#: libsoup/http1/soup-body-input-stream.c:517
 msgid "Cannot truncate SoupBodyInputStream"
 msgstr "SoupBodyInputStreamni kesib boʻlmadi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amberol main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/amberol/-/issues/\n"
-"POT-Creation-Date: 2025-10-03 13:15+0000\n"
+"POT-Creation-Date: 2025-10-11 21:46+0000\n"
 "PO-Revision-Date: 2025-10-03 18:14+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -122,7 +122,7 @@ msgctxt "a11y"
 msgid "Shuffle"
 msgstr "Aralashtirish"
 
-#: src/gtk/playback-control.blp:116 src/playback_control.rs:114
+#: src/gtk/playback-control.blp:116 src/playback_control.rs:115
 msgid "Enable Repeat"
 msgstr "Qayta takrorlashni yoqish"
 
@@ -397,11 +397,11 @@ msgstr "Notanish albom"
 msgid "Cover image"
 msgstr "Muqova rasmi"
 
-#: src/playback_control.rs:118
+#: src/playback_control.rs:119
 msgid "Repeat All Songs"
 msgstr "Barcha musiqalarni takrorlash"
 
-#: src/playback_control.rs:122
+#: src/playback_control.rs:123
 msgid "Repeat the Current Song"
 msgstr "Joriy musiqani takrorlash"
 
@@ -417,7 +417,7 @@ msgstr "Musiqa  qoʻshish"
 msgid "Open File"
 msgstr "Faylni ochish"
 
-#: src/window.rs:168 src/window.rs:190 src/window.rs:1482
+#: src/window.rs:168 src/window.rs:190 src/window.rs:1483
 msgid "Unable to access files"
 msgstr "Fayllardan foydalanish imkoni yoʻq"
 
@@ -429,40 +429,40 @@ msgstr "Jild qoʻshish"
 msgid "Open Folder"
 msgstr "Jildni ochish"
 
-#: src/window.rs:508
+#: src/window.rs:509
 msgid "No available song found"
 msgstr "Mavjud qoʻshiq topilmadi"
 
-#: src/window.rs:569
+#: src/window.rs:570
 msgid "No songs found"
 msgstr "Hech qanday musiqa topilmadi"
 
-#: src/window.rs:602
+#: src/window.rs:603
 msgid "Added a new song"
 msgstr "Yangi musiqa kiritildi"
 
-#: src/window.rs:603
+#: src/window.rs:604
 msgid "Play"
 msgstr "Ijro"
 
 #. Translators: the `{}` must be left unmodified;
 #. it will be expanded to the number of songs added
 #. to the playlist
-#: src/window.rs:612
+#: src/window.rs:613
 msgid "Added one song"
 msgid_plural "Added {} songs"
 msgstr[0] "{} ta musiqa kiritildi"
 
-#: src/window.rs:1242
+#: src/window.rs:1243
 msgid "Unable to access dropped files"
 msgstr "Tashlab yuborilgan fayllarga kirish imkonsiz"
 
-#: src/window.rs:1336
+#: src/window.rs:1337
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
 
-#: src/window.rs:1347
+#: src/window.rs:1348
 msgid "{hours} hour {minutes} remaining"
 msgid_plural "{hours} hours {minutes} remaining"
 msgstr[0] "{hours} soat {minutes} daqiqa qoldi"
@@ -470,18 +470,18 @@ msgstr[0] "{hours} soat {minutes} daqiqa qoldi"
 #. Translators: the '{}' must be left unmodified, and
 #. it will be replaced by the number of minutes remaining
 #. in the playlist
-#: src/window.rs:1357
+#: src/window.rs:1358
 msgid "{} minute remaining"
 msgid_plural "{} minutes remaining"
 msgstr[0] "{} daqiqa qoldi"
 
-#: src/window.rs:1461
+#: src/window.rs:1462
 msgid "No song selected"
 msgstr "Qoʻshiq tanlanmagan"
 
 #. Translators: The '{}' must be left unmodified, and
 #. it is expanded to the number of songs selected
-#: src/window.rs:1466
+#: src/window.rs:1467
 msgid "{} song selected"
 msgid_plural "{} songs selected"
 msgstr[0] "{} ta musiqa tanlandi"
@@ -489,10 +489,10 @@ msgstr[0] "{} ta musiqa tanlandi"
 #. Translators: `{title}` and `{artist}` must be left
 #. untranslated; they will expand to the title and
 #. artist of the currently playing song, respectively
-#: src/window.rs:1522
+#: src/window.rs:1523
 msgid "Currently playing “{title}” by “{artist}”"
 msgstr "Hozirgi \"{title}\" musiqa \"{artist}\" tomonidan ijro etilmoqda"
 
-#: src/window.rs:1559
+#: src/window.rs:1560
 msgid "Unable to open folder"
 msgstr "Jildni ochish imkonsiz"

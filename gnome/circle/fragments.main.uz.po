@@ -1,0 +1,1106 @@
+# Uzbek (Latin) translation for fragments.
+# Copyright (C) 2025 fragments's COPYRIGHT HOLDER
+# This file is distributed under the same license as the fragments package.
+# BeMeritus <bemerituss@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fragments main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Fragments/issues\n"
+"POT-Creation-Date: 2025-10-10 18:16+0000\n"
+"PO-Revision-Date: 2025-10-09 17:06+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/de.haeckerfelix.Fragments.desktop.in.in:12
+msgid "bittorrent;torrent;magnet;download;p2p;"
+msgstr "bittorrent;torrent;magnet;download;p2p;"
+
+#. General
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:10
+msgid "Manage torrents"
+msgstr "Torrentlarni boshqarish"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:12
+msgid ""
+"An easy to use BitTorrent client. Fragments can be used to transfer files "
+"via the BitTorrent peer-to-peer file-sharing protocol, such as videos, music"
+" or installation images for Linux distributions."
+msgstr ""
+"Foydalanish oson boʻlgan BitTorrent dasturi. Fragment dasturi yordamida "
+"BitTorrent peer-to-peer fayl almashish protokoli orqali videolar, musiqa "
+"yoki Linux tizimlarining oʻrnatish tasvirlari kabi fayllarni uzatish mumkin."
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:16
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:65
+msgid "Overview of all torrents grouped by status"
+msgstr "Status asosida guruhlangan barcha torrentlar haqida umumiy ma’lumot"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:17
+msgid "Schedule the order of downloads with a queue"
+msgstr "Yuklab olishlar tartibini navbat bilan rejalashtirish"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:18
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:73
+msgid "Automatic detection of torrent or magnet links from the clipboard"
+msgstr "Buferdan torrent yoki magnet havolalarini avtomatik aniqlash"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:19
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:69
+msgid "Manage and access individual files of a torrent"
+msgstr "Torrentning alohida fayllarini boshqarish va ularga kirish"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:20
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:77
+msgid "Connect to remote Fragments or Transmission sessions"
+msgstr "Masofaviy Fragments yoki Transmission seanslariga ulanish"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:22
+msgid "Fragments uses the Transmission BitTorrent project under the hood."
+msgstr ""
+"Fragments kapot ostida Transmission BitTorrent loyihasidan foydalanadi."
+
+#. Branding
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:29
+msgid "Felix Häcker"
+msgstr "Felix Häcker"
+
+#: data/gtk/add_connection_dialog.ui:9
+msgid "Add Remote Connection"
+msgstr "Masofaviy ulanishni qoʻshish"
+
+#: data/gtk/add_connection_dialog.ui:19
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: data/gtk/add_connection_dialog.ui:25
+msgid "_Connect"
+msgstr "Ulanish"
+
+#: data/gtk/add_connection_dialog.ui:57
+msgid ""
+"Enter the address of a remote Fragments or Transmission session to connect "
+"to."
+msgstr ""
+"Ulanish uchun masofaviy Fragments yoki Transmission seansi manzilini "
+"kiriting."
+
+#: data/gtk/add_connection_dialog.ui:60 data/gtk/torrent_row.ui:119
+msgid "Name"
+msgstr "Ism"
+
+#: data/gtk/add_connection_dialog.ui:67
+msgid "Host"
+msgstr "Xost"
+
+#: data/gtk/add_connection_dialog.ui:89
+msgid "Advanced Settings"
+msgstr "Kengaytirilgan sozlamalar"
+
+#: data/gtk/add_connection_dialog.ui:92
+msgid "Port"
+msgstr "Port"
+
+#: data/gtk/add_connection_dialog.ui:108
+msgid "URL Path"
+msgstr "URL manzili"
+
+#: data/gtk/add_connection_dialog.ui:116
+msgid "SSL"
+msgstr "SSL"
+
+#: data/gtk/connection_box.ui:8
+msgid "Preferences"
+msgstr "Afzalliklar"
+
+#: data/gtk/connection_box.ui:53
+msgid "Metered Network"
+msgstr ""
+
+#: data/gtk/connection_box.ui:54
+msgid ""
+"Torrents have been paused to save data, as metered networks have data limits"
+" or charges associated with them."
+msgstr ""
+
+#: data/gtk/connection_box.ui:58
+msgid "Resume Torrents"
+msgstr "Torrentlarni davom ettirish"
+
+#: data/gtk/connection_box.ui:76
+msgid "Get Some Torrents"
+msgstr "Ba’zi torrentlarni olish"
+
+#: data/gtk/connection_box.ui:143
+msgid "Click a torrent link on a website"
+msgstr "Veb sahifadagi torrent linklarini bosish "
+
+#: data/gtk/connection_box.ui:156
+msgid "Copy a torrent link to the clipboard"
+msgstr "Torrent havolasini bufer nusxalash"
+
+#: data/gtk/connection_box.ui:169
+msgid "Choose a torrent file"
+msgstr "Torrent faylini tanlang"
+
+#: data/gtk/connection_box.ui:182
+msgid "Drag and drop a torrent"
+msgstr "Torrentni torting va tashlang"
+
+#: data/gtk/connection_box.ui:212
+msgid "Authentication required"
+msgstr "Autentifikatsiya talab qilinadi"
+
+#: data/gtk/connection_box.ui:227
+msgid "Username"
+msgstr "Foydalanuvchi ismi"
+
+#: data/gtk/connection_box.ui:232
+msgid "Password"
+msgstr "Parol"
+
+#: data/gtk/connection_box.ui:242
+msgid "Authenticate"
+msgstr "Haqiqiylikni tasdiqlash"
+
+#: data/gtk/connection_box.ui:263
+msgid "Connection error"
+msgstr "Ulanish xatosi"
+
+#: data/gtk/connection_box.ui:267
+msgid "Try Again"
+msgstr "Qayta urining"
+
+#: data/gtk/connection_row.ui:61
+msgid "Remove connection"
+msgstr "Ulanishni olib tashlash"
+
+#: data/gtk/file_page.ui:31 data/gtk/torrent_dialog.ui:143
+msgid "Open"
+msgstr "Oching"
+
+#: data/gtk/file_page.ui:44
+msgid "Open Containing Folder"
+msgstr "Oʻz ichiga olgan jildni oching"
+
+#: data/gtk/file_page.ui:61
+msgid "Download"
+msgstr "Yuklash"
+
+#: data/gtk/file_row.ui:55 data/gtk/status_header.ui:90
+msgid "File progress"
+msgstr "Fayl jarayoni"
+
+#: data/gtk/folder_page_contents.ui:12
+msgid "Sorting"
+msgstr "Saralash"
+
+#: data/gtk/folder_page_contents.ui:18 data/gtk/window.ui:43
+msgid "Search"
+msgstr "Qidirish"
+
+#: data/gtk/folder_page_contents.ui:29
+msgid "Search for files…"
+msgstr "Fayllarni qidirish…"
+
+#: data/gtk/folder_page_contents.ui:36
+msgid "Search files"
+msgstr "Fayllarni qidirish"
+
+#: data/gtk/folder_page_contents.ui:102
+msgid "Select A_ll"
+msgstr "Hammasini tanlash"
+
+#: data/gtk/folder_page_contents.ui:106
+msgid "D_eselect All"
+msgstr "Hammasini bekor qilish"
+
+#: data/gtk/folder_page_contents.ui:112
+msgid "_Default"
+msgstr "Standart"
+
+#: data/gtk/folder_page_contents.ui:117
+msgid "_Name"
+msgstr "Ism"
+
+#: data/gtk/folder_page_contents.ui:122
+msgid "_Size"
+msgstr "Hajmi"
+
+#: data/gtk/folder_page_contents.ui:129
+msgid "_Ascending"
+msgstr "Koʻpayishi boʻyicha"
+
+#: data/gtk/folder_page_contents.ui:134
+msgid "_Descending"
+msgstr "Kamayishi boʻyicha"
+
+#: data/gtk/folder_page_contents.ui:141
+msgid "_Folders Before Files"
+msgstr "Fayldan oldingi jildlar"
+
+#: data/gtk/preferences_dialog.ui:7
+msgid "General"
+msgstr "Umumiy"
+
+#: data/gtk/preferences_dialog.ui:10
+msgid "Behavior"
+msgstr "Xulq-atvor"
+
+#: data/gtk/preferences_dialog.ui:13
+msgid "Inhibit _Suspend"
+msgstr "Toʻxtatish"
+
+#: data/gtk/preferences_dialog.ui:14
+msgid ""
+"Prevent the computer from suspending while torrents are being downloaded"
+msgstr ""
+"Torrentlar yuklab olinayotganda kompyuterning pauza qilinishiga yoʻl "
+"qoʻymang"
+
+#: data/gtk/preferences_dialog.ui:26
+msgid "_Trash Torrent Files"
+msgstr "Chiqindi torrent fayllari"
+
+#: data/gtk/preferences_dialog.ui:27
+msgid "Automatically moves torrent files to the trash after adding them"
+msgstr ""
+"Torrent fayllarini qoʻshgandan keyin ularni avtomatik ravishda chiqindiga "
+"tashlaydi"
+
+#: data/gtk/preferences_dialog.ui:41
+msgid "Notifications"
+msgstr "Bildirishnomalar"
+
+#: data/gtk/preferences_dialog.ui:44
+msgid "_New Torrent Added"
+msgstr "Yangi torrent qoʻshildi"
+
+#: data/gtk/preferences_dialog.ui:56
+msgid "_Torrent Completely Downloaded"
+msgstr "Torrent toʻliq yuklab olindi"
+
+#: data/gtk/preferences_dialog.ui:70
+msgid "Remote Control"
+msgstr "Masofadan boshqarish"
+
+#: data/gtk/preferences_dialog.ui:73
+msgid "Remote Access"
+msgstr "Masofadan kirish"
+
+#: data/gtk/preferences_dialog.ui:75
+msgid ""
+"Allow other devices on the local network to access the local Fragments "
+"session"
+msgstr ""
+"Mahalliy tarmoqdagi boshqa qurilmalarga mahalliy Fragments seansiga kirishga"
+" ruxsat berish"
+
+#: data/gtk/preferences_dialog.ui:86
+msgid "Open Web Interface"
+msgstr "Ochiq veb interfeys"
+
+#: data/gtk/preferences_dialog.ui:103
+msgctxt "A page title of the preferences dialog"
+msgid "Downloading"
+msgstr "Yuklab olinmoqda"
+
+#: data/gtk/preferences_dialog.ui:115
+msgid "These settings apply to the remote connection"
+msgstr "Bu sozlamalar masofaviy ulanish uchun amal qiladi"
+
+#: data/gtk/preferences_dialog.ui:127
+msgid "Location"
+msgstr "Joylashuv"
+
+#: data/gtk/preferences_dialog.ui:130
+msgid "_Download Directory"
+msgstr "Yuklab olish katalogi"
+
+#: data/gtk/preferences_dialog.ui:131
+msgid "Where to store downloaded torrents"
+msgstr "Yuklab olingan torrentlarni qayerda saqlash mumkin"
+
+#: data/gtk/preferences_dialog.ui:148
+msgid "_Incomplete Torrents"
+msgstr "Toʻliq boʻlmagan torrentlar"
+
+#: data/gtk/preferences_dialog.ui:149
+msgid "Store incomplete torrents in a different directory"
+msgstr "Toʻliq boʻlmagan torrentlarni boshqa katalogda saqlash"
+
+#: data/gtk/preferences_dialog.ui:154
+msgid "_Incomplete Directory"
+msgstr "Toʻliq boʻlmagan katalog"
+
+#: data/gtk/preferences_dialog.ui:155
+msgid "Where to store incomplete torrents"
+msgstr "Toʻliq boʻlmagan oqimlarni qayerda saqlash mumkin"
+
+#: data/gtk/preferences_dialog.ui:176
+msgid "Queue"
+msgstr "Navbat"
+
+#: data/gtk/preferences_dialog.ui:179
+msgid "Download Queue"
+msgstr "Yuklab olish navbati"
+
+#: data/gtk/preferences_dialog.ui:180
+msgid "You can decide which torrents should be downloaded first"
+msgstr ""
+"Qaysi torrentlarni birinchi yuklab olishni oʻzingiz hal qilishingiz mumkin"
+
+#: data/gtk/preferences_dialog.ui:185
+msgid "Maximum _Active Downloads"
+msgstr "Maksimal faol yuklanmalar"
+
+#: data/gtk/preferences_dialog.ui:186
+msgid "Number of maximum parallel downloads at the same time"
+msgstr "Bir vaqtda maksimal parallel yuklab olishlar soni"
+
+#: data/gtk/preferences_dialog.ui:203
+msgid "Automatically _Start Torrents"
+msgstr "Torrentlarni avtomatik ishga tushirish"
+
+#: data/gtk/preferences_dialog.ui:204
+msgid "Automatically start downloading torrents after adding them"
+msgstr ""
+"Torrentlarni qoʻshganingizdan soʻng ularni avtomatik ravishda yuklab olishni"
+" boshlash"
+
+#: data/gtk/preferences_dialog.ui:221
+msgid "Network"
+msgstr "Tarmoq"
+
+#: data/gtk/preferences_dialog.ui:241
+msgid "Listening Port"
+msgstr "Tinglash porti"
+
+#: data/gtk/preferences_dialog.ui:242
+msgid ""
+"This port gets used by peers on the internet to connect to you. It's "
+"important that the communication works, otherwise you will have a limited "
+"ability to connect to other peers and suffer from slower download speeds."
+msgstr ""
+"Bu port internetdagi tengdoshlaringiz tomonidan sizga ulanish uchun "
+"ishlatiladi. Aloqa ishlashi muhim, aks holda siz boshqa tengdoshlar bilan "
+"bogʻlanish uchun cheklangan imkoniyatga ega boʻlasiz va pastroq yuklab olish"
+" tezligidan aziyat chekasiz."
+
+#: data/gtk/preferences_dialog.ui:245
+msgid "_Port"
+msgstr "Port"
+
+#: data/gtk/preferences_dialog.ui:246
+msgid "Used for incoming connections"
+msgstr "Kiruvchi ulanishlar uchun ishlatiladi"
+
+#: data/gtk/preferences_dialog.ui:261
+msgid "_Random Port"
+msgstr "Tasodifiy port"
+
+#: data/gtk/preferences_dialog.ui:262
+msgid "Select a random port on each session startup, can improve privacy"
+msgstr ""
+"Har bir seans boshlanishida tasodifiy port tanlash maxfiylikni oshirishi "
+"mumkin"
+
+#: data/gtk/preferences_dialog.ui:274
+msgid "Port _Forwarding"
+msgstr "Port yoʻnaltirish"
+
+#: data/gtk/preferences_dialog.ui:275
+msgid "Try using UPnP/NAT-PMP for automatic port forwarding on your router"
+msgstr "Routeringizda portni avtomatik uzatish uchun UPnP/NAT-PMP ishlating"
+
+#: data/gtk/preferences_dialog.ui:315
+msgid "Internet"
+msgstr "Internet"
+
+#: data/gtk/preferences_dialog.ui:344
+msgid "Router"
+msgstr "Router"
+
+#: data/gtk/preferences_dialog.ui:373
+msgid "Computer"
+msgstr "Kompyuter"
+
+#: data/gtk/preferences_dialog.ui:386
+msgid ""
+"You can verify your connection by asking <a "
+"href=\"https://transmissionbt.com\">transmissionbt.com</a> to test "
+"connecting to your computer as peers would."
+msgstr ""
+"Kompyuterga ulanishni tengdoshlar kabi tekshirish uchun <a "
+"href=\"https://transmissionbt.com\">transmissionbt.com</a> yuborish orqali "
+"ulanishingizni tasdiqlashingiz mumkin."
+
+#: data/gtk/preferences_dialog.ui:398
+msgid "Test"
+msgstr "Test"
+
+#: data/gtk/preferences_dialog.ui:413
+msgid "Peer Limits"
+msgstr "Tengdoshlar uchun cheklovlar"
+
+#: data/gtk/preferences_dialog.ui:414
+msgid ""
+"You may have to lower the limits if your router can't keep up with the "
+"demands of P2P."
+msgstr ""
+"Agar router P2P talablariga javob bermasa, cheklovlarni pasaytirishingiz "
+"kerak boʻlishi mumkin."
+
+#: data/gtk/preferences_dialog.ui:417
+msgid "Maximum Peers per _Torrent"
+msgstr "Har bir torrent uchun maksimal tengdoshlar"
+
+#: data/gtk/preferences_dialog.ui:432
+msgid "Maximum Peers _Overall"
+msgstr "Jami maksimal tengdoshlar"
+
+#: data/gtk/preferences_dialog.ui:449
+msgid "Connection Encryption Mode"
+msgstr "Ulanishni shifrlash rejimi"
+
+#: data/gtk/preferences_dialog.ui:450
+msgid ""
+"<a "
+"href=\"https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption\">BitTorrent"
+" Protocol Encryption</a> can be used to improve privacy. It also can help to"
+" bypass ISP filters."
+msgstr ""
+"Maxfiylikni yaxshilash uchun <a "
+"href=\"https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption\">BitTorrent"
+" protokolini shifrlash</a> ishlatilishi mumkin. Shuningdek, u ISP "
+"filtrlarini chetlab oʻtishga yordam beradi."
+
+#: data/gtk/preferences_dialog.ui:453
+msgid "_Encryption"
+msgstr "Shifrlash"
+
+#: data/gtk/preferences_dialog.ui:459
+msgid "Force"
+msgstr "Kuch"
+
+#: data/gtk/preferences_dialog.ui:460
+msgid "Prefer"
+msgstr "Afzal koʻrmoq"
+
+#: data/gtk/preferences_dialog.ui:461
+msgid "Allow"
+msgstr "Ruxsat berish"
+
+#: data/gtk/shortcuts.ui:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: data/gtk/shortcuts.ui:14
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: data/gtk/shortcuts.ui:20
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr "Afzalliklar"
+
+#: data/gtk/shortcuts.ui:26
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/gtk/shortcuts.ui:34
+msgctxt "shortcut window"
+msgid "Torrents"
+msgstr "Torrentlar"
+
+#: data/gtk/shortcuts.ui:37
+msgctxt "shortcut window"
+msgid "Add New Torrent"
+msgstr "Yangi torrent qoʻshish"
+
+#: data/gtk/shortcuts.ui:43
+msgctxt "shortcut window"
+msgid "Search"
+msgstr "Qidirish"
+
+#: data/gtk/stats_dialog.ui:6
+msgid "Statistics"
+msgstr "Statistika"
+
+#: data/gtk/stats_dialog.ui:18
+msgid "These statistics are from the remote connection"
+msgstr "Bu statistika masofaviy ulanishdan olingan"
+
+#. Transmission is the name of the torrent daemon. Don't translate it.
+#: data/gtk/stats_dialog.ui:32
+msgid "Transmission Daemon"
+msgstr "Uzatish demoni"
+
+#: data/gtk/stats_dialog.ui:33
+msgid "Version"
+msgstr "Versiya"
+
+#: data/gtk/stats_dialog.ui:49
+msgid "Current Network Speed"
+msgstr "Joriy tarmoq tezligi"
+
+#: data/gtk/stats_dialog.ui:52 data/gtk/torrent_dialog.ui:275
+msgid "Download Speed"
+msgstr "Yuklab olish tezligi"
+
+#: data/gtk/stats_dialog.ui:66 data/gtk/torrent_dialog.ui:364
+msgid "Upload Speed"
+msgstr "Yuklash tezligi"
+
+#: data/gtk/stats_dialog.ui:82
+msgid "Torrent Count"
+msgstr "Torrentlar soni"
+
+#: data/gtk/stats_dialog.ui:85 data/gtk/stats_dialog.ui:211
+msgid "Total"
+msgstr "Jami"
+
+#: data/gtk/stats_dialog.ui:98
+msgid "Active"
+msgstr "Aktiv"
+
+#: data/gtk/stats_dialog.ui:111 src/utils.rs:129
+msgid "Paused"
+msgstr "Toʻxtatildi"
+
+#: data/gtk/stats_dialog.ui:124 data/gtk/stats_dialog.ui:168
+#: data/gtk/stats_dialog.ui:229 data/gtk/torrent_dialog.ui:302
+msgid "Downloaded"
+msgstr "Yuklab olindi"
+
+#: data/gtk/stats_dialog.ui:139
+msgid "Usage"
+msgstr "Foydalanish"
+
+#: data/gtk/stats_dialog.ui:150
+msgid "This Session"
+msgstr "Bu seans"
+
+#: data/gtk/stats_dialog.ui:155 data/gtk/stats_dialog.ui:216
+msgid "Time Active"
+msgstr "Faol vaqt"
+
+#: data/gtk/stats_dialog.ui:181 data/gtk/stats_dialog.ui:242
+#: data/gtk/torrent_dialog.ui:391
+msgid "Uploaded"
+msgstr "Yuklandi"
+
+#: data/gtk/stats_dialog.ui:194 data/gtk/stats_dialog.ui:255
+msgid "Added Files"
+msgstr "Qoʻshilgan fayllar"
+
+#: data/gtk/stats_dialog.ui:268
+msgid "Started"
+msgstr "Boshlandi"
+
+#: data/gtk/torrent_dialog.ui:8
+msgid "Torrent Details"
+msgstr "Torrent tafsilotlari"
+
+#: data/gtk/torrent_dialog.ui:18
+msgid "Overview"
+msgstr "Qisqacha"
+
+#: data/gtk/torrent_dialog.ui:87 data/gtk/torrent_row.ui:235
+msgid "Pause"
+msgstr "Pauza"
+
+#: data/gtk/torrent_dialog.ui:114 data/gtk/torrent_row.ui:252
+msgid "Continue"
+msgstr "Davom etish"
+
+#: data/gtk/torrent_dialog.ui:170
+msgid "Remove"
+msgstr "Olib tashlang"
+
+#: data/gtk/torrent_dialog.ui:196
+msgid "More"
+msgstr "Koʻproq"
+
+#: data/gtk/torrent_dialog.ui:215
+msgid "A Problem Has Occurred"
+msgstr "Muammo yuz berdi"
+
+#: data/gtk/torrent_dialog.ui:290 data/gtk/torrent_dialog.ui:379
+msgid "Peers"
+msgstr "Tengdoshlar"
+
+#: data/gtk/torrent_dialog.ui:413
+msgid "Receiving Files Metadata…"
+msgstr "Fayllar meta-axboroti olinmoqda…"
+
+#: data/gtk/torrent_menu.ui:6
+msgid "_Pause"
+msgstr "Pauza"
+
+#: data/gtk/torrent_menu.ui:11
+msgid "_Continue"
+msgstr "Davom etish"
+
+#: data/gtk/torrent_menu.ui:18
+msgid "Queue Move _Up"
+msgstr "Navbat yuqoriga"
+
+#: data/gtk/torrent_menu.ui:22
+msgid "Queue Move _Down"
+msgstr "Navbatni pastga"
+
+#: data/gtk/torrent_menu.ui:28 src/app.rs:475
+msgid "_Open"
+msgstr "Oching"
+
+#: data/gtk/torrent_menu.ui:32 src/actions.rs:402 src/app.rs:530
+msgid "_Remove"
+msgstr "Olib tashlash"
+
+#: data/gtk/torrent_menu.ui:36
+msgid "_More"
+msgstr "Koʻproq"
+
+#: data/gtk/torrent_menu.ui:38
+msgid "_Copy Magnet Link"
+msgstr ""
+
+#: data/gtk/torrent_menu.ui:42
+msgid "Set _Location…"
+msgstr "Joylashuvni belgilash…"
+
+#: data/gtk/torrent_menu.ui:46
+msgid "_Verify Local Data"
+msgstr "Mahalliy ma’lumotlarni tasdiqlash"
+
+#: data/gtk/torrent_menu.ui:50
+msgid "_Ask Tracker for More Peers"
+msgstr "Koʻproq tengdoshlar uchun Trekerdan soʻrash"
+
+#: data/gtk/torrent_menu.ui:57
+msgid "_Properties"
+msgstr "Xususiyatlar"
+
+#: data/gtk/torrent_page.ui:6
+msgctxt "The title of a group of torrents (downloading/queued/seeding)"
+msgid "Downloading"
+msgstr "Yuklab olinmoqda"
+
+#: data/gtk/torrent_page.ui:11
+msgctxt "The title of a group of torrents (downloading/queued/seeding)"
+msgid "Queued"
+msgstr "Navbatda"
+
+#: data/gtk/torrent_page.ui:16
+msgctxt "The title of a group of torrents (downloading/queued/seeding)"
+msgid "Seeding"
+msgstr ""
+
+#: data/gtk/torrent_row.ui:25
+msgid "Stopped"
+msgstr "Toʻxtatildi"
+
+#: data/gtk/torrent_row.ui:71
+msgid "Downloading"
+msgstr "Yuklab olinmoqda"
+
+#: data/gtk/torrent_row.ui:89
+msgid "Uploading"
+msgstr "Yuklanmoqda"
+
+#: data/gtk/torrent_row.ui:163
+msgid "Torrent progress"
+msgstr "Torrent jarayoni"
+
+#: data/gtk/torrent_row.ui:190
+msgid "Delete"
+msgstr "Oʻchirish"
+
+#: data/gtk/torrent_row.ui:211
+msgid "Queue – Move up"
+msgstr "Navbat yuqoriga"
+
+#: data/gtk/torrent_row.ui:219
+msgid "Queue – Move down"
+msgstr "Navbatni pastga"
+
+#: data/gtk/window.ui:20
+msgid "Add New Torrent"
+msgstr "Yangi torrent qoʻshish"
+
+#: data/gtk/window.ui:27
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/gtk/window.ui:35
+msgid "Remote Connection Menu"
+msgstr "Masofaviy ulanish menyusi"
+
+#: data/gtk/window.ui:62
+msgid "Search torrents…"
+msgstr "Torrentlarni qidirish…"
+
+#: data/gtk/window.ui:71
+msgid "Search torrents"
+msgstr "Torrentlarni qidirish"
+
+#: data/gtk/window.ui:87
+msgid "_Resume All"
+msgstr "Hammasini davom ettirish"
+
+#: data/gtk/window.ui:91
+msgid "_Pause All"
+msgstr "Hammasini toʻxtatish"
+
+#: data/gtk/window.ui:95
+msgid "_Remove Completed Torrents"
+msgstr "Tugallangan torrentlarni olib tashlash"
+
+#: data/gtk/window.ui:99
+msgid "_Statistics…"
+msgstr "Statistika…"
+
+#: data/gtk/window.ui:105
+msgid "_Add Remote Connection…"
+msgstr "Masofaviy ulanishni qoʻshish…"
+
+#: data/gtk/window.ui:111
+msgid "_Preferences"
+msgstr "Afzalliklar"
+
+#: data/gtk/window.ui:115
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/gtk/window.ui:119
+msgid "_About Fragments"
+msgstr "Fragmentlar haqida"
+
+#: src/actions.rs:108
+msgid "Unable to copy magnet link to clipboard"
+msgstr "Magnit havolasidan vaqtinchalik xotiraga nusxa olinmadi"
+
+#: src/actions.rs:114
+msgid "Copied magnet link to clipboard"
+msgstr "Vaqtincha xotiraga magnit havolasi nusxalandi"
+
+#: src/actions.rs:394
+msgid "Remove Torrent?"
+msgstr "Torrent olib tashlansinmi?"
+
+#: src/actions.rs:396
+msgid ""
+"Once removed, continuing the transfer will require the torrent file or "
+"magnet link."
+msgstr ""
+"Olib tashlangach, uzatishni davom ettirish uchun torrent fayli yoki magnit "
+"ulanish kerak boʻladi."
+
+#: src/actions.rs:400 src/app.rs:528
+msgid "_Cancel"
+msgstr "Bekor qilish"
+
+#. Check button
+#: src/actions.rs:406
+msgid "Remove downloaded data as well"
+msgstr "Yuklab olingan ma’lumotlarni ham olib tashlash"
+
+#: src/actions.rs:447
+msgid "Set Torrent Location"
+msgstr "Torrent joylashuvini belgilash"
+
+#: src/actions.rs:451 src/utils.rs:170
+msgid "_Select"
+msgstr "Tanlash"
+
+#: src/actions.rs:460
+msgid "Move Data?"
+msgstr "Ma’lumotlar koʻchirilsinmi?"
+
+#: src/actions.rs:461
+msgid ""
+"In order to continue using the torrent, the data must be available at the "
+"new location."
+msgstr ""
+"Torrentdan foydalanishni davom ettirish uchun ma’lumotlar yangi joyda mavjud"
+" boʻlishi kerak."
+
+#: src/actions.rs:464
+msgid "_Only Change Location"
+msgstr "Faqat joylashuvni oʻzgartirish"
+
+#: src/actions.rs:465
+msgid "_Move Data to New Location"
+msgstr "Ma’lumotlarni yangi joyga koʻchirish"
+
+#: src/actions.rs:540
+msgid "Unable to open file / folder"
+msgstr "Fayl / jild ochilmadi"
+
+#: src/actions.rs:547
+msgid "Could not open file"
+msgstr "Fayl ochilmadi"
+
+#: src/app.rs:340
+msgid "Downloading data…"
+msgstr "Ma’lumotlar yuklab olinmoqda…"
+
+#: src/app.rs:404
+msgid "Unsupported file format"
+msgstr "Fayl formati qabul qilinmaydi"
+
+#: src/app.rs:474
+msgid "Open Torrents"
+msgstr "Torrentlarni ochish"
+
+#: src/app.rs:479
+msgid "Torrent files"
+msgstr "Torrent fayllari"
+
+#: src/app.rs:484
+msgid "All files"
+msgstr "Barcha fayllar"
+
+#. NOTE: Title of the modal when the user removes all downloaded torrents
+#: src/app.rs:519
+msgid "Remove all Downloaded Torrents?"
+msgstr "Barcha yuklab olingan torrentlar olib tashlansinmi?"
+
+#: src/app.rs:523
+msgid ""
+"This will only remove torrents from Fragments, but will keep the downloaded "
+"content."
+msgstr ""
+"Bunda faqat Fragmentsdan torrentlar olib tashlanadi, lekin yuklab olingan "
+"kontent saqlanadi."
+
+#: src/backend/connection.rs:95
+msgid "Local Fragments session"
+msgstr "Lokal fragmentlar seansi"
+
+#: src/backend/connection_manager.rs:233 src/backend/connection_manager.rs:423
+msgid "Unable to stop transmission-daemon"
+msgstr "Demon translatsiyasini toʻxtatib boʻlmadi"
+
+#: src/backend/connection_manager.rs:249 src/backend/connection_manager.rs:383
+msgid "Unable to start transmission-daemon"
+msgstr "Demon translatsiyasini ishga tushirib boʻlmadi"
+
+#: src/ui/about_dialog.rs:41
+msgid "translator-credits"
+msgstr ""
+"BeMeritus <bemerituss@gmail.com>\n"
+"Baxrom Raxmatov"
+
+#: src/ui/about_dialog.rs:42
+msgid "Donate"
+msgstr "Xayriya qilmoq"
+
+#: src/ui/add_connection_dialog.rs:113
+msgid ""
+"Could not connect with “{}”:\n"
+"{}"
+msgstr ""
+"\"{}\" bilan ulanilmadi:\n"
+"{}"
+
+#: src/ui/connection_box.rs:106
+msgid "The configured download directory cannot be accessed."
+msgstr "Sozlangan yuklab olish katalogiga kirish imkonsiz."
+
+#: src/ui/connection_box.rs:109
+msgid "The configured incomplete directory cannot be accessed."
+msgstr "Sozlangan toʻliq boʻlmagan katalogga kirish imkonsiz."
+
+#: src/ui/connection_box.rs:172
+msgid "Connection with {} was lost."
+msgstr "{} bilan aloqa uzildi."
+
+#: src/ui/connection_box.rs:291
+msgid "Credentials could not be saved"
+msgstr "Hisob ma’lumotlari saqlanmadi"
+
+#: src/ui/connection_box.rs:332
+msgid "No connection found with UUID \"{}\""
+msgstr "UUID \"{}\" bilan hech qanday aloqa topilmadi"
+
+#: src/ui/connection_box.rs:377
+msgid "Failed to establish a connection with the Transmission service (“{}”)."
+msgstr "Uzatish xizmati (\"{}\") bilan aloqa oʻrnatib boʻlmadi."
+
+#: src/ui/connection_row.rs:85
+msgid "This computer"
+msgstr "Bu kompyuter"
+
+#: src/ui/file_row.rs:207
+msgid "{} / {}, {} item"
+msgid_plural "{} / {}, {} items"
+msgstr[0] "{} / {}, {} ta element"
+
+#: src/ui/file_row.rs:209
+msgid "{} / {}"
+msgstr "{} / {}"
+
+#: src/ui/file_row.rs:212
+msgid "{}, {} item"
+msgid_plural "{}, {} items"
+msgstr[0] "{}, {} ta element"
+
+#: src/ui/preferences_dialog.rs:177
+msgid "Unable to restart Transmission daemon"
+msgstr "Uzatish demoni qayta ishga tushmadi"
+
+#: src/ui/preferences_dialog.rs:356
+msgid "Testing…"
+msgstr "Tekshirilmoqda…"
+
+#: src/ui/preferences_dialog.rs:367
+msgid "Port is open. You can communicate with other peers."
+msgstr "Port ochiq. Boshqa tengdoshlaringiz bilan muloqot qilishingiz mumkin."
+
+#: src/ui/preferences_dialog.rs:371
+msgid ""
+"Port is closed. Communication with other peers is limited.\n"
+"Check your router or firewall if port forwarding is enabled for your computer. "
+msgstr ""
+"Port yopiq. Boshqa tengdoshlar bilan muloqot qilish cheklangan.\n"
+"Kompyuteringizda portni uzatish funksiyasi yoqilgan boʻlsa, marshrutizator yoki tarmoqlararo ekranni tekshiring."
+
+#: src/ui/preferences_dialog.rs:377
+msgid "Test failed. Make sure you are connected to the internet."
+msgstr "Tekshirilmadi. Internetga ulanganingizga ishonch hosil qiling."
+
+#: src/ui/preferences_dialog.rs:408 src/ui/stats_dialog.rs:306
+msgid "You are connected with “{}”"
+msgstr "Siz \"{}\" bilan bogʻlangansiz"
+
+#: src/ui/stats_dialog.rs:290
+msgid "{} time"
+msgid_plural "{} times"
+msgstr[0] "{} marta"
+
+#: src/ui/torrent_dialog.rs:371
+msgid "Show All"
+msgid_plural "Show All {} Items"
+msgstr[0] "Hammasini ko‘rsatish"
+
+#: src/ui/torrent_dialog.rs:425
+msgid "{} ({} active)"
+msgid_plural "{} ({} active)"
+msgstr[0] "{} ({} ta faol)"
+
+#. Translators: First {} is the amount uploaded, second {} is the
+#. uploading speed
+#. Displayed under the torrent name in the main window when torrent
+#. download is finished
+#: src/ui/torrent_row.rs:274
+msgid "{} uploaded · {}"
+msgstr "{} yuklandi · {}"
+
+#. Translators: First {} is the amount downloaded, second {} is the
+#. total torrent size
+#. Displayed under the torrent name in the main window when torrent
+#. is stopped
+#: src/ui/torrent_row.rs:282
+msgid "{} of {}"
+msgstr "{} / {}"
+
+#. Translators: First {} is the amount downloaded, second {} is the
+#. total torrent size, third {} is the download speed
+#. Displayed under the torrent name in the main window when torrent
+#. is downloading
+#: src/ui/torrent_row.rs:288
+msgid "{} of {} · {}"
+msgstr "{} / {} · {}"
+
+#: src/ui/window.rs:150
+msgid "Remote control \"{}\""
+msgstr "Masofaviy boshqaruv paneli \"{}\""
+
+#: src/ui/window.rs:245
+msgid "New torrent added"
+msgstr "Yangi torrent kiritildi"
+
+#: src/ui/window.rs:259
+msgid "Torrent completely downloaded"
+msgstr "Torrent toʻliq yuklab olindi"
+
+#: src/ui/window.rs:359
+msgid "Add magnet link “{}” from clipboard?"
+msgstr "Vaqtincha xotiradan \"{}\" magnit havolasi kiritilsinmi?"
+
+#: src/ui/window.rs:360
+msgid "Add magnet link from clipboard?"
+msgstr "Vaqtincha xotiradan magnit havolasi kiritilsinmi?"
+
+#: src/ui/window.rs:365 src/ui/window.rs:386
+msgid "_Add"
+msgstr "Qoʻshish"
+
+#: src/ui/window.rs:374
+msgid "Add torrent from “{}”?"
+msgstr "\"{}\" tormenti qoʻshilsinmi?"
+
+#: src/ui/window.rs:381
+msgid "Add “{}” from clipboard?"
+msgstr "Vaqtincha xotiradan \"{}\" qoʻshilsinmi?"
+
+#: src/utils.rs:85
+msgid "{}/s"
+msgid_plural "{}/s"
+msgstr[0] "{}/s"
+
+#: src/utils.rs:101
+msgid "more than a day"
+msgstr "bir kundan ortiq"
+
+#: src/utils.rs:109
+msgid "{} day"
+msgid_plural "{} days"
+msgstr[0] "{} kun"
+
+#: src/utils.rs:110
+msgid "{} hour"
+msgid_plural "{} hours"
+msgstr[0] "Soat"
+
+#: src/utils.rs:111
+msgid "{} minute"
+msgid_plural "{} minutes"
+msgstr[0] "{} daqiqa"
+
+#: src/utils.rs:112
+msgid "{} second"
+msgid_plural "{} seconds"
+msgstr[0] "{} soniya"
+
+#. i18n: "Queued" is the current status of a torrent
+#: src/utils.rs:135 src/utils.rs:138 src/utils.rs:141
+msgid "Queued"
+msgstr "Navbatda turgan"
+
+#: src/utils.rs:136
+msgid "Checking…"
+msgstr "Tekshirilmoqda…"
+
+#: src/utils.rs:139
+msgid "Seeding…"
+msgstr ""
+
+#: src/utils.rs:163
+msgid "Select Download Directory"
+msgstr "Yuklab olish katalogini tanlang"
+
+#: src/utils.rs:164
+msgid "Select Incomplete Directory"
+msgstr "Toʻliq boʻlmagan katalogni tanlang"

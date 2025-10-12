@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-session-2.0\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-session/issues\n"
-"POT-Creation-Date: 2025-09-26 00:44+0000\n"
+"POT-Creation-Date: 2025-10-10 22:03+0000\n"
 "PO-Revision-Date: 2025-03-27 20:10+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -66,31 +66,31 @@ msgstr "Javob bermayapti"
 msgid "_Log out"
 msgstr "_Chiqish"
 
-#: gnome-session/leader-main.c:186 gnome-session/service-main.c:148
+#: gnome-session/leader-main.c:192 gnome-session/service-main.c:148
 msgid "Session to use"
 msgstr "Foydalanish uchun seans"
 
-#: gnome-session/leader-main.c:186 gnome-session/service-main.c:148
+#: gnome-session/leader-main.c:192 gnome-session/service-main.c:148
 msgid "SESSION_NAME"
 msgstr "SESSION_NAME"
 
-#: gnome-session/leader-main.c:187
+#: gnome-session/leader-main.c:193
 msgid "Enable debugging code"
 msgstr "Nosozliklarni tuzatish kodini yoqing"
 
-#: gnome-session/leader-main.c:188
+#: gnome-session/leader-main.c:194
 msgid "Version of this application"
 msgstr "Dastur versiyasi"
 
-#: gnome-session/leader-main.c:189
+#: gnome-session/leader-main.c:195
 msgid "This option is ignored"
 msgstr ""
 
-#: gnome-session/leader-main.c:190
+#: gnome-session/leader-main.c:196
 msgid "Don't re-exec into a login shell"
 msgstr ""
 
-#: gnome-session/leader-main.c:208 gnome-session/service-main.c:157
+#: gnome-session/leader-main.c:210 gnome-session/service-main.c:157
 msgid " — the GNOME session manager"
 msgstr " — GNOME seans menejeri"
 
@@ -192,7 +192,7 @@ msgid ""
 "If no --inhibit options are specified, idle is assumed."
 msgstr ""
 
-#: tools/gnome-session-inhibit.c:408
+#: tools/gnome-session-inhibit.c:409
 msgid "Neither COMMAND nor --inhibit-only were specified."
 msgstr ""
 

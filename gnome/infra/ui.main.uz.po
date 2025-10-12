@@ -19,6 +19,12 @@ msgstr ""
 msgid "#i18n:gnome.org"
 msgstr "#i18n:gnome.org"
 
+#. Translators: Text on start page with links to local community resources.
+#. Can be markdown or HTML formatted. If this string is not changed, no info
+#. will be shown for the language.
+msgid "---local community info---"
+msgstr ""
+
 msgid "Adwaita Demo"
 msgstr "Adwaita demo"
 
@@ -53,11 +59,11 @@ msgstr "Brend kitobi"
 msgid "Building blocks for modern GNOME apps"
 msgstr "Zamonaviy GNOME ilovalari uchun qurilish bloklari"
 
-msgid "Building blocks for modern adaptive GNOME apps"
-msgstr "Zamonaviy moslashuvchan GNOME ilovalari uchun qurilish bloklari"
-
 msgid "Chat for discussing websites"
 msgstr "Veb-saytlarni muhokama qilish uchun chat"
+
+msgid "Chat for talking with other GNOME translators"
+msgstr ""
 
 msgid "Clone Repository"
 msgstr "Repositoriyni klon qilish"
@@ -82,6 +88,9 @@ msgstr "Kontakt"
 
 msgid "Contrast"
 msgstr "Kontrast"
+
+msgid "Damned Lies"
+msgstr ""
 
 msgid "Design"
 msgstr "Dizayn"
@@ -175,9 +184,6 @@ msgstr "GTK GLib va GIO kabi kutubxonalarda qurilgan"
 msgid "GTK is the underlying library for the user interface"
 msgstr "GTK foydalanuvchi interfeysi uchun asosiy kutubxona hisoblanadi"
 
-msgid "GTK&nbsp;3 Docs"
-msgstr "GTK 3 Hujjatlar"
-
 msgid "GTK&nbsp;4 Docs"
 msgstr "GTK 4 Hujjatlar"
 
@@ -196,9 +202,8 @@ msgstr "GitLab"
 msgid "Google Summer of Code"
 msgstr "Google Summer of Code"
 
-msgid "Help to translate software and websites into your language"
+msgid "Home of the GNOME translation management platform"
 msgstr ""
-"Dasturiy ta'minot va veb-saytlarni tilingizga tarjima qilishga yordam bering"
 
 msgid "Home of the Websites Team on GitLab"
 msgstr "GitLab-dagi veb-saytlar jamoasining uyi"
@@ -274,9 +279,6 @@ msgstr "Libadwaita hujjatlari"
 
 msgid "Libadwaita docs"
 msgstr "Libadwaita hujjatlari"
-
-msgid "Libhandy Docs"
-msgstr "Libhandy hujjatlari"
 
 msgid ""
 "Main development repository of the Vala language and compiler, issue tracker"
@@ -365,6 +367,9 @@ msgstr ""
 "Ushbu sahifada siz *{0}* ga qanday hissa qoʻshishni oʻrganishingiz mumkin. "
 "Agar siz ushbu ilova haqida umumiy maʼlumotga qiziqsangiz, [GNOME uchun "
 "ilovalar sahifasiga]({1}) tashrif buyuring."
+
+msgid "Our forum for all GNOME related topics."
+msgstr ""
 
 msgid "Outreachy"
 msgstr "Aloqa"
@@ -493,10 +498,15 @@ msgstr "Bu hafta GNOME-da"
 msgid "This app is built with the *{0}* programming language."
 msgstr "Bu ilova *{0}* dasturlash tili bilan yaratilgan."
 
+#, fuzzy
+#| msgid ""
+#| "This is especially helpful during the [feature freeze "
+#| "period](https://wiki.gnome.org/ReleasePlanning/Freezes) which is dedicated "
+#| "to finding and fixing bugs."
 msgid ""
 "This is especially helpful during the [feature freeze "
-"period](https://wiki.gnome.org/ReleasePlanning/Freezes) which is dedicated "
-"to finding and fixing bugs."
+"period](https://handbook.gnome.org/release-planning/freezes.html#feature-"
+"freeze) which is dedicated to finding and fixing bugs."
 msgstr ""
 "Bu, ayniqsa, xatolarni topish va tuzatishga bagʻishlangan [funksiyani "
 "muzlatish davri](https://wiki.gnome.org/ReleasePlanning/Freezes) paytida "
@@ -520,10 +530,21 @@ msgstr ""
 msgid "Translate on Weblate"
 msgstr "Weblate orqali tarjima qiling"
 
+#, fuzzy
+#| msgid "Help to translate software and websites into your language"
+msgid "Translate software and websites into your language"
+msgstr ""
+"Dasturiy ta'minot va veb-saytlarni tilingizga tarjima qilishga yordam bering"
+
 msgid "Translate this app"
 msgstr "Ushbu ilovani tarjima qiling"
 
 msgid "Translation"
+msgstr "Tarjima"
+
+#, fuzzy
+#| msgid "Translation"
+msgid "Translation Editor"
 msgstr "Tarjima"
 
 msgid "Translation Project"
@@ -671,9 +692,23 @@ msgstr ""
 "Bu ilova [GNOME tarjima tizimi](https://l10n.gnome.org) orqali *La'nati "
 "yolgʻon* deb tarjima qilingan."
 
-#: templates/app.md:61 templates/app.md:42 templates/app.md:30
+#: templates/app.md:40 templates/app.md:42 templates/app.md:61
 msgid "Trying the latest version"
 msgstr "Eng soʻnggi versiya sinab koʻrilmoqda"
+
+#: templates/app.md:43 templates/app.md:45 templates/app.md:64
+msgid ""
+"When reporting an issue or suggesting a feature, it can be helpful to base "
+"the report on the latest version of the app. To this end, you can check the "
+"installation methods below."
+msgstr ""
+"Muammo haqida xabar berayotganda yoki biror xususiyatni taklif qilganda, "
+"hisobotni ilovaning soʻnggi versiyasiga asoslash foydali boʻlishi mumkin. "
+"Shu maqsadda siz quyidagi oʻrnatish usullarini tekshirishingiz mumkin."
+
+#: templates/app.md:48 templates/app.md:50 templates/app.md:69
+msgid "Installation from Flathub"
+msgstr "Flathub-dan oʻrnatish"
 
 #: templates/app.md:64
 msgid ""
@@ -685,25 +720,25 @@ msgstr ""
 "koʻrish mumkin emas. Bu tizim bilan qattiq integratsiyaga muhtoj boʻlgan "
 "juda kam sonli ilovalarga tegishli."
 
-#: templates/app.md:64 templates/app.md:45 templates/app.md:33
-msgid ""
-"When reporting an issue or suggesting a feature, it can be helpful to base "
-"the report on the latest version of the app. To this end, you can check the "
-"installation methods below."
-msgstr ""
-"Muammo haqida xabar berayotganda yoki biror xususiyatni taklif qilganda, "
-"hisobotni ilovaning soʻnggi versiyasiga asoslash foydali boʻlishi mumkin. "
-"Shu maqsadda siz quyidagi oʻrnatish usullarini tekshirishingiz mumkin."
-
-#: templates/app.md:69 templates/app.md:50 templates/app.md:38
-msgid "Installation from Flathub"
-msgstr "Flathub-dan oʻrnatish"
-
-#: templates/app.md:75 templates/app.md:94 templates/app.md:93
+#: templates/app.md:75 templates/app.md:94 templates/app.md:70
 msgid "Installing a nightly build"
 msgstr "Kecha qurilishini oʻrnatish"
 
-#: templates/app.md:77 templates/app.md:96 templates/app.md:95
+#: templates/app.md:75 templates/app.md:96 templates/app.md:119
+msgid "Quality testing"
+msgstr "Sifat sinovi"
+
+#: templates/app.md:77 templates/app.md:98 templates/app.md:121
+msgid ""
+"Catching issues and regressions before they land in a stable release is very"
+" valuable for a project. You can help with this by trying out an upcoming "
+"release."
+msgstr ""
+"Muammolar va regressiyalarni barqaror nashrga tushishidan oldin ushlash "
+"loyiha uchun juda qimmatlidir. Kelgusi versiyani sinab koʻrish orqali bunga "
+"yordam berishingiz mumkin."
+
+#: templates/app.md:77 templates/app.md:96 templates/app.md:72
 msgid ""
 "This app allows to install a version of its current development status. Such"
 " installations were traditionally generated each night, giving them the name"
@@ -715,7 +750,29 @@ msgstr ""
 "chiqarilgan va ularga \"tungi inshootlar\" nomini bergan. Hozirgi vaqtda "
 "ular odatda asosiy ishlab chiqish versiyasi oʻzgarganda qayta tiklanadi."
 
-#: templates/app.md:81 templates/app.md:100 templates/app.md:99
+#: templates/app.md:82 templates/app.md:103 templates/app.md:72
+msgid "Chasing issues"
+msgstr "Muammolarni ta'qib qilish"
+
+#: templates/app.md:84 templates/app.md:105 templates/app.md:74
+msgid ""
+"For many apps, the issue tracker is a central place for coordination of app "
+"development. It is not only used to track all existing problems but also to "
+"plan new features and other miscellaneous tasks."
+msgstr ""
+"Koʻpgina ilovalar uchun muammolarni kuzatuvchisi ilovalarni ishlab chiqishni"
+" muvofiqlashtirish uchun markaziy joydir. U nafaqat barcha mavjud "
+"muammolarni kuzatish, balki yangi xususiyatlar va boshqa turli vazifalarni "
+"rejalashtirish uchun ham qoʻllaniladi."
+
+#: templates/app.md:87
+msgid ""
+"This app does not currently provide information on where to inspect issues."
+msgstr ""
+"Bu ilova hozirda muammolarni qayerda tekshirish kerakligi haqida maʼlumot "
+"bermaydi."
+
+#: templates/app.md:100 templates/app.md:81 templates/app.md:76
 msgid ""
 "**Warning:** Nightly builds of apps should only be used for testing and not "
 "for actual tasks. You can identify nightly builds of the app on your system "
@@ -734,57 +791,11 @@ msgstr ""
 "ishlashiga kafolat yoʻq. Hech qachon zaxira nusxalari mavjud boʻlmasdan, "
 "tungi ilovalar bilan ma'lumotlar ustida ishlamang."
 
-#: templates/app.md:87
-msgid ""
-"This app does not currently provide information on where to inspect issues."
-msgstr ""
-"Bu ilova hozirda muammolarni qayerda tekshirish kerakligi haqida maʼlumot "
-"bermaydi."
-
-#: templates/app.md:96 templates/app.md:119 templates/app.md:138
-msgid "Quality testing"
-msgstr "Sifat sinovi"
-
-#: templates/app.md:98 templates/app.md:121 templates/app.md:67
-msgid ""
-"Catching issues and regressions before they land in a stable release is very"
-" valuable for a project. You can help with this by trying out an upcoming "
-"release."
-msgstr ""
-"Muammolar va regressiyalarni barqaror nashrga tushishidan oldin ushlash "
-"loyiha uchun juda qimmatlidir. Kelgusi versiyani sinab koʻrish orqali bunga "
-"yordam berishingiz mumkin."
-
-#: templates/app.md:103 templates/app.md:129 templates/app.md:144
-msgid "Chasing issues"
-msgstr "Muammolarni ta'qib qilish"
-
-#: templates/app.md:105 templates/app.md:131 templates/app.md:146
-msgid ""
-"For many apps, the issue tracker is a central place for coordination of app "
-"development. It is not only used to track all existing problems but also to "
-"plan new features and other miscellaneous tasks."
-msgstr ""
-"Koʻpgina ilovalar uchun muammolarni kuzatuvchisi ilovalarni ishlab chiqishni"
-" muvofiqlashtirish uchun markaziy joydir. U nafaqat barcha mavjud "
-"muammolarni kuzatish, balki yangi xususiyatlar va boshqa turli vazifalarni "
-"rejalashtirish uchun ham qoʻllaniladi."
-
-#: templates/app.md:111 templates/app.md:130 templates/app.md:129
-msgid ""
-"The nightly version can also be installed via "
-"[Console](https://apps.gnome.org/app/org.gnome.Console/) if the nightly "
-"repository is already [configured](http://nightly.gnome.org)."
-msgstr ""
-"Tungi versiyani [Console](https://apps.gnome.org/app/org.gnome.Console/) "
-"orqali ham oʻrnatish mumkin, agar tungi ombor allaqachon [konfiguratsiya "
-"qilingan](http://nightly.gnome.org)."
-
-#: templates/app.md:121 templates/app.md:147 templates/app.md:162
+#: templates/app.md:100 templates/app.md:121 templates/app.md:90
 msgid "Reporting found issues"
 msgstr "Topilgan muammolar haqida xabar berish"
 
-#: templates/app.md:123 templates/app.md:149 templates/app.md:164
+#: templates/app.md:102 templates/app.md:123 templates/app.md:92
 msgid ""
 "Reporting issues you found when using the app can be of high value for app "
 "maintainers. However, processing issue reports can also take considerable "
@@ -796,19 +807,14 @@ msgstr ""
 "hisobotlarini qayta ishlash ham ancha vaqt talab qilishi mumkin. Quyidagi "
 "amallarni bajarib, ba'zi ishlarni bajarishingiz mumkin:"
 
-#: templates/app.md:124 templates/app.md:143 templates/app.md:119
-msgid "You can do this by trying out the nightly build of the app."
-msgstr ""
-"Buni ilovaning tungi tuzilishini sinab koʻrish orqali qilishingiz mumkin."
-
-#: templates/app.md:125 templates/app.md:151 templates/app.md:166
+#: templates/app.md:104 templates/app.md:125 templates/app.md:94
 msgid ""
 "Search the issue tracker to find out if the issue has already been reported."
 msgstr ""
 "Muammo allaqachon xabar qilingan yoki yoʻqligini bilish uchun muammo "
 "kuzatuvchisini qidiring."
 
-#: templates/app.md:126 templates/app.md:152 templates/app.md:167
+#: templates/app.md:105 templates/app.md:126 templates/app.md:95
 msgid ""
 "Check if the issue also exists in the [latest version of the app](#trying-"
 "the-latest-version)."
@@ -816,7 +822,7 @@ msgstr ""
 "Muammo [ilovaning soʻnggi versiyasida] ham bor yoki yoʻqligini tekshiring "
 "(#eng soʻnggi versiyada sinab koʻring)."
 
-#: templates/app.md:127 templates/app.md:153 templates/app.md:168
+#: templates/app.md:106 templates/app.md:127 templates/app.md:96
 msgid ""
 "If applicable, try to find out under which exact circumstances the problem "
 "occurs."
@@ -824,7 +830,7 @@ msgstr ""
 "Agar mavjud boʻlsa, muammo aynan qaysi holatlarda yuzaga kelganini "
 "aniqlashga harakat qiling."
 
-#: templates/app.md:128 templates/app.md:154 templates/app.md:169
+#: templates/app.md:107 templates/app.md:128 templates/app.md:97
 msgid ""
 "Report all potentially relevant information, like the version of the app "
 "that expose the behavior."
@@ -832,11 +838,32 @@ msgstr ""
 "Ilovaning xatti-harakatini koʻrsatadigan versiyasi kabi barcha potentsial "
 "tegishli ma’lumotlar haqida xabar bering."
 
-#: templates/app.md:130 templates/app.md:156 templates/app.md:171
+#: templates/app.md:109 templates/app.md:130 templates/app.md:99
 msgid "Diagnosing listed issues"
 msgstr "Roʻyxatdagi muammolarni diagnostika qilish"
 
-#: templates/app.md:132 templates/app.md:158 templates/app.md:173
+#: templates/app.md:111 templates/app.md:142 templates/app.md:121
+msgid ""
+"The issue tracker can also help you find open tasks you could tackle. Before"
+" implementing a new feature, it is usually a good idea to check in with the "
+"maintainers if merge requests for this feature would be accepted."
+msgstr ""
+"Muammoni kuzatuvchisi, shuningdek, hal qilishingiz mumkin boʻlgan ochiq "
+"vazifalarni topishga yordam beradi. Yangi xususiyatni amalga oshirishdan "
+"oldin, odatda, ushbu xususiyat uchun birlashma soʻrovlari qabul qilinadimi "
+"yoki yoʻqligini ta'minlovchilar bilan tekshirish yaxshi boʻladi."
+
+#: templates/app.md:111 templates/app.md:130 templates/app.md:106
+msgid ""
+"The nightly version can also be installed via "
+"[Console](https://apps.gnome.org/app/org.gnome.Console/) if the nightly "
+"repository is already [configured](http://nightly.gnome.org)."
+msgstr ""
+"Tungi versiyani [Console](https://apps.gnome.org/app/org.gnome.Console/) "
+"orqali ham oʻrnatish mumkin, agar tungi ombor allaqachon [konfiguratsiya "
+"qilingan](http://nightly.gnome.org)."
+
+#: templates/app.md:111 templates/app.md:132 templates/app.md:101
 msgid ""
 "Tracking down the exact cause of an issue can be a very important task. "
 "Especially for issues tagged with labels like “Needs Diagnosis” or “Needs "
@@ -857,11 +884,11 @@ msgstr ""
 "tortib, muammoni toraytiruvchi kodga disk raskadrovka natijalarini "
 "qoʻshishgacha borishi mumkin."
 
-#: templates/app.md:134 templates/app.md:160 templates/app.md:175
+#: templates/app.md:113 templates/app.md:134 templates/app.md:103
 msgid "Suggesting features"
 msgstr "Xususiyatlarni taklif qilish"
 
-#: templates/app.md:136 templates/app.md:162 templates/app.md:177
+#: templates/app.md:115 templates/app.md:136 templates/app.md:105
 msgid ""
 "Most apps handle feature requests via the issue tracker as well. Note that "
 "implementing features and maintaining them as part of the codebase in the "
@@ -876,7 +903,11 @@ msgstr ""
 "ilovaning bir qismi boʻlish uchun etarli boʻlishi mumkinligini oʻylab "
 "koʻrishingiz kerak."
 
-#: templates/app.md:138 templates/app.md:164 templates/app.md:179
+#: templates/app.md:115 templates/app.md:146 templates/app.md:125
+msgid "Working on the code"
+msgstr "Kod ustida ishlash"
+
+#: templates/app.md:117 templates/app.md:138 templates/app.md:107
 msgid ""
 "When suggesting a new feature, it is helpful to focus on the question of "
 "what practical problem the feature should solve. Not on how the app should "
@@ -890,34 +921,7 @@ msgstr ""
 "Afzal, siz xususiyat kerak boʻlgan joyda amaliy misol ham keltirishingiz "
 "mumkin."
 
-#: templates/app.md:140 templates/app.md:121 templates/app.md:139
-msgid ""
-"Catching issues and regressions before they land in a stable release is very valuable for a project. You can help with this by trying out an upcoming release.\n"
-"You can do this by trying out the nightly build of the app."
-msgstr ""
-"Muammolar va regressiyalarni barqaror versiyaga tushishidan oldin ushlash loyiha uchun juda qimmatlidir. Kelgusi versiyani sinab koʻrish orqali bunga yordam berishingiz mumkin.\n"
-"Buni ilovaning tungi tuzilishini sinab koʻrish orqali qilishingiz mumkin."
-
-#: templates/app.md:140 templates/app.md:181 templates/app.md:109
-msgid "Finding a task"
-msgstr "Vazifani topish"
-
-#: templates/app.md:142 templates/app.md:183 templates/app.md:111
-msgid ""
-"The issue tracker can also help you find open tasks you could tackle. Before"
-" implementing a new feature, it is usually a good idea to check in with the "
-"maintainers if merge requests for this feature would be accepted."
-msgstr ""
-"Muammoni kuzatuvchisi, shuningdek, hal qilishingiz mumkin boʻlgan ochiq "
-"vazifalarni topishga yordam beradi. Yangi xususiyatni amalga oshirishdan "
-"oldin, odatda, ushbu xususiyat uchun birlashma soʻrovlari qabul qilinadimi "
-"yoki yoʻqligini ta'minlovchilar bilan tekshirish yaxshi boʻladi."
-
-#: templates/app.md:146 templates/app.md:187 templates/app.md:201
-msgid "Working on the code"
-msgstr "Kod ustida ishlash"
-
-#: templates/app.md:148 templates/app.md:189 templates/app.md:203
+#: templates/app.md:117 templates/app.md:148 templates/app.md:127
 msgid ""
 "Whether you want to fix a typo, change the user interface, or work on the "
 "code of the app, the following information can help you get started. The "
@@ -934,7 +938,11 @@ msgstr ""
 "bajarish haqida taqdim etilgan hujjatlarni tekshirishingiz mumkin. Keyingi "
 "boʻlim sizga oʻzgartirishlaringizni qanday yuborishni koʻrsatib beradi."
 
-#: templates/app.md:150 templates/app.md:191 templates/app.md:205
+#: templates/app.md:119 templates/app.md:109 templates/app.md:140
+msgid "Finding a task"
+msgstr "Vazifani topish"
+
+#: templates/app.md:119 templates/app.md:150 templates/app.md:129
 msgid ""
 "If you are planning a somewhat larger change or addition to the app, it is "
 "often a good idea to check in with the maintainers of the app to find out if"
@@ -956,7 +964,7 @@ msgstr ""
 " barcha sa'y-harakatlarimizga qaramay, barcha loyihalar doimo doimiy "
 "ravishda davom etavermaydi."
 
-#: templates/app.md:152 templates/app.md:193 templates/app.md:207
+#: templates/app.md:121 templates/app.md:152 templates/app.md:131
 msgid ""
 "Note that while many community members are happy to help you out when you "
 "are stuck, maintainers oftentimes might not have the resources to guide you "
@@ -967,20 +975,24 @@ msgstr ""
 "sizga hissa qoʻshishda sizga yordam berish uchun resurslarga ega boʻlmasligi"
 " mumkin."
 
-#: templates/app.md:182 templates/app.md:193 templates/app.md:223
+#: templates/app.md:124 templates/app.md:143 templates/app.md:119
+msgid "You can do this by trying out the nightly build of the app."
+msgstr ""
+"Buni ilovaning tungi tuzilishini sinab koʻrish orqali qilishingiz mumkin."
+
+#: templates/app.md:140 templates/app.md:121 templates/app.md:116
+msgid ""
+"Catching issues and regressions before they land in a stable release is very valuable for a project. You can help with this by trying out an upcoming release.\n"
+"You can do this by trying out the nightly build of the app."
+msgstr ""
+"Muammolar va regressiyalarni barqaror versiyaga tushishidan oldin ushlash loyiha uchun juda qimmatlidir. Kelgusi versiyani sinab koʻrish orqali bunga yordam berishingiz mumkin.\n"
+"Buni ilovaning tungi tuzilishini sinab koʻrish orqali qilishingiz mumkin."
+
+#: templates/app.md:151 templates/app.md:161 templates/app.md:193
 msgid "Getting the app to build"
 msgstr "Ilova yaratish uchun olinmoqda"
 
-#: templates/app.md:185 templates/app.md:170 templates/app.md:189
-msgid ""
-"This app also has tasks which are labeled with the “Newcomer” tag. Those "
-"tasks usually require less prior knowledge or are less complex."
-msgstr ""
-"Ushbu ilovada \"Yangi kelganlar\" yorligʻi bilan belgilangan vazifalar ham "
-"mavjud. Bu vazifalar odatda kamroq bilim talab qiladi yoki kamroq "
-"murakkabdir."
-
-#: templates/app.md:186 templates/app.md:197 templates/app.md:227
+#: templates/app.md:155 templates/app.md:165 templates/app.md:197
 msgid ""
 "When making changes to an app you will usually want to build and test the "
 "app with its changes on your computer. For most apps this process can be "
@@ -990,7 +1002,7 @@ msgstr ""
 "oʻzgartirishlari bilan tuzib, sinab koʻrishni xohlaysiz. Aksariyat ilovalar "
 "uchun bu jarayonni Builder ilovasi yordamida ancha soddalashtirish mumkin."
 
-#: templates/app.md:202 templates/app.md:213 templates/app.md:243
+#: templates/app.md:171 templates/app.md:213 templates/app.md:261
 msgid ""
 "After starting Builder, you can choose to *clone* a project. This will "
 "download the app to your computer."
@@ -998,7 +1010,7 @@ msgstr ""
 "Builder-ni ishga tushirgandan soʻng, siz loyihani *klonlashni* tanlashingiz "
 "mumkin. Bu ilovani kompyuteringizga yuklab oladi."
 
-#: templates/app.md:214 templates/app.md:225 templates/app.md:255
+#: templates/app.md:183 templates/app.md:225 templates/app.md:273
 msgid ""
 "You have to enter the repository location. The correct URL can be copied "
 "from below."
@@ -1006,11 +1018,16 @@ msgstr ""
 "Siz saqlash joyini kiritishingiz kerak. Toʻgʻri URLni pastdan nusxalash "
 "mumkin."
 
-#: templates/app.md:226
-msgid "There is no information available on how to build this app."
-msgstr "Ushbu ilovani qanday yaratish haqida hech qanday ma'lumot yoʻq."
+#: templates/app.md:185 templates/app.md:189 templates/app.md:170
+msgid ""
+"This app also has tasks which are labeled with the “Newcomer” tag. Those "
+"tasks usually require less prior knowledge or are less complex."
+msgstr ""
+"Ushbu ilovada \"Yangi kelganlar\" yorligʻi bilan belgilangan vazifalar ham "
+"mavjud. Bu vazifalar odatda kamroq bilim talab qiladi yoki kamroq "
+"murakkabdir."
 
-#: templates/app.md:232 templates/app.md:243 templates/app.md:273
+#: templates/app.md:201 templates/app.md:243 templates/app.md:211
 msgid ""
 "Depending on your internet connection and the size of the project, cloning "
 "the project might take a while. After Builder has completed this step, the "
@@ -1025,7 +1042,7 @@ msgstr ""
 " tushirishga harakat qilish uchun endi “Loyihani ishga tushirish” tugmasini "
 "bosishingiz mumkin."
 
-#: templates/app.md:242 templates/app.md:253 templates/app.md:283
+#: templates/app.md:211 templates/app.md:253 templates/app.md:301
 msgid ""
 "If everything goes right, the app should be built. After the build has been "
 "completed, the built app should start automatically."
@@ -1034,35 +1051,27 @@ msgstr ""
 "tugallangandan soʻng, qurilgan ilova avtomatik ravishda ishga tushishi "
 "kerak."
 
-#: templates/app.md:247 templates/app.md:226 templates/app.md:228
-msgid "Python language"
-msgstr "Python tili"
-
-#: templates/app.md:258 templates/app.md:299 templates/app.md:317
-msgid "Rust language"
-msgstr "Zang tili"
-
-#: templates/app.md:287 templates/app.md:216 templates/app.md:228
+#: templates/app.md:216 templates/app.md:228 templates/app.md:287
 msgid "JavaScript language"
 msgstr "JavaScript tili"
 
-#: templates/app.md:288 templates/app.md:302 templates/app.md:216
-msgid "C language"
-msgstr "C tili"
+#: templates/app.md:222
+msgid "There is no information available on how to build this app."
+msgstr "Ushbu ilovani qanday yaratish haqida hech qanday ma'lumot yoʻq."
 
-#: templates/app.md:302 templates/app.md:306 templates/app.md:228
-msgid "Vala language"
-msgstr "Vala tili"
+#: templates/app.md:226 templates/app.md:247 templates/app.md:228
+msgid "Python language"
+msgstr "Python tili"
 
-#: templates/app.md:317 templates/app.md:296 templates/app.md:278
-msgid "Setting up GitHub"
-msgstr "GitHub-ni sozlash"
+#: templates/app.md:258 templates/app.md:317 templates/app.md:299
+msgid "Rust language"
+msgstr "Zang tili"
 
-#: templates/app.md:346 templates/app.md:366 templates/app.md:324
+#: templates/app.md:282 templates/app.md:346 templates/app.md:394
 msgid "Submitting your work"
 msgstr "Ishingizni topshirish"
 
-#: templates/app.md:348 templates/app.md:368 templates/app.md:326
+#: templates/app.md:284 templates/app.md:348 templates/app.md:396
 msgid ""
 "After making changes to a project, you can submit them for review. Our goal "
 "is to create what’s called a *merge request* or *pull request*. That means "
@@ -1073,15 +1082,23 @@ msgstr ""
 "tortish soʻrovi * deb nomlangan narsani yaratishdir. Bu loyiha kodi va "
 "ma'lumotlarini oʻzgartirishni taklif qilishni anglatadi."
 
-#: templates/app.md:360 templates/app.md:380 templates/app.md:338
-msgid "Setting up GitLab"
-msgstr "GitLab oʻrnatilmoqda"
+#: templates/app.md:298 templates/app.md:319 templates/app.md:332
+msgid "Setting up GitHub"
+msgstr "GitHub-ni sozlash"
 
-#: templates/app.md:388 templates/app.md:408 templates/app.md:366
+#: templates/app.md:302 templates/app.md:288 templates/app.md:338
+msgid "C language"
+msgstr "C tili"
+
+#: templates/app.md:306 templates/app.md:228 templates/app.md:302
+msgid "Vala language"
+msgstr "Vala tili"
+
+#: templates/app.md:322 templates/app.md:390 templates/app.md:438
 msgid "Creating your own project copy"
 msgstr "Oʻzingizning loyiha nusxangizni yaratish"
 
-#: templates/app.md:408 templates/app.md:428 templates/app.md:386
+#: templates/app.md:344 templates/app.md:418 templates/app.md:466
 msgid ""
 "where `<ssh-fork-url>` has to be replaced with the SSH URL you looked up in "
 "the previous step."
@@ -1089,15 +1106,15 @@ msgstr ""
 "qayerda `<ssh-fork-url> ` oldingi bosqichda qidirgan SSH URL bilan "
 "almashtirilishi kerak."
 
-#: templates/app.md:413 templates/app.md:433 templates/app.md:391
+#: templates/app.md:349 templates/app.md:423 templates/app.md:471
 msgid "Creating a merge request"
 msgstr "Birlashtirish soʻrovi yaratilmoqda"
 
-#: templates/app.md:415 templates/app.md:435 templates/app.md:393
+#: templates/app.md:351 templates/app.md:425 templates/app.md:473
 msgid "We now arrive at what are more regular tasks when working with git."
 msgstr "Endi biz git bilan ishlashda qanday oddiy vazifalarga erishamiz."
 
-#: templates/app.md:420 templates/app.md:440 templates/app.md:398
+#: templates/app.md:356 templates/app.md:430 templates/app.md:478
 msgid ""
 "First, we want to switch to what’s called a different *branch*. Branches are"
 " variants of the original code where you can, for example, develop a "
@@ -1109,7 +1126,11 @@ msgstr ""
 "foydalanilgan kodga oʻtishga tayyor boʻlgunga qadar xususiyatni ishlab "
 "chiqishingiz mumkin. Buning uchun siz qoʻngʻiroq qilishingiz mumkin"
 
-#: templates/app.md:426 templates/app.md:446 templates/app.md:404
+#: templates/app.md:362 templates/app.md:410 templates/app.md:403
+msgid "Setting up GitLab"
+msgstr "GitLab oʻrnatilmoqda"
+
+#: templates/app.md:362 templates/app.md:436 templates/app.md:484
 msgid ""
 "where `my-changes` is a short description of what you are working on, "
 "without spaces."
@@ -1117,7 +1138,7 @@ msgstr ""
 "bu yerda “mening oʻzgarishlarim” boʻsh joysiz, nima ustida "
 "ishlayotganingizning qisqacha tavsifi."
 
-#: templates/app.md:431 templates/app.md:451 templates/app.md:409
+#: templates/app.md:367 templates/app.md:441 templates/app.md:489
 msgid ""
 "Next, we want to save the changes you made with git. That’s usually referred"
 " to as creating a *commit*. You can do this with the command"
@@ -1126,7 +1147,7 @@ msgstr ""
 "odatda * majburiyat * yaratish deb ataladi. Buni buyruq bilan qilishingiz "
 "mumkin"
 
-#: templates/app.md:437 templates/app.md:457 templates/app.md:415
+#: templates/app.md:373 templates/app.md:394 templates/app.md:488
 msgid ""
 "The commit messages should describe your changes. You can learn more about "
 "[choosing a fitting commit "
@@ -1137,7 +1158,14 @@ msgstr ""
 "(https://handbook.gnome.org/development/commit-messages.html) haqida koʻproq"
 " bilib olishingiz mumkin."
 
-#: templates/app.md:442 templates/app.md:462 templates/app.md:420
+#: templates/app.md:398 templates/app.md:446 templates/app.md:439
+msgid ""
+"**Note:** To fork a repository, you need to have added an SSH key to your "
+"GitLab accout as [described above](#setting-up-gitlab). After adding the SSH"
+" key, it can take up to 20 minutes before forking becomes available."
+msgstr ""
+
+#: templates/app.md:452 templates/app.md:496 templates/app.md:511
 msgid ""
 "Now, we have to get your saved changes onto GitLab. Luckily, we have already"
 " done all the setup with using `git remote add` in the previous section. All"
@@ -1147,7 +1175,7 @@ msgstr ""
 "biz oldingi boʻlimda \"git remote add\" dan foydalanib, barcha sozlashlarni "
 "amalga oshirdik. Endi faqat qoʻngʻiroq qilish qoldi"
 
-#: templates/app.md:451 templates/app.md:471 templates/app.md:429
+#: templates/app.md:461 templates/app.md:520 templates/app.md:387
 msgid ""
 "We are finally at the last step. If you check the output in Console after "
 "our previous `git push` command, you will probably already see a website "
@@ -1201,11 +1229,17 @@ msgstr ""
 " harakat qiling."
 
 #: templates/index.md:21
+#, fuzzy
+#| msgid ""
+#| "In GNOME we use Matrix chat to hang out together and discuss projects. You "
+#| "can get started in the [\\#newcomers "
+#| "room](https://matrix.to/#/#newcomers:gnome.org) or directly reach out in a "
+#| "more specific chat room."
 msgid ""
-"In GNOME we use Matrix chat to hang out together and discuss projects. You "
-"can get started in the [\\#newcomers "
-"room](https://matrix.to/#/#newcomers:gnome.org) or directly reach out in a "
-"more specific chat room."
+"In GNOME we use Discourse for asynchronous long-form discussions and Matrix "
+"chat to hang out together and discuss projects. You can get started in the "
+"[\\#newcomers room](https://matrix.to/#/#newcomers:gnome.org) or directly "
+"reach out in a more specific chat room."
 msgstr ""
 "GNOME-da biz birgalikda suhbatlashish va loyihalarni muhokama qilish uchun "
 "Matrix chatidan foydalanamiz. Siz [\\#newcomers "
@@ -1252,11 +1286,28 @@ msgstr ""
 "yuborishingiz mumkin. Circle a'zoligi sizning loyihangizni GNOME fondi "
 "orqali qoʻllab-quvvatlash huquqini beradi."
 
-#: templates/index.md:53 templates/team/design.md:42
+#: templates/index.md:59
+msgid ""
+"See also the [Get in Touch](https://handbook.gnome.org/get-in-touch.html) "
+"section of the handbook for important information about our communication "
+"platforms."
+msgstr ""
+
+#: templates/index.md:64
+#, fuzzy
+#| msgid "Matrix Community"
+msgid "Local Persian Community"
+msgstr "Matritsa hamjamiyati"
+
+#: templates/index.md:66
+msgid "We have a local Persian community."
+msgstr ""
+
+#: templates/index.md:69 templates/team/design.md:42 templates/index.md:84
 msgid "Where to contribute"
 msgstr "Qaerda hissa qoʻshish kerak"
 
-#: templates/index.md:55
+#: templates/index.md:71 templates/index.md:86
 msgid ""
 "Within GNOME there are many areas where you can contribute and a plethora of"
 " skills that are appreciated."
@@ -1268,10 +1319,6 @@ msgstr ""
 msgid "Programming languages"
 msgstr "Dasturlash tillari"
 
-#: templates/index.md:90
-msgid "Contribute to an app"
-msgstr "Ilovaga hissa qoʻshing"
-
 #: templates/index.md:91
 msgid ""
 "Below, you can find an overview of the most popular languages for writing "
@@ -1280,7 +1327,11 @@ msgstr ""
 "Quyida GNOME ilovalarini yozish uchun eng mashhur tillar haqida umumiy "
 "ma’lumotni topishingiz mumkin."
 
-#: templates/index.md:92
+#: templates/index.md:104 templates/index.md:119
+msgid "Contribute to an app"
+msgstr "Ilovaga hissa qoʻshing"
+
+#: templates/index.md:106 templates/index.md:121
 msgid ""
 "Below, you can find specific contribution guides for all GNOME apps. If you "
 "are not sure where to contribute, consider choosing an app that you use "
@@ -1293,7 +1344,7 @@ msgstr ""
 "yoki ichki motivatsiyani his qiladigan narsani hal qilishga harakat qiling."
 
 #: templates/index.md:112 templates/app.md:292 templates/app.md:306
-#: templates/app.md:220
+#: templates/app.md:342
 msgid ""
 "To get started with developing GNOME apps with C we recommend the [Beginners"
 " "
@@ -1306,11 +1357,11 @@ msgstr ""
 "Tutorial](https://developer.gnome.org/documentation/tutorials/beginners/getting_started.html)"
 " ni tavsiya qilamiz. Quyida boshqa muhim manbalarni topishingiz mumkin."
 
-#: templates/index.md:126
+#: templates/index.md:140 templates/index.md:155
 msgid "Internships"
 msgstr "Amaliyot"
 
-#: templates/index.md:128
+#: templates/index.md:142 templates/index.md:157
 msgid ""
 "You can begin or continue your journey with GNOME with a remote internship "
 "including mentoring and a stipend. You can both choose from suggested "
@@ -1321,22 +1372,8 @@ msgstr ""
 "qilingan loyihalardan birini tanlashingiz yoki oʻzingiznikini taklif "
 "qilishingiz mumkin."
 
-#: templates/index.md:141
-msgid "Something missing?"
-msgstr "Nimadir etishmayaptimi?"
-
-#: templates/index.md:143
-msgid ""
-"The *Welcome to GNOME* pages are new. [Let us "
-"know](https://gitlab.gnome.org/Teams/Websites/welcome.gnome.org/-/issues) if"
-" you couldn’t find what you were hoping to find on this website."
-msgstr ""
-"*GNOME ga xush kelibsiz* sahifalari yangi. Agar siz ushbu veb-saytda "
-"qidirayotgan narsangizni topa olmasangiz, [Bizga xabar "
-"bering](https://gitlab.gnome.org/Teams/Websites/welcome.gnome.org/-/issues)."
-
-#: templates/index.md:154 templates/app.md:291 templates/app.md:220
-#: templates/app.md:232
+#: templates/index.md:154 templates/app.md:220 templates/app.md:232
+#: templates/app.md:291
 msgid ""
 "We recommend the [GJS Developer Guide](https://gjs.guide/guides/) to get "
 "started with JavaScript in GNOME. You can find other important resources "
@@ -1346,7 +1383,21 @@ msgstr ""
 "Guide](https://gjs.guide/guides/) ni tavsiya qilamiz. Boshqa muhim "
 "manbalarni quyida topishingiz mumkin."
 
-#: templates/index.md:184 templates/app.md:251 templates/app.md:230
+#: templates/index.md:155 templates/index.md:170
+msgid "Something missing?"
+msgstr "Nimadir etishmayaptimi?"
+
+#: templates/index.md:157 templates/index.md:172
+msgid ""
+"The *Welcome to GNOME* pages are new. [Let us "
+"know](https://gitlab.gnome.org/Teams/Websites/welcome.gnome.org/-/issues) if"
+" you couldn’t find what you were hoping to find on this website."
+msgstr ""
+"*GNOME ga xush kelibsiz* sahifalari yangi. Agar siz ushbu veb-saytda "
+"qidirayotgan narsangizni topa olmasangiz, [Bizga xabar "
+"bering](https://gitlab.gnome.org/Teams/Websites/welcome.gnome.org/-/issues)."
+
+#: templates/index.md:184 templates/app.md:230 templates/app.md:251
 #: templates/app.md:232
 msgid ""
 "If you are familiar with the basics of the [Python "
@@ -1360,8 +1411,8 @@ msgstr ""
 "Tutorial](https://developer.gnome.org/documentation/tutorials/beginners/getting_started.html)ni"
 " tavsiya qilamiz. Quyida boshqa muhim manbalarni topishingiz mumkin."
 
-#: templates/index.md:225 templates/app.md:262 templates/app.md:303
-#: templates/app.md:321
+#: templates/index.md:225 templates/app.md:262 templates/app.md:321
+#: templates/app.md:303
 msgid ""
 "If you are familiar with the basics of the [Rust language](https://www.rust-"
 "lang.org), we recommend the online book [GUI development with Rust and "
@@ -1376,8 +1427,8 @@ msgstr ""
 "foydalanish mumkinligini tushuntiradi. Quyida boshqa muhim manbalarni "
 "topishingiz mumkin."
 
-#: templates/index.md:277 templates/app.md:306 templates/app.md:310
-#: templates/app.md:232
+#: templates/index.md:277 templates/app.md:310 templates/app.md:232
+#: templates/app.md:306
 msgid ""
 "For getting started with the [Vala language](https://vala.dev/), we "
 "recommend the [Vala Tutorial](https://docs.vala.dev/tutorials/programming-"
@@ -1559,12 +1610,21 @@ msgid "Joining the team"
 msgstr "Jamoaga qoʻshilish"
 
 #: templates/team/design.md:64
+#, fuzzy
+#| msgid ""
+#| "Becoming a core member of the design team requires a time commitment, since "
+#| "you must work closely with the rest of the team and build up a detailed "
+#| "knowledge of our design language and practices. If this is something that "
+#| "you’d like to do, making contact with an existing team member for guidance "
+#| "is a good first step."
 msgid ""
-"Becoming a core member of the design team requires a time commitment, since "
-"you must work closely with the rest of the team and build up a detailed "
+"Becoming a member of the design team requires a time commitment, since you "
+"must work closely with the rest of the team and build up a detailed "
 "knowledge of our design language and practices. If this is something that "
 "you’d like to do, making contact with an existing team member for guidance "
-"is a good first step."
+"is a good first step. Our [contribution "
+"roles](https://gitlab.gnome.org/Teams/Design/initiatives/-/blob/master/contributor-"
+"roles.md) also describe the process of becoming a team member."
 msgstr ""
 "Dizayn jamoasining asosiy a'zosi boʻlish vaqtni talab qiladi, chunki siz "
 "jamoaning qolgan a'zolari bilan yaqindan hamkorlik qilishingiz va dizayn "
@@ -1616,6 +1676,63 @@ msgstr ""
 "Ushbu tadbirlar koʻpincha dizayn muammolarini hal qilish uchun dizayn "
 "jamoasi bilan ishlashingizni talab qiladi."
 
+#: templates/team/translation.md:3
+msgid ""
+"GNOME translation infrastructure is called *Damned Lies (DL)*. All Core apps"
+" and Core components, as well as many GNOME Circle apps use this translation"
+" system. You can find app specific translation details on the [app’s "
+"page](/#contribute-to-an-app)."
+msgstr ""
+
+#: templates/team/translation.md:5
+msgid ""
+"Unlike Pontoon or Weblate, Damned Lies isn’t a web-based translation "
+"management platform. This means you need to install an app to edit "
+"translations."
+msgstr ""
+
+#: templates/team/translation.md:32
+msgid "How to provide translations"
+msgstr ""
+
+#: templates/team/translation.md:34
+msgid ""
+"In Damned Lies, projects are called *modules*. It is best to pick something "
+"small for the first time, so you can get used to the translation tools you "
+"are using. You can only choose modules that aren’t reserved by anyone else "
+"for translation. It also isn’t strictly necessary, but some knowledge about "
+"`.po` file format is recommended. Make sure to look at your language team’s "
+"website and see any potential rules and tips."
+msgstr ""
+
+#: templates/team/translation.md:36
+msgid "Review process"
+msgstr ""
+
+#: templates/team/translation.md:38
+msgid ""
+"After everything is done, you need to wait for a Coordinator or Reviewer of "
+"your team to review your translations. When this is done, all you need to do"
+" is wait for it to be committed and made available to everyone. You can now "
+"proudly call yourself a GNOME contributor."
+msgstr ""
+
+#: templates/team/translation.md:40 templates/team/websites.md:59
+#: templates/index.md:330 templates/app.md:251 templates/app.md:315
+#: templates/app.md:363
+msgid "Useful apps"
+msgstr "Foydali ilovalar"
+
+#: templates/team/translation.md:55 templates/team/websites.md:51
+msgid "Reporting issues"
+msgstr "Xabar berish muammolari"
+
+#: templates/team/translation.md:57
+msgid ""
+"If you spot any translation issue, feel free to make a bug report on "
+"[respective language team page](https://gitlab.gnome.org/Teams/Translation)."
+msgstr ""
+
 #: templates/team/websites.md:3
 msgid ""
 "The Websites Team maintains pages like [This Week in "
@@ -1635,10 +1752,6 @@ msgstr ""
 #: templates/team/websites.md:41
 msgid "Translating websites"
 msgstr "Veb-saytlarni tarjima qilish"
-
-#: templates/team/websites.md:51
-msgid "Reporting issues"
-msgstr "Xabar berish muammolari"
 
 #: templates/team/websites.md:53
 msgid ""
@@ -1680,7 +1793,11 @@ msgstr ""
 "Sphinx, Jekyll yoki oddiy HTML-da yozilgan boʻlsa, boshqalari murakkabroq "
 "Rust kodiga asoslangan."
 
-#: templates/team/websites.md:59 templates/index.md:330 templates/app.md:293
-#: templates/app.md:315 templates/app.md:335
-msgid "Useful apps"
-msgstr "Foydali ilovalar"
+#~ msgid "Building blocks for modern adaptive GNOME apps"
+#~ msgstr "Zamonaviy moslashuvchan GNOME ilovalari uchun qurilish bloklari"
+
+#~ msgid "GTK&nbsp;3 Docs"
+#~ msgstr "GTK 3 Hujjatlar"
+
+#~ msgid "Libhandy Docs"
+#~ msgstr "Libhandy hujjatlari"

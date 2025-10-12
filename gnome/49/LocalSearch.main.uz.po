@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LocalSearch main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/localsearch/-/issues\n"
-"POT-Creation-Date: 2025-09-23 02:41+0000\n"
+"POT-Creation-Date: 2025-10-11 01:14+0000\n"
 "PO-Revision-Date: 2025-04-02 21:25+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -266,7 +266,7 @@ msgstr "FORMAT"
 #: src/cli/tracker-index.c:60 src/cli/tracker-index.c:61
 #: src/cli/tracker-info.c:80 src/cli/tracker-info.c:81
 #: src/cli/tracker-reset.c:52 src/extractor/tracker-main.c:75
-#: src/indexer/tracker-application.c:55
+#: src/indexer/tracker-application.c:57
 msgid "FILE"
 msgstr "FILE"
 
@@ -798,7 +798,7 @@ msgstr[0] " %2.2d soniya"
 msgstr[1] " %2.2d soniya"
 
 #: src/control/tracker-main.c:61 src/extractor/tracker-main.c:89
-#: src/indexer/tracker-application.c:62 src/writeback/tracker-main.c:50
+#: src/indexer/tracker-application.c:64 src/writeback/tracker-main.c:50
 msgid "Displays version information"
 msgstr "Versiya ma'lumotlarini koʻrsatadi"
 
@@ -848,39 +848,39 @@ msgstr "- Fayl meta-ma'lumotlarini chiqarib oling"
 msgid "Filename and mime type must be provided together"
 msgstr "Fayl nomi va mim turi birgalikda taqdim etilishi kerak"
 
-#: src/indexer/tracker-application.c:50
+#: src/indexer/tracker-application.c:52
 msgid "Runs until all configured locations are indexed and then exits"
 msgstr "Barcha sozlangan joylar indekslanmaguncha ishlaydi va keyin chiqadi"
 
-#: src/indexer/tracker-application.c:54
+#: src/indexer/tracker-application.c:56
 msgid "Checks if FILE is eligible for being mined based on configuration"
 msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 
-#: src/indexer/tracker-application.c:58
+#: src/indexer/tracker-application.c:60
 msgid "Avoids changes in the filesystem"
 msgstr "Fayl tizimidagi oʻzgarishlarni oldini oladi"
 
-#: src/indexer/tracker-application.c:589
+#: src/indexer/tracker-application.c:620
 #, c-format
 msgid "Data object “%s” currently exists"
 msgstr "“%s” maʼlumotlar obyekti hozirda mavjud"
 
-#: src/indexer/tracker-application.c:590
+#: src/indexer/tracker-application.c:621
 #, c-format
 msgid "Data object “%s” currently does not exist"
 msgstr "“%s” maʼlumotlar obyekti hozirda mavjud emas"
 
-#: src/indexer/tracker-application.c:616
+#: src/indexer/tracker-application.c:647
 #, c-format
 msgid "Parent directory “%s” is NOT eligible to be indexed (based on filters)"
 msgstr "“%s” asosiy katalogini indekslash MUMKIN EMAS (filtrlar asosida)"
 
-#: src/indexer/tracker-application.c:622
+#: src/indexer/tracker-application.c:653
 #, c-format
 msgid "Parent directory “%s” is NOT eligible to be indexed (hidden file)"
 msgstr "“%s” ota-katalogini indekslash MUMKIN EMAS (yashirin fayl)"
 
-#: src/indexer/tracker-application.c:628
+#: src/indexer/tracker-application.c:659
 #, c-format
 msgid ""
 "Parent directory “%s” is NOT eligible to be indexed (based on content "
@@ -888,27 +888,27 @@ msgid ""
 msgstr ""
 "“%s” ota-katalogini indekslash MUMKIN EMAS (kontent filtrlari asosida)"
 
-#: src/indexer/tracker-application.c:643
+#: src/indexer/tracker-application.c:674
 msgid "Directory is NOT eligible to be indexed (based on filters)"
 msgstr "Katalogni indekslash mumkin EMAS (filtrlar asosida)"
 
-#: src/indexer/tracker-application.c:647
+#: src/indexer/tracker-application.c:678
 msgid "File is NOT eligible to be indexed (based on filters)"
 msgstr "Faylni indekslash mumkin EMAS (filtrlar asosida)"
 
-#: src/indexer/tracker-application.c:650
+#: src/indexer/tracker-application.c:681
 msgid "File is NOT eligible to be indexed (hidden file)"
 msgstr "Fayl indekslanishi mumkin EMAS (yashirin fayl)"
 
-#: src/indexer/tracker-application.c:652
+#: src/indexer/tracker-application.c:683
 msgid "File is NOT eligible to be indexed (not an indexed folder)"
 msgstr "Fayl indekslanishi mumkin EMAS (indekslangan jild emas)"
 
-#: src/indexer/tracker-application.c:660
+#: src/indexer/tracker-application.c:691
 msgid "Directory is eligible to be indexed"
 msgstr "Katalog indekslanishi mumkin"
 
-#: src/indexer/tracker-application.c:661
+#: src/indexer/tracker-application.c:692
 msgid "File is eligible to be indexed"
 msgstr "Fayl indekslanishi mumkin"
 

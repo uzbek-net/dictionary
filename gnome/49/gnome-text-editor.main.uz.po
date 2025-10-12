@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-text-editor main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/chergert/gnome-text-editor/issues\n"
-"POT-Creation-Date: 2025-09-29 17:05+0000\n"
+"POT-Creation-Date: 2025-10-11 19:31+0000\n"
 "PO-Revision-Date: 2025-04-02 15:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -367,12 +367,12 @@ msgstr ""
 msgid "Print version information and exit"
 msgstr "Versiya ma’lumotlarini chop eting va chiqing"
 
-#: src/editor-document.c:2272
+#: src/editor-document.c:2281
 msgid "[Read-Only]"
 msgstr "[Read-Only]"
 
-#: src/editor-document.c:2497 src/editor-page.c:1125
-#: src/editor-sidebar-item.c:498
+#: src/editor-document.c:2506 src/editor-page.c:1125
+#: src/editor-sidebar-item.c:500
 msgid "New Document"
 msgstr "Yangi hujjat"
 
@@ -527,7 +527,7 @@ msgstr "Yangi hujjatni oching"
 msgid "No Recent Documents"
 msgstr "Oxirgi hujjatlar yoʻq"
 
-#: src/editor-page.c:1151 src/editor-properties.c:606
+#: src/editor-page.c:1151 src/editor-properties.c:617
 #: src/editor-sidebar-item.c:101
 msgid "Draft"
 msgstr "Qoralama"

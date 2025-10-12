@@ -1,0 +1,1068 @@
+# Uzbek (Latin) translation for health.
+# Copyright (C) 2025 health's COPYRIGHT HOLDER
+# This file is distributed under the same license as the health package.
+# BeMeritus <bemerituss@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: health master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Health/issues\n"
+"POT-Creation-Date: 2025-10-11 00:21+0000\n"
+"PO-Revision-Date: 2025-10-09 18:45+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/dev.Cogitri.Health.gschema.xml:16
+msgid "First time setup done"
+msgstr "Birinchi marta sozlash yakunlandi"
+
+#: data/dev.Cogitri.Health.gschema.xml:20
+msgid "Toggle notifications"
+msgstr "Bildirishnomalarni almashtirish"
+
+#: data/dev.Cogitri.Health.gschema.xml:24
+msgid "Set enabled plugins"
+msgstr "Yoqilgan plaginlarni sozlash"
+
+#: data/dev.Cogitri.Health.gschema.xml:28
+msgid "Notification time"
+msgstr "Bildirishnoma vaqti"
+
+#: data/dev.Cogitri.Health.gschema.xml:32
+msgid "notification frequency"
+msgstr "bildirishnoma chastotasi"
+
+#: data/dev.Cogitri.Health.gschema.xml:36
+msgid "List of recent activity types"
+msgstr "Oxirgi faoliyat turlari roʻyxati"
+
+#: data/dev.Cogitri.Health.gschema.xml:40
+msgid "Google Fit Sync-Provider setup"
+msgstr "Google Fit sinxronizatorini sozlash"
+
+#: data/dev.Cogitri.Health.gschema.xml:44
+msgid "Last sync with Google Fit"
+msgstr "Google Fit bilan oxirgi sinxronlash"
+
+#: data/dev.Cogitri.Health.gschema.xml:48
+msgid "Unit system used"
+msgstr "Birlik tizimi ishlatilmoqda"
+
+#: data/dev.Cogitri.Health.gschema.xml:52
+msgid "User age"
+msgstr "Foydalanuvchi yoshi"
+
+#: data/dev.Cogitri.Health.gschema.xml:56
+msgid "Absolute user age"
+msgstr "Foydalanuvchining mutlaq yoshi"
+
+#: data/dev.Cogitri.Health.gschema.xml:60
+msgid "User height"
+msgstr "Foydalanuvchi boʻyi"
+
+#: data/dev.Cogitri.Health.gschema.xml:64
+msgid "User step goal"
+msgstr "Foydalanuvchi qadamlari maqsadi"
+
+#: data/dev.Cogitri.Health.gschema.xml:68
+msgid "User weight goal"
+msgstr "Foydalanuvchi vazni maqsadi"
+
+#: data/dev.Cogitri.Health.gschema.xml:72
+msgid "Window height"
+msgstr "Odatiy oyna balandligi"
+
+#: data/dev.Cogitri.Health.gschema.xml:76
+msgid "Window maximized"
+msgstr "Kattalashgan oyna"
+
+#: data/dev.Cogitri.Health.gschema.xml:80
+msgid "Window width"
+msgstr "Oyna kengligi"
+
+#: data/dev.Cogitri.Health.gschema.xml:84
+msgid "Active user ID"
+msgstr "Faol foydalanuvchi IDʼsi"
+
+#: data/dev.Cogitri.Health.Autostart.desktop.in.in:2
+#: data/dev.Cogitri.Health.desktop.in.in:2
+#: data/dev.Cogitri.Health.metainfo.xml.in.in:10 data/ui/view_home_page.blp:61
+#: data/ui/window.blp:5 src/main.rs:35
+msgid "Health"
+msgstr "Salomatlik"
+
+#: data/dev.Cogitri.Health.desktop.in.in:8
+msgid "health;fitness;"
+msgstr "salomatlik;sogʻlomlik;"
+
+#: data/dev.Cogitri.Health.metainfo.xml.in.in:11
+msgid "Track your fitness goals"
+msgstr "Fitnes maqsadlaringizni kuzating"
+
+#: data/dev.Cogitri.Health.metainfo.xml.in.in:13
+msgid ""
+"Health can visualize how many steps you’ve made daily, your weight "
+"development over time and your daily activities. Data can be synched from "
+"Google Fit or manually entered into Health. Afterwards, it can be viewed and"
+" edited in Health."
+msgstr ""
+"Salomatlik ilovasi sizning kunlik qadamlaringiz sonini, vaqt oʻtishi bilan "
+"vazningiz oʻzgarishini va kundalik faoliyatingizni koʻrsatib berishi mumkin."
+" Ma’lumotlarni Google Fit ilovasidan sinxronlashtirish yoki Salomatlik "
+"ilovasiga qoʻlda kiritish mumkin. Shundan soʻng, ularni Salomatlik ilovasida"
+" koʻrish va tahrirlash imkoniyati mavjud."
+
+#: data/ui/date_selector.blp:18
+msgid "January"
+msgstr "Yanvar"
+
+#: data/ui/date_selector.blp:19 src/widgets/date_selector.rs:213
+msgid "February"
+msgstr "Fevral"
+
+#: data/ui/date_selector.blp:20
+msgid "March"
+msgstr "Mart"
+
+#: data/ui/date_selector.blp:21
+msgid "April"
+msgstr "Aprel"
+
+#: data/ui/date_selector.blp:22
+msgid "May"
+msgstr "May"
+
+#: data/ui/date_selector.blp:23
+msgid "June"
+msgstr "Iyun"
+
+#: data/ui/date_selector.blp:24
+msgid "July"
+msgstr "Iyul"
+
+#: data/ui/date_selector.blp:25
+msgid "August"
+msgstr "Avgust"
+
+#: data/ui/date_selector.blp:26
+msgid "September"
+msgstr "Sentyabr"
+
+#: data/ui/date_selector.blp:27
+msgid "October"
+msgstr "Oktyabr"
+
+#: data/ui/date_selector.blp:28
+msgid "November"
+msgstr "Noyabr"
+
+#: data/ui/date_selector.blp:29
+msgid "December"
+msgstr "Dekabr"
+
+#: data/ui/distance_action_row.blp:11 src/widgets/activity_row.rs:120
+msgid "Distance"
+msgstr "Masofa"
+
+#: data/ui/import_export_dialog_base.blp:51
+msgid "Export weight measurements"
+msgstr "Eksport vazn oʻlchovlari"
+
+#: data/ui/import_export_dialog_base.blp:64
+msgid "Encrypt export"
+msgstr "Eksportni shifrlash"
+
+#: data/ui/import_export_dialog_base.blp:89
+msgid "_Export"
+msgstr "Eksport"
+
+#: data/ui/password_entry.blp:9
+msgid "_Password"
+msgstr "Parol"
+
+#: data/ui/password_entry.blp:40
+msgid "_Confirm password"
+msgstr "Parolni tasdiqlash"
+
+#: data/ui/plugins/activities/details.blp:6
+#: data/ui/plugins/calories/details.blp:5 data/ui/plugins/steps/details.blp:5
+msgid "You can use the <b>+</b> button to add a new activity."
+msgstr ""
+"Yangi faoliyat qoʻshish uchun <b>+</b> tugmasidan foydalanishingiz mumkin."
+
+#: data/ui/plugins/activities/details.blp:9
+msgid "Recent Activities"
+msgstr "Oxirgi harakatlar"
+
+#: data/ui/plugins/activities/summary.blp:5 data/ui/view_add_activity.blp:84
+msgid "Active Minutes"
+msgstr "Faol daqiqalar"
+
+#: data/ui/plugins/calories/details.blp:8 src/plugins/calories/plugin.rs:39
+msgid "Calories"
+msgstr "Kaloriya"
+
+#: data/ui/plugins/calories/summary.blp:5 data/ui/view_add_activity.blp:66
+msgid "Calories Burned"
+msgstr "Sarflangan kaloriya"
+
+#: data/ui/plugins/details.blp:77
+msgid ""
+"This is a preview of how the plugin presents data. Enable the plugin to see "
+"your actual, live data."
+msgstr ""
+"Bu plagin ma’lumotlarni qanday taqdim etishining namunasi. Oʻzingizning "
+"haqiqiy, jonli ma’lumotlaringizni koʻrish uchun plaginni faollashtiring."
+
+#: data/ui/plugins/steps/details.blp:8 data/ui/plugins/steps/summary.blp:5
+#: data/ui/preferences_dialog.blp:173 src/plugins/steps/plugin.rs:39
+msgid "Steps"
+msgstr "Qadamlar"
+
+#: data/ui/plugins/weight/details.blp:6
+msgid "You can use the <b>+</b> button to add a new weight measurement."
+msgstr ""
+"Yangi vazn oʻlchovini qoʻshish uchun <b>+</b> tugmasidan foydalanishingiz "
+"mumkin."
+
+#: data/ui/plugins/weight/details.blp:9 data/ui/plugins/weight/summary.blp:5
+#: data/ui/view_add_weight.blp:43 src/plugins/weight/plugin.rs:39
+#: src/views/view_add_weight.rs:90
+msgid "Weight"
+msgstr "Ogʻirlik"
+
+#: data/ui/plugins/weight/details.blp:10
+msgid "Weight Measurements"
+msgstr "Ogʻirlik oʻlchovlari"
+
+#: data/ui/plugins/weight/summary.blp:16
+msgid "Compared to previous measurement."
+msgstr "Avvalgi oʻlchov bilan solishtirganda."
+
+#: data/ui/preferences_dialog.blp:43
+msgid "_Every 1 hour"
+msgstr "Har 1 soatda"
+
+#: data/ui/preferences_dialog.blp:49
+msgid "_Every 4 hours"
+msgstr "Har 4 soatda"
+
+#: data/ui/preferences_dialog.blp:55
+msgid "_Fixed Time"
+msgstr "Belgilangan vaqt"
+
+#: data/ui/preferences_dialog.blp:63
+msgid "Health Preferences"
+msgstr "Salomatlik sozlamalari"
+
+#: data/ui/preferences_dialog.blp:67 data/ui/shortcuts_window.blp:11
+msgid "General"
+msgstr "Umumiy"
+
+#: data/ui/preferences_dialog.blp:70 data/ui/preferences_dialog.blp:102
+#: data/ui/setup_window.blp:183 src/core/database.rs:1117
+msgid "User"
+msgstr "Foydalanuvchi"
+
+#: data/ui/preferences_dialog.blp:73 data/ui/setup_window.blp:154
+msgid "Unit system"
+msgstr "Birlik tizimi"
+
+#: data/ui/preferences_dialog.blp:83 data/ui/setup_window.blp:164
+msgid "Imperial"
+msgstr "Imperial"
+
+#: data/ui/preferences_dialog.blp:89 data/ui/setup_window.blp:170
+msgid "Metric"
+msgstr "Metrik"
+
+#: data/ui/preferences_dialog.blp:97 data/ui/setup_window.blp:178
+msgid "Username"
+msgstr "Foydalanuvchi nomi"
+
+#: data/ui/preferences_dialog.blp:107 data/ui/setup_window.blp:188
+msgid "Birthday"
+msgstr "Tugʻilgan kun"
+
+#: data/ui/preferences_dialog.blp:116 data/ui/setup_window.blp:197
+msgid "Height"
+msgstr "Balandligi"
+
+#: data/ui/preferences_dialog.blp:129
+msgid "Notifications"
+msgstr "Bildirishnomalar"
+
+#: data/ui/preferences_dialog.blp:132
+msgid "Enable notifications"
+msgstr "Bildirishnomalarni yoqish"
+
+#: data/ui/preferences_dialog.blp:143
+msgid "Frequency"
+msgstr "Chastota"
+
+#: data/ui/preferences_dialog.blp:156
+msgid "Daily reminder time"
+msgstr "Kunlik eslatma vaqti"
+
+#: data/ui/preferences_dialog.blp:176 data/ui/setup_window.blp:260
+#: src/plugins/steps/details.rs:243
+msgid "Step goal"
+msgstr "Qadam maqsadi"
+
+#: data/ui/preferences_dialog.blp:177
+msgid "7,500 steps per day are recommended."
+msgstr "Kuniga 7500 qadam tavsiya etiladi."
+
+#: data/ui/preferences_dialog.blp:190 data/ui/preferences_dialog.blp:193
+msgid "Weight Goal"
+msgstr "Vazn maqsadi"
+
+#: data/ui/preferences_dialog.blp:194
+msgid "The WHO recommends a BMI of 18.5-24.9."
+msgstr "JSST tana vazni indeksini 18,5-24,9 deb tavsiya qiladi."
+
+#: data/ui/preferences_dialog.blp:202 data/ui/setup_window.blp:367
+msgid "Target BMI"
+msgstr "Maqsadli TVI"
+
+#: data/ui/preferences_dialog.blp:218
+msgid "Sync"
+msgstr "Sinxronlash"
+
+#: data/ui/preferences_dialog.blp:222
+msgid "Start sync with third-party providers."
+msgstr "Tashqi provayderlar bilan sinxronlashni boshlang."
+
+#: data/ui/preferences_dialog.blp:230
+msgid "Importing and exporting data"
+msgstr "Ma’lumotlarni import va eksport qilish"
+
+#: data/ui/preferences_dialog.blp:233
+msgid "Export data as CSV"
+msgstr "Export data as CSV"
+
+#: data/ui/preferences_dialog.blp:236
+msgid "Export…"
+msgstr "Eksport qilish…"
+
+#: data/ui/preferences_dialog.blp:243
+msgid "Import data from CSV"
+msgstr "CSV ma’lumotlarini import qilish"
+
+#: data/ui/preferences_dialog.blp:246
+msgid "Import…"
+msgstr "Import qilish…"
+
+#: data/ui/setup_window.blp:39
+msgid "Health Setup"
+msgstr "Salomatlik sozlamalari"
+
+#: data/ui/setup_window.blp:53
+msgid "_Quit"
+msgstr "Chiqish"
+
+#: data/ui/setup_window.blp:62
+msgid "_Previous"
+msgstr "Oldingi"
+
+#: data/ui/setup_window.blp:77
+msgid "_Next"
+msgstr "Keyingi"
+
+#: data/ui/setup_window.blp:90
+msgid "_Done"
+msgstr "Bajarildi"
+
+#: data/ui/setup_window.blp:116
+msgid "Welcome to Health!"
+msgstr "Salomatlik ilovasiga xush kelibsiz!"
+
+#: data/ui/setup_window.blp:128
+msgid "Please enter some information to get setup."
+msgstr "Sozlash uchun ayrim ma’lumotlarni kiriting."
+
+#: data/ui/setup_window.blp:224
+msgid "Please enter your daily step goal."
+msgstr "Kunlik qadam maqsadini kiriting."
+
+#: data/ui/setup_window.blp:236
+msgid "The WHO recommends 7.500 steps per day."
+msgstr "JSST kuniga 7500 qadam tashlashni tavsiya qiladi."
+
+#: data/ui/setup_window.blp:286
+msgid "Please enter your weight goal."
+msgstr "Vazn maqsadingizni kiriting."
+
+#: data/ui/setup_window.blp:298
+msgid "The WHO recommends a BMI of 18.5–24.9."
+msgstr "JSST tana vazni indeksini 18,5-24,9 deb tavsiya qiladi."
+
+#: data/ui/setup_window.blp:326
+msgid "Current weight"
+msgstr "Joriy ogʻirlik"
+
+#: data/ui/setup_window.blp:342 src/widgets/bmi_level_bar.rs:249
+msgid "Current BMI"
+msgstr "Joriy TVI"
+
+#: data/ui/setup_window.blp:350 src/plugins/weight/details.rs:228
+msgid "Weight goal"
+msgstr "Vazn maqsadi"
+
+#: data/ui/setup_window.blp:386
+msgid "Setup sync with third-party providers."
+msgstr "Tashqi provayderlar bilan sozlash sinxronizatsiyasi."
+
+#: data/ui/setup_window.blp:398
+msgid ""
+"You can sync steps and weight measurements from/to third-party providers."
+msgstr ""
+"Siz qadamlar va vazn oʻlchovlarini tashqi provayderlardan/ularga "
+"sinxronlashingiz mumkin."
+
+#: data/ui/shortcuts_window.blp:15
+msgid "Quit the application"
+msgstr "Ilovadan chiqish"
+
+#: data/ui/shortcuts_window.blp:20
+msgid "Show this shortcuts window"
+msgstr "Bu yorliqlar oynasini chiqarish"
+
+#: data/ui/shortcuts_window.blp:25
+msgid "Show help"
+msgstr "Yordam koʻrsatish"
+
+#: data/ui/shortcuts_window.blp:30
+msgid "Show primary menu"
+msgstr "Asosiy menyuni koʻrsatish"
+
+#: data/ui/shortcuts_window.blp:35
+msgid "Toggle fullscreen mode"
+msgstr "Oynani toʻliq ekran rejimiga oʻtkazish yoki chiqarish"
+
+#: data/ui/sync_list_box.blp:30
+msgid "Google Fit"
+msgstr "Google Fit"
+
+#: data/ui/view_add_activity.blp:45 data/ui/view_add_weight.blp:34
+msgid "Date"
+msgstr "Sana"
+
+#: data/ui/view_add_activity.blp:57
+msgid "Activity Type"
+msgstr "Faoliyat turi"
+
+#: data/ui/view_add_activity.blp:97
+msgid "Average Heart Rate"
+msgstr "Oʻrtacha yurak urishi"
+
+#: data/ui/view_add_activity.blp:109
+msgid "Minimum Heart Rate"
+msgstr "Minimal yurak urishi tezligi"
+
+#: data/ui/view_add_activity.blp:121
+msgid "Maximum Heart Rate"
+msgstr "Maksimal yurak urishi tezligi"
+
+#: data/ui/view_add_activity.blp:133
+msgid "Stepcount"
+msgstr "Pogʻonalar soni"
+
+#: data/ui/view_add_activity.blp:149
+msgid "Add Activity Data"
+msgstr "Faollik ma’lumotlarini kiritish"
+
+#: data/ui/view_add_activity.blp:155 data/ui/view_add_weight.blp:20
+msgid "Add"
+msgstr "Qoʻshish"
+
+#: data/ui/view_add_weight.blp:14
+msgid "Add Weight Data"
+msgstr "Vazn ma’lumotlarini kiritish"
+
+#: data/ui/view_home_page.blp:39
+msgid "_Preferences"
+msgstr "Parametrlar"
+
+#: data/ui/view_home_page.blp:44
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/ui/view_home_page.blp:51
+msgid "_About Health"
+msgstr "Salomatlik haqida"
+
+#: data/ui/view_home_page.blp:100
+msgid "Add data:"
+msgstr "Ma’lumot kiritish:"
+
+#: data/ui/view_home_page.blp:109
+msgid "Add Weight Measure"
+msgstr "Vazn oʻlchovini qoʻshish"
+
+#: data/ui/view_home_page.blp:124
+msgid "Add Activity"
+msgstr "Faollik kiritish"
+
+#: data/ui/view_home_page.blp:144
+msgid ""
+"No plugins enabled. Enable one from the list below to start using Health."
+msgstr ""
+"Hech qanday plagin yoqilmagan. Salomatlik ilovasidan foydalanishni boshlash "
+"uchun quyidagi roʻyxatdan birini yoqing."
+
+#: data/ui/view_home_page.blp:165
+msgid "All data"
+msgstr "Barcha ma’lumotlar"
+
+#: src/core/application.rs:197
+msgid "A health tracking app for the GNOME desktop."
+msgstr "GNOME ish stoli uchun salomatlikni kuzatish ilovasi."
+
+#: src/core/application.rs:199
+#, fuzzy
+msgid "translator-credits"
+msgstr ""
+"BeMeritus <bemerituss@gmail.com>\n"
+"Baxrom Raxmatov"
+
+#: src/model/activity_info.rs:83
+msgid "Basketball"
+msgstr "Basketbol"
+
+#: src/model/activity_info.rs:93
+msgid "Bicycling"
+msgstr "Velosiped sporti"
+
+#: src/model/activity_info.rs:102
+msgid "Boxing"
+msgstr "Boks"
+
+#: src/model/activity_info.rs:111
+msgid "Dancing"
+msgstr "Raqs"
+
+#: src/model/activity_info.rs:120
+msgid "Football"
+msgstr "Futbol"
+
+#: src/model/activity_info.rs:127
+msgid "Golf"
+msgstr "Golf"
+
+#: src/model/activity_info.rs:138
+msgid "Hiking"
+msgstr "Piyoda sayr"
+
+#: src/model/activity_info.rs:147
+msgid "Hockey"
+msgstr "Xokkey"
+
+#: src/model/activity_info.rs:157
+msgid "Horse Riding"
+msgstr "Ot minish"
+
+#: src/model/activity_info.rs:166
+msgid "Other Sports"
+msgstr "Boshqa sport turlari"
+
+#: src/model/activity_info.rs:176
+msgid "Rollerblading"
+msgstr "Gʻildirakli uchish"
+
+#: src/model/activity_info.rs:187
+msgid "Running"
+msgstr "Yugurish"
+
+#: src/model/activity_info.rs:197
+msgid "Skiing"
+msgstr "Changʻi sporti"
+
+#: src/model/activity_info.rs:206
+msgid "Soccer"
+msgstr "Futbol"
+
+#: src/model/activity_info.rs:215
+msgid "Softball"
+msgstr "Softbol"
+
+#: src/model/activity_info.rs:225
+msgid "Swimming"
+msgstr "Suzish"
+
+#: src/model/activity_info.rs:234
+msgid "Tennis"
+msgstr "Tennis"
+
+#: src/model/activity_info.rs:243
+msgid "Track And Field"
+msgstr "Yengil atletika"
+
+#: src/model/activity_info.rs:254
+msgid "Volleyball"
+msgstr "Voleybol"
+
+#: src/model/activity_info.rs:265
+msgid "Walking"
+msgstr "Yurish"
+
+#: src/model/model_notification.rs:217
+msgid "Health: walking reminder"
+msgstr "Salomatlik: piyoda yurish eslatmasi"
+
+#: src/model/model_notification.rs:233
+msgid "{} step remaining to complete your daily step goal."
+msgid_plural "{} steps remaining to complete your daily step goal."
+msgstr[0] "Kunlik qadamlar maqsadingizni bajarish uchun {} qadam qoldi."
+
+#: src/plugins/activities/plugin.rs:39
+msgid "Activities"
+msgstr "Faoliyatlar"
+
+#. Translators: min is short for Minutes active today. Example: "64 min"
+#: src/plugins/activities/summary.rs:106
+msgid "{} min"
+msgstr "{} daq"
+
+#: src/plugins/calories/details.rs:218
+msgid ""
+"{}:\n"
+"{} calorie\n"
+"{}"
+msgid_plural ""
+"{}:\n"
+"{} calories\n"
+"{}"
+msgstr[0] ""
+"{}:\n"
+"{} kaloriya\n"
+"{}"
+
+#. Translators: cal is short for calories burned today. Example: "2666 cal"
+#: src/plugins/calories/summary.rs:116 src/plugins/calories/summary.rs:119
+msgid "{} cal"
+msgstr "{} chaqiruv"
+
+#: src/plugins/steps/details.rs:185
+msgid "Today’s steps: {}"
+msgstr "Bugungi qadamlar: {}"
+
+#: src/plugins/steps/details.rs:204
+msgid ""
+"No streak yet. Reach your step goal for multiple days to start a streak!"
+msgstr ""
+"Hozircha davomiylik yoʻq. Ketma-ket boshlash uchun bir necha kun davomida "
+"qadamlar maqsadingizga erishing!"
+
+#: src/plugins/steps/details.rs:208
+msgid ""
+"You’re on a streak for {} day. Reach your step goal today to continue it!"
+msgid_plural ""
+"You’re on a streak for {} days. Reach your step goal today to continue it!"
+msgstr[0] ""
+"Ketma-ket {} kun davom etmoqdasiz. Uni davom ettirish uchun bugunoq qadamlar"
+" maqsadingizga erishing!"
+
+#: src/plugins/steps/details.rs:216
+msgid "You’ve reached your step goal today. Keep going to start a streak!"
+msgstr ""
+"Bugun qadam maqsadingizga erishdingiz. Ketma-ketlikni boshlash uchun shunday"
+" davom eting!"
+
+#: src/plugins/steps/details.rs:219
+msgid "You’re on a streak for {} day. Good job!"
+msgid_plural "You’re on a streak for {} days. Good job!"
+msgstr[0] "Ketma-ket {} kun davom etmoqdasiz. Barakalla!"
+
+#. TRANSLATORS: X step(s) on DATE
+#: src/plugins/steps/details.rs:236
+msgid "{} step on {}"
+msgid_plural "{} steps on {}"
+msgstr[0] "{} qadam {}-sanada"
+
+#: src/plugins/steps/summary.rs:111
+msgid "{} step"
+msgid_plural "{} steps"
+msgstr[0] "{} qadam"
+
+#: src/plugins/steps/summary.rs:122
+msgid "Reached {} percent of daily step goal"
+msgid_plural "Reached {} percent of daily step goal"
+msgstr[0] "Kunlik qadam maqsadining {} foiziga erishildi"
+
+#: src/plugins/steps/summary.rs:129
+msgid "Well done! You have reached your daily step goal!"
+msgstr "Barakalla! Kunlik qadam maqsadiga yetdingiz!"
+
+#: src/plugins/weight/details.rs:200
+msgid "Current BMI: {}"
+msgstr "Joriy TVI: {}"
+
+#. TRANSLATORS: Weight X on date Y
+#: src/plugins/weight/details.rs:215
+msgid "{} pound on {}"
+msgid_plural "{} pounds on {}"
+msgstr[0] "{} da {} funt"
+
+#. TRANSLATORS: Weight X on date Y
+#: src/plugins/weight/details.rs:218
+msgid "{} kilogram on {}"
+msgid_plural "{} kilograms on {}"
+msgstr[0] "{} da {} kilogramm"
+
+#: src/plugins/weight/details.rs:259 src/plugins/weight/details.rs:264
+msgid "Unknown BMI"
+msgstr "Noma’lum TVI"
+
+#: src/plugins/weight/details.rs:282
+msgid ""
+"Your weight goal is {} pound. Add a first weight measurement to see how "
+"close you are to reaching it."
+msgid_plural ""
+"Your weight goal is {} pounds. Add a first weight measurement to see how "
+"close you are to reaching it."
+msgstr[0] ""
+"Vazningiz maqsadi {} funt. Birinchi vazn o‘lchovini qo‘shing va unga "
+"erishishga qanchalik yaqin ekaningizni ko‘ring."
+
+#: src/plugins/weight/details.rs:289
+msgid ""
+"Your weight goal is {} kilogram. Add a first weight measurement to see how "
+"close you are to reaching it."
+msgid_plural ""
+"Your weight goal is {} kilograms. Add a first weight measurement to see how "
+"close you are to reaching it."
+msgstr[0] ""
+"Vazningiz maqsadi {} kilogramm. Birinchi vazn o‘lchovini qo‘shing va unga "
+"erishishga qanchalik yaqin ekaningizni ko‘ring."
+
+#: src/plugins/weight/details.rs:298
+msgid "You’ve reached your weight goal. Great job!"
+msgstr "Vazn maqsadingizga erishdingiz. Barakalla!"
+
+#: src/plugins/weight/details.rs:314
+msgid "Your weight goal is {} pound."
+msgid_plural "Your weight goal is {} pounds."
+msgstr[0] "Vazningiz maqsadi {} funt."
+
+#: src/plugins/weight/details.rs:319
+msgid "You have {} pound left to reach it."
+msgid_plural "You have {} pounds left to reach it."
+msgstr[0] "Unga yetish uchun {} funt qoldi."
+
+#: src/plugins/weight/details.rs:326
+msgid "Your weight goal is {} kilogram."
+msgid_plural "Your weight goal is {} kilograms."
+msgstr[0] "Vazningiz maqsadi {} kilogramm."
+
+#: src/plugins/weight/details.rs:332
+msgid "You have {} kilogram left to reach it"
+msgid_plural "You have {} kilograms left to reach it"
+msgstr[0] "Unga yetish uchun {} kilogramm qoldi"
+
+#: src/plugins/weight/details.rs:342
+msgid "No weight goal set yet. You can set it in Health’s preferences."
+msgstr ""
+"Hozircha vazn maqsadi belgilanmagan. Uni Salomatlik sozlamalarida "
+"sozlashingiz mumkin."
+
+#: src/plugins/weight/summary.rs:135 src/plugins/weight/summary.rs:169
+msgid "{} pound"
+msgid_plural "{} pounds"
+msgstr[0] "{} funt"
+
+#. TRANSLATORS: Current user weight. kg is short for kilograms
+#: src/plugins/weight/summary.rs:142
+msgid "{} kg"
+msgstr "{} kg"
+
+#: src/plugins/weight/summary.rs:149
+msgid "+ {} pound"
+msgid_plural "+ {} pounds"
+msgstr[0] "+ {} funt"
+
+#: src/plugins/weight/summary.rs:157
+msgid "+ {} kilogram"
+msgid_plural "+ {} kilograms"
+msgstr[0] "+ {} kilogramm"
+
+#: src/plugins/weight/summary.rs:178
+msgid "{} kilogram"
+msgid_plural "{} kilograms"
+msgstr[0] "{} kilogramm"
+
+#: src/plugins/weight/summary.rs:186
+msgid "No change in weight"
+msgstr "Vazn oʻzgarmaydi"
+
+#: src/plugins/weight/summary.rs:191
+msgid "No weight data available"
+msgstr "Hech qanday vazn axboroti topilmadi"
+
+#: src/sync/csv.rs:81 src/sync/csv.rs:369
+msgid "No activities added yet; can’t create empty export!"
+msgstr ""
+"Hali hech qanday tadbir qoʻshilmagan; boʻsh eksport yaratish imkonsiz!"
+
+#: src/sync/csv.rs:111 src/sync/csv.rs:387
+msgid "No weight measurements added yet; can’t create empty export!"
+msgstr ""
+"Hozircha vazn oʻlchovlari kiritilmagan; boʻsh eksport yaratish imkonsiz!"
+
+#: src/sync/csv.rs:184 src/sync/csv.rs:331
+msgid "Can’t parse encrypted backup without encryption key!"
+msgstr "Shifrlash kalitisiz shifrlangan zaxirani tahlil qilib boʻlmaydi!"
+
+#: src/sync/csv.rs:194 src/sync/csv.rs:351
+msgid ""
+"Couldn’t parse CSV. Are you trying to read an unencrypted backup as an "
+"encrypted one?"
+msgstr ""
+"CSV tahlil qilinmadi. Shifrlanmagan zaxirani shifrlangan zaxira sifatida "
+"oʻqimoqchimisiz?"
+
+#: src/sync/csv.rs:207
+msgid "Couldn’t decrypt data. Are you sure you’re using the right key?"
+msgstr ""
+"Ma’lumotlar shifrdan chiqarilmadi. Toʻgʻri kalitdan foydalanayotganingizga "
+"ishonchingiz komilmi?"
+
+#: src/sync/database_receiver.rs:47
+msgid "Couldn’t synchronize steps due to error {}"
+msgstr "{} xatosi tufayli qadamlar sinxronlanmadi"
+
+#: src/sync/database_receiver.rs:61
+msgid "Couldn’t synchronize weight measurements due to error {}"
+msgstr "{} xatosi tufayli vazn oʻlchovlari sinxronlanmadi"
+
+#: src/sync/google_fit.rs:211
+msgid "CRSF Verification failed, got {}, expected {}"
+msgstr "CRSF tasdiqlanmadi, {} olindi, {} kutilgan edi"
+
+#: src/sync/google_fit.rs:227
+msgid "Requesting OAuth2 token failed due to error {}"
+msgstr "{} xatosi tufayli OAuth2 tokenini soʻrash amalga oshmadi"
+
+#: src/sync/sync_provider.rs:110
+msgid ""
+"Can’t retrieve OAuth2 token when no refresh token is set! Please re-"
+"authenticate with your sync provider."
+msgstr ""
+"Yangilash tokeni oʻrnatilmagan holatda OAuth2 tokenini olish mumkin emas! "
+"Iltimos, sinxronlash provayderi bilan qaytadan autentifikatsiyadan oʻting."
+
+#: src/sync/sync_provider.rs:166
+msgid "Token for Health sync provider {}"
+msgstr "Salomatlik sinxronizatsiyasi provayderi uchun token {}"
+
+#: src/sync/sync_provider.rs:225
+msgid "Successfully authenticated, please return to Health."
+msgstr ""
+"Autentifikatsiya muvaffaqiyatli tasdiqlandi, iltimos, Salomatlik ilovasiga "
+"qayting."
+
+#: src/sync/sync_provider.rs:236
+msgid "Couldn’t parse OAuth2 response"
+msgstr "OAuth2 javobi tahlil qilinmadi"
+
+#: src/views/bar_graph_view.rs:569
+msgid "Enter weight record to calculate idle calories"
+msgstr "Boʻsh kaloriyalarni hisoblash uchun vazn qaydini kiriting"
+
+#: src/views/bar_graph_view.rs:573
+msgid "Idle calories"
+msgstr "Foydasiz kaloriyalar"
+
+#: src/views/view_add_activity.rs:231
+msgid "Activity"
+msgstr "Faoliyat"
+
+#: src/widgets/activity_row.rs:68
+msgid "{} for {} Minute"
+msgid_plural "{} for {} Minutes"
+msgstr[0] "{} daqiqa uchun {}"
+
+#: src/widgets/activity_row.rs:80
+msgid "Calories burned"
+msgstr "Sarflangan kaloriya"
+
+#: src/widgets/activity_row.rs:90
+msgid "Average heart rate"
+msgstr "Oʻrtacha yurak urishi"
+
+#: src/widgets/activity_row.rs:96
+msgid "Maximum heart rate"
+msgstr "Maksimal yurak urishi tezligi"
+
+#: src/widgets/activity_row.rs:102
+msgid "Minimum heart rate"
+msgstr "Minimal yurak urishi tezligi"
+
+#: src/widgets/activity_row.rs:115
+msgid "{} meter"
+msgid_plural "{} meters"
+msgstr[0] "{} metr"
+
+#: src/widgets/activity_row.rs:118
+msgid "{} yard"
+msgid_plural "{} yards"
+msgstr[0] "{} yard"
+
+#: src/widgets/bmi_level_bar.rs:256
+msgid "<small>Current BMI: {}</small>"
+msgstr "<small>Joriy TVI: {}</small>"
+
+#: src/widgets/distance_action_row.rs:289
+msgid "KM"
+msgstr "KM"
+
+#: src/widgets/distance_action_row.rs:290
+msgid "Meters"
+msgstr "Metr"
+
+#: src/widgets/distance_action_row.rs:292
+msgid "Miles"
+msgstr "Mil"
+
+#: src/widgets/distance_action_row.rs:293
+msgid "Feet"
+msgstr "Oyoq"
+
+#: src/widgets/sync_list_box.rs:205
+msgid "Sync Error"
+msgstr "Sinxronizatsiya xatosi"
+
+#: src/widgets/sync_list_box.rs:208
+msgid "Close"
+msgstr "Yopish"
+
+#. TRANSLATORS: Unit abbreviation (centimeters)
+#: src/widgets/unit_spinbutton.rs:464 src/widgets/unit_spinbutton.rs:630
+msgid "cm"
+msgstr "sm"
+
+#. TRANSLATORS: Unit abbreviation (meters)
+#: src/widgets/unit_spinbutton.rs:466
+msgid "m"
+msgstr "m"
+
+#. TRANSLATORS: Unit abbreviation (kilometers)
+#: src/widgets/unit_spinbutton.rs:468
+msgid "km"
+msgstr "km"
+
+#. TRANSLATORS: Unit abbreviation (kilograms)
+#: src/widgets/unit_spinbutton.rs:470
+msgid "kg"
+msgstr "kg"
+
+#. TRANSLATORS: Unit abbreviation (inch)
+#: src/widgets/unit_spinbutton.rs:472 src/widgets/unit_spinbutton.rs:632
+msgid "in"
+msgstr "in"
+
+#. TRANSLATORS: Unit abbreviation (feet)
+#: src/widgets/unit_spinbutton.rs:474
+msgid "ft"
+msgstr "ft"
+
+#. TRANSLATORS: Unit abbreviation (miles)
+#: src/widgets/unit_spinbutton.rs:476
+msgid "mi"
+msgstr "mi"
+
+#. TRANSLATORS: Unit abbreviation (pounds)
+#: src/widgets/unit_spinbutton.rs:478
+msgid "lb"
+msgstr "funt"
+
+#: src/windows/export_dialog.rs:51
+msgid "Save Activities"
+msgstr "Harakatlarni saqlash"
+
+#: src/windows/export_dialog.rs:52 src/windows/export_dialog.rs:94
+msgid "_Save"
+msgstr "Saqlash"
+
+#. TRANSLATORS: Please keep the file extension (.csv.encrypted)
+#: src/windows/export_dialog.rs:56
+msgid "Activities.csv.encrypted"
+msgstr "Activities.csv.encrypted"
+
+#. TRANSLATORS: Please keep the file extension (.csv)
+#: src/windows/export_dialog.rs:59
+msgid "Activities.csv"
+msgstr "Faoliyat.csv"
+
+#: src/windows/export_dialog.rs:79 src/windows/export_dialog.rs:121
+#: src/windows/import_dialog.rs:72 src/windows/import_dialog.rs:107
+msgid "No file selected."
+msgstr "Fayl tanlanmagan."
+
+#: src/windows/export_dialog.rs:93
+msgid "Save Weight Measurement"
+msgstr "Vaznni oʻlchashni saqlash"
+
+#. TRANSLATORS: Please keep the file extension (.csv.encrypted)
+#: src/windows/export_dialog.rs:98
+msgid "Weight Measurements.csv.encrypted"
+msgstr "Vazn Measurements.csv.encrypted"
+
+#. TRANSLATORS: Please keep the file extension (.csv)
+#: src/windows/export_dialog.rs:101
+msgid "Weight Measurements.csv"
+msgstr "Vazn Measurements.csv"
+
+#: src/windows/export_dialog.rs:142
+msgid "Export data"
+msgstr "Ma’lumotlarni eksport qilish"
+
+#: src/windows/import_dialog.rs:51
+msgid "Open Activities"
+msgstr "Faolliklarni ochish"
+
+#: src/windows/import_dialog.rs:52 src/windows/import_dialog.rs:87
+msgid "_Open"
+msgstr "Oching"
+
+#: src/windows/import_dialog.rs:86
+msgid "Open Weight Measurement"
+msgstr "Ochiq vazn oʻlchash"
+
+#: src/windows/import_dialog.rs:129
+msgid "Import data"
+msgstr "Ma’lumotlarni import qilish"
+
+#: src/windows/import_export_dialog_base.rs:190
+msgid "Import activities"
+msgstr "Faoliyatini import qilish"
+
+#: src/windows/import_export_dialog_base.rs:192
+msgid "Import is encrypted"
+msgstr "Import shifrlangan"
+
+#: src/windows/import_export_dialog_base.rs:193
+msgid "Import weights"
+msgstr "Vaznlari import qilish"
+
+#: src/windows/import_export_dialog_base.rs:194
+msgid "Import"
+msgstr "Import"
+
+#: src/windows/import_export_dialog_base.rs:274
+msgid "Success!"
+msgstr "Muvaffaqiyat!"
+
+#: src/windows/import_export_dialog_base.rs:278
+msgid "An error occurred!"
+msgstr "Xatolik yuz berdi!"
+
+#: src/windows/window.rs:257
+msgid "Couldn’t sync Google Fit data due to error: {}"
+msgstr "Xatolik tufayli Google Fit ma’lumotlari sinxronlanmadi: {}"

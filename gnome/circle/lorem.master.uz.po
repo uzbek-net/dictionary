@@ -1,0 +1,137 @@
+# Uzbek (Latin) translation for lorem.
+# Copyright (C) 2025 lorem's COPYRIGHT HOLDER
+# This file is distributed under the same license as the lorem package.
+# BeMeritus <bemerituss@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lorem master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/design/lorem/-/issues\n"
+"POT-Creation-Date: 2025-10-11 18:52+0000\n"
+"PO-Revision-Date: 2025-10-10 18:54+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. Translators: Application name. Translate as "Lorem"
+#: data/org.gnome.design.Lorem.desktop.in.in:3
+msgid "Lorem"
+msgstr "Lorem"
+
+#: data/org.gnome.design.Lorem.desktop.in.in:4
+#: data/org.gnome.design.Lorem.metainfo.xml.in.in:8
+msgid "Generate placeholder text"
+msgstr "Toʻldiruvchi matnini yaratish"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.design.Lorem.desktop.in.in:10
+msgid "placeholder;"
+msgstr "toʻldiruvchi;"
+
+#: data/org.gnome.design.Lorem.gschema.xml.in:10
+#: data/org.gnome.design.Lorem.gschema.xml.in:11
+msgid "Default window width"
+msgstr "Odatiy oyna kengligi"
+
+#: data/org.gnome.design.Lorem.gschema.xml.in:15
+#: data/org.gnome.design.Lorem.gschema.xml.in:16
+msgid "Default window height"
+msgstr "Odatiy oyna balandligi"
+
+#: data/org.gnome.design.Lorem.gschema.xml.in:20
+msgid "Default window maximized behavior"
+msgstr "Odatiy oynaning maksimal xatti-harakatlari"
+
+#: data/org.gnome.design.Lorem.metainfo.xml.in.in:10
+msgid "Simple app to generate the well-known Lorem Ipsum placeholder text."
+msgstr "Mashhur Lorem Ipsum toʻldiruvchi matnini yaratish uchun sodda ilova."
+
+#: data/org.gnome.design.Lorem.metainfo.xml.in.in:15
+msgid "Main Window"
+msgstr "Asosiy oyna"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/org.gnome.design.Lorem.metainfo.xml.in.in:68
+msgid "Maximiliano Sandoval"
+msgstr "Maksimiliano Sandoval"
+
+#: data/resources/ui/shortcuts.ui:6
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: data/resources/ui/shortcuts.ui:9
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: data/resources/ui/shortcuts.ui:15
+msgctxt "shortcut window"
+msgid "Copy"
+msgstr "Nusxalash"
+
+#: data/resources/ui/shortcuts.ui:21
+msgctxt "shortcut window"
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/resources/ui/shortcuts.ui:27
+msgctxt "shortcut window"
+msgid "Close Window"
+msgstr "Oynani yopish"
+
+#: data/resources/ui/shortcuts.ui:33
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/resources/ui/window.ui:6
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/resources/ui/window.ui:10
+msgid "_About Lorem"
+msgstr "Lorem haqida"
+
+#: data/resources/ui/window.ui:42
+msgid "Amount"
+msgstr "Miqdor"
+
+#: data/resources/ui/window.ui:50
+msgid "Type"
+msgstr "Turi"
+
+#: data/resources/ui/window.ui:97
+msgid "Copy"
+msgstr "Nusxalash"
+
+#: data/resources/ui/window.ui:104
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: src/application.rs:113
+msgid "translator-credits"
+msgstr ""
+"BeMeritus <bemerituss@gmail.com>\n"
+"Baxrom Raxmatov"
+
+#: src/window.rs:25
+msgid "Paragraphs"
+msgstr "Paragraflar"
+
+#: src/window.rs:26
+msgid "Words"
+msgstr "Soʻzlar"
+
+#: src/window.rs:243
+msgid "Selection copied"
+msgstr "Tanlov nusxalandi"
+
+#: src/window.rs:248
+msgid "Copied"
+msgstr "Nusxalangan"

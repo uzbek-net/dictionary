@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-system-monitor main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-system-monitor/issues\n"
-"POT-Creation-Date: 2025-10-01 19:54+0000\n"
+"POT-Creation-Date: 2025-10-10 22:43+0000\n"
 "PO-Revision-Date: 2025-03-31 11:26+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -46,7 +46,7 @@ msgstr "Mavjud"
 msgid "Used"
 msgstr "Ishlatilgan"
 
-#: data/gnome-system-monitor-kde.desktop.in.in:2 src/application.cpp:430
+#: data/gnome-system-monitor-kde.desktop.in.in:2 src/application.cpp:434
 msgid "GNOME System Monitor"
 msgstr "GNOME tizim monitori"
 
@@ -162,7 +162,7 @@ msgid "Send Kill signal"
 msgstr "Oʻldirish signalini yuborish"
 
 #: data/interface.ui:6 data/org.gnome.SystemMonitor.metainfo.xml.in.in:7
-#: data/org.gnome.SystemMonitor.desktop.in.in:2 src/application.cpp:404
+#: data/org.gnome.SystemMonitor.desktop.in.in:2 src/application.cpp:408
 msgid "System Monitor"
 msgstr "Tizim monitori"
 
@@ -434,11 +434,11 @@ msgstr ""
 msgid "_Stop…"
 msgstr "_Stop…"
 
-#: data/menus.ui:151 src/procproperties.cpp:233
+#: data/menus.ui:151 src/procproperties.cpp:264
 msgid "_Resume"
 msgstr ""
 
-#: data/menus.ui:155 src/procproperties.cpp:230
+#: data/menus.ui:155 src/procproperties.cpp:261
 msgid "_Terminate…"
 msgstr "_Toʻxtatish…"
 
@@ -730,7 +730,7 @@ msgstr "_Barcha CPU larni ishga tushirish"
 msgid "Apply to Child _Threads"
 msgstr "Child _Threads ga murojaat qiling"
 
-#: src/application.cpp:405
+#: src/application.cpp:409
 msgid "A simple process and system monitor."
 msgstr "Oddiy jarayon va tizim monitori."
 
@@ -758,7 +758,7 @@ msgid "Pick a Color for “%s”"
 msgstr "“%s” uchun rang tanlang"
 
 #. Set check box label value to CPU [1..2048]
-#: src/interface.cpp:273 src/setaffinity.cpp:408
+#: src/interface.cpp:273 src/setaffinity.cpp:410
 #, c-format
 msgid "CPU%d"
 msgstr "CPU%d"
@@ -895,7 +895,7 @@ msgstr[0] "%d mos keluvchi ochiq fayl"
 msgstr[1] "%d mos keluvchi ochiq fayllar"
 
 #. Translators: process name and id
-#: src/memmaps.cpp:408 src/openfiles.cpp:282 src/setaffinity.cpp:384
+#: src/memmaps.cpp:407 src/openfiles.cpp:282 src/setaffinity.cpp:384
 #, c-format
 msgid "%s (PID %u)"
 msgstr "%s (PID %u)"
