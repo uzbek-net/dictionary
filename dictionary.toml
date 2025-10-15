@@ -231,6 +231,7 @@ part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "error"
