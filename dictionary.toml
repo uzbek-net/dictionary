@@ -377,7 +377,7 @@ similar = ["sleep"]
 status = "Pending review"
 
 [[translations]]
-en = "matherboard"
+en = "motherboard"
 uz = "ona plata"
 part_of_speech = "noun"
 description = ""
