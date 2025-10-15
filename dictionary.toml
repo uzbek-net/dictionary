@@ -394,3 +394,247 @@ description = ""
 pronunciation_uz = ""
 similar = [""]
 status = "Pending review"
+
+[[translations]]
+en = "accent color"
+uz = ""
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Needs translation"
+
+[[translations]]
+en = "FAQ"
+uz = "KBS"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Needs translation"
+
+[[translations]]
+en = "pipeline"
+uz = ""
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Needs translation"
+
+[[translations]]
+en = "preview"
+uz = "razm solish"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "preview"
+uz = ""
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Needs translation"
+
+[[translations]]
+en = "media"
+uz = "multimedia"
+part_of_speech = ""
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "mention"
+uz = "zikrlamoq"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "encrypt"
+uz = "shifrlash"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "decrypt"
+uz = "deshifrlash"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "encode"
+uz = "kodlash"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "decode"
+uz = "dekodlash"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "theme"
+uz = "mavzu"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "distribution"
+uz = "distributiv"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Approved"
+
+[[translations]]
+en = "counter"
+uz = "hisoblagich"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "release"
+uz = "reliz"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "command line interface"
+uz = "buyruq satri interfeysi"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "artificial intelligence"
+uz = "sunʼiy intellekt"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "AI"
+uz = "SI"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "toggle"
+uz = "oʻzgartirish"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "monospace"
+uz = ""
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Needs translation"
+
+[[translations]]
+en = "collapse"
+uz = "yigʻish"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "expand"
+uz = "yoymoq"
+part_of_speech = "verb"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "pattern"
+uz = ""
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "AM"
+uz = "TO"
+part_of_speech = "noun"
+description = "Tushdan oldin"
+pronunciation_uz = ""
+similar = [""]
+status = "Approved"
+
+[[translations]]
+en = "PM"
+uz = "TK"
+part_of_speech = "noun"
+description = "Tushdan keyin"
+pronunciation_uz = ""
+similar = [""]
+status = "Approved"
+
+[[translations]]
+en = "OS"
+uz = "OT"
+part_of_speech = "noun"
+description = "Operatsion tizim"
+pronunciation_uz = ""
+similar = [""]
+status = "Approved"
+
+# Template for new words
+# [[translations]]
+# en = ""
+# uz = ""
+# part_of_speech = ""
+# description = ""
+# pronunciation_uz = ""
+# similar = [""]
+# status = "Needs translation"
