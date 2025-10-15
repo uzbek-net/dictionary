@@ -1,308 +1,395 @@
 # Lug'atlar
 [[translations]]
-en = "Infiltrating"
-uz = "Kirish"
+en = "infiltrate"
+uz = "kirish"
+part_of_speech = "verb"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Debug"
-uz = "Debag"
+en = "debug"
+uz = "debag"
+part_of_speech = "verb"
 description = "Kod yozishda xatolik kelib chiqsa kodni debag qilish kerak boʻladi"
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Debugging"
-uz = "Debaglash"
+en = "debugging"
+uz = "debaglash"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Sensor"
-uz = "Sensor"
+en = "sensor"
+uz = "sensor"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = "sensr"
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Multithread"
-uz = "Ko'p oqimli"
+en = "multithread"
+uz = "koʻp oqimli"
+part_of_speech = "adjective"
 description = "Ko'p oqimli ishlov berish jarayoni haqida atama."
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Single thread"
-uz = "Bir oqimli"
+en = "single thread"
+uz = "bir oqimli"
+part_of_speech = "adjective"
 description = "Bitta oqim bilan ishlaydigan jarayon."
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Concurrency"
-uz = "Parallel ishlash"
+en = "concurrency"
+uz = "parallel ishlash"
+part_of_speech = "noun"
 description = "Bir nechta vazifalarni bir vaqtda boshqarish."
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "parse"
 uz = "pars"
+part_of_speech = "verb"
 description = ""
 pronunciation_uz = "pars"
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "parsing"
 uz = "parsing"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = "parsing"
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "IT"
-uz = "AyTi"
-description = ""
+uz = "AT"
+part_of_speech = "noun"
+description = "Axborot texnologiyalar"
 pronunciation_uz = "ayti"
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Authentication"
-uz = "Tasdiqlash"
+en = "authentication"
+uz = "tasdiqlash"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Authorization"
-uz = "Ruxsat"
+en = "authorization"
+uz = "ruxsat"
+part_of_speech = "noun"
 description = "tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha meni tajribamda"
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Option"
-uz = "Tanlov"
+en = "option"
+uz = "tanlov"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Framework"
-uz = "Freymvork"
+en = "framework"
+uz = "freymvork"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = "Freymvo'rk"
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Folder"
-uz = "Jild"
+en = "folder"
+uz = "jild"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Directory"
-uz = "Katalog"
+en = "directory"
+uz = "katalog"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Branch"
+en = "branch"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "account"
 uz = "hisob"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "username"
-uz = "User nomi"
+uz = "foydalanuvchi nomi"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Advanced"
+en = "advanced"
 uz = ""
+part_of_speech = "adjective"
 description = "qiyinchilik darajasi"
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "layout"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "release"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Category"
-uz = "Tasnif"
+en = "category"
+uz = "turkum"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Original"
-uz = "Asl nusxa"
+en = "original"
+uz = "asl nusxa"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Fuzzy"
+en = "fuzzy"
 uz = ""
+part_of_speech = "adjective"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
+[[translations]]
+en = "progress"
+uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
 
 [[translations]]
-en = "Progress"
+en = "error"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Error"
+en = "reviewer"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Reviewer"
+en = "review"
 uz = ""
+part_of_speech = "verb"
 description = ""
 pronunciation_uz = ""
 similar = [""]
-
-[[translations]]
-en = "Review"
-uz = ""
-description = ""
-pronunciation_uz = ""
-similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "workflow"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "scrape"
 uz = ""
+part_of_speech = "verb"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Repository"
+en = "repository"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Feedback"
-uz = "Sharh"
+en = "feedback"
+uz = "sharh"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
-en = "Firmware"
+en = "firmware"
 uz = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "charge"
-uz = "quvvat"
+uz = "quvvatlash"
+part_of_speech = "verb"
 description = ""
 pronunciation_uz = ""
 similar = ["zaryadlash"]
+status = "Pending review"
 
 [[translations]]
 en = "citizen"
 uz = "vatandosh"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = ["fuqaro"]
+status = "Pending review"
 
 [[translations]]
-en = "Two-step verification"
-uz = "Ikki bosqichli tasdiqlash"
+en = "two-step verification"
+uz = "ikki bosqichli tasdiqlash"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "copy"
 uz = "nusxa olish"
+part_of_speech = "verb"
 description = ""
 pronunciation_uz = ""
 similar = ["nusxalash"]
+status = "Pending review"
 
 [[translations]]
 en = "favorites"
 uz = "saralanganlar"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "e-mail"
 uz = "e-pochta"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "mail"
 uz = "pochta"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
 
 [[translations]]
 en = "suspend"
 uz = "uyqu holati"
+part_of_speech = "verb"
 description = "kopyuterni dipleyini o'chitib qo'yish lekin quvvatdan uzilmagan holda"
 pronunciation_uz = ""
 similar = ["sleep"]
+status = "Pending review"
 
 [[translations]]
 en = "matherboard"
 uz = "ona plata"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = ["bosh plata", "bosh qismi iya"]
+status = "Pending review"
 
 [[translations]]
 en = "emoji"
 uz = "hisbelgi"
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+status = "Pending review"
