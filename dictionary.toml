@@ -629,6 +629,15 @@ pronunciation_uz = ""
 similar = [""]
 status = "Approved"
 
+[[translations]]
+en = "pattern"
+uz = "qobiq"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
 # Template for new words
 # [[translations]]
 # en = ""
