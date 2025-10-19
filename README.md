@@ -18,7 +18,7 @@ Lugʻat TOML fayli ichida yoziladi va har bir tarjima oʻzining alohida jadvalin
 | `uz` | String | Oʻzbekcha tarjimasi | `"parallel ishlash"` |
 | `part_of_speech` | String | "Soʻz turkumi (noun, verb, adjective) | `"noun"` |
 | `description` | String | Oʻzbek tilida qisqa taʼrif | `"Bir nechta vazifalarni bir vaqtda boshqarish."` |
-| `pronunciation_uz` | String | Oʻzbekcha tarjimaning talaffuzi | `"pars"` |
+| `pronunciation_uz` | String | Inglizcha atamaning talaffuzi | `"konkurrensi"` |
 | `similar` | Array[String] | Oʻxshash inglizcha atamalar roʻyxati | `["mutability"]` |
 | `status` | String | Tarjimaning holati | `"Pending review"` |
 
