@@ -1,0 +1,1146 @@
+# Uzbek (Latin) translation for apostrophe.
+# Copyright (C) 2025 apostrophe's COPYRIGHT HOLDER
+# This file is distributed under the same license as the apostrophe package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apostrophe main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/apostrophe/issues\n"
+"POT-Creation-Date: 2025-10-18 21:59+0000\n"
+"PO-Revision-Date: 2025-10-03 14:42+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) uzbek-net\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.desktop.in.in:2
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:4
+msgid "Apostrophe"
+msgstr "Apostrof"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! Do NOT translate "uberwriter" or "apostrophe"! The
+#. list MUST also end with a semicolon!
+#: data/org.gnome.gitlab.somas.Apostrophe.desktop.in.in:4
+msgid "uberwriter;UberWriter;apostrophe;markdown;editor;text;write;"
+msgstr "uberwriter;UberWriter;apostrophe;markdown;editor;text;write;"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.desktop.in.in:5
+msgid "Apostrophe, an elegant, distraction-free markdown editor"
+msgstr "Apostrof, chiroyli, chalgʻituvchi vositalarsiz markdown muharriri"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.desktop.in.in:18
+msgid "New Window"
+msgstr "Yangi oyna"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:5
+msgid "Edit Markdown in style"
+msgstr "Markdown uslubida tahrirlash"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:9
+msgid "Manuel Genovés"
+msgstr "Manuel Genovés"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:14
+msgid "Focus on your writing with a clean, distraction-free markdown editor."
+msgstr ""
+"Toza, chalgʻituvchi unsurlardan xoli markdown tahrirlagich orqali "
+"yozuvingizga diqqatingizni qarating."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:15
+msgid "Features:"
+msgstr "Xususiyatlar:"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:17
+msgid "An UI tailored to comfortable writing"
+msgstr "Qulay yozishga moslashtirilgan foydalanuvchi interfeysi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:18
+msgid "A distraction-free mode"
+msgstr "Chalgʻimaslik rejimi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:19
+msgid "Dark, light and sepia themes"
+msgstr "Tungi, yorugʻ va sepia mavzulari"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:20
+msgid ""
+"Everything you expect from a text editor, such as spellchecking or document "
+"statistics"
+msgstr ""
+"Matn muharriridan kutgan barcha xususiyatlar, masalan imlo tekshirish yoki "
+"hujjat statistikasi kabi funksiyalar mavjud"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:21
+msgid "Live preview of what you write"
+msgstr "Yozayotganingizni jonli koʻrish imkoniyati"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:22
+msgid ""
+"Export to all kind of formats: PDF, Word/Libreoffice, LaTeX, or even HTML "
+"slideshows"
+msgstr ""
+"PDF, Word/Libreoffice, LaTeX yoki hatto HTML slayd-shou formatlariga eksport"
+" qilish"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:55
+msgid "Main window"
+msgstr "Asosiy oyna"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:59
+msgid "Main window in dark mode"
+msgstr "Asosiy oyna tungi mavzuda"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:63
+msgid "Inserting a table with the help of the toolbar"
+msgstr "Uskunalar paneli yordamida jadval qoʻyish"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:67
+msgid "The preview lets you see a live rendered version of your document"
+msgstr ""
+"Oldindan koʻrish sizga hujjatingizning jonli taqdim etilgan versiyasini "
+"koʻrish imkonini beradi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.metainfo.xml.in.in:71
+msgid "The focus mode allow for a more distraction-free experience"
+msgstr "Diqqatni jamlash rejimi koʻproq chalgʻimaslik imkonini beradi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:47
+msgid "Color scheme"
+msgstr "Rang sxemasi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:48
+msgid "Use the color scheme in the application's UI and in the text area."
+msgstr ""
+"Ilovaning foydalanuvchi interfeysida va matn maydonida rang sxemasidan "
+"foydalaning."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:54
+msgid "Check spelling while typing"
+msgstr "Yozayotgan paytda imloni tekshirish"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:55
+msgid "Enable or disable spellchecking."
+msgstr "Imlo tekshirishni yoqish yoki oʻchirish.  oʻzbek"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:61
+msgid "Synchronize editor/preview scrolling"
+msgstr "Tahrirchini sinxronlashtirish/oldindan koʻrib kezish"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:62
+msgid "Keep the editor and preview scroll positions in sync."
+msgstr ""
+"Tahrirchini saqlab, oldindan kezib koʻrish pozitsiyalarini "
+"sinxronlashtirish."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:68
+msgid "Input format"
+msgstr "Kiritish formati"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:69
+msgid "Input format to use when previewing and exporting using Pandoc."
+msgstr ""
+"Pandoc yordamida oldindan koʻrish va eksport qilishda qoʻqoʻllaniladigan "
+"kirish formati."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:75
+msgid "Autohide Headerbar"
+msgstr "Sarlavha panelini avtomatik yashirish"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:76
+msgid "Hide the header and status bars when typing."
+msgstr "Yozayotganda sarlavha va status panelini yashirish."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:82
+msgid "Default statistic"
+msgstr "Standart statistika"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:83
+msgid "Which statistic is shown on the main window."
+msgstr "Qaysi statistika asosiy oynada koʻkoʻrsatilgan."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:89
+msgid "Characters per line"
+msgstr "Har bir qatordagi belgilar"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:90
+msgid "Maximum number of characters per line within the editor."
+msgstr "Tahrirchidagi har bir qatordagi belgilarning maksimal soni."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:96
+#: data/ui/AboutHemingway.ui:6
+msgid "Hemingway Mode"
+msgstr "Xeminguey uslubi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:97
+msgid "Whether the user can delete text or not."
+msgstr "Foydalanuvchi matnni oʻchira oladimi yoki yoʻqmi."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:103
+msgid "Hemingway Toast Count"
+msgstr "Xeminguey toshlari soni"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:104
+msgid "Number of times the Hemingway Toast has been shown"
+msgstr "Xeminguey toshi necha marta koʻrsatilgani soni"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:110
+msgid "Preview mode"
+msgstr "Oldindan koʻrish rejimi"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:111
+msgid "How to display the preview."
+msgstr "Oldindan koʻrish qanday namoyish etiladi."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:117
+#: data/ui/Preferences.ui:64
+msgid "Preview Security"
+msgstr "Xavfsizlikni koʻrib chiqish"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:118
+msgid "Security policy to apply when rendering files."
+msgstr "Fayllarni qayta ishlashda qoʻllaniladigan xavfsizlik siyosati."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:124
+msgid "Preview active"
+msgstr "Oldindan koʻrish faol"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:125
+msgid "Whether showing of preview is active when launching a new window."
+msgstr ""
+"Yangi oyna ochilayotganda oldindan koʻrish faol ekanligini koʻrsatish."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:131
+msgid "Text size"
+msgstr "Matn oʻlchamini"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:132
+msgid "Preferred relative size for the text."
+msgstr "Matn uchun maqbul nisbiy oʻlcham."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:138
+msgid "Toolbar"
+msgstr "Uskunalar paneli"
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:139
+msgid "Whether the toolbar is shown or not."
+msgstr "Asboblar paneli koʻrsatilishi yoki koʻrsatilmasligi."
+
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:145
+#: data/org.gnome.gitlab.somas.Apostrophe.gschema.xml:146
+msgid "Number of seconds between autosaves"
+msgstr "Avtomatik saqlash orasidagi soniyalar soni"
+
+#: data/ui/About.ui.in:9
+msgid "Copyright (C) 2022, Manuel G., Wolf V."
+msgstr "Mualliflik huquqi (C) 2022, Manuel G., Wolf V."
+
+#. Put your name in here, like this:
+#. Manuel Genovés <manuel.genoves@gmail.com>
+#: data/ui/About.ui.in:17
+msgid "translator-credits"
+msgstr "Baxrom Raxmatov"
+
+#: data/ui/AboutHemingway.ui:7
+msgid ""
+"The Hemingway Mode mimics the experience of writing on a typewriter, not allowing you to delete any text or doing any kind of editing. \n"
+"\n"
+"Only being able to move forward may be frustrating, but can be an interesting exercise for improving your writing skills, gaining focus or facing the task on hand with a different mindset.\n"
+"  "
+msgstr ""
+"Hemingway rejimi yozuv mashinkasida yozish tajribasiga taqlid qiladi, hech qanday matnni oʻchirish yoki tahrirlash imkonini bermaydi.\n"
+"\n"
+"Faqat oldinga siljish hafsalangizni pir qilishi mumkin, ammo bu yozish koʻnikmalaringizni yaxshilash, diqqatni jamlash yoki qoʻlingizdagi vazifani boshqacha fikrlash bilan bajarish uchun qiziqarli mashq boʻlishi mumkin."
+
+#: data/ui/AboutHemingway.ui:13
+msgid "_Close"
+msgstr "Yopish"
+
+#: data/ui/DetailedError.ui:4
+msgid "Error Details"
+msgstr "Xatolik tafsilotlari"
+
+#: data/ui/DetailedError.ui:29
+msgid "Apostrophe experienced an error"
+msgstr "Tutuq belgisi xatoga yoʻl qoʻydi"
+
+#: data/ui/DetailedError.ui:40
+msgid "Error Message"
+msgstr "Xato xabari"
+
+#: data/ui/DetailedError.ui:53
+msgid "Copy Error Message"
+msgstr "Xato xabarini nusxalash"
+
+#: data/ui/DetailedError.ui:94
+msgid "Report _Issue"
+msgstr "Muammo haqida xabar berish"
+
+#: data/ui/Export.ui:21
+msgid "Formats"
+msgstr "Formatlar"
+
+#: data/ui/Export.ui:67 apostrophe/export_dialog.py:117
+#: apostrophe/export_dialog.py:323 apostrophe/export_dialog.py:327
+msgid "Export"
+msgstr "Eksport"
+
+#: data/ui/Export.ui:86
+msgid "Options"
+msgstr "Parametrlar"
+
+#: data/ui/Export.ui:89
+msgid "Standalone"
+msgstr "Alohida"
+
+#: data/ui/Export.ui:90
+msgid ""
+"Use a header and footer to include things like stylesheets and meta "
+"information"
+msgstr ""
+"Sarlavha va kolontituldan uslublar jadvali va meta-ma’lumotlar kabi "
+"elementlarni kiritish uchun foydalaning"
+
+#: data/ui/Export.ui:96
+msgid "Relative to Absolute"
+msgstr "Mutlaqga nisbatan"
+
+#: data/ui/Export.ui:97
+msgid "Replace relative path with absolute for images and links"
+msgstr ""
+"Rasmlar va havolalar uchun nisbiy yoʻlni mutlaq yoʻl bilan almashtiring"
+
+#: data/ui/Export.ui:103
+msgid "Table of Contents"
+msgstr "Mundarija"
+
+#: data/ui/Export.ui:109
+msgid "Number Sections"
+msgstr "Raqamlangan boʻlimlar"
+
+#: data/ui/Export.ui:119 data/ui/Export.ui:122 data/ui/Export.ui:133
+#: data/ui/Export.ui:137
+msgid "Page Size"
+msgstr "Sahifaning oʻlchami"
+
+#: data/ui/Export.ui:148
+msgid "HTML Options"
+msgstr "HTML parametrlari"
+
+#: data/ui/Export.ui:151
+msgid "Self-Contained"
+msgstr "Oʻz ichiga olgan"
+
+#: data/ui/Export.ui:152
+msgid "Produces an HTML file with no external dependencies"
+msgstr "Tashqi bogʻliqliklarsiz HTML faylni ishlab chiqaradi"
+
+#: data/ui/Export.ui:161
+msgid "Syntax Highlighting"
+msgstr "Sintaksisni ajratish"
+
+#: data/ui/Export.ui:164
+msgid "Use Syntax Highlighting"
+msgstr "Sintaksisni ajratib belgilashdan foydalanish"
+
+#: data/ui/Export.ui:169
+msgid "Highlight Style"
+msgstr "Ajratish uslubi"
+
+#: data/ui/Export.ui:182
+msgid "Presentation"
+msgstr "Taqdimot"
+
+#: data/ui/Export.ui:185
+msgid "Incremental Bullets"
+msgstr "Oʻsib boruvchi oʻqlar"
+
+#: data/ui/Export.ui:186
+msgid "Show one bullet point after another in a slideshow"
+msgstr "Taqdimotda oʻq nuqtalarni birin-ketin koʻrsatish"
+
+#: data/ui/HeaderbarNarrow.ui:26 data/ui/Headerbar.ui:45
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/ui/HeaderbarNarrow.ui:51 data/ui/Headerbar.ui:10
+#: apostrophe/main_window.py:891 apostrophe/main_window.py:906
+msgid "New File"
+msgstr "Yangi fayl"
+
+#: data/ui/HeaderbarNarrow.ui:55 data/ui/Headerbar.ui:17
+msgid "_Open"
+msgstr "Ochish"
+
+#: data/ui/HeaderbarNarrow.ui:59 data/ui/HeaderbarNarrow.ui:63
+#: data/ui/Headerbar.ui:26
+msgid "_Save"
+msgstr "Saqlash"
+
+#: data/ui/HeaderbarNarrow.ui:67 data/ui/Headerbar.ui:121
+msgid "_Save As..."
+msgstr "Boshqacha saqlash"
+
+#: data/ui/HeaderbarNarrow.ui:90 data/ui/Headerbar.ui:144
+msgid "Advanced _Export…"
+msgstr "Kengaytirilgan eksport"
+
+#: data/ui/HeaderbarNarrow.ui:96 data/ui/Headerbar.ui:150
+msgid "_Copy HTML"
+msgstr "HTMLʼdan nusxa olish"
+
+#: data/ui/HeaderbarNarrow.ui:104 data/ui/Headerbar.ui:79
+msgid "_Hemingway Mode"
+msgstr "Xeminguey uslubi"
+
+#: data/ui/HeaderbarNarrow.ui:108 data/ui/Headerbar.ui:83
+msgid "_Focus Mode"
+msgstr "Fokus rejimi"
+
+#: data/ui/HeaderbarNarrow.ui:114 data/ui/Headerbar.ui:56
+msgid "Search in the File"
+msgstr "Faylda qidirish"
+
+#: data/ui/HeaderbarNarrow.ui:118 data/ui/Headerbar.ui:89
+msgid "Find and _Replace"
+msgstr "Qidirish va almashtirish"
+
+#: data/ui/HeaderbarNarrow.ui:124 data/ui/Headerbar.ui:95
+msgid "_Preferences"
+msgstr "Afzalliklar"
+
+#: data/ui/HeaderbarNarrow.ui:130 data/ui/Headerbar.ui:101
+msgid "Open _Tutorial"
+msgstr "Qoʻllanmani ochish"
+
+#: data/ui/HeaderbarNarrow.ui:135 data/ui/Headerbar.ui:106
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/ui/HeaderbarNarrow.ui:139 data/ui/Headerbar.ui:110
+msgid "_About Apostrophe"
+msgstr "Tutuq belgisi haqida"
+
+#: data/ui/Headerbar.ui:20
+msgid "Open Markdown File"
+msgstr "Markdaun faylini ochish"
+
+#: data/ui/Headerbar.ui:29
+msgid "Save Markdown File"
+msgstr "Markdaun faylini saqlash"
+
+#: data/ui/InlinePreviewPopover.ui:42
+msgid "Not Found"
+msgstr "Topilmadi"
+
+#: data/ui/Preferences.ui:12 data/ui/Preferences.ui:13
+msgid "Check Spelling"
+msgstr "Imloni tekshirish"
+
+#: data/ui/Preferences.ui:18
+msgid "Auto-Hide Header Bar"
+msgstr "Sarlavha panelini avtomatik berkitish"
+
+#: data/ui/Preferences.ui:19
+msgid "Auto-hide header and status bars while typing"
+msgstr "Yozish paytida sarlavha va status qatorlarini avtomatik berkitish"
+
+#: data/ui/Preferences.ui:24
+msgid "Large Text"
+msgstr "Katta matn"
+
+#: data/ui/Preferences.ui:25
+msgid "Reduce the margins width and increase the text size when possible"
+msgstr ""
+"Imkon qadar hoshiyalar kengligini kamaytiriladi va matn hajmini "
+"kattalashtiriladi"
+
+#: data/ui/Preferences.ui:31
+msgid "Restore Session"
+msgstr "Seansni tiklash"
+
+#: data/ui/Preferences.ui:32
+msgid "Return to your previous session when Apostrophe is started"
+msgstr "Tutuq belgisi boshlanganida oldingi seansga qaytish"
+
+#: data/ui/Preferences.ui:37
+msgid "Input Format"
+msgstr "Kiritish formati"
+
+#: data/ui/Preferences.ui:38
+msgid "Flavor of markdown Apostrophe will use"
+msgstr "Apostrof foydalanadigan markdaun uslubi"
+
+#: data/ui/Preferences.ui:47
+msgid "Markdown Flavor Documentation"
+msgstr "Markdaun koʻrinishi boʻyicha qoʻllanma"
+
+#: data/ui/Preferences.ui:65
+msgid "Desired level of security when rendering the preview"
+msgstr "Oldindan koʻrish vaqtida talab qilinadigan xavfsizlik darajasi"
+
+#: data/ui/PreviewLayoutSwitcher.ui:7 apostrophe/preview_handler.py:212
+#: apostrophe/preview_window.py:32
+msgid "Preview"
+msgstr "Oldindan koʻrish"
+
+#: data/ui/PreviewLayoutSwitcher.ui:24
+msgid "Screen Layout"
+msgstr "Ekran tuzilishi"
+
+#: data/ui/Recents.ui:39
+msgid "No Recent Documents"
+msgstr "Oxirgi hujjatlar yoʻq"
+
+#: data/ui/Recents.ui:63
+msgid "No Results Found"
+msgstr "Natija topilmadi"
+
+#: data/ui/SearchBar.ui:29
+msgid "Previous Match"
+msgstr "Oldingi moslik"
+
+#: data/ui/SearchBar.ui:39
+msgid "Next Match"
+msgstr "Keyingi moslik"
+
+#. Translators: This indicates case sensitivity, so it should be the first
+#. vowel of the language in lowercase and uppercase
+#: data/ui/SearchBar.ui:55
+msgid "aA"
+msgstr ""
+
+#: data/ui/SearchBar.ui:58
+msgid "Case Sensitive"
+msgstr "Harflar katta-kichikligiga sezgir"
+
+#: data/ui/SearchBar.ui:66
+msgid "Regular Expression"
+msgstr "Muntazam ifoda (regex)"
+
+#: data/ui/SearchBar.ui:73 data/ui/SearchBar.ui:111
+msgid "Replace"
+msgstr "Almashtiring"
+
+#: data/ui/SearchBar.ui:120
+msgid "Replace All"
+msgstr "Hammasini almashtirish"
+
+#: data/ui/Shortcuts.ui:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "General"
+
+#: data/ui/Shortcuts.ui:14
+msgctxt "shortcut window"
+msgid "New"
+msgstr "Yangi"
+
+#: data/ui/Shortcuts.ui:20
+msgctxt "shortcut window"
+msgid "Open"
+msgstr "Ochish"
+
+#: data/ui/Shortcuts.ui:26
+msgctxt "shortcut window"
+msgid "Save"
+msgstr "Saqlash"
+
+#: data/ui/Shortcuts.ui:32
+msgctxt "shortcut window"
+msgid "Save As"
+msgstr "Boshqacha saqlash"
+
+#: data/ui/Shortcuts.ui:38
+msgctxt "shortcut window"
+msgid "Close Document"
+msgstr "Hujjatni yopish"
+
+#: data/ui/Shortcuts.ui:44
+msgctxt "shortcut window"
+msgid "Show Preferences"
+msgstr "Afzalliklarni koʻrsatish"
+
+#: data/ui/Shortcuts.ui:50
+msgctxt "shortcut window"
+msgid "Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/ui/Shortcuts.ui:56
+msgctxt "shortcut window"
+msgid "Quit Application"
+msgstr "Dasturdan chiqish"
+
+#: data/ui/Shortcuts.ui:64
+msgctxt "shortcut window"
+msgid "Modes"
+msgstr "Rejimlar"
+
+#: data/ui/Shortcuts.ui:67
+msgctxt "shortcut window"
+msgid "Focus Mode"
+msgstr "Fokus rejimi"
+
+#: data/ui/Shortcuts.ui:73
+msgctxt "shortcut window"
+msgid "Hemingway Mode"
+msgstr "Xeminguey uslubi"
+
+#: data/ui/Shortcuts.ui:80
+msgctxt "shortcut window"
+msgid "Preview"
+msgstr "Oldindan koʻrish"
+
+#: data/ui/Shortcuts.ui:86
+msgctxt "shortcut window"
+msgid "Fullscreen"
+msgstr "Toʻliq ekran"
+
+#: data/ui/Shortcuts.ui:94 data/ui/Shortcuts.ui:97
+msgctxt "shortcut window"
+msgid "Find"
+msgstr "Qidirish"
+
+#: data/ui/Shortcuts.ui:103
+msgctxt "shortcut window"
+msgid "Find and Replace"
+msgstr "Qidirish va almashtirish"
+
+#: data/ui/Shortcuts.ui:111
+msgctxt "shortcut window"
+msgid "Markdown"
+msgstr "Markdaun"
+
+#: data/ui/Shortcuts.ui:114
+msgctxt "shortcut window"
+msgid "Separator"
+msgstr "Ajratuvchi"
+
+#: data/ui/Shortcuts.ui:120
+msgctxt "shortcut window"
+msgid "Header"
+msgstr "Sarlavha"
+
+#: data/ui/Shortcuts.ui:126
+msgctxt "shortcut window"
+msgid "List Item"
+msgstr "Roʻyxat elementi"
+
+#: data/ui/Shortcuts.ui:133
+msgctxt "shortcut window"
+msgid "Italic"
+msgstr "Kursiv"
+
+#: data/ui/Shortcuts.ui:139
+msgctxt "shortcut window"
+msgid "Bold"
+msgstr "Qalin"
+
+#: data/ui/Shortcuts.ui:145
+#, fuzzy
+msgctxt "shortcut window"
+msgid "Strikeout"
+msgstr "Zabastovka"
+
+#: data/ui/Shortcuts.ui:153
+msgctxt "shortcut window"
+msgid "Copy and Paste"
+msgstr "Nusxalash va Qoʻyish"
+
+#: data/ui/Shortcuts.ui:156
+msgctxt "shortcut window"
+msgid "Copy"
+msgstr "Nusxalash"
+
+#: data/ui/Shortcuts.ui:162
+msgctxt "shortcut window"
+msgid "Cut"
+msgstr "Qirqish"
+
+#: data/ui/Shortcuts.ui:168
+msgctxt "shortcut window"
+msgid "Paste"
+msgstr "Qoʻyish"
+
+#: data/ui/Shortcuts.ui:176
+msgctxt "shortcut window"
+msgid "Undo and Redo"
+msgstr "Bekor qilish va qayta bajarish"
+
+#: data/ui/Shortcuts.ui:179
+msgctxt "shortcut window"
+msgid "Undo Previous Command"
+msgstr "Oldingi buyruqni bekor qilish"
+
+#: data/ui/Shortcuts.ui:185
+msgctxt "shortcut window"
+msgid "Redo Previous Command"
+msgstr "Oldingi buyruqni takrorlang"
+
+#: data/ui/Shortcuts.ui:193
+msgctxt "shortcut window"
+msgid "Selection"
+msgstr "Tanlash"
+
+#: data/ui/Shortcuts.ui:196
+msgctxt "shortcut window"
+msgid "Select All Text"
+msgstr "Barcha matnlarni tanlash"
+
+#: data/ui/Statsbar.ui:21 data/ui/Statsbar.ui:40
+msgid "Show Statistics"
+msgstr "Statistikani koʻrsatish"
+
+#: data/ui/Statsbar.ui:22
+msgid "0 Words"
+msgstr "0 ta soʻz"
+
+#: data/ui/TexliveWarning.ui:25 data/ui/TexliveWarning.ui:79
+msgid "TexLive Required"
+msgstr "TexLive talab qilinadi"
+
+#: data/ui/TexliveWarning.ui:33
+msgid ""
+"Apostrophe needs the TeXLive extension\n"
+"in order to export PDF or LaTeX files.\n"
+"\n"
+"Install it from Apostrophe's page in Software\n"
+"or by running the following command in a terminal:"
+msgstr ""
+"Apostrophe dasturi PDF yoki LaTeX fayllarini eksport qilish uchun TeXLive kengaytmasiga muhtoj.\n"
+"\n"
+"Uni Dasturiy ta’minot markazidagi Apostrophe sahifasidan oʻrnating\n"
+"yoki terminalda quyidagi buyruqni bajarish orqali:"
+
+#: data/ui/TexliveWarning.ui:53
+msgid "Copy to Clipboard"
+msgstr "Buferga koʻchirish"
+
+#: data/ui/TexliveWarning.ui:87
+msgid ""
+"Apostrophe needs TeXLive\n"
+"in order to export PDF or LaTeX files.\n"
+"\n"
+"Install it from your distribution repositories."
+msgstr ""
+"Apostrophe uchun TeXLive kerak\n"
+"PDF yoki Latex fayllarni eksport qilish uchun.\n"
+"\n"
+"Uni distribyutor repositoriylardan yuklab oling."
+
+#: data/ui/ThemeSwitcher.ui:17
+msgid "Use System Colors"
+msgstr "Tizim ranglaridan foydalanish"
+
+#: data/ui/ThemeSwitcher.ui:27
+msgid "Use Light Colors"
+msgstr "Och ranglardan foydalanish"
+
+#: data/ui/ThemeSwitcher.ui:37
+msgid "Use Sepia Colors"
+msgstr "Sepia ranglaridan foydalanish"
+
+#: data/ui/ThemeSwitcher.ui:47
+msgid "Use Dark Colors"
+msgstr "Toʻq ranglardan foydalanish"
+
+#: data/ui/ToolbarNarrow.ui:17 data/ui/Toolbar.ui:27
+msgid "Bold"
+msgstr "Qalin"
+
+#: data/ui/ToolbarNarrow.ui:27 data/ui/Toolbar.ui:37
+msgid "Italic"
+msgstr "Kursiv"
+
+#: data/ui/ToolbarNarrow.ui:37 data/ui/Toolbar.ui:47
+msgid "Strikethrough"
+msgstr ""
+
+#: data/ui/ToolbarNarrow.ui:47 data/ui/Toolbar.ui:57
+msgid "Heading"
+msgstr "Sarlavha"
+
+#: data/ui/ToolbarNarrow.ui:58
+msgid "List"
+msgstr "Roʻyxat"
+
+#: data/ui/ToolbarNarrow.ui:69
+msgid "Insert"
+msgstr "Kiritish"
+
+#: data/ui/ToolbarNarrow.ui:80 data/ui/Toolbar.ui:138
+msgid "Table"
+msgstr "Jadvalda"
+
+#: data/ui/ToolbarNarrow.ui:117
+msgid "Unordered"
+msgstr "Tartibsiz"
+
+#: data/ui/ToolbarNarrow.ui:136
+msgid "Ordered"
+msgstr "Tartibga solingan"
+
+#: data/ui/ToolbarNarrow.ui:155
+msgid "Checklist"
+msgstr "Nazorat roʻyxati"
+
+#: data/ui/ToolbarNarrow.ui:185 data/ui/Toolbar.ui:98
+msgid "Blockquote"
+msgstr "Ibora"
+
+#: data/ui/ToolbarNarrow.ui:204 data/ui/Toolbar.ui:108
+msgid "Code"
+msgstr "Kod"
+
+#: data/ui/ToolbarNarrow.ui:223 data/ui/Toolbar.ui:118
+msgid "Link"
+msgstr "Havola"
+
+#: data/ui/ToolbarNarrow.ui:242 data/ui/Toolbar.ui:128
+#: apostrophe/text_view_format_inserter.py:435
+msgid "Image"
+msgstr "Rasm"
+
+#: data/ui/Toolbar.ui:68
+msgid "Unordered List"
+msgstr "Tartibsiz roʻyxat"
+
+#: data/ui/Toolbar.ui:78
+msgid "Ordered List"
+msgstr "Tartibli roʻyxat"
+
+#: data/ui/Toolbar.ui:88
+msgid "Check List"
+msgstr "Nazorat roʻyxati"
+
+#: data/ui/Window.ui:64
+msgid "This file may be insecure"
+msgstr "Bu fayl xavfli boʻlishi mumkin"
+
+#: data/ui/Window.ui:65
+msgid ""
+"Previewing files from untrusted sources can be dangerous.\n"
+"If you're unsure about the contents of this file, open it in the Restricted Preview where javascript and HTML are disabled."
+msgstr ""
+"Ishonchsiz manbalardan olingan fayllarni koʻrib chiqish xavfli boʻlishi mumkin.\n"
+"Agar bu faylning tarkibi haqida ikkilansangiz, uni javascript va HTML oʻchirilgan cheklangan koʻrinishda oching."
+
+#: data/ui/Window.ui:75
+msgid "Load Preview"
+msgstr "Oldindan koʻrishni yuklash"
+
+#: data/ui/Window.ui:84
+msgid "Load Restricted Preview"
+msgstr "Yuklash cheklangan holatida koʻrinish"
+
+#: data/ui/Window.ui:180
+msgid ""
+"Apostrophe closed unexpectedly. This file has been recovered from an "
+"autosave"
+msgstr ""
+"Apostrof kutilmaganda yopildi. Bu fayl avtomatik saqlash orqali qayta "
+"tiklandi."
+
+#: data/ui/Window.ui:196
+msgid "File Has Changed on Disk"
+msgstr "Diskdagi fayl oʻzgardi"
+
+#: data/ui/Window.ui:206
+msgid "The file has been changed by another program"
+msgstr "Fayl boshqa dastur tomonidan oʻzgartirilgan"
+
+#: data/ui/Window.ui:218
+msgid "_Discard Changes and Reload"
+msgstr "Oʻzgarishlarni bekor qiling va qayta yuklang"
+
+#: apostrophe/application.py:305
+msgid "Donate"
+msgstr "Xayriya qiling"
+
+#: apostrophe/application.py:306
+msgid "Translations"
+msgstr "Tarjimalar"
+
+#: apostrophe/bottombar.py:184
+msgid "Hide Toolbar"
+msgstr "Uskunalar panelini berkitish"
+
+#: apostrophe/bottombar.py:186
+msgid "Show Toolbar"
+msgstr "Uskunalar panelini koʻrsatish"
+
+#: apostrophe/export_dialog.py:120 apostrophe/export_dialog.py:328
+#, python-format
+msgid "Export to %s"
+msgstr "%s ga eksport qilish"
+
+#: apostrophe/export_dialog.py:122 apostrophe/export_dialog.py:324
+#: apostrophe/export_dialog.py:329 apostrophe/main_window.py:446
+#: apostrophe/main_window.py:532 apostrophe/main_window.py:655
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: apostrophe/export_dialog.py:151
+msgid "Apostrophe experienced an error while trying to export:"
+msgstr "Apostrop eksport qilishda xatolik yuz berdi:"
+
+#: apostrophe/export_dialog.py:230
+msgid "Export to {}"
+msgstr "{} ga eksport qilish"
+
+#: apostrophe/export_dialog.py:317
+#, python-brace-format
+msgid ""
+"An error happened while trying to export:\n"
+"\n"
+"{err_msg}"
+msgstr ""
+"Eksport qilishda xatolik yuz berdi:\n"
+"\n"
+"{err_msg}"
+
+#: apostrophe/export_dialog.py:324
+msgid "Select folder"
+msgstr "Jild tanlash"
+
+#: apostrophe/helpers.py:83
+msgid "Error"
+msgstr "Xatolik"
+
+#: apostrophe/helpers.py:84
+msgid "Close"
+msgstr "Yopish"
+
+#: apostrophe/inhibitor.py:36
+msgid "Unsaved documents"
+msgstr "Saqlanmagan hujjatlar"
+
+#: apostrophe/inline_preview.py:303
+msgid "LaTeX not found"
+msgstr "Latex topilmadi"
+
+#: apostrophe/inline_preview.py:305
+msgid "Formula looks incorrect:"
+msgstr "Formula notoʻgʻri koʻrinadi:"
+
+#: apostrophe/inline_preview.py:373
+msgid "No matching footnote found"
+msgstr "Hech qanday mos izoh topilmadi"
+
+#: apostrophe/inline_preview.py:406
+msgid "noun"
+msgstr "ot"
+
+#: apostrophe/inline_preview.py:408
+msgid "verb"
+msgstr "feʼl"
+
+#: apostrophe/inline_preview.py:410
+msgid "adjective"
+msgstr "sifat"
+
+#: apostrophe/inline_preview.py:412
+msgid "adverb"
+msgstr "ravish"
+
+#. Hemingway Toast
+#: apostrophe/main_window.py:161
+msgid "Text can't be deleted while on Hemingway mode"
+msgstr "Xeminguey rejimida matnni oʻchirish imkonsiz"
+
+#: apostrophe/main_window.py:164
+msgid "Tell me more"
+msgstr "Batafsil aytib bering"
+
+#: apostrophe/main_window.py:442
+msgid "Save your File"
+msgstr "Faylingizni saqlang"
+
+#: apostrophe/main_window.py:445 apostrophe/main_window.py:657
+msgid "Save"
+msgstr "Saqlash"
+
+#: apostrophe/main_window.py:521
+msgid "Markdown Files"
+msgstr "Belgilash fayllari"
+
+#: apostrophe/main_window.py:525
+msgid "Plain Text Files"
+msgstr "Oddiy matn fayllari"
+
+#: apostrophe/main_window.py:528
+msgid "Open a .md file"
+msgstr ".md faylni ochish"
+
+#: apostrophe/main_window.py:531
+msgid "Open"
+msgstr "Ochish"
+
+#: apostrophe/main_window.py:609
+#, python-brace-format
+msgid ""
+"Failed to detect encoding for file:\n"
+"{file}\n"
+"\n"
+"The error was:\n"
+"{err_msg}"
+msgstr ""
+"Fayl uchun kodlash aniqlanmadi:\n"
+"{file}\n"
+"\n"
+"Xatolik:\n"
+"{err_msg}"
+
+#: apostrophe/main_window.py:649
+msgid "Save Changes?"
+msgstr "Oʻzgarishlar saqlansinmi?"
+
+#: apostrophe/main_window.py:650
+#, python-format
+msgid ""
+"“%s” contains unsaved changes. If you don’t save, all your changes will be "
+"permanently lost."
+msgstr ""
+"\"%s\" faylida saqlanmagan oʻzgarishlar mavjud. Agar saqlamasangiz, barcha "
+"oʻzgarishlar butunlay oʻchib ketadi."
+
+#: apostrophe/main_window.py:656
+msgid "Discard"
+msgstr "Bekor qilish"
+
+#: apostrophe/preferences_dialog.py:97
+msgid "Always Ask"
+msgstr "Har doim soʻralsin"
+
+#: apostrophe/preferences_dialog.py:101
+msgid "Always Use Restricted Preview"
+msgstr "Doimo cheklangan koʻrib chiqish rejimidan foydalaning"
+
+#: apostrophe/preferences_dialog.py:105
+msgid "Always Use Unrestricted Preview"
+msgstr "Doimo cheklanmagan koʻrib chiqish imkoniyatidan foydalaning"
+
+#: apostrophe/preview_layout_switcher.py:41
+msgid "Full-Width"
+msgstr "Toʻliq kenglik"
+
+#: apostrophe/preview_layout_switcher.py:43
+msgid "Half-Width"
+msgstr "Yarim kenglik"
+
+#: apostrophe/preview_layout_switcher.py:45
+msgid "Half-Height"
+msgstr "Yarim balandlik"
+
+#: apostrophe/preview_layout_switcher.py:47
+msgid "Windowed"
+msgstr "Oynali"
+
+#: apostrophe/stats_handler.py:122
+msgid "{:n} of {:n} Characters"
+msgstr "{:n}/{:n} ta belgilar"
+
+#: apostrophe/stats_handler.py:124
+msgid "{:n} Character"
+msgid_plural "{:n} Characters"
+msgstr[0] "{:n} ta belgilar"
+
+#: apostrophe/stats_handler.py:127
+msgid "{:n} of {:n} Words"
+msgstr "{:n}/{:n} ta soʻzlar"
+
+#: apostrophe/stats_handler.py:129
+msgid "{:n} Word"
+msgid_plural "{:n} Words"
+msgstr[0] "{:n} ta soʻzlar"
+
+#: apostrophe/stats_handler.py:132
+msgid "{:n} of {:n} Sentences"
+msgstr "{:n}/{:n} ta gaplar"
+
+#: apostrophe/stats_handler.py:134
+msgid "{:n} Sentence"
+msgid_plural "{:n} Sentences"
+msgstr[0] "{:n} ta gaplar"
+
+#: apostrophe/stats_handler.py:137
+msgid "{:n} of {:n} Paragraphs"
+msgstr "{:n}/{:n} ta xatboshi"
+
+#: apostrophe/stats_handler.py:139
+msgid "{:n} Paragraph"
+msgid_plural "{:n} Paragraphs"
+msgstr[0] "{:n} ta xatboshi"
+
+#: apostrophe/stats_handler.py:142
+msgid "{:d}:{:02d}:{:02d} of {:d}:{:02d}:{:02d} Read Time"
+msgstr "{:d}:{:02d}:{:02d} / {:d}:{:02d}:{:02d} Mutolaa vaqti"
+
+#: apostrophe/stats_handler.py:144
+msgid "{:d}:{:02d}:{:02d} Read Time"
+msgstr "{:d}:{:02d}:{:02d} Mutolaa vaqti"
+
+#: apostrophe/text_view_format_inserter.py:24
+msgid "italic text"
+msgstr "kursivli matn"
+
+#: apostrophe/text_view_format_inserter.py:29
+msgid "bold text"
+msgstr "qalin matn"
+
+#: apostrophe/text_view_format_inserter.py:34
+msgid "strikethrough text"
+msgstr "shtrixli matn"
+
+#: apostrophe/text_view_format_inserter.py:49
+#: apostrophe/text_view_format_inserter.py:117
+#: apostrophe/text_view_format_inserter.py:187
+msgid "Item"
+msgstr "Narsa (Ashyo)"
+
+#: apostrophe/text_view_format_inserter.py:258
+msgid "Header"
+msgstr "Sarlavha"
+
+#: apostrophe/text_view_format_inserter.py:329
+msgid "Quote"
+msgstr "Iqtibos"
+
+#: apostrophe/text_view_format_inserter.py:371
+msgid "code"
+msgstr "kod"
+
+#: apostrophe/text_view_format_inserter.py:394
+msgid "https://www.example.com"
+msgstr "https://www.misol.uz"
+
+#: apostrophe/text_view_format_inserter.py:395
+msgid "link text"
+msgstr "havolat matni"
+
+#: apostrophe/text_view_format_inserter.py:429
+#: apostrophe/text_view_format_inserter.py:464
+msgid "image caption"
+msgstr "rasm sarlavhasi"
+
+#: apostrophe/text_view_format_inserter.py:441
+msgid "Select an image"
+msgstr "Rasimni tanlang"
+
+#: apostrophe/text_view_format_inserter.py:553
+msgid ""
+"\n"
+"code\n"
+msgstr ""
+"\n"
+"kod\n"
+
+#: apostrophe/text_view.py:212 apostrophe/text_view.py:214
+msgid "web page"
+msgstr "veb sahifa"

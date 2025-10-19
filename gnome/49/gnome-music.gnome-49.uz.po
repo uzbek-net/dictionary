@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-music master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-music/issues\n"
-"POT-Creation-Date: 2025-10-10 21:35+0000\n"
+"POT-Creation-Date: 2025-10-18 14:03+0000\n"
 "PO-Revision-Date: 2025-04-02 22:04+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -428,25 +428,25 @@ msgstr "Etarlicha teglanmagan"
 msgid "All Songs"
 msgstr "Barcha qoʻshiqlar"
 
-#: gnomemusic/gstplayer.py:424
+#: gnomemusic/gstplayer.py:431
 msgid "Unable to play the file"
 msgstr "Faylni oʻynatib boʻlmadi"
 
-#: gnomemusic/gstplayer.py:430
+#: gnomemusic/gstplayer.py:437
 msgid "_Find in {}"
 msgstr "_Topish: {}"
 
 #. TRANSLATORS: separator for two codecs
-#: gnomemusic/gstplayer.py:440
+#: gnomemusic/gstplayer.py:447
 msgid " and "
 msgstr " va "
 
 #. TRANSLATORS: separator for a list of codecs
-#: gnomemusic/gstplayer.py:443
+#: gnomemusic/gstplayer.py:450
 msgid ", "
 msgstr ", "
 
-#: gnomemusic/gstplayer.py:445
+#: gnomemusic/gstplayer.py:452
 msgid "{} is required to play the file, but is not installed."
 msgid_plural "{} are required to play the file, but are not installed."
 msgstr[0] "Faylni ijro etish uchun {} zarur, lekin oʻrnatilmagan."
