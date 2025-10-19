@@ -1,65 +1,39 @@
-# Yangi soʻz taklif qilish
+---
+name: ✨ Yangi So'z Taklifi
+about: Lugʻatga yangi inglizcha texnik atama va uning rasmiy oʻzbekcha tarjimasini taklif qiling.
+title: "[Yangi Atama]: <Inglizcha Atama>"
+labels: enhancement, new-term, needs-translation
+assignees: ''
 
-*bu yerga kiriting* oʻrniga oʻzingizni matningiz bilan almashtiring
+---
 
-### 1. Taklif qilinayotgan atama
+### Inglizcha atama maʼlumotlari
 
-Iltimos, lugʻatga qoʻshmoqchi boʻlgan atamani kiriting.
+* **Inglizcha atama:** (Masalan, `idempotence`, `marshalling`)
+* **Soʻz turkumi (`part_of_speech`):** (Masalan, `noun`, `verb`, `adjective`)
+* **Kontekst:** (Bu atama odatda qayerda qoʻllaniladi? Masalan, "API dizayni," "Maʼlumotlarni seriyalashtirish," "Maʼlumotlar bazasi tranzaktsiyalari.")
 
-- Inglizcha atama: *bu yerga kiriting*
+---
 
-### 2. Majburiy tarjima maydonchalari
+### Taklif etilayotgan oʻzbekcha tarjima va ta'rif
 
-Bu maydonlar lugʻatga toʻliq yozuv kiritish uchun zarur.
+Taklif etilayotgan tarjima va toʻliq yozuv maʼlumotlarini TOML formatida taqdim eting.
 
-Oʻzbekcha tarjima: *bu yerga kiriting*
+* **Taklif etilayotgan oʻzbekcha tarjima (`uz`):** (Masalan, `oʻzgarmaslik`, `marshalizatsiya`)
+* **Taklif etilayotgan taʼrif (`description` - oʻzbekcha):** Atama nimani anglatishining qisqacha oʻzbekcha tushuntirishi.
+* **Taklif etilayotgan talaffuz (`pronunciation_uz`):** (Oʻzbekcha atama qanday talaffuz qilinishi kerak? Masalan, `mar-sha-li-za-tsi-ya`)
+* **Oʻxshash atamalar (`similar`):** (Bunga oʻxshash yoki bogʻliq inglizcha atamalarni sanab oʻting, masalan, `["concurrency", "mutability"]`)
 
-Soʻz turkumi (part_of_speech): *bu yerga kiriting*
+### Taklif etilayotgan TOML yozuvi
 
-- (Bittasini tanlang: ot, feʼl, sifat, ravish, undov soʻz, va hokazo)
+Iltimos, dastlabki yozuvni yaratish uchun quyidagi maydonlarni toʻldiring:
 
-### 3. Kontekst va qoʻllanilishi (juda muhim)
-
-Bu boʻlim mahalliy tarjima jamoasi uchun eng muhim hisoblanadi. Bu notoʻgʻri tarjima notoʻgʻri joyda qoʻllanilishining oldini oladi.
-
-- Qoʻllanilish konteksti/taʼrifi: *bu yerga kiriting*
-
-    - Bu soʻz mahsulotimiz/hujjatlarimizda qayerda va qanday qoʻllaniladi? Bizning kontekstimizda u aniq nimani anglatadi?
-
-    - Misol: Foydalanuvchi menyuda tanlashi mumkin boʻlgan tanlovga ishora qiladi (masalan, 'variantni tanlash'). Sozlamalar/afzalliklar uchun ishlatilmaydi.
-
-- Manba joylashuvi (Ixtiyoriy): *bu yerga kiriting*
-
-    - Bu soʻzni qayerdan topdingiz? (masalan, Fayl manzili, funksiya nomi, aniq UI ekrani)
-
-    - Misol: `src/components/Sidebar.js` yoki Sozlamalar > Hisob afzalliklari ekrani
-
-### 4. Ixtiyoriy, ammo foydali maydonlar
-
-Bularni faqat taklif qilinayotgan atamaga tegishli boʻlsa, qoʻshing.
-
-- Talaffuz boʻyicha yoʻriqnoma (Oʻzbekcha): *bu yerga kiriting*
-
-    - Faqat murakkab yoki transliteratsiya qilingan soʻzlar uchun talab qilinadi.
-
-    - Misol: Freymvoʻrk (inglizcha "framework" soʻzi uchun)
-
-- Oʻxshash/chalkash soʻzlar: *bu yerga kiriting*
-
-    - Ushbu atama bilan koʻpincha chalkashtiriladigan boshqa inglizcha soʻzlar bormi?
-
-    - Misol: ["preference", "setting"]
-
-- Taklif sababi: *bu yerga kiriting*
-
-    - Nima uchun bu soʻz lugʻatga qoʻshilishi kerak? (masalan, "U tez-tez uchraydi," "Bu texnik atama," yoki "Mavjud tarjima nomuvofiq.")
-
-### 5. Koʻrib chiquvchi uchun nazorat roʻyxati (Tahrirlamang)
-
-Bu boʻlim lugʻatga masʼul shaxs tomonidan foydalaniladi.
-
-- [ ] Tarjima aniqligi va konteksti tasdiqlandi.
-
-- [ ] Yozuv TOML fayliga qoʻshildi.
-
-- [ ] Holat "Tasdiqlangan" deb belgilandi.
+```toml
+[[translations]]
+en = "<Inglizcha atama>"
+uz = "<Taklif etilayotgan oʻzbekcha tarjima>"
+part_of_speech = "<So'z turkumi>"
+description = "<Taklif etilayotgan taʼrif>"
+pronunciation_uz = "<Taklif etilayotgan talaffuz>"
+similar = ["<Oʻxshash atama 1>", ""] # Oʻxshash atamalarni qoʻshing
+status = "Pending review" # Har doim 'Pending review' (Koʻrib chiqish kutilmoqda) sifatida boshlang

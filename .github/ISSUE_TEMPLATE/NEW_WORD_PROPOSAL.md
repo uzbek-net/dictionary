@@ -1,65 +1,39 @@
-# New Word Proposal
+---
+name: ✨ New Word Proposal
+about: Propose a new English technical term and its official Uzbek translation for the dictionary.
+title: "[New Term]: <English Term>"
+labels: enhancement, new-term, needs-translation
+assignees: ''
 
-Replace *input here* with your own text.
+---
 
-### 1. Proposed Term
+### English Term Details
 
-Please provide the term you want to add to the glossary.
+* **English Term:** (e.g., `idempotence`, `marshalling`)
+* **Part of Speech (`part_of_speech`):** (e.g., `noun`, `verb`, `adjective`)
+* **Context:** (Where is this term typically used? e.g., "API design," "Data serialization," "Database transactions.")
 
-- English term: *input here*
+---
 
-### 2. Required Translation Fields
+### Proposed Uzbek Translation and Definition
 
-These fields are necessary for a complete glossary entry.
+Provide the proposed translation and the full entry data using the TOML format.
 
-Uzbek translation: *input here*
+* **Proposed Uzbek Translation (`uz`):** (e.g., `o'zgarmaslik`, `marshalizatsiya`)
+* **Proposed Description (`description` - Uzbek):** A brief explanation of what the term means in Uzbek.
+* **Proposed Pronunciation (`pronunciation_uz`):** (How should the Uzbek term be pronounced? e.g., `mar-sha-li-za-tsi-ya`)
+* **Similar Terms (`similar`):** (List any similar or related English terms, e.g., `["concurrency", "mutability"]`)
 
-Part of Speech (part_of_speech): *input here*
+### Proposed TOML Entry
 
-- (Choose one: noun, verb, adjective, adverb, interjection, etc.)
+Please fill out the fields below to create the initial entry:
 
-### 3. Context and Usage (Crucial)
-
-This is the most important section for the localization team. It prevents the wrong translation from being used in the wrong place.
-
-- Usage Context/Definition: *input here*
-
-    - Where and how is this word used in our product/documentation? What does it specifically mean in our context?
-
-    - Example: Refers to a choice a user can select in a menu (e.g., 'Select an option'). Not to be used for settings/preferences.
-
-- Source Location (Optional): *input here*
-
-    - Where did you find this word? (e.g., File path, feature name, specific UI screen)
-
-    - Example: `src/components/Sidebar.js` or Settings > Account preferences screen
-
-### 4. Optional But Helpful Fields
-
-Include these only if they are relevant to the proposed term.
-
-- Pronunciation Guide (Uzbek) (pronunciation_uz): *input here*
-
-    - Only required for complex or transliterated words.
-
-    - Example: Freymvo'rk (for "framework")
-
-- Similar/Confusable Terms (similar): *input here*
-
-    - Are there other English words that are often confused with this term?
-
-    - Example: ["preference", "setting"]
-
-- Reason for Proposal: *input here*
-
-    - Why should this word be added to the glossary? (e.g., "It appears frequently," "It's a technical term," or "Existing translation is inconsistent.")
-
-### 5. Reviewer Checklist (Do Not Edit)
-
-This section will be used by the glossary maintainer.
-
-- [ ] Translation verified for accuracy and context.
-
-- [ ] Entry added to the TOML file.
-
-- [ ] status set to "Approved".
+```toml
+[[translations]]
+en = "<English Term>"
+uz = "<Proposed Uzbek Translation>"
+part_of_speech = "<Part of Speech>"
+description = "<Proposed Description>"
+pronunciation_uz = "<Proposed Pronunciation>"
+similar = ["<Similar Term 1>", ""] # Add any similar terms
+status = "Pending review" # Always start as 'Pending review'
