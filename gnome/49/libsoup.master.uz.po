@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libsoup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues/\n"
-"POT-Creation-Date: 2025-10-11 07:55+0000\n"
+"POT-Creation-Date: 2025-10-14 18:50+0000\n"
 "PO-Revision-Date: 2025-04-04 09:46+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -104,11 +104,11 @@ msgstr "Juda koʻp yoʻnaltirishlar"
 msgid "Message was restarted too many times"
 msgstr "Xabar juda koʻp marta qayta ishga tushirildi"
 
-#: libsoup/soup-session.c:3119 libsoup/soup-session.c:3272
+#: libsoup/soup-session.c:3121 libsoup/soup-session.c:3274
 msgid "Message is already in session queue"
 msgstr "Xabar allaqachon sessiya navbatida"
 
-#: libsoup/soup-session.c:3753
+#: libsoup/soup-session.c:3755
 msgid "The server did not accept the WebSocket handshake."
 msgstr "Server WebSocket aloqasini qabul qilmadi."
 

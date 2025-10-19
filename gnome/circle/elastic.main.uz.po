@@ -1,0 +1,322 @@
+# Uzbek (Latin) translation for elastic.
+# Copyright (C) 2025 elastic's COPYRIGHT HOLDER
+# This file is distributed under the same license as the elastic package.
+# let rec <toxtayevhamidulloh6997@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: elastic main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/elastic/-/issues\n"
+"POT-Creation-Date: 2025-10-17 12:12+0000\n"
+"PO-Revision-Date: 2025-10-17 17:12+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/app.drey.Elastic.desktop.in:2 data/app.drey.Elastic.metainfo.xml.in:11
+#: src/window.blp:5
+msgid "Elastic"
+msgstr "Elastik"
+
+#: data/app.drey.Elastic.desktop.in:3 data/app.drey.Elastic.metainfo.xml.in:12
+msgid "Design spring animations"
+msgstr "Prujina animatsiyalarini loyihalash"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/app.drey.Elastic.desktop.in:13
+msgid "spring;animation;animations;GNOME;GTK;Adwaita;"
+msgstr "prujina;animatsiya;animatsiyalar;GNOME;GTK;Adwaita;"
+
+#: data/app.drey.Elastic.gschema.xml:14 src/preferences-dialog.blp:10
+msgid "Use Damping"
+msgstr "Amortizatsiyalashdan foydalanish"
+
+#: data/app.drey.Elastic.gschema.xml:15
+msgid "Whether to use damping instead of damping ratio."
+msgstr ""
+"Amortizatsiya koeffitsiyentidan foydalanish oʻrniga toʻgʻridan-toʻgʻri "
+"amortizatsiyadan foydalanish."
+
+#: data/app.drey.Elastic.gschema.xml:19
+msgid "Last Language"
+msgstr "Oxirgi til"
+
+#: data/app.drey.Elastic.gschema.xml:20
+msgid "Last selected language."
+msgstr "Oxirgi tanlangan til."
+
+#: data/app.drey.Elastic.metainfo.xml.in:15
+msgid ""
+"Elastic allows to design and export spring physics-based animations to use "
+"with libadwaita."
+msgstr ""
+"Elastic libadwaita bilan foydalanish uchun prujina fizikasiga asoslangan "
+"animatsiyalarni loyihalash va eksport qilish imkonini beradi."
+
+#: data/app.drey.Elastic.metainfo.xml.in:19
+msgid "Features:"
+msgstr "Xususiyatlar:"
+
+#: data/app.drey.Elastic.metainfo.xml.in:21
+msgid "Preview translation, rotation and scaling transformations."
+msgstr "Tarjima, aylanish va masshtab oʻzgartirishlari."
+
+#: data/app.drey.Elastic.metainfo.xml.in:22
+msgid "See the animation curve and duration on a graph."
+msgstr "Grafikdagi animatsiya egri chizigʻi va davomiyligini koʻring."
+
+#: data/app.drey.Elastic.metainfo.xml.in:23
+msgid "Drag a handle to see it return back with the spring physics."
+msgstr ""
+"Tutqichni torting va u prujina qonuniyatlari asosida oʻz holatiga "
+"qaytayotganini kuzating."
+
+#: data/app.drey.Elastic.metainfo.xml.in:24
+msgid "Export C, JavaScript, Python, Vala or Rust code."
+msgstr "C, JavaScript, Python, Vala yoki Rust kodini eksport qilish."
+
+#: data/app.drey.Elastic.metainfo.xml.in:31
+msgid "Initial screen"
+msgstr "Dastlabki ekran"
+
+#: data/app.drey.Elastic.metainfo.xml.in:35
+msgid "Animation graph"
+msgstr "Animatsiya grafigi"
+
+#: data/app.drey.Elastic.metainfo.xml.in:39
+msgid "Interactive preview"
+msgstr "Interaktiv oldindan koʻrish"
+
+#: data/app.drey.Elastic.metainfo.xml.in:43
+msgid "Code export"
+msgstr "Kodni eksport qilish"
+
+#: src/application.vala:45
+msgid "translator-credits"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#: src/basic-view.blp:70
+msgid "Initial Velocity"
+msgstr "Boshlangʻich tezlik"
+
+#: src/basic-view.blp:71
+msgid "Information About Initial Velocity"
+msgstr "Boshlangʻich tezlik haqida ma’lumot"
+
+#: src/basic-view.blp:72
+msgid ""
+"Initial velocity affects the beginning of the animation curve without "
+"changing duration. This is useful when finishing gestures with an animation,"
+" or to make it bounce more in either direction."
+msgstr ""
+"Boshlangʻich tezlik animatsiya egri chizigʻining boshlanishiga ta’sir "
+"koʻrsatadi, lekin uning davomiyligini oʻzgartirmaydi. Bu xususiyat imo-"
+"ishoralarni animatsiya bilan yakunlashda yoki harakatni har ikki yoʻnalishda"
+" koʻproq sakratishda foydali hisoblanadi."
+
+#: src/basic-view.blp:90 src/shortcuts-dialog.blp:57
+msgid "Toggle Graph"
+msgstr "Grafikni yoqish/oʻchirish"
+
+#: src/basic-view.blp:102 src/shortcuts-dialog.blp:52
+msgid "Run Animation"
+msgstr "Animatsiyani ishga tushirish"
+
+#: src/export-view.blp:189
+msgid "_Copy Snippet"
+msgstr "Parchani nusxalash"
+
+#: src/graph-view.vala:87
+msgid "Min: %.2lf"
+msgstr "Minimum: %.2lf"
+
+#: src/graph-view.vala:92
+msgid "Max: %.2lf"
+msgstr "Maksimum: %.2lf"
+
+#: src/graph-view.vala:115
+msgid "Duration: %.0lf ms"
+msgstr "Davomiyligi: %.0lf ms"
+
+#: src/preferences-dialog.blp:7
+msgid ""
+"Damping determines how much the spring oscillates. Damping ratio is a more convenient parameter adjusted to behave the same way regardless of mass and stiffness, and most of the time it’s easier to work with.\n"
+"\n"
+"If you need to import values from another framework that uses damping, you can switch to damping instead."
+msgstr ""
+"Amortizatsiya prujinaning qanchalik tebranishini belgilaydi. Amortizatsiyalash koeffitsiyenti massa va qattiqlikdan qat’i nazar, oʻzini bir xil tutish uchun sozlangan qulayroq parametr boʻlib, koʻpincha u bilan ishlash osonroq boʻladi.\n"
+"\n"
+"Agar siz amortizatsiyalashdan foydalanadigan boshqa freymvorkdan qiymatlarni import qilishingiz kerak boʻlsa, uning oʻrniga amortizatsiyalashga oʻtishingiz mumkin."
+
+#: src/preferences-dialog.blp:11
+msgid "Prefer damping instead of damping ratio"
+msgstr "Amortizatsiya koeffitsiyenti oʻrniga amortizatsiyani afzal koʻring"
+
+#: src/properties-view.blp:87
+msgid "Damping"
+msgstr "Amortizatsiyalash"
+
+#: src/properties-view.blp:88
+msgid "Information About Damping"
+msgstr "Amortizatsiya haqida ma’lumot"
+
+#: src/properties-view.blp:89
+msgid ""
+"How much the spring oscillates. Set it to the marked value to bring the "
+"spring to rest as soon as possible with no oscillation, lower values to "
+"create oscillation, higher values to slow the spring down."
+msgstr ""
+"Prujina qanchalar tebranadi. Prujinani iloji boricha tezroq tebranishsiz "
+"tinch holatga keltirish uchun belgilangan qiymatga, tebranish hosil qilish "
+"uchun pastroq qiymatlarga, prujinani sekinlashtirish uchun yuqori "
+"qiymatlarga qoʻying."
+
+#: src/properties-view.blp:99
+msgid "Damping Ratio"
+msgstr "Amortizatsiya koeffitsiyenti"
+
+#: src/properties-view.blp:100
+msgid "Information About Damping Ratio"
+msgstr "Amortizatsiya darajasi haqida ma’lumot"
+
+#: src/properties-view.blp:101
+msgid ""
+"How much the spring oscillates. Set it to 1 to bring the spring to rest as "
+"soon as possible with no oscillation, lower values to create oscillation, "
+"higher values to slow the spring down."
+msgstr ""
+"Prujina qanchalar tebranadi. Prujinani hech qanday tebranishlarsiz iloji "
+"boricha tezroq tinch holatga keltirish uchun uni 1 ga, tebranish hosil "
+"qilish uchun kichik qiymatlarni, prujinani sekinlashtirish uchun yuqori "
+"qiymatlarni oʻrnating."
+
+#: src/properties-view.blp:115
+msgid "Mass"
+msgstr "Massa"
+
+#: src/properties-view.blp:116
+msgid "Information About Mass"
+msgstr "Massa haqida ma’lumot"
+
+#: src/properties-view.blp:117
+msgid ""
+"The mass of the attached object. The higher the mass is, the longer the "
+"spring takes to stop."
+msgstr ""
+"Biriktirilgan jismning massasi. Massa qancha yuqori boʻlsa, prujinaning "
+"toʻxtashi shuncha uzoq davom etadi."
+
+#: src/properties-view.blp:128
+msgid "Stiffness"
+msgstr "Qattiqlik"
+
+#: src/properties-view.blp:129
+msgid "Information About Stiffness"
+msgstr "Qattiqlik haqida ma’lumot"
+
+#: src/properties-view.blp:130
+msgid ""
+"The stiffness of the spring. The higher the stiffness is, the faster the "
+"spring contracts."
+msgstr ""
+"Prujinaning qattiqligi. Qattiqlik qanchalik yuqori boʻlsa, prujina shuncha "
+"tezroq qisqaradi."
+
+#: src/properties-view.blp:141
+msgid "Epsilon"
+msgstr "Epsilon"
+
+#: src/properties-view.blp:142
+msgid "Information About Epsilon"
+msgstr "Epsilon haqida ma’lumot"
+
+#: src/properties-view.blp:143
+msgid ""
+"Determines when to stop the simulation. This value should be large enough "
+"that the animation doesn’t last too long, but small enough that there’s no "
+"visible jump at the end."
+msgstr ""
+"Simulyatsiyani qachon toʻxtatishni aniqlaydi. Bu qiymat animatsiya juda uzoq"
+" davom etmasligi uchun yetarlicha katta, lekin oxirida koʻrinadigan sakrash "
+"boʻlmasligi uchun yetarlicha kichik boʻlishi kerak."
+
+#: src/shortcuts-dialog.blp:6
+msgid "General"
+msgstr "Umumiy"
+
+#: src/shortcuts-dialog.blp:9
+msgid "Open Menu"
+msgstr "Menyuni ochish"
+
+#: src/shortcuts-dialog.blp:16
+msgid "Show Preferences"
+msgstr "Afzalliklarni koʻrsatish"
+
+#: src/shortcuts-dialog.blp:21
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: src/shortcuts-dialog.blp:28
+msgid "Close Current Window"
+msgstr "Joriy oynani yopish"
+
+#: src/shortcuts-dialog.blp:33
+msgid "Quit App"
+msgstr "Ilovadan chiqish"
+
+#: src/shortcuts-dialog.blp:39
+msgid "Editor"
+msgstr "Tahrirchi"
+
+#: src/shortcuts-dialog.blp:42
+msgid "Basic View"
+msgstr "Asosiy koʻrinish"
+
+#: src/shortcuts-dialog.blp:47
+msgid "Interactive View"
+msgstr "Interaktiv koʻrinish"
+
+#: src/shortcuts-dialog.blp:64
+msgid "Copy Snippet"
+msgstr "Parchani nusxalash"
+
+#: src/shortcuts-dialog.blp:69 src/window.blp:17
+msgid "Reset to Defaults"
+msgstr "Asliga qaytarish"
+
+#: src/window.blp:16
+msgid "_Reset"
+msgstr "Asliga qaytarish"
+
+#: src/window.blp:29
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: src/window.blp:73
+msgid "Basic"
+msgstr "Asosiy"
+
+#: src/window.blp:82
+msgid "Interactive"
+msgstr "Interaktiv"
+
+#: src/window.blp:118
+msgid "_Preferences"
+msgstr "Afzalliklar"
+
+#: src/window.blp:123
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: src/window.blp:128
+msgid "_About Elastic"
+msgstr "Elastik haqida"
+
+#: src/window.vala:70
+msgid "Copied to clipboard"
+msgstr "Buferga nusxalandi"
