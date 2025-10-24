@@ -638,6 +638,15 @@ pronunciation_uz = ""
 similar = [""]
 status = "Pending review"
 
+[[translations]]
+en = "clipboard"
+uz = "befer"
+part_of_speech = "noun"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+status = "Pending review"
+
 # Template for new words
 # [[translations]]
 # en = ""
