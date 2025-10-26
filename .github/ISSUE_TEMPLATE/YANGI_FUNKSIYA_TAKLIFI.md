@@ -1,6 +1,6 @@
 ---
-name: 💡 Yangi Funksiya Talabi / Yaxshilash
-about: Lug'at tuzilmasi, vositalari (tooling) yoki jarayoni uchun g'oya, yaxshilash yoki yangi funksiya taklif qiling.
+name: 💡 Yangi funksiya qoʻshish haqida soʻrov
+about: Lugʻat tuzilmasi, vositalari (tooling) yoki jarayoni yaxshilash uchun gʻoya yoki yangi funksiya taklif qiling.
 title: "[Funksiya]: <Funksiyaning qisqacha mazmuni>"
 labels: enhancement, planning
 assignees: ''

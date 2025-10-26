@@ -1,5 +1,5 @@
 ---
-name: ✨ Yangi So'z Taklifi
+name: ✨ Yangi soʻz taklif qilish
 about: Lugʻatga yangi inglizcha texnik atama va uning rasmiy oʻzbekcha tarjimasini taklif qiling.
 title: "[Yangi Atama]: <Inglizcha Atama>"
 labels: enhancement, new-term, needs-translation

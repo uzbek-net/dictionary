@@ -20,8 +20,8 @@ issue_templates:
   #   description: Report a translation that is wrong, inaccurate, or could be improved.
   #   link: INCORRECT_TRANSLATION_REPORT.md
 
-  - name: 🚨 Xato Tarjima Xisoboti (Oʻzbekcha)
-    description: Notoʻgʻri, noaniq yoki yaxshilanishi mumkin boʻlgan tarjimani xabar qiling.
+  - name: 🚨 Xato tarjima haqida xabar berish
+    description: Notoʻgʻri, noaniq yoki yaxshilanishi mumkin boʻlgan tarjima haqida xabar bering.
     link: XATO_TARJIMA_HAQIDA_XABAR_BERISH.md
 
   # --------------------
@@ -31,7 +31,7 @@ issue_templates:
   #   description: Propose a new English term and its official Uzbek translation for the dictionary.
   #   link: NEW_WORD_PROPOSAL.md
 
-  - name: ✨ Yangi So'z Taklifi (O'zbekcha)
+  - name: ✨ Yangi soʻz taklif qilish
     description: Lugʻatga yangi inglizcha texnik atama va uning rasmiy oʻzbekcha tarjimasini taklif qiling.
     link: YANGI_SOʻZ_TAKLIF_QILISH.md
 
@@ -42,6 +42,6 @@ issue_templates:
   #   description: Suggest an idea, enhancement, or new feature for the dictionary structure or process.
   #   link: FEATURE_REQUEST.md
 
-  - name: 💡 Yangi Funksiya Talabi / Yaxshilash (O'zbekcha)
+  - name: 💡 Yangi funksiya qoʻshish haqida soʻrov
     description: Lugʻat tizimini yaxshilash uchun gʻoya yoki taklif bering.
     link: YANGI_FUNKSIYA_TAKLIFI.md

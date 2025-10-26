@@ -1,6 +1,6 @@
 ---
-name: 🚨 Xato Tarjima Xisoboti
-about: Noto'g'ri, noaniq yoki yaxshilanishi mumkin bo'lgan tarjimani xabar qiling.
+name: 🚨 Xato tarjima haqida xabar berish
+about: Notoʻgʻri, noaniq yoki yaxshilanishi mumkin boʻlgan tarjima haqida xabar bering.
 title: "[Xato Tarjima]: <Inglizcha Atama>"
 labels: bug, translation
 assignees: ''
