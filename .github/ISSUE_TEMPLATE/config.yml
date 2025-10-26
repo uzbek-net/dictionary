@@ -5,9 +5,9 @@
 # -------------------------------------------------------------------------
 blank_issues_enabled: false
 contact_links:
-  - name: Ask a question about localization data
-    url: https://github.com/uzbek-net/dictionary/discussions
-    about: Please ask and answer questions here. (Optional link to discussions)
+  # - name: Ask a question about localization data
+  #   url: https://github.com/uzbek-net/dictionary/discussions
+  #   about: Please ask and answer questions here. (Optional link to discussions)
 
 # -------------------------------------------------------------------------
 # Template Links
@@ -16,9 +16,9 @@ issue_templates:
   # --------------------
   # Translation Issues
   # --------------------
-  - name: 🚨 Incorrect Translation Report (English)
-    description: Report a translation that is wrong, inaccurate, or could be improved.
-    link: INCORRECT_TRANSLATION_REPORT.md
+  # - name: 🚨 Incorrect Translation Report (English)
+  #   description: Report a translation that is wrong, inaccurate, or could be improved.
+  #   link: INCORRECT_TRANSLATION_REPORT.md
 
   - name: 🚨 Xato Tarjima Xisoboti (Oʻzbekcha)
     description: Notoʻgʻri, noaniq yoki yaxshilanishi mumkin boʻlgan tarjimani xabar qiling.
@@ -27,9 +27,9 @@ issue_templates:
   # --------------------
   # New Content
   # --------------------
-  - name: ✨ New Word Proposal (English)
-    description: Propose a new English term and its official Uzbek translation for the dictionary.
-    link: NEW_WORD_PROPOSAL.md
+  # - name: ✨ New Word Proposal (English)
+  #   description: Propose a new English term and its official Uzbek translation for the dictionary.
+  #   link: NEW_WORD_PROPOSAL.md
 
   - name: ✨ Yangi So'z Taklifi (O'zbekcha)
     description: Lugʻatga yangi inglizcha texnik atama va uning rasmiy oʻzbekcha tarjimasini taklif qiling.
@@ -38,9 +38,9 @@ issue_templates:
   # --------------------
   # Feature/System Improvement
   # --------------------
-  - name: 💡 Feature Request / Improvement (English)
-    description: Suggest an idea, enhancement, or new feature for the dictionary structure or process.
-    link: FEATURE_REQUEST.md
+  # - name: 💡 Feature Request / Improvement (English)
+  #   description: Suggest an idea, enhancement, or new feature for the dictionary structure or process.
+  #   link: FEATURE_REQUEST.md
 
   - name: 💡 Yangi Funksiya Talabi / Yaxshilash (O'zbekcha)
     description: Lugʻat tizimini yaxshilash uchun gʻoya yoki taklif bering.
