@@ -1,11 +1,3 @@
----
-name: ✨ Yangi soʻz kiritish yoki oʻzgartirish
-about: Ushbu shablonni loyihaga yangi atama yoki mavjud yozuvga oʻzgartirish kiritish uchun ishlating.
-title: "[YANGI ATAMA/ATAMANI OʻZGARTIRISH]: <Inglizcha Atama> qoʻshildi/yangilandi"
-labels: new-term, needs-review
-assignees: ''
----
-
 ## 1. Kontekst va Manba
 
 ### 📝 Bogʻlangan issue raqami
