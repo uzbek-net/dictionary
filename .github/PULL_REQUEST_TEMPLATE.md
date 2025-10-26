@@ -1,39 +1,32 @@
 ---
-name: ✨ New Word Submission
-about: Use this template to submit a new term and its translation based on a proposal issue.
-title: "[New Term]: Add <English Term>"
+name: ✨ Yangi soʻz kiritish yoki oʻzgartirish
+about: Ushbu shablonni loyihaga yangi atama yoki mavjud yozuvga oʻzgartirish kiritish uchun ishlating.
+title: "[YANGI ATAMA/ATAMANI OʻZGARTIRISH]: <Inglizcha Atama> qoʻshildi/yangilandi"
 labels: new-term, needs-review
 assignees: ''
 ---
 
-## Context
+## 1. Kontekst va Manba
 
-### 📝 Linked Issue
-Please link the original **New Word Proposal** issue that corresponds to this PR:
+### 📝 Bogʻlangan issue raqami
 
-* **Issue Number:** # (e.g., `#123`)
+Ushbu oʻzgartirishga oid dastlabki taklif bilan bogʻlang:
 
----
+* **Issue Raqami:** # (Masalan: `#456` yoki mavjud boʻlmasa, boʻsh qoldiring)
 
-## Changes Overview
+### 🆕 Kiritilgan/oʻzgartirilgan atama
+* **Atama (inglizcha):** 
+* **Oʻzbekcha tarjima:** 
+* **Soʻz turi (part of speech):** (Masalan: *ot*, *feʼl*, *sifat*)
 
-### 🆕 New Term Added
-* **English Term:** (e.g., `idempotence`)
-* **Proposed Uzbek Translation:** (e.g., `oʻzgarmaslik`)
+## 2. Oʻzgarishlarga doir maʼlumot
 
-### 📋 Checklist
+### 📋 Tekshiruv roʻyxati (Self-Review Checklist)
 
-Please confirm that you have completed the following steps:
+Iltimos, quyidagi bandlarni bajarganingizni tasdiqlang:
 
-- [ ] **Data Structure:** The new entry follows the required TOML structure (includes `en`, `uz`, `part_of_speech`, `description`, `pronunciation_uz`, `similar`, and `status`).
-- [ ] **Content:** The Uzbek translation, description, and pronunciation were carefully reviewed for accuracy.
-- [ ] **Alphabetization:** The new entry has been placed in the correct alphabetical position based on the English term.
-- [ ] **Status:** The `status` field is set to `"Pending review"`.
-- [ ] **No Duplicates:** I have verified this term does not already exist in the dictionary.
-
----
-
-## Reviewer Notes
-
-* **Screenshots/Evidence (if applicable):** (e.g., links to external dictionary entries or usage examples)
-* **Any concerns or specific items to check?** (e.g., "I wasn't sure about the description; please double-check the definition.")
+- [ ] **Maʼlumotlar tuzilmasi:** kiritilgan yozuv **TOML** tuzilmasiga toʻliq amal qiladi.
+- [ ] **Aniqlik:** oʻzbekcha tarjima, taʼrif va talaffuz (agar mavjud boʻlsa) tekshirildi.
+- [ ] **Alifbo tartibi:** yangi yozuv inglizcha atamaga asoslanib, tegishli faylda **toʻgʻri alifbo tartibida** joylashtirilgan.
+- [ ] **Holat (status):** Yangi yozuv uchun `status` maydoni `"Pending review"` (koʻrib chiqilmoqda) deb belgilangan.
+- [ ] **Takrorlanmaslik:** ushbu atama/variant lugʻatda allaqachon mavjud emasligini tasdiqladim.
