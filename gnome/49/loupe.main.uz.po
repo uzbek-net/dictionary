@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: loupe main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/loupe/-/issues\n"
-"POT-Creation-Date: 2025-10-11 01:18+0000\n"
+"POT-Creation-Date: 2025-10-24 15:21+0000\n"
 "PO-Revision-Date: 2025-04-04 11:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -479,29 +479,29 @@ msgstr "Maydon oʻlchami"
 
 #. Translators: Filename suffix
 #. Translators: Filename suffix, {} is replaced by a number
-#: src/widgets/edit_window.rs:192 src/widgets/edit_window.rs:195
+#: src/widgets/edit_window.rs:196 src/widgets/edit_window.rs:199
 msgid " (Edited)"
 msgid_plural " (Edited {})"
 msgstr[0] " (tahrirlangan)"
 msgstr[1] " (Tahrirlangan: {})"
 
-#: src/widgets/edit_window.rs:290 src/widgets/edit_window.rs:316
+#: src/widgets/edit_window.rs:294 src/widgets/edit_window.rs:320
 msgid "Failed to save image."
 msgstr "Rasm saqlanmadi."
 
-#: src/widgets/edit_window.rs:346
+#: src/widgets/edit_window.rs:350
 msgid "Editing Image"
 msgstr "Rasmni tahrirlash"
 
-#: src/widgets/edit_window.rs:363
+#: src/widgets/edit_window.rs:367
 msgid "Failed to edit image."
 msgstr "Rasmni tahrirlab boʻlmadi."
 
-#: src/widgets/edit_window.rs:373 src/widgets/edit_window.rs:396
+#: src/widgets/edit_window.rs:377 src/widgets/edit_window.rs:400
 msgid "Failed to Save Image"
 msgstr "Rasmni saqlab boʻlmadi"
 
-#: src/widgets/edit_window.rs:379
+#: src/widgets/edit_window.rs:383
 msgid "Saving Image"
 msgstr "Rasmni saqlash"
 

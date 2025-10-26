@@ -1,0 +1,247 @@
+# Uzbek (Latin) translation for obfuscate.
+# Copyright (C) 2025 obfuscate's COPYRIGHT HOLDER
+# This file is distributed under the same license as the obfuscate package.
+# Maftuna Vohidjonovna <vohidjonovnamaftuna@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: obfuscate master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/obfuscate/issues\n"
+"POT-Creation-Date: 2025-10-25 12:55+0000\n"
+"PO-Revision-Date: 2025-10-24 14:26+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/com.belmoussaoui.Obfuscate.desktop.in.in:2
+#: data/com.belmoussaoui.Obfuscate.metainfo.xml.in.in:7
+#: data/resources/ui/window.ui:155 src/application.rs:124 src/main.rs:18
+msgid "Obfuscate"
+msgstr "Obfuscate"
+
+#: data/com.belmoussaoui.Obfuscate.desktop.in.in:3
+#: data/com.belmoussaoui.Obfuscate.metainfo.xml.in.in:8 src/application.rs:125
+msgid "Censor private information"
+msgstr "Maxfiy axborotni senzura qilish"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/com.belmoussaoui.Obfuscate.desktop.in.in:9
+msgid "Censor;Private;Image;Obfuscate;"
+msgstr "Senzor;Shaxsiy;Rasm;Xiralashtirish;"
+
+#: data/com.belmoussaoui.Obfuscate.desktop.in.in:21
+msgid "New Window"
+msgstr "Yangi oyna"
+
+#: data/com.belmoussaoui.Obfuscate.gschema.xml.in:6
+msgid "Default window maximized behaviour"
+msgstr "Oynaning standart maksimal holatdagi xususiyati"
+
+#: data/com.belmoussaoui.Obfuscate.metainfo.xml.in.in:10
+msgid "Obfuscate lets you redact your private information from any image."
+msgstr ""
+"Obfuscate sizga har qanday rasmdan shaxsiy ma’lumotlaringizni tahrirlash "
+"imkonini beradi."
+
+#: data/com.belmoussaoui.Obfuscate.metainfo.xml.in.in:15
+msgid "Main Window"
+msgstr "Asosiy oyna"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/com.belmoussaoui.Obfuscate.metainfo.xml.in.in:103
+msgid "Bilal Elmoussaoui"
+msgstr "Bilal Elmoussaoui"
+
+#: data/resources/ui/shortcuts.ui:6
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: data/resources/ui/shortcuts.ui:9
+msgctxt "shortcut window"
+msgid "Open a New Window"
+msgstr "Yangi oyna ochish"
+
+#: data/resources/ui/shortcuts.ui:15
+msgctxt "shortcut window"
+msgid "Open a File"
+msgstr "Fayl ochish"
+
+#: data/resources/ui/shortcuts.ui:21
+msgctxt "shortcut window"
+msgid "Load Image from Clipboard"
+msgstr "Rasmni buferdan yuklash"
+
+#: data/resources/ui/shortcuts.ui:27
+msgctxt "shortcut window"
+msgid "Copy Image to Clipboard"
+msgstr "Rasmni buferga nusxalash"
+
+#: data/resources/ui/shortcuts.ui:33
+msgctxt "shortcut window"
+msgid "Save As"
+msgstr "Saqlash"
+
+#: data/resources/ui/shortcuts.ui:39
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: data/resources/ui/shortcuts.ui:45
+msgctxt "shortcut window"
+msgid "Close the Active Window"
+msgstr "Faol oynani yopish"
+
+#: data/resources/ui/shortcuts.ui:53
+msgctxt "shortcut window"
+msgid "Editor"
+msgstr "Tahrirchi"
+
+#: data/resources/ui/shortcuts.ui:56
+msgctxt "shortcut window"
+msgid "Undo"
+msgstr "Bekor qilish"
+
+#: data/resources/ui/shortcuts.ui:62
+msgctxt "shortcut window"
+msgid "Redo"
+msgstr "Redo"
+
+#: data/resources/ui/shortcuts.ui:68
+msgctxt "shortcut window"
+msgid "Zoom In"
+msgstr "Yaqinlashtirish"
+
+#: data/resources/ui/shortcuts.ui:74
+msgctxt "shortcut window"
+msgid "Zoom Out"
+msgstr "Uzoqlashtirish"
+
+#: data/resources/ui/window.ui:9
+msgid "_Copy"
+msgstr "Nusxa olish"
+
+#: data/resources/ui/window.ui:13
+msgid "_Save"
+msgstr "Saqlash"
+
+#: data/resources/ui/window.ui:19 data/resources/ui/window.ui:41
+msgid "_Open File"
+msgstr "Fayl ochish"
+
+#: data/resources/ui/window.ui:23 data/resources/ui/window.ui:45
+msgid "_New Window"
+msgstr "Yangi oyna"
+
+#: data/resources/ui/window.ui:29 data/resources/ui/window.ui:51
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/resources/ui/window.ui:33 data/resources/ui/window.ui:55
+msgid "_About Obfuscate"
+msgstr "Obfuscate haqida"
+
+#: data/resources/ui/window.ui:67
+msgid "Zoom out"
+msgstr "Uzoqlashtirish"
+
+#: data/resources/ui/window.ui:74
+msgid "Reset Zoom"
+msgstr "Masshtabni asliga qaytarish"
+
+#: data/resources/ui/window.ui:79
+msgid "100%"
+msgstr "100%"
+
+#: data/resources/ui/window.ui:87
+msgid "Zoom in"
+msgstr "Yaqinlashtirish"
+
+#: data/resources/ui/window.ui:114
+msgid "Select a File"
+msgstr "Fayl tanlash"
+
+#: data/resources/ui/window.ui:119 src/widgets/window.rs:453
+msgid "Open"
+msgstr "Ochish"
+
+#: data/resources/ui/window.ui:126 data/resources/ui/window.ui:209
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/resources/ui/window.ui:137
+msgid "Drop an Image Here"
+msgstr "Rasmni shu yerga tashlash"
+
+#: data/resources/ui/window.ui:163 data/resources/ui/window.ui:247
+msgid "Undo"
+msgstr "Bekor qilish"
+
+#: data/resources/ui/window.ui:170 data/resources/ui/window.ui:254
+msgid "Redo"
+msgstr "Qayta qilish"
+
+#: data/resources/ui/window.ui:190 data/resources/ui/window.ui:268
+msgid "Fill"
+msgstr "Toʻldirish"
+
+#: data/resources/ui/window.ui:197 data/resources/ui/window.ui:275
+msgid "Blur"
+msgstr "Xiralashtirish"
+
+#: src/application.rs:29
+msgid "Open a new window"
+msgstr "Yangi oyna ochish"
+
+#: src/application.rs:130
+msgid "translator-credits"
+msgstr "Maftuna Vahidjanova"
+
+#: src/widgets/window.rs:233
+msgid "Save Changes?"
+msgstr "Oʻzgarishlarni saqlash?"
+
+#: src/widgets/window.rs:234
+msgid ""
+"Open image contain unsaved changes. Changes which are not saved will be "
+"permanently lost"
+msgstr ""
+"Ochiq rasmda saqlanmagan oʻzgarishlar mavjud. Saqlanmagan oʻzgarishlar "
+"butunlay oʻchib ketadi"
+
+#: src/widgets/window.rs:238
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: src/widgets/window.rs:239
+msgid "Discard"
+msgstr "Tashlash"
+
+#: src/widgets/window.rs:241 src/widgets/window.rs:411
+msgid "Save"
+msgstr "Saqlash"
+
+#: src/widgets/window.rs:334
+msgid ""
+"The blur tool is not secure. Please do not use it to share sensitive "
+"information in a public forum"
+msgstr ""
+"Xiralashtirish vositasi xavfsiz emas. Undan ommaviy forumda maxfiy "
+"axborotlarni ulashish uchun foydalanmang"
+
+#: src/widgets/window.rs:410
+msgid "Save File"
+msgstr "Fayl saqlash"
+
+#: src/widgets/window.rs:431
+msgid "All Images"
+msgstr "Barcha rasmlar"
+
+#: src/widgets/window.rs:454
+msgid "Open File"
+msgstr "Fayl ochish"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libsoup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues/\n"
-"POT-Creation-Date: 2025-10-14 18:50+0000\n"
+"POT-Creation-Date: 2025-10-20 18:14+0000\n"
 "PO-Revision-Date: 2025-04-04 09:46+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -83,7 +83,7 @@ msgstr "Mavjud soketni import qilib boʻlmadi: "
 msgid "Can’t import unconnected socket"
 msgstr "Ulanmagan soketni import qilib boʻlmadi"
 
-#: libsoup/server/soup-server.c:1219
+#: libsoup/server/soup-server.c:1224
 msgid "Can’t create a TLS server without a TLS certificate"
 msgstr "TLS sertifikatisiz TLS serverini yaratib boʻlmaydi"
 

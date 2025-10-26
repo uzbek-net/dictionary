@@ -1,0 +1,944 @@
+# Uzbek (Latin) translation for warp.
+# Copyright (C) 2025 warp's COPYRIGHT HOLDER
+# This file is distributed under the same license as the warp package.
+# kHamidulloh <toxtayevhamidulloh6997@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: warp main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/warp/issues\n"
+"POT-Creation-Date: 2025-10-25 13:10+0000\n"
+"PO-Revision-Date: 2025-10-24 17:02+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/app.drey.Warp.desktop.in.in:2 data/app.drey.Warp.metainfo.xml.in.in:4
+#: src/main.rs:132 src/ui/window.ui:81
+msgid "Warp"
+msgstr "Warp"
+
+#: data/app.drey.Warp.desktop.in.in:3 data/app.drey.Warp.metainfo.xml.in.in:5
+#: src/ui/welcome_dialog.ui:24
+msgid "Fast and secure file transfer"
+msgstr "Fayllarni tez va xavfsiz uzatish"
+
+#: data/app.drey.Warp.desktop.in.in:8
+msgid "Gnome;GTK;Wormhole;Magic-Wormhole;"
+msgstr "Gnome;GTK;Wormhole;Magic-Wormhole;"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/app.drey.Warp.metainfo.xml.in.in:9 src/ui/window.rs:300
+msgid "Fina Wilke"
+msgstr "Fina Wilke"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:43
+msgid ""
+"Warp allows you to securely send files to each other via the internet or "
+"local network by exchanging a word-based code."
+msgstr ""
+"Warp soʻzga asoslangan maxsus kod orqali fayllarni internet yoki mahalliy "
+"tarmoq boʻylab bir-biringizga xavfsiz yuborish imkonini beradi."
+
+#: data/app.drey.Warp.metainfo.xml.in.in:47
+msgid ""
+"The best transfer method will be determined using the “Magic Wormhole” "
+"protocol which includes local network transfer if possible."
+msgstr ""
+"Eng yaxshi uzatish usuli iloji boricha mahalliy tarmoqni uzatishni oʻz "
+"ichiga olgan “Magic Wormhole” protokoli yordamida aniqlanadi."
+
+#: data/app.drey.Warp.metainfo.xml.in.in:51
+msgid "Features"
+msgstr "Funksiyalar"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:53
+msgid "Send files between multiple devices"
+msgstr "Fayllarni bir nechta qurilmalar orasida yuborish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:54
+msgid "Every file transfer is encrypted"
+msgstr "Har bir fayl uzatilishi shifrlangan"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:55
+msgid "Directly transfer files on the local network if possible"
+msgstr "Iloji boʻlsa, fayllarni mahalliy tarmoqqa bevosita uzatish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:56
+msgid "An internet connection is required"
+msgstr "Internetga ulanish talab etiladi"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:57
+msgid "QR Code support"
+msgstr "QR kod qoʻllab-quvvatlash"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:58
+#, fuzzy
+msgid ""
+"Compatibility with the Magic Wormhole command line client and all other "
+"compatible apps"
+msgstr ""
+"Magic Wormhole buyruq qatori dasturi va boshqa barcha mos keluvchi ilovalar "
+"bilan mosligi"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:64
+#: data/app.drey.Warp.metainfo.xml.in.in:84
+msgid "Main Window"
+msgstr "Asosiy oyna"
+
+#. Translators: Entry placeholder; This is a noun
+#: data/app.drey.Warp.metainfo.xml.in.in:68
+#: data/app.drey.Warp.metainfo.xml.in.in:88 src/ui/window.ui:208
+msgid "Transmit Code"
+msgstr "Kodni uzatish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:72
+#: data/app.drey.Warp.metainfo.xml.in.in:92
+msgid "Accept File Transfer"
+msgstr "Fayl uzatishni qabul qilish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:76
+#: data/app.drey.Warp.metainfo.xml.in.in:96 src/ui/action_view.rs:651
+msgid "Receiving File"
+msgstr "Faylni qabul qilish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:80
+#: data/app.drey.Warp.metainfo.xml.in.in:100 src/ui/action_view.rs:660
+msgid "File Transfer Complete"
+msgstr "Fayl uzatish yakunlandi"
+
+#: data/resources/shortcuts-dialog.ui:6
+msgid "General"
+msgstr "Umumiy"
+
+#: data/resources/shortcuts-dialog.ui:9
+msgid "Show Help"
+msgstr "Yordamni koʻrsatish"
+
+#: data/resources/shortcuts-dialog.ui:15
+msgid "Show Shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: data/resources/shortcuts-dialog.ui:21
+msgid "Show Preferences"
+msgstr "Afzalliklarni koʻrsatish"
+
+#: data/resources/shortcuts-dialog.ui:27
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/resources/shortcuts-dialog.ui:35 src/ui/window.ui:264
+msgid "File Transfer"
+msgstr "Fayl uzatish"
+
+#: data/resources/shortcuts-dialog.ui:38 src/ui/window.ui:129
+msgid "Send File"
+msgstr "Fayl joʻnatish"
+
+#: data/resources/shortcuts-dialog.ui:44
+msgid "Send Folder"
+msgstr "Jild joʻnatish"
+
+#: data/resources/shortcuts-dialog.ui:50 src/ui/window.ui:186
+msgid "Receive File"
+msgstr "Faylni qabul qilish"
+
+#. Translators: {0} = file size transferred, {1} = total file size, Example:
+#. 17.3MB / 20.5MB
+#: src/gettext/duration.rs:11
+msgctxt "File size transferred"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. Translators: File transfer time left
+#: src/gettext/duration.rs:18
+msgid "One second left"
+msgid_plural "{} seconds left"
+msgstr[0] "{} soniya qoldi"
+
+#. Translators: File transfer time left
+#: src/gettext/duration.rs:26
+msgid "One minute left"
+msgid_plural "{} minutes left"
+msgstr[0] "{} daqiqa qoldi"
+
+#. Translators: File transfer time left
+#: src/gettext/duration.rs:34
+msgid "One hour left"
+msgid_plural "{} hours left"
+msgstr[0] "{} soat qoldi"
+
+#. Translators: File transfer time left
+#: src/gettext/duration.rs:42
+msgid "One day left"
+msgid_plural "{} days left"
+msgstr[0] "{} kun qoldi"
+
+#. Translators: {0} = 11.3MB / 20.7MB, {1} = 3 seconds left
+#: src/gettext/duration.rs:52
+msgctxt "Combine bytes progress {0} and time remaining {1}"
+msgid "{0} — {1}"
+msgstr "{0} — {1}"
+
+#. Translators: Notification when clicking on "Copy Code to Clipboard" button
+#: src/ui/action_view.rs:256
+msgid "Copied Code to Clipboard"
+msgstr "Kod vaqtinchalik xotiraga nusxalandi"
+
+#. Translators: Notification when clicking on "Copy Link to Clipboard" button
+#: src/ui/action_view.rs:273
+msgid "Copied Link to Clipboard"
+msgstr "Vaqtincha xotiraga havola nusxalandi"
+
+#: src/ui/action_view.rs:288
+msgid "Copied Error to Clipboard"
+msgstr "Xatolik vaqtinchalik xotiraga nusxalandi"
+
+#: src/ui/action_view.rs:290
+msgid "No error available"
+msgstr "Xato topilmadi"
+
+#: src/ui/action_view.rs:455
+msgid "Creating Archive"
+msgstr "Arxiv yaratish"
+
+#: src/ui/action_view.rs:459
+msgid "Compressing folder “{}”"
+msgstr "\"{}\" jildi zichlanmoqda"
+
+#. Translators: Title
+#: src/ui/action_view.rs:475 src/ui/action_view.rs:542
+msgid "Connecting"
+msgstr "Ulanmoqda"
+
+#. Translators: Description, Filename
+#: src/ui/action_view.rs:478
+msgid "Requesting file transfer"
+msgstr "Fayl uzatish soʻralmoqda"
+
+#. Translators: Description, argument is filename
+#: src/ui/action_view.rs:499
+msgid "Ready to send “{}”."
+msgstr "“{}” yuborishga tayyor."
+
+#: src/ui/action_view.rs:505
+msgid ""
+"The receiver needs to enter or scan this code to begin the file transfer."
+msgstr ""
+"Qabul qiluvchi fayl uzatishni boshlash uchun ushbu kodni kiritishi yoki "
+"skanerdan oʻtkazishi kerak."
+
+#: src/ui/action_view.rs:510
+msgid "The QR code is compatible with the following apps: {}."
+msgstr "QR kod quyidagi ilovalar bilan mos keladi: {}."
+
+#: src/ui/action_view.rs:519
+msgid ""
+"You have entered a custom rendezvous server URL in preferences. Please "
+"verify the receiver also uses the same rendezvous server."
+msgstr ""
+"Sozlamalarda maxsus uchrashuv serveri URL manzilini kiritgansiz. Iltimos, "
+"qabul qiluvchi ham xuddi shu uchrashuv serveridan foydalanayotganini "
+"tekshirib koʻring."
+
+#: src/ui/action_view.rs:525
+msgid "Click the QR code to copy the link to the clipboard."
+msgstr "Havolani bufer nusxalash uchun QR kodni bosing."
+
+#. Translators: Description, Transfer Code
+#: src/ui/action_view.rs:545
+msgid "Connecting to peer with code “{}”"
+msgstr "“{}” kodi bilan sherigingizga ulanilmoqda"
+
+#: src/ui/action_view.rs:555
+msgid "Connected to Peer"
+msgstr "Teng huquqli foydalanuvchiga ulanildi"
+
+#. Translators: Description
+#: src/ui/action_view.rs:564
+msgid "Preparing to send file"
+msgstr "Fayl yuborishga tayyorgarlik koʻrilmoqda"
+
+#. Translators: Description
+#: src/ui/action_view.rs:571
+msgid "Preparing to receive file"
+msgstr "Faylni qabul qilishga tayyorlanmoqda"
+
+#. Translators: File receive confirmation message dialog; Filename, File size
+#: src/ui/action_view.rs:585
+msgid ""
+"Your peer wants to send you “{0}” (Size: {1}).\n"
+"Do you want to download this file? The default action will save the file to your Downloads folder."
+msgstr ""
+"Sizga “{0}” nomli, hajmi {1} fayl yubormoqchi.\n"
+"Ushbu faylni yuklab olmoqchimisiz? Odatda fayl \"Yuklanmalar\" jildida saqlanadi."
+
+#: src/ui/action_view.rs:590
+msgid "Ready to Receive File"
+msgstr "Faylni qabul qilishga tayyor"
+
+#: src/ui/action_view.rs:592
+msgid ""
+"A file is ready to be transferred. The transfer needs to be acknowledged."
+msgstr "Fayl uzatishga tayyor. Uzatish tasdiqlashi kerak."
+
+#. Translators: Description, During transfer
+#: src/ui/action_view.rs:622
+msgid "File “{}” via local network direct transfer"
+msgstr "“{}” faylini mahalliy tarmoq orqali toʻgʻridan-toʻgʻri uzatish"
+
+#. Translators: Description, During transfer
+#: src/ui/action_view.rs:625
+msgid "File “{}” via direct transfer"
+msgstr "\"{}\" faylini toʻgʻridan-toʻgʻri uzatish usuli bilan"
+
+#. Translators: Description, During transfer
+#: src/ui/action_view.rs:631
+msgid "File “{0}” via relay {1}"
+msgstr "\"{0}\" faylini {1} orqali uzatish"
+
+#. Translators: Description, During transfer
+#: src/ui/action_view.rs:634
+msgid "File “{}” via relay"
+msgstr "“{}” faylini uzatish"
+
+#. Translators: Description, During transfer
+#: src/ui/action_view.rs:638
+msgid "File “{}” via Unknown connection method"
+msgstr "“{}” fayli orqali noma’lum ulanish usuli"
+
+#. Translators: Title
+#: src/ui/action_view.rs:645
+msgid "Sending File"
+msgstr "Fayl yuborilmoqda"
+
+#. Translators: Description, Filename
+#: src/ui/action_view.rs:668
+msgid "Successfully sent file “{}”"
+msgstr "“{}” fayli muvaffaqiyatli yuborildi"
+
+#. Translators: Filename
+#: src/ui/action_view.rs:686
+msgid "File has been saved to the selected folder as “{}”"
+msgstr "Fayl tanlangan jildga “{}” sifatida saqlandi"
+
+#. Translators: Filename
+#: src/ui/action_view.rs:693
+msgid "File has been saved to the Downloads folder as “{}”"
+msgstr "Fayl Yuklanmalar jildiga “{}” sifatida saqlandi"
+
+#. Translators: Title
+#: src/ui/action_view.rs:722 src/ui/action_view.ui:290
+msgid "File Transfer Failed"
+msgstr "Fayl uzatish amalga oshmadi"
+
+#: src/ui/action_view.rs:724
+msgid "The file transfer failed: {}"
+msgstr "Fayl uzatish amalga oshmadi: {}"
+
+#. Translators: When opening a file
+#: src/ui/action_view.rs:842
+msgid "Specified file / directory does not exist"
+msgstr "Koʻrsatilgan fayl / katalog mavjud emas"
+
+#: src/ui/action_view.rs:864
+msgid ""
+"Error parsing rendezvous server URL. An invalid URL was entered in the "
+"settings."
+msgstr ""
+"Uchrashuv serveri URL manzilini tahlil qilishda xatolik yuz berdi. "
+"Sozlamalarga notoʻgʻri URL kiritilgan."
+
+#: src/ui/action_view.rs:871
+msgid "Error parsing transit URL. An invalid URL was entered in the settings."
+msgstr ""
+"Oʻtkazish URL manzilini tahlil qilishda xatolik yuz berdi. Sozlamalarga "
+"notoʻgʻri URL kiritilgan."
+
+#: src/ui/action_view.rs:967
+msgid "Invalid path selected: {}"
+msgstr "Yaroqsiz yoʻnalish tanlandi: {}"
+
+#. Translators: Above progress bar for creating an archive to send as a folder
+#: src/ui/action_view.rs:1212
+msgid "{} File - Size: {}"
+msgid_plural "{} Files - Size: {}"
+msgstr[0] "{} ta fayl - Hajmi: {}"
+
+#: src/ui/action_view.ui:4
+msgid "Save As"
+msgstr "Boshqacha saqlash"
+
+#. Translators: Button; Transmit Link is a noun
+#: src/ui/action_view.ui:106
+msgid "Copy Transmit Link"
+msgstr "Uzatish havolasini nusxalash"
+
+#: src/ui/action_view.ui:131
+msgid "Your Transmit Code"
+msgstr "Uzatish kodingiz"
+
+#. Translators: Button; Transmit Code is a noun
+#: src/ui/action_view.ui:179
+msgid "Copy Transmit Code"
+msgstr "Uzatish kodini nusxalash"
+
+#. Translators: Title
+#: src/ui/action_view.ui:196
+msgid "Accept File Transfer?"
+msgstr "Fayl uzatish qabul qilinsinmi?"
+
+#: src/ui/action_view.ui:206
+msgid "Save to Downloads Folder"
+msgstr "Yuklanmalar jildiga saqlash"
+
+#. Translators: Button
+#: src/ui/action_view.ui:208
+msgid "_Accept"
+msgstr "Qabul qilish"
+
+#. Translators: Button
+#: src/ui/action_view.ui:223
+msgid "Sa_ve As…"
+msgstr "Sifatida saqlash…"
+
+#. Translators: Title
+#: src/ui/action_view.ui:243
+msgid "File Transfer Successful"
+msgstr "Fayl muvaffaqiyatli uzatildi"
+
+#. Translators: Button
+#: src/ui/action_view.ui:253
+msgid "_Open File"
+msgstr "Faylni ochish"
+
+#. Translators: Button
+#: src/ui/action_view.ui:269 src/ui/window.ui:51
+msgid "_Show in Folder"
+msgstr "Jildda koʻrsatish"
+
+#. Translators: Button
+#: src/ui/action_view.ui:296
+msgid "Co_py Error Message"
+msgstr "Xato xabarini nusxalash"
+
+#. Translators: Button
+#: src/ui/action_view.ui:314
+msgid "_Cancel"
+msgstr "Bekor qilish"
+
+#: src/ui/application.rs:63
+msgid "Unable to use transfer link: another transfer already in progress"
+msgstr ""
+"Uzatish havolasidan foydalanib boʻlmadi: boshqa uzatish jarayoni allaqachon "
+"amalga oshirilmoqda"
+
+#: src/ui/application.rs:216
+msgid "Sending a File"
+msgstr "Fayl yuborilmoqda"
+
+#: src/ui/application.rs:217
+msgid "Receiving a File"
+msgstr "Fayl olinmoqda"
+
+#: src/ui/camera.rs:248
+msgid ""
+"Camera access denied. Open Settings and allow Warp to access the camera."
+msgstr ""
+"Kamera ruxsati rad etildi. Sozlamalarni oching va Warp ilovasiga kameradan "
+"foydalanishga ruxsat bering."
+
+#: src/ui/camera.rs:252
+msgid "Failed to start the camera: {}"
+msgstr "Kamerani ishga tushirib boʻlmadi: {}"
+
+#: src/ui/camera.rs:255
+msgid "Error"
+msgstr "Xatolik"
+
+#: src/ui/camera.rs:345
+msgid "Could not use the camera portal: {}"
+msgstr "Kamera portalidan foydalanilmadi: {}"
+
+#: src/ui/camera.rs:352
+msgid "Could not start the device provider: {}"
+msgstr "Qurilma ta’minotchisi ishga tushirilmadi: {}"
+
+#: src/ui/camera.rs:383
+msgid "No Camera Found"
+msgstr "Hech qanday kamera topilmadi"
+
+#: src/ui/camera.rs:385
+msgid "Connect a camera to scan QR codes"
+msgstr "QR kodlarni skanerlash uchun kamerani ulang"
+
+#: src/ui/camera.ui:11 src/ui/window.ui:217
+msgid "Scan QR Code"
+msgstr "QR kodni skanerlash"
+
+#: src/ui/camera.ui:48
+msgid "_Retry"
+msgstr "Qayta urinish"
+
+#: src/ui/camera.ui:59
+msgid "_Troubleshooting"
+msgstr "Muammoni bartaraf etish"
+
+#: src/ui/fs.rs:16
+msgid "Downloads dir missing. Please set XDG_DOWNLOAD_DIR"
+msgstr "Yuklab olish jildi topilmadi. Iltimos, XDG_DOWNLOAD_DIRʼni sozlang"
+
+#: src/ui/licenses.rs:150
+msgid "Licensed under the <a href=\"{}\">{}</a>."
+msgstr "<a href=\"{}\">{}</a> bilan litsenziyalangan."
+
+#. Translators: License information without a link to the software license
+#: src/ui/licenses.rs:155
+msgid "Licensed under the {}."
+msgstr "{} bilan litsenziyalangan."
+
+#: src/ui/preferences.rs:97
+msgid ""
+"Changing the rendezvous server URL needs to be done on both sides of the transfer. Only enter a server URL you can trust.\n"
+"\n"
+"Leaving these entries empty will use the app defaults:\n"
+"Rendezvous Server: “{0}”\n"
+"Transit Server: “{1}”"
+msgstr ""
+"Uchrashuv serveri URL manzilini oʻzgartirish uzatishning har ikki tomonida ham amalga oshirilishi lozim. Faqat ishonchli server URL manzilini kiriting.\n"
+"\n"
+"Agar ushbu maydonlar boʻsh qoldirilsa, ilova standart sozlamalaridan foydalaniladi:\n"
+"Uchrashuv serveri: \"{0}\"\n"
+"Tranzit serveri: \"{1}\""
+
+#: src/ui/preferences.ui:4
+msgid "Preferences"
+msgstr "Afzalliklar"
+
+#: src/ui/preferences.ui:8
+msgid "Network"
+msgstr "Tarmoq"
+
+#: src/ui/preferences.ui:12
+msgid "Code Words"
+msgstr "Kod soʻzlari"
+
+#: src/ui/preferences.ui:13
+msgid ""
+"The code word count determines the security of the transfer.\n"
+"\n"
+"A short code is easy to remember but increases the risk of someone else guessing the code. As a code may only be guessed once, the risk is very small even with short codes. A length of 4 is very secure."
+msgstr ""
+"Koddagi soʻzlar soni uzatishning xavfsizligini belgilaydi.\n"
+"\n"
+"Qisqa kodni eslab qolish oson, lekin bu kodni boshqa birov topib olish xavfini oshiradi. Kodni faqat bir marta taxmin qilish mumkinligi sababli, hatto qisqa kodlar bilan ham xavf juda kichik. 4 ga teng uzunlik juda xavfsiz."
+
+#: src/ui/preferences.ui:18
+msgid "Code Word Count"
+msgstr "Koddagi soʻzlar soni"
+
+#: src/ui/preferences.ui:26
+msgid "Server URLs"
+msgstr "Server URL manzillari"
+
+#: src/ui/preferences.ui:29
+msgid "Rendezvous Server URL"
+msgstr "Uchrashuv serveri URL manzili"
+
+#: src/ui/preferences.ui:36
+msgid "Transit Server URL"
+msgstr "Tranzit serveri URL manzili"
+
+#: src/ui/welcome_dialog.ui:10
+msgid "Welcome"
+msgstr "Xush kelibsiz"
+
+#: src/ui/welcome_dialog.ui:23
+msgid "Welcome to Warp"
+msgstr "Warp dasturiga xush kelibsiz"
+
+#. Translators: Button
+#: src/ui/welcome_dialog.ui:31
+msgid "Next"
+msgstr "Keyingi"
+
+#: src/ui/welcome_dialog.ui:79
+msgid "Introduction"
+msgstr "Kirish"
+
+#: src/ui/welcome_dialog.ui:90
+msgid ""
+"Warp makes file transfer simple. To get started, both parties need to install Warp on their devices.\n"
+"\n"
+"After selecting a file to transmit, the sender needs to tell the receiver the displayed transmit code. This is preferably done via a secure communication channel.\n"
+"\n"
+"When the receiver has entered the code, the file transfer can begin.\n"
+"\n"
+"For more information about Warp, open the Help section from the Main Menu."
+msgstr ""
+"Warp fayllarni uzatishni osonlashtiradi. Ishni boshlash uchun ikkala tomon ham oʻz qurilmalariga Warp ilovasini oʻrnatishi kerak.\n"
+"\n"
+"Uzatish uchun fayl tanlangandan soʻng, joʻnatuvchi qabul qiluvchiga koʻrsatilgan uzatish kodini aytishi kerak. Buni himoyalangan aloqa kanali orqali amalga oshirgan ma’qul.\n"
+"\n"
+"Qabul qiluvchi kodni kiritgach, fayl uzatishni boshlash mumkin.\n"
+"\n"
+"Warp haqida koʻproq ma’lumot olish uchun Asosiy menyudan Yordam boʻlimini oching."
+
+#. Translators: Big button to finish welcome screen
+#: src/ui/welcome_dialog.ui:103
+msgid "Get Started Using Warp"
+msgstr "Warp ishlatishni boshlang"
+
+#: src/ui/window.rs:139
+msgid ""
+"Error loading config file “{0}”, using default config.\n"
+"Error: {1}"
+msgstr ""
+"\"{0}\" sozlama faylini yuklashda xatolik yuz berdi, odatiy sozlama ishlatilmoqda.\n"
+"Xato: {1}"
+
+#: src/ui/window.rs:287
+msgid "Error saving configuration file: {}"
+msgstr "Konfiguratsiya faylini saqlashda xatolik yuz berdi: {}"
+
+#: src/ui/window.rs:301
+msgid "Tobias Bernard"
+msgstr "Tobias Bernard"
+
+#: src/ui/window.rs:301
+msgid "Sophie Herold"
+msgstr "Sophie Herold"
+
+#: src/ui/window.rs:302
+msgid "translator-credits"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#. Translators: This is a promotion and should match the app name as seen at
+#. https://apps.gnome.org/PikaBackup/
+#: src/ui/window.rs:306
+msgid "Pika Backup"
+msgstr "Pika zaxirasi"
+
+#. Translators: This is a promotion and should match the short app summary as
+#. seen at https://apps.gnome.org/PikaBackup/
+#: src/ui/window.rs:308
+msgid "Keep your data safe"
+msgstr "Ma’lumotlaringizni xavfsiz saqlang"
+
+#: src/ui/window.rs:374
+msgid "Select File to Send"
+msgstr "Yuborish uchun faylni tanlang"
+
+#: src/ui/window.rs:382
+msgid "Select Folder to Send"
+msgstr "Yuborish uchun jildni tanlang"
+
+#: src/ui/window.rs:449
+msgid "“{}” appears to be an invalid Transmit Code. Please try again."
+msgstr ""
+"“{}” notoʻgʻri uzatish kodi boʻlishi mumkin. Iltimos, qaytadan urinib "
+"koʻring."
+
+#: src/ui/window.rs:573
+msgid "Sending files with a preconfigured code is not yet supported"
+msgstr ""
+"Oldindan sozlangan kodli fayllarni yuborish hozircha qoʻllab-quvvatlanmaydi"
+
+#. Translators: menu item
+#: src/ui/window.ui:7
+msgid "_Preferences"
+msgstr "Afzalliklar"
+
+#. Translators: menu item
+#: src/ui/window.ui:12
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#. Translators: menu item
+#: src/ui/window.ui:17
+msgid "_Help"
+msgstr "Yordam"
+
+#. Translators: menu item
+#: src/ui/window.ui:22
+msgid "_About Warp"
+msgstr "Warp haqida"
+
+#. Translators: Notification when code was automatically detected in clipboard
+#. and inserted into code entry on receive page
+#: src/ui/window.ui:33
+msgid "Inserted code from clipboard"
+msgstr "Vaqtinchalik xotiradan kiritilgan kod"
+
+#. Translators: File receive confirmation message dialog title
+#: src/ui/window.ui:38
+msgid "Abort File Transfer?"
+msgstr "Fayl uzatilishi bekor qilinsinmi?"
+
+#: src/ui/window.ui:39
+msgid "Do you want to abort the current file transfer?"
+msgstr "Joriy fayl uzatishni toʻxtatmoqchimisiz?"
+
+#: src/ui/window.ui:42
+msgid "_Continue"
+msgstr "Davom etish"
+
+#: src/ui/window.ui:43
+msgid "_Abort"
+msgstr "Bekor qilish"
+
+#. Translators: Error dialog title
+#: src/ui/window.ui:48
+msgid "Unable to Open File"
+msgstr "Faylni ochish imkonsiz"
+
+#: src/ui/window.ui:50 src/util/error.rs:207
+msgid "_Close"
+msgstr "Yopish"
+
+#: src/ui/window.ui:98
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: src/ui/window.ui:117
+msgid "_Send"
+msgstr "Yuborish"
+
+#: src/ui/window.ui:130
+msgid "Select or drop the file or directory to send"
+msgstr "Yuborish uchun fayl yoki katalogni tanlang yoki tashlang"
+
+#. Translators: Button
+#: src/ui/window.ui:142
+msgid "Select _File…"
+msgstr "Faylni tanlang…"
+
+#. Translators: Button
+#: src/ui/window.ui:157
+msgid "Select F_older…"
+msgstr "Jildni tanlang…"
+
+#: src/ui/window.ui:177
+msgid "_Receive"
+msgstr "Qabul qilmoq"
+
+#. Translators: Text above code input box, transmit code is a noun
+#: src/ui/window.ui:188
+msgid "Enter the transmit code from the sender"
+msgstr "Yuboruvchidan uzatish kodini kiriting"
+
+#. Translators: Button
+#: src/ui/window.ui:238
+msgid "Receive _File"
+msgstr "Faylni qabul qilish"
+
+#: src/util.rs:37 src/util.rs:43
+msgid "Failed to open downloads folder."
+msgstr "Yuklamalar jildini ochishda xatolik yuz berdi."
+
+#: src/util.rs:216 src/util.rs:291
+msgid "The URI format is invalid"
+msgstr "URI formati yaroqsiz"
+
+#: src/util.rs:220 src/util.rs:224
+msgid "The code does not match the required format"
+msgstr "Kod talab qilingan formatga mos kelmaydi"
+
+#: src/util.rs:241 src/util.rs:247
+msgid "Unknown URI version: {}"
+msgstr "Notanish URI versiyasi: {}"
+
+#: src/util.rs:256
+msgid "The URI parameter “rendezvous” contains an invalid URL: “{}”"
+msgstr "\"Uchrashuv\" URI parametri yaroqsiz URL manzilini oʻz ichiga oladi: \"{}\""
+
+#: src/util.rs:268
+msgid "The URI parameter “role” must be “follower” or “leader” (was: “{}”)"
+msgstr "URI \"rol\" parametri \"kuzatuvchi\" yoki \"yetakchi\" boʻlishi kerak (edi: \"{}\")"
+
+#: src/util.rs:275
+msgid "Unknown URI parameter “{}”"
+msgstr "Noma’lum URI parametri \"{}\""
+
+#: src/util/error.rs:190
+msgid "An error occurred"
+msgstr "Xatolik yuz berdi"
+
+#: src/util/error.rs:218 src/util/error.rs:349
+msgid "Corrupt or unexpected message received"
+msgstr "Buzilgan yoki kutilmagan xabar olindi"
+
+#: src/util/error.rs:224
+msgid ""
+"The rendezvous server will not allow further connections for this code. A "
+"new code needs to be generated."
+msgstr ""
+"Uchrashuv serveri ushbu kod uchun qoʻshimcha ulanishlarga ruxsat bermaydi. "
+"Yangi kodni generatsiya qilish kerak."
+
+#: src/util/error.rs:228
+msgid ""
+"The rendezvous server removed the code due to inactivity. A new code needs "
+"to be generated."
+msgstr ""
+"Uchrashuvlar serveri faolsizlik tufayli kodni oʻchirib tashladi. Yangi kod "
+"yaratish zarur."
+
+#: src/util/error.rs:232
+msgid "The rendezvous server responded with an unknown message: {}"
+msgstr "Uchrashuv serveri noma’lum xabar bilan javob berdi: {}"
+
+#: src/util/error.rs:243
+msgid ""
+"Error connecting to the rendezvous server.\n"
+"You have entered a custom rendezvous server URL in preferences. Please verify the URL is correct and the server is working."
+msgstr ""
+"Uchrashuv serveriga ulanishda xatolik yuz berdi.\n"
+"Sozlamalarda maxsus uchrashuv serveri URL manzilini kiritdingiz. URL toʻgʻriligini va server ishlayotganini tekshiring."
+
+#: src/util/error.rs:247
+msgid ""
+"Error connecting to the rendezvous server.\n"
+"Please try again later / verify you are connected to the internet."
+msgstr ""
+"Uchrashuv serveriga ulanishda xatolik yuz berdi.\n"
+"Keyinroq qayta urining / internetga ulanganingizni tekshiring."
+
+#: src/util/error.rs:252
+msgid ""
+"Encryption key confirmation failed. If you or your peer didn't mistype the "
+"code, this is a sign of an attacker guessing passwords. Please try again "
+"some time later."
+msgstr ""
+"Shifrlash kaliti tasdiqlanmadi. Agar siz yoki sherigingiz kodni notoʻgʻri "
+"yozmagan boʻlsa, bu hujumchi parollarni taxmin qilayotganining belgisidir. "
+"Birozdan keyin qayta urining."
+
+#: src/util/error.rs:254
+msgid "Cannot decrypt a received message"
+msgstr "Qabul qilingan xabarni shifrdan ochib boʻlmadi"
+
+#: src/util/error.rs:255 src/util/error.rs:360 src/util/error.rs:370
+msgid "An unknown error occurred"
+msgstr "Nomaʼlum muammo yuzaga keldi"
+
+#. Translators: magic-wormhole codes usually look like n-word-word... where n
+#. MUST be an arabic number (unlimited digits). The first '-' is mandatory.
+#. This error occurs when an empty code was entered.
+#: src/util/error.rs:262
+msgid "The specified code must not be empty"
+msgstr "Koʻrsatilgan kod boʻsh boʻlmasligi kerak"
+
+#. Translators: magic-wormhole codes usually look like n-word-word... where n
+#. MUST be an arabic number (unlimited digits). The first '-' is mandatory.
+#. This error occurs when a code was entered that does not contain any '-'.
+#: src/util/error.rs:264
+msgid "The code must contain at least one “-”"
+msgstr "Kodda kamida bitta “-” boʻlishi kerak"
+
+#. Translators: magic-wormhole codes usually look like n-word-word... where n
+#. MUST be an arabic number (unlimited digits). This error occurs when a code
+#. was entered that does not contain a number before the '-'.
+#: src/util/error.rs:266
+msgid "The first segment of a code must be a number"
+msgstr "Kodning birinchi boʻlagi albatta raqam boʻlishi shart"
+
+#: src/util/error.rs:270
+msgid "Code too weak. It can be guessed with an average of {} try."
+msgid_plural "Code too weak. It can be guessed with an average of {} tries."
+msgstr[0] ""
+"Kod juda zaif. Buni o‘rtacha {} ta urinish bilan taxmin qilish mumkin."
+
+#: src/util/error.rs:278
+msgid ""
+"Code too short. The text after the “-” must be at least {} character long."
+msgid_plural ""
+"Code too short. The text after the “-” must be at least {} characters long."
+msgstr[0] ""
+"Kod juda qisqa. “-” belgisidan keyingi matn kamida {} ta belgidan iborat "
+"bo‘lishi kerak."
+
+#: src/util/error.rs:285
+msgid "Code too weak"
+msgstr "Kod juda zaif"
+
+#: src/util/error.rs:292
+msgid "File / Directory not found"
+msgstr "Fayl / Jild topilmadi"
+
+#: src/util/error.rs:293
+msgid "Permission denied"
+msgstr "Ruxsat berilmadi"
+
+#: src/util/error.rs:301
+msgid "Canceled"
+msgstr "Bekor qilingan"
+
+#: src/util/error.rs:303
+msgid "Portal service response: Permission denied"
+msgstr "Portal xizmati javobi: Ruxsat berilmadi"
+
+#: src/util/error.rs:306
+msgid "The portal service has failed: {}"
+msgstr "Portal xizmati ishlamay qoldi: {}"
+
+#: src/util/error.rs:309
+msgid "Error communicating with the portal service via zbus: {}"
+msgstr ""
+"Zbus orqali portal xizmati bilan aloqa oʻrnatishda xatolik yuz berdi: {}"
+
+#: src/util/error.rs:312 src/util/error.rs:313
+msgid "Portal error: {}"
+msgstr "Portalda xatolik: {}"
+
+#: src/util/error.rs:324
+msgid "Transfer was not acknowledged by peer"
+msgstr "Uzatish sherigingiz tomonidan tasdiqlanmadi"
+
+#: src/util/error.rs:326
+msgid "The received file is corrupted"
+msgstr "Qabul qilingan fayl buzilgan"
+
+#: src/util/error.rs:332
+msgid ""
+"The file contained a different amount of bytes than advertised! Sent {} "
+"bytes, but should have been {}"
+msgstr ""
+"Fayl e’lon qilingan hajmdan farqli miqdordagi baytlarni oʻz ichiga oldi! {} "
+"bayt yuborildi, ammo aslida {} bayt boʻlishi kerak edi"
+
+#: src/util/error.rs:337
+msgid "The other side has cancelled the transfer"
+msgstr "Narigi tomon uzatishni bekor qildi"
+
+#: src/util/error.rs:339
+msgid "The other side has rejected the transfer"
+msgstr "Narigi tomon uzatishni rad etdi"
+
+#: src/util/error.rs:341
+msgid "Something went wrong on the other side: {}"
+msgstr "Boshqa tomonda xatolik yuz berdi: {}"
+
+#: src/util/error.rs:356
+msgid "Error while establishing file transfer connection"
+msgstr "Fayl uzatish aloqasini oʻrnatishda xatolik yuz berdi"
+
+#: src/util/error.rs:358
+msgid "Unknown file transfer error"
+msgstr "Noma’lum fayl uzatish xatosi"
+
+#: src/util/error.rs:373
+msgid "An unknown error occurred while creating a zip file: {}"
+msgstr "Zip faylini yaratishda noma’lum xatolik yuz berdi: {}"
+
+#: src/util/error.rs:377
+msgid ""
+"An unexpected error occurred. Please report an issue with the error message."
+msgstr ""
+"Kutilmagan xato sodir boʻldi. Iltimos, xato xabari bilan birga muammo haqida"
+" ma’lum qiling."

@@ -1,0 +1,750 @@
+# Uzbek (Latin) translation for shortwave.
+# Copyright (C) 2025 shortwave's COPYRIGHT HOLDER
+# This file is distributed under the same license as the shortwave package.
+# kHamidulloh <toxtayevhamidulloh6997@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shortwave main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Shortwave/issues\n"
+"POT-Creation-Date: 2025-10-24 14:46+0000\n"
+"PO-Revision-Date: 2025-10-24 19:45+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/de.haeckerfelix.Shortwave.desktop.in.in:2
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:5
+msgid "@NAME@"
+msgstr "@NAME@"
+
+#: data/de.haeckerfelix.Shortwave.desktop.in.in:3
+msgid "Internet Radio Player"
+msgstr "Internet radio pleyer"
+
+#. General
+#: data/de.haeckerfelix.Shortwave.desktop.in.in:4
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:10
+msgid "Listen to internet radio"
+msgstr "Internet radiosini tinglash"
+
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/de.haeckerfelix.Shortwave.desktop.in.in:13
+msgid "Gradio;Radio;Stream;Wave;"
+msgstr "Gradio;Radio;Oqim;Toʻlqin;"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:12
+msgid ""
+"Shortwave is an internet radio player that provides access to a station "
+"database with over 50,000 stations."
+msgstr ""
+"Shortwave - bu 50 000 dan ortiq stansiyalarga ega boʻlgan radiokanallar "
+"ma’lumotlar bazasiga kirishni ta’minlaydigan Internet-radio pleyer."
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:15
+msgid "Features:"
+msgstr "Xususiyatlar:"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:17
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:64
+msgid "Create your own library where you can add your favorite stations"
+msgstr ""
+"Sevimli radiokanallarni qoʻshishingiz mumkin boʻlgan oʻz kutubxonangizni "
+"yarating"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:18
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:68
+msgid "Easily search and discover new radio stations"
+msgstr "Yangi radio radiokanalarni oson izlang va kashf eting"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:19
+msgid ""
+"Automatic recognition of tracks, with the possibility to save them "
+"individually"
+msgstr ""
+"Taronalarni avtomatik tanib olish, ularni alohida saqlash imkoniyati bilan"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:20
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:72
+msgid "Responsive application layout, compatible for small and large screens"
+msgstr "Kichik va katta ekranlarga moslashadigan qulay dastur tuzilishi"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:21
+msgid "Play audio on supported network devices (e.g. Google Chromecasts)"
+msgstr ""
+"Qoʻllab-quvvatlanadigan tarmoq qurilmalarida (masalan, Google "
+"Chromecast’larda) audio fayllarni ijro etish"
+
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:22
+msgid "Seamless integration into the GNOME desktop environment"
+msgstr "GNOME ish stoli muhitiga uzluksiz qoʻshilish"
+
+#. Branding
+#: data/de.haeckerfelix.Shortwave.metainfo.xml.in.in:28
+msgid "Felix Häcker"
+msgstr "Felix Häcker"
+
+#: data/gtk/add_station_dialog.ui:14
+msgid "Add Local Station"
+msgstr "Mahalliy radiokanal kiritish"
+
+#: data/gtk/add_station_dialog.ui:64
+msgid "Change Station Cover"
+msgstr "Radiokanal muqovasini almashtirish"
+
+#: data/gtk/add_station_dialog.ui:95
+msgid ""
+"This station will only be added to your library. If you want it to be "
+"available to everyone, you should add it to the <a href=\"https://www.radio-"
+"browser.info/add\">public database</a>."
+msgstr ""
+"Bu radiokanal faqat kutubxonangizga kiritiladi. U hamma uchun ochiq "
+"boʻlishini istasangiz, uni <a href=\"https://www.radio-"
+"browser.info/add\">ommaviy ma’lumotlar bazasiga</a> kiriting."
+
+#: data/gtk/add_station_dialog.ui:107
+msgid "Name"
+msgstr "Nomi"
+
+#: data/gtk/add_station_dialog.ui:115
+msgid "Stream URL"
+msgstr "Oqim URL manzili"
+
+#: data/gtk/add_station_dialog.ui:123
+msgid "Add Station"
+msgstr "Radiokanal qoʻshish"
+
+#: data/gtk/device_dialog.ui:7 data/gtk/player_view.ui:132
+msgid "Connect Device"
+msgstr "Qurilmani ulash"
+
+#: data/gtk/device_dialog.ui:18
+msgid "Searching for Devices…"
+msgstr "Qurilmalarni qidirish…"
+
+#: data/gtk/device_dialog.ui:25
+msgid "Search for Devices"
+msgstr "Qurilmalarni qidirish"
+
+#: data/gtk/device_dialog.ui:41
+msgid "No Devices Available"
+msgstr "Hech qanday qurilma mavjud emas"
+
+#: data/gtk/device_dialog.ui:42
+msgid "No supported Google Cast device found"
+msgstr "Qoʻllab-quvvatlanadigan Google Cast qurilmasi topilmadi"
+
+#: data/gtk/device_indicator.ui:7
+msgid "Disconnect From Device"
+msgstr "Qurilmadan uzish"
+
+#: data/gtk/library_page.ui:4
+msgid "Shortwave"
+msgstr "Qisqa toʻlqinli"
+
+#: data/gtk/library_page.ui:15 data/gtk/search_page.ui:4
+msgid "Browse Stations"
+msgstr "Radiokanallarni koʻrib chiqish"
+
+#: data/gtk/library_page.ui:23
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/gtk/library_page.ui:91
+msgid "_Add New Stations"
+msgstr "Yangi radiokanallar qoʻshish"
+
+#: data/gtk/library_page.ui:114
+msgid "_Sorting"
+msgstr "Saralash"
+
+#: data/gtk/library_page.ui:117
+msgid "_Name"
+msgstr "Ism"
+
+#: data/gtk/library_page.ui:122
+msgid "_Language"
+msgstr "Til"
+
+#: data/gtk/library_page.ui:127
+msgid "_Country"
+msgstr "Davlat"
+
+#: data/gtk/library_page.ui:132
+msgid "S_tate"
+msgstr "Holat"
+
+#: data/gtk/library_page.ui:137
+msgid "_Bitrate"
+msgstr "Bitreyt"
+
+#: data/gtk/library_page.ui:144
+msgid "_Ascending"
+msgstr "Koʻpayishi boʻyicha"
+
+#: data/gtk/library_page.ui:149
+msgid "_Descending"
+msgstr "Kamayishi boʻyicha"
+
+#: data/gtk/library_page.ui:158
+msgid "_Open radio-browser.info <sup>↗</sup>"
+msgstr "radio-browser.info saytini ochish <sup>↗</sup>"
+
+#: data/gtk/library_page.ui:165
+msgid "_Preferences"
+msgstr "Afzalliklar"
+
+#: data/gtk/library_page.ui:169
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/gtk/library_page.ui:173
+msgid "_About Shortwave"
+msgstr "Qisqa toʻlqinlar haqida"
+
+#: data/gtk/library_page.ui:177
+msgid "_Quit"
+msgstr "Chiqish"
+
+#: data/gtk/library_page.ui:185
+msgid "Add _Local Station"
+msgstr "Mahalliy radiokanal kiritish"
+
+#: data/gtk/player_gadget.ui:40 data/gtk/player_toolbar.ui:92
+#: data/gtk/player_view.ui:156 data/gtk/station_row.ui:86
+msgid "Play"
+msgstr "Oʻynash"
+
+#: data/gtk/player_gadget.ui:55 data/gtk/player_toolbar.ui:106
+#: data/gtk/player_view.ui:170
+msgid "Stop"
+msgstr "Toʻxtatish"
+
+#: data/gtk/player_gadget.ui:71 data/gtk/player_toolbar.ui:121
+#: data/gtk/player_view.ui:185
+msgid "Buffering…"
+msgstr "Yuklanmoqda…"
+
+#: data/gtk/player_gadget.ui:118
+msgid "SHORTWAVE INTERNET RADIO"
+msgstr "QISQA TOʻLQINLI INTERNET RADIO"
+
+#: data/gtk/player_gadget.ui:140 data/gtk/player_toolbar.ui:29
+#: data/gtk/player_view.ui:58 src/app.rs:253
+msgid "No Playback"
+msgstr "Qayta ijro qilinmaydi"
+
+#: data/gtk/player_gadget.ui:199
+msgid "Close"
+msgstr "Yopish"
+
+#: data/gtk/player_gadget.ui:210
+msgid "Restore Window"
+msgstr "Oynani tiklash"
+
+#: data/gtk/player_view.ui:13
+msgid "Enable Gadget Mode"
+msgstr "Gadjet rejimini yoqish"
+
+#: data/gtk/player_view.ui:215
+msgid "Show Station Details"
+msgstr "Radiokanal tafsilotlarini koʻrsatish"
+
+#: data/gtk/player_view.ui:266
+msgid "No Tracks"
+msgstr "Hech qanday tarona yoʻq"
+
+#: data/gtk/player_view.ui:277
+msgid "Played tracks will appear here"
+msgstr "Ijro etilgan taronalar shu yerda chiqadi"
+
+#: data/gtk/player_view.ui:311
+msgid "An error occurred"
+msgstr "Ichki xatolik yuz berdi"
+
+#: data/gtk/preferences_dialog.ui:9 data/gtk/shortcuts_dialog.ui:6
+msgid "General"
+msgstr "Umumiy"
+
+#: data/gtk/preferences_dialog.ui:12 data/gtk/shortcuts_dialog.ui:41
+msgid "Playback"
+msgstr "Qayta ijro"
+
+#: data/gtk/preferences_dialog.ui:15
+msgid "_Background Playback"
+msgstr "Orqa fonda ijro etish"
+
+#: data/gtk/preferences_dialog.ui:16
+msgid "Playback continues when window is closed"
+msgstr "Oyna yopilgandan soʻng ham ijro davom etaveradi"
+
+#: data/gtk/preferences_dialog.ui:28
+msgid "_Notifications"
+msgstr "Bildirishnomalar"
+
+#: data/gtk/preferences_dialog.ui:29
+msgid "Show desktop notifications when a new track gets played"
+msgstr "Yangi tarona ijro etilganda ish stoli bildirishnomalarini chiqarish"
+
+#. Translators: This is a noun / preferences group title
+#: data/gtk/preferences_dialog.ui:43
+msgid "Recording"
+msgstr "Yozib olish rejimi"
+
+#: data/gtk/preferences_dialog.ui:44
+msgid ""
+"Tracks are automatically recognised based on the station stream metadata and"
+" can be saved."
+msgstr ""
+"Radiokanal oqimi metama’lumotlari asosida taronalar avtomatik tarzda "
+"aniqlanadi va ularni saqlash imkoniyati mavjud."
+
+#: data/gtk/preferences_dialog.ui:47
+msgid "Track _Directory"
+msgstr "Tarona katalogi"
+
+#: data/gtk/preferences_dialog.ui:69
+msgid "Save _All Tracks"
+msgstr "Hamma taronalarni saqlash"
+
+#: data/gtk/preferences_dialog.ui:70
+msgid "All recorded tracks are automatically saved in the track directory"
+msgstr ""
+"Barcha yozib olingan taronalar avtomatik ravishda taronalar katalogida "
+"saqlanadi"
+
+#: data/gtk/preferences_dialog.ui:84
+msgid "Decide for Each _Track"
+msgstr "Har bir tarona uchun qaror qabul qiling"
+
+#: data/gtk/preferences_dialog.ui:85
+msgid "Tracks are temporarily recorded and can be saved if desired"
+msgstr ""
+"Taronalar vaqtincha yozib olinadi va istalgan vaqtda saqlanishi mumkin"
+
+#: data/gtk/preferences_dialog.ui:100
+msgid "Record N_othing"
+msgstr "Hech narsa yozib olinmasin"
+
+#: data/gtk/preferences_dialog.ui:101
+msgid "Stations are played without recording"
+msgstr "Radiokanallar yozuvsiz ijro etiladi"
+
+#: data/gtk/preferences_dialog.ui:120
+msgid "M_inimum Duration"
+msgstr "Minimal davom etish muddati"
+
+#: data/gtk/preferences_dialog.ui:121
+msgid "Tracks shorter than the minimum duration will be ignored"
+msgstr "Minimal davomiylikdan qisqa treklar e’tiborsiz qoldiriladi"
+
+#: data/gtk/preferences_dialog.ui:136
+msgid "M_aximum Duration"
+msgstr "Maksimal davom etish muddati"
+
+#: data/gtk/preferences_dialog.ui:137
+msgid "Recording ends when the maximum duration is reached"
+msgstr "Yozib olish eng oxiriga yetganda yakunlanadi"
+
+#: data/gtk/search_filter.ui:15
+msgid "Search"
+msgstr "Qidirish"
+
+#: data/gtk/search_filter.ui:16
+msgid "Search stations"
+msgstr "Radiokanallarni qidirish"
+
+#: data/gtk/search_page.ui:55
+msgid "Discover over 50,000 public stations"
+msgstr "50 000 dan ortiq jamoat radiokanallarini kashf eting"
+
+#: data/gtk/search_page.ui:73
+msgid "Popular Stations"
+msgstr "Mashhur radiokanallar"
+
+#: data/gtk/search_page.ui:95
+msgid "Discover New Stations"
+msgstr "Yangi radiokanallar bilan tanishing"
+
+#: data/gtk/search_page.ui:118
+msgid ""
+"The displayed information is provided by <a href=\"https://www.radio-browser.info/\">radio-browser.info</a>.\n"
+"                                  Shortwave has no influence on the listed stations."
+msgstr ""
+"Koʻrsatilgan axborot <a href=\"https://www.radio-browser.info/\">radio-browser.info</a> tomonidan taqdim etilgan.\n"
+"                                  Qisqa toʻlqinlar sanab oʻtilgan radiokanallarga hech qanday ta’sir koʻrsatmaydi."
+
+#: data/gtk/search_page.ui:184
+msgid "Loading…"
+msgstr "Yuklanmoqda…"
+
+#: data/gtk/search_page.ui:199
+msgid "No Results"
+msgstr "Natijalar yoʻq"
+
+#: data/gtk/search_page.ui:200
+msgid ""
+"If the station you are looking for is missing, you can add it to the public "
+"database."
+msgstr ""
+"Agar siz qidirayotgan radiokanal yoʻqolgan boʻlsa, uni ommaviy ma’lumotlar "
+"bazasiga qoʻshishingiz mumkin."
+
+#: data/gtk/search_page.ui:204
+msgid "Add Missing Station"
+msgstr "Yoʻqolgan radiokanal qoʻshish"
+
+#: data/gtk/search_page.ui:222
+msgid "Unable to Retrieve Station Data"
+msgstr "Radiokanal ma’lumotlarini olish imkonsiz"
+
+#: data/gtk/search_page.ui:225
+msgid "Try Again"
+msgstr "Qayta urinish"
+
+#: data/gtk/shortcuts_dialog.ui:9
+msgctxt "shortcut window"
+msgid "Open shortcut window"
+msgstr "Yorliq oynasini ochish"
+
+#: data/gtk/shortcuts_dialog.ui:16
+msgctxt "shortcut window"
+msgid "Open application menu"
+msgstr "Ilova menyusini ochish"
+
+#: data/gtk/shortcuts_dialog.ui:21
+msgctxt "shortcut window"
+msgid "Open preferences"
+msgstr "Afzalliklarni oching"
+
+#: data/gtk/shortcuts_dialog.ui:27
+msgctxt "shortcut window"
+msgid "Close the window"
+msgstr "Oynani yopish"
+
+#: data/gtk/shortcuts_dialog.ui:33
+msgctxt "shortcut window"
+msgid "Quit the application"
+msgstr "Ilovadan chiqish"
+
+#: data/gtk/shortcuts_dialog.ui:44
+msgctxt "shortcut window"
+msgid "Toggle playback"
+msgstr "Ijroni yoqish/oʻchirish"
+
+#: data/gtk/shortcuts_dialog.ui:52 data/gtk/volume_control.ui:21
+msgid "Volume"
+msgstr "Tovush"
+
+#: data/gtk/shortcuts_dialog.ui:55
+msgctxt "shortcut window"
+msgid "Toggle mute"
+msgstr "Ovozni oʻchirish/yoqish"
+
+#: data/gtk/shortcuts_dialog.ui:61
+msgctxt "shortcut window"
+msgid "Increase volume"
+msgstr "Ovoz balandligini oshirish"
+
+#: data/gtk/shortcuts_dialog.ui:67
+msgctxt "shortcut window"
+msgid "Decrease volume"
+msgstr "Ovoz balandligini pasaytirish"
+
+#: data/gtk/station_dialog.ui:75
+msgid "_Play"
+msgstr "Ijro"
+
+#: data/gtk/station_dialog.ui:91
+msgid "_Add to Library"
+msgstr "Kutubxonaga qoʻshish"
+
+#: data/gtk/station_dialog.ui:108
+msgid "_Remove From Library"
+msgstr "Kutubxonadan olib tashlash"
+
+#: data/gtk/station_dialog.ui:127 data/gtk/station_row.ui:57
+msgid "Local Station"
+msgstr "Mahalliy radiokanal"
+
+#: data/gtk/station_dialog.ui:128
+msgid ""
+"This station exists only in your library, and is not part of the public "
+"database"
+msgstr ""
+"Bu radiokanal faqat kutubxonangizda mavjud va ommaviy ma’lumotlar bazasiga "
+"kirmaydi"
+
+#: data/gtk/station_dialog.ui:142 data/gtk/station_row.ui:69
+msgid "Orphaned Station"
+msgstr "Yetim radiokanal"
+
+#: data/gtk/station_dialog.ui:143
+msgid ""
+"The information could not be updated, probably this station was removed from"
+" the public database"
+msgstr ""
+"Ma’lumotlarni yangilab boʻlmadi, ehtimol bu radiokanal ommaviy ma’lumotlar "
+"bazasidan olib tashlangan"
+
+#: data/gtk/station_dialog.ui:154
+msgid "Information"
+msgstr "Maʼlumot"
+
+#: data/gtk/station_dialog.ui:158
+msgid "Language"
+msgstr "Til"
+
+#: data/gtk/station_dialog.ui:169
+msgid "Tags"
+msgstr "Teglar"
+
+#: data/gtk/station_dialog.ui:182
+msgid "Location"
+msgstr "Joylashuv"
+
+#: data/gtk/station_dialog.ui:186
+msgid "Country"
+msgstr "Davlat"
+
+#: data/gtk/station_dialog.ui:197
+msgid "State"
+msgstr "Shtat"
+
+#: data/gtk/station_dialog.ui:232
+msgid "Audio"
+msgstr "Audio"
+
+#: data/gtk/station_dialog.ui:235
+msgid "Bitrate"
+msgstr "Bitreyt"
+
+#: data/gtk/station_dialog.ui:246
+msgid "Codec"
+msgstr "Kodek"
+
+#. This is a noun/label for the station stream url
+#: data/gtk/station_dialog.ui:257
+msgid "Stream"
+msgstr "Oqim"
+
+#: data/gtk/station_dialog.ui:263
+msgid "Copy"
+msgstr "Nusxalash"
+
+#: data/gtk/track_dialog.ui:74
+msgid "Edit"
+msgstr "Tahrirlash"
+
+#: data/gtk/track_dialog.ui:121
+msgid "The recorded track has been saved"
+msgstr "Yozib olingan tarona saqlandi"
+
+#: data/gtk/track_dialog.ui:137 data/gtk/track_dialog.ui:208
+#: data/gtk/track_row.ui:9 src/audio/player.rs:448
+msgid "Save Track"
+msgstr "Taronani saqlash"
+
+#: data/gtk/track_dialog.ui:148
+msgid "Play Track"
+msgstr "Taronani ijro etish"
+
+#: data/gtk/track_dialog.ui:159
+msgid "Cancel Recording"
+msgstr "Yozuvni bekor qilish"
+
+#: data/gtk/track_dialog.ui:175
+msgid "Station"
+msgstr "Radiokanal"
+
+#: data/gtk/track_dialog.ui:209
+msgid "Save this track when recording is complete"
+msgstr "Yozib olish yakunlangach, bu taronani saqlang"
+
+#: data/gtk/track_dialog.ui:223
+msgid "Recording behaviour can be changed in <a href=\"\">preferences</a>"
+msgstr ""
+"Yozib olish xatti-harakatlarini <a href=\"\">afzalliklar</a> orqali "
+"oʻzgartirish mumkin"
+
+#: data/gtk/track_row.ui:20
+msgid "Saved"
+msgstr "Saqlandi"
+
+#: data/gtk/volume_control.ui:9
+msgid "Toggle Mute"
+msgstr "Ovozni oʻchirish/yoqish"
+
+#: src/app.rs:85
+msgid "Track no longer available"
+msgstr "Tarona endi mavjud emas"
+
+#: src/app.rs:109 src/app.rs:132
+msgid "This track is currently not being recorded"
+msgstr "Bu tarona hozirda yozib olinmayapti"
+
+#: src/app.rs:258
+msgid "Playing “{}”"
+msgstr "“{}” ijro etilmoqda"
+
+#: src/app.rs:353
+msgid "Active Playback"
+msgstr "Faol ijro"
+
+#: src/audio/player.rs:458
+msgid "Don't Record"
+msgstr "Yozib olinmasin"
+
+#: src/audio/recording_state.rs:54 src/audio/recording_state.rs:56
+msgid "Not Recorded"
+msgstr "Yozib olinmagan"
+
+#: src/audio/recording_state.rs:55
+msgid "Ignored Track"
+msgstr "E’tiborsiz qoldirilgan tarona"
+
+#: src/audio/recording_state.rs:58
+msgid "Recording…"
+msgstr "Yozib olinmoqda…"
+
+#: src/audio/recording_state.rs:59 src/audio/recording_state.rs:60
+msgid "Recorded"
+msgstr "Yozib olingan"
+
+#: src/audio/recording_state.rs:62
+msgid "Below Threshold"
+msgstr "Chegaradan past"
+
+#: src/audio/recording_state.rs:63
+msgid "Cancelled"
+msgstr "Bekor qilindi"
+
+#: src/audio/recording_state.rs:69
+msgid "Recording is deactivated in preferences"
+msgstr "Yozib olish afzalliklarda faolsizlantirilgan"
+
+#: src/audio/recording_state.rs:71
+msgid "The track contains a word that is on the ignore list"
+msgstr "Taronada e’tiborsiz qoldirish roʻyxatidagi soʻz mavjud"
+
+#: src/audio/recording_state.rs:74
+msgid ""
+"The track wasn't played from the beginning, so it can't be fully recorded"
+msgstr ""
+"Tarona boshidan ijro qilinmadi, shuning uchun uni toʻliq yozib olish "
+"imkonsiz"
+
+#: src/audio/recording_state.rs:77
+msgid "The track will be recorded until a new track gets played"
+msgstr "Yangi tarona ijro etilmaguncha trek yozib olinadi"
+
+#: src/audio/recording_state.rs:79
+msgid "The track has been temporarily recorded"
+msgstr "Tarona vaqtincha yozib olingan"
+
+#: src/audio/recording_state.rs:81
+msgid "The maximum recording duration has been reached"
+msgstr "Yozib olishning maksimal davomiyligiga yetildi"
+
+#: src/audio/recording_state.rs:84
+msgid ""
+"The track has been discarded as the duration was below the set threshold"
+msgstr ""
+"Tarona davomiyligi belgilangan chegaradan past boʻlgani uchun bekor qilindi"
+
+#: src/audio/recording_state.rs:86
+msgid "Recording has been cancelled"
+msgstr "Yozib olish bekor qilindi"
+
+#: src/device/device_discovery.rs:83
+msgid "Google Cast Device"
+msgstr "Google Cast qurilmasi"
+
+#: src/device/device_discovery.rs:86
+msgid "Unknown Model"
+msgstr "Noma’lum model"
+
+#: src/ui/about_dialog.rs:41
+msgid "translator-credits"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#: src/ui/about_dialog.rs:42
+msgid "Donate"
+msgstr "Xayriya qilmoq"
+
+#: src/ui/add_station_dialog.rs:94
+msgid "Select Station Cover"
+msgstr "Radiokanal muqovasini tanlang"
+
+#: src/ui/display_error.rs:50
+msgid "Show Details"
+msgstr "Tafsilotlarni koʻrsatish"
+
+#: src/ui/pages/library_page.rs:111
+msgid "Welcome to {}"
+msgstr "{}ʼga xush kelibsiz"
+
+#: src/ui/preferences_dialog.rs:139
+msgid "Select Save Directory"
+msgstr "Saqlash direktoriyasini tanlang"
+
+#: src/ui/preferences_dialog.rs:140
+msgid "_Select"
+msgstr "Tanlash"
+
+#: src/ui/preferences_dialog.rs:163
+msgid "{} min"
+msgid_plural "{} min"
+msgstr[0] "{} daqiqa"
+
+#: src/ui/preferences_dialog.rs:172
+msgid "{} sec"
+msgid_plural "{} sec"
+msgstr[0] "{} soniya"
+
+#: src/ui/station_dialog.rs:207
+msgid "{} kbit/s"
+msgstr "{} kbit/s"
+
+#: src/ui/station_dialog.rs:292
+msgid "Copied"
+msgstr "Nusxa olingan"
+
+#: src/ui/window.rs:221
+msgid "No Permission for Background Playback"
+msgstr "Orqa fonda ijro etish uchun ruxsat yoʻq"
+
+#: src/ui/window.rs:223
+msgid "“Run in Background” must be allowed for this app in system settings."
+msgstr ""
+"Bu ilova uchun tizim sozlamalarida “Orqa fonda ishlash” ruxsatini berish "
+"zarur."
+
+#: src/ui/window.rs:227
+msgid "Try Anyway"
+msgstr "Baribir urinish"
+
+#: src/ui/window.rs:228
+msgid "Disable Background Playback"
+msgstr "Orqa fonda ijro etishni oʻchirish"
+
+#: src/utils.rs:51
+msgid "{} hour"
+msgid_plural "{} hours"
+msgstr[0] "{} soat"
+
+#: src/utils.rs:57
+msgid "{} minute"
+msgid_plural "{} minutes"
+msgstr[0] "{} daqiqa"
+
+#: src/utils.rs:62
+msgid "{} second"
+msgid_plural "{} seconds"
+msgstr[0] "{} soniya"
