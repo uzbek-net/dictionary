@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-10-25 23:53+0000\n"
+"POT-Creation-Date: 2025-11-01 13:07+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -278,20 +278,20 @@ msgctxt "feedback:enabled"
 msgid "On"
 msgstr "Yoniq"
 
-#: src/location-manager.c:269
+#: src/location-manager.c:266
 #, c-format
 msgid "Allow '%s' to access your location information?"
 msgstr "“%s” ilovasiga joylashuv maʼlumotlariga kirishiga ruxsat berilsinmi?"
 
-#: src/location-manager.c:274
+#: src/location-manager.c:271
 msgid "Geolocation"
 msgstr "Geolokatsiya"
 
-#: src/location-manager.c:275
+#: src/location-manager.c:272
 msgid "Yes"
 msgstr "Xa"
 
-#: src/location-manager.c:275
+#: src/location-manager.c:272
 msgid "No"
 msgstr "Yoʻq"
 
@@ -333,12 +333,12 @@ msgid "Screenshot from %s%s.png"
 msgstr "%s%s.png dan skrinshot"
 
 #. Translators: Used when the title of a song is unknown
-#: src/media-player.c:646 src/ui/media-player.ui:208
+#: src/media-player.c:649 src/ui/media-player.ui:208
 msgid "Unknown Title"
 msgstr "Noma'lum sarlavha"
 
 #. Translators: Used when the artist of a song is unknown
-#: src/media-player.c:654 src/ui/media-player.ui:196
+#: src/media-player.c:657 src/ui/media-player.ui:196
 msgid "Unknown Artist"
 msgstr "Noma'lum rassom"
 
@@ -384,7 +384,7 @@ msgstr "Oching"
 #. We don't just set the app_info but name and icon separately to
 #. * not overwrite values set by the caller
 #: src/notifications/notification.c:422 src/notifications/notification.c:695
-#: src/notifications/notify-manager.c:1012
+#: src/notifications/notify-manager.c:1009
 msgid "Notification"
 msgstr "Bildirishnoma ovozi"
 
@@ -596,6 +596,16 @@ msgstr "Kiritish qurilmalari yoʻq"
 msgid "Sound Settings"
 msgstr "Ovoz sozlamalari"
 
+#: src/ui/brightness-settings.ui:87
+msgid "Automatic Screen Brightness"
+msgstr ""
+
+#: src/ui/brightness-settings.ui:114
+#, fuzzy
+#| msgid "Sound Settings"
+msgid "Brightness Settings"
+msgstr "Ovoz sozlamalari"
+
 #: src/ui/bt-status-page.ui:39
 msgid "Enable Bluetooth"
 msgstr "Bluetooth-ni yoqing"
@@ -710,15 +720,15 @@ msgstr "Favqulodda holat"
 msgid "Run Command"
 msgstr "Buyruqni ishga tushirish"
 
-#: src/ui/settings.ui:138
+#: src/ui/settings.ui:121
 msgid "No notifications"
 msgstr "Hech qanday bildirishnoma yoʻq"
 
-#: src/ui/settings.ui:167
+#: src/ui/settings.ui:150
 msgid "Notifications"
 msgstr "_Bildirishnomalar"
 
-#: src/ui/settings.ui:176
+#: src/ui/settings.ui:159
 msgid "Clear all"
 msgstr "Hammasini tozalang"
 
@@ -800,19 +810,27 @@ msgstr "Uyali"
 
 #. Translators: Phosh prevents the session from going idle because the
 #. caffeine quick setting is toggled
-#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:50
+#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:68
 msgid "Phosh on caffeine"
 msgstr "Kofein haqida Phosh"
 
-#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:129
+#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:226
+msgctxt "caffeine-disabled"
+msgid "Off"
+msgstr "Oʻchirilgan"
+
+#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:231
 msgctxt "caffeine-enabled"
 msgid "On"
 msgstr "Yoniq"
 
-#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:129
-msgctxt "caffeine-disabled"
-msgid "Off"
-msgstr "Oʻchirilgan"
+#: plugins/caffeine-quick-setting/qs.ui:15
+msgid "Caffeine timers"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/qs.ui:37
+msgid "No caffeine intervals"
+msgstr ""
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.c:34
 msgid "Default style"

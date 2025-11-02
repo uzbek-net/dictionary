@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2025-10-22 06:53+0000\n"
+"POT-Creation-Date: 2025-11-01 20:27+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -159,18 +159,22 @@ msgid "Notification Volume"
 msgstr ""
 
 #: src/ms-audio-devices.c:182
-msgid "Ring Tone Volume"
+msgid "Voice Call Volume"
 msgstr ""
 
 #: src/ms-audio-devices.c:184
-msgid "Call volume"
+msgid "Ring Tone Volume"
 msgstr ""
 
 #: src/ms-audio-devices.c:186
-msgid "Alarm Volume"
+msgid "Call volume"
 msgstr ""
 
 #: src/ms-audio-devices.c:188
+msgid "Alarm Volume"
+msgstr ""
+
+#: src/ms-audio-devices.c:190
 #, fuzzy
 #| msgid "Emergency Calls"
 msgid "Emergency Alerts Volume"
@@ -180,45 +184,45 @@ msgstr "Favqulodda qoʻngʻiroqlar"
 msgid "Message of unknown severity"
 msgstr ""
 
-#: src/ms-feedback-panel.c:212
+#: src/ms-feedback-panel.c:215
 msgid "Sound file does not exist"
 msgstr "Ovoz fayli mavjud emas"
 
-#: src/ms-feedback-panel.c:214
+#: src/ms-feedback-panel.c:217
 msgid "Sound file is corrupt"
 msgstr "Ovoz fayli buzilgan"
 
-#: src/ms-feedback-panel.c:216
+#: src/ms-feedback-panel.c:219
 msgid "Failed to play sound"
 msgstr "Ovoz ijro qilinmadi"
 
-#: src/ms-feedback-panel.c:255
+#: src/ms-feedback-panel.c:258
 #, c-format
 msgid "Playing %s"
 msgstr "%s ijro etilmoqda"
 
 #. Translators: "low" categorizes notifications with minor importance
-#: src/ms-feedback-panel.c:416
+#: src/ms-feedback-panel.c:419
 msgid "low"
 msgstr "past"
 
 #. Translators: "normal" categorizes notifications with standard importance
-#: src/ms-feedback-panel.c:419
+#: src/ms-feedback-panel.c:422
 msgid "normal"
 msgstr "normal"
 
 #. Translators: "critical" categorizes notifications with urgent importance
-#: src/ms-feedback-panel.c:422
+#: src/ms-feedback-panel.c:425
 msgid "critical"
 msgstr "juda muhim xato"
 
 #. Translators: "none" is the default for notifications with no specified
 #. importance
-#: src/ms-feedback-panel.c:426
+#: src/ms-feedback-panel.c:429
 msgid "none"
 msgstr "mavjud emas"
 
-#: src/ms-feedback-panel.c:806
+#: src/ms-feedback-panel.c:813
 #, fuzzy
 #| msgid "Mobile Settings"
 msgid "Mobile Settings Volume Control"
@@ -776,83 +780,83 @@ msgstr "Telefon qoʻngʻiroqlari"
 msgid "SMS"
 msgstr "SMS"
 
-#: src/ui/ms-feedback-panel.ui:114
-msgid "Instant messages"
-msgstr "Tezkor xabarlar"
-
-#: src/ui/ms-feedback-panel.ui:125
-msgid "Screen Wakeup"
-msgstr "Ekranni uygʻotish"
-
-#: src/ui/ms-feedback-panel.ui:128
-msgid "Notification urgency that lights up the screen"
-msgstr "Ekranni yoritib yuboradigan shoshilinch bildirishnoma"
-
-#: src/ui/ms-feedback-panel.ui:146
-msgid ""
-"Notification categories that wake up the screen independent from their "
-"urgency"
-msgstr ""
-
-#: src/ui/ms-feedback-panel.ui:149
-#, fuzzy
-#| msgid "Phone Calls"
-msgid "Calls"
-msgstr "Telefon qoʻngʻiroqlari"
-
-#: src/ui/ms-feedback-panel.ui:150
-msgid "A generic audio or video call notification"
-msgstr ""
-
-#: src/ui/ms-feedback-panel.ui:156
-#, fuzzy
-#| msgid "Device"
-msgid "Device events"
-msgstr "Qurilma"
-
-#: src/ui/ms-feedback-panel.ui:157
-msgid "A generic device-related notification"
-msgstr ""
-
-#: src/ui/ms-feedback-panel.ui:163
-msgid "Emails"
-msgstr ""
-
-#: src/ui/ms-feedback-panel.ui:164
-msgid "A generic e-mail-related notification"
-msgstr ""
-
-#: src/ui/ms-feedback-panel.ui:170
+#: src/ui/ms-feedback-panel.ui:114 src/ui/ms-feedback-panel.ui:177
 #, fuzzy
 #| msgid "Instant messages"
 msgid "Instant Messages"
 msgstr "Tezkor xabarlar"
 
-#: src/ui/ms-feedback-panel.ui:171
-msgid "A generic instant message-related notification"
+#: src/ui/ms-feedback-panel.ui:121
+msgid "Alarm Clock"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:177
-msgid "Network events"
+#: src/ui/ms-feedback-panel.ui:132
+msgid "Screen Wakeup"
+msgstr "Ekranni uygʻotish"
+
+#: src/ui/ms-feedback-panel.ui:135
+msgid "Notification urgency that lights up the screen"
+msgstr "Ekranni yoritib yuboradigan shoshilinch bildirishnoma"
+
+#: src/ui/ms-feedback-panel.ui:153
+msgid ""
+"Notification categories that wake up the screen independent from their "
+"urgency"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:156
+#, fuzzy
+#| msgid "Phone Calls"
+msgid "Calls"
+msgstr "Telefon qoʻngʻiroqlari"
+
+#: src/ui/ms-feedback-panel.ui:157
+msgid "A generic audio or video call notification"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:163
+#, fuzzy
+#| msgid "Device"
+msgid "Device events"
+msgstr "Qurilma"
+
+#: src/ui/ms-feedback-panel.ui:164
+msgid "A generic device-related notification"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:170
+msgid "Emails"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:171
+msgid "A generic e-mail-related notification"
 msgstr ""
 
 #: src/ui/ms-feedback-panel.ui:178
-msgid "A generic network notification"
+msgid "A generic instant message-related notification"
 msgstr ""
 
 #: src/ui/ms-feedback-panel.ui:184
-msgid "Presence changes"
+msgid "Network events"
 msgstr ""
 
 #: src/ui/ms-feedback-panel.ui:185
-msgid "A generic presence change notification"
+msgid "A generic network notification"
 msgstr ""
 
 #: src/ui/ms-feedback-panel.ui:191
-msgid "File transfers"
+msgid "Presence changes"
 msgstr ""
 
 #: src/ui/ms-feedback-panel.ui:192
+msgid "A generic presence change notification"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:198
+msgid "File transfers"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:199
 msgid "A generic file transfer or download notification"
 msgstr ""
 
@@ -979,15 +983,15 @@ msgstr "Tartiblar"
 msgid "No Layouts configured"
 msgstr "Hech qanday tartib sozlanmagan"
 
-#: src/ui/ms-osk-layout-row.ui:26 src/ui/ms-plugin-row.ui:41
+#: src/ui/ms-osk-layout-row.ui:26 src/ui/ms-plugin-row.ui:47
 msgid "More options…"
 msgstr "Boshqa variantlar…"
 
-#: src/ui/ms-osk-layout-row.ui:39 src/ui/ms-plugin-row.ui:54
+#: src/ui/ms-osk-layout-row.ui:39 src/ui/ms-plugin-row.ui:60
 msgid "Move Up"
 msgstr "Yuqoriga siljitish"
 
-#: src/ui/ms-osk-layout-row.ui:43 src/ui/ms-plugin-row.ui:58
+#: src/ui/ms-osk-layout-row.ui:43 src/ui/ms-plugin-row.ui:64
 msgid "Move Down"
 msgstr "Pastga siljiting"
 

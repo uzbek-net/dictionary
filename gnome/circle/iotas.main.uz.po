@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2025-10-25 13:45+0000\n"
+"POT-Creation-Date: 2025-11-01 21:41+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -237,23 +237,23 @@ msgstr ""
 "Baxrom Raxmatov"
 
 #. Translators: Button
-#: data/ui/category_header_bar.ui:15 data/ui/editor_rename_header_bar.ui:17
+#: data/ui/category_header_bar.ui:16 data/ui/editor_rename_header_bar.ui:18
 msgid "Revert Changes"
 msgstr "Oʻzgarishlarni bekor qilish"
 
 #. Translators: Button tooltip
-#: data/ui/category_header_bar.ui:42 data/ui/editor_rename_header_bar.ui:40
+#: data/ui/category_header_bar.ui:43 data/ui/editor_rename_header_bar.ui:41
 msgid "Apply Changes"
 msgstr "Oʻzgarishlarni qoʻllash"
 
 #. Translators: Button
-#: data/ui/category_header_bar.ui:44 data/ui/editor_rename_header_bar.ui:42
+#: data/ui/category_header_bar.ui:45 data/ui/editor_rename_header_bar.ui:43
 #: iotas/link_dialog.py:52
 msgid "Apply"
 msgstr "Qoʻllash"
 
 #. Translators: Button
-#: data/ui/category_header_bar.ui:58
+#: data/ui/category_header_bar.ui:59
 msgid "Clear and Apply"
 msgstr "Tozalash va qoʻllash"
 
@@ -263,35 +263,35 @@ msgid "Find"
 msgstr "Toping"
 
 #. Translators: Button
-#: data/ui/editor_search_header_bar.ui:16
+#: data/ui/editor_search_header_bar.ui:17
 #: data/ui/index_search_header_bar.ui:12
-#: data/ui/render_search_header_bar.ui:15 data/ui/selection_header_bar.ui:17
+#: data/ui/render_search_header_bar.ui:16 data/ui/selection_header_bar.ui:17
 msgid "Back"
 msgstr "Ortga qaytish"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
 #. Translators: Button tooltip
-#: data/ui/editor_search_header_bar.ui:43
+#: data/ui/editor_search_header_bar.ui:44
 #: data/ui/keyboard_shortcuts_dialog.ui:289
-#: data/ui/render_search_header_bar.ui:36
+#: data/ui/render_search_header_bar.ui:37
 msgid "Previous Match"
 msgstr "Oldingi moslik"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
 #. Translators: Button tooltip
-#: data/ui/editor_search_header_bar.ui:51
+#: data/ui/editor_search_header_bar.ui:52
 #: data/ui/keyboard_shortcuts_dialog.ui:282
-#: data/ui/render_search_header_bar.ui:44
+#: data/ui/render_search_header_bar.ui:45
 msgid "Next Match"
 msgstr "Keyingi moslik"
 
 #. Translators: Placeholder text
 #. Translators: Button
 #. Translators: Description, keyboard shortcut
-#: data/ui/editor_search_header_bar.ui:73
-#: data/ui/editor_search_header_bar.ui:82
+#: data/ui/editor_search_header_bar.ui:74
+#: data/ui/editor_search_header_bar.ui:83
 #: data/ui/keyboard_shortcuts_dialog.ui:275
 msgid "Replace"
 msgstr "Almashtiring"
@@ -333,33 +333,33 @@ msgid "Export…"
 msgstr "Eksport…"
 
 #. Translators: Button
-#: data/ui/editor.ui:88
+#: data/ui/editor.ui:89
 msgid "Back to Notes"
 msgstr "Qaydlarga qaytish"
 
 #. Translators: Description, tooltip
-#: data/ui/editor.ui:124
+#: data/ui/editor.ui:125
 msgid "Note is Read-Only"
 msgstr "Qayd faqat oʻqish uchun"
 
 #. Translators: Button
-#: data/ui/editor.ui:134
+#: data/ui/editor.ui:135
 msgid "Editor Menu"
 msgstr "Tahrirchi menyusi"
 
 #. Translators: Button
 #. Translators: Description, keyboard shortcut
-#: data/ui/editor.ui:142 data/ui/keyboard_shortcuts_dialog.ui:95
+#: data/ui/editor.ui:143 data/ui/keyboard_shortcuts_dialog.ui:95
 msgid "Toggle Markdown Render"
 msgstr "Markdaun renderini yoqish/oʻchirish"
 
 #. Translators: Button
-#: data/ui/editor.ui:150
+#: data/ui/editor.ui:151
 msgid "Edit Note"
 msgstr "Qaydni tahrirlash"
 
 #. Translators: Description, help
-#: data/ui/editor.ui:285
+#: data/ui/editor.ui:286
 msgid "Render Engine Loading"
 msgstr "Qaydni tahrirlash"
 
@@ -1327,17 +1327,17 @@ msgid "Uncategorised"
 msgstr "Toifalanmagan"
 
 #. Translators: Description, notification, {0} is a number
-#: iotas/editor.py:993
+#: iotas/editor.py:983
 #, python-brace-format
 msgid "Line length now {0}px"
 msgstr "Qator uzunligi endi {0}px"
 
 #. Translators: Description, notification
-#: iotas/editor.py:999
+#: iotas/editor.py:989
 msgid "Line length limit disabled"
 msgstr "Qator uzunligi cheklovi oʻchirilgan"
 
-#: iotas/editor.py:1579
+#: iotas/editor.py:1590
 msgid "Opening link in browser"
 msgstr "Havola brauzerda ochilmoqda"
 
@@ -1363,35 +1363,20 @@ msgstr "{}ʼga eksport qilish muvaffaqiyatsiz yakunlandi"
 msgid "Transfer Failed"
 msgstr "Oʻtkazma amalga oshmadi"
 
-#. Translators: Description, notification, {} is a positive number
-#: iotas/index.py:205
-msgid "{} notes deleted"
-msgstr "{} ta qayd oʻchirib tashlandi"
-
 #. Translators: Description, notification
-#: iotas/index.py:208
-msgid "Note deleted"
-msgstr "Qayd oʻchirildi"
-
-#. Translators: Button
-#: iotas/index.py:213
-msgid "Undo"
-msgstr "Bekor qilish"
-
-#. Translators: Description, notification
-#: iotas/index.py:251
+#: iotas/index.py:230
 msgid "Sync conflict with note being edited"
 msgstr "Tahrirlanayotgan qayd bilan sinxronlash ziddiyati"
 
 #. Translators: Description, notification
-#: iotas/index.py:258
+#: iotas/index.py:237
 msgid "The note being edited was remotely deleted"
 msgstr "Tahrirlanayotgan qayd masofadan oʻchirildi"
 
 #. Translators: Description, notification. "Secret Service" and "gnome-
 #. keyring" should
 #. likely not be translated.
-#: iotas/index.py:266
+#: iotas/index.py:245
 msgid ""
 "Failure accessing Secret Service. Ensure you have a provider like gnome-"
 "keyring which has a default keyring setup that is unlocked."
@@ -1404,18 +1389,18 @@ msgstr ""
 #. least.
 #. TODO in future look at replacing this with a (debug only) spinner.
 #. Translators: Description, notification
-#: iotas/index.py:500
+#: iotas/index.py:483
 msgid "Syncing"
 msgstr "Sinxronlash"
 
 #. Translators: Description, notification, {} is a number
-#: iotas/index.py:519
+#: iotas/index.py:502
 msgid "{} change"
 msgid_plural "{} changes"
 msgstr[0] "{} ta o‘zgarish"
 
 #. Translators: Description, notification
-#: iotas/index.py:535
+#: iotas/index.py:518
 msgid "Sync failure. Is the Nextcloud Notes app installed on the server?"
 msgstr ""
 "Sinxronlash amalga oshmadi. Nextcloud qaydlar ilovasi serverga "
@@ -1423,9 +1408,24 @@ msgstr ""
 
 #. Somewhat clunky misuse of toast to replace previous revealer notification
 #. Translators: Description, notification
-#: iotas/index.py:632
+#: iotas/index.py:614
 msgid "Loading"
 msgstr "Yuklanmoqda"
+
+#. Translators: Description, notification, {} is a positive number
+#: iotas/index.py:660
+msgid "{} notes deleted"
+msgstr "{} ta qayd oʻchirib tashlandi"
+
+#. Translators: Description, notification
+#: iotas/index.py:663
+msgid "Note deleted"
+msgstr "Qayd oʻchirildi"
+
+#. Translators: Button
+#: iotas/index.py:668
+msgid "Undo"
+msgstr "Bekor qilish"
 
 #. Translators: Title
 #: iotas/link_dialog.py:45

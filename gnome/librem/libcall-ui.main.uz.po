@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libcall-ui main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/libcall-ui/issues/\n"
-"POT-Creation-Date: 2025-10-11 00:35+0000\n"
+"POT-Creation-Date: 2025-10-29 22:15+0000\n"
 "PO-Revision-Date: 2025-04-04 22:32+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -37,7 +37,7 @@ msgstr "Kiruvchi qoʻngʻiroq"
 msgid "Call ended"
 msgstr "Qoʻngʻiroq tugadi"
 
-#: src/cui-call.c:347 src/cui-call.c:367 src/cui-call-display.c:288
+#: src/cui-call.c:347 src/cui-call.c:367 src/cui-call-display.c:296
 msgid "Unknown"
 msgstr "Nomaʼlum"
 

@@ -7,204 +7,209 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2025-10-15 07:36+0000\n"
-"PO-Revision-Date: 2019-01-13 16:10+0000\n"
-"Last-Translator: Michael Terry <mike@mterry.name>\n"
+"POT-Creation-Date: 2025-10-28 23:21+0000\n"
+"PO-Revision-Date: 2025-10-28 18:50+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Launchpad (build 1cbd0aa39df153c901321817f9b57cf3f232b507)\n"
+"X-DamnedLies-Scope: partial\n"
+"X-Generator: Poedit 3.5\n"
 "X-Launchpad-Export-Date: 2020-06-23 06:15+0000\n"
 
 #: app/Background.vala:79
 msgid "Cannot back up automatically"
-msgstr ""
+msgstr "Avtomatik zaxira nusxasini yaratib boʻlmaydi"
 
 #: app/BrowserPage.vala:130
 msgctxt "noun"
 msgid "Search"
-msgstr ""
+msgstr "Qidiruv"
 
 #: app/BrowserPage.vala:134 data/ui/Browser.blp:25 data/ui/Browser.blp:69
 msgid "Files"
-msgstr ""
+msgstr "Fayllar"
 
 #: app/ConfigAutoBackupRow.vala:22
 msgid "Back Up _Automatically"
-msgstr ""
+msgstr "Avtomatik ravishda zaxiralash"
 
 #. Translators: this is used when automatic updates are enabled
 #: app/ConfigAutoBackupRow.vala:46
 msgid "Next backup is today"
-msgstr ""
+msgstr "Keyingi zaxiralash bugun"
 
 #. Translators: this is used when automatic updates are disabled
 #: app/ConfigAutoBackupRow.vala:48
 msgid "Next backup would be today"
-msgstr ""
+msgstr "Keyingi zaxiralash bugun boʻlar edi"
 
 #. Translators: this is used when automatic updates are enabled
 #: app/ConfigAutoBackupRow.vala:55
 msgid "Next backup is tomorrow"
-msgstr ""
+msgstr "Keyingi zaxiralash ertaga"
 
 #. Translators: this is used when automatic updates are disabled
 #: app/ConfigAutoBackupRow.vala:57
 msgid "Next backup would be tomorrow"
-msgstr ""
+msgstr "Keyingi zaxiralash ertaga boʻladi"
 
 #. Translators: this is used when automatic updates are enabled
 #: app/ConfigAutoBackupRow.vala:65
 #, c-format
 msgid "Next backup is %d day from now"
 msgid_plural "Next backup is %d days from now"
-msgstr[0] ""
+msgstr[0] "Keyingi zaxiralash bugundan boshlab %d kundan keyin"
 
 #. Translators: this is used when automatic updates are disabled
 #: app/ConfigAutoBackupRow.vala:70
 #, c-format
 msgid "Next backup would be %d day from now"
 msgid_plural "Next backup would be %d days from now"
-msgstr[0] ""
+msgstr[0] "Keyingi zaxiralash bugundan boshlab %d kundan keyin boʻladi"
 
 #: app/ConfigDeleteRow.vala:12
 msgid "At least three months"
-msgstr ""
+msgstr "Kamida uch oy"
 
 #: app/ConfigDeleteRow.vala:13
 msgid "At least six months"
-msgstr ""
+msgstr "Kamida olti oy"
 
 #: app/ConfigDeleteRow.vala:14
 msgid "At least a year"
-msgstr ""
+msgstr "Kamida bir yil"
 
 #: app/ConfigDeleteRow.vala:15
 msgid "Forever"
-msgstr ""
+msgstr "Abadiy"
 
 #: app/ConfigDeleteRow.vala:22
 #, c-format
 msgid "At least %d day"
 msgid_plural "At least %d days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Kamida %d kun"
 
 #: app/ConfigFolderPage.vala:21
 msgid "Reset All Folders?"
-msgstr ""
+msgstr "Hamma jildlarni qayta tiklash?"
 
 #: app/ConfigFolderPage.vala:22
 msgid "All changes to backed up and ignored folders will be lost."
 msgstr ""
+"Zaxiralangan va eʻtiborsiz qoldirilgan jildlardagi barcha oʻzgarishlar "
+"oʻchib ketadi."
 
 #: app/ConfigFolderPage.vala:24 app/OperationWrapper.vala:381
 #: data/ui/ActionDialog.blp:22 data/ui/PassphraseDialog.blp:53
 msgid "_Cancel"
-msgstr ""
+msgstr "Bekor qilish"
 
 #: app/ConfigFolderPage.vala:25
 msgid "Rese_t"
-msgstr ""
+msgstr "Qayta tiklash"
 
 #. Keep this list of rules in sync with OperationBackup's
 #. filter on include/excludes.
 #: app/ConfigFolderRow.vala:39
 msgid "This folder cannot be backed up because it is a network folder."
-msgstr ""
+msgstr "Bu jild tarmoq jildi boʻlgani uchun uni zaxiralash imkonsiz."
 
 #: app/ConfigFolderRow.vala:42
 msgid ""
 "This folder cannot be backed up because Backups does not have access to it."
 msgstr ""
+"Bu jildni zaxiralab boʻlmaydi, chunki zaxiralar unga kirish huquqiga ega "
+"emas."
 
 #. *** Basic entries ***
 #: app/ConfigLocationRow.vala:53 libdeja/BackendGoogle.vala:74
 msgid "Google Drive"
-msgstr ""
+msgstr "Google Drive"
 
 #: app/ConfigLocationRow.vala:55 libdeja/BackendMicrosoft.vala:70
 msgid "Microsoft OneDrive"
-msgstr ""
+msgstr "Microsoft OneDrive"
 
 #: app/ConfigLocationRow.vala:57 libdeja/BackendRclone.vala:66
 msgid "Rclone"
-msgstr ""
+msgstr "Rclone"
 
 #: app/ConfigLocationRow.vala:59
 msgid "Local Folder"
-msgstr ""
+msgstr "Mahalliy jild"
 
 #: app/ConfigLocationRow.vala:61
 msgid "Network Server"
-msgstr ""
+msgstr "Tarmoq Serveri"
 
 #. *** Old deprecated cloud entries, kept just for a kinder migration ***
 #: app/ConfigLocationRow.vala:66
 msgid "Google Cloud Storage"
-msgstr ""
+msgstr "Google Cloud xotirasi"
 
 #: app/ConfigLocationRow.vala:68
 msgid "OpenStack Swift"
-msgstr ""
+msgstr "OpenStack Swift"
 
 #: app/ConfigLocationRow.vala:70
 msgid "Rackspace Cloud Files"
-msgstr ""
+msgstr "Rackspace Cloud fayllari"
 
 #: app/ConfigLocationRow.vala:72
 msgid "Amazon S3"
-msgstr ""
+msgstr "Amazon S3"
 
 #: app/ConfigPeriodRow.vala:19
 msgid "Daily"
-msgstr ""
+msgstr "Kunlik"
 
 #: app/ConfigPeriodRow.vala:22
 msgid "Weekly"
-msgstr ""
+msgstr "Haftalik"
 
 #: app/ConfigPeriodRow.vala:29
 #, c-format
 msgid "Every %d day"
 msgid_plural "Every %d days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Har %d kun"
 
 #: app/ConfigResticRow.vala:12
 msgid "Use _Restic for new backups"
-msgstr ""
+msgstr "Yangi zaxiralar uchun Restic ishlating"
 
 #: app/FileStore.vala:193
 msgid "File"
-msgstr ""
+msgstr "Jild"
 
 #: app/FileStore.vala:195
 msgid "Link"
-msgstr ""
+msgstr "Havola"
 
 #: app/FileStore.vala:197
 msgid "Folder"
-msgstr ""
+msgstr "Jild"
 
 #: app/FolderChooserButton.vala:21
 msgid "Choose Folder"
-msgstr ""
+msgstr "Jildni tanlang"
 
 #: app/Notifications.vala:24
 msgid "Starting scheduled backup"
-msgstr ""
+msgstr "Rejalashtirilgan zaxiralash boshlanmoqda"
 
 #: app/Notifications.vala:29
 msgid "Scheduled backup delayed"
-msgstr ""
+msgstr "Rejalashtirilgan zaxiralash kechiktirildi"
 
 #: app/Notifications.vala:60
 msgid "Keep your files safe by backing up regularly"
 msgstr ""
+"Doimiy ravishda zaxira nusxasini yaratish orqali fayllaringizni xavfsiz "
+"saqlang"
 
 #: app/Notifications.vala:61
 msgid ""
@@ -212,137 +217,142 @@ msgid ""
 "a backup. In the case of a disaster, you would be able to recover them from "
 "that backup."
 msgstr ""
+"Muhim hujjatlar, maʼlumotlar va sozlamalar ularni zaxirada saqlash orqali "
+"himoyalanishi mumkin. Agar falokat yuz bergan boʻlsa, siz ularni zaxiradan "
+"tiklashingiz mumkin."
 
 #: app/Notifications.vala:66
 msgid "Don’t Show Again"
-msgstr ""
+msgstr "Qayta koʻrsatma"
 
 #: app/Notifications.vala:67
 msgid "Open Backups"
-msgstr ""
+msgstr "Zaxiralarni ochish"
 
 #: app/OperationLauncher.vala:60
 msgid "Failed to start backup; there's already an ongoing operation"
 msgstr ""
+"Zaxirani ishga tushirib boʻlmadi; allaqachon davom etayotgan operatsiya bor"
 
 #: app/OperationLauncher.vala:82
 msgid "Failed to restore; there's already an ongoing operation"
-msgstr ""
+msgstr "Tiklanmadi; allaqachon davom etayotgan operatsiya bor"
 
 #: app/OperationLauncher.vala:101 app/OperationLauncher.vala:118
 msgid "There's already an ongoing operation"
-msgstr ""
+msgstr "Allaqachon davom etayotgan operatsiya bor"
 
 #: app/OperationLauncher.vala:212
 msgid "Failed to Open URL"
-msgstr ""
+msgstr "URL ochilmadi"
 
 #: app/OperationLauncher.vala:261 app/OperationWrapper.vala:189
 msgid "Backup completed"
-msgstr ""
+msgstr "Zaxiralash tugatildi"
 
 #: app/OperationLauncher.vala:263
 msgid "But not all files were successfully backed up"
-msgstr ""
+msgstr "Ammo hamma fayllar ham muvaffaqiyatli zaxiralanmadi"
 
 #: app/OperationLauncher.vala:266 app/OperationWrapper.vala:191
 msgid "Restore completed"
-msgstr ""
+msgstr "Qayta tiklash yakunlandi"
 
 #: app/OperationLauncher.vala:268
 msgid "But not all files were successfully restored"
-msgstr ""
+msgstr "Ammo hamma fayllar ham muvaffaqiyatli tiklanmadi"
 
 #: app/OperationLauncher.vala:284
-#, fuzzy
-#| msgid "Backup Monitor"
 msgid "Backup in progress"
-msgstr "Заҳира олиш кундалиги"
+msgstr "Zaxira jarayoni davom etmoqda"
 
 #: app/OperationLauncher.vala:295
 msgid "Restore in progress"
-msgstr ""
+msgstr "Tiklash jarayoni davom etmoqda"
 
 #. Note: keep this language in sync with notification sent from
 #. OperationLauncher
 #: app/OperationWrapper.vala:172
 msgid "Backup completed, but not all files were successfully backed up"
 msgstr ""
+"Zaxiralash yakunlandi, lekin hamma fayllar ham muvaffaqiyatli zaxiralanmadi"
 
 #: app/OperationWrapper.vala:174
 msgid "Restore completed, but not all files were successfully restored"
-msgstr ""
+msgstr "Tiklash yakunlandi, lekin hamma fayllar ham muvaffaqiyatli tiklanmadi"
 
 #: app/OperationWrapper.vala:176 app/OperationWrapper.vala:247
 #: app/OperationWrapper.vala:294 app/OperationWrapper.vala:377
 msgid "_Details"
-msgstr ""
+msgstr "Tafsilotlar"
 
 #: app/OperationWrapper.vala:179 app/OperationWrapper.vala:252
 msgid "_Close"
-msgstr ""
+msgstr "Yopish"
 
 #: app/OperationWrapper.vala:214
 msgid "_Pause"
-msgstr ""
+msgstr "Pauza"
 
 #: app/OperationWrapper.vala:216
 msgid "_Stop"
-msgstr ""
+msgstr "Toʻxtatish"
 
 #: app/OperationWrapper.vala:238
 msgid "Failed to back up"
-msgstr ""
+msgstr "Zaxiralash amalga oshmadi"
 
 #: app/OperationWrapper.vala:243
 msgid "Failed to list files"
-msgstr ""
+msgstr "Fayllar roʻyxati tuzilmadi"
 
 #: app/OperationWrapper.vala:245
 msgid "Failed to restore"
-msgstr ""
+msgstr "Qayta tiklash amalga oshmadi"
 
 #: app/OperationWrapper.vala:265
 msgid "E_ncryption password"
-msgstr ""
+msgstr "Maxfiy kalitni shifrlash"
 
 #: app/OperationWrapper.vala:284 app/OperationWrapper.vala:339
 msgid "_Enter Password…"
-msgstr ""
+msgstr "Maxfiy kalitni kiriting…"
 
 #: app/OperationWrapper.vala:288
 msgid "Wrong encryption password, try again"
-msgstr ""
+msgstr "Maxfiy kalit notoʻgʻri shifrlandi, qayta urining"
 
 #: app/OperationWrapper.vala:289
 msgid "Wrong Encryption Password"
-msgstr ""
+msgstr "Notoʻgʻri shifrlanish maxfiy soʻzi"
 
 #: app/OperationWrapper.vala:290
 msgid "Try again."
-msgstr ""
+msgstr "Qayta urinib koʻring."
 
 #: app/OperationWrapper.vala:293
 msgid "Encryption setup needed"
-msgstr ""
+msgstr "Shifrlashni sozlash zarur"
 
 #: app/OperationWrapper.vala:295
 msgid "Require Password?"
-msgstr ""
+msgstr "Maxfiy soʻzni talab qilish?"
 
 #: app/OperationWrapper.vala:296
 msgid ""
 "You will need your password to restore your files. You might want to write "
 "it down."
 msgstr ""
+"Fayllarni tiklash uchun maxfiy soʻz kerak boʻladi. Balki yozib "
+"olmoqchidirsiz."
 
 #: app/OperationWrapper.vala:299
 msgid "Encryption password needed"
-msgstr ""
+msgstr "Shifrlanish maxfiy soʻzi kerak"
 
 #: app/OperationWrapper.vala:300
 msgid "Encryption Password Needed"
-msgstr ""
+msgstr "Shifrlanish maxfiy soʻzi kerak"
 
 #: app/OperationWrapper.vala:305
 msgid ""
@@ -350,93 +360,91 @@ msgid ""
 "of an emergency, please enter your encryption password again to perform a "
 "brief restore test."
 msgstr ""
+"Favqulodda holatlarda fayllarni tiklay olishingizni tekshirish uchun iltimos"
+" qisqa tiklash testini olib borgani shifrlash maxfiy soʻzingizni qayta "
+"kiriting."
 
 #: app/OperationWrapper.vala:319
 msgid "Enter Password"
-msgstr ""
+msgstr "Maxfiy soʻzni kiriting"
 
 #: app/OperationWrapper.vala:355
 msgid "Authentication needed"
-msgstr ""
+msgstr "Tasdiqlash talab etiladi"
 
 #: app/OperationWrapper.vala:356
 msgid "_Connect…"
-msgstr ""
+msgstr "Ulanish…"
 
 #: app/OperationWrapper.vala:382
 msgid "Co_ntinue"
-msgstr ""
+msgstr "Davom etish"
 
 #: app/OverviewPage.vala:106
 msgid "Automatic backups disabled"
-msgstr ""
+msgstr "Avtomatik ravishda zaxiralash oʻchirilgan"
 
 #: app/OverviewPage.vala:128
 msgid "None"
-msgstr ""
+msgstr "Hech narsa"
 
 #. Check for some really simple/common friendly names
 #: app/RecentBackupRow.vala:53
 msgid "Today"
-msgstr ""
+msgstr "Bugun"
 
 #: app/RecentBackupRow.vala:55
 msgid "Yesterday"
-msgstr ""
+msgstr "Kecha"
 
 #. Translators: sentence case
 #: app/RecentBackupRow.vala:64
 #, c-format
 msgid "%d day ago"
 msgid_plural "%d days ago"
-msgstr[0] ""
+msgstr[0] "%d kun oldin"
 
 #. Translators: this is used like "Most Recent Backup: None"
 #: app/RecentBackupRow.vala:82
 msgctxt "backups"
 msgid "None"
-msgstr ""
+msgstr "Hech narsa"
 
 #: app/SavePasswordRow.vala:14
 msgid "_Remember password"
-msgstr ""
+msgstr "Maxfiy soʻzni eslab qolish"
 
 #: app/SavePasswordRow.vala:33
 msgid "Cannot remember password"
-msgstr ""
+msgstr "Maxfiy soʻzni eslay olmadi"
 
 #: app/SavePasswordRow.vala:34
 msgid "Your desktop session does not support saving passwords."
-msgstr ""
+msgstr "Desktop seansingiz parollarni saqlashni quvvatlamaydi."
 
 #: app/SnapshotsPage.vala:136
 msgid "Try closing any open file manager windows and trying again."
-msgstr ""
+msgstr "Ochiq fayl boshqaruvchisi oynalarini yopib, qaytadan urinib koʻring."
 
 #: app/SnapshotsPage.vala:140
 msgid "Failed to Open Backup"
-msgstr ""
+msgstr "Zaxiralashni ochib boʻlmadi"
 
 #: app/WidgetUtils.vala:14
 msgid "_OK"
-msgstr ""
+msgstr "Hop"
 
 #: app/main.vala:15 monitor/monitor.vala:19
 msgid "Show version"
-msgstr ""
+msgstr "Versiyani koʻsatish"
 
 #: app/main.vala:16
 msgid "Immediately start a backup"
-msgstr ""
+msgstr "Darhol zaxiralashni boshlash"
 
 #: app/main.vala:307
 msgid "translator-credits"
-msgstr ""
-"Launchpad Contributions:\n"
-"  Falonchi aka https://launchpad.net/~falonchi\n"
-"  Maqsudjon Mamarasulov https://launchpad.net/~maqsudjon\n"
-"  Michael Terry https://launchpad.net/~mterry\n"
-"  Shuhrat Dehkanov https://launchpad.net/~shooh"
+msgstr "Maftuna Vahidjanova"
 
 #. Translators: The name is a play on the French phrase "déjà vu" meaning
 #. "already seen", but with the "vu" replaced with "dup".  "Dup" in this
@@ -446,30 +454,30 @@ msgstr ""
 #: app/main.vala:367 data/app.metainfo.xml.in:11 data/ui/MainWindow.blp:11
 #: data/ui/OverviewPage.blp:11 data/ui/WelcomePage.blp:11
 msgid "Déjà Dup Backups"
-msgstr ""
+msgstr "Déjà Dup Zaxiralari"
 
 #: data/app.desktop.in:5 data/ui/SnapshotsPage.blp:11
 msgid "Backups"
-msgstr ""
+msgstr "Zaxiralar"
 
 #: data/app.desktop.in:6 data/app.metainfo.xml.in:12
 msgid "Protect yourself from data loss"
-msgstr ""
+msgstr "Ma’lumotlar yoʻqolishidan himoyalaning"
 
 #. These keywords are used when searching for applications in dashes, etc.
 #. Keep the English keywords and add your own keywords in your language,
 #. separated by semicolons.
 #: data/app.desktop.in:26
 msgid "déjà;deja;dup;archive;archiving;backup;backups;back up;"
-msgstr ""
+msgstr "déjà;deja;dup;arxiv;arxivlash;zaxira;zaxiralar;zaxiralash;"
 
 #: data/app.desktop.in:34
 msgid "Back Up"
-msgstr ""
+msgstr "Zaxiralash"
 
 #: data/app.gschema.xml.in:25
 msgid "Folders to save"
-msgstr "Сақлаш учун жилдлар"
+msgstr "Saqlash uchun jildlar"
 
 #: data/app.gschema.xml.in:26
 msgid ""
@@ -483,7 +491,7 @@ msgstr ""
 
 #: data/app.gschema.xml.in:30
 msgid "Folders to ignore"
-msgstr "Рад этилувчи жилдлар"
+msgstr "Eʼtiborga olinmaydigan jildlar"
 
 #: data/app.gschema.xml.in:31
 msgid ""
@@ -497,71 +505,67 @@ msgstr ""
 
 #: data/app.gschema.xml.in:35
 msgid "The last time Déjà Dup was run"
-msgstr "Déjà Dup охирги марта ишлаган вақт"
+msgstr "Déjà Dup oxirgi marta ishlagan vaqt"
 
 #: data/app.gschema.xml.in:36
 msgid ""
 "The last time Déjà Dup was successfully run. This time should be in ISO 8601"
 " format."
 msgstr ""
-"Déjà Dup охирги марта муваффақиятли ишлаган вақт. Ушбу вақт ISO 8601 "
-"форматида бўлиши лозим."
+"Déjà Dup oxirgi marta muvaffaqiyatli ishlagan vaqt. Bu vaqt ISO 8601 "
+"formatda boʻlishi kerak."
 
 #: data/app.gschema.xml.in:40
 msgid "The last time Déjà Dup backed up"
-msgstr "Déjà Dup охирги марта заҳира олган вақт"
+msgstr "Déjà Dup oxirgi marta zaxiralagan vaqt"
 
 #: data/app.gschema.xml.in:41
 msgid ""
 "The last time Déjà Dup successfully completed a backup. This time should be "
 "in ISO 8601 format."
 msgstr ""
-"Déjà Dup охирги марта заҳира олишни муваффақиятли тугатган вақт. Ушбу вақт "
-"ISO 8601 форматида бўлиши лозим."
+"Déjà Dup oxirgi marta muvaffaqiyatli zaxiralagan vaqt. Bu vaqt ISO 8601 "
+"formatda boʻlishi kerak."
 
 #: data/app.gschema.xml.in:45
 msgid "The last time Déjà Dup restored"
-msgstr "Déjà Dup охирги марта заҳирадан тиклаган вақт"
+msgstr "Deja Dup oxirgi marta tiklandi"
 
 #: data/app.gschema.xml.in:46
 msgid ""
 "The last time Déjà Dup successfully completed a restore. This time should be"
 " in ISO 8601 format."
 msgstr ""
-"Déjà Dup охирги марта заҳирадан тиклашни муваффақиятли тугаллаган вақт. Ушбу"
-" вақт ISO 8601 форматида бўлиши лозим."
+"Oxirgi marta Déja Dup tiklashni muvaffaqiyatli yakunladi. Bu vaqt ISO 8601 "
+"formatida boʻlishi kerak."
 
 #: data/app.gschema.xml.in:50
 msgid "Whether to periodically back up"
-msgstr ""
+msgstr "Vaqti-vaqti bilan zaxira nusxasini qanchalik tez-tez bajarish kerak"
 
 #: data/app.gschema.xml.in:51
+#, fuzzy
+#| msgid "Whether to periodically back up"
 msgid "Whether to automatically back up on a regular schedule."
-msgstr ""
+msgstr "Vaqti-vaqti bilan zaxira nusxasini qanchalik tez-tez bajarish kerak"
 
 #: data/app.gschema.xml.in:55
 msgid "How often to periodically back up"
-msgstr "Қайси оралиқда даврий заҳира олиниши лозим"
+msgstr "Vaqti-vaqti bilan zaxira nusxasini qanchalik tez-tez bajarish kerak"
 
 #: data/app.gschema.xml.in:56
 msgid "The number of days between backups."
-msgstr "Заҳира олишлар орасидаги кунлар сони"
+msgstr "Zaxira olishlar orasidagi kunlar."
 
 #. Translators: This tracks the most recent time the user flipped the
 #. "automatic backups" switch
 #: data/app.gschema.xml.in:61
 msgid "When automatic backups were enabled"
-msgstr ""
+msgstr "Avtomatik ravishda zaxiralash oʻchirilgan"
 
 #: data/app.gschema.xml.in:62
-#, fuzzy
-#| msgid ""
-#| "The last time Déjà Dup was successfully run. This time should be in ISO 8601"
-#| " format."
 msgid "This time should be in ISO 8601 format."
-msgstr ""
-"Déjà Dup охирги марта муваффақиятли ишлаган вақт. Ушбу вақт ISO 8601 "
-"форматида бўлиши лозим."
+msgstr "Bu vaqt ISO 8601 formatida boʻlishi lozim."
 
 #: data/app.gschema.xml.in:66
 msgid ""
@@ -590,7 +594,7 @@ msgstr ""
 
 #: data/app.gschema.xml.in:76
 msgid "How long to keep backup files"
-msgstr "Заҳира файлларини қачонгача сақлаш лозим"
+msgstr "Zaxira fayllarini qachongacha saqlash lozim"
 
 #: data/app.gschema.xml.in:77
 msgid ""
@@ -598,13 +602,13 @@ msgid ""
 " means forever. This is a minimum number of days; the files may be kept "
 "longer."
 msgstr ""
-"Заҳира файлларини заҳиралаш манзилида сақлашнинг кунларда кўрсатилган сони. "
-"0 қиймати доимий маъносини билдиради. Бу кунларнинг энг кам сонидир, файллар"
-" узоқроқ муддат сақланиши мумкин."
+"Zahira fayllarini zahiralash manzilida saqlashning kunlarda koʻrsatilgan "
+"soni. 0 qiymati doimiy maʼnosini bildiradi. Bu kunlarning eng kam sonidir, "
+"fayllar uzoqroq muddat saqlanishi mumkin."
 
 #: data/app.gschema.xml.in:81
 msgid "How long to wait between full backups"
-msgstr ""
+msgstr "Zaxira fayllarini qachongacha saqlash lozim"
 
 #: data/app.gschema.xml.in:82
 msgid ""
@@ -665,7 +669,7 @@ msgstr ""
 
 #: data/app.gschema.xml.in:147
 msgid "Type of location to store backup"
-msgstr "Заҳира нусҳасини сақлаш манзилини киритинг"
+msgstr "Zaxiralarni saqlash manzilini kiriting"
 
 #: data/app.gschema.xml.in:148
 msgid ""
@@ -677,7 +681,7 @@ msgstr ""
 #: data/app.gschema.xml.in:197 data/app.gschema.xml.in:205
 #: data/app.gschema.xml.in:212 data/app.gschema.xml.in:224
 msgid "The folder where backups are stored"
-msgstr ""
+msgstr "Ushbu jildlar har doim eʻtiborsiz qoldiriladi"
 
 #: data/app.gschema.xml.in:162
 msgid ""
@@ -712,14 +716,16 @@ msgid "The icon of the external drive, as a serialized GIcon."
 msgstr ""
 
 #: data/app.gschema.xml.in:185
+#, fuzzy
+#| msgid "The folder where backups are stored"
 msgid ""
 "The folder hierarchy where backups are stored. Paths are relative to the "
 "drive."
-msgstr ""
+msgstr "Ushbu jildlar har doim eʻtiborsiz qoldiriladi"
 
 #: data/app.gschema.xml.in:192
 msgid "The server address"
-msgstr ""
+msgstr "Server manzili"
 
 #: data/app.gschema.xml.in:193
 msgid "The URI of the remote server location."
@@ -747,27 +753,34 @@ msgid ""
 "Right Way (encrypted, off-site, and regular) and uses Restic behind the "
 "scenes."
 msgstr ""
+"Déjà Dup bu oddiy zaxiralash asbobi. U toʻgʻri yoʻlni zaxiralashning "
+"murakkabligini yashiradi (shifrlangan, saytdan tashqari va muntazam) va "
+"sahna ortida Resticdan foydalanadi."
 
 #: data/app.metainfo.xml.in:16
 msgid ""
 "Support for local, remote, or cloud backup locations such as Google Drive"
 msgstr ""
+"Google Drive kabi mahalliy, masofaviy yoki bulutli zaxira manzillarini "
+"qoʻllab-quvvatlaydi"
 
 #: data/app.metainfo.xml.in:17
 msgid "Securely encrypts and compresses your data"
-msgstr ""
+msgstr "Maʼlumotlaringizni xavfsiz shifrlaydi va siqadi"
 
 #: data/app.metainfo.xml.in:18
 msgid "Incrementally backs up, letting you restore from any particular backup"
 msgstr ""
+"Bosqichma-bosqich zaxiralanadi, bu sizga har qanday maxsus zaxiradan tiklash"
+" imkonini beradi"
 
 #: data/app.metainfo.xml.in:19
 msgid "Schedules regular backups"
-msgstr ""
+msgstr "Odatiy zaxiralashni rejalashtiradi"
 
 #: data/app.metainfo.xml.in:20
 msgid "Integrates well into your GNOME desktop"
-msgstr ""
+msgstr "GNOME ish stolingizga yaxshi integratsiyalashadi"
 
 #: data/app.metainfo.xml.in:22
 msgid ""
@@ -775,107 +788,110 @@ msgid ""
 "data loss. If you need a full system backup or an archival program, you may "
 "prefer other backup apps."
 msgstr ""
+"Déjà Dup foydalanish qulayligi va shaxsiy, tasodifiy yoʻqotilgan "
+"maʼlumotlarni tiklashga qaratilgan. Agar sizga tizimning toʻliq zaxira "
+"nusxasi yoki arxiv dasturi kerak boʻlsa, boshqa zaxira ilovalarini afzal "
+"koʻrishingiz mumkin."
 
 #: data/app.metainfo.xml.in:96 data/app.metainfo.xml.in:112
 msgid "Back up your files automatically — set it and forget it"
 msgstr ""
+"Fayllaringizni avtomatik ravishda zaxiralang - uni oʻrnating va unuting"
 
 #: data/app.metainfo.xml.in:100 data/app.metainfo.xml.in:116
 msgid ""
 "Restoring is a breeze — choose a backup and then copy files out using your "
 "file manager"
 msgstr ""
+"Qayta tiklash juda oson — zaxira nusxasini tanlang va keyin fayl "
+"boshqaruvchisi yordamida fayllardan nusxa oling"
 
 #: data/app.metainfo.xml.in:104 data/app.metainfo.xml.in:120
 msgid "Back up to the cloud, a network server, or a local drive"
-msgstr ""
+msgstr "Bulutga, tarmoq serveriga yoki mahalliy diskga zaxiralang"
 
 #: data/app.metainfo.xml.in:108 data/app.metainfo.xml.in:124
 msgid ""
 "Take control of your backup by choosing exactly which folders to include"
-msgstr ""
+msgstr "Qaysi jildlarni kiritishni tanlash orqali zaxirangizni nazorat qiling"
 
 #. Translators: Monitor in this sense means something akin to 'watcher', not
 #. a computer screen.  This program acts like a daemon that kicks off
 #. backups at scheduled times.
 #: data/monitor.desktop.in:5 monitor/monitor.vala:132
 msgid "Backup Monitor"
-msgstr "Заҳира олиш кундалиги"
+msgstr "Zaxira Monitori"
 
 #: data/monitor.desktop.in:6
 msgid "Schedules backups at regular intervals"
-msgstr ""
+msgstr "Vaqti-vaqti bilan zaxiralashni rejalashtiradi"
 
 #: data/ui/Browser.blp:40
-#, fuzzy
-#| msgid "Folders to save"
 msgid "Folder is Empty"
-msgstr "Сақлаш учун жилдлар"
+msgstr "Jild boʻsh"
 
 #: data/ui/Browser.blp:49
 msgid "No Results Found"
-msgstr ""
+msgstr "Hech qanday natija topilmadi"
 
 #: data/ui/Browser.blp:50
 msgid "Try a different search"
-msgstr ""
+msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: data/ui/Browser.blp:128
 msgid "Location"
-msgstr ""
+msgstr "Manzil"
 
 #: data/ui/ConfigExcludeFolderGroup.blp:10
 msgid "Add I_gnored Folder…"
-msgstr ""
+msgstr "Eʼtiborsiz jildni qoʻshish…"
 
 #: data/ui/ConfigExcludeFolderGroup.blp:12
 msgid "Folders to Ignore"
-msgstr ""
+msgstr "Eʻtiborsiz qoldiriladigan jildlar"
 
 #: data/ui/ConfigExcludeFolderGroup.blp:16
 msgid "These folders are always ignored:"
-msgstr ""
+msgstr "Ushbu jildlar har doim eʻtiborsiz qoldiriladi:"
 
 #: data/ui/ConfigFolderPage.blp:11
-#, fuzzy
-#| msgid "Folders to save"
 msgid "Folders"
-msgstr "Сақлаш учун жилдлар"
+msgstr "Jildlar"
 
 #: data/ui/ConfigFolderPage.blp:24
 msgid "Re_set All Folders…"
-msgstr ""
+msgstr "Hamma jildlarni qayta tiklash…"
 
 #: data/ui/ConfigFolderRow.blp:36
 msgid "Remove"
-msgstr ""
+msgstr "Oʻchirish"
 
 #: data/ui/ConfigIncludeFolderGroup.blp:10
 msgid "Add Backed _Up Folder…"
-msgstr ""
+msgstr "Zaxiralangan jildlarni qoʻshish…"
 
 #: data/ui/ConfigIncludeFolderGroup.blp:13
 msgid "Folders to Back Up"
-msgstr ""
+msgstr "Zaxiralanadigan jildlar"
 
 #: data/ui/ConfigLocationGroup.blp:17 data/ui/ConfigLocationGroup.blp:42
 #: data/ui/ConfigLocationGroup.blp:81 data/ui/ConfigLocationGroup.blp:88
 #: data/ui/ConfigLocationGroup.blp:96 data/ui/ConfigLocationGroup.blp:146
 #: data/ui/RestoreTargetDialog.blp:57
 msgid "_Folder"
-msgstr ""
+msgstr "Jild"
 
 #: data/ui/ConfigLocationGroup.blp:27 data/ui/ConfigLocationGroup.blp:52
 msgid "_Reset Account Access"
-msgstr ""
+msgstr "Hisob ruxsatini tiklash"
 
 #: data/ui/ConfigLocationGroup.blp:67
 msgid "Ser_ver Address"
-msgstr ""
+msgstr "Server manzili"
 
 #: data/ui/ConfigLocationGroup.blp:126
 msgid "_Remote"
-msgstr ""
+msgstr "Masofaviy"
 
 #: data/ui/ConfigLocationGroup.blp:138
 msgid ""
@@ -883,160 +899,160 @@ msgid ""
 "href=\"https://rclone.org/\">its documentation</a> for how to configure a "
 "remote."
 msgstr ""
+"Rclone - bulutli saqlashning takomillashgan vositasi. Pultni sozlash uchun "
+"<a href=\"https://rclone.org/\">hujjatlari</a> bilan tanishing."
 
 #: data/ui/ConfigLocationGroup.blp:156
 msgid "_Reset Config Encryption Password"
-msgstr ""
+msgstr "Konfiguratsiya shifrlash maxfiy soʻzini qayta tiklash"
 
 #: data/ui/ConfigLocationRow.blp:32
 msgid "_Location"
-msgstr ""
+msgstr "Manzil"
 
 #: data/ui/FirstBackupDialog.blp:10
 msgctxt "back up is verb"
 msgid "_Back Up"
-msgstr ""
+msgstr "Zaxiralash"
 
 #: data/ui/FirstBackupDialog.blp:13
 msgid "New Backup"
-msgstr ""
+msgstr "Yangi zaxira"
 
 #: data/ui/FirstBackupDialog.blp:20 data/ui/MainWindow.blp:68
 msgid "Storage"
-msgstr ""
+msgstr "Xotira"
 
 #: data/ui/HelpButton.blp:26
 msgid "Help"
-msgstr ""
+msgstr "Yordam"
 
 #: data/ui/MainWindow.blp:33
 msgid "Schedule"
-msgstr ""
+msgstr "Jadval"
 
 #: data/ui/MainWindow.blp:39
 msgid "Automatic Backup _Frequency"
-msgstr ""
+msgstr "Avtomatik zaxiralash tezligi"
 
 #: data/ui/MainWindow.blp:44
 msgid "_Keep Backups"
-msgstr ""
+msgstr "Zaxiralarni saqlash"
 
 #: data/ui/MainWindow.blp:52
 msgid ""
 "The oldest backups will still be deleted earlier if the location is low on "
 "space or kept up to three months longer to avoid deleting related backups."
 msgstr ""
+"Aloqador zaxiralarni oʻchirib tashlamaslik uchun joy kam boʻlsa yoki uch "
+"oygacha saqlangan boʻlsa, eng eski zaxiralar avvalroq oʻchirib tashlanadi."
 
 #: data/ui/OverviewPage.blp:20
 msgid "_Schedule"
-msgstr ""
+msgstr "Jadval"
 
 #: data/ui/OverviewPage.blp:39
-#, fuzzy
-#| msgid "Folders to save"
 msgid "_Folders"
-msgstr "Сақлаш учун жилдлар"
+msgstr "Jildlar"
 
 #: data/ui/OverviewPage.blp:56
 msgid "Storage _Location"
-msgstr ""
+msgstr "Xotira manzili"
 
 #: data/ui/OverviewPage.blp:85
 msgid "Bro_wse Backups"
-msgstr ""
+msgstr "Zaxiralarni koʻrib chiqish"
 
 #: data/ui/OverviewPage.blp:94
 msgid "_Back Up Now"
-msgstr ""
+msgstr "Hozir zaxiralash"
 
 #: data/ui/PassphraseDialog.blp:19
 msgid "_Password-protect your backup"
-msgstr ""
+msgstr "Maxfiy soʻz-zaxirangizni himoyalash"
 
 #: data/ui/PassphraseDialog.blp:34
 msgid "Confir_m password"
-msgstr ""
+msgstr "Maxfiy soʻzni tasdiqlang"
 
 #: data/ui/PassphraseDialog.blp:47
 msgid "Test every two _months"
-msgstr ""
+msgstr "Har ikki oyda sinovdan oʻtkazing"
 
 #: data/ui/PassphraseDialog.blp:54
 msgid "Con_tinue"
-msgstr ""
+msgstr "Davom etish"
 
 #: data/ui/PrimaryMenuButton.blp:16
 msgid "Main Menu"
-msgstr ""
+msgstr "Asosiy menyu"
 
 #: data/ui/PrimaryMenuButton.blp:23
 msgid "_Select All"
-msgstr ""
+msgstr "Barchasini tanlash"
 
 #: data/ui/PrimaryMenuButton.blp:31
 msgid "_Keyboard Shortcuts"
-msgstr ""
+msgstr "Klaviatura yorliqlari"
 
 #: data/ui/PrimaryMenuButton.blp:36
 msgid "_Help"
-msgstr ""
+msgstr "Yordam"
 
 #: data/ui/PrimaryMenuButton.blp:41
-#, fuzzy
-#| msgid "The last time Déjà Dup backed up"
 msgid "_About Déjà Dup Backups"
-msgstr "Déjà Dup охирги марта заҳира олган вақт"
+msgstr "Déjà Dup zaxiralari haqida"
 
 #: data/ui/RecentBackupRow.blp:12
 msgid "Most Recent Backup"
-msgstr ""
+msgstr "Eng soʻnggi zaxira"
 
 #: data/ui/RestoreLocationDialog.blp:10
 msgctxt "verb"
 msgid "_Search"
-msgstr ""
+msgstr "Qidiruv"
 
 #: data/ui/RestoreLocationDialog.blp:13
 msgid "Restore From Where?"
-msgstr ""
+msgstr "Qayerdan qayta tiklansin?"
 
 #: data/ui/RestoreTargetDialog.blp:11
 msgid "_Restore"
-msgstr ""
+msgstr "Qayta tiklash"
 
 #: data/ui/RestoreTargetDialog.blp:14
 msgid "Restore to Where?"
-msgstr ""
+msgstr "Qayerga qayta tiklansin?"
 
 #: data/ui/RestoreTargetDialog.blp:19
 msgid "Restore files to their _original locations"
-msgstr ""
+msgstr "Fayllarni asl joylariga tiklash"
 
 #: data/ui/RestoreTargetDialog.blp:37
 msgid "Restore files to a _specific folder"
-msgstr ""
+msgstr "Fayllarni maxsus jildga qayta tiklash"
 
 #: data/ui/RestoreTargetWarningButton.blp:22
 msgid "Backups does not have permission to restore the following files:"
-msgstr ""
+msgstr "Zaxiralar quyidagi fayllarni qayta tiklash ruxsatiga ega emas:"
 
 #: data/ui/RestoreToolbarView.blp:23 data/ui/RestoreToolbarView.blp:25
 msgid "Up"
-msgstr ""
+msgstr "Yuqori"
 
 #: data/ui/RestoreToolbarView.blp:30 data/ui/RestoreToolbarView.blp:79
 msgid "_Restore…"
-msgstr ""
+msgstr "Qayta tiklash…"
 
 #: data/ui/RestoreToolbarView.blp:47 data/ui/RestoreToolbarView.blp:49
 #: data/ui/RestoreToolbarView.blp:71 data/ui/RestoreToolbarView.blp:94
 #: data/ui/RestoreToolbarView.blp:96
 msgid "Search"
-msgstr ""
+msgstr "Qidiruv"
 
 #: data/ui/ServerAddressHelp.blp:15
 msgid "Server Addresses"
-msgstr ""
+msgstr "Server manzillari"
 
 #. Translators: Translators: This is followed by a list of valid adresses
 #. (smb://gnome.org/deja-dup, ssh://192.168.0.1, ftp://[2001:db8::1])
@@ -1045,120 +1061,120 @@ msgid ""
 "Server addresses are made up of a protocol prefix, an address, and sometimes"
 " a path depending on the protocol. Examples:"
 msgstr ""
+"Server manzillari protokol prefiksi, manzil va baʻzan protokolga bogʻliq "
+"boʻlgan yoʻldan tashkil topgan. Misollar:"
 
 #: data/ui/ServerAddressHelp.blp:50
 msgid "Available Protocols"
-msgstr ""
+msgstr "Mavjud boʻlgan protokollar"
 
 #: data/ui/ServerAddressHelp.blp:60
 msgid "AppleTalk"
-msgstr ""
+msgstr "AppleTalk"
 
 #: data/ui/ServerAddressHelp.blp:70
 msgid "File Transfer Protocol"
-msgstr ""
+msgstr "Fayl uzatish protokoli"
 
 #: data/ui/ServerAddressHelp.blp:80
 msgid "Network File System"
-msgstr ""
+msgstr "Tarmoq fayl tizimi"
 
 #: data/ui/ServerAddressHelp.blp:90
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 #: data/ui/ServerAddressHelp.blp:100
 msgid "SSH File Transfer Protocol"
-msgstr ""
+msgstr "SSH fayl uzatish protokoli"
 
 #: data/ui/ServerAddressHelp.blp:110
 msgid "WebDAV"
-msgstr ""
+msgstr "WebDAV"
 
 #: data/ui/ServerAddressHelp.blp:120
 msgid "Prefix"
-msgstr ""
+msgstr "Prefiks"
 
 #. Translators: Translators: do not translate ftp:// and ftps://
 #: data/ui/ServerAddressHelp.blp:141
 msgid "ftp:// or ftps://"
-msgstr ""
+msgstr "ftp:// yoki ftps://"
 
 #: data/ui/ServerAddressHelp.blp:161
 msgid "smb://"
-msgstr ""
+msgstr "smb://"
 
 #. Translators: Translators: do not translate sftp:// and ssh://
 #: data/ui/ServerAddressHelp.blp:172
 msgid "sftp:// or ssh://"
-msgstr ""
+msgstr "sftp:// yoki ssh://"
 
 #. Translators: Translators: do not translate dav:// and davs://
 #: data/ui/ServerAddressHelp.blp:183
 msgid "dav:// or davs://"
-msgstr ""
+msgstr "dav:// yoki davs://"
 
 #: data/ui/SnapshotsPage.blp:51
-#, fuzzy
-#| msgid "Backup Monitor"
 msgid "No Backups Found"
-msgstr "Заҳира олиш кундалиги"
+msgstr "Zaxiralar topilmadi"
 
 #: data/ui/SnapshotsPage.blp:52
 msgid "This storage location is empty"
-msgstr ""
+msgstr "Bu saqlash manzili boʻsh"
 
 #: data/ui/WelcomePage.blp:40
 msgid "Create Your First _Backup…"
-msgstr ""
+msgstr "Birinchi zaxirangizni yarating…"
 
 #: data/ui/WelcomePage.blp:63
 msgid "_Restore From a Previous Backup…"
-msgstr ""
+msgstr "Oldingi zaxiradan tiklash…"
 
 #: data/ui/shortcuts-dialog.blp:12
 msgctxt "shortcut window"
 msgid "General"
-msgstr ""
+msgstr "Umumiy"
 
 #: data/ui/shortcuts-dialog.blp:16
 msgctxt "shortcut window"
 msgid "Show help"
-msgstr ""
+msgstr "Yordam koʻrsatish"
 
 #: data/ui/shortcuts-dialog.blp:21
 msgctxt "shortcut window"
 msgid "Open menu"
-msgstr ""
+msgstr "Menyu ochish"
 
 #: data/ui/shortcuts-dialog.blp:26
 msgctxt "shortcut window"
 msgid "Quit"
-msgstr ""
+msgstr "Chiqish"
 
 #: data/ui/shortcuts-dialog.blp:31
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "Klaviatura yorliqlari"
 
 #: data/ui/shortcuts-dialog.blp:36
 msgctxt "shortcut window"
 msgid "Browsing Backed Up Files"
-msgstr ""
+msgstr "Zaxiralangan Fayllarni koʻrib chiqish"
 
 #: data/ui/shortcuts-dialog.blp:40
 msgctxt "shortcut window"
 msgid "Search"
-msgstr ""
+msgstr "Qidiruv"
 
 #: data/ui/shortcuts-dialog.blp:45
 msgctxt "shortcut window"
 msgid "Go up"
-msgstr ""
+msgstr "Yuqoriga chiqish"
 
 #: data/ui/shortcuts-dialog.blp:50
 msgctxt "shortcut window"
 msgid "Select all"
-msgstr ""
+msgstr "Barchasini tanlash"
 
 #. Translators: %2$s is the name of a removable drive, %1$s is a folder
 #. on that removable drive.
@@ -1166,61 +1182,63 @@ msgstr ""
 #: libdeja/BackendDrive.vala:75 libdeja/CommonUtils.vala:555
 #, c-format
 msgid "%1$s on %2$s"
-msgstr ""
+msgstr "%1$s %2$sʼda"
 
 #: libdeja/BackendDrive.vala:83
 #, c-format
 msgid "Backup will begin when %s is connected."
-msgstr ""
+msgstr "Zaxiralash %s ulanganida boshlanadi."
 
 #: libdeja/BackendDrive.vala:251 libdeja/BackendRemote.vala:164
 msgid "Storage location not available"
-msgstr ""
+msgstr "Saqlash manzili mavjud emas"
 
 #: libdeja/BackendDrive.vala:251
 #, c-format
 msgid "Waiting for ‘%s’ to become connected…"
-msgstr ""
+msgstr "‘%s’ ulanishi kutilmoqda…"
 
 #: libdeja/BackendGoogle.vala:62 libdeja/BackendMicrosoft.vala:58
 #: libdeja/BackendRclone.vala:43 monitor/ReadyWatcher.vala:164
 msgid "Backup will begin when a network connection becomes available."
-msgstr ""
+msgstr "Zaxiralash tarmoq ulanishi mavjud boʻlganida boshlanadi."
 
 #. Translators: %s is a folder.
 #: libdeja/BackendGoogle.vala:77
 #, c-format
 msgid "%s on Google Drive"
-msgstr ""
+msgstr "%s Google Driveda"
 
 #: libdeja/BackendLocal.vala:69
 msgid ""
 "This folder cannot be used as a storage location because Backups does not "
 "have access to it."
 msgstr ""
+"Bu jildni saqlash joyi sifatida ishlatib boʻlmaydi, chunki Zaxiralar dasturi"
+" unga kirish huquqiga ega emas."
 
 #. Translators: %s is a folder.
 #: libdeja/BackendMicrosoft.vala:73
 #, c-format
 msgid "%s on Microsoft OneDrive"
-msgstr ""
+msgstr "%s Microsoft OneDriveda"
 
 #. Duplicity requires a folder, and this is a reasonable restriction.
 #: libdeja/BackendMicrosoft.vala:100
 msgid "You must provide a Microsoft OneDrive folder."
-msgstr ""
+msgstr "Microsoft OneDriveʼni jild bilan taminlashingiz kerak."
 
 #. Translators: %s is a brand name like Microsoft or Google
 #: libdeja/BackendOAuth.vala:93
 #, c-format
 msgid "Could not log into %s servers."
-msgstr ""
+msgstr "%s serverlariga kirib boʻlmadi."
 
 #. Translators: %s is a brand name like Google or Microsoft
 #: libdeja/BackendOAuth.vala:201
 #, c-format
 msgid "%s credentials for Déjà Dup"
-msgstr ""
+msgstr "Déjà Dup uchun %s hisob maʼlumotlari"
 
 #. We need a random string between 43 and 128 chars. UUIDs are an easy way
 #. to get random strings, but they are only 37 chars long. So just add two.
@@ -1229,79 +1247,87 @@ msgstr ""
 #: libdeja/BackendOAuth.vala:260
 #, c-format
 msgid "Access to your %s account is required"
-msgstr ""
+msgstr "%s hisobingizga ruxsat talab qilinadi"
 
 #. Translators: %s is a brand name like Google or Microsoft
 #: libdeja/BackendOAuth.vala:262
 #, c-format
 msgid "Grant Access to %s"
-msgstr ""
+msgstr "%sʼga ruxsat berish"
 
 #. Translators: %s is a folder.
 #: libdeja/BackendRclone.vala:69
 #, c-format
 msgid "%s with Rclone"
-msgstr ""
+msgstr "%s Rclone bilan"
 
 #: libdeja/BackendRclone.vala:84
 msgid "An Rclone remote needs to be set."
-msgstr ""
+msgstr "Rclone masofaviy ulanishini sozlash kerak."
 
 #: libdeja/BackendRclone.vala:195
 msgid "Rclone config encryption password"
-msgstr ""
+msgstr "Rclone konfiguratsiyasi uchun shifrlanish maxfiy soʻzi"
 
 #: libdeja/BackendRclone.vala:227
 msgid "Your Rclone config file is encrypted. Please provide its password."
 msgstr ""
+"Sizning Rclone konfiguratsiya faylingiz shifrlanadi. Iltimos uning maxfiy "
+"soʻzini kiriting."
 
 #: libdeja/BackendRclone.vala:228
 msgid "Rclone Config Encryption _Password"
-msgstr ""
+msgstr "Rclone konfiguratsiyasi shifrlanish maxfiy soʻzi"
 
 #: libdeja/BackendRclone.vala:229
 msgid "Wrong Rclone config encryption password. Try again."
 msgstr ""
+"Xato Rclone konfiguratsiya shifrlanish maxfiy soʻzi. Qayta urinib koʻring."
 
 #: libdeja/BackendRclone.vala:237
 #, c-format
 msgid "Rclone remote '%s' needs to be configured in Rclone first."
-msgstr ""
+msgstr "Rcloneda oldin Rclone masofaviy ʻ%sʻ sozlanishi kerak."
 
 #: libdeja/BackendRemote.vala:94
 msgid "The network server is not available"
-msgstr ""
+msgstr "Tarmoq serveri ishlamayapti"
 
 #: libdeja/BackendRemote.vala:154
 msgid ""
 "You must first install FUSE support for GVfs, likely provided by the gvfs-"
 "fuse package. Then log out, log back in, and try again."
 msgstr ""
+"Avval GVfs uchun FUSE qoʻllab-quvvatlovini oʻrnatishingiz kerak, katta "
+"ehtimol bilan gvfs-fuse paketi tomonidan taqdim etiladi. Keyin hisobingizdan"
+" chiqing, qayta kiring va qayta urining."
 
 #: libdeja/BackendRemote.vala:165
 msgid "Waiting for a network connection…"
-msgstr ""
+msgstr "Tarmoqqa ulanish kutilmoqda…"
 
 #: libdeja/BackendRemote.vala:177
 msgid "Could not mount storage location."
-msgstr ""
+msgstr "Saqlash joyini oʻrnatib boʻlmadi."
 
 #: libdeja/BackendRemote.vala:181
 msgid ""
 "The server’s network location needs to be specified in the storage location "
 "preferences."
 msgstr ""
+"Serverning tarmoq joylashuvi xotira manzili afzalliklarida koʻrsatilishi "
+"kerak."
 
 #: libdeja/BackendRemote.vala:186
 #, c-format
 msgid ""
 "The server’s network location ‘%s’ does not look like a network location."
-msgstr ""
+msgstr "Serverning ʻ%sʻ tarmoq joylashuvi tarmoq manziliga oʻxshamaydi."
 
 #: libdeja/BackendRemote.vala:197
 #, c-format
 msgid "‘%s’ does not appear to be a network location."
-msgstr ""
+msgstr "‘%s’ tarmoq manzili emas."
 
 #. This means that we either couldn't talk to the gvfs daemon or the
 #. specific backend we need isn't installed - for whatever reason, the
@@ -1313,6 +1339,8 @@ msgid ""
 "You must first install a gvfs backend that can connect to ‘%s’ network "
 "locations."
 msgstr ""
+"Avval ‘%s’ tarmoq manzillariga ulanishi mumkin boʻlgan gvfs backendni "
+"oʻrnatishingiz kerak."
 
 #. Special sanity check for some edge cases like smb:// where if the user
 #. just puts in smb://server/ as the root, GIO thinks it's a valid root,
@@ -1320,131 +1348,147 @@ msgstr ""
 #: libdeja/BackendRemote.vala:214
 msgid "Samba network locations must include both a hostname and a share name."
 msgstr ""
+"Samba tarmogʻining joylashuvi ham host nomini, ham ulashish nomini oʻz "
+"ichiga olishi kerak."
 
 #. Translators: this is the home folder and %s is the user's username
 #: libdeja/CommonUtils.vala:611
 #, c-format
 msgid "Home (%s)"
-msgstr ""
+msgstr "Uy (%s)"
 
 #. Translators: this is the home folder
 #: libdeja/CommonUtils.vala:616
 msgid "Home"
-msgstr ""
+msgstr "Uy"
 
 #. Translators: this is the trash folder
 #: libdeja/CommonUtils.vala:621
 msgid "Trash"
-msgstr ""
+msgstr "Chiqindi"
 
 #: libdeja/CommonUtils.vala:685
 msgid "Backup encryption password"
-msgstr ""
+msgstr "Zaxira shifrlash paroli"
 
 #: libdeja/InstallEnvFlatpak.vala:117
 msgid ""
 "Make sure Backups has permission to run in the background in your desktop "
 "session’s settings and try again."
 msgstr ""
+"Ish stoli seansi sozlamalarida Zaxira nusxalari fonda ishlashga ruxsati "
+"borligiga ishonch hosil qiling va qayta urinib koʻring."
 
 #. no portal support :(
 #: libdeja/InstallEnvFlatpak.vala:182
 msgid ""
 "Your desktop session does not support automatically starting Flatpak apps."
 msgstr ""
+"Ish stoli seansi Flatpak ilovalarini avtomatik ishga tushirishni qoʻllab-"
+"quvvatlamaydi."
 
 #: libdeja/MountManager.vala:39
 msgid ""
 "The fusermount command is required, but was not found. Please install FUSE."
 msgstr ""
+"Fusermount buyrugʻi talab qilinadi, lekin topilmadi. Iltimos, FUSEʼni "
+"oʻrnating."
 
 #: libdeja/Operation.vala:61
 msgid "Backing up…"
-msgstr ""
+msgstr "Zaxiralash…"
 
 #: libdeja/Operation.vala:63
 msgid "Restoring…"
-msgstr ""
+msgstr "Qayta tiklanmoqda…"
 
 #: libdeja/Operation.vala:65
 msgid "Checking for backups…"
-msgstr ""
+msgstr "Zaxiralar tekshirilmoqda…"
 
 #: libdeja/Operation.vala:67
 msgid "Listing files…"
-msgstr ""
+msgstr "Fayllarni listlash…"
 
 #: libdeja/Operation.vala:70 libdeja/OperationBackup.vala:46
 msgid "Verifying backup…"
-msgstr ""
+msgstr "Zaxiralar tasdiqlanmoqda…"
 
 #: libdeja/Operation.vala:72 libdeja/duplicity/DuplicityJob.vala:306
 #: libdeja/duplicity/DuplicityJob.vala:317
 #: libdeja/duplicity/DuplicityJob.vala:345
 #: libdeja/duplicity/DuplicityJob.vala:359
 msgid "Preparing…"
-msgstr ""
+msgstr "Tayyorlanmoqda…"
 
 #: libdeja/Operation.vala:141
 msgid "Custom tool setup failed."
-msgstr ""
+msgstr "Maxsus asbob sozlanmadi."
 
 #: libdeja/Operation.vala:269
 msgid "Once granted, Backups will automatically continue"
-msgstr ""
+msgstr "Ruxsat berilgandan soʻng, zaxiralash avtomatik ravishda davom etadi"
 
 #: libdeja/Operation.vala:272
 msgid ""
 "Note that you will have to grant access every time because your desktop "
 "session does not support saving credentials"
 msgstr ""
+"Esda tutingki, siz har safar ruxsat berishingiz kerak boʻladi, chunki ish "
+"stoli seansi hisob maʼlumotlarini saqlashni qoʻllab-quvvatlamaydi"
 
 #: libdeja/Operation.vala:277
 msgid "_Grant Access…"
-msgstr ""
+msgstr "Ruxsat berish…"
 
 #: libdeja/Operation.vala:613
 msgid "In order to continue, the following packages need to be installed:"
-msgstr ""
+msgstr "Davom etish uchun quyidagi paketlarni oʻrnatish kerak:"
 
 #: libdeja/Operation.vala:617
 msgid "Required packages need to be installed."
-msgstr ""
+msgstr "Talab qilingan paketlar oʻrnatilishi kerak."
 
 #: libdeja/Operation.vala:618
 msgid "Required Packages"
-msgstr ""
+msgstr "Talab qilingan paketlar"
 
 #: libdeja/Operation.vala:618
 msgctxt "verb"
 msgid "_Install"
-msgstr ""
+msgstr "Oʻrnatish"
 
 #: libdeja/Operation.vala:640
 msgid "Installing packages…"
-msgstr ""
+msgstr "Paketlarni oʻrnatish…"
 
 #: libdeja/OperationBackup.vala:29
 msgid ""
 "Could not back up the following files.  Please make sure you are able to "
 "open them."
 msgstr ""
+"Quyidagi fayllardan zaxira yaratib boʻlmadi. Iltimos, ularni ochishingiz "
+"mumkinligiga ishonch hosil qiling."
 
 #: libdeja/OperationBackup.vala:70
 msgid ""
 "The following folders cannot be backed up because Backups does not have "
 "access to them:"
 msgstr ""
+"Quyidagi papkalarni zaxiralab boʻlmaydi, chunki Zaxiralar dasturi ularga "
+"kirish huquqiga ega emas:"
 
 #: libdeja/OperationRestore.vala:35
 msgid "Restoring files…"
-msgstr ""
+msgstr "Fayllarni qayta tiklash…"
 
 #: libdeja/OperationRestore.vala:54
 msgid ""
 "Could not restore the following files.  Please make sure you are able to "
 "write to them."
 msgstr ""
+"Quyidagi fayllarni qayta tiklab boʻlmadi. Iltimos, ularga yozishingiz "
+"mumkinligiga ishonch hosil qiling."
 
 #. Translators: '%s' is a backup tool name like Restic or Borg
 #: libdeja/ToolSupport.vala:17
@@ -1453,6 +1497,8 @@ msgid ""
 "%s backups are not supported in this release. Try using another storage "
 "location."
 msgstr ""
+"Bu versiyada %s zaxiralar qoʻllab-quvvatlanmaydi. Boshqa saqlash manzilidan "
+"foydalanishga harakat qiling."
 
 #. Error case (unrecognized files)
 #: libdeja/ToolSupport.vala:125
@@ -1460,11 +1506,12 @@ msgstr ""
 msgid ""
 "Unrecognized file in storage location: '%s'. Choose an empty folder instead."
 msgstr ""
+"Saqlash joyidagi noma'lum fayl: ʻ%sʻ. Buning oʻrniga boʻsh jildni tanlang."
 
 #: libdeja/duplicity/DuplicityJob.vala:79
 #: libdeja/duplicity/DuplicityJob.vala:140
 msgid "Paused (no network)"
-msgstr ""
+msgstr "Pauzaga qoʻyildi (tarmoq yoʻq)"
 
 #. Is the disk not even big enough to possibly hold what we need?
 #. Don't bother checking whether this is first or later backup.
@@ -1473,16 +1520,16 @@ msgstr ""
 #. Tiny backup location.  Suggest they get a larger one.
 #: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:337
 msgid "Backup location is too small."
-msgstr ""
+msgstr "Zaxira joylashuvi juda kichik."
 
 #: libdeja/duplicity/DuplicityJob.vala:485 libdeja/restic/ResticJob.vala:338
 #, c-format
 msgid "Try using a location with at least %s."
-msgstr ""
+msgstr "Kamida %s boʻlgan joylashuvdan foydalanib koʻring."
 
 #: libdeja/duplicity/DuplicityJob.vala:486
 msgid "(Space for two full backups is required.)"
-msgstr ""
+msgstr "(Ikkita toʻliq zaxira uchun boʻsh joy kerak.)"
 
 #. Can't delete any more backup chains ourselves. Tell the user, so they can
 #. clear out space.
@@ -1491,6 +1538,8 @@ msgstr ""
 msgid ""
 "Backup location does not have enough free space. Please free up at least %s."
 msgstr ""
+"Zaxira joylashuvida boʻsh joy yetarli emas. Iltimos, kamida %s joy "
+"boʻshating."
 
 #: libdeja/duplicity/DuplicityJob.vala:509
 #, c-format
@@ -1498,11 +1547,13 @@ msgid ""
 "Backup location does not have enough free space. Try using a location with "
 "at least %s free."
 msgstr ""
+"Zaxira joylashuvida boʻsh joy yetarli emas. Kamida %s boʻsh joylashuvdan "
+"foydalanib koʻring."
 
 #: libdeja/duplicity/DuplicityJob.vala:529
 #: libdeja/duplicity/DuplicityJob.vala:543
 msgid "Cleaning up…"
-msgstr ""
+msgstr "Tozalanmoqda…"
 
 #. For most, don't do anything special.  Show generic 'unknown error'
 #. message, but provide the exception text for better bug reports.
@@ -1515,12 +1566,12 @@ msgstr ""
 #: libdeja/duplicity/DuplicityJob.vala:1042
 #: libdeja/libtool/ToolJoblet.vala:102 libdeja/restic/ResticInstance.vala:177
 msgid "Failed with an unknown error."
-msgstr ""
+msgstr "Nomaʻlum xatolik bilan xatolik yuz berdi."
 
 #. notify upper layers, if they want to do anything
 #: libdeja/duplicity/DuplicityJob.vala:851
 msgid "Bad encryption password."
-msgstr ""
+msgstr "Yomon shifrlash maxfiy soʻzi."
 
 #. GPG does not expose the true reason in a machine-readable way for duplicity
 #. to pass on.  So we try to find out why it failed by looking for the
@@ -1532,11 +1583,11 @@ msgstr ""
 #. and gpg isn't giving us the translated strings.
 #: libdeja/duplicity/DuplicityJob.vala:864
 msgid "No secret key"
-msgstr ""
+msgstr "Maxfiy kalit yoʻq"
 
 #: libdeja/duplicity/DuplicityJob.vala:866
 msgid "Bad session key"
-msgstr ""
+msgstr "Yomon seans kalit"
 
 #. make text a little nicer than duplicity gives
 #. duplicity gives something like "home/blah/blah not found in archive,
@@ -1544,7 +1595,7 @@ msgstr ""
 #: libdeja/duplicity/DuplicityJob.vala:902
 #, c-format
 msgid "Could not restore ‘%s’: File not found in backup"
-msgstr ""
+msgstr "‘%s’ tiklab boʻlmadi. Fayl zaxirada topilmadi"
 
 #: libdeja/duplicity/DuplicityJob.vala:913
 #, c-format
@@ -1553,73 +1604,76 @@ msgid ""
 "name is %s.  If this is unexpected, you should back up to a different "
 "location."
 msgstr ""
+"Mavjud zaxira nusxasi %s nomli kompyuterga tegishli, ammo hozirgi "
+"kompyuterning nomi %s. Agar bu kutilmagan boʻlsa, zaxira nusxasini boshqa "
+"joyga saqlashingiz kerak."
 
 #: libdeja/duplicity/DuplicityJob.vala:916
 msgid "Unexpected computer name encountered"
-msgstr ""
+msgstr "Kutilmagan kompyuter nomi topildi"
 
 #: libdeja/duplicity/DuplicityJob.vala:917
 msgid "Computer Name Changed"
-msgstr ""
+msgstr "Kompyuter nomi oʻzgartirildi"
 
 #: libdeja/duplicity/DuplicityJob.vala:955
 #, c-format
 msgid "Permission denied when trying to create ‘%s’."
-msgstr ""
+msgstr "‘%s’ yaratish payti ruxsat berilmadi."
 
 #. assume error is on backend side
 #: libdeja/duplicity/DuplicityJob.vala:959
 #: libdeja/duplicity/DuplicityJob.vala:963
 #, c-format
 msgid "Permission denied when trying to read ‘%s’."
-msgstr ""
+msgstr "‘%s’ oʻqish payti ruxsat berilmadi."
 
 #: libdeja/duplicity/DuplicityJob.vala:967
 #, c-format
 msgid "Permission denied when trying to delete ‘%s’."
-msgstr ""
+msgstr "‘%s’ oʻchirish payti ruxsat berilmadi."
 
 #: libdeja/duplicity/DuplicityJob.vala:974
 #, c-format
 msgid "Backup location ‘%s’ does not exist."
-msgstr ""
+msgstr "Zaxira manzili ‘%s’ mavjud emas."
 
 #: libdeja/duplicity/DuplicityJob.vala:980
 #: libdeja/duplicity/DuplicityJob.vala:1013
 msgid "No space left."
-msgstr ""
+msgstr "Joy qolmadi."
 
 #: libdeja/duplicity/DuplicityJob.vala:1002
 #, c-format
 msgid "Error reading file ‘%s’."
-msgstr ""
+msgstr "‘%s’ faylini oʻqishda xatolik."
 
 #: libdeja/duplicity/DuplicityJob.vala:1004
 #, c-format
 msgid "Error writing file ‘%s’."
-msgstr ""
+msgstr "‘%s’ faylini yozishda xatolik."
 
 #: libdeja/duplicity/DuplicityJob.vala:1015
 #, c-format
 msgid "No space left in ‘%s’."
-msgstr ""
+msgstr "‘%s’ joy qolmadi."
 
 #: libdeja/duplicity/DuplicityJob.vala:1023
 msgid "No backup files found"
-msgstr ""
+msgstr "Hech qanday zaxira fayllari topilmadi"
 
 #: libdeja/duplicity/DuplicityJob.vala:1073
 msgid "Uploading…"
-msgstr ""
+msgstr "Yuklanmoqda…"
 
 #: libdeja/duplicity/DuplicityJob.vala:1542
 msgid "could not restore test file"
-msgstr ""
+msgstr "sinov faylini qayta tiklab boʻlmadi"
 
 #: libdeja/duplicity/DuplicityPlugin.vala:36
 #, c-format
 msgid "Could not understand duplicity version ‘%s’."
-msgstr ""
+msgstr "‘%s’ versiyasining takrorlanishini tushunib boʻlmadi."
 
 #: libdeja/duplicity/DuplicityPlugin.vala:39
 #, c-format
@@ -1627,53 +1681,58 @@ msgid ""
 "Backups requires at least version %d.%d.%.2d of duplicity, but only found "
 "version %d.%d.%.2d"
 msgstr ""
+"Zaxira nusxalari kamida %d.%d.%.2d versiyasini talab qiladi, ammo faqat "
+"%d.%d.%.2d versiyasi topildi"
 
 #: libdeja/duplicity/DuplicityPlugin.vala:71
 msgid "Could not understand duplicity version."
-msgstr ""
+msgstr "Takrorlangan versiyani tushunib boʻlmadi."
 
 #: libdeja/duplicity/DuplicityPlugin.vala:100
 msgid ""
 "This storage location is no longer supported. You can still use duplicity "
 "directly to back up or restore your files."
 msgstr ""
+"Bu saqlash joyi endi qoʻllab-quvvatlanmaydi. Siz hali ham fayllaringizni "
+"zaxiralash yoki tiklash uchun dublikatdan toʻgʻridan-toʻgʻri "
+"foydalanishingiz mumkin."
 
 #: libdeja/libtool/ToolJoblet.vala:112
 #, c-format
 msgid "An error occurred while validating your backup: ‘%s’."
-msgstr ""
+msgstr "Zaxirangizni tasdiqlashda xatolik yuz berdi: ’%s’."
 
 #: libdeja/libtool/ToolJoblet.vala:114
 msgid "The backup might be corrupted."
-msgstr ""
+msgstr "Zaxira buzilgan boʻlishi mumkin."
 
 #: libdeja/libtool/ToolJoblet.vala:116
 msgid "Please investigate the problem or start a new, separate backup."
-msgstr ""
+msgstr "Muammoni tekshiring yoki yangi, alohida zaxiralashni boshlang."
 
 #: libdeja/restic/ResticJob.vala:185
 #, c-format
 msgid "Could not find storage location ‘%s’."
-msgstr ""
+msgstr "’%s’ xotirasi joylashuvi topilmadi."
 
 #: libdeja/restic/ResticJob.vala:531
 msgid "The storage location is out of space but busy."
-msgstr ""
+msgstr "Xotirada joy yetarli emas, lekin band."
 
 #: libdeja/restic/ResticJob.vala:532
 msgid "Try closing any open file manager windows and try again."
-msgstr ""
+msgstr "Ochiq fayl menejeri oynalarini yopib koʻring va qayta urining."
 
 #. Translators: "external" here means a backup that Deja Dup didn't make
 #: libdeja/restic/ResticJob.vala:611
 msgctxt "non-Deja-Dup backup"
 msgid "external"
-msgstr ""
+msgstr "tashqi"
 
 #: libdeja/restic/ResticPlugin.vala:36
 #, c-format
 msgid "Could not understand restic version ‘%s’."
-msgstr ""
+msgstr "Restikni ‘%s’ versiyasini tushunib boʻlmadi."
 
 #: libdeja/restic/ResticPlugin.vala:39
 #, c-format
@@ -1681,23 +1740,25 @@ msgid ""
 "Backups requires at least version %d.%d.%d of restic, but only found version"
 " %d.%d.%d"
 msgstr ""
+"Zaxiralash kamida %d.%d.%d versiyadagi restik talab qiladi, lekin faqat "
+"%d.%d.%d versiyasi topildi"
 
 #: libdeja/restic/ResticPlugin.vala:86
 msgid "Could not understand restic version."
-msgstr ""
+msgstr "Restikni versiyasini tushunib boʻlmadi."
 
 #: libdeja/restic/ResticPlugin.vala:115
 msgid "This storage location is not yet supported."
-msgstr ""
+msgstr "Bu saqlash joyi hali qoʻllab-quvvatlanmaydi."
 
 #: monitor/ReadyWatcher.vala:155
 msgid "Backup will begin when power saver mode is no longer active."
-msgstr ""
+msgstr "Quvvat tejash rejimi faol emasligida zaxiralash boshlanadi."
 
 #: monitor/ReadyWatcher.vala:169
 msgid ""
 "Backup will begin when an unmetered network connection becomes available."
-msgstr ""
+msgstr "Hisoblanmagan tarmoq aloqasi mavjudligida zaxiralash boshlanadi."
 
 #~ msgid "Change your backup settings"
 #~ msgstr "Заҳира нусхасини олиш созламаларингизни ўзгартиринг"
