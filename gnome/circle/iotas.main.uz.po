@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2025-11-01 21:41+0000\n"
+"POT-Creation-Date: 2025-11-08 12:49+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -449,7 +449,7 @@ msgstr "Kattalashtirish"
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:7 data/ui/formatting_header_bar.ui:158
+#: data/ui/formatting_header_bar.ui:7 data/ui/formatting_header_bar.ui:159
 #: data/ui/keyboard_shortcuts_dialog.ui:241
 msgid "Horizontal Rule"
 msgstr "Gorizontal qoida"
@@ -457,7 +457,7 @@ msgstr "Gorizontal qoida"
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:12 data/ui/formatting_header_bar.ui:167
+#: data/ui/formatting_header_bar.ui:12 data/ui/formatting_header_bar.ui:168
 #: data/ui/keyboard_shortcuts_dialog.ui:248
 msgid "Quote"
 msgstr "Iqtibos"
@@ -465,7 +465,7 @@ msgstr "Iqtibos"
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:17 data/ui/formatting_header_bar.ui:176
+#: data/ui/formatting_header_bar.ui:17 data/ui/formatting_header_bar.ui:177
 #: data/ui/keyboard_shortcuts_dialog.ui:227
 msgid "Code"
 msgstr "Kod"
@@ -473,7 +473,7 @@ msgstr "Kod"
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:22 data/ui/formatting_header_bar.ui:185
+#: data/ui/formatting_header_bar.ui:22 data/ui/formatting_header_bar.ui:186
 #: data/ui/keyboard_shortcuts_dialog.ui:255
 msgid "Table"
 msgstr "Jadval"
@@ -505,56 +505,56 @@ msgstr "Olib tashlash"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:81
+#: data/ui/formatting_header_bar.ui:82
 #: data/ui/keyboard_shortcuts_dialog.ui:185
 msgid "Heading"
 msgstr "Sarlavha"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:90
+#: data/ui/formatting_header_bar.ui:91
 #: data/ui/keyboard_shortcuts_dialog.ui:171
 msgid "Bold"
 msgstr "Qalin"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:99
+#: data/ui/formatting_header_bar.ui:100
 #: data/ui/keyboard_shortcuts_dialog.ui:178
 msgid "Italic"
 msgstr "Italic"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:108
+#: data/ui/formatting_header_bar.ui:109
 #: data/ui/keyboard_shortcuts_dialog.ui:234
 msgid "Strikethrough"
 msgstr "Ustidan chizish"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:117
+#: data/ui/formatting_header_bar.ui:118
 #: data/ui/keyboard_shortcuts_dialog.ui:192
 msgid "Unordered List"
 msgstr "Tartibsiz roʻyxat"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:126
+#: data/ui/formatting_header_bar.ui:127
 #: data/ui/keyboard_shortcuts_dialog.ui:199
 msgid "Ordered List"
 msgstr "Tartibli roʻyxat"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:135
+#: data/ui/formatting_header_bar.ui:136
 #: data/ui/keyboard_shortcuts_dialog.ui:206
 msgid "Checkbox"
 msgstr "Belgilash katakchasi"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:144
+#: data/ui/formatting_header_bar.ui:145
 #: data/ui/keyboard_shortcuts_dialog.ui:220
 msgid "Link"
 msgstr "Havola"

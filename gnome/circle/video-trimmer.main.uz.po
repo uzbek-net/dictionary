@@ -1,0 +1,363 @@
+# Uzbek (Latin) translation for video-trimmer.
+# Copyright (C) 2025 video-trimmer's COPYRIGHT HOLDER
+# This file is distributed under the same license as the video-trimmer package.
+# kHamidulloh <toxtayevhamidulloh6997@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: video-trimmer master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/YaLTeR/video-trimmer/-/issues\n"
+"POT-Creation-Date: 2025-11-08 21:34+0000\n"
+"PO-Revision-Date: 2025-10-20 18:20+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. Can't extract filenames from a VariantDict yet.
+#. Translators: --output commandline option description.
+#: src/application.rs:37
+msgid "Output file path"
+msgstr "Faylni chiqarish yoʻli"
+
+#. Translators: --output commandline option arg description.
+#: src/application.rs:39
+msgid "PATH"
+msgstr "YOʻL"
+
+#: src/main.rs:40 src/window.blp:45
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.desktop.in.in:2
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.metainfo.xml.in.in:5
+msgid "Video Trimmer"
+msgstr "Videoni qirqish vositasi"
+
+#: src/shortcuts.blp:9
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: src/shortcuts.blp:12
+msgctxt "shortcut window"
+msgid "Trim"
+msgstr "Qirqish"
+
+#: src/shortcuts.blp:17
+msgctxt "shortcut window"
+msgid "Set Start at current postion"
+msgstr "Joriy joylashuvdan boshlashni belgilash"
+
+#: src/shortcuts.blp:22
+msgctxt "shortcut window"
+msgid "Set End at current position"
+msgstr "Joriy joylashuvda tugashni belgilash"
+
+#: src/shortcuts.blp:27
+msgctxt "shortcut window"
+msgid "New window"
+msgstr "Yangi oyna"
+
+#: src/shortcuts.blp:32
+msgctxt "shortcut window"
+msgid "Close window"
+msgstr "Oynani yopish"
+
+#: src/shortcuts.blp:37
+msgctxt "shortcut window"
+msgid "Keyboard shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: src/shortcuts.blp:42
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: src/shortcuts.blp:48
+msgctxt "shortcut window"
+msgid "Playback"
+msgstr "Qayta ijro"
+
+#: src/shortcuts.blp:51
+msgctxt "shortcut window"
+msgid "Play / Pause"
+msgstr "Tinglash / Toʻxtatish"
+
+#: src/shortcuts.blp:56
+msgctxt "shortcut window"
+msgid "Step forward"
+msgstr "Oldinga qadam tashlash"
+
+#: src/shortcuts.blp:61
+msgctxt "shortcut window"
+msgid "Step back"
+msgstr "Orqaga qadam tashlash"
+
+#. Translators: Title that is shown if we couldn't load the video track for
+#. the opened file (but possibly loaded audio).
+#: src/video_preview.blp:17
+msgid "Could Not Load Video Track"
+msgstr "Video trekini yuklab boʻlmadi"
+
+#. Translators: Description that is shown if we couldn't load the video track
+#. for the opened file (but possibly loaded audio).
+#: src/video_preview.blp:20
+msgid ""
+"Maybe the file only has an audio track, or maybe the necessary video codec "
+"is missing."
+msgstr ""
+"Ehtimol, faylda faqat audio trek mavjud yoki kerakli video kodek "
+"oʻrnatilmagan boʻlishi mumkin."
+
+#. Translators: file chooser file filter name.
+#: src/window.rs:221
+msgid "Video files"
+msgstr "Video fayllar"
+
+#. Translators: file chooser dialog title.
+#: src/window.rs:228
+msgid "Open video"
+msgstr "Videoni ochish"
+
+#. Translators: error dialog title.
+#: src/window.rs:239 src/window.rs:387 src/window.rs:630
+msgid "Error"
+msgstr "Xatolik"
+
+#. Translators: error dialog text.
+#: src/window.rs:242 src/window.rs:390 src/window.rs:633
+msgid ""
+"Video Trimmer can only operate on local files. Please choose another file."
+msgstr ""
+"Video Trimmer faqat mahalliy fayllarda ishlashi mumkin. Boshqa faylni "
+"tanlang."
+
+#. Translators: error dialog button.
+#: src/window.rs:247 src/window.rs:395 src/window.rs:572 src/window.rs:594
+#: src/window.rs:638
+msgid "_OK"
+msgstr "Hop"
+
+#. Translators: this is appended to the output video file name.
+#. So for example "my video.mp4" will become "my video (trimmed).mp4".
+#: src/window.rs:356
+msgid " (trimmed)"
+msgstr " (qirqilgan)"
+
+#. Translators: message dialog text.
+#: src/window.rs:482
+msgid "Trimming…"
+msgstr "Qirqilmoqda…"
+
+#. Translators: trimming dialog button.
+#: src/window.rs:485
+msgid "_Cancel"
+msgstr "Bekor qilish"
+
+#. Translators: text on the toast after trimming was done.
+#. The placeholder is the video filename.
+#: src/window.rs:505
+msgid "{} has been saved"
+msgstr "{} saqlandi"
+
+#. Translators: text on the button of the toast after
+#. trimming was done to show the output file in the file
+#. manager.
+#: src/window.rs:512
+msgid "Show in Files"
+msgstr "Fayllar ichida koʻrsatish"
+
+#. Translators: error dialog heading.
+#: src/window.rs:544
+msgid "Error trimming video"
+msgstr "Videoni qirqishda xatolik yuz berdi"
+
+#. Translators: error dialog text before the FFmpeg
+#. error output.
+#: src/window.rs:548
+msgid "Please attach the following information when reporting an issue."
+msgstr "Muammo haqida xabar berishda quyidagi ma’lumotlarni biriktiring."
+
+#: src/window.rs:559
+msgid "Could not communicate with the ffmpeg subprocess"
+msgstr "FFmpeg ichki jarayoni bilan aloqa oʻrnatib boʻlmadi"
+
+#. Translators: error dialog text.
+#: src/window.rs:590
+msgid "Could not create the ffmpeg subprocess"
+msgstr "FFmpeg ichki jarayoni yaratib boʻlmadi"
+
+#. Translators: shown in the About dialog, put your name here.
+#: src/window.rs:855
+msgid "translator-credits"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#. Translators: link title in the About dialog.
+#: src/window.rs:858
+msgid "Contribute Translations"
+msgstr "Tarjimalarga hissa qoʻshish"
+
+#. Translators: name of https://gitlab.gnome.org/YaLTeR/identity
+#: src/window.rs:864
+msgid "Identity"
+msgstr "Identifikatsiya"
+
+#. Translators: summary of https://gitlab.gnome.org/YaLTeR/identity
+#: src/window.rs:866
+msgid "Compare images and videos"
+msgstr "Rasm va videolarni solishtirish"
+
+#: src/window.rs:873
+msgid "This release makes the trimming options more discoverable."
+msgstr "Bu versiya qirqish variantlarini yanada aniqroq qiladi."
+
+#: src/window.rs:874
+msgid "Changed the versioning scheme to year.month."
+msgstr "Versiyalash tizimi yil.oy koʻrinishiga oʻzgartirildi."
+
+#: src/window.rs:875
+msgid ""
+"Moved the accurate trimming and remove audio options from the save dialog to"
+" the main window."
+msgstr ""
+"Aniq qirqish va audioni olib tashlash variantlari saqlash oynasidan asosiy "
+"oynaga koʻchirildi."
+
+#: src/window.rs:876
+msgid "Added , and . shortcuts for short video stepping."
+msgstr ""
+"Qisqa video qadami uchun , (vergul) va . (nuqta) yorliqlari qoʻshildi."
+
+#: src/window.rs:877
+msgid "Updated to the GNOME 48 platform."
+msgstr "GNOME 48 platformasiga yangilandi."
+
+#: src/window.rs:878
+msgid "Updated translations."
+msgstr "Yangilangan tarjimalar."
+
+#. Translators: Primary menu entry that opens a new window.
+#: src/window.blp:8
+msgid "_New Window"
+msgstr "Yangi oyna"
+
+#. Translators: Primary menu entry that opens the Keyboard Shortcuts dialog.
+#: src/window.blp:14
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#. Translators: Primary menu entry that opens the About dialog.
+#: src/window.blp:20
+msgid "_About Video Trimmer"
+msgstr "Video Trimmer haqida"
+
+#. Translators: Options menu entry title that enables accurate trimming with
+#. re-encoding.
+#: src/window.blp:32
+msgid "Precise Trim"
+msgstr "Aniq qirqish"
+
+#. Translators: Options menu entry subtitle that enables accurate trimming
+#. with re-encoding.
+#: src/window.blp:34
+msgid "Slower and may lose quality due to re-encoding"
+msgstr ""
+"Sekinroq ishlashi va qayta kodlash natijasida sifat yoʻqotilishi mumkin"
+
+#. Translators: Options menu entry that strips audio from the video file.
+#: src/window.blp:39
+msgid "Remove Audio"
+msgstr "Audioni olib tashlash"
+
+#. Translators: Main menu button tooltip.
+#: src/window.blp:68 src/window.blp:124
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#. Translators: Title text on the window when no files are open.
+#: src/window.blp:77
+msgid "Trim Videos"
+msgstr "Videolarni qirqish"
+
+#. Translators: Description text on the window when no files are open.
+#: src/window.blp:80
+msgid "Drag and drop a video here"
+msgstr "Videoni bu yerga ushlab torting va tashlang"
+
+#. Translators: Open button label when no files are open.
+#: src/window.blp:84
+msgid "Open Video…"
+msgstr "Videoni ochish…"
+
+#. Translators: Open button tooltip.
+#: src/window.blp:86
+msgid "Select a Video"
+msgstr "Videoni tanlash"
+
+#. Translators: Trim button.
+#: src/window.blp:110
+msgid "Trim"
+msgstr "Qirqish"
+
+#. Translators: Trim button tooltip.
+#: src/window.blp:113
+msgid "Trim Video"
+msgstr "Videoni qirqish"
+
+#. Translators: Title that is shown upon video preview loading error.
+#: src/window.blp:152
+msgid "Video Preview Failed to Load"
+msgstr "Video oldindan koʻrishni yuklashda xatolik yuz berdi"
+
+#. Translators: Description that is shown upon video preview loading error.
+#: src/window.blp:155
+msgid ""
+"Please enter the start and end timestamps manually.\n"
+"\n"
+"If you're running Video Trimmer under Flatpak, note that opening files by drag-and-drop may not work."
+msgstr ""
+"Boshlash va tugatish vaqt belgilarini oddiy usulda kiriting.\n"
+"\n"
+"Agar Flatpak ostida Video Trimmerʼni ishga tushirayotgan boʻlsangiz, fayllarni tortish va tashlash orqali ochish ishlamasligi mumkin."
+
+#. Translators: Label for the entry for the start timestamp.
+#: src/window.blp:175
+msgid "Start"
+msgstr "Boshlash"
+
+#. Translators: Label for the entry for the end timestamp.
+#: src/window.blp:192
+msgid "End"
+msgstr "Tugatish"
+
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.desktop.in.in:3
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.metainfo.xml.in.in:6
+msgid "Trim videos quickly"
+msgstr "Videolarni tezda qirqish"
+
+#. Translators: search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.desktop.in.in:5
+msgid "Cut;Movie;Film;Clip;"
+msgstr "Qirqish;Kino;Film;Klip;"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.metainfo.xml.in.in:13
+msgid "Ivan Molodetskikh"
+msgstr "Ivan Molodetskikh"
+
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.metainfo.xml.in.in:23
+msgid ""
+"Video Trimmer cuts out a fragment of a video given the start and end "
+"timestamps. The video is never re-encoded, so the process is very fast and "
+"does not reduce the video quality."
+msgstr ""
+"Video Trimmer berilgan boshlanish va tugash vaqtlariga koʻra videoning "
+"ma’lum bir qismini qirqib oladi. Video hech qachon qayta kodlanmagani "
+"sababli, bu jarayon juda tez amalga oshadi va video sifatiga ta’sir "
+"qilmaydi."
+
+#: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.metainfo.xml.in.in:30
+msgid "Main Window"
+msgstr "Asosiy oyna"

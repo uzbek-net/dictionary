@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-11-01 13:07+0000\n"
+"POT-Creation-Date: 2025-11-08 19:29+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -333,12 +333,12 @@ msgid "Screenshot from %s%s.png"
 msgstr "%s%s.png dan skrinshot"
 
 #. Translators: Used when the title of a song is unknown
-#: src/media-player.c:649 src/ui/media-player.ui:208
+#: src/media-player.c:690 src/ui/media-player.ui:208
 msgid "Unknown Title"
 msgstr "Noma'lum sarlavha"
 
 #. Translators: Used when the artist of a song is unknown
-#: src/media-player.c:657 src/ui/media-player.ui:196
+#: src/media-player.c:698 src/ui/media-player.ui:196
 msgid "Unknown Artist"
 msgstr "Noma'lum rassom"
 
@@ -597,10 +597,10 @@ msgid "Sound Settings"
 msgstr "Ovoz sozlamalari"
 
 #: src/ui/brightness-settings.ui:87
-msgid "Automatic Screen Brightness"
+msgid "Automatic Brightness"
 msgstr ""
 
-#: src/ui/brightness-settings.ui:114
+#: src/ui/brightness-settings.ui:120
 #, fuzzy
 #| msgid "Sound Settings"
 msgid "Brightness Settings"
