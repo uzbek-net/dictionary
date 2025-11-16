@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2025-11-08 12:49+0000\n"
+"POT-Creation-Date: 2025-11-14 04:17+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -1327,17 +1327,17 @@ msgid "Uncategorised"
 msgstr "Toifalanmagan"
 
 #. Translators: Description, notification, {0} is a number
-#: iotas/editor.py:983
+#: iotas/editor.py:980
 #, python-brace-format
 msgid "Line length now {0}px"
 msgstr "Qator uzunligi endi {0}px"
 
 #. Translators: Description, notification
-#: iotas/editor.py:989
+#: iotas/editor.py:986
 msgid "Line length limit disabled"
 msgstr "Qator uzunligi cheklovi oʻchirilgan"
 
-#: iotas/editor.py:1590
+#: iotas/editor.py:1587
 msgid "Opening link in browser"
 msgstr "Havola brauzerda ochilmoqda"
 

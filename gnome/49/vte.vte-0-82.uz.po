@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vte vte-0-80\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/vte/issues/\n"
-"POT-Creation-Date: 2025-10-26 21:04+0000\n"
+"POT-Creation-Date: 2025-11-10 22:47+0000\n"
 "PO-Revision-Date: 2025-06-05 11:20+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.6\n"
 
-#: src/vte.cc:8342
+#: src/vte.cc:8359
 msgid "WARNING"
 msgstr "OGOHLANTIRISH"
 
-#: src/vte.cc:8344
+#: src/vte.cc:8361
 msgid "GnuTLS not enabled; data will be written to disk unencrypted!"
 msgstr ""
 "GnuTLS faollashtirilmagan; ma'lumotlar diskka shifrlanmagan holda yoziladi!"

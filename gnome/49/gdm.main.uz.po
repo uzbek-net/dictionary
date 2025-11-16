@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdm/issues/\n"
-"POT-Creation-Date: 2025-11-08 05:46+0000\n"
+"POT-Creation-Date: 2025-11-14 09:55+0000\n"
 "PO-Revision-Date: 2025-03-25 23:18+0500\n"
 "Last-Translator: Akbarkhon Variskhanov <akbarkhon.variskhanov@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -52,23 +52,23 @@ msgstr ""
 " qiling yoki tizim jurnalini tekshiring. Ayni paytda bu displey oʻchiriladi."
 " Muammo bartaraf etilgach, GDM ni qayta ishga tushiring."
 
-#: daemon/gdm-manager.c:758
+#: daemon/gdm-manager.c:681
 msgid "No display available"
 msgstr "Displey mavjud emas"
 
-#: daemon/gdm-manager.c:828 daemon/gdm-manager.c:1138
+#: daemon/gdm-manager.c:745 daemon/gdm-manager.c:1055
 msgid "No session available"
 msgstr "Seans mavjud emas"
 
-#: daemon/gdm-manager.c:844
+#: daemon/gdm-manager.c:761
 msgid "Can only be called before user is logged in"
 msgstr "Faqat foydalanuvchi kirishidan oldin chaqirilishi mumkin"
 
-#: daemon/gdm-manager.c:856
+#: daemon/gdm-manager.c:773
 msgid "Caller not GDM"
 msgstr "Chaqiruvchi GDM emas"
 
-#: daemon/gdm-manager.c:866
+#: daemon/gdm-manager.c:783
 msgid "Unable to open private communication channel"
 msgstr "Shaxsiy aloqa kanalini ochib boʻlmadi"
 

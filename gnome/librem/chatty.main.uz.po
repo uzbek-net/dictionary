@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chatty main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Chatty/issues\n"
-"POT-Creation-Date: 2025-10-16 17:07+0000\n"
+"POT-Creation-Date: 2025-11-10 11:24+0000\n"
 "PO-Revision-Date: 2025-04-04 22:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -471,21 +471,21 @@ msgstr "%Y-%daq-%d %I:%M %p"
 msgid "%Y-%m-%d"
 msgstr "%Y-%daq-%d"
 
-#: src/chatty-file-item.c:139 src/chatty-file-item.c:154
+#: src/chatty-file-item.c:142 src/chatty-file-item.c:157
 msgid "Contact"
 msgstr "Kontakt"
 
-#: src/chatty-file-item.c:151
+#: src/chatty-file-item.c:154
 #, c-format
 msgid "Contact: %s"
 msgstr "Kontakt: %s"
 
-#: src/chatty-file-item.c:172
+#: src/chatty-file-item.c:175
 #, c-format
 msgid "Invite: %s"
 msgstr "Taklif: %s"
 
-#: src/chatty-file-item.c:175
+#: src/chatty-file-item.c:178
 msgctxt "Invitation to event"
 msgid "Invitation"
 msgstr "Taklif"
@@ -1056,7 +1056,7 @@ msgid "Delete"
 msgstr "Oʻchirish"
 
 #. TRANSLATORS: %u is the number of members in a room
-#: src/dialogs/chatty-ma-chat-info.c:123
+#: src/dialogs/chatty-ma-chat-info.c:124
 #, fuzzy, c-format
 #| msgid "%u Member"
 #| msgid_plural "%u Members"
@@ -1552,20 +1552,24 @@ msgstr "Chat"
 msgid "Topic"
 msgstr "Mavzu"
 
-#: src/ui/chatty-ma-chat-info.ui:43 src/ui/chatty-pp-chat-info.ui:110
+#: src/ui/chatty-ma-chat-info.ui:41
+msgid "Room version"
+msgstr ""
+
+#: src/ui/chatty-ma-chat-info.ui:49 src/ui/chatty-pp-chat-info.ui:110
 msgid "Chat settings"
 msgstr "Chat sozlamalari"
 
-#: src/ui/chatty-ma-chat-info.ui:46 src/ui/chatty-pp-chat-info.ui:95
+#: src/ui/chatty-ma-chat-info.ui:52 src/ui/chatty-pp-chat-info.ui:95
 #: src/ui/chatty-pp-chat-info.ui:132
 msgid "Encryption"
 msgstr "Shifrlash"
 
-#: src/ui/chatty-ma-chat-info.ui:47 src/ui/chatty-pp-chat-info.ui:133
+#: src/ui/chatty-ma-chat-info.ui:53 src/ui/chatty-pp-chat-info.ui:133
 msgid "Encrypt Messages"
 msgstr "Xabarlarni shifrlash"
 
-#: src/ui/chatty-ma-chat-info.ui:62
+#: src/ui/chatty-ma-chat-info.ui:68
 #, fuzzy
 #| msgid "%u Member"
 #| msgid_plural "%u Members"

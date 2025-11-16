@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-11-08 19:29+0000\n"
+"POT-Creation-Date: 2025-11-15 10:33+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -691,6 +691,7 @@ msgid "Authentication required"
 msgstr "Autentifikatsiya talab qilinadi"
 
 #: src/ui/network-auth-prompt.ui:37
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:75
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:212
 msgid "_Cancel"
 msgstr "_Bekor qilish"
@@ -810,16 +811,16 @@ msgstr "Uyali"
 
 #. Translators: Phosh prevents the session from going idle because the
 #. caffeine quick setting is toggled
-#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:68
+#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:70
 msgid "Phosh on caffeine"
 msgstr "Kofein haqida Phosh"
 
-#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:226
+#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:245
 msgctxt "caffeine-disabled"
 msgid "Off"
 msgstr "Oʻchirilgan"
 
-#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:231
+#: plugins/caffeine-quick-setting/caffeine-quick-setting.c:250
 msgctxt "caffeine-enabled"
 msgid "On"
 msgstr "Yoniq"
@@ -831,6 +832,74 @@ msgstr ""
 #: plugins/caffeine-quick-setting/qs.ui:37
 msgid "No caffeine intervals"
 msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/caffeine-quick-setting-prefs.c:253
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:171
+msgid "No timeout (∞)"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:7
+#, fuzzy
+#| msgid "Caffeine Quick Setting"
+msgid "Caffeine Quick Setting Preferences"
+msgstr "Kofeinni tez sozlash"
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:11
+#, fuzzy
+#| msgid "_Active Duration"
+msgid "Caffeine Duration"
+msgstr "_Faol davomiyligi"
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:15
+msgid "Manage Caffeine Duration"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:16
+msgid "Add or remove custom caffeine intervals"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:22
+#, fuzzy
+#| msgid "Add Contact"
+msgid "Add interval"
+msgstr "_Kontakt qoʻshish"
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:66
+#, fuzzy
+#| msgid "Add New Contact"
+msgid "Add New Interval"
+msgstr "Yangi kontakt qoʻshish"
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:83
+#: plugins/emergency-info/prefs/emergency-info-prefs.ui:220
+msgid "_Add"
+msgstr "_Qoʻshish"
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:115
+msgid "Quickstart Intervals"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:127
+msgid "5 m"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:138
+msgid "15 m"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:149
+msgid "30 m"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:160
+msgid "1 h"
+msgstr ""
+
+#: plugins/caffeine-quick-setting/prefs/prefs.ui:188
+#, fuzzy
+#| msgid "Choose Folder"
+msgid "Choose Interval"
+msgstr "Jildni tanlang"
 
 #: plugins/dark-mode-quick-setting/dark-mode-quick-setting.c:34
 msgid "Default style"
@@ -945,10 +1014,6 @@ msgstr "_Kontakt qoʻshish"
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:203
 msgid "Add New Contact"
 msgstr "Yangi kontakt qoʻshish"
-
-#: plugins/emergency-info/prefs/emergency-info-prefs.ui:220
-msgid "_Add"
-msgstr "_Qoʻshish"
 
 #: plugins/emergency-info/prefs/emergency-info-prefs.ui:240
 msgid "_Contact Name"
