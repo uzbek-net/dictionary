@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtk/-/issues/\n"
-"POT-Creation-Date: 2025-11-05 23:03+0000\n"
+"POT-Creation-Date: 2025-11-21 16:24+0000\n"
 "PO-Revision-Date: 2025-05-23 11:38+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -47,22 +47,22 @@ msgstr ""
 msgid "No compatible formats to transfer clipboard contents."
 msgstr ""
 
-#: gdk/gdkcolorstate.c:1081
+#: gdk/gdkcolorstate.c:1089
 #, c-format
 msgid "cicp: Unspecified parameters not supported"
 msgstr ""
 
-#: gdk/gdkcolorstate.c:1127
+#: gdk/gdkcolorstate.c:1135
 #, c-format
 msgid "cicp: Transfer function %u not supported"
 msgstr ""
 
-#: gdk/gdkcolorstate.c:1158
+#: gdk/gdkcolorstate.c:1166
 #, c-format
 msgid "cicp: Color primaries %u not supported"
 msgstr ""
 
-#: gdk/gdkcolorstate.c:1185
+#: gdk/gdkcolorstate.c:1193
 #, c-format
 msgid "cicp: Matrix coefficients %u, %s not supported"
 msgstr ""
@@ -82,7 +82,7 @@ msgstr "Quyidagi oqimni yaratib boʻlmadi: %s"
 msgid "The current backend does not support OpenGL"
 msgstr ""
 
-#: gdk/gdkdisplay.c:1365 gdk/gdkvulkancontext.c:1754
+#: gdk/gdkdisplay.c:1365 gdk/gdkvulkancontext.c:1962
 msgid "Vulkan support disabled via GDK_DISABLE"
 msgstr ""
 
@@ -2434,7 +2434,7 @@ msgstr "%s tugmalar birikmasi allaqachon mavjud"
 #: gtk/print/gtkpagesetupunixdialog.c:285 gtk/print/gtkprintbackend.c:654
 #: gtk/print/gtkprintunixdialog.c:683 gtk/print/gtkprintunixdialog.c:840
 #: gtk/gtkwindow.c:6465 gtk/ui/gtkappchooserdialog.ui:51
-#: gtk/ui/gtkassistant.ui:52 gtk/ui/gtkcolorchooserdialog.ui:36
+#: gtk/ui/gtkassistant.ui:52 gtk/ui/gtkcolorchooserdialog.ui:44
 #: gtk/ui/gtkfontchooserdialog.ui:29
 #, fuzzy
 #| msgctxt "Stock label"
@@ -2813,7 +2813,7 @@ msgid "Save a File"
 msgstr "Faylni tanlang"
 
 #: gtk/gtkfiledialog.c:896 gtk/ui/gtkappchooserdialog.ui:56
-#: gtk/ui/gtkcolorchooserdialog.ui:41 gtk/ui/gtkfontchooserdialog.ui:34
+#: gtk/ui/gtkcolorchooserdialog.ui:49 gtk/ui/gtkfontchooserdialog.ui:34
 #, fuzzy
 #| msgid "_Selection: "
 msgid "_Select"

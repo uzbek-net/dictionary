@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drum-machine master\n"
 "Report-Msgid-Bugs-To: https://github.com/revisto/drum-machine/issues\n"
-"POT-Creation-Date: 2025-11-15 15:25+0000\n"
+"POT-Creation-Date: 2025-11-22 15:26+0000\n"
 "PO-Revision-Date: 2025-10-13 12:05+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -18,7 +18,8 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 #: data/io.github.revisto.drum-machine.desktop.in:2
-#: data/io.github.revisto.drum-machine.metainfo.xml.in:6 src/window.ui:69
+#: data/io.github.revisto.drum-machine.metainfo.xml.in:6 src/application.py:59
+#: src/window.ui:69
 msgid "Drum Machine"
 msgstr "Baraban mashinasi"
 
@@ -65,7 +66,9 @@ msgid "Volume control for overall mix"
 msgstr "Umumiy miks uchun tovush balandligini boshqarish"
 
 #: data/io.github.revisto.drum-machine.metainfo.xml.in:20
-msgid "Save and load preset patterns"
+#, fuzzy
+#| msgid "Save and load preset patterns"
+msgid "Save and load patterns"
 msgstr "Oldindan sozlangan andozalarni saqlash va yuklash"
 
 #: data/io.github.revisto.drum-machine.metainfo.xml.in:21
@@ -97,9 +100,28 @@ msgstr "Yorugʻlik rejimida baraban naqshi yuklandi"
 msgid "Drum Pattern Loaded in Dark Mode"
 msgstr "Qorongʻi rejimda baraban naqshi yuklandi"
 
-#: src/application.py:69
+#: src/application.py:66
+msgid ""
+"Drum Machine is a modern and intuitive application for creating, playing, "
+"and managing drum patterns."
+msgstr ""
+
+#: src/application.py:71
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#: src/application.py:76
+msgid "Special thanks"
+msgstr ""
+
+#: src/application.py:79
+msgid "Sounds"
+msgstr ""
+
+#: src/application.py:80
+#, python-brace-format
+msgid "The drum samples used in this application are from {link}."
+msgstr ""
 
 #: src/config/export_formats.py:43
 msgid "MP3 files"
@@ -133,32 +155,334 @@ msgstr "WAV fayllar"
 msgid "WAV (Uncompressed)"
 msgstr "WAV (zichlanmagan audio fayl formati)"
 
-#: src/dialogs/audio_export_dialog.py:115
+#: src/dialogs/audio_export_dialog.py:117
 msgid "Save Audio File"
 msgstr "Audio faylni saqlash"
 
-#: src/dialogs/audio_export_dialog.py:139
+#: src/dialogs/audio_export_dialog.py:146
+msgid "Part “{}” is Silent"
+msgstr ""
+
+#: src/dialogs/audio_export_dialog.py:148
+msgid "Parts “{}” and “{}” are Silent"
+msgstr ""
+
+#: src/dialogs/audio_export_dialog.py:152
+msgid "{} Parts are Silent"
+msgstr ""
+
+#: src/dialogs/audio_export_dialog.py:177
 msgid "Image files"
 msgstr "Rasm fayllar"
 
-#: src/dialogs/audio_export_dialog.py:145
+#: src/dialogs/audio_export_dialog.py:183
 msgid "Select Cover Art"
 msgstr "Muqova san’atini tanlang"
 
-#: src/dialogs/audio_export_dialog.py:202
+#: src/dialogs/audio_export_dialog.py:240
 msgid "Audio exported to {}"
 msgstr "Audio {} jildiga eksport qilindi"
 
-#: src/dialogs/audio_export_dialog.py:207
+#: src/dialogs/audio_export_dialog.py:245
 msgid "Export failed"
 msgstr "Eksport amalga oshmadi"
 
-#: src/dialogs/audio_export_dialog.py:214
+#: src/dialogs/audio_export_dialog.py:252
 msgid "Export cancelled successfully"
 msgstr "Eksport muvaffaqiyatli bekor qilindi"
 
+#: src/dialogs/midi_mapping_dialog.py:21
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:22
+msgid "Bass Drum 1"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:23
+msgid "Side Stick"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:24
+msgid "Acoustic Snare"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:25
+msgid "Hand Clap"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:26
+msgid "Electric Snare"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:27
+msgid "Low Floor Tom"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:28
+msgid "Closed Hi Hat"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:29
+msgid "High Floor Tom"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:30
+msgid "Pedal Hi Hat"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:31
+msgid "Low Tom"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:32
+msgid "Open Hi Hat"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:33
+msgid "Low-Mid Tom"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:34
+msgid "Hi-Mid Tom"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:35
+msgid "Crash Cymbal 1"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:36
+msgid "High Tom"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:37
+msgid "Ride Cymbal 1"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:38
+msgid "Chinese Cymbal"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:39
+msgid "Ride Bell"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:40
+msgid "Tambourine"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:41
+msgid "Splash Cymbal"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:42
+msgid "Cowbell"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:43
+msgid "Crash Cymbal 2"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:44
+msgid "Vibraslap"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:45
+msgid "Ride Cymbal 2"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:46
+msgid "Hi Bongo"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:47
+msgid "Low Bongo"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:48
+msgid "Mute Hi Conga"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:49
+msgid "Open Hi Conga"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:50
+msgid "Low Conga"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:51
+msgid "High Timbale"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:52
+msgid "Low Timbale"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:53
+msgid "High Agogo"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:54
+msgid "Low Agogo"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:55
+msgid "Cabasa"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:56
+msgid "Maracas"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:57
+msgid "Short Whistle"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:58
+msgid "Long Whistle"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:59
+#, fuzzy
+#| msgid "Export Audio"
+msgid "Short Guiro"
+msgstr "Audioni eksport qilish"
+
+#: src/dialogs/midi_mapping_dialog.py:60
+msgid "Long Guiro"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:61
+msgid "Claves"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:62
+msgid "Hi Wood Block"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:63
+msgid "Low Wood Block"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:64
+msgid "Mute Cuica"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:65
+msgid "Open Cuica"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:66
+msgid "Mute Triangle"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:67
+msgid "Open Triangle"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:77 src/ui/drum_grid_builder.py:328
+msgid "MIDI Mapping"
+msgstr ""
+
+#. Group 1: Note Assignment
+#: src/dialogs/midi_mapping_dialog.py:107
+msgid "Note Assignment"
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:110
+msgid ""
+"Assign a MIDI note for '{}'. This ensures correct playback when exporting."
+msgstr ""
+
+#. Action Row for Note
+#: src/dialogs/midi_mapping_dialog.py:117
+#, fuzzy
+#| msgid "MIDI files"
+msgid "MIDI Note"
+msgstr "MIDI fayllar"
+
+#: src/dialogs/midi_mapping_dialog.py:118
+msgid "The note number to trigger"
+msgstr ""
+
+#. Group 2: Standard Instruments
+#: src/dialogs/midi_mapping_dialog.py:136
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Go to Instrument"
+msgid "Standard Instruments"
+msgstr "Uskunani ochish"
+
+#: src/dialogs/midi_mapping_dialog.py:138
+msgid "Select a General MIDI instrument to automatically set the note."
+msgstr ""
+
+#: src/dialogs/midi_mapping_dialog.py:142
+#, fuzzy
+#| msgid "Open Preset"
+msgid "Instrument Preset"
+msgstr "Tayyor sozlamani ochish"
+
+#: src/dialogs/midi_mapping_dialog.py:185
+#, fuzzy
+#| msgid "_Save"
+msgid "Save"
+msgstr "Saqlash"
+
+#: src/dialogs/midi_mapping_dialog.py:227
+msgid "Custom Note"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:88
+msgid "Not a supported audio file"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:95
+msgid "File not found"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:99
+msgid "Selected item is not a file"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:105
+msgid "File too large: {:.1f}MB (max 50MB)"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:114
+msgid "Custom Sound"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:138
+msgid "No valid audio files found"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:173
+msgid "Error processing file: {}"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:201
+msgid "Added {} drum part, {} files skipped"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:207
+msgid "Added {} drum parts, {} files skipped"
+msgstr ""
+
+#: src/handlers/drag_drop_handler.py:212
+msgid "Added {} drum parts"
+msgstr ""
+
+#. Only show skipped message if no replacement happened
+#: src/handlers/drag_drop_handler.py:215
+msgid "{} files skipped"
+msgstr ""
+
 #: src/handlers/file_dialog_handler.py:51
-msgid "Default Presets"
+#, fuzzy
+#| msgid "Default Presets"
+msgid "Default Patterns"
 msgstr "Birlamchi sozlamalar"
 
 #: src/handlers/file_dialog_handler.py:83
@@ -186,71 +510,173 @@ msgstr "MIDI faylni ochish"
 msgid "Save Sequence"
 msgstr "Ketma-ketlikni saqlash"
 
-#: src/utils/export_progress.py:68
-msgid "Preparing..."
-msgstr "Tayyorlanmoqda…"
+#: src/handlers/file_dialog_handler.py:210
+msgid "Add Audio Samples"
+msgstr ""
+
+#: src/handlers/file_dialog_handler.py:232
+#, fuzzy
+#| msgid "WAV files"
+msgid "Audio files"
+msgstr "WAV fayllar"
 
 #: src/utils/export_progress.py:69
-msgid "Initializing..."
+#, fuzzy
+#| msgid "Preparing..."
+msgid "Preparing…"
+msgstr "Tayyorlanmoqda…"
+
+#: src/utils/export_progress.py:70
+#, fuzzy
+#| msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Ishga tushirilmoqda..."
 
-#: src/utils/export_progress.py:71
-msgid "Rendering audio..."
+#: src/utils/export_progress.py:72
+#, fuzzy
+#| msgid "Rendering audio..."
+msgid "Rendering audio…"
 msgstr "Audio tayyorlanmoqda..."
 
-#: src/utils/export_progress.py:72
-msgid "Processing beats..."
+#: src/utils/export_progress.py:73
+#, fuzzy
+#| msgid "Processing beats..."
+msgid "Processing beats…"
 msgstr "Ritmlar ishlanmoqda..."
 
-#: src/utils/export_progress.py:74
-msgid "Saving file..."
+#: src/utils/export_progress.py:75
+#, fuzzy
+#| msgid "Saving file..."
+msgid "Saving file…"
 msgstr "Fayl saqlanmoqda..."
 
-#: src/utils/export_progress.py:75
-msgid "Writing to disk..."
+#: src/utils/export_progress.py:76
+#, fuzzy
+#| msgid "Writing to disk..."
+msgid "Writing to disk…"
 msgstr "Diskka yozilmoqda..."
 
-#: src/utils/export_progress.py:77
-msgid "Exporting..."
+#: src/utils/export_progress.py:78
+#, fuzzy
+#| msgid "Exporting..."
+msgid "Exporting…"
 msgstr "Eksport qilinmoqda…"
 
-#: src/utils/export_progress.py:78
-msgid "Processing..."
+#: src/utils/export_progress.py:79
+#, fuzzy
+#| msgid "Processing..."
+msgid "Processing…"
 msgstr "Qayta ishlanmoqda..."
 
+#: src/ui/drum_grid_builder.py:313
+msgid "Preview"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:315
+msgid "Replace…"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:318
+msgid "Replace with new sound"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:321
+msgid "Remove"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:324
+msgid "At least one drum part must remain"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:331
+msgid "Configure MIDI note for export"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:388
+msgid "MIDI note updated"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:396
+msgid "Select New Sound"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:410
+msgid "Sound replaced"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:414
+msgid "Failed to replace sound"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:425
+msgid "Removed drum part: {}"
+msgstr ""
+
+#: src/ui/drum_grid_builder.py:429
+msgid "Failed to remove drum part"
+msgstr ""
+
 #. Update tooltip and accessibility with current BPM
-#: src/window.py:198
+#: src/window.py:195
 msgid "{} Beats per Minute (BPM)"
 msgstr "Daqiqasiga {} ta zarba (DZ)"
 
 #. Update button tooltip to show current volume level
-#: src/window.py:207
+#: src/window.py:204
 msgid "{:.0f}% Volume"
 msgstr "{:.0f}% ovoz balandligi"
 
-#: src/window.py:222 src/window.ui:170
+#: src/window.py:219 src/window.ui:170
 msgid "Play"
 msgstr "Ijro"
 
-#: src/window.py:226
+#: src/window.py:223
 msgid "Pause"
 msgstr "Toʻxtatish"
 
-#: src/window.py:264 src/window.ui:52
+#: src/window.py:261
 msgid "Open"
 msgstr "Ochish"
 
+#: src/window.py:279
+msgid "Added: {}"
+msgstr ""
+
+#: src/window.py:290
+msgid "Failed to add custom sound"
+msgstr ""
+
+#: src/window.py:297
+msgid "Replaced drum with: {}"
+msgstr ""
+
+#: src/window.py:303
+msgid "Failed to replace drum sound"
+msgstr ""
+
+#: src/window.ui:52
+#, fuzzy
+#| msgid "Open"
+msgid "Open…"
+msgstr "Ochish"
+
 #: src/window.ui:54
-msgid "Open Preset"
-msgstr "Tayyor sozlamani ochish"
+#, fuzzy
+#| msgid "No Pattern"
+msgid "Open Pattern"
+msgstr "Naqshsiz"
 
 #: src/window.ui:57
+#, fuzzy
+#| msgid "No Pattern"
 msgctxt "accessibility"
-msgid "Open Preset"
-msgstr "Tayyor sozlamani ochish"
+msgid "Open Pattern"
+msgstr "Naqshsiz"
 
 #: src/window.ui:58
-msgid "Open Saved Drum Pattern Preset"
+#, fuzzy
+#| msgid "Open Saved Drum Pattern Preset"
+msgid "Open Saved Drum Pattern"
 msgstr "Saqlangan baraban naqsh sozlamasini ochish"
 
 #: src/window.ui:76
@@ -266,14 +692,17 @@ msgstr "Asosiy menyu"
 msgid "Access Keyboard Shortcuts and Application Information"
 msgstr "Klaviatura yorliqlari va ilova haqidagi axborotga kirish"
 
-#: src/window.ui:86 src/gtk/audio-export-dialog.blp:6
-#: src/gtk/audio-export-dialog.blp:96
-msgid "Export Audio"
+#: src/window.ui:86
+#, fuzzy
+#| msgid "Export Audio"
+msgid "Export Audio…"
 msgstr "Audioni eksport qilish"
 
 #: src/window.ui:88
+#, fuzzy
+#| msgid "Export Audio"
 msgctxt "accessibility"
-msgid "Export Audio"
+msgid "Export Audio…"
 msgstr "Audioni eksport qilish"
 
 #: src/window.ui:89
@@ -304,17 +733,21 @@ msgstr "Qayta tiklash"
 msgid "Reset the Drum Sequence"
 msgstr "Baraban ketma-ketligini asliga qaytarish"
 
-# andaza soʻzi togʻri keladimi bu yerga?
 #: src/window.ui:223
+msgid "_Add Samples…"
+msgstr ""
+
+# andaza soʻzi togʻri keladimi bu yerga?
+#: src/window.ui:227
 #, fuzzy
-msgid "_Save Pattern"
+msgid "_Save Pattern…"
 msgstr "Naqshni saqlash"
 
-#: src/window.ui:229
+#: src/window.ui:233
 msgid "_Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
-#: src/window.ui:233
+#: src/window.ui:237
 msgid "_About Drum Machine"
 msgstr "Barabanli mashina haqida"
 
@@ -379,19 +812,26 @@ msgid "Mute"
 msgstr "Ovozsiz"
 
 #: src/gtk/help-overlay.blp:76
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Preset Management"
 msgctxt "shortcut window"
-msgid "Preset Management"
+msgid "Pattern Management"
 msgstr "Oldindan sozlash boshqaruvi"
 
 #: src/gtk/help-overlay.blp:79
+#, fuzzy
+#| msgid "No Pattern"
 msgctxt "shortcut window"
-msgid "Load Preset"
-msgstr "Tayyor sozlamani yuklash"
+msgid "Load Pattern"
+msgstr "Naqshsiz"
 
+# andaza soʻzi togʻri keladimi bu yerga?
 #: src/gtk/help-overlay.blp:85
+#, fuzzy
 msgctxt "shortcut window"
-msgid "Save Preset"
-msgstr "Tayyor sozlamani saqlash"
+msgid "Save Pattern"
+msgstr "Naqshni saqlash"
 
 #: src/gtk/help-overlay.blp:91
 msgctxt "shortcut window"
@@ -423,9 +863,13 @@ msgid "Save Changes?"
 msgstr "Oʻzgarishlar saqlansinmi?"
 
 #: src/gtk/save-changes-dialog.blp:6
+#, fuzzy
+#| msgid ""
+#| "Current preset contains unsaved changes. Changes which are not saved will be"
+#| " permanently lost."
 msgid ""
-"Current preset contains unsaved changes. Changes which are not saved will be"
-" permanently lost."
+"Current pattern contains unsaved changes. Changes which are not saved will "
+"be permanently lost."
 msgstr ""
 "Joriy sozlamada saqlanmagan oʻzgarishlar mavjud. Saqlanmagan oʻzgarishlar "
 "butunlay yoʻqoladi."
@@ -445,38 +889,60 @@ msgstr "Bekor qilish"
 msgid "_Save"
 msgstr "Saqlash"
 
-#: src/gtk/audio-export-dialog.blp:39
+#: src/gtk/audio-export-dialog.blp:6 src/gtk/audio-export-dialog.blp:101
+msgid "Export Audio"
+msgstr "Audioni eksport qilish"
+
+#: src/gtk/audio-export-dialog.blp:44
 msgid "Audio Format"
 msgstr "Audio formati"
 
-#: src/gtk/audio-export-dialog.blp:45
+#: src/gtk/audio-export-dialog.blp:50
 msgid "Repeat Count"
 msgstr "Takrorlashlar soni"
 
-#: src/gtk/audio-export-dialog.blp:46
+#: src/gtk/audio-export-dialog.blp:51
 msgid "How many times to repeat the pattern"
 msgstr "Naqshni necha marta takrorlash kerak"
 
-#: src/gtk/audio-export-dialog.blp:59
+#: src/gtk/audio-export-dialog.blp:64
 msgid "Metadata"
 msgstr "Meta maʼlumotlar"
 
-#: src/gtk/audio-export-dialog.blp:62
+#: src/gtk/audio-export-dialog.blp:67
 msgid "Artist Name"
 msgstr "Ijrochi nomi"
 
-#: src/gtk/audio-export-dialog.blp:67
+#: src/gtk/audio-export-dialog.blp:72
 msgid "Song Name"
 msgstr "Tarona nomi"
 
-#: src/gtk/audio-export-dialog.blp:72
+#: src/gtk/audio-export-dialog.blp:77
 msgid "Cover Art"
 msgstr "Muqova san’ati"
 
-#: src/gtk/audio-export-dialog.blp:76
-msgid "Choose File"
+#: src/gtk/audio-export-dialog.blp:81
+#, fuzzy
+#| msgid "Choose File"
+msgid "Choose File…"
 msgstr "Faylni tanlash"
 
-#: src/gtk/audio-export-dialog.blp:105
+#: src/gtk/audio-export-dialog.blp:110
 msgid "Cancel Export"
 msgstr "Eksportni bekor qilish"
+
+#~ msgctxt "accessibility"
+#~ msgid "Open Preset"
+#~ msgstr "Tayyor sozlamani ochish"
+
+#~ msgctxt "accessibility"
+#~ msgid "Export Audio"
+#~ msgstr "Audioni eksport qilish"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Load Preset"
+#~ msgstr "Tayyor sozlamani yuklash"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Save Preset"
+#~ msgstr "Tayyor sozlamani saqlash"

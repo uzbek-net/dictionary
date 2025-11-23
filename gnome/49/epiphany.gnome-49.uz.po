@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2025-11-13 21:20+0000\n"
+"POT-Creation-Date: 2025-11-22 23:21+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1864,7 +1864,7 @@ msgstr "Aynan ushbu xato: %s"
 #. Translators: tooltip for the refresh button
 #: embed/ephy-web-view.c:1928 embed/ephy-web-view.c:1981
 #: embed/ephy-web-view.c:2017 embed/ephy-web-view.c:2053
-#: src/ephy-action-bar-start.c:36 src/ephy-location-entry.c:1646
+#: src/ephy-action-bar-start.c:36 src/ephy-location-entry.c:1653
 msgid "Reload"
 msgstr "Qayta yuklash"
 
@@ -2497,7 +2497,7 @@ msgid "Save Media As"
 msgstr "Mediani quyidagidek saqlash"
 
 #. Translators: tooltip for the stop button
-#: src/ephy-action-bar-start.c:575 src/ephy-location-entry.c:1655
+#: src/ephy-action-bar-start.c:575 src/ephy-location-entry.c:1662
 msgid "Stop"
 msgstr "Toʻxtatish"
 
@@ -2683,17 +2683,17 @@ msgstr "Maxfiy rejimda ishlamaydi"
 msgid "Clear History"
 msgstr "Tarixni tozalash"
 
-#: src/ephy-location-entry.c:345 src/resources/gtk/location-entry.blp:98
+#: src/ephy-location-entry.c:352 src/resources/gtk/location-entry.blp:98
 msgid "Search for websites, bookmarks, and open tabs"
 msgstr "Veb-saytlar, xatchoʻplar va ochiq varaqlarni izlash"
 
-#: src/ephy-location-entry.c:1352
+#: src/ephy-location-entry.c:1359
 #, fuzzy
 #| msgid "_Security"
 msgid "Secure Site"
 msgstr "_Xavfsizlik"
 
-#: src/ephy-location-entry.c:1354
+#: src/ephy-location-entry.c:1361
 #, fuzzy
 #| msgid "Insecure"
 msgid "Insecure Site"

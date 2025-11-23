@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2025-11-15 17:39+0000\n"
+"POT-Creation-Date: 2025-11-22 20:37+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -742,15 +742,18 @@ msgstr "Chiroqni afzal koʻring"
 msgid "Prefer camera flash over status LED when available"
 msgstr "Mavjud boʻlsa, holat LED'idan koʻra kamera chirogʻini afzal koʻring"
 
-#. Translators: Vol- means the 'Lower Volume' key
 #: src/ui/ms-feedback-panel.ui:53
-msgid "Silence on Vol-"
-msgstr "Ovozdagi sukunat"
+msgid "Silence by volume button press"
+msgstr ""
 
 #: src/ui/ms-feedback-panel.ui:54
+#, fuzzy
+#| msgid ""
+#| "When locked put the phone in silent mode when pressing Vol- on incoming "
+#| "calls"
 msgid ""
-"When locked put the phone in silent mode when pressing Vol- on incoming "
-"calls"
+"When locked put the phone in silent mode when pressing the button that "
+"lowers the volume on incoming calls"
 msgstr ""
 "Qulflanganda, kiruvchi qoʻngʻiroqlar ovozini bosganda telefonni jim rejimga "
 "qoʻying"
@@ -1241,3 +1244,6 @@ msgstr "Qoʻshimcha tezkor sozlamalarni tartibga soling"
 
 #~ msgid "Applications"
 #~ msgstr "Ilovalar"
+
+#~ msgid "Silence on Vol-"
+#~ msgstr "Ovozdagi sukunat"

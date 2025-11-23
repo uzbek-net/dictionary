@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libadwaita libadwaita-1-8\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
-"POT-Creation-Date: 2025-11-05 23:34+0000\n"
+"POT-Creation-Date: 2025-11-20 23:42+0000\n"
 "PO-Revision-Date: 2025-10-13 17:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -536,12 +536,12 @@ msgstr "Afzalliklar"
 msgid "Search preferences"
 msgstr "Afzalliklarni qidirish"
 
-#: src/adw-preferences-dialog.ui:152 src/adw-preferences-window.ui:163
-#: src/adw-shortcuts-dialog.ui:74
+#: src/adw-preferences-dialog.ui:153 src/adw-preferences-window.ui:163
+#: src/adw-shortcuts-dialog.ui:75
 msgid "No Results Found"
 msgstr "Natija yoʻq"
 
-#: src/adw-preferences-dialog.ui:153 src/adw-shortcuts-dialog.ui:75
+#: src/adw-preferences-dialog.ui:154 src/adw-shortcuts-dialog.ui:76
 #: src/adw-tab-overview.ui:110
 msgid "Try a different search"
 msgstr "Boshqa qidiruvni sinab koʻrish"

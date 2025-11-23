@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: baobab main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/baobab/issues/\n"
-"POT-Creation-Date: 2025-11-10 11:17+0000\n"
+"POT-Creation-Date: 2025-11-22 11:19+0000\n"
 "PO-Revision-Date: 2025-04-16 07:48+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 
 #: data/org.gnome.baobab.desktop.in:2 data/org.gnome.baobab.metainfo.xml.in:6
-#: data/ui/baobab-main-window.ui:35 src/baobab-window.vala:260
+#: data/ui/baobab-main-window.ui:35 src/baobab-window.vala:262
 msgid "Disk Usage Analyzer"
 msgstr "Diskdan foydalanish tahlilchisi"
 
@@ -60,7 +60,7 @@ msgid "Scan View"
 msgstr "Skanerlash koʻrinishi"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.baobab.metainfo.xml.in:41 src/baobab-window.vala:262
+#: data/org.gnome.baobab.metainfo.xml.in:41 src/baobab-window.vala:264
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -219,7 +219,7 @@ msgstr "_Yordam"
 msgid "_About Disk Usage Analyzer"
 msgstr "_Diskdan foydalanish tahlilchisi haqida"
 
-#: data/ui/baobab-main-window.ui:45 src/baobab-window.vala:571
+#: data/ui/baobab-main-window.ui:45 src/baobab-window.vala:584
 msgid "Devices & Locations"
 msgstr "Qurilma & Manzillar"
 
@@ -336,46 +336,46 @@ msgstr "E’tiborga olinmaydigan manzilni tanlang"
 msgid "_Add Location"
 msgstr "_Manzil qoʻshish"
 
-#: src/baobab-window.vala:179
+#: src/baobab-window.vala:181
 msgid "Select Folder"
 msgstr "Jild tanlash"
 
-#: src/baobab-window.vala:186
+#: src/baobab-window.vala:188
 #, fuzzy
 msgid "Recursively analyze mount points"
 msgstr "Fayl tizimi nuqtalarini rekursiv tarzda tahlil qilish"
 
-#: src/baobab-window.vala:210
+#: src/baobab-window.vala:212
 #, fuzzy
 msgid "Could not analyze volume"
 msgstr "Boʻlimni tahlil qilish mumkin emas"
 
-#: src/baobab-window.vala:269
+#: src/baobab-window.vala:271
 msgid "translator-credits"
 msgstr "Asadbek Rajabov <asadbekrajabov1337@gmail.com>"
 
-#: src/baobab-window.vala:329
+#: src/baobab-window.vala:331
 msgid "Failed to open file"
 msgstr "Faylni ochib boʻlmadi"
 
-#: src/baobab-window.vala:346
+#: src/baobab-window.vala:348
 msgid "Failed to trash file"
 msgstr "Faylni axlatga tashlashda xatolik yuz berdi"
 
-#: src/baobab-window.vala:623
+#: src/baobab-window.vala:636
 msgid "Could not scan folder"
 msgstr "Jildni skanerlab boʻlmadi"
 
-#: src/baobab-window.vala:638
+#: src/baobab-window.vala:651
 msgid "Scan completed"
 msgstr "Skanerlash yakunlandi"
 
-#: src/baobab-window.vala:639
+#: src/baobab-window.vala:652
 #, c-format
 msgid "Completed scan of “%s”"
 msgstr "“%s” skanerlash yakunlandi"
 
-#: src/baobab-window.vala:679
+#: src/baobab-window.vala:692
 #, c-format
 msgid "“%s” is not a valid folder"
 msgstr "“%s” yaroqli jild emas"

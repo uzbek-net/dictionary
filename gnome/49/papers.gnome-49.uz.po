@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2025-11-07 07:10+0000\n"
+"POT-Creation-Date: 2025-11-22 11:21+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -246,14 +246,14 @@ msgstr "PDF hujjatlarini oʻqish uchun qoʻllab-quvvatlaydi"
 #. translators: this is the document security state
 #: libdocument/backend/pdf/pps-poppler.c:741
 #: libdocument/backend/pdf/pps-poppler.c:747
-#: nautilus/pps-nautilus-extension.c:100 shell/src/properties_general.rs:336
+#: nautilus/pps-nautilus-extension.c:93 shell/src/properties_general.rs:336
 msgid "Yes"
 msgstr "Xa"
 
 #. translators: this is the document security state
 #: libdocument/backend/pdf/pps-poppler.c:744
 #: libdocument/backend/pdf/pps-poppler.c:747
-#: nautilus/pps-nautilus-extension.c:102 shell/src/properties_general.rs:337
+#: nautilus/pps-nautilus-extension.c:95 shell/src/properties_general.rs:337
 msgid "No"
 msgstr "Yoʻq"
 
@@ -787,13 +787,13 @@ msgstr "Kattalashtirish"
 msgid "Failed to Print Document"
 msgstr "Hujjatni bosib chiqarish muvaffaqiyatsiz yakunlandi"
 
-#: nautilus/pps-nautilus-extension.c:104
+#: nautilus/pps-nautilus-extension.c:97
 #: shell/resources/pps-annotation-properties-dialog.blp:60
 #: shell/src/properties_general.rs:338
 msgid "Unknown"
 msgstr "Nomaʼlum"
 
-#: nautilus/pps-nautilus-extension.c:149
+#: nautilus/pps-nautilus-extension.c:138
 msgid "Document Properties"
 msgstr "Hujjat xususiyatlari"
 
