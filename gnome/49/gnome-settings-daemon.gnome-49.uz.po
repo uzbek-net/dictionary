@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-settings-daemon master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-settings-daemon/issues/\n"
-"POT-Creation-Date: 2025-11-21 15:21+0000\n"
+"POT-Creation-Date: 2025-11-24 09:27+0000\n"
 "PO-Revision-Date: 2025-04-05 19:57+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1613,7 +1613,7 @@ msgstr ""
 msgid "GNOME"
 msgstr ""
 
-#: plugins/housekeeping/gsd-donation-reminder.c:89
+#: plugins/housekeeping/gsd-donation-reminder.c:88
 msgid "Donate"
 msgstr ""
 

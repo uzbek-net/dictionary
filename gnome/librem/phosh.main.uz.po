@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-11-21 07:43+0000\n"
+"POT-Creation-Date: 2025-11-29 20:57+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -758,6 +758,7 @@ msgid "Wi-Fi"
 msgstr "Wi-fi"
 
 #: src/ui/wifi-status-page.ui:89
+#: plugins/wifi-hotspot-quick-setting/status-page.ui:73
 msgid "Wi-Fi Settings"
 msgstr "Wi-Fi sozlamalari"
 
@@ -1247,11 +1248,23 @@ msgstr "Monitor oʻlchovlari"
 msgid "%d%%"
 msgstr "%d%%"
 
-#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:75
+#: plugins/wifi-hotspot-quick-setting/status-page.ui:6
+#, fuzzy
+#| msgid "No Wi-Fi Hotspots"
+msgid "Wi-Fi Hotspot"
+msgstr "Wi-Fi ulanish nuqtalari yoʻq"
+
+#: plugins/wifi-hotspot-quick-setting/status-page.ui:59
+#, fuzzy
+#| msgid "Turn Off"
+msgid "Turn On"
+msgstr "Oʻchirib qoʻyish"
+
+#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:76
 msgid "Hotspot On"
 msgstr "%s Hotspot"
 
-#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:77
+#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:78
 msgid "Hotspot Off"
 msgstr "Hotspot oʻchirilgan"
 
