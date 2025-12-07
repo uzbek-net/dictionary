@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elastic main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/elastic/-/issues\n"
-"POT-Creation-Date: 2025-11-17 21:32+0000\n"
+"POT-Creation-Date: 2025-12-06 14:28+0000\n"
 "PO-Revision-Date: 2025-10-17 17:12+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -285,35 +285,35 @@ msgstr "Interaktiv koʻrinish"
 msgid "Copy Snippet"
 msgstr "Parchani nusxalash"
 
-#: src/shortcuts-dialog.blp:69 src/window.blp:17
+#: src/shortcuts-dialog.blp:69 src/window.blp:14
 msgid "Reset to Defaults"
 msgstr "Asliga qaytarish"
 
-#: src/window.blp:16
+#: src/window.blp:18
 msgid "_Reset"
 msgstr "Asliga qaytarish"
 
-#: src/window.blp:29
+#: src/window.blp:30
 msgid "Main Menu"
 msgstr "Asosiy menyu"
 
-#: src/window.blp:73
+#: src/window.blp:74
 msgid "Basic"
 msgstr "Asosiy"
 
-#: src/window.blp:82
+#: src/window.blp:83
 msgid "Interactive"
 msgstr "Interaktiv"
 
-#: src/window.blp:118
+#: src/window.blp:109
 msgid "_Preferences"
 msgstr "Afzalliklar"
 
-#: src/window.blp:123
+#: src/window.blp:114
 msgid "_Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
-#: src/window.blp:128
+#: src/window.blp:119
 msgid "_About Elastic"
 msgstr "Elastik haqida"
 

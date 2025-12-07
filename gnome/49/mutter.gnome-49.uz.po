@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mutter main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/mutter/issues/\n"
-"POT-Creation-Date: 2025-11-26 19:35+0000\n"
+"POT-Creation-Date: 2025-12-03 18:18+0000\n"
 "PO-Revision-Date: 2025-04-07 07:51+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -888,14 +888,14 @@ msgstr ""
 msgid "Failed to open X Window System display “%s”"
 msgstr "X Window System displeyi “%s” ochilmadi"
 
-#: src/x11/meta-x11-display.c:1462
+#: src/x11/meta-x11-display.c:1460
 #, c-format
 msgid "Screen %d on display “%s” is invalid"
 msgstr ""
 
 #. This probably means that a non-WM compositor like xcompmgr is running;
 #. * we have no way to get it to exit
-#: src/x11/meta-x11-display.c:2790
+#: src/x11/meta-x11-display.c:2788
 #, c-format
 msgid ""
 "Another compositing manager is already running on screen %i on display “%s”."

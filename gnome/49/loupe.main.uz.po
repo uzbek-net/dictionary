@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: loupe main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/loupe/-/issues\n"
-"POT-Creation-Date: 2025-11-27 19:40+0000\n"
+"POT-Creation-Date: 2025-12-04 05:26+0000\n"
 "PO-Revision-Date: 2025-04-04 11:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -304,48 +304,48 @@ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 msgid "Copyright © 2020–2024 Christopher Davis et al."
 msgstr "Mualliflik huquqi © 2020–2024 Kristofer Devis va boshqalar."
 
-#: src/file_model.rs:180
+#: src/file_model.rs:211
 msgid "Could not list other files in directory."
 msgstr "Katalogdagi boshqa fayllarni roʻyxatga kiritib boʻlmadi."
 
 #. Translators: Display of the f-number
 #. <https://en.wikipedia.org/wiki/F-number>. {} will be replaced with the
 #. number
-#: src/metadata.rs:263
+#: src/metadata.rs:249
 msgid "\\u{192}\\u{2215}{}"
 msgstr "\\u{192}\\u{2215}{}"
 
 #. Translators: Fractional exposure time (photography) in seconds
-#: src/metadata.rs:276
+#: src/metadata.rs:262
 msgid "1\\u{2215}{}\\u{202F}s"
 msgstr "1\\u{2215}{}\\u{202F}s"
 
 #. Translators: Exposure time (photography) in seconds
-#: src/metadata.rs:284
+#: src/metadata.rs:270
 msgid "{}\\u{202F}s"
 msgstr "{}\\u{202F}s"
 
-#: src/metadata.rs:298
+#: src/metadata.rs:284
 msgid "{}\\u{202F}mm"
 msgstr "{}\\u{202F}mm"
 
 #. Translators: short for "north" in GPS coordinate
-#: src/metadata.rs:338
+#: src/metadata.rs:324
 msgid "N"
 msgstr "SHIM"
 
 #. Translators: short for "south" in GPS coordinate
-#: src/metadata.rs:342
+#: src/metadata.rs:328
 msgid "S"
 msgstr "JAN"
 
 #. Translators: short for "east" in GPS coordinate
-#: src/metadata.rs:351
+#: src/metadata.rs:337
 msgid "E"
 msgstr "E"
 
 #. Translators: short for "west" in GPS coordinate
-#: src/metadata.rs:355
+#: src/metadata.rs:341
 msgid "W"
 msgstr "CH"
 
@@ -571,19 +571,19 @@ msgstr ""
 "Hech qanday rasm yuklovchi mavjud emas. Ehtimol, \"{}\" moslik versiyasiga "
 "ega \"glisin-loaders\" toʻplami oʻrnatilmagan."
 
-#: src/widgets/image_page.rs:242
+#: src/widgets/image_page.rs:243
 msgid "The image format “{} ({})” is known but not installed."
 msgstr "“{} ({})” tasvir formati maʼlum, lekin oʻrnatilmagan."
 
-#: src/widgets/image_page.rs:249
+#: src/widgets/image_page.rs:250
 msgid "Unknown image format “{} ({}).”"
 msgstr "Noma’lum rasm formati “{} ({}).”"
 
-#: src/widgets/image_page.rs:277
+#: src/widgets/image_page.rs:278
 msgid "There is not enough free memory available to load this image."
 msgstr "Bu rasmni yuklash uchun yetarli boʻsh xotira yoʻq."
 
-#: src/widgets/image_page.rs:281
+#: src/widgets/image_page.rs:282
 msgid ""
 "Either the image file is corrupted or it contains unsupported elements."
 msgstr ""

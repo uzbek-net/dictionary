@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
-"POT-Creation-Date: 2025-11-27 19:41+0000\n"
+"POT-Creation-Date: 2025-12-05 22:11+0000\n"
 "PO-Revision-Date: 2025-04-04 21:19+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -933,15 +933,15 @@ msgstr "%s (%s)"
 msgid "Package"
 msgstr "Paket"
 
-#: src/gs-app-addon-row.c:93 src/gs-app-row.c:528
+#: src/gs-app-addon-row.c:93 src/gs-app-row.c:529
 msgid "Pending"
 msgstr "Kutilmoqda"
 
-#: src/gs-app-addon-row.c:97 src/gs-app-row.c:532 src/gs-details-page.c:393
+#: src/gs-app-addon-row.c:97 src/gs-app-row.c:533 src/gs-details-page.c:393
 msgid "Pending install"
 msgstr "Oʻrnatish kutilmoqda"
 
-#: src/gs-app-addon-row.c:101 src/gs-app-row.c:536 src/gs-details-page.c:400
+#: src/gs-app-addon-row.c:101 src/gs-app-row.c:537 src/gs-details-page.c:400
 msgid "Pending remove"
 msgstr "Oʻchirish kutilmoqda"
 
@@ -1100,7 +1100,7 @@ msgstr "Yangilanish tavsifi mavjud emas."
 msgid "Update Details"
 msgstr "Tafsilotlarni yangilash"
 
-#: src/gs-app-details-page.ui:27 src/gs-app-row.c:591
+#: src/gs-app-details-page.ui:27 src/gs-app-row.c:592
 msgid "Requires additional permissions"
 msgstr "Qoʻshimcha ruxsatlarni talab qiladi"
 
@@ -1666,25 +1666,25 @@ msgstr "Muhim yangilanish"
 
 #. TRANSLATORS: during the update the device
 #. * will restart into a special update-only mode
-#: src/gs-app-row.c:401
+#: src/gs-app-row.c:402
 msgid "Device cannot be used during update."
 msgstr "Yangilash vaqtida qurilmadan foydalanib boʻlmaydi."
 
 #. TRANSLATORS: this refers to where the app came from
-#: src/gs-app-row.c:411 src/gs-shell-search-provider.c:273
+#: src/gs-app-row.c:412 src/gs-shell-search-provider.c:273
 #, c-format
 msgid "Source: %s"
 msgstr "Manba: %s"
 
 #. Translators: A message to indicate that an app has been renamed. The
 #. placeholder is the old human-readable name.
-#: src/gs-app-row.c:598
+#: src/gs-app-row.c:599
 #, c-format
 msgid "Renamed from %s"
 msgstr "%s nomidan oʻzgartirildi"
 
 #. Replace user-provided non-localized string with a localized text
-#: src/gs-app-row.c:635 src/gs-details-page.ui:535
+#: src/gs-app-row.c:636 src/gs-details-page.ui:535
 msgid "Stopped Receiving Updates"
 msgstr "Yangilanishlarni olishni toʻxtatdi"
 
@@ -2047,7 +2047,7 @@ msgstr "%s %s"
 #. Translators: This refers to permissions (for example, from flatpak) which
 #. an app requests from the user. The placeholder is a D-Bus name such as
 #. `org.freedesktop.Flatpak`.
-#: src/gs-common.c:1496
+#: src/gs-common.c:1515
 #, fuzzy, c-format
 #| msgid "Uses System Services"
 msgid "Use the %s System Service"
@@ -2056,7 +2056,7 @@ msgstr "Tizim xizmatlaridan foydalanadi"
 #. Translators: This refers to permissions (for example, from flatpak) which
 #. an app requests from the user. The placeholder is a D-Bus name such as
 #. `org.freedesktop.Flatpak`.
-#: src/gs-common.c:1499
+#: src/gs-common.c:1518
 #, fuzzy, c-format
 #| msgid "Uses Session Services"
 msgid "Use the %s Session Service"
@@ -2065,21 +2065,21 @@ msgstr "Sessiya xizmatlaridan foydalanadi"
 #. Translators: This refers to permissions (for example, from flatpak) which
 #. an app requests from the user. The placeholder is a D-Bus name such as
 #. `org.freedesktop.Flatpak`.
-#: src/gs-common.c:1502
+#: src/gs-common.c:1521
 #, fuzzy, c-format
 #| msgid "Uses System Services"
 msgid "Use the %s Service"
 msgstr "Tizim xizmatlaridan foydalanadi"
 
-#: src/gs-common.c:1523
+#: src/gs-common.c:1542
 msgid "Can see the non-portal service"
 msgstr ""
 
-#: src/gs-common.c:1525
+#: src/gs-common.c:1544
 msgid "Can talk to the non-portal service"
 msgstr ""
 
-#: src/gs-common.c:1527
+#: src/gs-common.c:1546
 msgid "Can own the non-portal service"
 msgstr ""
 
@@ -3780,13 +3780,13 @@ msgstr "Tayyorlash: %s"
 
 #. TRANSLATORS: this is a prompt message, and '%s' is an
 #. * repository name, e.g. 'GNOME Nightly'
-#: src/gs-page.c:543
+#: src/gs-page.c:544
 #, c-format
 msgid "Are you sure you want to remove the %s repository?"
 msgstr "Haqiqatan ham %s omborini oʻchirib tashlamoqchimisiz?"
 
 #. TRANSLATORS: Longer dialog text. The placeholder is a repository name.
-#: src/gs-page.c:547
+#: src/gs-page.c:548
 #, c-format
 msgid ""
 "All apps from %s will be uninstalled, and you will have to re-install the "
@@ -3807,8 +3807,8 @@ msgstr ""
 #. * name of a firmware
 #. TRANSLATORS: this is a prompt message, and '%s' is an
 #. * app summary, e.g. 'GNOME Clocks'
-#: src/gs-page.c:556 src/gs-page.c:567 src/gs-page.c:578 src/gs-page.c:589
-#: src/gs-page.c:600 src/gs-page.c:612
+#: src/gs-page.c:557 src/gs-page.c:568 src/gs-page.c:579 src/gs-page.c:590
+#: src/gs-page.c:601 src/gs-page.c:613
 #, c-format
 msgid "Uninstall %s?"
 msgstr "%s oʻchirib tashlansinmi?"
@@ -3816,14 +3816,14 @@ msgstr "%s oʻchirib tashlansinmi?"
 #. TRANSLATORS: Longer dialog text. The placeholder is the name
 #. * of an addon or an input method.
 #. Translators: the '%s' is replaced with the app name
-#: src/gs-page.c:560 src/gs-page.c:619
+#: src/gs-page.c:561 src/gs-page.c:620 src/gs-page.c:627
 #, c-format
 msgid "It will not be possible to use %s after removal."
 msgstr "Oʻchirishdan keyin %s ishlatib boʻlmaydi."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name
 #. * of a runtime.
-#: src/gs-page.c:571
+#: src/gs-page.c:572
 #, c-format
 msgid ""
 "It will not be possible to use any apps which depend on %s after removal."
@@ -3832,7 +3832,7 @@ msgstr ""
 "imkonsiz boʻladi."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name of a font.
-#: src/gs-page.c:581
+#: src/gs-page.c:582
 #, c-format
 msgid ""
 "It will not be possible to use %s after removal, and any documents which use"
@@ -3842,7 +3842,7 @@ msgstr ""
 " boshqa shriftda koʻrinadi."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name of a codec.
-#: src/gs-page.c:592
+#: src/gs-page.c:593
 #, c-format
 msgid ""
 "It will not be possible to use %s after removal. This may mean some media "
@@ -3852,7 +3852,7 @@ msgstr ""
 "oʻynatib boʻlmasligini anglatishi mumkin."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name of a firmware
-#: src/gs-page.c:603
+#: src/gs-page.c:604
 #, c-format
 msgid ""
 "Hardware which depends on %s may no longer function correctly after removal."
@@ -3862,7 +3862,7 @@ msgstr ""
 
 #. TRANSLATORS: Longer dialog text. The placeholder is
 #. * the name of an app.
-#: src/gs-page.c:627
+#: src/gs-page.c:632
 #, c-format
 msgid ""
 "It will not be possible to use %s after removal. App data and settings will "

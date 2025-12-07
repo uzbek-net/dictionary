@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2025-11-29 15:37+0000\n"
+"POT-Creation-Date: 2025-12-06 15:36+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -64,8 +64,9 @@ msgstr "CPU"
 #: data/resources/ui/dialogs/settings_dialog.ui:128
 #: data/resources/ui/dialogs/settings_dialog.ui:220
 #: data/resources/ui/window.ui:176 data/resources/ui/window.ui:183
-#: src/ui/pages/applications/mod.rs:803 src/ui/pages/memory.rs:106
-#: src/ui/pages/memory.rs:192 src/ui/pages/processes/mod.rs:1080
+#: src/ui/pages/applications/mod.rs:806 src/ui/pages/applications/mod.rs:823
+#: src/ui/pages/memory.rs:106 src/ui/pages/memory.rs:192
+#: src/ui/pages/processes/mod.rs:1099 src/ui/pages/processes/mod.rs:1116
 msgid "Memory"
 msgstr "Xotira"
 
@@ -74,8 +75,9 @@ msgstr "Xotira"
 #: data/resources/ui/dialogs/process_dialog.ui:118
 #: data/resources/ui/dialogs/settings_dialog.ui:158
 #: data/resources/ui/dialogs/settings_dialog.ui:250
-#: src/ui/pages/applications/mod.rs:1181 src/ui/pages/gpu.rs:119
-#: src/ui/pages/processes/mod.rs:1470 src/ui/window.rs:468
+#: src/ui/pages/applications/mod.rs:1232 src/ui/pages/applications/mod.rs:1249
+#: src/ui/pages/gpu.rs:119 src/ui/pages/processes/mod.rs:1537
+#: src/ui/pages/processes/mod.rs:1554 src/ui/window.rs:468
 msgid "GPU"
 msgstr "GPU"
 
@@ -153,8 +155,9 @@ msgstr "Foydalanish"
 #: data/resources/ui/dialogs/settings_dialog.ui:133
 #: data/resources/ui/dialogs/settings_dialog.ui:225
 #: data/resources/ui/window.ui:145 data/resources/ui/window.ui:152
-#: src/ui/pages/applications/mod.rs:862 src/ui/pages/cpu.rs:128
-#: src/ui/pages/processes/mod.rs:1139 src/ui/window.rs:290
+#: src/ui/pages/applications/mod.rs:873 src/ui/pages/applications/mod.rs:890
+#: src/ui/pages/cpu.rs:128 src/ui/pages/processes/mod.rs:1166
+#: src/ui/pages/processes/mod.rs:1183 src/ui/window.rs:290
 msgid "Processor"
 msgstr "Protsessor"
 
@@ -162,8 +165,9 @@ msgstr "Protsessor"
 #: data/resources/ui/dialogs/process_dialog.ui:73
 #: data/resources/ui/dialogs/settings_dialog.ui:178
 #: data/resources/ui/dialogs/settings_dialog.ui:290
-#: src/ui/pages/applications/mod.rs:1420 src/ui/pages/memory.rs:198
-#: src/ui/pages/processes/mod.rs:1955
+#: src/ui/pages/applications/mod.rs:1503 src/ui/pages/applications/mod.rs:1520
+#: src/ui/pages/memory.rs:198 src/ui/pages/processes/mod.rs:2086
+#: src/ui/pages/processes/mod.rs:2103
 msgid "Swap"
 msgstr "Svap"
 
@@ -171,7 +175,8 @@ msgstr "Svap"
 #: data/resources/ui/dialogs/process_dialog.ui:78
 #: data/resources/ui/dialogs/settings_dialog.ui:138
 #: data/resources/ui/dialogs/settings_dialog.ui:230
-#: src/ui/pages/applications/mod.rs:926 src/ui/pages/processes/mod.rs:1203
+#: src/ui/pages/applications/mod.rs:945 src/ui/pages/applications/mod.rs:964
+#: src/ui/pages/processes/mod.rs:1238 src/ui/pages/processes/mod.rs:1257
 msgid "Drive Read"
 msgstr "Diskni oʻqish"
 
@@ -179,7 +184,8 @@ msgstr "Diskni oʻqish"
 #: data/resources/ui/dialogs/process_dialog.ui:87
 #: data/resources/ui/dialogs/settings_dialog.ui:143
 #: data/resources/ui/dialogs/settings_dialog.ui:235
-#: src/ui/pages/applications/mod.rs:991 src/ui/pages/processes/mod.rs:1270
+#: src/ui/pages/applications/mod.rs:1018 src/ui/pages/applications/mod.rs:1037
+#: src/ui/pages/processes/mod.rs:1313 src/ui/pages/processes/mod.rs:1332
 msgid "Drive Read Total"
 msgstr "Jami diskdagi oʻqishlar soni"
 
@@ -187,7 +193,8 @@ msgstr "Jami diskdagi oʻqishlar soni"
 #: data/resources/ui/dialogs/process_dialog.ui:96
 #: data/resources/ui/dialogs/settings_dialog.ui:148
 #: data/resources/ui/dialogs/settings_dialog.ui:240
-#: src/ui/pages/applications/mod.rs:1052 src/ui/pages/processes/mod.rs:1337
+#: src/ui/pages/applications/mod.rs:1087 src/ui/pages/applications/mod.rs:1106
+#: src/ui/pages/processes/mod.rs:1388 src/ui/pages/processes/mod.rs:1407
 msgid "Drive Write"
 msgstr "Diskga yozish"
 
@@ -195,7 +202,8 @@ msgstr "Diskga yozish"
 #: data/resources/ui/dialogs/process_dialog.ui:105
 #: data/resources/ui/dialogs/settings_dialog.ui:153
 #: data/resources/ui/dialogs/settings_dialog.ui:245
-#: src/ui/pages/applications/mod.rs:1119 src/ui/pages/processes/mod.rs:1404
+#: src/ui/pages/applications/mod.rs:1162 src/ui/pages/applications/mod.rs:1181
+#: src/ui/pages/processes/mod.rs:1463 src/ui/pages/processes/mod.rs:1482
 msgid "Drive Write Total"
 msgstr "Jami disk yozuvi"
 
@@ -203,7 +211,8 @@ msgstr "Jami disk yozuvi"
 #: data/resources/ui/dialogs/process_dialog.ui:127
 #: data/resources/ui/dialogs/settings_dialog.ui:163
 #: data/resources/ui/dialogs/settings_dialog.ui:255
-#: src/ui/pages/applications/mod.rs:1361 src/ui/pages/processes/mod.rs:1651
+#: src/ui/pages/applications/mod.rs:1436 src/ui/pages/applications/mod.rs:1454
+#: src/ui/pages/processes/mod.rs:1742 src/ui/pages/processes/mod.rs:1761
 msgid "Video Memory"
 msgstr "Video xotira"
 
@@ -211,7 +220,8 @@ msgstr "Video xotira"
 #: data/resources/ui/dialogs/process_dialog.ui:136
 #: data/resources/ui/dialogs/settings_dialog.ui:168
 #: data/resources/ui/dialogs/settings_dialog.ui:260
-#: src/ui/pages/applications/mod.rs:1240 src/ui/pages/processes/mod.rs:1529
+#: src/ui/pages/applications/mod.rs:1299 src/ui/pages/applications/mod.rs:1318
+#: src/ui/pages/processes/mod.rs:1604 src/ui/pages/processes/mod.rs:1623
 msgid "Video Encoder"
 msgstr "Videoni shifrlovchi"
 
@@ -219,7 +229,8 @@ msgstr "Videoni shifrlovchi"
 #: data/resources/ui/dialogs/process_dialog.ui:145
 #: data/resources/ui/dialogs/settings_dialog.ui:173
 #: data/resources/ui/dialogs/settings_dialog.ui:265
-#: src/ui/pages/applications/mod.rs:1301 src/ui/pages/processes/mod.rs:1590
+#: src/ui/pages/applications/mod.rs:1368 src/ui/pages/applications/mod.rs:1387
+#: src/ui/pages/processes/mod.rs:1673 src/ui/pages/processes/mod.rs:1692
 msgid "Video Decoder"
 msgstr "Video dekodlovchi"
 
@@ -256,37 +267,37 @@ msgstr "Jarayon haqida ma’lumot"
 
 #: data/resources/ui/dialogs/process_dialog.ui:154
 #: data/resources/ui/dialogs/settings_dialog.ui:270
-#: src/ui/pages/processes/mod.rs:1711
+#: src/ui/pages/processes/mod.rs:1810 src/ui/pages/processes/mod.rs:1828
 msgid "Total CPU Time"
 msgstr "Umumiy CPU vaqti"
 
 #: data/resources/ui/dialogs/process_dialog.ui:163
 #: data/resources/ui/dialogs/settings_dialog.ui:275
-#: src/ui/pages/processes/mod.rs:1770
+#: src/ui/pages/processes/mod.rs:1877 src/ui/pages/processes/mod.rs:1895
 msgid "User CPU Time"
 msgstr "Foydalanuvchining CPU vaqti"
 
 #: data/resources/ui/dialogs/process_dialog.ui:172
 #: data/resources/ui/dialogs/settings_dialog.ui:280
-#: src/ui/pages/processes/mod.rs:1829
+#: src/ui/pages/processes/mod.rs:1944 src/ui/pages/processes/mod.rs:1962
 msgid "System CPU Time"
 msgstr "Tizim CPU vaqti"
 
 #: data/resources/ui/dialogs/process_dialog.ui:186
 #: data/resources/ui/dialogs/settings_dialog.ui:210
-#: src/ui/pages/processes/mod.rs:973
+#: src/ui/pages/processes/mod.rs:976 src/ui/pages/processes/mod.rs:991
 msgid "Process ID"
 msgstr "Jarayon identifikatori (ID)"
 
 #: data/resources/ui/dialogs/process_dialog.ui:204
 #: data/resources/ui/dialogs/settings_dialog.ui:300
-#: src/ui/pages/processes/mod.rs:2075
+#: src/ui/pages/processes/mod.rs:2222 src/ui/pages/processes/mod.rs:2240
 msgid "Commandline"
 msgstr "Buyruq satri"
 
 #: data/resources/ui/dialogs/process_dialog.ui:213
 #: data/resources/ui/dialogs/settings_dialog.ui:215
-#: src/ui/pages/processes/mod.rs:1026
+#: src/ui/pages/processes/mod.rs:1037 src/ui/pages/processes/mod.rs:1052
 msgid "User"
 msgstr "Foydalanuvchi"
 
@@ -316,7 +327,7 @@ msgstr ""
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:87
 #: data/resources/ui/dialogs/settings_dialog.ui:285
-#: src/ui/pages/processes/mod.rs:1888
+#: src/ui/pages/processes/mod.rs:2011 src/ui/pages/processes/mod.rs:2027
 msgid "Priority"
 msgstr "Ustuvorlik"
 
@@ -489,7 +500,7 @@ msgstr ""
 
 #: data/resources/ui/dialogs/settings_dialog.ui:122
 #: data/resources/ui/window.ui:65 data/resources/ui/window.ui:72
-#: src/ui/pages/applications/mod.rs:131
+#: src/ui/pages/applications/mod.rs:132
 msgid "Apps"
 msgstr "Ilovalar"
 
@@ -500,13 +511,14 @@ msgstr "Axborot ustunlari"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:183
 #: data/resources/ui/dialogs/settings_dialog.ui:295
-#: src/ui/pages/applications/mod.rs:1479 src/ui/pages/processes/mod.rs:2014
+#: src/ui/pages/applications/mod.rs:1570 src/ui/pages/applications/mod.rs:1589
+#: src/ui/pages/processes/mod.rs:2153 src/ui/pages/processes/mod.rs:2172
 msgid "Combined Memory"
 msgstr "Kombinatsiyalangan xotira"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:193
 #: data/resources/ui/window.ui:105 data/resources/ui/window.ui:112
-#: src/ui/pages/processes/mod.rs:175
+#: src/ui/pages/processes/mod.rs:176
 msgid "Processes"
 msgstr "Jarayonlar"
 
@@ -551,25 +563,25 @@ msgstr "Virtual tarmoq interfeyslari, masalan, koʻpriklar yoki VPN tunnellari"
 
 #: data/resources/ui/pages/applications.ui:6
 #: data/resources/ui/pages/applications.ui:26
-#: src/ui/pages/applications/mod.rs:1563
+#: src/ui/pages/applications/mod.rs:1662
 msgid "Kill App"
 msgstr "Ilovani toʻxtatish"
 
 #: data/resources/ui/pages/applications.ui:10
 #: data/resources/ui/pages/applications.ui:30
-#: src/ui/pages/applications/mod.rs:1562
+#: src/ui/pages/applications/mod.rs:1661
 msgid "Halt App"
 msgstr "Ilovani toʻxtatish"
 
 #: data/resources/ui/pages/applications.ui:14
 #: data/resources/ui/pages/applications.ui:34
-#: src/ui/pages/applications/mod.rs:1564
+#: src/ui/pages/applications/mod.rs:1663
 msgid "Continue App"
 msgstr "Ilovani davom ettirish"
 
 #: data/resources/ui/pages/applications.ui:22
 #: data/resources/ui/pages/applications.ui:98
-#: src/ui/pages/applications/mod.rs:1561
+#: src/ui/pages/applications/mod.rs:1660
 msgid "End App"
 msgstr "Ilovani tugatish"
 
@@ -767,17 +779,17 @@ msgid "Memory Frequency"
 msgstr "Xotira chastotasi"
 
 #: data/resources/ui/pages/processes.ui:6
-#: data/resources/ui/pages/processes.ui:42 src/ui/pages/processes/mod.rs:2184
+#: data/resources/ui/pages/processes.ui:42 src/ui/pages/processes/mod.rs:2339
 msgid "Kill Process"
 msgstr "Toʻxtatish jarayoni"
 
 #: data/resources/ui/pages/processes.ui:10
-#: data/resources/ui/pages/processes.ui:46 src/ui/pages/processes/mod.rs:2183
+#: data/resources/ui/pages/processes.ui:46 src/ui/pages/processes/mod.rs:2338
 msgid "Halt Process"
 msgstr "Jarayonni toʻxtatish"
 
 #: data/resources/ui/pages/processes.ui:14
-#: data/resources/ui/pages/processes.ui:50 src/ui/pages/processes/mod.rs:2185
+#: data/resources/ui/pages/processes.ui:50 src/ui/pages/processes/mod.rs:2340
 msgid "Continue Process"
 msgstr "Jarayonni davom ettirish"
 
@@ -797,12 +809,12 @@ msgid "Continue Processes"
 msgstr "Jarayonlarni davom ettirish"
 
 #: data/resources/ui/pages/processes.ui:38
-#: data/resources/ui/pages/processes.ui:157 src/ui/pages/processes/mod.rs:524
-#: src/ui/pages/processes/mod.rs:2182
+#: data/resources/ui/pages/processes.ui:157 src/ui/pages/processes/mod.rs:527
+#: src/ui/pages/processes/mod.rs:2337
 msgid "End Process"
 msgstr "Jarayonni yakunlash"
 
-#: data/resources/ui/pages/processes.ui:70 src/ui/pages/processes/mod.rs:528
+#: data/resources/ui/pages/processes.ui:70 src/ui/pages/processes/mod.rs:531
 msgid "End Processes"
 msgstr "Jarayonlarni tugatish"
 
@@ -900,10 +912,6 @@ msgstr "Qidirish"
 msgid "Toggle search field"
 msgstr "Qidiruv maydonini almashtirish"
 
-#: src/application.rs:274
-msgid "The Nalux Team"
-msgstr "Nalux jamoasi"
-
 #: src/application.rs:282
 msgid "Report Issues"
 msgstr "Hisobot muammolari"
@@ -925,8 +933,8 @@ msgstr "Belgi"
 #: src/ui/dialogs/process_dialog.rs:137 src/ui/dialogs/process_dialog.rs:146
 #: src/ui/dialogs/process_dialog.rs:148 src/ui/dialogs/process_dialog.rs:171
 #: src/ui/dialogs/process_dialog.rs:178 src/ui/dialogs/process_dialog.rs:185
-#: src/ui/dialogs/process_dialog.rs:192 src/ui/pages/applications/mod.rs:948
-#: src/ui/pages/applications/mod.rs:1074 src/ui/pages/battery.rs:205
+#: src/ui/dialogs/process_dialog.rs:192 src/ui/pages/applications/mod.rs:975
+#: src/ui/pages/applications/mod.rs:1117 src/ui/pages/battery.rs:205
 #: src/ui/pages/battery.rs:225 src/ui/pages/battery.rs:231
 #: src/ui/pages/battery.rs:234 src/ui/pages/battery.rs:265
 #: src/ui/pages/battery.rs:289 src/ui/pages/battery.rs:291
@@ -955,10 +963,10 @@ msgstr "Belgi"
 #: src/ui/pages/network.rs:375 src/ui/pages/network.rs:404
 #: src/ui/pages/network.rs:407 src/ui/pages/network.rs:409
 #: src/ui/pages/network.rs:417 src/ui/pages/network.rs:424
-#: src/ui/pages/network.rs:434 src/ui/pages/processes/mod.rs:1225
-#: src/ui/pages/processes/mod.rs:1292 src/ui/pages/processes/mod.rs:1359
-#: src/ui/pages/processes/mod.rs:1426 src/ui/pages/processes/mod.rs:1912
-#: src/ui/pages/processes/mod.rs:1914 src/utils/battery.rs:152
+#: src/ui/pages/network.rs:434 src/ui/pages/processes/mod.rs:1268
+#: src/ui/pages/processes/mod.rs:1343 src/ui/pages/processes/mod.rs:1418
+#: src/ui/pages/processes/mod.rs:1493 src/ui/pages/processes/mod.rs:2043
+#: src/ui/pages/processes/mod.rs:2045 src/utils/battery.rs:152
 #: src/utils/drive.rs:137 src/utils/gpu/mod.rs:279 src/utils/gpu/mod.rs:291
 #: src/utils/link/mod.rs:61 src/utils/npu/mod.rs:244 src/utils/npu/mod.rs:250
 msgid "N/A"
@@ -985,39 +993,39 @@ msgstr "Ha (Flatpak)"
 msgid "Yes (Snap)"
 msgstr "Ha (Snap)"
 
-#: src/ui/pages/applications/mod.rs:660
+#: src/ui/pages/applications/mod.rs:663
 msgid "Running Apps: {}"
 msgstr "Ishlayotgan ilovalar: {}"
 
-#: src/ui/pages/applications/mod.rs:700 src/ui/pages/processes/mod.rs:863
+#: src/ui/pages/applications/mod.rs:703 src/ui/pages/processes/mod.rs:866
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/ui/pages/applications/mod.rs:746
+#: src/ui/pages/applications/mod.rs:749
 msgid "App"
 msgstr "Ilova"
 
-#: src/ui/pages/applications/mod.rs:1539 src/ui/pages/processes/mod.rs:2131
+#: src/ui/pages/applications/mod.rs:1638 src/ui/pages/processes/mod.rs:2286
 msgid "End {}?"
 msgstr "{} tugallansinmi?"
 
-#: src/ui/pages/applications/mod.rs:1540 src/ui/pages/processes/mod.rs:2132
+#: src/ui/pages/applications/mod.rs:1639 src/ui/pages/processes/mod.rs:2287
 msgid "Halt {}?"
 msgstr "{} toʻxtatilsinmi?"
 
-#: src/ui/pages/applications/mod.rs:1541 src/ui/pages/processes/mod.rs:2133
+#: src/ui/pages/applications/mod.rs:1640 src/ui/pages/processes/mod.rs:2288
 msgid "Kill {}?"
 msgstr "{} toʻxtatilsinmi?"
 
-#: src/ui/pages/applications/mod.rs:1542 src/ui/pages/processes/mod.rs:2134
+#: src/ui/pages/applications/mod.rs:1641 src/ui/pages/processes/mod.rs:2289
 msgid "Continue {}?"
 msgstr "{} davom ettirilsinmi?"
 
-#: src/ui/pages/applications/mod.rs:1548 src/ui/pages/processes/mod.rs:2169
+#: src/ui/pages/applications/mod.rs:1647 src/ui/pages/processes/mod.rs:2324
 msgid "Unsaved work might be lost."
 msgstr "Saqlanmagan ish yoʻqolishi mumkin."
 
-#: src/ui/pages/applications/mod.rs:1550
+#: src/ui/pages/applications/mod.rs:1649
 msgid ""
 "Halting an app can come with serious risks such as losing data and security "
 "implications. Use with caution."
@@ -1026,7 +1034,7 @@ msgstr ""
 "jiddiy xavflarni keltirib chiqarishi mumkin. Ehtiyotkorlik bilan "
 "foydalaning."
 
-#: src/ui/pages/applications/mod.rs:1553
+#: src/ui/pages/applications/mod.rs:1652
 msgid ""
 "Killing an app can come with serious risks such as losing data and security "
 "implications. Use with caution."
@@ -1141,30 +1149,30 @@ msgstr "Yuborilmoqda"
 msgid "R: {} · S: {}"
 msgstr "Q: {} · Y: {}"
 
-#: src/ui/pages/processes/mod.rs:814
+#: src/ui/pages/processes/mod.rs:817
 msgid "Running Processes: {}"
 msgstr "Ishga tushirish jarayonlari: {}"
 
-#: src/ui/pages/processes/mod.rs:912
+#: src/ui/pages/processes/mod.rs:915
 msgid "Process"
 msgstr "Jarayon"
 
-#: src/ui/pages/processes/mod.rs:2141
+#: src/ui/pages/processes/mod.rs:2296
 msgid "End process?"
 msgid_plural "End {} processes?"
 msgstr[0] "Jarayon yakunlansinmi?"
 
-#: src/ui/pages/processes/mod.rs:2147
+#: src/ui/pages/processes/mod.rs:2302
 msgid "Halt process?"
 msgid_plural "Halt {} processes?"
 msgstr[0] "Jarayon to‘xtatilsinmi?"
 
-#: src/ui/pages/processes/mod.rs:2153 src/ui/pages/processes/mod.rs:2159
+#: src/ui/pages/processes/mod.rs:2308 src/ui/pages/processes/mod.rs:2314
 msgid "Kill process?"
 msgid_plural "Kill {} processes?"
 msgstr[0] "Jarayonni to'xtatilsinmi?"
 
-#: src/ui/pages/processes/mod.rs:2171
+#: src/ui/pages/processes/mod.rs:2326
 msgid ""
 "Halting a process can come with serious risks such as losing data and "
 "security implications. Use with caution."
@@ -1172,7 +1180,7 @@ msgstr ""
 "Jarayonni toʻxtatish ma’lumotlar va xavfsizlik oqibatlarini yoʻqotish kabi "
 "jiddiy xavflar bilan birga kelishi mumkin. Ehtiyotkorlik bilan foydalaning."
 
-#: src/ui/pages/processes/mod.rs:2174
+#: src/ui/pages/processes/mod.rs:2329
 msgid ""
 "Killing a process can come with serious risks such as losing data and "
 "security implications. Use with caution."
@@ -1856,3 +1864,6 @@ msgstr "Wi-Fi ulanish"
 #: src/utils/network.rs:134
 msgid "WWAN Connection"
 msgstr "WWAN ulanishi"
+
+#~ msgid "The Nalux Team"
+#~ msgstr "Nalux jamoasi"

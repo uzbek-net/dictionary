@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2025-11-25 15:27+0000\n"
+"POT-Creation-Date: 2025-12-05 23:21+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -146,7 +146,7 @@ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 msgid "Device"
 msgstr "Qurilma"
 
-#: src/ms-alerts-panel.c:242
+#: src/ms-alerts-panel.c:238
 msgid "Could not get list of cell broadcast messages"
 msgstr ""
 
