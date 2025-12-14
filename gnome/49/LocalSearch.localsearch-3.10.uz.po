@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LocalSearch main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/localsearch/-/issues\n"
-"POT-Creation-Date: 2025-10-21 16:05+0000\n"
+"POT-Creation-Date: 2025-12-10 21:07+0000\n"
 "PO-Revision-Date: 2025-04-02 21:25+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -201,11 +201,11 @@ msgstr ""
 msgid "Show metadata extractor output"
 msgstr "Meta-maʼlumotlarni chiqarib boʻlmadi"
 
-#: src/cli/main.c:70 src/cli/tracker-index.c:374
+#: src/cli/main.c:70 src/cli/tracker-index.c:382
 msgid "List and change indexed folders"
 msgstr ""
 
-#: src/cli/main.c:71 src/cli/tracker-info.c:540
+#: src/cli/main.c:71 src/cli/tracker-info.c:543
 #, fuzzy
 #| msgid "Retrieve all information available for a certain file"
 msgid "Retrieve information available for files and resources"
@@ -278,8 +278,8 @@ msgstr "Tracker-extractni ishga tushirib boʻlmadi: "
 msgid "Extract metadata from a file"
 msgstr "Fayldan metama'lumotlarni ajratib oling"
 
-#: src/cli/tracker-extract.c:130 src/cli/tracker-index.c:379
-#: src/cli/tracker-info.c:547 src/cli/tracker-inhibit.c:113
+#: src/cli/tracker-extract.c:130 src/cli/tracker-index.c:387
+#: src/cli/tracker-info.c:550 src/cli/tracker-inhibit.c:113
 #: src/cli/tracker-reset.c:207 src/cli/tracker-search.c:410
 #: src/cli/tracker-status.c:753 src/cli/tracker-tag.c:419
 msgid "Unrecognized options"
@@ -297,35 +297,35 @@ msgstr "FILE-ni indekslangan joylardan olib tashlaydi"
 msgid "Makes indexing recursive"
 msgstr "Indekslashni rekursiv qiladi"
 
-#: src/cli/tracker-index.c:195
+#: src/cli/tracker-index.c:205
 #, c-format
 msgid "“%s” is not a directory"
 msgstr "“%s” katalog emas"
 
 #. TRANSLATORS: These are commandline options
-#: src/cli/tracker-index.c:273
+#: src/cli/tracker-index.c:281
 msgid "Either --add or --remove must be provided"
 msgstr "Yoki --add yoki --remove koʻrsatilishi kerak"
 
 #. TRANSLATORS: These are commandline options
-#: src/cli/tracker-index.c:277
+#: src/cli/tracker-index.c:285
 msgid "--add and --remove are mutually exclusive"
 msgstr "--add va --remove bir-birini istisno qiladi"
 
 #. TRANSLATORS: These are commandline options
-#: src/cli/tracker-index.c:287
+#: src/cli/tracker-index.c:295
 msgid "--recursive requires --add"
 msgstr "--rekursiv --add talab qiladi"
 
-#: src/cli/tracker-index.c:345 src/cli/tracker-status.c:347
+#: src/cli/tracker-index.c:353 src/cli/tracker-status.c:347
 msgid "Path"
 msgstr "Yoʻl"
 
-#: src/cli/tracker-index.c:346
+#: src/cli/tracker-index.c:354
 msgid "Recursive"
 msgstr "Rekursiv"
 
-#: src/cli/tracker-index.c:388
+#: src/cli/tracker-index.c:396
 msgid "Please specify one or more locations to index."
 msgstr "Indekslash uchun bir yoki bir nechta joyni belgilang."
 
@@ -350,26 +350,26 @@ msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 msgid "Error message"
 msgstr "Xato xabar"
 
-#: src/cli/tracker-info.c:374 src/cli/tracker-search.c:341
+#: src/cli/tracker-info.c:375 src/cli/tracker-search.c:341
 #: src/cli/tracker-status.c:129 src/cli/tracker-status.c:248
 #, fuzzy
 #| msgid "Could not establish a connection to Tracker"
 msgid "Could not connect to LocalSearch"
 msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
-#: src/cli/tracker-info.c:419
+#: src/cli/tracker-info.c:420
 msgid "Unable to retrieve data for URI"
 msgstr "URI uchun maʼlumotlarni olib boʻlmadi"
 
-#: src/cli/tracker-info.c:429
+#: src/cli/tracker-info.c:430
 msgid "No metadata available for that URI"
 msgstr "Bu URI uchun metadata mavjud emas"
 
-#: src/cli/tracker-info.c:434 src/cli/tracker-info.c:506
+#: src/cli/tracker-info.c:435 src/cli/tracker-info.c:509
 msgid "Could not get eligible status: "
 msgstr "Muvofiq maqomga ega boʻlmadi: "
 
-#: src/cli/tracker-info.c:460 src/extractor/tracker-main.c:184
+#: src/cli/tracker-info.c:461 src/extractor/tracker-main.c:184
 #, c-format
 msgid "Unsupported serialization format “%s”\n"
 msgstr "“%s” seriyali formati qoʻllab-quvvatlanmaydi\n"
@@ -721,15 +721,15 @@ msgstr "Teg muvaffaqiyatli olib tashlandi"
 msgid "Could not establish a connection to LocalSearch"
 msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
-#: src/cli/tracker-tag.c:425
+#: src/cli/tracker-tag.c:424
 msgid "The --list option is required for --show-files"
 msgstr "--list opsiyasi --show-files uchun talab qilinadi"
 
-#: src/cli/tracker-tag.c:427
+#: src/cli/tracker-tag.c:426
 msgid "Add and delete actions can not be used together"
 msgstr "Qoʻshish va oʻchirish amallarini birgalikda ishlatib boʻlmaydi"
 
-#: src/cli/tracker-tag.c:429
+#: src/cli/tracker-tag.c:428
 msgid "The --description option can only be used with --add"
 msgstr "--description opsiyasi faqat --add bilan ishlatilishi mumkin"
 

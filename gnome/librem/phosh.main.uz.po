@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-12-05 23:20+0000\n"
+"POT-Creation-Date: 2025-12-12 06:44+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -296,11 +296,11 @@ msgid "No"
 msgstr "Yoʻq"
 
 #. give visual feedback on error
-#: src/lockscreen.c:313 src/ui/lockscreen.ui:282
+#: src/lockscreen.c:396 src/ui/lockscreen.ui:282
 msgid "Enter Passcode"
 msgstr "Parolni kiriting"
 
-#: src/lockscreen.c:956
+#: src/lockscreen.c:1040
 msgid "Checking…"
 msgstr "Tekshirilmoqda…"
 
@@ -758,7 +758,7 @@ msgid "Wi-Fi"
 msgstr "Wi-fi"
 
 #: src/ui/wifi-status-page.ui:89
-#: plugins/wifi-hotspot-quick-setting/status-page.ui:73
+#: plugins/wifi-hotspot-quick-setting/status-page.ui:85
 msgid "Wi-Fi Settings"
 msgstr "Wi-Fi sozlamalari"
 
@@ -1254,17 +1254,17 @@ msgstr "%d%%"
 msgid "Wi-Fi Hotspot"
 msgstr "Wi-Fi ulanish nuqtalari yoʻq"
 
-#: plugins/wifi-hotspot-quick-setting/status-page.ui:59
+#: plugins/wifi-hotspot-quick-setting/status-page.ui:71
 #, fuzzy
 #| msgid "Turn Off"
 msgid "Turn On"
 msgstr "Oʻchirib qoʻyish"
 
-#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:76
+#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:80
 msgid "Hotspot On"
 msgstr "%s Hotspot"
 
-#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:78
+#: plugins/wifi-hotspot-quick-setting/wifi-hotspot-quick-setting.c:82
 msgid "Hotspot Off"
 msgstr "Hotspot oʻchirilgan"
 

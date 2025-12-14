@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2025-12-05 23:21+0000\n"
+"POT-Creation-Date: 2025-12-10 22:01+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -17,8 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.6\n"
 
-#: data/mobi.phosh.MobileSettings.desktop.in:2
-#: src/ui/mobile-settings-window.ui:6
+#: data/mobi.phosh.MobileSettings.desktop.in:2 src/ui/ms-window.ui:6
 msgid "Mobile Settings"
 msgstr "Mobil sozlamalar"
 
@@ -132,23 +131,19 @@ msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Chiqish"
 
-#: src/mobile-settings-application.c:36
+#: src/ms-alerts-panel.c:238
+msgid "Could not get list of cell broadcast messages"
+msgstr ""
+
+#: src/ms-application.c:37
 msgid "- Manage your mobile settings"
 msgstr "- Mobil sozlamalaringizni boshqaring"
 
 #. Translators: Replace "translator-credits" with your names, one name per
 #. line
-#: src/mobile-settings-application.c:447
+#: src/ms-application.c:511
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
-
-#: src/mobile-settings-window.c:148
-msgid "Device"
-msgstr "Qurilma"
-
-#: src/ms-alerts-panel.c:238
-msgid "Could not get list of cell broadcast messages"
-msgstr ""
 
 #: src/ms-audio-devices.c:178
 msgid "Media Volume"
@@ -233,43 +228,43 @@ msgid "Failed to set lockscreen wallpaper"
 msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
 
 #. Translators: The default completer
-#: src/ms-osk-panel.c:746
+#: src/ms-osk-panel.c:744
 msgid "Default"
 msgstr "Odatiy"
 
-#: src/ms-osk-panel.c:747
+#: src/ms-osk-panel.c:745
 msgid "The default completer selected by the OSK"
 msgstr "OSK tomonidan tanlangan standart toʻldiruvchi"
 
-#: src/ms-osk-panel.c:750
+#: src/ms-osk-panel.c:748
 msgid "No information available for this completer"
 msgstr "Bu toʻldiruvchi uchun maʼlumot yoʻq"
 
-#: src/ms-overview-panel.c:69
+#: src/ms-overview-panel.c:66
 #, fuzzy
 #| msgid "Reset Favorites"
 msgid "Reset favorites?"
 msgstr "Sevimlilarni tiklash"
 
-#: src/ms-overview-panel.c:72
+#: src/ms-overview-panel.c:69
 #, fuzzy
 #| msgid "Set list of favorite apps back to the default"
 msgid "Reset list of favorite applications to the default?"
 msgstr "Sevimli ilovalar roʻyxatini standart holatga qaytaring"
 
-#: src/ms-overview-panel.c:75
+#: src/ms-overview-panel.c:72
 #, fuzzy
 #| msgid "Cancel"
 msgid "_Cancel"
 msgstr "Bekor qilish"
 
-#: src/ms-overview-panel.c:76
+#: src/ms-overview-panel.c:73
 #, fuzzy
 #| msgid "Reset"
 msgid "_Reset"
 msgstr "Qayta tiklash"
 
-#: src/ms-overview-panel.c:331
+#: src/ms-overview-panel.c:328
 #, fuzzy
 #| msgid "Failed to set lockscreen wallpaper"
 msgid "Failed to set wallpaper for overview"
@@ -367,197 +362,9 @@ msgstr "Jim"
 msgid "Choose Wallpaper"
 msgstr "Fon rasmi tanlang"
 
-#. Translators: this is a verb.
-#: src/ui/mobile-settings-window.ui:31
-msgid "Search"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:48
-#, fuzzy
-#| msgid "Quick Settings"
-msgid "Search settings"
-msgstr "Tez sozlamalar elementi"
-
-#: src/ui/mobile-settings-window.ui:98
-msgid "Welcome"
-msgstr "Xush kelibsiz"
-
-#: src/ui/mobile-settings-window.ui:104
-msgid "Welcome to Mobile Settings"
-msgstr "Mobil sozlamalarga xush kelibsiz"
-
-#: src/ui/mobile-settings-window.ui:105
-msgid "Tweak advanced mobile settings"
-msgstr "Kengaytirilgan mobil sozlamalarni oʻzgartiring"
-
-#: src/ui/mobile-settings-window.ui:113
-msgid "Top Bar"
-msgstr "Yuqori bar"
-
-#: src/ui/mobile-settings-window.ui:121 src/ui/ms-topbar-panel.ui:34
-msgid "Quick Settings"
-msgstr "Tez sozlamalar elementi"
-
-#: src/ui/mobile-settings-window.ui:122
-#, fuzzy
-#| msgid "Avoid notches"
-msgid "Notches"
-msgstr "Teshiklardan saqlaning"
-
-#: src/ui/mobile-settings-window.ui:133
-msgid "Overview"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:141 src/ui/ms-overview-panel.ui:13
-msgid "Favorites"
-msgstr "Sevimlilar"
-
-#: src/ui/mobile-settings-window.ui:142
-msgid "Filter"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:143 src/ui/mobile-settings-window.ui:205
-#, fuzzy
-#| msgid "Use wallpaper"
-msgid "Wallpaper"
-msgstr "Fon rasmi foydalaning"
-
-#: src/ui/mobile-settings-window.ui:154 src/ui/mobile-settings-window.ui:162
-msgid "Feedback"
-msgstr "Fikr-mulohaza"
-
-#: src/ui/mobile-settings-window.ui:163 src/ui/ms-feedback-panel.ui:93
-msgid "Sounds"
-msgstr "Tovushlar"
-
-#: src/ui/mobile-settings-window.ui:164
-#, fuzzy
-#| msgid "Screen Wakeup"
-msgid "Wakeup"
-msgstr "Ekranni uygʻotish"
-
-#: src/ui/mobile-settings-window.ui:165
-msgid "Vibra"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:166
-msgid "Haptic"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:167
-msgid "LED"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:178
-msgid "Compositor"
-msgstr "Kompozitor"
-
-#: src/ui/mobile-settings-window.ui:186 src/ui/ms-osk-panel.ui:101
-msgid "Scaling"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:197
-msgid "Lockscreen"
-msgstr "Bloklangan ekran"
-
-#: src/ui/mobile-settings-window.ui:206
-#, fuzzy
-#| msgid "Shuffle keypad"
-msgid "Shuffle"
-msgstr "Klaviaturani aralashtirish"
-
-#: src/ui/mobile-settings-window.ui:207 src/ui/ms-lockscreen-panel.ui:79
-msgid "Widgets"
-msgstr "Vidjetlar"
-
-#: src/ui/mobile-settings-window.ui:208
-msgid "Password"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:219
-#, fuzzy
-msgid "Convergence"
-msgstr "Konvergentsiya"
-
-#: src/ui/mobile-settings-window.ui:237
-msgid "On Screen Keyboard"
-msgstr "Ekran klaviaturasi"
-
-#: src/ui/mobile-settings-window.ui:245
-#, fuzzy
-#| msgid "On Screen Keyboard"
-msgid "Keyboard"
-msgstr "Ekran klaviaturasi"
-
-#: src/ui/mobile-settings-window.ui:246
-msgid "Unfold"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:247
-msgid "OSK"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:248
-#, fuzzy
-#| msgid "Text Completion"
-msgid "Word Completion"
-msgstr "Matnni yakunlash"
-
-#: src/ui/mobile-settings-window.ui:259
-#, fuzzy
-#| msgid "Emergency Calls"
-msgid "Emergency Alerts"
-msgstr "Favqulodda qoʻngʻiroqlar"
-
-#: src/ui/mobile-settings-window.ui:267 src/ui/mobile-settings-window.ui:307
-#, fuzzy
-#| msgid "Emergency Calls"
-msgid "Emergency"
-msgstr "Favqulodda qoʻngʻiroqlar"
-
-#: src/ui/mobile-settings-window.ui:268
-msgid "Cell Broadcast"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:269
-msgid "Danger"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:280 src/ui/ms-sensor-panel.ui:28
-msgid "Sensors"
-msgstr "Sensorlar"
-
-#: src/ui/mobile-settings-window.ui:288 src/ui/ms-sensor-panel.ui:69
-msgid "High Contrast"
-msgstr "Yuqori kontrast"
-
-#: src/ui/mobile-settings-window.ui:299
-msgid "Experimental features"
-msgstr "Eksperimental xususiyatlar"
-
-#: src/ui/mobile-settings-window.ui:308
-#, fuzzy
-#| msgid "Suspend device"
-msgid "Suspend"
-msgstr "Qurilmani toʻxtatib turish"
-
-#: src/ui/mobile-settings-window.ui:309
-#, fuzzy
-#| msgid "Experimental features"
-msgid "Experimental"
-msgstr "Eksperimental xususiyatlar"
-
-#: src/ui/mobile-settings-window.ui:333
-msgid "_Show Configurable Tweaks"
-msgstr ""
-
-#: src/ui/mobile-settings-window.ui:340
-msgid "_Keyboard Shortcuts"
-msgstr "_Klaviatura yorliqlari"
-
-#: src/ui/mobile-settings-window.ui:344
-msgid "_About Mobile Settings"
-msgstr "_Mobil sozlamalari haqida"
+#: src/ms-window.c:146
+msgid "Device"
+msgstr "Qurilma"
 
 #: src/ui/ms-alerts-panel.ui:17
 msgid "Unable To Receive Alerts"
@@ -771,6 +578,10 @@ msgstr "Haptik aloqa kuchining maksimal foizi"
 msgid "Per Application settings"
 msgstr "Har bir ilova sozlamalari"
 
+#: src/ui/ms-feedback-panel.ui:93 src/ui/ms-window.ui:159
+msgid "Sounds"
+msgstr "Tovushlar"
+
 #: src/ui/ms-feedback-panel.ui:94
 msgid "The sound to use for certain events"
 msgstr "Muayyan hodisalar uchun ishlatiladigan ovoz"
@@ -907,6 +718,10 @@ msgstr "Fon rasmi foydalaning"
 #: src/ui/ms-lockscreen-panel.ui:71 src/ui/ms-overview-panel.ui:96
 msgid "Whether to show a colorful wallpaper"
 msgstr "Rangli fon rasmi koʻrsatish kerakmi"
+
+#: src/ui/ms-lockscreen-panel.ui:79 src/ui/ms-window.ui:203
+msgid "Widgets"
+msgstr "Vidjetlar"
 
 #: src/ui/ms-lockscreen-panel.ui:80
 msgid "Additional widgets for the lock screen"
@@ -1074,6 +889,10 @@ msgstr "Landshaft rejimida klaviatura balandligi"
 msgid "When the screen is wider than tall"
 msgstr "Ekran balanddan kengroq boʻlganda"
 
+#: src/ui/ms-osk-panel.ui:101 src/ui/ms-window.ui:182
+msgid "Scaling"
+msgstr ""
+
 #: src/ui/ms-osk-panel.ui:104
 msgid "Keep physical size constant"
 msgstr ""
@@ -1132,6 +951,10 @@ msgstr "Yorliqlar"
 msgid "The shortcuts available in the shortcuts bar"
 msgstr "Yorliqlar panelida mavjud yorliqlar"
 
+#: src/ui/ms-overview-panel.ui:13 src/ui/ms-window.ui:137
+msgid "Favorites"
+msgstr "Sevimlilar"
+
 #: src/ui/ms-overview-panel.ui:22
 msgid "Organize Favorites"
 msgstr "Sevimlilarni tashkil qilish"
@@ -1182,6 +1005,10 @@ msgstr ""
 "Yoki qurilmangizda sensorlar oʻrnatilmagan yoki ular oʻchirish tugmasi "
 "tomonidan oʻchirilgan."
 
+#: src/ui/ms-sensor-panel.ui:28 src/ui/ms-window.ui:276
+msgid "Sensors"
+msgstr "Sensorlar"
+
 #: src/ui/ms-sensor-panel.ui:32
 msgid "Sensor Readings"
 msgstr "Sensor koʻrsatkichlari"
@@ -1197,6 +1024,10 @@ msgstr "Yorqin"
 #: src/ui/ms-sensor-panel.ui:58
 msgid "Orientation"
 msgstr "Orientatsiya"
+
+#: src/ui/ms-sensor-panel.ui:69 src/ui/ms-window.ui:284
+msgid "High Contrast"
+msgstr "Yuqori kontrast"
 
 #: src/ui/ms-sensor-panel.ui:72
 msgid "Automatic High Contrast"
@@ -1238,9 +1069,177 @@ msgstr "Teshiklardan saqlaning"
 msgid "Don't place UI elements beneath notches and display cutouts"
 msgstr "UI elementlarini tirqishlar va displey kesiklari ostiga qoʻymang"
 
+#: src/ui/ms-topbar-panel.ui:34 src/ui/ms-window.ui:117
+msgid "Quick Settings"
+msgstr "Tez sozlamalar elementi"
+
 #: src/ui/ms-topbar-panel.ui:35
 msgid "Organize your additional Quick Settings"
 msgstr "Qoʻshimcha tezkor sozlamalarni tartibga soling"
+
+#: src/ui/ms-welcome-panel.ui:8
+msgid "Welcome to Mobile Settings"
+msgstr "Mobil sozlamalarga xush kelibsiz"
+
+#: src/ui/ms-welcome-panel.ui:9
+msgid "Tweak advanced mobile settings"
+msgstr "Kengaytirilgan mobil sozlamalarni oʻzgartiring"
+
+#. Translators: this is a verb.
+#: src/ui/ms-window.ui:31
+msgid "Search"
+msgstr ""
+
+#: src/ui/ms-window.ui:48
+#, fuzzy
+#| msgid "Quick Settings"
+msgid "Search settings"
+msgstr "Tez sozlamalar elementi"
+
+#: src/ui/ms-window.ui:98
+msgid "Welcome"
+msgstr "Xush kelibsiz"
+
+#: src/ui/ms-window.ui:109
+msgid "Top Bar"
+msgstr "Yuqori bar"
+
+#: src/ui/ms-window.ui:118
+#, fuzzy
+#| msgid "Avoid notches"
+msgid "Notches"
+msgstr "Teshiklardan saqlaning"
+
+#: src/ui/ms-window.ui:129
+msgid "Overview"
+msgstr ""
+
+#: src/ui/ms-window.ui:138
+msgid "Filter"
+msgstr ""
+
+#: src/ui/ms-window.ui:139 src/ui/ms-window.ui:201
+#, fuzzy
+#| msgid "Use wallpaper"
+msgid "Wallpaper"
+msgstr "Fon rasmi foydalaning"
+
+#: src/ui/ms-window.ui:150 src/ui/ms-window.ui:158
+msgid "Feedback"
+msgstr "Fikr-mulohaza"
+
+#: src/ui/ms-window.ui:160
+#, fuzzy
+#| msgid "Screen Wakeup"
+msgid "Wakeup"
+msgstr "Ekranni uygʻotish"
+
+#: src/ui/ms-window.ui:161
+msgid "Vibra"
+msgstr ""
+
+#: src/ui/ms-window.ui:162
+msgid "Haptic"
+msgstr ""
+
+#: src/ui/ms-window.ui:163
+msgid "LED"
+msgstr ""
+
+#: src/ui/ms-window.ui:174
+msgid "Compositor"
+msgstr "Kompozitor"
+
+#: src/ui/ms-window.ui:193
+msgid "Lockscreen"
+msgstr "Bloklangan ekran"
+
+#: src/ui/ms-window.ui:202
+#, fuzzy
+#| msgid "Shuffle keypad"
+msgid "Shuffle"
+msgstr "Klaviaturani aralashtirish"
+
+#: src/ui/ms-window.ui:204
+msgid "Password"
+msgstr ""
+
+#: src/ui/ms-window.ui:215
+#, fuzzy
+msgid "Convergence"
+msgstr "Konvergentsiya"
+
+#: src/ui/ms-window.ui:233
+msgid "On Screen Keyboard"
+msgstr "Ekran klaviaturasi"
+
+#: src/ui/ms-window.ui:241
+#, fuzzy
+#| msgid "On Screen Keyboard"
+msgid "Keyboard"
+msgstr "Ekran klaviaturasi"
+
+#: src/ui/ms-window.ui:242
+msgid "Unfold"
+msgstr ""
+
+#: src/ui/ms-window.ui:243
+msgid "OSK"
+msgstr ""
+
+#: src/ui/ms-window.ui:244
+#, fuzzy
+#| msgid "Text Completion"
+msgid "Word Completion"
+msgstr "Matnni yakunlash"
+
+#: src/ui/ms-window.ui:255
+#, fuzzy
+#| msgid "Emergency Calls"
+msgid "Emergency Alerts"
+msgstr "Favqulodda qoʻngʻiroqlar"
+
+#: src/ui/ms-window.ui:263 src/ui/ms-window.ui:303
+#, fuzzy
+#| msgid "Emergency Calls"
+msgid "Emergency"
+msgstr "Favqulodda qoʻngʻiroqlar"
+
+#: src/ui/ms-window.ui:264
+msgid "Cell Broadcast"
+msgstr ""
+
+#: src/ui/ms-window.ui:265
+msgid "Danger"
+msgstr ""
+
+#: src/ui/ms-window.ui:295
+msgid "Experimental features"
+msgstr "Eksperimental xususiyatlar"
+
+#: src/ui/ms-window.ui:304
+#, fuzzy
+#| msgid "Suspend device"
+msgid "Suspend"
+msgstr "Qurilmani toʻxtatib turish"
+
+#: src/ui/ms-window.ui:305
+#, fuzzy
+#| msgid "Experimental features"
+msgid "Experimental"
+msgstr "Eksperimental xususiyatlar"
+
+#: src/ui/ms-window.ui:329
+msgid "_Show Configurable Tweaks"
+msgstr ""
+
+#: src/ui/ms-window.ui:336
+msgid "_Keyboard Shortcuts"
+msgstr "_Klaviatura yorliqlari"
+
+#: src/ui/ms-window.ui:340
+msgid "_About Mobile Settings"
+msgstr "_Mobil sozlamalari haqida"
 
 #~ msgid "Applications"
 #~ msgstr "Ilovalar"
