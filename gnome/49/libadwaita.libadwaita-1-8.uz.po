@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libadwaita libadwaita-1-8\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
-"POT-Creation-Date: 2025-12-10 20:26+0000\n"
+"POT-Creation-Date: 2025-12-19 14:26+0000\n"
 "PO-Revision-Date: 2025-10-13 17:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -398,7 +398,7 @@ msgstr "Orqaga"
 #. Translators: This is a placeholder text of the search entry from
 #. AdwComboRow. It should be phrased as a verb.
 #: src/adw-combo-row.ui:50 src/adw-preferences-dialog.ui:85
-#: src/adw-preferences-window.ui:96
+#: src/adw-preferences-window.ui:97
 msgid "Search"
 msgstr "Qidirish"
 
@@ -536,17 +536,17 @@ msgstr "Afzalliklar"
 msgid "Search preferences"
 msgstr "Afzalliklarni qidirish"
 
-#: src/adw-preferences-dialog.ui:153 src/adw-preferences-window.ui:163
-#: src/adw-shortcuts-dialog.ui:75
+#: src/adw-preferences-dialog.ui:153 src/adw-preferences-window.ui:164
+#: src/adw-shortcuts-dialog.ui:76
 msgid "No Results Found"
 msgstr "Natija yoʻq"
 
-#: src/adw-preferences-dialog.ui:154 src/adw-shortcuts-dialog.ui:76
-#: src/adw-tab-overview.ui:110
+#: src/adw-preferences-dialog.ui:154 src/adw-shortcuts-dialog.ui:77
+#: src/adw-tab-overview.ui:111
 msgid "Try a different search"
 msgstr "Boshqa qidiruvni sinab koʻrish"
 
-#: src/adw-preferences-window.ui:164
+#: src/adw-preferences-window.ui:165
 msgid "Try a different search."
 msgstr "Boshqa qidiruvni sinab koʻrish."
 
@@ -593,7 +593,7 @@ msgid "View Open Tabs"
 msgstr "Ochiq tablarni koʻrish"
 
 #. Translators: Tab overview title, %u is the number of open tabs
-#: src/adw-tab-overview.c:931
+#: src/adw-tab-overview.c:943
 #, c-format
 msgid "%u Tab"
 msgid_plural "%u Tabs"
@@ -607,15 +607,15 @@ msgstr "Varaqlarni qidirish"
 msgid "Search tabs"
 msgstr "Varaqlarni qidirish"
 
-#: src/adw-tab-overview.ui:96
+#: src/adw-tab-overview.ui:97
 msgid "No Open Tabs"
 msgstr "Ochiq tablar yoʻq"
 
-#: src/adw-tab-overview.ui:109
+#: src/adw-tab-overview.ui:110
 msgid "No Tabs Found"
 msgstr "Ochiq tablar topilmadi"
 
-#: src/adw-tab-overview.ui:130
+#: src/adw-tab-overview.ui:131
 msgid "New _Tab"
 msgstr "Yangi tab"
 

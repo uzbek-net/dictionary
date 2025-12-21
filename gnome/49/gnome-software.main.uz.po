@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
-"POT-Creation-Date: 2025-12-12 22:52+0000\n"
+"POT-Creation-Date: 2025-12-19 10:05+0000\n"
 "PO-Revision-Date: 2025-04-04 21:19+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -71,7 +71,7 @@ msgstr "Yangilanish tafsilotlari"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/metainfo/org.gnome.Software.metainfo.xml.in:2923
-#: src/gs-application.c:269
+#: src/gs-application.c:265
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -1153,57 +1153,57 @@ msgid "Installed"
 msgstr "Oʻrnatilgan"
 
 #. TRANSLATORS: this is a command line option
-#: src/gs-application.c:128
+#: src/gs-application.c:124
 msgid "Start up mode: either ‘updates’, ‘updated’, ‘installed’ or ‘overview’"
 msgstr ""
 "Ishga tushirish rejimi: \"yangilanishlar\", \"yangilangan\", \"oʻrnatilgan\""
 " yoki \"umumiy koʻrish\""
 
-#: src/gs-application.c:128
+#: src/gs-application.c:124
 msgid "MODE"
 msgstr "_rekursiv rejimini yoqing"
 
-#: src/gs-application.c:130
+#: src/gs-application.c:126
 msgid "Search for applications"
 msgstr "Ilovalarni qidirish"
 
-#: src/gs-application.c:130
+#: src/gs-application.c:126
 msgid "SEARCH"
 msgstr "IZLASH"
 
-#: src/gs-application.c:132
+#: src/gs-application.c:128
 msgid "Show application details (using application ID)"
 msgstr "Ilova tafsilotlarini koʻrsatish (ilova identifikatori yordamida)"
 
-#: src/gs-application.c:132 src/gs-application.c:136 src/gs-application.c:138
+#: src/gs-application.c:128 src/gs-application.c:132 src/gs-application.c:134
 msgid "ID"
 msgstr "ID"
 
-#: src/gs-application.c:134
+#: src/gs-application.c:130
 msgid "Show application details (using package name)"
 msgstr "Ilova tafsilotlarini koʻrsatish (paket nomidan foydalanib)"
 
-#: src/gs-application.c:134
+#: src/gs-application.c:130
 msgid "PKGNAME"
 msgstr "PKGNAME"
 
-#: src/gs-application.c:136
+#: src/gs-application.c:132
 msgid "Install the application (using application ID)"
 msgstr "Ilovani oʻrnating (ilova identifikatori yordamida)"
 
-#: src/gs-application.c:138
+#: src/gs-application.c:134
 msgid "Uninstall the application (using application ID)"
 msgstr "Ilovani oʻchirib tashlang (ilova identifikatori yordamida)"
 
-#: src/gs-application.c:140
+#: src/gs-application.c:136
 msgid "Open a local package file"
 msgstr "Mahalliy paket faylini oching"
 
-#: src/gs-application.c:140 src/gs-application.c:145
+#: src/gs-application.c:136 src/gs-application.c:141
 msgid "FILENAME"
 msgstr "FAYL NOMI"
 
-#: src/gs-application.c:142
+#: src/gs-application.c:138
 msgid ""
 "The kind of interaction expected for this action: either ‘none’, ‘notify’, "
 "or ‘full’"
@@ -1211,15 +1211,15 @@ msgstr ""
 "Bu harakat uchun kutilayotgan oʻzaro taʼsir turi: “yoʻq”, “xabar berish” "
 "yoki “toʻliq”"
 
-#: src/gs-application.c:143
+#: src/gs-application.c:139
 msgid "INTERACTION"
 msgstr "Oʻzaro ta'sir"
 
-#: src/gs-application.c:145
+#: src/gs-application.c:141
 msgid "Show a local metainfo or appdata file"
 msgstr "Mahalliy metainfo yoki appdata faylini koʻrsatish"
 
-#: src/gs-application.c:147
+#: src/gs-application.c:143
 msgid ""
 "Enable verbose debugging output (from the running instance, if already "
 "running)"
@@ -1227,38 +1227,38 @@ msgstr ""
 "Batafsil disk raskadrovka chiqishini yoqish (agar ishlayotgan boʻlsa, "
 "ishlayotgan misoldan)"
 
-#: src/gs-application.c:149
+#: src/gs-application.c:145
 msgid "Installs any pending updates in the background"
 msgstr "Har qanday kutilayotgan yangilanishlarni fonda oʻrnatadi"
 
-#: src/gs-application.c:151
+#: src/gs-application.c:147
 msgid "Show preferences"
 msgstr "Afzalliklarni koʻrsatish"
 
-#: src/gs-application.c:153
+#: src/gs-application.c:149
 msgid "Quit the running instance"
 msgstr "Ishlayotgan misoldan chiqing"
 
-#: src/gs-application.c:155
+#: src/gs-application.c:151
 msgid "Prefer local file sources to AppStream"
 msgstr "AppStream uchun mahalliy fayl manbalarini afzal koʻring"
 
-#: src/gs-application.c:157
+#: src/gs-application.c:153
 msgid "Show version number"
 msgstr "Versiya raqamini koʻrsatish"
 
-#: src/gs-application.c:264
+#: src/gs-application.c:260
 #, fuzzy, c-format
 #| msgid "Copyright © 2016–2023 GNOME Software contributors"
 msgid "Copyright © 2016–%d GNOME Software contributors"
 msgstr "Mualliflik huquqi © 2016–2023 GNOME dasturiy ta'minot mualliflari"
 
-#: src/gs-application.c:278
+#: src/gs-application.c:274
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
 #. TRANSLATORS: we tried to show an app that did not exist
-#: src/gs-application.c:517
+#: src/gs-application.c:513
 msgid "Sorry! There are no details for that application."
 msgstr "Kechirasiz! Ushbu ilova uchun tafsilotlar yoʻq."
 
@@ -2455,72 +2455,72 @@ msgstr "Mahalliylashtirish"
 
 #. TRANSLATORS: this is a what we use in notifications if the app's name is
 #. unknown
-#: src/gs-dbus-helper.c:291
+#: src/gs-dbus-helper.c:312
 msgid "An app"
 msgstr "Ilova"
 
 #. TRANSLATORS: this is a notification displayed when an app needs additional
 #. MIME types.
-#: src/gs-dbus-helper.c:297
+#: src/gs-dbus-helper.c:318
 #, c-format
 msgid "%s is requesting additional file format support."
 msgstr "%s qoʻshimcha fayl formatini qoʻllab-quvvatlashni soʻramoqda."
 
 #. TRANSLATORS: notification title
-#: src/gs-dbus-helper.c:299
+#: src/gs-dbus-helper.c:320
 msgid "Additional MIME Types Required"
 msgstr "Qoʻshimcha MIME turlari talab qilinadi"
 
 #. TRANSLATORS: this is a notification displayed when an app needs additional
 #. fonts.
-#: src/gs-dbus-helper.c:303
+#: src/gs-dbus-helper.c:324
 #, c-format
 msgid "%s is requesting additional fonts."
 msgstr "%s qoʻshimcha shriftlarni soʻramoqda."
 
 #. TRANSLATORS: notification title
-#: src/gs-dbus-helper.c:305
+#: src/gs-dbus-helper.c:326
 msgid "Additional Fonts Required"
 msgstr "Qoʻshimcha shriftlar talab qilinadi"
 
 #. TRANSLATORS: this is a notification displayed when an app needs additional
 #. codecs.
-#: src/gs-dbus-helper.c:309
+#: src/gs-dbus-helper.c:330
 #, c-format
 msgid "%s is requesting additional multimedia codecs."
 msgstr "%s qoʻshimcha multimedia kodeklarini soʻramoqda."
 
 #. TRANSLATORS: notification title
-#: src/gs-dbus-helper.c:311
+#: src/gs-dbus-helper.c:332
 msgid "Additional Multimedia Codecs Required"
 msgstr "Qoʻshimcha multimedia kodeklari talab qilinadi"
 
 #. TRANSLATORS: this is a notification displayed when an app needs additional
 #. printer drivers.
-#: src/gs-dbus-helper.c:315
+#: src/gs-dbus-helper.c:336
 #, c-format
 msgid "%s is requesting additional printer drivers."
 msgstr "%s qoʻshimcha printer drayverlarini talab qilmoqda."
 
 #. TRANSLATORS: notification title
-#: src/gs-dbus-helper.c:317
+#: src/gs-dbus-helper.c:338
 msgid "Additional Printer Drivers Required"
 msgstr "Qoʻshimcha printer drayverlari talab qilinadi"
 
 #. TRANSLATORS: this is a notification displayed when an app wants to install
 #. additional packages.
-#: src/gs-dbus-helper.c:321
+#: src/gs-dbus-helper.c:342
 #, c-format
 msgid "%s is requesting additional packages."
 msgstr "%s qoʻshimcha paketlarni soʻramoqda."
 
 #. TRANSLATORS: notification title
-#: src/gs-dbus-helper.c:323
+#: src/gs-dbus-helper.c:344
 msgid "Additional Packages Required"
 msgstr "Qoʻshimcha paketlar talab qilinadi"
 
 #. TRANSLATORS: this is a button that launches gnome-software
-#: src/gs-dbus-helper.c:338
+#: src/gs-dbus-helper.c:359
 msgid "Find in Software"
 msgstr "_Dasturiy taʼminotda toping"
 
@@ -5515,48 +5515,48 @@ msgstr "Oʻrnatilgan yangilanishlar"
 msgid "No Updates Installed"
 msgstr "Hech qanday yangilanish oʻrnatilmagan"
 
-#: src/gs-update-monitor.c:236
-msgid "Updates Are Out of Date"
-msgstr "Yangilanishlar eskirgan"
-
-#: src/gs-update-monitor.c:237
-msgid "Please check for available updates"
-msgstr "Iltimos, mavjud yangilanishlarni tekshiring"
-
-#: src/gs-update-monitor.c:243
+#: src/gs-update-monitor.c:238 src/gs-update-monitor.c:261
 msgid "Critical Updates Ready to Install"
 msgstr "Oʻrnatishga tayyor muhim yangilanishlar"
 
-#: src/gs-update-monitor.c:244
+#: src/gs-update-monitor.c:239 src/gs-update-monitor.c:262
 msgid "Install critical updates as soon as possible"
 msgstr "Muhim yangilanishlarni imkon qadar tezroq oʻrnating"
 
-#: src/gs-update-monitor.c:247
-msgid "Critical Updates Available to Download"
-msgstr "Muhim yangilanishlarni yuklab olish mumkin"
-
-#: src/gs-update-monitor.c:248
-msgid "Download critical updates as soon as possible"
-msgstr "Muhim yangilanishlarni imkon qadar tezroq yuklab oling"
-
-#: src/gs-update-monitor.c:254
+#: src/gs-update-monitor.c:245 src/gs-update-monitor.c:272
 msgid "Updates Ready to Install"
 msgstr "Oʻrnatishga tayyor yangilanishlar"
 
-#: src/gs-update-monitor.c:255
+#: src/gs-update-monitor.c:246 src/gs-update-monitor.c:273
 msgid "Software updates are ready and waiting"
 msgstr "Dasturiy ta'minot yangilanishlari tayyor va kutilmoqda"
 
-#: src/gs-update-monitor.c:260
+#: src/gs-update-monitor.c:254
+msgid "Updates Are Out of Date"
+msgstr "Yangilanishlar eskirgan"
+
+#: src/gs-update-monitor.c:255
+msgid "Please check for available updates"
+msgstr "Iltimos, mavjud yangilanishlarni tekshiring"
+
+#: src/gs-update-monitor.c:265
+msgid "Critical Updates Available to Download"
+msgstr "Muhim yangilanishlarni yuklab olish mumkin"
+
+#: src/gs-update-monitor.c:266
+msgid "Download critical updates as soon as possible"
+msgstr "Muhim yangilanishlarni imkon qadar tezroq yuklab oling"
+
+#: src/gs-update-monitor.c:277
 msgid "Updates Available to Download"
 msgstr "Yangilanishlarni yuklab olish mumkin"
 
-#: src/gs-update-monitor.c:261
+#: src/gs-update-monitor.c:278
 msgid "Software updates can be downloaded"
 msgstr "Dasturiy ta'minot yangilanishlarini yuklab olish mumkin"
 
 #. TRANSLATORS: apps were auto-updated and restart is required
-#: src/gs-update-monitor.c:383
+#: src/gs-update-monitor.c:401
 #, c-format
 msgid "%u App Updated — Restart Required"
 msgid_plural "%u Apps Updated — Restart Required"
@@ -5564,7 +5564,7 @@ msgstr[0] "%u Ilova yangilandi — qayta ishga tushirish talab qilinadi"
 msgstr[1] "%u Ilovalar yangilandi — qayta ishga tushirish talab qilinadi"
 
 #. TRANSLATORS: apps were auto-updated
-#: src/gs-update-monitor.c:389
+#: src/gs-update-monitor.c:407
 #, c-format
 msgid "%u App Updated"
 msgid_plural "%u Apps Updated"
@@ -5572,24 +5572,24 @@ msgstr[0] "%u Ilova yangilandi"
 msgstr[1] "%u Ilova yangilandi"
 
 #. TRANSLATORS: %1 is an app name, e.g. Firefox
-#: src/gs-update-monitor.c:400
+#: src/gs-update-monitor.c:418
 #, c-format
 msgid "%s has been updated."
 msgstr "%s yangilandi."
 
 #. TRANSLATORS: the app needs restarting
-#: src/gs-update-monitor.c:403
+#: src/gs-update-monitor.c:421
 msgid "Please restart the app."
 msgstr "Iltimos, ilovani qayta ishga tushiring."
 
 #. TRANSLATORS: %1 and %2 are both app names, e.g. Firefox
-#: src/gs-update-monitor.c:411
+#: src/gs-update-monitor.c:429
 #, c-format
 msgid "%s and %s have been updated."
 msgstr "%s va %s yangilandi."
 
 #. TRANSLATORS: at least one app needs restarting
-#: src/gs-update-monitor.c:417 src/gs-update-monitor.c:436
+#: src/gs-update-monitor.c:435 src/gs-update-monitor.c:454
 #, c-format
 msgid "%u app requires a restart."
 msgid_plural "%u apps require a restart."
@@ -5597,70 +5597,70 @@ msgstr[0] "%u ilovasi qayta ishga tushirishni talab qiladi."
 msgstr[1] "%u ta ilova qayta ishga tushirishni talab qiladi."
 
 #. TRANSLATORS: %1, %2 and %3 are all app names, e.g. Firefox
-#: src/gs-update-monitor.c:429
+#: src/gs-update-monitor.c:447
 #, c-format
 msgid "Includes %s, %s and %s."
 msgstr "%s, %s va %s oʻz ichiga oladi."
 
 #. TRANSLATORS: this is when the current operating system version goes end-of-
 #. life
-#: src/gs-update-monitor.c:732
+#: src/gs-update-monitor.c:750
 msgid "System Has Reached End of Life"
 msgstr "Tizim umrining oxiriga yetdi"
 
 #. TRANSLATORS: this is the message dialog for the distro EOL notice
-#: src/gs-update-monitor.c:734
+#: src/gs-update-monitor.c:752
 msgid "Upgrade to continue receiving updates"
 msgstr "Yangilanishlarni olishni davom ettirish uchun yangilang"
 
 #. TRANSLATORS: this is a distro upgrade, the replacement would be the
 #. * distro name, e.g. 'Fedora'
-#: src/gs-update-monitor.c:793
+#: src/gs-update-monitor.c:811
 #, c-format
 msgid "A new version of %s is available to install"
 msgstr "%s yangi versiyasini oʻrnatish mumkin"
 
 #. TRANSLATORS: this is a distro upgrade
-#: src/gs-update-monitor.c:797
+#: src/gs-update-monitor.c:815
 msgid "Software Upgrade Available"
 msgstr "Dasturiy ta'minotni yangilash mavjud"
 
 #. TRANSLATORS: title when we offline updates have failed
-#: src/gs-update-monitor.c:1324
+#: src/gs-update-monitor.c:1342
 msgid "Software Updates Failed"
 msgstr "Dasturiy ta'minot yangilanmadi"
 
 #. TRANSLATORS: message when we offline updates have failed
-#: src/gs-update-monitor.c:1326
+#: src/gs-update-monitor.c:1344
 msgid "Prepared updates were not installed"
 msgstr "Tayyorlangan yangilanishlar oʻrnatilmagan"
 
-#: src/gs-update-monitor.c:1327
+#: src/gs-update-monitor.c:1345
 msgid "Show Details"
 msgstr "Tafsilotlarni koʻrsatish"
 
 #. TRANSLATORS: Notification title when we've done a distro upgrade
-#: src/gs-update-monitor.c:1376
+#: src/gs-update-monitor.c:1394
 msgid "System Upgrade Complete"
 msgstr "Tizimni yangilash tugallandi"
 
 #. TRANSLATORS: This is the notification body when we've done a
 #. * distro upgrade. First %s is the distro name and the 2nd %s
 #. * is the version, e.g. "Welcome to Fedora 28!"
-#: src/gs-update-monitor.c:1381
+#: src/gs-update-monitor.c:1399
 #, c-format
 msgid "Welcome to %s %s!"
 msgstr "%s %s ga xush kelibsiz!"
 
 #. TRANSLATORS: title when we've done offline updates
-#: src/gs-update-monitor.c:1390
+#: src/gs-update-monitor.c:1408
 msgid "Software Update Installed"
 msgid_plural "Software Updates Installed"
 msgstr[0] "Dasturiy ta'minot yangilanishi o'rnatildi"
 msgstr[1] "Dasturiy ta'minot yangilanishlari o'rnatildi"
 
 #. TRANSLATORS: message when we've done offline updates
-#: src/gs-update-monitor.c:1394
+#: src/gs-update-monitor.c:1412
 msgid "An important operating system update has been installed."
 msgid_plural "Important operating system updates have been installed."
 msgstr[0] "Muhim operatsion tizim yangilanishi o'rnatildi."
@@ -5671,30 +5671,30 @@ msgstr[1] "Muhim operatsion tizim yangilanishlari o'rnatildi."
 #. * users can't express their opinions here. In some languages
 #. * "Review (evaluate) something" is a different translation than
 #. * "Review (browse) something."
-#: src/gs-update-monitor.c:1405
+#: src/gs-update-monitor.c:1423
 msgctxt "updates"
 msgid "Review"
 msgstr "Koʻrib chiqish"
 
 #. TRANSLATORS: this is when the offline update failed
-#: src/gs-update-monitor.c:1457
+#: src/gs-update-monitor.c:1475
 msgid "Failed To Update"
 msgstr "Yangilash amalga oshmadi"
 
 #. TRANSLATORS: the user must have updated manually after
 #. * the updates were prepared
-#: src/gs-update-monitor.c:1462
+#: src/gs-update-monitor.c:1480
 msgid "The system was already up to date."
 msgstr "Tizim allaqachon yangilangan edi."
 
 #. TRANSLATORS: the user aborted the update manually
-#: src/gs-update-monitor.c:1467
+#: src/gs-update-monitor.c:1485
 msgid "The update was cancelled."
 msgstr "Yangilash bekor qilindi."
 
 #. TRANSLATORS: the package manager needed to download
 #. * something with no network available
-#: src/gs-update-monitor.c:1472
+#: src/gs-update-monitor.c:1490
 msgid ""
 "Internet access was required but wasn’t available. Please make sure that you"
 " have internet access and try again."
@@ -5703,7 +5703,7 @@ msgstr ""
 "kirish imkoningiz borligiga ishonch hosil qiling va qayta urinib koʻring."
 
 #. TRANSLATORS: if the package is not signed correctly
-#: src/gs-update-monitor.c:1477
+#: src/gs-update-monitor.c:1495
 msgid ""
 "There were security issues with the update. Please consult your software "
 "provider for more details."
@@ -5712,14 +5712,14 @@ msgstr ""
 "ma'lumot uchun dasturiy ta'minot provayderingiz bilan maslahatlashing."
 
 #. TRANSLATORS: we ran out of disk space
-#: src/gs-update-monitor.c:1482
+#: src/gs-update-monitor.c:1500
 msgid ""
 "There wasn’t enough disk space. Please free up some space and try again."
 msgstr ""
 "Diskda joy yetarli emas edi. Biroz joy boʻshating va qayta urinib koʻring."
 
 #. TRANSLATORS: We didn't handle the error type
-#: src/gs-update-monitor.c:1486
+#: src/gs-update-monitor.c:1504
 msgid ""
 "We’re sorry: the update failed to install. Please wait for another update "
 "and try again. If the problem persists, contact your software provider."

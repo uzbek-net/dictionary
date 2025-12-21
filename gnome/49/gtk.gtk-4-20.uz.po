@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtk/-/issues/\n"
-"POT-Creation-Date: 2025-12-10 19:47+0000\n"
-"PO-Revision-Date: 2025-05-23 11:38+0900\n"
+"POT-Creation-Date: 2025-12-17 06:51+0000\n"
+"PO-Revision-Date: 2025-12-17 11:49+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
 "Language: uz\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.6\n"
 
 #: gdk/android/gdkandroidclipboard.c:174
 msgid "No compatible formats to transfer contents of content provider."
@@ -36,8 +36,9 @@ msgid "Broadway display type not supported: %s"
 msgstr ""
 
 #: gdk/gdkclipboard.c:232
+#, fuzzy
 msgid "This clipboard cannot store data."
-msgstr ""
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: gdk/gdkclipboard.c:287 gdk/gdkclipboard.c:781 gdk/gdkclipboard.c:1072
 msgid "Cannot read from empty clipboard."
@@ -71,12 +72,12 @@ msgstr ""
 #: gdk/gdkcontentproviderimpl.c:532
 #, fuzzy, c-format
 msgid "Cannot provide contents as “%s”"
-msgstr "Quyidagi oqimni yaratib boʻlmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gdk/gdkcontentprovider.c:127
 #, fuzzy, c-format
 msgid "Cannot provide contents as %s"
-msgstr "Quyidagi oqimni yaratib boʻlmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gdk/gdkdisplay.c:176 gdk/gdkglcontext.c:471
 msgid "The current backend does not support OpenGL"
@@ -128,11 +129,12 @@ msgstr "Mavjud emas"
 #: gdk/gdkdisplay.c:1876
 #, fuzzy
 msgid "Failed to create EGL display"
-msgstr "Jild indeksini yozishda xatolik yuz berdi\n"
+msgstr "Hisob yaratish"
 
 #: gdk/gdkdisplay.c:1885
+#, fuzzy
 msgid "Could not initialize EGL display"
-msgstr ""
+msgstr "{user}ʼni {room}ʼga taklif qilib boʻlmadi"
 
 #: gdk/gdkdisplay.c:1895
 #, c-format
@@ -153,8 +155,9 @@ msgstr ""
 
 #: gdk/gdkglcontext.c:454 gdk/win32/gdkglcontext-win32-wgl.c:661
 #: gdk/win32/gdkglcontext-win32-wgl.c:784 gdk/x11/gdkglcontext-glx.c:700
+#, fuzzy
 msgid "Unable to create a GL context"
-msgstr ""
+msgstr "Hisob yaratish"
 
 #: gdk/gdkglcontext.c:1439
 msgid "OpenGL ES API disabled via GDK_DISABLE"
@@ -185,7 +188,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Unrecognized image file format"
 msgid "Unknown image format."
-msgstr "Nomaʼlum rasm formati"
+msgstr "Rasmni nusxalash"
 
 #. * Translators, the strings in the 'keyboard label' context are
 #. * display names for keyboard keys. Some of them have prefixes like
@@ -497,7 +500,7 @@ msgstr ""
 #| msgid "Search"
 msgctxt "keyboard label"
 msgid "Search"
-msgstr "Qidirish"
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gdk/keynamesprivate.h:6921
 msgctxt "keyboard label"
@@ -595,7 +598,7 @@ msgstr "Animatsiyani yuklash uchun xotira yetishmaydi"
 #, fuzzy, c-format
 #| msgid "Error creating folder '%s': %s"
 msgid "Error reading png (%s)"
-msgstr "«%s» jildini yaratishda xatolik yuz berdi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gdk/loaders/gdkpng.c:390
 #, fuzzy, c-format
@@ -623,7 +626,7 @@ msgstr "Vaqtinchalik fayldan oʻqib boʻlmadi"
 #, fuzzy
 #| msgid "Could not clear list"
 msgid "Could not load TIFF data"
-msgstr "Roʻyxatni tozalab boʻlmadi"
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: gdk/loaders/gdktiff.c:514
 #, c-format
@@ -925,7 +928,7 @@ msgstr ""
 #, fuzzy
 msgctxt "accessibility"
 msgid "Select"
-msgstr "_Tanlash: "
+msgstr "Tanlash"
 
 #: gtk/a11y/gtkatspiaction.c:422
 #, fuzzy
@@ -1044,20 +1047,20 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Could not clear list"
 msgid "Could not unescape string"
-msgstr "Roʻyxatni tozalab boʻlmadi"
+msgstr "{n} ta foydalanuvchini {room}ʼga taklif qilib boʻlmadi"
 
 #: gtk/deprecated/gtkappchooserbutton.c:326
 #, fuzzy
 #| msgid "Other..."
 msgid "Other app…"
-msgstr "Boshqa..."
+msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
 #: gtk/deprecated/gtkappchooserdialog.c:218
 #: gtk/deprecated/gtkappchooserdialog.c:269
 #, fuzzy
 #| msgid "Application"
 msgid "Select Application"
-msgstr "Dastur"
+msgstr "Tanlash"
 
 #. Translators: %s is a filename
 #: gtk/deprecated/gtkappchooserdialog.c:225
@@ -1079,9 +1082,9 @@ msgid "Opening “%s” files."
 msgstr "%s ochilmoqda"
 
 #: gtk/deprecated/gtkappchooserdialog.c:233
-#, c-format
+#, fuzzy, c-format
 msgid "No applications found for “%s” files"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/deprecated/gtkappchooserdialog.c:435
 msgid "Failed to start GNOME Software"
@@ -1121,7 +1124,7 @@ msgstr "Dastur"
 #, fuzzy
 #| msgid "Application"
 msgid "Other Apps"
-msgstr "Dastur"
+msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
 #. This label is displayed in a treeview cell displaying
 #. * a disabled accelerator key combination.
@@ -1146,7 +1149,7 @@ msgstr "Xato URI"
 #, fuzzy
 #| msgid "New accelerator..."
 msgid "New accelerator…"
-msgstr "Yangi akselerator..."
+msgstr "Yangi aʼzolarni taklif qilish…"
 
 #: gtk/deprecated/gtkcellrendererprogress.c:132
 #: gtk/deprecated/gtkcellrendererprogress.c:322
@@ -1226,7 +1229,7 @@ msgstr ""
 #: gtk/deprecated/gtkshow.c:291
 #, fuzzy
 msgid "Could not show link"
-msgstr "Roʻyxatni tozalab boʻlmadi"
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/deprecated/gtkvolumebutton.c:239
 msgid "Muted"
@@ -1550,7 +1553,7 @@ msgstr "_Qizil:"
 #| msgid "Image"
 msgctxt "accessibility"
 msgid "image"
-msgstr "Rasm"
+msgstr "Rasmni nusxalash"
 
 #: gtk/gtkaccessible.c:848
 msgctxt "accessibility"
@@ -1575,24 +1578,28 @@ msgid "legend"
 msgstr ""
 
 #: gtk/gtkaccessible.c:852
+#, fuzzy
 msgctxt "accessibility"
 msgid "link"
-msgstr ""
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/gtkaccessible.c:853
+#, fuzzy
 msgctxt "accessibility"
 msgid "list"
-msgstr ""
+msgstr "Xona roʻyxati"
 
 #: gtk/gtkaccessible.c:854
+#, fuzzy
 msgctxt "accessibility"
 msgid "list box"
-msgstr ""
+msgstr "Xona roʻyxati"
 
 #: gtk/gtkaccessible.c:855
+#, fuzzy
 msgctxt "accessibility"
 msgid "list item"
-msgstr ""
+msgstr "Xona roʻyxati"
 
 #: gtk/gtkaccessible.c:856
 msgctxt "accessibility"
@@ -1604,7 +1611,7 @@ msgstr ""
 #| msgid "_Domain:"
 msgctxt "accessibility"
 msgid "main"
-msgstr "_Domen:"
+msgstr "Asosiy kontent"
 
 #: gtk/gtkaccessible.c:858
 msgctxt "accessibility"
@@ -1622,29 +1629,34 @@ msgid "meter"
 msgstr ""
 
 #: gtk/gtkaccessible.c:861
+#, fuzzy
 msgctxt "accessibility"
 msgid "menu"
-msgstr ""
+msgstr "Menyuni ochish"
 
 #: gtk/gtkaccessible.c:862
+#, fuzzy
 msgctxt "accessibility"
 msgid "menu bar"
-msgstr ""
+msgstr "Menyuni ochish"
 
 #: gtk/gtkaccessible.c:863
+#, fuzzy
 msgctxt "accessibility"
 msgid "menu item"
-msgstr ""
+msgstr "Menyuni ochish"
 
 #: gtk/gtkaccessible.c:864
+#, fuzzy
 msgctxt "accessibility"
 msgid "menu item checkbox"
-msgstr ""
+msgstr "Menyuni ochish"
 
 #: gtk/gtkaccessible.c:865
+#, fuzzy
 msgctxt "accessibility"
 msgid "menu item radio"
-msgstr ""
+msgstr "Menyuni ochish"
 
 #: gtk/gtkaccessible.c:866
 #, fuzzy
@@ -1733,14 +1745,14 @@ msgstr ""
 #| msgid "Search"
 msgctxt "accessibility"
 msgid "search"
-msgstr "Qidirish"
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/gtkaccessible.c:881
 #, fuzzy
 #| msgid "Search"
 msgctxt "accessibility"
 msgid "search box"
-msgstr "Qidirish"
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/gtkaccessible.c:882
 #, fuzzy
@@ -1758,7 +1770,7 @@ msgstr ""
 #, fuzzy
 msgctxt "accessibility"
 msgid "select"
-msgstr "_Tanlash: "
+msgstr "Tanlash"
 
 #: gtk/gtkaccessible.c:885
 msgctxt "accessibility"
@@ -1808,9 +1820,10 @@ msgid "table"
 msgstr "Oʻchirilgan"
 
 #: gtk/gtkaccessible.c:893
+#, fuzzy
 msgctxt "accessibility"
 msgid "tab list"
-msgstr ""
+msgstr "Xona roʻyxati"
 
 #: gtk/gtkaccessible.c:894
 msgctxt "accessibility"
@@ -1818,9 +1831,10 @@ msgid "tab panel"
 msgstr ""
 
 #: gtk/gtkaccessible.c:895
+#, fuzzy
 msgctxt "accessibility"
 msgid "text box"
-msgstr ""
+msgstr "Nusxa olish"
 
 #: gtk/gtkaccessible.c:896
 msgctxt "accessibility"
@@ -1921,7 +1935,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Menu"
 msgid "Menu bar"
-msgstr "Menyu"
+msgstr "Menyuni ochish"
 
 #: gtk/gtkbookmarksmanager.c:53
 #, c-format
@@ -1934,14 +1948,14 @@ msgid "%s already exists in the bookmarks list"
 msgstr ""
 
 #: gtk/gtkbuilder-menus.c:232
-#, c-format
+#, fuzzy, c-format
 msgid "Element <%s> not allowed inside <%s>"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/gtkbuilder-menus.c:238
-#, c-format
+#, fuzzy, c-format
 msgid "Element <%s> not allowed at toplevel"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/gtkbuilder-menus.c:329
 #, c-format
@@ -2255,13 +2269,13 @@ msgstr "Boshqa %sx%s"
 #, fuzzy
 #| msgid "Color"
 msgid "Add Color"
-msgstr "Rang"
+msgstr "Qoʻshish"
 
 #: gtk/gtkcolorchooserwidget.c:604
 #, fuzzy, c-format
 #| msgid "Custom %sx%s"
 msgid "Custom color %d: %s"
-msgstr "Boshqa %sx%s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/gtkcolorswatch.c:230
 #, fuzzy
@@ -2278,8 +2292,9 @@ msgid "default:mm"
 msgstr "default:mm"
 
 #: gtk/print/gtkcustompaperunixdialog.c:291
+#, fuzzy
 msgid "Margins from Printer…"
-msgstr ""
+msgstr "{datetime} dan ovozli xabar"
 
 #. And show the custom paper dialog
 #: gtk/print/gtkcustompaperunixdialog.c:377
@@ -2335,11 +2350,8 @@ msgid "Paper Margins"
 msgstr "Qogʻoz maydonlari"
 
 #: gtk/gtkeditablelabel.c:170 gtk/ui/gtkapplication-quartz.ui:50
-#, fuzzy
-#| msgctxt "Stock label"
-#| msgid "_Edit"
 msgid "_Edit"
-msgstr "_Tahrirlash"
+msgstr "Tahrirlash"
 
 #: gtk/gtkeditablelabel.c:171 gtk/gtklabel.c:5949 gtk/gtktext.c:6379
 #: gtk/gtktextview.c:9382
@@ -2347,12 +2359,13 @@ msgstr "_Tahrirlash"
 #| msgctxt "Stock label"
 #| msgid "_Copy"
 msgid "_Copy"
-msgstr "_Nusxa olish"
+msgstr "Nusxa olish"
 
 #: gtk/gtkeditablelabel.c:344 gtk/gtklabel.c:6009 gtk/gtktext.c:2891
 #: gtk/gtktextview.c:9460
+#, fuzzy
 msgid "Context menu"
-msgstr ""
+msgstr "Menyuni ochish"
 
 #: gtk/gtkentry.c:3787
 #, fuzzy
@@ -2365,7 +2378,7 @@ msgstr "Insert"
 #, fuzzy
 #| msgid "_Name:"
 msgid "_Name"
-msgstr "_Nomi:"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkfilechoosererrorstack.c:65
 msgid "A folder cannot be called “.”"
@@ -2419,13 +2432,13 @@ msgstr "«.» bilan boshlangan fayl nomlari yashirilgan"
 #, fuzzy
 #| msgid "Shortcut %s already exists"
 msgid "A folder with that name already exists"
-msgstr "%s tugmalar birikmasi allaqachon mavjud"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkfilechoosererrorstack.c:117
 #, fuzzy
 #| msgid "Shortcut %s already exists"
 msgid "A file with that name already exists"
-msgstr "%s tugmalar birikmasi allaqachon mavjud"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkfilechoosernative.c:521 gtk/gtkfilechoosernative.c:594
 #: gtk/gtkfilechooserwidget.c:1249 gtk/gtkfilechooserwidget.c:5037
@@ -2436,11 +2449,8 @@ msgstr "%s tugmalar birikmasi allaqachon mavjud"
 #: gtk/gtkwindow.c:6465 gtk/ui/gtkappchooserdialog.ui:51
 #: gtk/ui/gtkassistant.ui:52 gtk/ui/gtkcolorchooserdialog.ui:44
 #: gtk/ui/gtkfontchooserdialog.ui:29
-#, fuzzy
-#| msgctxt "Stock label"
-#| msgid "_Cancel"
 msgid "_Cancel"
-msgstr "_Bekor qilish"
+msgstr "Bekor qilish"
 
 #: gtk/gtkfilechoosernative.c:522 gtk/gtkfilechoosernative.c:588
 #: gtk/gtkfiledialog.c:886 gtk/gtkplacessidebar.c:3149
@@ -2449,19 +2459,16 @@ msgstr "_Bekor qilish"
 #| msgctxt "Stock label"
 #| msgid "_Open"
 msgid "_Open"
-msgstr "_Ochish"
+msgstr "Ochish https://127.0.0.1:64443/"
 
 #: gtk/gtkfilechoosernative.c:588 gtk/gtkfiledialog.c:891
-#, fuzzy
-#| msgctxt "Stock label"
-#| msgid "_Save"
 msgid "_Save"
-msgstr "_Saqlash"
+msgstr "Saqlash"
 
 #: gtk/gtkfilechoosernativeportal.c:500
-#, c-format
+#, fuzzy, c-format
 msgid "The session bus is not available"
-msgstr ""
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkfilechoosernativequartz.c:348 gtk/ui/gtkfilechooserwidget.ui:299
 msgid "Select which types of files are shown"
@@ -2471,9 +2478,9 @@ msgstr "Qaysi turdagi fayllar koʻrsatilishini tanlang"
 #. * is a hostname. Nautilus and the panel contain the same string
 #. * to translate.
 #: gtk/gtkfilechooserutils.c:365
-#, c-format
+#, fuzzy, c-format
 msgid "%1$s on %2$s"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/gtkfilechooserwidget.c:365
 msgid "Type name of new folder"
@@ -2525,13 +2532,13 @@ msgstr "Jild tarkibini koʻrsatib boʻlmaydi"
 #, fuzzy
 #| msgid "The folder could not be created"
 msgid "The file could not be deleted"
-msgstr "Jild yaratib boʻlmadi"
+msgstr "{n} ta foydalanuvchini {room}ʼga taklif qilib boʻlmadi"
 
 #: gtk/gtkfilechooserwidget.c:823
 #, fuzzy
 #| msgid "The folder could not be created"
 msgid "The file could not be moved to the Trash"
-msgstr "Jild yaratib boʻlmadi"
+msgstr "{n} ta foydalanuvchini {room}ʼga taklif qilib boʻlmadi"
 
 #: gtk/gtkfilechooserwidget.c:1247
 #, c-format
@@ -2563,8 +2570,9 @@ msgid "Grid View"
 msgstr ""
 
 #: gtk/gtkfilechooserwidget.c:1769
+#, fuzzy
 msgid "List View"
-msgstr ""
+msgstr "Xona roʻyxati"
 
 #: gtk/gtkfilechooserwidget.c:1832
 #, fuzzy
@@ -2579,7 +2587,7 @@ msgstr "Fayl menejeri bilan _ochish"
 #, fuzzy
 #| msgid "_Location:"
 msgid "_Copy Location"
-msgstr "_Manzili:"
+msgstr "Rasmni nusxalash"
 
 #: gtk/gtkfilechooserwidget.c:1844
 msgid "_Add to Bookmarks"
@@ -2591,8 +2599,9 @@ msgid "_Rename"
 msgstr "_Nomini oʻzgartirish"
 
 #: gtk/gtkfilechooserwidget.c:1856
+#, fuzzy
 msgid "_Move to Trash"
-msgstr ""
+msgstr "Xonalarga oʻting"
 
 #: gtk/gtkfilechooserwidget.c:1865
 msgid "Show _Hidden Files"
@@ -2649,12 +2658,12 @@ msgstr "Oʻzgartirilgan"
 #: gtk/gtkfilechooserwidget.c:3666
 #, fuzzy, c-format
 msgid "Could not read the contents of %s"
-msgstr "Quyidagi oqimni yaratib boʻlmadi: %s"
+msgstr "Oʻqilgan deb belgilash"
 
 #: gtk/gtkfilechooserwidget.c:3670
 #, fuzzy
 msgid "Could not read the contents of the folder"
-msgstr "Fayl haqidagi maʼlumotni olib boʻlmadi"
+msgstr "Oʻqilgan deb belgilash"
 
 #. Translators: see g_date_time_format() for details on the format
 #: gtk/gtkfilechooserwidget.c:3793 gtk/gtkfilechooserwidget.c:3836
@@ -2672,13 +2681,14 @@ msgid "Yesterday"
 msgstr "Kecha soat %H:%M"
 
 #: gtk/gtkfilechooserwidget.c:3808
-#, no-c-format
+#, fuzzy, no-c-format
 msgid "%-e %b"
-msgstr ""
+msgstr "e-imzo qoʻllanilgan veb-saytlar roʻyxati"
 
 #: gtk/gtkfilechooserwidget.c:3812
+#, fuzzy
 msgid "%-e %b %Y"
-msgstr ""
+msgstr "e-imzo qoʻllanilgan veb-saytlar roʻyxati"
 
 #: gtk/gtkfilechooserwidget.c:3852 gtk/gtkfilechooserwidget.c:3860
 msgid "Program"
@@ -2810,26 +2820,24 @@ msgstr "Shriftni tanlang"
 #, fuzzy
 #| msgid "Select A File"
 msgid "Save a File"
-msgstr "Faylni tanlang"
+msgstr "Saqlash"
 
 #: gtk/gtkfiledialog.c:896 gtk/ui/gtkappchooserdialog.ui:56
 #: gtk/ui/gtkcolorchooserdialog.ui:49 gtk/ui/gtkfontchooserdialog.ui:34
-#, fuzzy
-#| msgid "_Selection: "
 msgid "_Select"
-msgstr "_Tanlash: "
+msgstr "Tanlash"
 
 #: gtk/gtkfiledialog.c:897
 #, fuzzy
 #| msgid "Select A File"
 msgid "Select Folders"
-msgstr "Faylni tanlang"
+msgstr "Tanlash"
 
 #: gtk/gtkfiledialog.c:897
 #, fuzzy
 #| msgid "Select A File"
 msgid "Select a Folder"
-msgstr "Faylni tanlang"
+msgstr "Tanlash"
 
 #: gtk/gtkfiledialog.c:1413 gtk/gtkfiledialog.c:1533 gtk/gtkfiledialog.c:1645
 #, fuzzy
@@ -2976,22 +2984,23 @@ msgstr "_Qoʻyish"
 #| msgctxt "Stock label"
 #| msgid "Select _All"
 msgid "Select _All"
-msgstr "_Hammasini tanlash"
+msgstr "Tanlash"
 
 #: gtk/gtklabel.c:5961
 #, fuzzy
 msgid "_Open Link"
-msgstr "_Ochish"
+msgstr "Menyuni ochish"
 
 #: gtk/gtklabel.c:5965
+#, fuzzy
 msgid "Copy _Link Address"
-msgstr ""
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/gtklinkbutton.c:276
 #, fuzzy
 #| msgid "Copy URL"
 msgid "_Copy URL"
-msgstr "URL'dan nusxa olish"
+msgstr "Nusxa olish"
 
 #: gtk/gtklinkbutton.c:605
 msgid "Invalid URI"
@@ -3200,12 +3209,12 @@ msgstr ""
 #: gtk/gtknotebook.c:3306
 #, fuzzy
 msgid "Previous tab"
-msgstr "Ol_dingi"
+msgstr "Xonani tark etish"
 
 #: gtk/gtknotebook.c:3310
 #, fuzzy
 msgid "Next tab"
-msgstr "_Keyingi"
+msgstr "Yangi xona"
 
 #: gtk/gtknotebook.c:4426 gtk/gtknotebook.c:6636
 #, c-format
@@ -3264,13 +3273,13 @@ msgstr "Sahifa moslamalari"
 #, fuzzy
 #| msgid "Text"
 msgid "Hide Text"
-msgstr "Matn"
+msgstr "Nusxa olish"
 
 #: gtk/gtkpasswordentry.c:176 gtk/gtkpasswordentry.c:623
 #, fuzzy
 #| msgid "Job Details"
 msgid "Show Text"
-msgstr "Vazifa tafsilotlari"
+msgstr "Nusxa olish"
 
 #: gtk/gtkpasswordentry.c:218
 msgid "Caps Lock is on"
@@ -3280,20 +3289,26 @@ msgstr "Caps Lock yoqilgan"
 #, fuzzy
 #| msgid "Job Details"
 msgid "_Show Text"
-msgstr "Vazifa tafsilotlari"
+msgstr "Nusxa olish"
 
 #. translators: %s is the name of a cloud provider for files
 #: gtk/gtkplacessidebar.c:912
 #, fuzzy, c-format
 #| msgid "Open '%s'"
 msgid "Open %s"
-msgstr "'%s' ni ochish"
+msgstr "Menyuni ochish"
 
 #: gtk/gtkplacessidebar.c:1003
 #, fuzzy
 #| msgid "Recently Used"
 msgid "Recent"
-msgstr "Yaqinda ishlatilganlar"
+msgstr ""
+"Xonani yangiroq versiyaga yangilash Matrix spetsifikatsiyasining yangi "
+"xususiyatlaridan foydalanish imkonini beradi. Bundan tashqari, xona holatini"
+" tiklash uchun ham foydalanish mumkin, bu esa xonani tezroq qoʻshilishi "
+"kerak. Biroq, uni tejamkorlik bilan ishlatish kerak, chunki u bezovta "
+"qilishi mumkin, chunki xona aʼzolari yangi xonaga qoʻlda qoʻshilishlari "
+"kerak."
 
 #: gtk/gtkplacessidebar.c:1005
 #, fuzzy
@@ -3310,8 +3325,9 @@ msgid "Starred files"
 msgstr ""
 
 #: gtk/gtkplacessidebar.c:1027
+#, fuzzy
 msgid "Open your personal folder"
-msgstr ""
+msgstr "Ochish https://127.0.0.1:64443/"
 
 #: gtk/gtkplacessidebar.c:1040
 msgid "Desktop"
@@ -3342,14 +3358,14 @@ msgstr "Axlat qutisini ochish"
 
 #: gtk/gtkplacessidebar.c:1181 gtk/gtkplacessidebar.c:1209
 #: gtk/gtkplacessidebar.c:1409
-#, c-format
+#, fuzzy, c-format
 msgid "Mount and open “%s”"
-msgstr ""
+msgstr "Ochish https://127.0.0.1:64443/"
 
 #: gtk/gtkplacessidebar.c:1304
 #, fuzzy
 msgid "Open the contents of the file system"
-msgstr "Fayl haqidagi maʼlumotni olib boʻlmadi"
+msgstr "Ochish https://127.0.0.1:64443/"
 
 #: gtk/gtkplacessidebar.c:1387
 msgid "New bookmark"
@@ -3363,11 +3379,12 @@ msgstr "Yangi xatchoʻp qoʻshish"
 #, fuzzy
 #| msgid "Location"
 msgid "Other Locations"
-msgstr "Manzili"
+msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
 #: gtk/gtkplacessidebar.c:1455
+#, fuzzy
 msgid "Show other locations"
-msgstr ""
+msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
 #: gtk/gtkplacessidebar.c:1964 gtk/gtkplacessidebar.c:2984
 #, c-format
@@ -3388,8 +3405,9 @@ msgid "Unable to access “%s”"
 msgstr ""
 
 #: gtk/gtkplacessidebar.c:2233
+#, fuzzy
 msgid "This name is already taken"
-msgstr ""
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacessidebar.c:2525
 #, c-format
@@ -3430,7 +3448,7 @@ msgstr "Yangi o_ynada ochish"
 #, fuzzy
 #| msgid "_Add to Bookmarks"
 msgid "_Add Bookmark"
-msgstr "Xatchoʻplarga _qoʻshish"
+msgstr "Qoʻshish"
 
 #: gtk/gtkplacessidebar.c:3266
 msgid "_Remove"
@@ -3457,8 +3475,9 @@ msgid "_Start"
 msgstr ""
 
 #: gtk/gtkplacessidebar.c:3319
+#, fuzzy
 msgid "_Power On"
-msgstr ""
+msgstr "Xonaning barcha aʻzolari uchun belgilangan quvvat darajalari"
 
 #: gtk/gtkplacessidebar.c:3320
 #, fuzzy
@@ -3467,14 +3486,15 @@ msgid "_Connect Drive"
 msgstr "Ula_nish"
 
 #: gtk/gtkplacessidebar.c:3321
+#, fuzzy
 msgid "_Start Multi-disk Device"
-msgstr ""
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacessidebar.c:3322
 #, fuzzy
 #| msgid "_Device:"
 msgid "_Unlock Device"
-msgstr "_Uskuna:"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacessidebar.c:3332
 #, fuzzy
@@ -3482,25 +3502,27 @@ msgid "_Stop"
 msgstr "_Toʻxtatish"
 
 #: gtk/gtkplacessidebar.c:3334
+#, fuzzy
 msgid "_Safely Remove Drive"
-msgstr ""
+msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
 #: gtk/gtkplacessidebar.c:3335
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Disconnect"
 msgid "_Disconnect Drive"
-msgstr "_Uzish"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacessidebar.c:3336
+#, fuzzy
 msgid "_Stop Multi-disk Device"
-msgstr ""
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacessidebar.c:3337
 #, fuzzy
 #| msgid "_Device:"
 msgid "_Lock Device"
-msgstr "_Uskuna:"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacessidebar.c:3828 gtk/gtkplacesview.c:1090
 msgid "Computer"
@@ -3510,7 +3532,7 @@ msgstr "Kompyuter"
 #, fuzzy
 #| msgid "Remove"
 msgid "Remove server"
-msgstr "Olib tashlash"
+msgstr "Avatar olib tashlansinmi?"
 
 #: gtk/gtkplacesview.c:876
 msgid "Searching for network locations"
@@ -3591,7 +3613,7 @@ msgstr ""
 #| msgctxt "Stock label"
 #| msgid "_Disconnect"
 msgid "_Disconnect"
-msgstr "_Uzish"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacesview.c:1675
 #, fuzzy
@@ -3631,7 +3653,7 @@ msgstr[1] "Mavjud emas"
 #| msgctxt "Stock label"
 #| msgid "_Disconnect"
 msgid "Disconnect"
-msgstr "_Uzish"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/gtkplacesviewrow.c:471 gtk/ui/gtkplacesviewrow.ui:53
 #: gtk/ui/gtksidebarrow.ui:54
@@ -3668,7 +3690,7 @@ msgstr "Oʻrtacha"
 #| msgid "Low"
 msgctxt "Print job priority"
 msgid "Low"
-msgstr "Past"
+msgstr "Past ustuvorlikka oʻtish"
 
 #. Translators, this is the label used for the option in the print
 #. * dialog that controls the front cover page.
@@ -3808,7 +3830,7 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Printer '%s' is low on paper."
 msgid "Printer “%s” is low on toner."
-msgstr "'%s' printerda qogʻoz tugamoqda."
+msgstr "Past ustuvorlikka oʻtish"
 
 #: gtk/print/backends/gtkprintbackendcups.c:2586
 #, fuzzy, c-format
@@ -3821,14 +3843,14 @@ msgstr "'%s' printerda qogʻoz tugamoqda."
 #, fuzzy, c-format
 #| msgid "Printer '%s' is low on paper."
 msgid "Printer “%s” is low on developer."
-msgstr "'%s' printerda qogʻoz tugamoqda."
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #. Translators: "Developer" like on photo development context
 #: gtk/print/backends/gtkprintbackendcups.c:2596
 #, fuzzy, c-format
 #| msgid "Printer '%s' is out of paper."
 msgid "Printer “%s” is out of developer."
-msgstr "'%s' printerda qogʻoz tugadi."
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #. Translators: "marker" is one color bin of the printer
 #: gtk/print/backends/gtkprintbackendcups.c:2601
@@ -3848,30 +3870,30 @@ msgstr "'%s' printerda qogʻoz tugadi."
 #, fuzzy, c-format
 #| msgid "The cover is open on printer '%s'."
 msgid "The cover is open on printer “%s”."
-msgstr "'%s' printer qopqogʻi ochiq qoldi."
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/print/backends/gtkprintbackendcups.c:2614
 #, fuzzy, c-format
 #| msgid "The door is open on printer '%s'."
 msgid "The door is open on printer “%s”."
-msgstr "'%s' printer eshigi ochiq qoldi."
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/print/backends/gtkprintbackendcups.c:2618
 #, fuzzy, c-format
 #| msgid "Printer '%s' is low on paper."
 msgid "Printer “%s” is low on paper."
-msgstr "'%s' printerda qogʻoz tugamoqda."
+msgstr "Past ustuvorlikka oʻtish"
 
 #: gtk/print/backends/gtkprintbackendcups.c:2622
 #, fuzzy, c-format
 #| msgid "Printer '%s' is out of paper."
 msgid "Printer “%s” is out of paper."
-msgstr "'%s' printerda qogʻoz tugadi."
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/print/backends/gtkprintbackendcups.c:2626
 #, fuzzy, c-format
 msgid "Printer “%s” is currently offline."
-msgstr "Printer '%s' oʻchirilgan."
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/print/backends/gtkprintbackendcups.c:2630
 #, fuzzy, c-format
@@ -3951,7 +3973,7 @@ msgstr ""
 #| msgid "Auto Select"
 msgctxt "printing option value"
 msgid "Auto Select"
-msgstr "Avto-tanlash"
+msgstr "Tanlash"
 
 #. Translators: this is an option of "Paper Source"
 #. Translators: this is an option of "Resolution"
@@ -4285,7 +4307,7 @@ msgstr "Boshqa %sx%s"
 #, fuzzy
 msgctxt "printer option"
 msgid "Printer Profile"
-msgstr "Printer topilmadi"
+msgstr "Foydalanuvchi profili"
 
 #. TRANSLATORS: this is when color profile information is unavailable
 #: gtk/print/backends/gtkprintbackendcups.c:6074
@@ -4342,14 +4364,14 @@ msgstr ""
 #, fuzzy
 #| msgid "Not available"
 msgid "No profile available"
-msgstr "Mavjud emas"
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #. TRANSLATORS: when the color profile has no title
 #: gtk/print/backends/gtkprintercups.c:268
 #, fuzzy
 #| msgid "Unspecified error"
 msgid "Unspecified profile"
-msgstr "Koʻrsatilmagan xatolik"
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/print/gtkprintbackend.c:653
 #, fuzzy
@@ -4365,7 +4387,7 @@ msgstr "Maxfiy soʻzni seansdan _chiqquncha eslab qolish"
 #: gtk/print/gtkprinteroptionwidget.c:576
 #, fuzzy
 msgid "Select a filename"
-msgstr "Faylni tanlang"
+msgstr "Tanlash"
 
 #: gtk/print/gtkprinteroptionwidget.c:820
 msgid "Not available"
@@ -4441,9 +4463,9 @@ msgid "Printing %d"
 msgstr "%d bosib chiqarilmoqda"
 
 #: gtk/print/gtkprintoperation.c:2909
-#, c-format
+#, fuzzy, c-format
 msgid "Error creating print preview"
-msgstr ""
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: gtk/print/gtkprintoperation.c:2912
 #, c-format
@@ -4490,8 +4512,9 @@ msgstr ""
 
 #: gtk/print/gtkprintoperation-win32.c:1653
 #: gtk/print/gtkprintoperation-win32.c:1899
+#, fuzzy
 msgid "Error from StartDoc"
-msgstr ""
+msgstr "{datetime} dan ovozli xabar"
 
 #: gtk/print/gtkprintoperation-win32.c:1754
 #: gtk/print/gtkprintoperation-win32.c:1777
@@ -4529,12 +4552,14 @@ msgid "_Print"
 msgstr "_Bosib chiqarish"
 
 #: gtk/print/gtkprintunixdialog.c:957
+#, fuzzy
 msgid "Getting printer information failed"
-msgstr ""
+msgstr "Qoʻshimcha maʼlumot"
 
 #: gtk/print/gtkprintunixdialog.c:1881
+#, fuzzy
 msgid "Getting printer information…"
-msgstr ""
+msgstr "Qoʻshimcha maʼlumot"
 
 #: gtk/print/gtkprintunixdialog.c:2744 gtk/print/gtkprintunixdialog.c:2757
 msgid "Page Ordering"
@@ -4614,8 +4639,9 @@ msgid "R"
 msgstr ""
 
 #: gtk/deprecated/gtkshortcutssection.c:449
+#, fuzzy
 msgid "_Show All"
-msgstr ""
+msgstr "Foydalanuvchi profili"
 
 #: gtk/deprecated/gtkshortcutsshortcut.c:147
 msgid "Two finger pinch"
@@ -4654,14 +4680,16 @@ msgstr ""
 #: gtk/deprecated/gtkshortcutswindow.c:912
 #: gtk/deprecated/gtkshortcutswindow.c:979
 #: gtk/deprecated/gtkshortcutswindow.c:985
+#, fuzzy
 msgid "Search Shortcuts"
-msgstr ""
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #. Translators: This is the window title for the shortcuts window in normal
 #. mode
 #: gtk/deprecated/gtkshortcutswindow.c:944 gtk/inspector/window.ui:584
+#, fuzzy
 msgid "Shortcuts"
-msgstr ""
+msgstr "Klaviatura yorliqlari"
 
 #. Translators: This is the window title for the shortcuts window in search
 #. mode
@@ -4669,7 +4697,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Search"
 msgid "Search Results"
-msgstr "Qidirish"
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/deprecated/gtkshortcutswindow.c:1047 gtk/ui/gtkemojichooser.ui:352
 #: gtk/ui/gtkfilechooserwidget.ui:253
@@ -4680,8 +4708,9 @@ msgstr "Hech qanday element topilmadi"
 
 #: gtk/deprecated/gtkshortcutswindow.c:1058 gtk/ui/gtkemojichooser.ui:362
 #: gtk/ui/gtkfilechooserwidget.ui:263 gtk/ui/gtkplacesview.ui:207
+#, fuzzy
 msgid "Try a different search"
-msgstr ""
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/gtkstacksidebar.c:160
 msgctxt "accessibility"
@@ -4933,11 +4962,8 @@ msgid "Role"
 msgstr ""
 
 #: gtk/inspector/a11y.ui:71
-#, fuzzy
-#| msgctxt "Stock label"
-#| msgid "Question"
 msgid "Description"
-msgstr "Savol"
+msgstr "Taʼrif"
 
 #: gtk/inspector/a11y.ui:99 gtk/inspector/misc-info.ui:296
 #: tools/gtk-path-tool-info.c:132
@@ -4989,15 +5015,23 @@ msgstr "Qogʻoz turi"
 #, fuzzy
 #| msgid "Status"
 msgid "State"
-msgstr "Holati"
+msgstr ""
+"Xonani yangiroq versiyaga yangilash Matrix spetsifikatsiyasining yangi "
+"xususiyatlaridan foydalanish imkonini beradi. Bundan tashqari, xona holatini"
+" tiklash uchun ham foydalanish mumkin, bu esa xonani tezroq qoʻshilishi "
+"kerak. Biroq, uni tejamkorlik bilan ishlatish kerak, chunki u bezovta "
+"qilishi mumkin, chunki xona aʼzolari yangi xonaga qoʻlda qoʻshilishlari "
+"kerak."
 
 #: gtk/inspector/clipboard.c:211 gtk/inspector/misc-info.ui:245
+#, fuzzy
 msgid "Show"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/clipboard.c:228
+#, fuzzy
 msgid "Hover to load"
-msgstr ""
+msgstr ".pfx fayl yuklash"
 
 #: gtk/inspector/clipboard.c:286
 #, fuzzy
@@ -5077,19 +5111,23 @@ msgid "Disable this custom CSS"
 msgstr ""
 
 #: gtk/inspector/css-editor.ui:52
+#, fuzzy
 msgid "Save the current CSS"
-msgstr ""
+msgstr "Saqlash"
 
 #: gtk/inspector/css-editor.ui:67
 #, fuzzy
 #| msgid "Location"
 msgid "Show deprecations"
-msgstr "Manzili"
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/css-node-tree.ui:28 tools/gtk-builder-tool-preview.c:178
 #: tools/gtk-builder-tool-screenshot.c:359
+#, fuzzy
 msgid "ID"
 msgstr ""
+"Haqiqatan ham {user_id}ʼni taqiqlamoqchimisiz? Kimdir taqiqni olib "
+"tashlamaguncha, ular xonaga qayta qoʻshila olmaydi."
 
 #: gtk/inspector/css-node-tree.ui:34
 msgid "Style Classes"
@@ -5128,8 +5166,9 @@ msgid "None"
 msgstr "Yoʻq"
 
 #: gtk/inspector/general.ui:21
+#, fuzzy
 msgid "Copy to clipboard as gitlab markdown"
-msgstr ""
+msgstr "Rasmni nusxalash"
 
 #: gtk/inspector/general.ui:53
 #, fuzzy
@@ -5254,7 +5293,7 @@ msgstr ""
 #, fuzzy
 #| msgid "_Device:"
 msgid "Vulkan Device"
-msgstr "_Uskuna:"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/inspector/general.ui:1061
 msgid "Vulkan API Version"
@@ -5326,7 +5365,7 @@ msgstr "Mnemonik yorliq"
 #: gtk/inspector/misc-info.ui:211
 #, fuzzy
 msgid "Request Mode"
-msgstr "Maʼlumot yuborilmoqda"
+msgstr "Soʻrovni rad etish"
 
 #: gtk/inspector/misc-info.ui:236
 msgid "Measure map"
@@ -5429,14 +5468,14 @@ msgstr ""
 #. Translators: Both %s are type names, for example
 #. * GtkPropertyExpression with value type: gchararray
 #: gtk/inspector/prop-editor.c:928
-#, c-format
+#, fuzzy, c-format
 msgid "%s with value type %s"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/inspector/prop-editor.c:1328
-#, c-format
+#, fuzzy, c-format
 msgid "Uneditable property type: %s"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/inspector/prop-editor.c:1486
 #, fuzzy
@@ -5464,13 +5503,20 @@ msgstr "Tovush"
 #. Translators: %s is a type name, for example
 #. * Action from 0x2345678 (GtkApplicationWindow)
 #: gtk/inspector/prop-editor.c:1630
-#, c-format
+#, fuzzy, c-format
 msgid "Action from: %p (%s)"
-msgstr ""
+msgstr "{datetime} dan ovozli xabar"
 
 #: gtk/inspector/prop-editor.c:1685
+#, fuzzy
 msgid "Reset"
 msgstr ""
+"Xonani yangiroq versiyaga yangilash Matrix spetsifikatsiyasining yangi "
+"xususiyatlaridan foydalanish imkonini beradi. Bundan tashqari, xona holatini"
+" tiklash uchun ham foydalanish mumkin, bu esa xonani tezroq qoʻshilishi "
+"kerak. Biroq, uni tejamkorlik bilan ishlatish kerak, chunki u bezovta "
+"qilishi mumkin, chunki xona aʼzolari yangi xonaga qoʻlda qoʻshilishlari "
+"kerak."
 
 #: gtk/inspector/prop-editor.c:1693
 #, fuzzy
@@ -5514,8 +5560,9 @@ msgid "Source:"
 msgstr "Qogʻoz manbasi"
 
 #: gtk/inspector/prop-list.ui:46
+#, fuzzy
 msgid "Defined At"
-msgstr ""
+msgstr "Xonaning barcha aʻzolari uchun belgilangan quvvat darajalari"
 
 #: gtk/inspector/recorder.c:2212
 #, c-format
@@ -5533,12 +5580,14 @@ msgid "Record events"
 msgstr "_Qizil:"
 
 #: gtk/inspector/recorder.ui:36
+#, fuzzy
 msgid "Add debug nodes"
-msgstr ""
+msgstr "Hisob qoʻshish"
 
 #: gtk/inspector/recorder.ui:40
+#, fuzzy
 msgid "Highlight event sequences"
-msgstr ""
+msgstr "Tadbir tafsilotlari"
 
 #: gtk/inspector/recorder.ui:58
 msgid "Record frames"
@@ -5553,12 +5602,14 @@ msgid "Use a dark background"
 msgstr ""
 
 #: gtk/inspector/recorder.ui:106
+#, fuzzy
 msgid "Save selected node"
-msgstr ""
+msgstr "Saqlash"
 
 #: gtk/inspector/recorder.ui:122
+#, fuzzy
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "Rasmni nusxalash"
 
 #: gtk/inspector/recorder.ui:202 gtk/inspector/recorder.ui:246
 msgid "Property"
@@ -5652,17 +5703,16 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Remove"
 msgid "Remove %s"
-msgstr "Olib tashlash"
+msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
 #: gtk/inspector/strv-editor.c:114
-#, fuzzy
-#| msgid "_Add"
 msgid "Add"
-msgstr "Qoʻ_shish"
+msgstr "Qoʻshish"
 
 #: gtk/inspector/tree-data.ui:10
+#, fuzzy
 msgid "Show data"
-msgstr ""
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/type-info.ui:14
 #, fuzzy
@@ -5719,8 +5769,9 @@ msgid "No Preference"
 msgstr "_Parametrlar"
 
 #: gtk/inspector/visual.ui:108
+#, fuzzy
 msgid "More"
-msgstr ""
+msgstr "Qoʻshimcha maʼlumot"
 
 #: gtk/inspector/visual.ui:109
 msgid "Less"
@@ -5739,8 +5790,9 @@ msgid "Icon Theme"
 msgstr ""
 
 #: gtk/inspector/visual.ui:213
+#, fuzzy
 msgid "Text Direction"
-msgstr ""
+msgstr "Nusxa olish"
 
 #. translators: these strings must be separated by newlines
 #: gtk/inspector/visual.ui:228
@@ -5774,12 +5826,14 @@ msgid ""
 msgstr ""
 
 #: gtk/inspector/visual.ui:447
+#, fuzzy
 msgid "Show Framerate"
-msgstr ""
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/visual.ui:472
+#, fuzzy
 msgid "Show Graphic Updates"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/visual.ui:492
 msgid ""
@@ -5788,16 +5842,19 @@ msgid ""
 msgstr ""
 
 #: gtk/inspector/visual.ui:498
+#, fuzzy
 msgid "Show Cairo Rendering"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/visual.ui:523
+#, fuzzy
 msgid "Show Baselines"
-msgstr ""
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/visual.ui:551
+#, fuzzy
 msgid "Show Layout Borders"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/visual.ui:616
 msgid "CSS Padding"
@@ -5826,19 +5883,22 @@ msgstr "Qogʻoz maydonlari"
 #, fuzzy
 #| msgid "Location"
 msgid "Show Focus"
-msgstr "Manzili"
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/visual.ui:706
+#, fuzzy
 msgid "Show Accessibility warnings"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/visual.ui:731
+#, fuzzy
 msgid "Show Graphics Offload"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/visual.ui:766
+#, fuzzy
 msgid "Show Touch UI"
-msgstr ""
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/visual.ui:797
 msgid "Inspect Inspector"
@@ -5852,17 +5912,18 @@ msgstr "Obʼyektni tanlash"
 #, fuzzy
 #| msgid "Job Details"
 msgid "Show Details"
-msgstr "Vazifa tafsilotlari"
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/window.ui:73
+#, fuzzy
 msgid "Show all Objects"
-msgstr ""
+msgstr "Foydalanuvchi profili"
 
 #: gtk/inspector/window.ui:149
 #, fuzzy
 #| msgid "Show _Private Resources"
 msgid "Show all Resources"
-msgstr "_Shaxsiy manbalarni koʻrsatish"
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/inspector/window.ui:179
 msgid "Collect Statistics"
@@ -5885,7 +5946,7 @@ msgstr ""
 #: gtk/inspector/window.ui:391
 #, fuzzy
 msgid "Previous object"
-msgstr "Ol_dingi"
+msgstr "Xonani tark etish"
 
 #: gtk/inspector/window.ui:406
 #, fuzzy
@@ -5897,15 +5958,17 @@ msgstr "_Xossalari"
 #: gtk/inspector/window.ui:421
 #, fuzzy
 msgid "Previous sibling"
-msgstr "Ol_dingi"
+msgstr "Xonani tark etish"
 
 #: gtk/inspector/window.ui:427
+#, fuzzy
 msgid "List Position"
-msgstr ""
+msgstr "Xona roʻyxati"
 
 #: gtk/inspector/window.ui:442
+#, fuzzy
 msgid "Next sibling"
-msgstr ""
+msgstr "Yangi xona"
 
 #: gtk/inspector/window.ui:472
 msgid "Miscellaneous"
@@ -5924,14 +5987,15 @@ msgid "Size Groups"
 msgstr ""
 
 #: gtk/inspector/window.ui:524 gtk/inspector/window.ui:533
+#, fuzzy
 msgid "Data"
-msgstr ""
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: gtk/inspector/window.ui:543
 #, fuzzy
 #| msgid "Application"
 msgid "Actions"
-msgstr "Dastur"
+msgstr "Aʼzo harakatlari"
 
 #: gtk/inspector/window.ui:554
 msgid "Menu"
@@ -5958,13 +6022,13 @@ msgstr ""
 #| msgctxt "Stock label"
 #| msgid "Information"
 msgid "Information"
-msgstr "Maʼlumot"
+msgstr "Qoʻshimcha maʼlumot"
 
 #: gtk/inspector/window.ui:640
 #, fuzzy
 #| msgid "XSettings"
 msgid "Settings"
-msgstr "%s ishga tushirilmoqda"
+msgstr "Hisob sozlamalari"
 
 #: gtk/inspector/window.ui:649
 #, fuzzy
@@ -6002,9 +6066,10 @@ msgid "Above-base Forms"
 msgstr ""
 
 #: gtk/open-type-layout.h:16
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Above-base Mark Positioning"
-msgstr ""
+msgstr "Direct Chat sifatida belgilang"
 
 #: gtk/open-type-layout.h:17
 msgctxt "OpenType layout"
@@ -6028,9 +6093,10 @@ msgid "Below-base Forms"
 msgstr ""
 
 #: gtk/open-type-layout.h:21
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Below-base Mark Positioning"
-msgstr ""
+msgstr "Direct Chat sifatida belgilang"
 
 #: gtk/open-type-layout.h:22
 msgctxt "OpenType layout"
@@ -6088,14 +6154,16 @@ msgid "Cursive Positioning"
 msgstr ""
 
 #: gtk/open-type-layout.h:33
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Petite Capitals From Capitals"
-msgstr ""
+msgstr "{datetime} dan ovozli xabar"
 
 #: gtk/open-type-layout.h:34
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Small Capitals From Capitals"
-msgstr ""
+msgstr "{datetime} dan ovozli xabar"
 
 #: gtk/open-type-layout.h:35
 msgctxt "OpenType layout"
@@ -6294,9 +6362,10 @@ msgid "Left-to-right mirrored forms"
 msgstr ""
 
 #: gtk/open-type-layout.h:72
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Mark Positioning"
-msgstr ""
+msgstr "Oʻqilmagan deb belgilash"
 
 #: gtk/open-type-layout.h:73
 msgctxt "OpenType layout"
@@ -6314,14 +6383,16 @@ msgid "Mathematical Greek"
 msgstr ""
 
 #: gtk/open-type-layout.h:76
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Mark to Mark Positioning"
-msgstr ""
+msgstr "Direct Chat sifatida belgilang"
 
 #: gtk/open-type-layout.h:77
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Mark Positioning via Substitution"
-msgstr ""
+msgstr "Direct Chat sifatida belgilang"
 
 #: gtk/open-type-layout.h:78
 msgctxt "OpenType layout"
@@ -6526,9 +6597,10 @@ msgid "Trailing Jamo Forms"
 msgstr ""
 
 #: gtk/open-type-layout.h:118
+#, fuzzy
 msgctxt "OpenType layout"
 msgid "Traditional Name Forms"
-msgstr ""
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/open-type-layout.h:119
 msgctxt "OpenType layout"
@@ -7110,9 +7182,10 @@ msgid "kaku8 Envelope"
 msgstr "Konvert kaku2"
 
 #: gtk/print/paper_names_offsets.c:100
+#, fuzzy
 msgctxt "paper size"
 msgid "oufuku (reply postcard)"
-msgstr ""
+msgstr "Javob berish"
 
 #: gtk/print/paper_names_offsets.c:101
 msgctxt "paper size"
@@ -7469,7 +7542,7 @@ msgstr "Folio sp"
 #, fuzzy
 msgctxt "paper size"
 msgid "Invite Envelope"
-msgstr "Italyancha konvert"
+msgstr "Yangi soʻrovlar yuborish"
 
 #: gtk/print/paper_names_offsets.c:164
 msgctxt "paper size"
@@ -7602,7 +7675,7 @@ msgstr ""
 #| msgctxt "Stock label"
 #| msgid "_About"
 msgid "About"
-msgstr "Dastur _haqida"
+msgstr "Fraktal haqida"
 
 #: gtk/ui/gtkaboutdialog.ui:129 gtk/ui/gtkaboutdialog.ui:157
 msgid "Credits"
@@ -7620,26 +7693,26 @@ msgstr "Tizim"
 #| msgctxt "Stock label"
 #| msgid "Information"
 msgid "System Information"
-msgstr "Maʼlumot"
+msgstr "Qoʻshimcha maʼlumot"
 
 #: gtk/ui/gtkappchooserdialog.ui:4
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "Select _All"
 msgid "Select App"
-msgstr "_Hammasini tanlash"
+msgstr "Tanlash"
 
 #: gtk/ui/gtkappchooserdialog.ui:66
 #, fuzzy
 #| msgid "Application"
 msgid "_View All Apps"
-msgstr "Dastur"
+msgstr "Xonaning barcha aʻzolari uchun belgilangan quvvat darajalari"
 
 #: gtk/ui/gtkappchooserdialog.ui:72
 #, fuzzy
 #| msgid "Application"
 msgid "_Find New Apps"
-msgstr "Dastur"
+msgstr "Yangi aʼzolarni taklif qilish…"
 
 #: gtk/ui/gtkappchooserwidget.ui:40
 #, fuzzy
@@ -7669,8 +7742,9 @@ msgid "Hide Others"
 msgstr ""
 
 #: gtk/ui/gtkapplication-quartz.ui:35
+#, fuzzy
 msgid "Show All"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: gtk/ui/gtkapplication-quartz.ui:42
 #, fuzzy
@@ -7704,7 +7778,7 @@ msgstr "Ke_sish"
 #| msgctxt "Stock label"
 #| msgid "_Copy"
 msgid "Copy"
-msgstr "_Nusxa olish"
+msgstr "Nusxa olish"
 
 #: gtk/ui/gtkapplication-quartz.ui:71
 #, fuzzy
@@ -7725,7 +7799,7 @@ msgstr "Delete"
 #| msgctxt "Stock label"
 #| msgid "Select _All"
 msgid "Select All"
-msgstr "_Hammasini tanlash"
+msgstr "Tanlash"
 
 #: gtk/ui/gtkapplication-quartz.ui:85
 #, fuzzy
@@ -7748,24 +7822,26 @@ msgstr "O_rqaga"
 #: gtk/ui/gtkassistant.ui:86
 #, fuzzy
 msgid "_Next"
-msgstr "_Keyingi"
+msgstr "Xabarlar oʻqilmagan keyingi xona"
 
 #: gtk/ui/gtkcolorchooserdialog.ui:4
 #, fuzzy
 msgid "Select a Color"
-msgstr "Faylni tanlang"
+msgstr "Tanlash"
 
 #: gtk/ui/gtkcoloreditor.ui:43 gtk/ui/gtkcoloreditor.ui:53
+#, fuzzy
 msgid "Pick a color from the screen"
-msgstr ""
+msgstr "{datetime} dan ovozli xabar"
 
 #: gtk/ui/gtkcoloreditor.ui:66
 msgid "The current color"
 msgstr ""
 
 #: gtk/ui/gtkcoloreditor.ui:84
+#, fuzzy
 msgid "Hexadecimal color or color name"
-msgstr ""
+msgstr "{room_name} xonaga qoʻshilib boʻlmadi"
 
 #: gtk/ui/gtkcoloreditor.ui:99
 msgid "Hue"
@@ -7797,9 +7873,10 @@ msgid "H"
 msgstr ""
 
 #: gtk/ui/gtkcoloreditor.ui:230
+#, fuzzy
 msgctxt "Color Channel"
 msgid "S"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: gtk/ui/gtkcoloreditor.ui:239
 msgctxt "Color Channel"
@@ -7814,7 +7891,7 @@ msgstr "(Yoʻq)"
 #, fuzzy
 #| msgid "Search"
 msgid "Search…"
-msgstr "Qidirish"
+msgstr "Xonani manzil yoki havola orqali qidirish"
 
 #: gtk/ui/gtkemojichooser.ui:70 gtk/ui/gtkemojichooser.ui:240
 msgctxt "emoji category"
@@ -7872,13 +7949,19 @@ msgstr "Bayroqlar"
 #| msgid "Recently Used"
 msgctxt "emoji category"
 msgid "Recent"
-msgstr "Yaqinda ishlatilganlar"
+msgstr ""
+"Xonani yangiroq versiyaga yangilash Matrix spetsifikatsiyasining yangi "
+"xususiyatlaridan foydalanish imkonini beradi. Bundan tashqari, xona holatini"
+" tiklash uchun ham foydalanish mumkin, bu esa xonani tezroq qoʻshilishi "
+"kerak. Biroq, uni tejamkorlik bilan ishlatish kerak, chunki u bezovta "
+"qilishi mumkin, chunki xona aʼzolari yangi xonaga qoʻlda qoʻshilishlari "
+"kerak."
 
 #: gtk/ui/gtkfilechooserwidget.ui:71
 #, fuzzy
 #| msgid "Create Fo_lder"
 msgid "Create Folder"
-msgstr "_Jild yaratish"
+msgstr "Xona yaratish"
 
 #: gtk/ui/gtkfilechooserwidget.ui:205
 msgid "Remote location — only searching the current folder"
@@ -7892,22 +7975,23 @@ msgstr ""
 #, fuzzy
 #| msgid "_Folder name:"
 msgid "Folder Name"
-msgstr "_Jildning nomi:"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/ui/gtkfilechooserwidget.ui:358
 #, fuzzy
 #| msgid "C_reate"
 msgid "_Create"
-msgstr "_Yaratish"
+msgstr "Xona yaratish"
 
 #: gtk/ui/gtkfontchooserdialog.ui:4
 #, fuzzy
 msgid "Select Font"
-msgstr "_Tanlash: "
+msgstr "Tanlash"
 
 #: gtk/ui/gtkfontchooserwidget.ui:67 gtk/ui/gtkfontchooserwidget.ui:70
+#, fuzzy
 msgid "Search font name"
-msgstr ""
+msgstr "{room_name} xonaga qoʻshilib boʻlmadi"
 
 #: gtk/ui/gtkfontchooserwidget.ui:77 gtk/ui/gtkfontchooserwidget.ui:80
 msgid "Filters"
@@ -7942,7 +8026,7 @@ msgstr "Hech qanday element topilmadi"
 #, fuzzy
 #| msgid "Font Selection"
 msgid "Font Name"
-msgstr "Shrift tanlash"
+msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
 #: gtk/ui/gtkfontchooserwidget.ui:382
 msgid "Font Variation Axes"
@@ -8047,7 +8131,7 @@ msgstr "Server manzilini kiritish…"
 #, fuzzy
 #| msgid "No printer found"
 msgid "Show recent servers"
-msgstr "Printer topilmadi"
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #. this is the header for the printer status column in the print dialog
 #: gtk/print/ui/gtkprintunixdialog.ui:142
@@ -8272,8 +8356,9 @@ msgid "Advanced"
 msgstr "Qoʻshimcha"
 
 #: gtk/print/ui/gtkprintunixdialog.ui:1164
+#, fuzzy
 msgid "Some of the settings in the dialog conflict"
-msgstr ""
+msgstr "Hisob sozlamalari"
 
 #: gtk/ui/gtkvideo.ui:25
 #, fuzzy
@@ -8281,8 +8366,9 @@ msgid "Play"
 msgstr "_Joylar"
 
 #: tools/encodesymbolic.c:42
+#, fuzzy
 msgid "Output to this directory instead of cwd"
-msgstr ""
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: tools/encodesymbolic.c:43
 msgid "Generate debug output"
@@ -8338,15 +8424,16 @@ msgid "FILE"
 msgstr ""
 
 #: tools/gtk-builder-tool-enumerate.c:64
+#, fuzzy
 msgid "Print all named objects."
-msgstr ""
+msgstr "Xonaning barcha aʻzolari uchun belgilangan quvvat darajalari"
 
 #: tools/gtk-builder-tool-preview.c:128
 #: tools/gtk-builder-tool-screenshot.c:236
 #, fuzzy, c-format
 #| msgid "No item for URI '%s' found"
 msgid "No object with ID '%s' found\n"
-msgstr "URI «%s» uchun element topilmadi"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-preview.c:130
 #, c-format
@@ -8372,9 +8459,9 @@ msgstr ""
 #: tools/gtk-builder-tool-validate.c:274
 #: tools/gtk-rendernode-tool-benchmark.c:108
 #: tools/gtk-rendernode-tool-render.c:279 tools/gtk-rendernode-tool-show.c:129
-#, c-format
+#, fuzzy, c-format
 msgid "Could not initialize windowing system\n"
-msgstr ""
+msgstr "{n} ta foydalanuvchini {room}ʼga taklif qilib boʻlmadi"
 
 #: tools/gtk-builder-tool-preview.c:195
 #, fuzzy
@@ -8430,7 +8517,7 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Failed to open file %s : %s\n"
 msgid "Failed to save %s: %s\n"
-msgstr "%s faylini ochib boʻlmadi : %s\n"
+msgstr "Saqlash"
 
 #: tools/gtk-builder-tool-screenshot.c:359
 msgid "Screenshot only the named object"
@@ -8454,8 +8541,9 @@ msgid "FILE…"
 msgstr ""
 
 #: tools/gtk-builder-tool-screenshot.c:378
+#, fuzzy
 msgid "Render a .ui file to an image."
-msgstr ""
+msgstr "Rasmni nusxalash"
 
 #: tools/gtk-builder-tool-screenshot.c:397
 #, c-format
@@ -8474,19 +8562,19 @@ msgid "Property %s not found"
 msgstr ""
 
 #: tools/gtk-builder-tool-simplify.c:669
-#, c-format
+#, fuzzy, c-format
 msgid "Packing property %s not found"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:672
-#, c-format
+#, fuzzy, c-format
 msgid "Cell property %s not found"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:675
-#, c-format
+#, fuzzy, c-format
 msgid "Layout property %s not found"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:1408
 #, c-format
@@ -8508,7 +8596,7 @@ msgstr "Vaqtinchalik fayldan oʻqib boʻlmadi"
 #, fuzzy, c-format
 #| msgid "Couldn't load metafile"
 msgid "Can’t load “%s”: %s\n"
-msgstr "Meta-faylni yuklab boʻlmadi"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:2632
 #: tools/gtk-builder-tool-simplify.c:2642
@@ -8516,19 +8604,19 @@ msgstr "Meta-faylni yuklab boʻlmadi"
 #, fuzzy, c-format
 #| msgid "Cannot open display: %s"
 msgid "Can’t parse “%s”: %s\n"
-msgstr "Displeyni ochib boʻlmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:2677
 #, fuzzy, c-format
 #| msgid "Failed to open file %s : %s\n"
 msgid "Failed to read “%s”: %s\n"
-msgstr "%s faylini ochib boʻlmadi : %s\n"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:2684
 #, fuzzy, c-format
 #| msgid "Failed to write cache file: %s\n"
 msgid "Failed to write “%s”: “%s”\n"
-msgstr "Kesh fayliga yozib boʻlmadi: %s\n"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-builder-tool-simplify.c:2707
 #, fuzzy
@@ -8596,9 +8684,9 @@ msgstr ""
 #: tools/gtk-image-tool-compare.c:70 tools/gtk-image-tool-convert.c:136
 #: tools/gtk-image-tool-info.c:101 tools/gtk-image-tool-relabel.c:109
 #: tools/gtk-image-tool-show.c:141
-#, c-format
+#, fuzzy, c-format
 msgid "No image file specified\n"
-msgstr ""
+msgstr "Rasmni nusxalash"
 
 #: tools/gtk-image-tool-compare.c:76
 #, c-format
@@ -8685,9 +8773,9 @@ msgid "Can't specify both --color-state and --cicp\n"
 msgstr ""
 
 #: tools/gtk-image-tool-convert.c:191 tools/gtk-image-tool-relabel.c:148
-#, c-format
+#, fuzzy, c-format
 msgid "Not a supported cicp tuple: %s\n"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-image-tool-info.c:57
 #, fuzzy
@@ -8712,7 +8800,7 @@ msgstr "(nomaʼlum)"
 #, fuzzy
 #| msgid "Could not retrieve information about the file"
 msgid "Provide information about the image."
-msgstr "Fayl haqidagi maʼlumotni olib boʻlmadi"
+msgstr "Qoʻshimcha maʼlumot"
 
 #: tools/gtk-image-tool-info.c:107
 #, c-format
@@ -8731,12 +8819,14 @@ msgid ""
 msgstr ""
 
 #: tools/gtk-image-tool-show.c:117 tools/gtk-rendernode-tool-show.c:121
+#, fuzzy
 msgid "Don't add a titlebar"
-msgstr ""
+msgstr "Hisob qoʻshish"
 
 #: tools/gtk-image-tool-show.c:128
+#, fuzzy
 msgid "Show one or more images."
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: tools/gtk-image-tool-utils.c:50 tools/gtk-rendernode-tool-utils.c:54
 #, fuzzy, c-format
@@ -8761,8 +8851,9 @@ msgid "cicp must be 4 numbers, separated by /\n"
 msgstr ""
 
 #: tools/gtk-launch.c:40
+#, fuzzy
 msgid "Show program version"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #. Translators: this message will appear immediately after the
 #. usage string - Usage: COMMAND [OPTION…] <THIS_MESSAGE>
@@ -8785,16 +8876,16 @@ msgid "Error parsing commandline options: %s\n"
 msgstr "Nishonchani yuklashda xatolik yuz berdi: %s"
 
 #: tools/gtk-launch.c:90 tools/gtk-launch.c:111
-#, c-format
+#, fuzzy, c-format
 msgid "Try “%s --help” for more information."
-msgstr ""
+msgstr "Qoʻshimcha maʼlumot"
 
 #. Translators: the %s is the program name. This error message
 #. means the user is calling gtk-launch without any argument.
 #: tools/gtk-launch.c:109
-#, c-format
+#, fuzzy, c-format
 msgid "%s: missing application name"
-msgstr ""
+msgstr "{room_name} xonaga qoʻshilib boʻlmadi"
 
 #: tools/gtk-launch.c:137
 #, c-format
@@ -8814,7 +8905,7 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Error loading icon: %s"
 msgid "%s: error launching application: %s\n"
-msgstr "Nishonchani yuklashda xatolik yuz berdi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-path-tool.c:35
 #, c-format
@@ -8835,16 +8926,19 @@ msgid ""
 msgstr ""
 
 #: tools/gtk-path-tool-decompose.c:84
+#, fuzzy
 msgid "Allow quadratic Bézier curves"
-msgstr ""
+msgstr "Taklif soʻrovlariga ruxsat berish"
 
 #: tools/gtk-path-tool-decompose.c:85
+#, fuzzy
 msgid "Allow cubic Bézier curves"
-msgstr ""
+msgstr "Taklif soʻrovlariga ruxsat berish"
 
 #: tools/gtk-path-tool-decompose.c:86
+#, fuzzy
 msgid "Allow conic Bézier curves"
-msgstr ""
+msgstr "Taklif soʻrovlariga ruxsat berish"
 
 #: tools/gtk-path-tool-decompose.c:87 tools/gtk-path-tool-info.c:88
 #: tools/gtk-path-tool-restrict.c:38 tools/gtk-path-tool-reverse.c:34
@@ -8862,14 +8956,15 @@ msgstr ""
 
 #: tools/gtk-path-tool-decompose.c:140 tools/gtk-path-tool-restrict.c:94
 #: tools/gtk-path-tool-reverse.c:78
+#, fuzzy
 msgid "That didn't work out."
-msgstr ""
+msgstr "{sender} {user}ʼni chiqarib yubordi."
 
 #: tools/gtk-path-tool-info.c:100
 #, fuzzy
 #| msgid "Could not retrieve information about the file"
 msgid "Print information about a path."
-msgstr "Fayl haqidagi maʼlumotni olib boʻlmadi"
+msgstr "Qoʻshimcha maʼlumot"
 
 #: tools/gtk-path-tool-info.c:121
 msgid "Path is empty."
@@ -8927,17 +9022,18 @@ msgstr ""
 #, fuzzy
 #| msgid "Location"
 msgid "Show path points"
-msgstr "Manzili"
+msgstr "Foydalanuvchi profili"
 
 #: tools/gtk-path-tool-render.c:61 tools/gtk-path-tool-show.c:115
+#, fuzzy
 msgid "Show control points"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: tools/gtk-path-tool-render.c:62 tools/gtk-path-tool-show.c:116
 #, fuzzy
 #| msgid "Location"
 msgid "Show intersections"
-msgstr "Manzili"
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: tools/gtk-path-tool-render.c:63
 msgid "The output file"
@@ -9024,28 +9120,32 @@ msgid "Dash offset (number)"
 msgstr ""
 
 #: tools/gtk-path-tool-render.c:110 tools/gtk-path-tool-show.c:148
+#, fuzzy
 msgid "Could not initialize windowing system"
-msgstr ""
+msgstr "{n} ta foydalanuvchini {room}ʼga taklif qilib boʻlmadi"
 
 #: tools/gtk-path-tool-render.c:117
+#, fuzzy
 msgid "Render the path to a png image."
-msgstr ""
+msgstr "Rasmni nusxalash"
 
 #: tools/gtk-path-tool-render.c:122 tools/gtk-path-tool-show.c:159
 msgid "Options related to filling"
 msgstr ""
 
 #: tools/gtk-path-tool-render.c:123 tools/gtk-path-tool-show.c:160
+#, fuzzy
 msgid "Show help for fill options"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: tools/gtk-path-tool-render.c:130 tools/gtk-path-tool-show.c:167
 msgid "Options related to stroking"
 msgstr ""
 
 #: tools/gtk-path-tool-render.c:131 tools/gtk-path-tool-show.c:168
+#, fuzzy
 msgid "Show help for stroke options"
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: tools/gtk-path-tool-render.c:148 tools/gtk-path-tool-show.c:185
 msgid "No path specified"
@@ -9064,13 +9164,14 @@ msgid "line cap"
 msgstr ""
 
 #: tools/gtk-path-tool-render.c:195 tools/gtk-path-tool-show.c:208
+#, fuzzy
 msgid "line join"
-msgstr ""
+msgstr "Xonaga qoʻshilish…"
 
 #: tools/gtk-path-tool-render.c:271
-#, c-format
+#, fuzzy, c-format
 msgid "Saving png to '%s' failed"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-path-tool-render.c:278
 #, c-format
@@ -9133,13 +9234,13 @@ msgstr "Nishonchani yuklashda xatolik yuz berdi: %s"
 #, fuzzy, c-format
 #| msgid "Failed to open file '%s': %s"
 msgid "Failed to parse '%s' as path.\n"
-msgstr "'%s' faylini ochib boʻlmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-path-tool-utils.c:109
 #, fuzzy, c-format
 #| msgid "Failed to open file '%s': %s"
 msgid "Failed to parse '%s' as %s."
-msgstr "'%s' faylini ochib boʻlmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-path-tool-utils.c:111
 msgid "Possible values: "
@@ -9149,13 +9250,13 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Could not add a bookmark"
 msgid "Could not parse '%s' as color"
-msgstr "Xatchoʻp qoʻshib boʻlmadi"
+msgstr "{user}ʼni {room}ʼga taklif qilib boʻlmadi"
 
 #: tools/gtk-path-tool-utils.c:163
 #, fuzzy, c-format
 #| msgid "Failed to open file '%s': %s"
 msgid "Failed to parse '%s' as number"
-msgstr "'%s' faylini ochib boʻlmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-rendernode-tool.c:35
 #, c-format
@@ -9177,8 +9278,9 @@ msgid ""
 msgstr ""
 
 #: tools/gtk-rendernode-tool-benchmark.c:96
+#, fuzzy
 msgid "Add renderer to benchmark"
-msgstr ""
+msgstr "Hisob qoʻshish"
 
 #: tools/gtk-rendernode-tool-benchmark.c:96
 #: tools/gtk-rendernode-tool-compare.c:65
@@ -9239,13 +9341,13 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Failed to rewrite header\n"
 msgid "Failed to create renderer: %s\n"
-msgstr "Sarlavhani qayta yozishda xatolik yuz berdi\n"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-rendernode-tool-compare.c:111
 #, fuzzy, c-format
 #| msgid "Failed to load image '%s': %s"
 msgid "Failed to load %s: %s\n"
-msgstr "'%s' rasmi yuklanmadi: %s"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-rendernode-tool-convert.c:92
 #, fuzzy
@@ -9301,8 +9403,9 @@ msgid "Directory to use"
 msgstr ""
 
 #: tools/gtk-rendernode-tool-extract.c:296
+#, fuzzy
 msgid "DIRECTORY"
-msgstr ""
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: tools/gtk-rendernode-tool-extract.c:297
 msgid "Be verbose"
@@ -9356,15 +9459,16 @@ msgstr ""
 #, fuzzy, c-format
 #| msgid "Failed to open file %s : %s\n"
 msgid "Failed to generate SVG: %s\n"
-msgstr "%s faylini ochib boʻlmadi : %s\n"
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/gtk-rendernode-tool-render.c:271
 msgid "Keep node position unchanged"
 msgstr ""
 
 #: tools/gtk-rendernode-tool-render.c:287
+#, fuzzy
 msgid "Render a .node file to an image."
-msgstr ""
+msgstr "Rasmni nusxalash"
 
 #: tools/gtk-rendernode-tool-render.c:306
 #, c-format
@@ -9376,8 +9480,9 @@ msgid "Put node into offload container"
 msgstr ""
 
 #: tools/gtk-rendernode-tool-show.c:137
+#, fuzzy
 msgid "Show the render node."
-msgstr ""
+msgstr "Yuboruvchi profilini koʻrsatish"
 
 #: tools/gtk-rendernode-tool-show.c:156
 #, c-format
@@ -9420,9 +9525,9 @@ msgid "The generated cache was invalid.\n"
 msgstr "Yaratilgan kesh xato.\n"
 
 #: tools/updateiconcache.c:1578
-#, c-format
+#, fuzzy, c-format
 msgid "Could not rename %s to %s: %s, removing %s then.\n"
-msgstr ""
+msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
 
 #: tools/updateiconcache.c:1592
 #, c-format
@@ -9454,8 +9559,9 @@ msgid "Don’t include image data in the cache"
 msgstr ""
 
 #: tools/updateiconcache.c:1667
+#, fuzzy
 msgid "Include image data in the cache"
-msgstr ""
+msgstr "Maʼlumotlar katalogiga kirishda kutilmagan xatolik yuz berdi"
 
 #: tools/updateiconcache.c:1668
 msgid "Output a C header file"

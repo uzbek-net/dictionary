@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-13 10:48+0000\n"
+"POT-Creation-Date: 2025-12-18 18:53+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -3198,7 +3198,7 @@ msgid "Join a new team"
 msgstr "Yangi jamoaga qoʻshiling"
 
 #: people/templates/people/person_team_join_form.html:11
-#: templates/_includes/header.html:34 templates/index.html:54
+#: templates/_includes/header.html:34 templates/index.html:44
 msgid "Teams"
 msgstr "Jamoalar"
 
@@ -4468,7 +4468,7 @@ msgid "Releases Comparison"
 msgstr "Chiqarishlarni taqqoslash"
 
 #: stats/templates/release_compare.html:22 templates/_includes/header.html:41
-#: templates/index.html:70
+#: templates/index.html:60
 msgid "Languages"
 msgstr "Tillar"
 
@@ -5139,7 +5139,7 @@ msgstr "Damned Lies bosh sahifasiga qaytish"
 msgid "Release sets"
 msgstr "Chiqarish toʻplamlari"
 
-#: templates/_includes/header.html:55 templates/index.html:109
+#: templates/_includes/header.html:55 templates/index.html:99
 msgid "Modules"
 msgstr "Modullar"
 
@@ -5147,7 +5147,7 @@ msgstr "Modullar"
 msgid "About"
 msgstr "Biz haqimizda"
 
-#: templates/about.html:13 templates/index.html:22
+#: templates/about.html:13 templates/index.html:12
 msgid ""
 "Damned Lies is the Web application used to manage the localisation (l10n) of"
 " the GNOME project."
@@ -5315,22 +5315,11 @@ msgstr ""
 msgid "Vertimus workflow schema."
 msgstr "Vertimus ish oqimi sxemasi."
 
-#: templates/index.html:8
-msgid ""
-"The login process has evolved, please read the <a "
-"href=\"https://discourse.gnome.org/t/release-of-3rd-party-authentication-in-"
-"damned-lies/29694\" class=\"alert-link\"> Release Announcement on GNOME’s "
-"Discourse </a>. In any case you have troubles accessing your account, feel "
-"free to <a href=\"https://gitlab.gnome.org/Infrastructure/damned-"
-"lies/-/issues\" class=\"alert-link\">open an issue on Damned Lies’ GitLab "
-"project</a>."
-msgstr ""
-
-#: templates/index.html:19
+#: templates/index.html:9
 msgid "The GNOME Project Translation Platform"
 msgstr "GNOME loyihasini tarjima qilish platformasi"
 
-#: templates/index.html:28
+#: templates/index.html:18
 #, python-format
 msgid ""
 "Contribute by <a href=\"%(sign_in_url)s\">creating an account</a> and become"
@@ -5341,7 +5330,7 @@ msgstr ""
 "qoʻshing va ona tilingiz yoki oʻzingiz oʻzlashtirgan tilingizdan birida <a "
 "href=\"%(teams_url)s\">tarjima jamoasi a'zosi</a> boʻling."
 
-#: templates/index.html:60
+#: templates/index.html:50
 msgid ""
 "GNOME Translation Teams, with full information such as primary contact "
 "(coordinator), web pages and mailing list information."
@@ -5349,7 +5338,7 @@ msgstr ""
 "GNOME Translation Teams, asosiy aloqa (muvofiqlashtiruvchi), veb-sahifalar "
 "va pochta roʻyxati ma'lumotlari kabi toʻliq ma'lumotlarga ega."
 
-#: templates/index.html:61
+#: templates/index.html:51
 msgid ""
 "If there is no team for your language, you can easily <a "
 "href='https://wiki.gnome.org/TranslationProject/StartingATeam/'>start your "
@@ -5359,12 +5348,12 @@ msgstr ""
 "href='https://wiki.gnome.org/TranslationProject/StartingATeam/'>oʻz "
 "jamoangizni osongina boshlashingiz</a> mumkin."
 
-#: templates/index.html:77
+#: templates/index.html:67
 #, python-format
 msgid "Languages with <a href='%(teams_url)s'>Translation Teams</a>."
 msgstr "<a href='%(teams_url)s'>Tarjima guruhlari</a> bilan tillar."
 
-#: templates/index.html:80
+#: templates/index.html:70
 msgid ""
 "Some teams manage more than one language (usually just simple variants), and"
 " here you can see all the languages GNOME is being translated to."
@@ -5372,15 +5361,15 @@ msgstr ""
 "Ba'zi jamoalar bir nechta tillarni boshqaradi (odatda oddiy variantlar) va "
 "bu yerda siz GNOME tarjima qilinayotgan barcha tillarni koʻrishingiz mumkin."
 
-#: templates/index.html:92
+#: templates/index.html:82
 msgid "Releases"
 msgstr "Relizlar"
 
-#: templates/index.html:98
+#: templates/index.html:88
 msgid "Examples of release sets are “GNOME Infrastructure” or “GNOME 43”."
 msgstr "Chiqarish toʻplamlariga misollar \"GNOME infratuzilmasi\" yoki \"GNOME 43\"."
 
-#: templates/index.html:99
+#: templates/index.html:89
 msgid ""
 "Official GNOME release sets are further divided into categories such as "
 "“Desktop Applications” and “Developer Platform”."
@@ -5388,7 +5377,7 @@ msgstr ""
 "Rasmiy GNOME relizlar toʻplamlari \"Ish stoli ilovalari\" va \"Ishlab "
 "chiquvchilar platformasi\" kabi toifalarga boʻlingan."
 
-#: templates/index.html:100
+#: templates/index.html:90
 msgid ""
 "Look here if you want to compare language support in any of these release "
 "sets."
@@ -5396,7 +5385,7 @@ msgstr ""
 "Agar siz ushbu relizlar toʻplamidagi til yordamini solishtirmoqchi "
 "boʻlsangiz, bu yerga qarang."
 
-#: templates/index.html:115
+#: templates/index.html:105
 msgid ""
 "Modules are separate libraries or applications, with one or more branches of"
 " development included."
@@ -5404,7 +5393,7 @@ msgstr ""
 "Modullar alohida kutubxonalar yoki ilovalar boʻlib, bir yoki bir nechta "
 "rivojlanish tarmoqlarini oʻz ichiga oladi."
 
-#: templates/index.html:116
+#: templates/index.html:106
 msgid ""
 "They are usually taken from the Git repository, and we keep all relevant "
 "information on them (GitLab details, web page, maintainer information…)."
