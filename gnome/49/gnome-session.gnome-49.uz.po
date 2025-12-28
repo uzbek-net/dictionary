@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-session-2.0\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-session/issues\n"
-"POT-Creation-Date: 2025-12-18 00:21+0000\n"
+"POT-Creation-Date: 2025-11-10 18:32+0000\n"
 "PO-Revision-Date: 2025-12-25 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -40,10 +40,11 @@ msgid "Logout prompt"
 msgstr "Chiqish soʻrovi"
 
 #: data/org.gnome.SessionManager.gschema.xml:6
-msgid "If enabled, gnome-session will prompt the user before ending a session."
+msgid ""
+"If enabled, gnome-session will prompt the user before ending a session."
 msgstr ""
-"Agar yoqilgan boʻlsa, gnome-session seansni tugatishdan oldin foydalanuvchini "
-"soʻraydi."
+"Agar yoqilgan boʻlsa, gnome-session seansni tugatishdan oldin "
+"foydalanuvchini soʻraydi."
 
 #: data/org.gnome.SessionManager.gschema.xml:10
 msgid "Show the fallback warning"
@@ -102,8 +103,8 @@ msgid ""
 "Start gnome-session-shutdown.target when receiving EOF or a single byte on "
 "stdin"
 msgstr ""
-"EOF yoki stdinʼda bitta baytni qabul qilganda gnome-session-shutdown.targetʼni "
-"ishga tushirish"
+"EOF yoki stdinʼda bitta baytni qabul qilganda gnome-session-"
+"shutdown.targetʼni ishga tushirish"
 
 #: tools/gnome-session-ctl.c:249
 msgid "Signal initialization done to gnome-session"
@@ -115,7 +116,8 @@ msgstr "Agar dbus.service ishlayotgan boʻlsa, uni qayta ishga tushiring"
 
 #: tools/gnome-session-ctl.c:251
 msgid ""
-"Run from ExecStopPost to start gnome-session-shutdown.target on service failure"
+"Run from ExecStopPost to start gnome-session-shutdown.target on service "
+"failure"
 msgstr ""
 "Xizmat ishlamaganida gnome-session-shutdown.targetʼni ishga tushirish uchun "
 "ExecStopPost ilovasini ishga tushiring"
@@ -169,7 +171,7 @@ msgstr "COMMANDʼni ishga tushirmang va abadiy kuting"
 
 #: tools/gnome-session-inhibit.c:365
 msgid "List the existing inhibitions, and exit"
-msgstr "Mavjud cheklovlarni ro‘yxatlang va dasturdan chiqing"
+msgstr "Mavjud cheklovlarni roʻyxatlang va dasturdan chiqing"
 
 #: tools/gnome-session-inhibit.c:377
 msgid "COMMAND"
@@ -177,7 +179,8 @@ msgstr "COMMAND"
 
 #: tools/gnome-session-inhibit.c:383
 msgid "Execute COMMAND while inhibiting some session functionality."
-msgstr "Sessiyaning baʼzi funksiyalarini tormozlagan holda COMMANDʼni bajaring."
+msgstr ""
+"Sessiyaning baʼzi funksiyalarini tormozlagan holda COMMANDʼni bajaring."
 
 #: tools/gnome-session-inhibit.c:384
 msgid ""
@@ -262,8 +265,8 @@ msgstr "Bir-biriga zid parametrlar bilan chaqirilgan dastur"
 #~ msgstr "Yoʻq! Nimadir xato ketdi."
 
 #~ msgid ""
-#~ "A problem has occurred and the system can’t recover. Please contact a "
-#~ "system administrator"
+#~ "A problem has occurred and the system can’t recover. Please contact a system"
+#~ " administrator"
 #~ msgstr ""
 #~ "Muammo yuz berdi va tizim tiklana olmadi. Tizim administratoriga murojaat "
 #~ "qiling"
@@ -351,15 +354,12 @@ msgstr "Bir-biriga zid parametrlar bilan chaqirilgan dastur"
 #~ " --app-id ID Foydalanish uchun ilova identifikatori\n"
 #~ " inhibe qilganda (ixtiyoriy)\n"
 #~ " --reason REASON Inhibe qilish sababi (ixtiyoriy)\n"
-#~ " —inhibit ARG inhibe qilinishi kerak boʻlgan narsalar, yoʻgʻon ichak bilan "
-#~ "ajratilgan roʻyxati:\n"
-#~ " chiqish, foydalanuvchini almashtirish, toʻxtatib turish, boʻsh turish, "
-#~ "avtomatik oʻrnatish\n"
+#~ " —inhibit ARG inhibe qilinishi kerak boʻlgan narsalar, yoʻgʻon ichak bilan ajratilgan roʻyxati:\n"
+#~ " chiqish, foydalanuvchini almashtirish, toʻxtatib turish, boʻsh turish, avtomatik oʻrnatish\n"
 #~ " —inhibit-only COMMAND-ni ishga tushirmang va uning oʻrniga abadiy kuting\n"
 #~ " -l, —list Mavjud taqiqlarni sanab chiqing va chiqing\n"
 #~ "\n"
-#~ "Agar —inhibit opsiyasi koʻrsatilmagan boʻlsa, ishlamay qolgan deb "
-#~ "hisoblanadi.\n"
+#~ "Agar —inhibit opsiyasi koʻrsatilmagan boʻlsa, ishlamay qolgan deb hisoblanadi.\n"
 
 #, c-format
 #~ msgid "Error while creating pipe: %s\n"

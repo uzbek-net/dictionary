@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: emblem master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/design/emblem/-/issues\n"
-"POT-Creation-Date: 2025-12-10 11:48+0000\n"
+"POT-Creation-Date: 2025-12-27 21:29+0000\n"
 "PO-Revision-Date: 2025-10-06 16:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -164,21 +164,21 @@ msgstr ""
 "BeMeritus <bemerituss@gmail.com>\n"
 "Baxrom Raxmatov"
 
-#: src/export.rs:195
+#: src/export.rs:187
 msgid "Save PNG"
 msgstr "PNGʼni saqlash"
 
 #. TRANSLATORS Only translate the word logo, not the file format.
-#: src/export.rs:197
+#: src/export.rs:189
 msgid "logo.png"
 msgstr "logotip.png"
 
-#: src/export.rs:211
+#: src/export.rs:203
 msgid "Save SVG"
 msgstr "SVGʼni saqlash"
 
 #. TRANSLATORS Only translate the world logo, not the file format.
-#: src/export.rs:213
+#: src/export.rs:205
 msgid "logo.svg"
 msgstr "logotip.svg"
 

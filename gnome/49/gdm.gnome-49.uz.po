@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdm/issues/\n"
-"POT-Creation-Date: 2025-12-10 13:40+0000\n"
+"POT-Creation-Date: 2025-12-03 14:16+0000\n"
 "PO-Revision-Date: 2025-12-26 17:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -18,6 +18,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=1;\n"
 "X-Generator: Poedit 3.6\n"
+
+#: chooser/gdm-host-chooser-dialog.c:139
+msgid "_Refresh"
+msgstr "_Yangilash"
+
+#: chooser/gdm-host-chooser-dialog.c:140
+msgid "_Cancel"
+msgstr "_Bekor qilish"
+
+#: chooser/gdm-host-chooser-dialog.c:141
+msgid "C_onnect"
+msgstr ""
+
+#: chooser/gdm-host-chooser-dialog.c:146
+msgid "Select System"
+msgstr "Tizimni tanlang"
+
+#: chooser/gdm-host-chooser-widget.c:255
+msgid "XDMCP: Could not create XDMCP buffer!"
+msgstr "XDMCP: XDMCP buferini yaratib boʻlmadi!"
+
+#: chooser/gdm-host-chooser-widget.c:261
+msgid "XDMCP: Could not read XDMCP header!"
+msgstr "XDMCP: XDMCP sarlavhasini oʻqib boʻlmadi!"
+
+#: chooser/gdm-host-chooser-widget.c:267
+msgid "XDMCP: Incorrect XDMCP version!"
+msgstr "XDMCP: Notoʻgʻri XDMCP versiya!"
+
+#: chooser/gdm-host-chooser-widget.c:273
+msgid "XDMCP: Unable to parse address"
+msgstr "XDMCP: Manzilni tahlil qilib boʻlmadi"
 
 #: common/gdm-common.c:343
 msgid "/dev/urandom is not a character device"
@@ -52,23 +84,27 @@ msgstr ""
 " qiling yoki tizim jurnalini tekshiring. Ayni paytda bu displey oʻchiriladi."
 " Muammo bartaraf etilgach, GDMʼni qayta ishga tushiring."
 
-#: daemon/gdm-manager.c:681
+#: daemon/gdm-manager.c:765
 msgid "No display available"
 msgstr "Displey mavjud emas"
 
-#: daemon/gdm-manager.c:745 daemon/gdm-manager.c:1055
+#: daemon/gdm-manager.c:863 daemon/gdm-manager.c:1192
 msgid "No session available"
 msgstr "Seans mavjud emas"
 
-#: daemon/gdm-manager.c:761
+#: daemon/gdm-manager.c:882
+msgid "Chooser session unavailable"
+msgstr "Tanlovchi seans mavjud emas"
+
+#: daemon/gdm-manager.c:898
 msgid "Can only be called before user is logged in"
 msgstr "Faqat foydalanuvchi kirishidan oldin chaqirilishi mumkin"
 
-#: daemon/gdm-manager.c:773
+#: daemon/gdm-manager.c:910
 msgid "Caller not GDM"
 msgstr "Chaqiruvchi GDM emas"
 
-#: daemon/gdm-manager.c:783
+#: daemon/gdm-manager.c:920
 msgid "Unable to open private communication channel"
 msgstr "Shaxsiy aloqa kanalini ochib boʻlmadi"
 
@@ -138,7 +174,7 @@ msgstr "Displey qurilmasi"
 msgid "The display device"
 msgstr "Displey qurilmasi"
 
-#: daemon/gdm-session.c:1449
+#: daemon/gdm-session.c:1444
 msgid "Could not create authentication helper process"
 msgstr "Autentifikatsiya yordamchi jarayoni yaratilmadi"
 
@@ -227,19 +263,23 @@ msgstr "biron-bir foydalanuvchi hisobi mavjud emas"
 msgid "Unable to change to user"
 msgstr "Foydalanuvchiga oʻzgartirib boʻlmadi"
 
-#: daemon/gdm-wayland-session.c:508
+#: daemon/gdm-wayland-session.c:531
 msgid "GNOME Display Manager Wayland Session Launcher"
 msgstr "GNOME Displey menejeri Wayland seansini ishga tushirgichi"
 
-#: daemon/gdm-x-session.c:858
+#: daemon/gdm-xdmcp-display-factory.c:614
+msgid "Could not create socket!"
+msgstr "Soket yaratib boʻlmadi!"
+
+#: daemon/gdm-x-session.c:882
 msgid "Run program through /etc/gdm/Xsession wrapper script"
 msgstr "Dasturni /etc/gdm/Xsession oʻrash skripti orqali ishga tushiring"
 
-#: daemon/gdm-x-session.c:859
+#: daemon/gdm-x-session.c:883
 msgid "Listen on TCP socket"
 msgstr "TCP soketida tinglash"
 
-#: daemon/gdm-x-session.c:871
+#: daemon/gdm-x-session.c:895
 msgid "GNOME Display Manager X Session Launcher"
 msgstr "GNOME Displey boshqaruvchisi X seansini ishga tushirgichi"
 
@@ -743,33 +783,6 @@ msgstr "Ushbu ilovaning versiyasi"
 #: utils/gdmflexiserver.c:137
 msgid "— New GDM login"
 msgstr "— Yangi GDM kirish"
-
-#~ msgid "_Refresh"
-#~ msgstr "_Yangilash"
-
-#~ msgid "_Cancel"
-#~ msgstr "_Bekor qilish"
-
-#~ msgid "Select System"
-#~ msgstr "Tizimni tanlang"
-
-#~ msgid "XDMCP: Could not create XDMCP buffer!"
-#~ msgstr "XDMCP: XDMCP buferini yaratib boʻlmadi!"
-
-#~ msgid "XDMCP: Could not read XDMCP header!"
-#~ msgstr "XDMCP: XDMCP sarlavhasini oʻqib boʻlmadi!"
-
-#~ msgid "XDMCP: Incorrect XDMCP version!"
-#~ msgstr "XDMCP: Notoʻgʻri XDMCP versiya!"
-
-#~ msgid "XDMCP: Unable to parse address"
-#~ msgstr "XDMCP: Manzilni tahlil qilib boʻlmadi"
-
-#~ msgid "Chooser session unavailable"
-#~ msgstr "Tanlovchi seans mavjud emas"
-
-#~ msgid "Could not create socket!"
-#~ msgstr "Soket yaratib boʻlmadi!"
 
 #, c-format
 #~ msgid "Failed to create ran once marker dir %s: %s"

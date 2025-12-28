@@ -99,19 +99,23 @@ msgstr "Qattiqlangan ilovaning yangi oynasini oching 9"
 msgid "Screenshots"
 msgstr "Skrinshotlar"
 
-#: data/50-gnome-shell-screenshots.xml:9 data/org.gnome.shell.gschema.xml.in:267
+#: data/50-gnome-shell-screenshots.xml:9
+#: data/org.gnome.shell.gschema.xml.in:267
 msgid "Take a screenshot interactively"
 msgstr "Interaktiv tarzda skrinshot oling"
 
-#: data/50-gnome-shell-screenshots.xml:12 data/org.gnome.shell.gschema.xml.in:279
+#: data/50-gnome-shell-screenshots.xml:12
+#: data/org.gnome.shell.gschema.xml.in:279
 msgid "Take a screenshot"
 msgstr "Skrinshot oling"
 
-#: data/50-gnome-shell-screenshots.xml:15 data/org.gnome.shell.gschema.xml.in:275
+#: data/50-gnome-shell-screenshots.xml:15
+#: data/org.gnome.shell.gschema.xml.in:275
 msgid "Take a screenshot of a window"
 msgstr "Oynaning skrinshotini oling"
 
-#: data/50-gnome-shell-screenshots.xml:18 data/org.gnome.shell.gschema.xml.in:271
+#: data/50-gnome-shell-screenshots.xml:18
+#: data/org.gnome.shell.gschema.xml.in:271
 msgid "Record a screencast interactively"
 msgstr "Skrinshotni interaktiv tarzda yozib oling"
 
@@ -160,16 +164,16 @@ msgstr "Yoqish uchun kengaytmalarning UUIDlari"
 
 #: data/org.gnome.shell.gschema.xml.in:17
 msgid ""
-"GNOME Shell extensions have a UUID property; this key lists extensions which "
-"should be loaded. Any extension that wants to be loaded needs to be in this "
-"list. You can also manipulate this list with the EnableExtension and "
+"GNOME Shell extensions have a UUID property; this key lists extensions which"
+" should be loaded. Any extension that wants to be loaded needs to be in this"
+" list. You can also manipulate this list with the EnableExtension and "
 "DisableExtension D-Bus methods on org.gnome.Shell."
 msgstr ""
 "GNOME Shell kengaytmalari UUID xususiyatiga ega; bu kalit yuklanishi kerak "
-"boʻlgan kengaytmalarni koʻrsatadi. Yuklanmoqchi boʻlgan har qanday kengaytma "
-"ushbu roʻyxatda boʻlishi kerak. Siz ushbu roʻyxatni org.gnome.Shell saytidagi "
-"EnableExtension va DisableExtension D-Bus usullari bilan ham oʻzgartirishingiz "
-"mumkin."
+"boʻlgan kengaytmalarni koʻrsatadi. Yuklanmoqchi boʻlgan har qanday kengaytma"
+" ushbu roʻyxatda boʻlishi kerak. Siz ushbu roʻyxatni org.gnome.Shell "
+"saytidagi EnableExtension va DisableExtension D-Bus usullari bilan ham "
+"oʻzgartirishingiz mumkin."
 
 #: data/org.gnome.shell.gschema.xml.in:26
 msgid "UUIDs of extensions to force disabling"
@@ -177,17 +181,18 @@ msgstr "Majburiy oʻchirib qoʻyish uchun kengaytmalarning UUIDlari"
 
 #: data/org.gnome.shell.gschema.xml.in:27
 msgid ""
-"GNOME Shell extensions have a UUID property; this key lists extensions which "
-"should be disabled, even if loaded as part of the current mode. You can also "
-"manipulate this list with the EnableExtension and DisableExtension D-Bus "
-"methods on org.gnome.Shell. This key takes precedence over the “enabled-"
-"extensions” setting."
+"GNOME Shell extensions have a UUID property; this key lists extensions which"
+" should be disabled, even if loaded as part of the current mode. You can "
+"also manipulate this list with the EnableExtension and DisableExtension "
+"D-Bus methods on org.gnome.Shell. This key takes precedence over the "
+"“enabled-extensions” setting."
 msgstr ""
-"GNOME Shell kengaytmalari UUID xususiyatiga ega; Ushbu kalit joriy rejimning "
-"bir qismi sifatida yuklangan boʻlsa ham oʻchirib qoʻyilishi kerak boʻlgan "
+"GNOME Shell kengaytmalari UUID xususiyatiga ega; Ushbu kalit joriy rejimning"
+" bir qismi sifatida yuklangan boʻlsa ham oʻchirib qoʻyilishi kerak boʻlgan "
 "kengaytmalarni sanab oʻtadi. Siz ushbu roʻyxatni org.gnome.Shell saytidagi "
-"EnableExtension va DisableExtension D-Bus usullari bilan ham oʻzgartirishingiz "
-"mumkin. Ushbu kalit \"yoqilgan kengaytmalar\" sozlamasidan ustun turadi."
+"EnableExtension va DisableExtension D-Bus usullari bilan ham "
+"oʻzgartirishingiz mumkin. Ushbu kalit \"yoqilgan kengaytmalar\" sozlamasidan"
+" ustun turadi."
 
 #: data/org.gnome.shell.gschema.xml.in:37
 msgid "Disable user extensions"
@@ -198,8 +203,8 @@ msgid ""
 "Disable all extensions the user has enabled without affecting the “enabled-"
 "extension” setting."
 msgstr ""
-"Foydalanuvchi tomonidan yoqilgan barcha kengaytmalarni \"yoqilgan kengaytma\" "
-"sozlamasiga ta'sir qilmasdan oʻchirib qoʻying."
+"Foydalanuvchi tomonidan yoqilgan barcha kengaytmalarni \"yoqilgan "
+"kengaytma\" sozlamasiga ta'sir qilmasdan oʻchirib qoʻying."
 
 #: data/org.gnome.shell.gschema.xml.in:45
 msgid "Allow extension installation"
@@ -208,15 +213,16 @@ msgstr "Kengaytmani oʻrnatishga ruxsat bering"
 #: data/org.gnome.shell.gschema.xml.in:46
 msgid ""
 "Allow users to install extensions in their home folder. If disabled, the "
-"InstallRemoteExtension D-Bus method will fail, and extensions are only loaded "
-"from system directories on startup. It does not affect extensions that are "
-"already loaded, so a change only takes full effect on the next login."
+"InstallRemoteExtension D-Bus method will fail, and extensions are only "
+"loaded from system directories on startup. It does not affect extensions "
+"that are already loaded, so a change only takes full effect on the next "
+"login."
 msgstr ""
-"Foydalanuvchilarga kengaytmalarni uy papkasiga oʻrnatishga ruxsat bering. Agar "
-"oʻchirilgan boʻlsa, InstallRemoteExtension D-Bus usuli muvaffaqiyatsiz boʻladi "
-"va kengaytmalar faqat ishga tushirilganda tizim kataloglaridan yuklanadi. Bu "
-"allaqachon yuklangan kengaytmalarga ta'sir qilmaydi, shuning uchun "
-"oʻzgartirish faqat keyingi kirishda toʻliq kuchga kiradi."
+"Foydalanuvchilarga kengaytmalarni uy papkasiga oʻrnatishga ruxsat bering. "
+"Agar oʻchirilgan boʻlsa, InstallRemoteExtension D-Bus usuli muvaffaqiyatsiz "
+"boʻladi va kengaytmalar faqat ishga tushirilganda tizim kataloglaridan "
+"yuklanadi. Bu allaqachon yuklangan kengaytmalarga ta'sir qilmaydi, shuning "
+"uchun oʻzgartirish faqat keyingi kirishda toʻliq kuchga kiradi."
 
 #: data/org.gnome.shell.gschema.xml.in:56
 msgid "Disables the validation of extension version compatibility"
@@ -225,13 +231,13 @@ msgstr "Kengaytma versiyasi mosligini tekshirishni oʻchiradi"
 #: data/org.gnome.shell.gschema.xml.in:57
 msgid ""
 "GNOME Shell will only load extensions that claim to support the current "
-"running version. Enabling this option will disable this check and try to load "
-"all extensions regardless of the versions they claim to support."
+"running version. Enabling this option will disable this check and try to "
+"load all extensions regardless of the versions they claim to support."
 msgstr ""
 "GNOME Shell faqat joriy ishlayotgan versiyani qoʻllab-quvvatlaydigan "
-"kengaytmalarni yuklaydi. Ushbu parametr yoqilsa, bu tekshirish oʻchiriladi va "
-"ular qoʻllab-quvvatlagan versiyalaridan qatʼi nazar, barcha kengaytmalarni "
-"yuklashga harakat qiladi."
+"kengaytmalarni yuklaydi. Ushbu parametr yoqilsa, bu tekshirish oʻchiriladi "
+"va ular qoʻllab-quvvatlagan versiyalaridan qatʼi nazar, barcha "
+"kengaytmalarni yuklashga harakat qiladi."
 
 #: data/org.gnome.shell.gschema.xml.in:67
 msgid "List of desktop file IDs for favorite applications"
@@ -239,8 +245,8 @@ msgstr "Sevimli ilovalar uchun ish stoli fayl identifikatorlari roʻyxati"
 
 #: data/org.gnome.shell.gschema.xml.in:68
 msgid ""
-"The applications corresponding to these identifiers will be displayed in the "
-"favorites area."
+"The applications corresponding to these identifiers will be displayed in the"
+" favorites area."
 msgstr ""
 "Ushbu identifikatorlarga mos keladigan ilovalar sevimlilar maydonida "
 "koʻrsatiladi."
@@ -262,16 +268,19 @@ msgstr "Tizim menyusida har doim \"Chiqish\" amalini koʻrsating"
 
 #: data/org.gnome.shell.gschema.xml.in:85
 msgid ""
-"This key overrides the automatic hiding of the “Log out” action in the system "
-"menu for logged-in situations where there is a single, local, non-system user "
-"and only a single available session type (e.g. GNOME on Wayland)."
+"This key overrides the automatic hiding of the “Log out” action in the "
+"system menu for logged-in situations where there is a single, local, non-"
+"system user and only a single available session type (e.g. GNOME on "
+"Wayland)."
 msgstr ""
 "Bu kalit tizimga kirgan holatlar uchun tizim menyusidagi “Chiqish” amalini "
 "avtomatik yashirishni bekor qiladi, bunda bitta mahalliy, tizimdan tashqari "
-"foydalanuvchi va faqat bitta mavjud sessiya turi (masalan, Waylanddagi GNOME)."
+"foydalanuvchi va faqat bitta mavjud sessiya turi (masalan, Waylanddagi "
+"GNOME)."
 
 #: data/org.gnome.shell.gschema.xml.in:94
-msgid "Whether to remember password for mounting encrypted or remote filesystems"
+msgid ""
+"Whether to remember password for mounting encrypted or remote filesystems"
 msgstr ""
 "Shifrlangan yoki masofaviy fayl tizimlarini oʻrnatish uchun parolni eslab "
 "qolish kerakmi"
@@ -279,9 +288,9 @@ msgstr ""
 #: data/org.gnome.shell.gschema.xml.in:95
 msgid ""
 "The shell will request a password when an encrypted device or a remote "
-"filesystem is mounted. If the password can be saved for future use a “Remember "
-"Password” checkbox will be present. This key sets the default state of the "
-"checkbox."
+"filesystem is mounted. If the password can be saved for future use a "
+"“Remember Password” checkbox will be present. This key sets the default "
+"state of the checkbox."
 msgstr ""
 "Shifrlangan qurilma yoki masofaviy fayl tizimi oʻrnatilganda qobiq parol "
 "soʻraydi. Agar parol kelajakda foydalanish uchun saqlanishi mumkin boʻlsa, "
@@ -294,9 +303,9 @@ msgstr "Oxirgi tanlangan standart boʻlmagan quvvat rejimi"
 
 #: data/org.gnome.shell.gschema.xml.in:105
 msgid ""
-"Some systems support more than two power profiles. In order to still support "
-"toggling between two profiles, this key records the last selected non-default "
-"profile."
+"Some systems support more than two power profiles. In order to still support"
+" toggling between two profiles, this key records the last selected non-"
+"default profile."
 msgstr ""
 "Ba'zi tizimlar ikkitadan ortiq quvvat rejimini qoʻllab-quvvatlaydi. Ikki "
 "profil oʻrtasida almashishni qoʻllab-quvvatlash uchun bu kalit oxirgi "
@@ -309,15 +318,16 @@ msgstr ""
 
 #: data/org.gnome.shell.gschema.xml.in:114
 msgid ""
-"This key determines for which version the “Welcome to GNOME” dialog was last "
-"shown. An empty string represents the oldest possible version, and a huge "
-"number will represent versions that do not exist yet. This huge number can be "
-"used to effectively disable the dialog."
+"This key determines for which version the “Welcome to GNOME” dialog was last"
+" shown. An empty string represents the oldest possible version, and a huge "
+"number will represent versions that do not exist yet. This huge number can "
+"be used to effectively disable the dialog."
 msgstr ""
-"Bu kalit “GNOME’ga xush kelibsiz” muloqot oynasi oxirgi marta qaysi versiyada "
-"koʻrsatilganligini aniqlaydi. Boʻsh satr mumkin boʻlgan eng qadimgi versiyani "
-"ifodalaydi va juda katta raqam hali mavjud boʻlmagan versiyalarni ifodalaydi. "
-"Ushbu katta raqam dialogni samarali oʻchirish uchun ishlatilishi mumkin."
+"Bu kalit “GNOME’ga xush kelibsiz” muloqot oynasi oxirgi marta qaysi "
+"versiyada koʻrsatilganligini aniqlaydi. Boʻsh satr mumkin boʻlgan eng "
+"qadimgi versiyani ifodalaydi va juda katta raqam hali mavjud boʻlmagan "
+"versiyalarni ifodalaydi. Ushbu katta raqam dialogni samarali oʻchirish uchun"
+" ishlatilishi mumkin."
 
 #: data/org.gnome.shell.gschema.xml.in:125
 msgid "Layout of the app picker"
@@ -325,16 +335,16 @@ msgstr "Ilova tanlagichining tartibi"
 
 #: data/org.gnome.shell.gschema.xml.in:126
 msgid ""
-"Layout of the app picker. Each entry in the array is a page. Pages are stored "
-"in the order they appear in GNOME Shell. Each page contains an “application "
-"id” → 'data' pair. Currently, the following values are stored as 'data': • "
-"“position”: the position of the application icon in the page"
+"Layout of the app picker. Each entry in the array is a page. Pages are "
+"stored in the order they appear in GNOME Shell. Each page contains an "
+"“application id” → 'data' pair. Currently, the following values are stored "
+"as 'data': • “position”: the position of the application icon in the page"
 msgstr ""
 "Ilova tanlagichining tartibi. Massivdagi har bir yozuv sahifadir. Sahifalar "
 "GNOME Shell-da paydo boʻladigan tartibda saqlanadi. Har bir sahifada “ilova "
 "identifikatori” → “maʼlumotlar” juftligi mavjud. Hozirda quyidagi qiymatlar "
-"“maʼlumotlar” sifatida saqlanadi: • “pozitsiya”: sahifadagi ilova belgisining "
-"oʻrni"
+"“maʼlumotlar” sifatida saqlanadi: • “pozitsiya”: sahifadagi ilova "
+"belgisining oʻrni"
 
 #: data/org.gnome.shell.gschema.xml.in:145
 #: data/org.gnome.shell.gschema.xml.in:152
@@ -362,8 +372,8 @@ msgstr ""
 msgid ""
 "Keybinding to open the “Show Applications” view of the Activities Overview."
 msgstr ""
-"Faoliyatlar umumiy koʻrinishining “Ilovalarni koʻrsatish” koʻrinishini ochish "
-"uchun tugmalar birikmasi."
+"Faoliyatlar umumiy koʻrinishining “Ilovalarni koʻrsatish” koʻrinishini "
+"ochish uchun tugmalar birikmasi."
 
 #: data/org.gnome.shell.gschema.xml.in:167
 msgid "Keybinding to open the overview"
@@ -507,8 +517,8 @@ msgid ""
 "If true, only applications that have windows on the current workspace are "
 "shown in the switcher. Otherwise, all applications are included."
 msgstr ""
-"Agar rost boʻlsa, almashtirgichda faqat joriy ish maydonida oynalari boʻlgan "
-"ilovalar koʻrsatiladi. Aks holda, barcha ilovalar kiritilgan."
+"Agar rost boʻlsa, almashtirgichda faqat joriy ish maydonida oynalari boʻlgan"
+" ilovalar koʻrsatiladi. Aks holda, barcha ilovalar kiritilgan."
 
 #: data/org.gnome.shell.gschema.xml.in:330
 msgid "The application icon mode."
@@ -516,13 +526,13 @@ msgstr "Ilova belgisi rejimi."
 
 #: data/org.gnome.shell.gschema.xml.in:331
 msgid ""
-"Configures how the windows are shown in the switcher. Valid possibilities are "
-"“thumbnail-only” (shows a thumbnail of the window), “app-icon-only” (shows "
-"only the application icon) or “both”."
+"Configures how the windows are shown in the switcher. Valid possibilities "
+"are “thumbnail-only” (shows a thumbnail of the window), “app-icon-only” "
+"(shows only the application icon) or “both”."
 msgstr ""
-"Oʻzgartirgichda oynalar qanday koʻrsatilishini sozlaydi. Toʻgʻri imkoniyatlar "
-"\"faqat eskiz\" (oynaning eskizini koʻrsatadi), \"faqat ilova belgisi\" (faqat "
-"ilova belgisini koʻrsatadi) yoki \"ikkalasi\"."
+"Oʻzgartirgichda oynalar qanday koʻrsatilishini sozlaydi. Toʻgʻri "
+"imkoniyatlar \"faqat eskiz\" (oynaning eskizini koʻrsatadi), \"faqat ilova "
+"belgisi\" (faqat ilova belgisini koʻrsatadi) yoki \"ikkalasi\"."
 
 #: data/org.gnome.shell.gschema.xml.in:340
 msgid ""
@@ -580,7 +590,7 @@ msgstr "Kengaytma xatoligi"
 #: js/dbusServices/extensions/extensionPrefsDialog.js:104
 #, javascript-format
 msgid "Unable to display the settings for “%s”."
-msgstr "\"%s\" sozlamalari ko‘rsatilmadi."
+msgstr "\"%s\" sozlamalari koʻrsatilmadi."
 
 #. Translators: Link label in the phrase "Information about this
 #. problem may be available on the extension website"
@@ -632,20 +642,20 @@ msgstr "Foydalanish imkoniyati"
 #: js/gdm/loginDialog.js:469
 #, javascript-format
 msgid ""
-"Remote login is not possible because a remote session is already running for "
-"%s. To login remotely, you must log out from the remote session or force stop "
-"it."
+"Remote login is not possible because a remote session is already running for"
+" %s. To login remotely, you must log out from the remote session or force "
+"stop it."
 msgstr ""
-"Masofaviy tizimga kirish imkonsiz, chunki %s uchun masofaviy seans allaqachon "
-"ishlamoqda. Masofaviy tizimga kirish uchun siz masofaviy seansdan chiqishingiz "
-"yoki uni majburan toʻxtatishingiz kerak."
+"Masofaviy tizimga kirish imkonsiz, chunki %s uchun masofaviy seans "
+"allaqachon ishlamoqda. Masofaviy tizimga kirish uchun siz masofaviy seansdan"
+" chiqishingiz yoki uni majburan toʻxtatishingiz kerak."
 
 #. Translators: is running for <username>
 #: js/gdm/loginDialog.js:472
 #, javascript-format
 msgid ""
-"Login is not possible because a remote session is already running for %s. To "
-"login, you must log out from the remote session or force stop it."
+"Login is not possible because a remote session is already running for %s. To"
+" login, you must log out from the remote session or force stop it."
 msgstr ""
 "Kirish mumkin emas, chunki %s uchun masofaviy seans allaqachon ishlamoqda. "
 "Tizimga kirish uchun siz masofaviy seansdan chiqishingiz yoki uni majburan "
@@ -656,19 +666,19 @@ msgstr ""
 #, javascript-format
 msgid ""
 "Remote login is not possible because a local session is already running for "
-"%s. To login remotely, you must log out from the local session or force stop "
-"it."
+"%s. To login remotely, you must log out from the local session or force stop"
+" it."
 msgstr ""
-"Masofaviy tizimga kirish imkonsiz, chunki %s uchun mahalliy seans allaqachon "
-"ishlamoqda. Masofadan kirish uchun siz mahalliy seansdan chiqishingiz yoki uni "
-"majburan toʻxtatishingiz kerak."
+"Masofaviy tizimga kirish imkonsiz, chunki %s uchun mahalliy seans allaqachon"
+" ishlamoqda. Masofadan kirish uchun siz mahalliy seansdan chiqishingiz yoki "
+"uni majburan toʻxtatishingiz kerak."
 
 #. Translators: is running for <username>
 #: js/gdm/loginDialog.js:478
 #, javascript-format
 msgid ""
-"Login is not possible because a session is already running for %s. To login, "
-"you must log out from the session or force stop it."
+"Login is not possible because a session is already running for %s. To login,"
+" you must log out from the session or force stop it."
 msgstr ""
 "Kirish mumkin emas, chunki %s uchun seans allaqachon ishlamoqda. Tizimga "
 "kirish uchun siz sessiyadan chiqishingiz yoki uni majburan toʻxtatishingiz "
@@ -680,11 +690,11 @@ msgstr "Seans allaqachon ishlamoqda"
 
 #: js/gdm/loginDialog.js:499
 msgid ""
-"Force stopping will quit any running apps and processes, and could result in "
-"data loss"
+"Force stopping will quit any running apps and processes, and could result in"
+" data loss"
 msgstr ""
-"Majburiy toʻxtatish har qanday ishlayotgan ilova va jarayonlarni toʻxtatadi va "
-"ma’lumotlar yoʻqolishiga olib kelishi mumkin"
+"Majburiy toʻxtatish har qanday ishlayotgan ilova va jarayonlarni toʻxtatadi "
+"va ma’lumotlar yoʻqolishiga olib kelishi mumkin"
 
 #: js/gdm/loginDialog.js:519
 msgid "Force Stop"
@@ -840,7 +850,8 @@ msgstr "Koʻrish uchun tanaffus vaqti"
 #. “2 minutes”, “40 seconds” or “1 hour”
 #: js/misc/breakManager.js:1212
 #, javascript-format
-msgid "Take a break from the screen. Look at least 6 meters away for at least %s"
+msgid ""
+"Take a break from the screen. Look at least 6 meters away for at least %s"
 msgid_plural ""
 "Take a break from the screen. Look at least 6 meters away for at least %s"
 msgstr[0] "Ekrandan dam oling. Kamida 6 metr masofani kamida %s qidiring"
@@ -1163,8 +1174,8 @@ msgid ""
 "Your connection to this hotspot login is not secure. Passwords or other "
 "information you enter on this page can be viewed by people nearby."
 msgstr ""
-"Ushbu hotspot ulanishingiz xavfsiz emas. Ushbu sahifaga kiritgan parollar yoki "
-"boshqa maʼlumotlarni yaqin atrofdagi odamlar koʻrishi mumkin."
+"Ushbu hotspot ulanishingiz xavfsiz emas. Ushbu sahifaga kiritgan parollar "
+"yoki boshqa maʼlumotlarni yaqin atrofdagi odamlar koʻrishi mumkin."
 
 #: js/portalHelper/main.js:115
 msgid "Hotspot Login"
@@ -1378,8 +1389,8 @@ msgid ""
 "You may choose to wait a short while for it to continue or force the app to "
 "quit entirely"
 msgstr ""
-"Davom etish uchun biroz kutishingiz yoki ilovani butunlay oʻchirishga majbur "
-"qilishingiz mumkin"
+"Davom etish uchun biroz kutishingiz yoki ilovani butunlay oʻchirishga majbur"
+" qilishingiz mumkin"
 
 #: js/ui/closeDialog.js:71
 msgid "Force Quit"
@@ -1421,7 +1432,8 @@ msgid "Open with %s"
 msgstr "%s bilan ochish"
 
 #: js/ui/components/networkAgent.js:96
-msgid "Alternatively you can connect by pushing the “WPS” button on your router"
+msgid ""
+"Alternatively you can connect by pushing the “WPS” button on your router"
 msgstr ""
 "Shu bilan bir qatorda, routeringizdagi “WPS” tugmasini bosib ulanishingiz "
 "mumkin"
@@ -1455,7 +1467,8 @@ msgstr "Autentifikatsiya talab qilinadi"
 #: js/ui/components/networkAgent.js:372 js/ui/components/networkAgent.js:746
 #, javascript-format
 msgid ""
-"Passwords or encryption keys are required to access the wireless network “%s”"
+"Passwords or encryption keys are required to access the wireless network "
+"“%s”"
 msgstr ""
 "“%s” simsiz tarmoqqa kirish uchun parollar yoki shifrlash kalitlari talab "
 "qilinadi"
@@ -1697,8 +1710,8 @@ msgid "The system will automatically restart and install updates in %d second"
 msgid_plural ""
 "The system will automatically restart and install updates in %d seconds"
 msgstr[0] ""
-"Tizim avtomatik ravishda qayta ishga tushadi va yangilanishlarni %d soniyada "
-"oʻrnatadi"
+"Tizim avtomatik ravishda qayta ishga tushadi va yangilanishlarni %d soniyada"
+" oʻrnatadi"
 
 #: js/ui/endSessionDialog.js:119 js/ui/endSessionDialog.js:140
 msgctxt "button"
@@ -1736,7 +1749,8 @@ msgstr ""
 #: js/ui/endSessionDialog.js:283
 msgid "Low battery power: please plug in before installing updates"
 msgstr ""
-"Batareya quvvati kam: yangilanishlarni oʻrnatishdan oldin quvvatlang, iltimos"
+"Batareya quvvati kam: yangilanishlarni oʻrnatishdan oldin quvvatlang, "
+"iltimos"
 
 #: js/ui/endSessionDialog.js:292
 msgid "Some applications are busy or have unsaved work"
@@ -1775,8 +1789,8 @@ msgstr "Kengaytmani oʻrnatish"
 #, javascript-format
 msgid "Download and install “%s” from extensions.gnome.org?"
 msgstr ""
-"extensions.gnome.org saytidan \"%s\" kengaytmasini yuklab olish va oʻrnatishni "
-"xohlaysizmi?"
+"extensions.gnome.org saytidan \"%s\" kengaytmasini yuklab olish va "
+"oʻrnatishni xohlaysizmi?"
 
 #: js/ui/extensionSystem.js:354
 msgid "Extension Updates Available"
@@ -1816,8 +1830,8 @@ msgstr "Sekin tugmalar oʻchirilgan"
 
 #: js/ui/kbdA11yDialog.js:36
 msgid ""
-"You just held down the Shift key for 8 seconds. This is the shortcut for the "
-"Slow Keys feature, which affects the way your keyboard works."
+"You just held down the Shift key for 8 seconds. This is the shortcut for the"
+" Slow Keys feature, which affects the way your keyboard works."
 msgstr ""
 "Shift tugmachasini 8 soniya bosib turdingiz. Bu sekin tugmalar funksiyasi "
 "uchun yorliq boʻlib, u klaviaturaning ishlashiga taʼsir qiladi."
@@ -1832,17 +1846,17 @@ msgstr "Yopishqoq tugmalar oʻchirilgan"
 
 #: js/ui/kbdA11yDialog.js:45
 msgid ""
-"You just pressed the Shift key 5 times in a row. This is the shortcut for the "
-"Sticky Keys feature, which affects the way your keyboard works."
+"You just pressed the Shift key 5 times in a row. This is the shortcut for "
+"the Sticky Keys feature, which affects the way your keyboard works."
 msgstr ""
-"Siz shunchaki Shift tugmasini ketma-ket 5 marta bosdingiz. Bu klaviaturaning "
-"ishlashiga ta'sir qiluvchi Yopishqoq tugmalar funksiyasi uchun yorliqdir."
+"Siz shunchaki Shift tugmasini ketma-ket 5 marta bosdingiz. Bu klaviaturaning"
+" ishlashiga ta'sir qiluvchi Yopishqoq tugmalar funksiyasi uchun yorliqdir."
 
 #: js/ui/kbdA11yDialog.js:47
 msgid ""
-"You just pressed two keys at once, or pressed the Shift key 5 times in a row. "
-"This turns off the Sticky Keys feature, which affects the way your keyboard "
-"works."
+"You just pressed two keys at once, or pressed the Shift key 5 times in a "
+"row. This turns off the Sticky Keys feature, which affects the way your "
+"keyboard works."
 msgstr ""
 "Siz bir vaqtning oʻzida ikkita tugmachani bosdingiz yoki Shift tugmachasini "
 "ketma-ket 5 marta bosdingiz. Bu klaviaturaning ishlashiga ta'sir qiluvchi "
@@ -1936,12 +1950,12 @@ msgstr "Imtiyozli foydalanuvchi sifatida tizimga kirgan"
 
 #: js/ui/main.js:374
 msgid ""
-"Running a session as a privileged user should be avoided for security reasons. "
-"If possible, you should log in as a normal user."
+"Running a session as a privileged user should be avoided for security "
+"reasons. If possible, you should log in as a normal user."
 msgstr ""
 "Xavfsizlik nuqtai nazaridan seansni imtiyozli foydalanuvchi sifatida ishga "
-"tushirishdan qochish kerak. Iloji boʻlsa, oddiy foydalanuvchi sifatida tizimga "
-"kirishingiz kerak."
+"tushirishdan qochish kerak. Iloji boʻlsa, oddiy foydalanuvchi sifatida "
+"tizimga kirishingiz kerak."
 
 #: js/ui/main.js:422
 msgid "Screen Lock disabled"
@@ -2252,10 +2266,11 @@ msgstr "Kalit fayllardan foydalanadi"
 #. Translators: %s is the Disks application
 #: js/ui/shellMountOperation.js:300
 #, javascript-format
-msgid "To unlock a volume that uses keyfiles, use the <i>%s</i> utility instead"
+msgid ""
+"To unlock a volume that uses keyfiles, use the <i>%s</i> utility instead"
 msgstr ""
-"Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun uning oʻrniga "
-"<i>%s</i> yordam dasturidan foydalaning"
+"Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun uning "
+"oʻrniga <i>%s</i> yordam dasturidan foydalaning"
 
 #: js/ui/shellMountOperation.js:304
 msgid ""
@@ -2697,7 +2712,8 @@ msgstr "Ruxsatsiz Thunderbolt qurilmasi"
 msgid ""
 "New device has been detected and needs to be authorized by an administrator"
 msgstr ""
-"Yangi qurilma aniqlandi va unga administrator tomonidan ruxsat berilishi kerak"
+"Yangi qurilma aniqlandi va unga administrator tomonidan ruxsat berilishi "
+"kerak"
 
 #: js/ui/status/thunderbolt.js:322
 msgid "Thunderbolt authorization error"
@@ -2971,8 +2987,9 @@ msgid ""
 "GNOME Extensions handles updating extensions, configuring extension "
 "preferences and removing or disabling unwanted extensions."
 msgstr ""
-"GNOME kengaytmalari kengaytmalarni yangilash, kengaytma afzalliklarini sozlash "
-"va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan shugʻullanadi."
+"GNOME kengaytmalari kengaytmalarni yangilash, kengaytma afzalliklarini "
+"sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
+"shugʻullanadi."
 
 #: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:69
 msgid "Main Window"
@@ -2993,8 +3010,8 @@ msgstr "GNOME Shell kengaytmalarini sozlang"
 #: subprojects/extensions-app/js/extensionManager.js:237
 #, javascript-format
 msgid ""
-"The installed version of this extension (%s) is incompatible with the current "
-"version of GNOME (%s). The extension has been disabled."
+"The installed version of this extension (%s) is incompatible with the "
+"current version of GNOME (%s). The extension has been disabled."
 msgstr ""
 "Ushbu kengaytmaning oʻrnatilgan versiyasi (%s) joriy GNOME versiyasiga (%s) "
 "mos kelmaydi. Kengaytma oʻchirilgan."
@@ -3010,13 +3027,13 @@ msgstr ""
 
 #: subprojects/extensions-app/js/extensionManager.js:242
 msgid ""
-"An error has occurred in this extension. This could cause issues elsewhere in "
-"the system. It is recommended to turn the extension off until the error is "
-"resolved."
+"An error has occurred in this extension. This could cause issues elsewhere "
+"in the system. It is recommended to turn the extension off until the error "
+"is resolved."
 msgstr ""
-"Ushbu kengaytmada xatolik yuz berdi. Bu tizimning boshqa joylarida muammolarga "
-"olib kelishi mumkin. Xato hal qilinmaguncha kengaytmani oʻchirib qoʻyish "
-"tavsiya etiladi."
+"Ushbu kengaytmada xatolik yuz berdi. Bu tizimning boshqa joylarida "
+"muammolarga olib kelishi mumkin. Xato hal qilinmaguncha kengaytmani oʻchirib"
+" qoʻyish tavsiya etiladi."
 
 #. translators: Details for an extension error
 #: subprojects/extensions-app/js/extensionManager.js:248
@@ -3035,11 +3052,11 @@ msgstr "“%s” olib tashlansinmi?"
 
 #: subprojects/extensions-app/js/extensionsWindow.js:109
 msgid ""
-"If you remove the extension, you need to return to download it if you want to "
-"enable it again"
+"If you remove the extension, you need to return to download it if you want "
+"to enable it again"
 msgstr ""
-"Agar kengaytmani olib tashlasangiz, uni qayta yoqishni istasangiz, uni yuklab "
-"olish uchun qaytishingiz kerak"
+"Agar kengaytmani olib tashlasangiz, uni qayta yoqishni istasangiz, uni "
+"yuklab olish uchun qaytishingiz kerak"
 
 #: subprojects/extensions-app/js/extensionsWindow.js:112
 msgid "_Cancel"
@@ -3148,11 +3165,12 @@ msgstr "Oʻrnatilgan kengaytmalar yoʻq"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:230
 msgid ""
-"To find and add extensions, visit <a href=\"https://"
-"extensions.gnome.org\">extensions.gnome.org</a>."
+"To find and add extensions, visit <a "
+"href=\"https://extensions.gnome.org\">extensions.gnome.org</a>."
 msgstr ""
-"Kengaytmalarni topish va qoʻshish uchun <a href=\"https://"
-"extensions.gnome.org\">extensions.gnome.org</a> saytiga tashrif buyuring."
+"Kengaytmalarni topish va qoʻshish uchun <a "
+"href=\"https://extensions.gnome.org\">extensions.gnome.org</a> saytiga "
+"tashrif buyuring."
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:240
 msgid "Something’s gone wrong"
@@ -3164,7 +3182,8 @@ msgid ""
 "extensions. Make sure you are logged into GNOME and try again."
 msgstr ""
 "Kechirasiz, lekin oʻrnatilgan kengaytmalar roʻyxatini olishning iloji "
-"boʻlmadi. GNOME-ga kirganingizga ishonch hosil qiling va qayta urinib koʻring."
+"boʻlmadi. GNOME-ga kirganingizga ishonch hosil qiling va qayta urinib "
+"koʻring."
 
 #: subprojects/extensions-app/data/ui/shortcuts-dialog.ui:6
 msgctxt "shortcut window"
@@ -3229,12 +3248,10 @@ msgstr "Ta'rif"
 #, c-format
 msgid ""
 "UUID is a globally-unique identifier for your extension.\n"
-"This should be in the format of an email address "
-"(clicktofocus@janedoe.example.com)\n"
+"This should be in the format of an email address (clicktofocus@janedoe.example.com)\n"
 msgstr ""
 "UUID kengaytmangiz uchun global noyob identifikatordir.\n"
-"Bu elektron pochta manzili formatida boʻlishi kerak "
-"(clicktofocus@janedoe.example.com)\n"
+"Bu elektron pochta manzili formatida boʻlishi kerak (clicktofocus@janedoe.example.com)\n"
 
 #: subprojects/extensions-tool/src/command-create.c:443
 #, c-format
@@ -3551,7 +3568,8 @@ msgstr "Faqat --parol va --parol faylidan birini ishlatish mumkins"
 
 #: subprojects/extensions-tool/src/command-upload.c:467
 msgid "You must accept the terms of service to upload extensions"
-msgstr "Kengaytmalarni yuklash uchun xizmat shartlarini qabul qilishingiz kerak"
+msgstr ""
+"Kengaytmalarni yuklash uchun xizmat shartlarini qabul qilishingiz kerak"
 
 #: subprojects/extensions-tool/src/command-upload.c:473
 msgid "No files given"
@@ -3733,8 +3751,8 @@ msgstr "Tizim tovushlari"
 #~ "extension authors."
 #~ msgstr ""
 #~ "Kechirasiz, lekin muammo yuzaga keldi: bu kengaytma sozlamalarini koʻrsatib "
-#~ "boʻlmaydi. Muammo haqida kengaytma mualliflariga xabar berishingizni "
-#~ "tavsiya qilamiz."
+#~ "boʻlmaydi. Muammo haqida kengaytma mualliflariga xabar berishingizni tavsiya"
+#~ " qilamiz."
 
 #~ msgid "Technical Details"
 #~ msgstr "Texnik tafsilotlar"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hieroglyphic main\n"
 "Report-Msgid-Bugs-To: https://github.com/FineFindus/Hieroglyphic/issues\n"
-"POT-Creation-Date: 2025-12-20 15:28+0000\n"
+"POT-Creation-Date: 2025-12-24 11:35+0000\n"
 "PO-Revision-Date: 2025-10-10 15:35+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -44,30 +44,47 @@ msgstr "Hissalar muloqot oynasiga kichik turtki koʻrsatilsinmi"
 msgid "Whether to contribute recognized strokes"
 msgstr "Aniqlangan shtrixlarga hissa qoʻshish/qoʻshmaslik"
 
+#: data/io.github.finefindus.Hieroglyphic.gschema.xml.in:20
+msgid "Markup language to suggest symbols for"
+msgstr ""
+
 #: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:9
-msgid "Find LaTeX symbols"
+#, fuzzy
+#| msgid "Find LaTeX symbols"
+msgid "Find LaTeX and Typst symbols"
 msgstr "LaTeX belgilarini topish"
 
 #: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:18
+#, fuzzy
+#| msgid ""
+#| "If you work with LaTeX, you know it's difficult to memorize the names of all"
+#| " the symbols. Hieroglyphic allows you to search through over 1000 different "
+#| "LaTeX symbols by sketching."
 msgid ""
-"If you work with LaTeX, you know it's difficult to memorize the names of all"
-" the symbols. Hieroglyphic allows you to search through over 1000 different "
-"LaTeX symbols by sketching."
+"If you work with LaTeX or Typst, you know it's difficult to memorize the "
+"names of all the symbols. Hieroglyphic allows you to search through over "
+"1000 different symbols by sketching."
 msgstr ""
 "Agar siz Latex bilan ishlayotgan boʻlsangiz, barcha belgilarning nomlarini "
 "eslab qolish qiyinligini bilasiz. Iyeroglifik eskizlash orqali 1000 dan "
 "ortiq turli Latex belgilarini qidirish imkonini beradi."
 
 #: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:30
-msgid "Main Window"
-msgstr "Asosiy oyna"
+#, fuzzy
+#| msgid "Find LaTeX symbols"
+msgid "Symbol selection for LaTeX symbols"
+msgstr "LaTeX belgilarini topish"
 
 #: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:34
+msgid "Symbol selection for Typst symbols"
+msgstr ""
+
+#: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:38
 msgid "Placeholder"
 msgstr "Toʻldirgich"
 
 #: data/resources/ui/contribution-dialog.ui:6
-#: data/resources/ui/contribution-dialog.ui:40 data/resources/ui/window.ui:263
+#: data/resources/ui/contribution-dialog.ui:40 data/resources/ui/window.ui:284
 msgid "Improve Hieroglyphic"
 msgstr "Iyeroglifni yaxshilash"
 
@@ -99,25 +116,43 @@ msgstr ""
 msgid "Copy"
 msgstr "Nusxalash"
 
-#: data/resources/ui/window.ui:122 data/resources/ui/window.ui:221
+#: data/resources/ui/window.ui:5
+msgid "Markup language"
+msgstr ""
+
+#: data/resources/ui/window.ui:7
+msgid "LaTeX"
+msgstr ""
+
+#: data/resources/ui/window.ui:12
+msgid "Typst"
+msgstr ""
+
+#: data/resources/ui/window.ui:20
+msgid "About Hieroglyphic"
+msgstr "Iyeroglif haqida"
+
+#: data/resources/ui/window.ui:143 data/resources/ui/window.ui:242
 msgid "No Symbols"
 msgstr "Hech qanday belgi topilmadi"
 
-#: data/resources/ui/window.ui:130 data/resources/ui/window.ui:222
+#: data/resources/ui/window.ui:151 data/resources/ui/window.ui:243
 msgid "Start by drawing a symbol"
 msgstr "Belgi chizishdan boshlang"
 
-#: data/resources/ui/window.ui:162
+#: data/resources/ui/window.ui:183
 msgid "All Symbols"
 msgstr "Barcha belgilar"
 
-#: data/resources/ui/window.ui:197
+#: data/resources/ui/window.ui:218
 msgid "_Clear"
 msgstr "Tozalash"
 
-#: data/resources/ui/window.ui:275
-msgid "About Hieroglyphic"
-msgstr "Iyeroglif haqida"
+#: data/resources/ui/window.ui:294
+#, fuzzy
+#| msgid "Main Window"
+msgid "Main Menu"
+msgstr "Asosiy oyna"
 
 #. Translators: This should not be translate, Please enter your credits here
 #. instead (format: "Name https://example.com" or "Name <email@example.com>",
@@ -126,6 +161,7 @@ msgstr "Iyeroglif haqida"
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
-#: src/window.rs:315
+#: src/window.rs:392
+#, rust-format
 msgid "Copied “{}”"
 msgstr "Nusxalangan \"{}\""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Keypunch main\n"
 "Report-Msgid-Bugs-To: https://github.com/bragefuglseth/keypunch/issues\n"
-"POT-Creation-Date: 2025-12-20 15:28+0000\n"
+"POT-Creation-Date: 2025-04-26 12:47+0000\n"
 "PO-Revision-Date: 2025-10-24 15:16+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -248,6 +248,7 @@ msgid "Test Duration"
 msgstr "Sinov davomiyligi"
 
 #: src/widgets/results_view.rs:165
+#, rust-format
 msgid "{}%"
 msgstr "{}%"
 
@@ -266,12 +267,14 @@ msgstr "Murakkab"
 #. Translators: The `{}` blocks will be replaced with the number of minutes
 #. and seconds. Do not translate them!
 #: src/widgets/results_view.rs:200
+#, rust-format
 msgid "{}m {}s"
 msgstr "{}d {}son"
 
 #. Translators: The `{}` block will be replaced with the number of minutes.
 #. Do not translate it!
 #: src/widgets/results_view.rs:204
+#, rust-format
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
@@ -279,6 +282,7 @@ msgstr[0] "{} daqiqa"
 #. Translators: The `{}` block will be replaced with the number of seconds.
 #. Do not translate it!
 #: src/widgets/results_view.rs:208
+#, rust-format
 msgid "{} second"
 msgid_plural "{} seconds"
 msgstr[0] "{} soniya"
@@ -443,24 +447,12 @@ msgstr "Fretboard"
 msgid "Look up guitar chords"
 msgstr "Gitara akkordlarini qidiring"
 
-#: src/widgets/window/typing_test.rs:163
-msgid "{} ⁄ {}"
-msgstr "{} ⁄ {}"
-
 #. Translators: This is shown as a warning by GNOME Shell before logging out
 #. or shutting off the system in the middle of a typing test, alongside
 #. Keypunch's name and icon
 #: src/widgets/window/typing_test.rs:336
 msgid "Ongoing typing test"
 msgstr "Davom etayotgan matn terish sinovi"
-
-#: src/widgets/window/typing_test.rs:508
-msgid "Changes discarded"
-msgstr "Oʻzgarishlar bekor qilindi"
-
-#: src/widgets/window/typing_test.rs:509
-msgid "Restore"
-msgstr "Qayta tiklash"
 
 #. Translators: The format of the timer. The first `{}` block will be replaced
 #. with the minutes passed, and the second one will be replaced with the
@@ -471,5 +463,15 @@ msgstr "Qayta tiklash"
 #. different,
 #. you should probably copy and paste it from the original string.
 #: src/widgets/window/typing_test.rs:607 src/widgets/window/typing_test.rs:609
+#, rust-format
 msgid "{}∶{}"
 msgstr "{}∶{}"
+
+#~ msgid "{} ⁄ {}"
+#~ msgstr "{} ⁄ {}"
+
+#~ msgid "Changes discarded"
+#~ msgstr "Oʻzgarishlar bekor qilindi"
+
+#~ msgid "Restore"
+#~ msgstr "Qayta tiklash"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elastic main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/elastic/-/issues\n"
-"POT-Creation-Date: 2025-12-10 11:48+0000\n"
+"POT-Creation-Date: 2025-12-27 21:50+0000\n"
 "PO-Revision-Date: 2025-10-17 17:12+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -305,15 +305,15 @@ msgstr "Asosiy"
 msgid "Interactive"
 msgstr "Interaktiv"
 
-#: src/window.blp:109
+#: src/window.blp:119
 msgid "_Preferences"
 msgstr "Afzalliklar"
 
-#: src/window.blp:114
+#: src/window.blp:124
 msgid "_Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
-#: src/window.blp:119
+#: src/window.blp:129
 msgid "_About Elastic"
 msgstr "Elastik haqida"
 

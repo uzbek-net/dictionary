@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: showtime main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/showtime/-/issues\n"
-"POT-Creation-Date: 2025-10-14 03:02+0000\n"
+"POT-Creation-Date: 2025-11-27 12:19+0000\n"
 "PO-Revision-Date: 2025-04-04 18:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -31,8 +31,7 @@ msgstr "Videolarni ijro eting"
 msgid "Video;Movie;Film;Clip;Player;Showtime;"
 msgstr "Video; Kino; Film; Klip; Oʻyinchi; Namoyish vaqti;"
 
-#: data/org.gnome.Showtime.desktop.in:17 showtime/application_delegate.py:27
-#: showtime/gtk/shortcuts-dialog.blp:29
+#: data/org.gnome.Showtime.desktop.in:17 showtime/gtk/shortcuts-dialog.blp:29
 msgid "New Window"
 msgstr "Yangi oyna"
 
@@ -73,35 +72,11 @@ msgstr "Yakuniy vaqt tamgʻasi pozitsiyasida nimani koʻrsatish kerak"
 msgid "E.g. total duration of the video or the amount of time remaining"
 msgstr "Masalan, videoning umumiy davomiyligi yoki qolgan vaqt miqdori"
 
-#: showtime/application_delegate.py:31 showtime/gtk/window.blp:75
-msgid "Open…"
-msgstr "Ochish…"
-
-#: showtime/application_delegate.py:39
-msgid "File"
-msgstr ""
-
-#: showtime/application_delegate.py:47
-#, fuzzy
-#| msgid "New Window"
-msgid "Window"
-msgstr "Yangi oyna"
-
-#: showtime/application_delegate.py:56
-#, fuzzy
-#| msgid "_Keyboard Shortcuts"
-msgid "Keyboard Shortcuts"
-msgstr "_Klaviatura yorliqlari"
-
-#: showtime/application_delegate.py:64
-msgid "Help"
-msgstr ""
-
-#: showtime/main.py:103
+#: showtime/main.py:89
 msgid "Playing a video"
 msgstr "Video ijro etilmoqda"
 
-#: showtime/mpris.py:288 showtime/widgets/window.py:1044
+#: showtime/mpris.py:288 showtime/widgets/window.py:1040
 msgid "Unknown Title"
 msgstr "Noma'lum sarlavha"
 
@@ -133,64 +108,66 @@ msgstr "Aniqlanmagan til"
 msgid "Add Subtitle File…"
 msgstr "Subtitr faylini qoʻshish…"
 
-#: showtime/widgets/window.py:182 showtime/gtk/window.blp:147
+#: showtime/widgets/window.py:181 showtime/gtk/window.blp:161
 msgid "Play"
 msgstr "Oʻynang"
 
-#: showtime/widgets/window.py:182
+#: showtime/widgets/window.py:181
 msgid "Pause"
 msgstr "Pauza"
 
-#: showtime/widgets/window.py:757
+#: showtime/widgets/window.py:756
 msgid "Details copied"
 msgstr "Tafsilotlar nusxalandi"
 
-#: showtime/widgets/window.py:759
+#: showtime/widgets/window.py:758
 msgid "Copy Technical Details"
 msgstr "Texnik ma'lumotlarni nusxalash"
 
-#: showtime/widgets/window.py:762
+#: showtime/widgets/window.py:761
 #, fuzzy
 #| msgid "Start Again"
 msgid "Try Again"
 msgstr "Qaytadan boshlash"
 
-#: showtime/widgets/window.py:792
+#: showtime/widgets/window.py:791
 msgid "The “{}” codecs required to play this video could not be found"
 msgstr ""
 "Bu videoni ijro etish uchun zarur boʻlgan “{}” kodeklarini topib boʻlmadi"
 
-#: showtime/widgets/window.py:810
+#: showtime/widgets/window.py:809
 msgid "No plugin available for this media type"
 msgstr "Ushbu turdagi media uchun plagin mavjud emas"
 
-#: showtime/widgets/window.py:816
+#: showtime/widgets/window.py:815
 msgid "Unable to install the required plugin"
 msgstr "Kerakli plaginni oʻrnatib boʻlmadi"
 
-#: showtime/widgets/window.py:819
+#: showtime/widgets/window.py:818
 msgid "Install Plugin"
 msgstr "Plaginni oʻrnating"
 
-#: showtime/widgets/window.py:827
+#: showtime/widgets/window.py:826
 msgid "Installing…"
 msgstr "Oʻrnatilmoqda…"
 
-#: showtime/widgets/window.py:835
+#: showtime/widgets/window.py:834
 msgid "“{}” codecs are required to play this video"
 msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
 
 #. Translators: Replace this with your name for it to show up in the about
 #. dialog
-#: showtime/widgets/window.py:1013
-msgid "translator_credits"
+#: showtime/widgets/window.py:1019
+#, fuzzy
+#| msgid "translator_credits"
+msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: showtime/widgets/window.py:1052
+#: showtime/widgets/window.py:1074
 msgid "Screenshot captured"
 msgstr "Skrinshot olindi"
 
-#: showtime/widgets/window.py:1054
+#: showtime/widgets/window.py:1076
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 
@@ -274,7 +251,7 @@ msgstr "Ovozni oʻchirish/yoqish"
 msgid "View"
 msgstr "Koʻrish"
 
-#: showtime/gtk/shortcuts-dialog.blp:67 showtime/gtk/window.blp:435
+#: showtime/gtk/shortcuts-dialog.blp:67 showtime/gtk/window.blp:449
 msgid "Toggle Fullscreen"
 msgstr "Toʻliq ekran rejimiga oʻtish"
 
@@ -290,11 +267,11 @@ msgstr "Ijro"
 msgid "Play/Pause"
 msgstr "Tinglash/Toʻxtatish"
 
-#: showtime/gtk/shortcuts-dialog.blp:86 showtime/gtk/window.blp:128
+#: showtime/gtk/shortcuts-dialog.blp:86 showtime/gtk/window.blp:142
 msgid "Go Back 10 Seconds"
 msgstr "10 soniya orqaga qayting"
 
-#: showtime/gtk/shortcuts-dialog.blp:91 showtime/gtk/window.blp:164
+#: showtime/gtk/shortcuts-dialog.blp:91 showtime/gtk/window.blp:178
 msgid "Go Forward 10 Seconds"
 msgstr "10 soniya oldinga oʻting"
 
@@ -330,43 +307,53 @@ msgstr "_Klaviatura yorliqlari"
 msgid "_About Video Player"
 msgstr "Video pleer"
 
-#: showtime/gtk/window.blp:62 showtime/gtk/window.blp:475
+#: showtime/gtk/window.blp:61
+#, fuzzy
+#| msgid "Video Player"
+msgid "Drop Video to Play"
+msgstr "Video pleer"
+
+#: showtime/gtk/window.blp:76 showtime/gtk/window.blp:489
 msgid "Main Menu"
 msgstr "Asosiy menyu"
 
-#: showtime/gtk/window.blp:71
+#: showtime/gtk/window.blp:85
 msgid "Watch Videos"
 msgstr "Videolarni tomosha qiling"
 
-#: showtime/gtk/window.blp:72
+#: showtime/gtk/window.blp:86
 msgid "Drag and drop videos here"
 msgstr "Videolarni bu yerga sudrab olib tashlang"
 
-#: showtime/gtk/window.blp:88
+#: showtime/gtk/window.blp:89
+msgid "Open…"
+msgstr "Ochish…"
+
+#: showtime/gtk/window.blp:102
 msgid "Unable to Play Video"
 msgstr "Videoni ijro qilib boʻlmadi"
 
-#: showtime/gtk/window.blp:93
+#: showtime/gtk/window.blp:107
 msgid "Missing Plugin"
 msgstr "Plagin etishmayapti"
 
-#: showtime/gtk/window.blp:255
+#: showtime/gtk/window.blp:269
 msgid "Toggle Duration/Remaining"
 msgstr "Davomiylik/qolgan vaqtni almashtirish"
 
-#: showtime/gtk/window.blp:310
+#: showtime/gtk/window.blp:324
 msgid "Resume"
 msgstr "Rezyume; qayta boshlash"
 
-#: showtime/gtk/window.blp:350
+#: showtime/gtk/window.blp:364
 msgid "Start Again"
 msgstr "Qaytadan boshlash"
 
-#: showtime/gtk/window.blp:543
+#: showtime/gtk/window.blp:551
 msgid "Video"
 msgstr "Video"
 
-#: showtime/gtk/window.blp:553
+#: showtime/gtk/window.blp:561
 msgid "Subtitles"
 msgstr "Subtitrlar"
 

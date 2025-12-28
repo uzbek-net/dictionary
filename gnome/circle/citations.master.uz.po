@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: citations master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/citations/-/issues\n"
-"POT-Creation-Date: 2025-12-12 12:11+0000\n"
+"POT-Creation-Date: 2025-12-27 21:11+0000\n"
 "PO-Revision-Date: 2025-10-07 20:57+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -96,7 +96,7 @@ msgstr "Oddiy matn"
 #. NOTE: This is the app name
 #: data/org.gnome.World.Citations.desktop.in.in:2
 #: data/org.gnome.World.Citations.metainfo.xml.in.in:7
-#: data/resources/ui/window.ui:67 src/main.rs:39
+#: data/resources/ui/window.ui:67 src/main.rs:38
 msgid "Citations"
 msgstr "Iqtiboslar"
 
@@ -189,26 +189,31 @@ msgstr "Fayldan kiritish…"
 msgid "Custom Citation Format"
 msgstr "Maxsus iqtibos formati"
 
-#: data/resources/ui/citation_preview.ui:50
+#: data/resources/ui/citation_preview.ui:20
+msgid "Help"
+msgstr ""
+
+#: data/resources/ui/citation_preview.ui:54
 msgid "Citation"
 msgstr "Iqtibos"
 
-#: data/resources/ui/citation_preview.ui:94
+#: data/resources/ui/citation_preview.ui:104
 #: data/resources/ui/entry_page.ui:113
 msgid "Copy"
 msgstr "Nusxalash"
 
-#: data/resources/ui/citation_preview.ui:137
+#: data/resources/ui/citation_preview.ui:147
 msgid "Custom Template"
 msgstr "Maxsus andoza"
 
-#: data/resources/ui/citation_preview.ui:153
+#: data/resources/ui/citation_preview.ui:163
 msgid ""
-"Write a custom format for your citations, to insert the contents of a tag <tt>sometag</tt> write <tt>%SOMETAG%</tt>. Basic markdown syntax for bold and italics is supported.\n"
-"            "
+"Write a custom format for your citations, to insert the contents of a tag "
+"<tt>sometag</tt> write <tt>%SOMETAG%</tt>. Basic markdown syntax for bold "
+"and italics is supported. "
 msgstr ""
 
-#: data/resources/ui/citation_preview.ui:159
+#: data/resources/ui/citation_preview.ui:168
 msgid "Example:"
 msgstr "Misol:"
 
@@ -261,7 +266,7 @@ msgstr "Sarlavha"
 msgid "_Year"
 msgstr "Yil"
 
-#: data/resources/ui/entry_page.ui:152 src/entry_page.rs:397
+#: data/resources/ui/entry_page.ui:152
 msgid "Open in Browser"
 msgstr "Brauzerda ochish"
 
@@ -470,15 +475,16 @@ msgid "Could not download PDF"
 msgstr "PDF yuklab olinmadi"
 
 #. TRANSLATORS Do NOT translate {path}, it is a variable name
-#: src/add_pdf_dialog.rs:105
+#: src/add_pdf_dialog.rs:106
+#, rust-format
 msgid "Make sure that {path} exists"
 msgstr "{path} mavjudligini tekshiring"
 
-#: src/add_pdf_dialog.rs:194
+#: src/add_pdf_dialog.rs:197
 msgid "PDF Files"
 msgstr "PDF fayllar"
 
-#: src/add_pdf_dialog.rs:202
+#: src/add_pdf_dialog.rs:205
 msgid "Select a PDF"
 msgstr "PDF faylni tanlash"
 
@@ -532,10 +538,6 @@ msgstr "Boshqa…"
 #: src/entry_page.rs:248
 msgid "Citation Key already exists"
 msgstr "Havola kaliti allaqachon mavjud"
-
-#: src/entry_page.rs:602
-msgid "PDF added"
-msgstr "PDF kiritildi"
 
 #: src/new_entry_dialog.rs:160
 msgid "Insert a BibTeX citation here"
@@ -702,3 +704,6 @@ msgstr "Saqlash va tark etish"
 #: src/window.rs:699
 msgid "Remove From Recent Files"
 msgstr "Oxirgi fayllardan olib tashlash"
+
+#~ msgid "PDF added"
+#~ msgstr "PDF kiritildi"

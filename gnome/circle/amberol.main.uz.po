@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amberol main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/amberol/-/issues/\n"
-"POT-Creation-Date: 2025-12-10 11:05+0000\n"
+"POT-Creation-Date: 2025-10-02 15:14+0000\n"
 "PO-Revision-Date: 2025-10-03 18:14+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -449,6 +449,7 @@ msgstr "Ijro"
 #. it will be expanded to the number of songs added
 #. to the playlist
 #: src/window.rs:613
+#, rust-format
 msgid "Added one song"
 msgid_plural "Added {} songs"
 msgstr[0] "{} ta musiqa kiritildi"
@@ -458,11 +459,13 @@ msgid "Unable to access dropped files"
 msgstr "Tashlab yuborilgan fayllarga kirish imkonsiz"
 
 #: src/window.rs:1337
+#, rust-format
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
 
 #: src/window.rs:1348
+#, rust-format
 msgid "{hours} hour {minutes} remaining"
 msgid_plural "{hours} hours {minutes} remaining"
 msgstr[0] "{hours} soat {minutes} daqiqa qoldi"
@@ -471,6 +474,7 @@ msgstr[0] "{hours} soat {minutes} daqiqa qoldi"
 #. it will be replaced by the number of minutes remaining
 #. in the playlist
 #: src/window.rs:1358
+#, rust-format
 msgid "{} minute remaining"
 msgid_plural "{} minutes remaining"
 msgstr[0] "{} daqiqa qoldi"
@@ -482,6 +486,7 @@ msgstr "Qoʻshiq tanlanmagan"
 #. Translators: The '{}' must be left unmodified, and
 #. it is expanded to the number of songs selected
 #: src/window.rs:1467
+#, rust-format
 msgid "{} song selected"
 msgid_plural "{} songs selected"
 msgstr[0] "{} ta musiqa tanlandi"
@@ -490,6 +495,7 @@ msgstr[0] "{} ta musiqa tanlandi"
 #. untranslated; they will expand to the title and
 #. artist of the currently playing song, respectively
 #: src/window.rs:1523
+#, rust-format
 msgid "Currently playing “{title}” by “{artist}”"
 msgstr "Hozirgi \"{title}\" musiqa \"{artist}\" tomonidan ijro etilmoqda"
 

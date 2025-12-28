@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: console main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/console/-/issues/\n"
-"POT-Creation-Date: 2025-12-10 11:35+0000\n"
+"POT-Creation-Date: 2025-12-25 02:54+0000\n"
 "PO-Revision-Date: 2025-03-27 10:23+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -53,7 +53,7 @@ msgstr ""
 msgid "Terminal window"
 msgstr "Terminal oynasi"
 
-#: data/org.gnome.Console.metainfo.xml.in.in:579 src/kgx-about.c:166
+#: data/org.gnome.Console.metainfo.xml.in.in:590 src/kgx-about.c:166
 msgid "The GNOME Project"
 msgstr "GNOME Loyihasi"
 

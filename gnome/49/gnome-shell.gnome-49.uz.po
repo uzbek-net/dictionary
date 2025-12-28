@@ -7,56 +7,56 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2025-12-20 11:02+0000\n"
-"PO-Revision-Date: 2025-04-02 17:34+0500\n"
-"Last-Translator: \n"
-"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"POT-Creation-Date: 2025-11-24 13:53+0000\n"
+"PO-Revision-Date: 2025-12-24 19:40+0500\n"
+"Last-Translator: Baxrom Raxmatov\n"
+"Language-Team: uzbek-net\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;;\n"
-"X-Generator: Poedit 3.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
 
 #: data/50-gnome-shell-launchers.xml:6
 msgid "Launchers"
-msgstr "Ishga tushiruvchilar"
+msgstr "Launcherlar"
 
 #: data/50-gnome-shell-launchers.xml:10
 msgid "Activate pinned app 1"
-msgstr "Qattiqlangan ilovani faollashtiring 1"
+msgstr "1-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:14
 msgid "Activate pinned app 2"
-msgstr "Qattiqlangan ilovani faollashtiring 2"
+msgstr "2-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:18
 msgid "Activate pinned app 3"
-msgstr "Qattiqlangan ilovani faollashtiring 3"
+msgstr "3-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:22
 msgid "Activate pinned app 4"
-msgstr "Qattiqlangan ilovani faollashtiring 4"
+msgstr "4-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:26
 msgid "Activate pinned app 5"
-msgstr "Qattiqlangan ilovani faollashtiring 5"
+msgstr "5-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:30
 msgid "Activate pinned app 6"
-msgstr "Qattiqlangan ilovani faollashtiring 4"
+msgstr "6-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:34
 msgid "Activate pinned app 7"
-msgstr "Qattiqlangan ilovani faollashtiring 7"
+msgstr "7-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:38
 msgid "Activate pinned app 8"
-msgstr "Qattiqlangan ilovani faollashtiring 8"
+msgstr "8-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:42
 msgid "Activate pinned app 9"
-msgstr "Qattiqlangan ilovani faollashtiring 9"
+msgstr "9-qadalgan ilovani faollashtiring"
 
 #: data/50-gnome-shell-launchers.xml:46
 msgid "Open new window of pinned app 1"
@@ -147,7 +147,7 @@ msgstr "Barcha ilovalarni koʻrsatish"
 #: data/org.gnome.shell.gschema.xml.in:6
 msgid "Enable internal tools useful for developers and testers from Alt-F2"
 msgstr ""
-"Alt-F2-dan ishlab chiquvchilar va testerlar uchun foydali ichki vositalarni "
+"Alt-F2ʼdan ishlab chiquvchilar va testerlar uchun foydali ichki vositalarni "
 "yoqing"
 
 #: data/org.gnome.shell.gschema.xml.in:9
@@ -484,30 +484,28 @@ msgid "Open a new instance of application 9"
 msgstr "9-ilovaning yangi nusxasini oching"
 
 #: data/org.gnome.shell.gschema.xml.in:283
-#, fuzzy
-#| msgid "Brightness"
 msgid "Screen brightness up"
-msgstr "Yorqinlik"
+msgstr "Ekran yorqinligini oshirish"
 
 #: data/org.gnome.shell.gschema.xml.in:287
 msgid "Screen brightness up on current monitor"
-msgstr ""
+msgstr "Joriy monitorda ekran yorqinligi oshirish"
 
 #: data/org.gnome.shell.gschema.xml.in:291
 msgid "Screen brightness down"
-msgstr ""
+msgstr "Ekran yorqinligini pasaytirish"
 
 #: data/org.gnome.shell.gschema.xml.in:295
 msgid "Screen brightness down on current monitor"
-msgstr ""
+msgstr "Joriy monitorda ekran yorqinligi pasaytirish"
 
 #: data/org.gnome.shell.gschema.xml.in:299
 msgid "Screen brightness cycle"
-msgstr ""
+msgstr "Ekran yorqinligi davri"
 
 #: data/org.gnome.shell.gschema.xml.in:303
 msgid "Screen brightness cycle on current monitor"
-msgstr ""
+msgstr "Joriy monitordagi ekran yorqinligi davri"
 
 #: data/org.gnome.shell.gschema.xml.in:312
 #: data/org.gnome.shell.gschema.xml.in:339
@@ -585,30 +583,26 @@ msgid "Utilities"
 msgstr "Utilitalar"
 
 #: js/dbusServices/extensions/extensionPrefsDialog.js:71
-#, fuzzy
-#| msgid "Extensions"
 msgid "Extension Error"
-msgstr "Kengaytmalar"
+msgstr "Kengaytma xatoligi"
 
 #. Translators: %s is an extension name
 #: js/dbusServices/extensions/extensionPrefsDialog.js:104
 #, javascript-format
 msgid "Unable to display the settings for “%s”."
-msgstr ""
+msgstr "\"%s\" sozlamalari koʻrsatilmadi."
 
 #. Translators: Link label in the phrase "Information about this
 #. problem may be available on the extension website"
 #: js/dbusServices/extensions/extensionPrefsDialog.js:110
-#, fuzzy
-#| msgid "Extensions"
 msgid "extension website"
-msgstr "Kengaytmalar"
+msgstr "kengaytma vebsayti"
 
 #. Translators: %s is "extension website"
 #: js/dbusServices/extensions/extensionPrefsDialog.js:114
 #, javascript-format
 msgid "Information about this problem may be available on the %s."
-msgstr ""
+msgstr "Bu muammo haqidagi axborot %sʼda chiqishi mumkin."
 
 #: js/dbusServices/extensions/ui/extension-error-page.ui:19
 #: subprojects/extensions-app/data/ui/extension-row.ui:13
@@ -616,10 +610,8 @@ msgid "Error Details"
 msgstr "Xato tafsilotlari"
 
 #: js/dbusServices/extensions/ui/extension-error-page.ui:26
-#, fuzzy
-#| msgid "Show Errors"
 msgid "Copy Error"
-msgstr "Xatolarni koʻrsatish"
+msgstr "Xato xabarini nusxalash"
 
 #: js/gdm/authPrompt.js:157 js/gdm/loginDialog.js:514
 #: js/ui/audioDeviceSelection.js:60 js/ui/components/networkAgent.js:114
@@ -755,12 +747,11 @@ msgid "(or place finger on reader)"
 msgstr "(yoki barmogʻingizni oʻquvchiga qoʻying)"
 
 #: js/misc/breakManager.js:770
-#, fuzzy
 msgid "Break complete sound"
-msgstr "Toʻliq ovozni buzing"
+msgstr "Tanaffus tugash ovozi"
 
 #: js/misc/breakManager.js:980
-#, fuzzy, javascript-format
+#, javascript-format
 msgid "%d second"
 msgid_plural "%d seconds"
 msgstr[0] "%d soniya"
@@ -825,7 +816,7 @@ msgstr "Koʻrish buzilishi davom etmoqda"
 #, javascript-format
 msgid "Continue looking away for %s"
 msgid_plural "Continue looking away for %s"
-msgstr[0] "%s ga qarashda davom eting"
+msgstr[0] "%sʼga qarashda davom eting"
 
 #: js/misc/breakManager.js:1158
 msgid "Break in Progress"
@@ -837,7 +828,7 @@ msgstr "Tanaffus davom etmoqda"
 #, javascript-format
 msgid "%s left in your break"
 msgid_plural "%s left in your break"
-msgstr[0] "Tanaffusda %s qoldi"
+msgstr[0] "Tanaffusingizda %s qoldi"
 
 #: js/misc/breakManager.js:1200
 msgid "Time for a Movement Break"
@@ -1105,84 +1096,74 @@ msgstr[0] "%d yil oldin"
 #. Translators: Time in 24h format
 #: js/misc/dateUtils.js:155
 msgid "%H:%M"
-msgstr ""
+msgstr "%H:%M"
 
 #. Translators: this is the word "Yesterday" followed by a
 #. time string in 24h format. i.e. "Yesterday, 14:30"
 #: js/misc/dateUtils.js:161
-#, fuzzy, no-c-format
-#| msgid "Yesterday, %H∶%M"
+#, no-c-format
 msgid "Yesterday, %H:%M"
-msgstr "Kecha, %H∶%M"
+msgstr "Kecha %H:%M"
 
 #. Translators: this is the week day name followed by a time
 #. string in 24h format. i.e. "Monday, 14:30"
 #: js/misc/dateUtils.js:167
-#, fuzzy, no-c-format
-#| msgid "%A, %H∶%M"
+#, no-c-format
 msgid "%A, %H:%M"
-msgstr "%A, %H∶%M"
+msgstr "%A %H:%M"
 
 #. Translators: this is the month name and day number
 #. followed by a time string in 24h format.
 #. i.e. "May 25, 14:30"
 #: js/misc/dateUtils.js:173
-#, fuzzy, no-c-format
-#| msgid "%B %-d, %H∶%M"
+#, no-c-format
 msgid "%B %-d, %H:%M"
-msgstr "%B %-d, %H∶%M"
+msgstr "%-d-%B, %H:%M"
 
 #. Translators: this is the month name, day number, year
 #. number followed by a time string in 24h format.
 #. i.e. "May 25 2012, 14:30"
 #: js/misc/dateUtils.js:179
-#, fuzzy, no-c-format
-#| msgid "%B %-d %Y, %H∶%M"
+#, no-c-format
 msgid "%B %-d %Y, %H:%M"
-msgstr "%B %-d %Y, %H∶%M"
+msgstr "%-d-%B %Y, %H:%M"
 
 #. Show only the time if date is on today
 #. eslint-disable-line no-lonely-if
 #. Translators: Time in 12h format
 #: js/misc/dateUtils.js:184
-#, fuzzy
-#| msgid "%l∶%M %p"
 msgid "%l:%M %p"
-msgstr "%l∶%M %p"
+msgstr "%l:%M %p"
 
 #. Translators: this is the word "Yesterday" followed by a
 #. time string in 12h format. i.e. "Yesterday, 2:30 pm"
 #: js/misc/dateUtils.js:190
-#, fuzzy, no-c-format
-#| msgid "Yesterday, %l∶%M %p"
+#, no-c-format
 msgid "Yesterday, %l:%M %p"
-msgstr "Kecha %l∶%M %p"
+msgstr "Kecha %l:%M %p"
 
 #. Translators: this is the week day name followed by a time
 #. string in 12h format. i.e. "Monday, 2:30 pm"
 #: js/misc/dateUtils.js:196
-#, fuzzy, no-c-format
-#| msgid "%A, %l∶%M %p"
+#, no-c-format
 msgid "%A, %l:%M %p"
-msgstr "%a %l:%M %p"
+msgstr "%A, %l:%M %p"
 
 #. Translators: this is the month name and day number
 #. followed by a time string in 12h format.
 #. i.e. "May 25, 2:30 pm"
 #: js/misc/dateUtils.js:202
-#, fuzzy, no-c-format
-#| msgid "%B %-d, %l∶%M %p"
+#, no-c-format
 msgid "%B %-d, %l:%M %p"
-msgstr "%b %d %l∶%M %p"
+msgstr "%-d-%B, %l:%M %p"
 
 #. Translators: this is the month name, day number, year
 #. number followed by a time string in 12h format.
 #. i.e. "May 25 2012, 2:30 pm"
 #: js/misc/dateUtils.js:208
-#, fuzzy, no-c-format
-#| msgid "%B %-d %Y, %l∶%M %p"
+#, no-c-format
 msgid "%B %-d %Y, %l:%M %p"
-msgstr "%B %-d %Y, %l∶%M %p"
+msgstr "%-d-%B %Y, %H:%M %p"
 
 #: js/portalHelper/main.js:98
 msgid "Your connection seems to be secure"
@@ -1193,8 +1174,8 @@ msgid ""
 "Your connection to this hotspot login is not secure. Passwords or other "
 "information you enter on this page can be viewed by people nearby."
 msgstr ""
-"Ushbu hotspot loginga ulanishingiz xavfsiz emas. Ushbu sahifaga kiritgan "
-"parollar yoki boshqa maʼlumotlarni yaqin atrofdagi odamlar koʻrishi mumkin."
+"Ushbu hotspot ulanishingiz xavfsiz emas. Ushbu sahifaga kiritgan parollar "
+"yoki boshqa maʼlumotlarni yaqin atrofdagi odamlar koʻrishi mumkin."
 
 #: js/portalHelper/main.js:115
 msgid "Hotspot Login"
@@ -1231,7 +1212,7 @@ msgstr "Oldingi buyruqni bekor qilish"
 #. Translators: This is the heading of a list of open windows
 #: js/ui/appMenu.js:49
 msgid "Open Windows"
-msgstr "Windows-ni oching"
+msgstr "Windowsʼni oching"
 
 #: js/ui/appMenu.js:57
 msgid "New Window"
@@ -1239,7 +1220,7 @@ msgstr "Yangi oyna"
 
 #: js/ui/appMenu.js:84
 msgid "App Details"
-msgstr "Ilova _Tafsilotlari"
+msgstr "Ilova tafsilotlari"
 
 #: js/ui/appMenu.js:100
 msgid "Quit"
@@ -1254,16 +1235,12 @@ msgid "Pin to Dash"
 msgstr "Dash-ga mahkamlang"
 
 #: js/ui/appMenu.js:178
-#, fuzzy
-#| msgid "Launch using Integrated Graphics Card"
 msgid "Launch Using Integrated Graphics Card"
 msgstr "Oʻrnatilgan grafik karta yordamida ishga tushiring"
 
 #: js/ui/appMenu.js:179
-#, fuzzy
-#| msgid "Launch using Discrete Graphics Card"
 msgid "Launch Using Discrete Graphics Card"
-msgstr "Diskret grafik karta yordamida ishga tushiring"
+msgstr "Diskret grafik karta yordamida ishga tushirish"
 
 #: js/ui/audioDeviceSelection.js:46
 msgid "Select Audio Device"
@@ -1275,11 +1252,11 @@ msgstr "Ovoz sozlamalari"
 
 #: js/ui/audioDeviceSelection.js:75
 msgid "Headphones"
-msgstr "Naushniklar"
+msgstr "Quloqchinlar"
 
 #: js/ui/audioDeviceSelection.js:77
 msgid "Headset"
-msgstr "Eshitish vositasi"
+msgstr "Quloqchin"
 
 #: js/ui/audioDeviceSelection.js:79 js/ui/status/volume.js:367
 msgid "Microphone"
@@ -1390,7 +1367,7 @@ msgstr "Hafta %V"
 
 #: js/ui/calendar.js:773
 msgid "No Notifications"
-msgstr "_Bildirishnomalar"
+msgstr "Bildirishnomalar"
 
 #: js/ui/calendar.js:812
 msgid "Clear"
@@ -1809,9 +1786,11 @@ msgid "Install Extension"
 msgstr "Kengaytmani oʻrnatish"
 
 #: js/ui/extensionDownloader.js:287
-#, fuzzy, javascript-format
+#, javascript-format
 msgid "Download and install “%s” from extensions.gnome.org?"
-msgstr "extensions.gnome.org saytidan “%s” yuklab olib oʻrnatilsinmi?"
+msgstr ""
+"extensions.gnome.org saytidan \"%s\" kengaytmasini yuklab olish va "
+"oʻrnatishni xohlaysizmi?"
 
 #: js/ui/extensionSystem.js:354
 msgid "Extension Updates Available"
@@ -2115,10 +2094,8 @@ msgstr "Bloklash ilova tomonidan bloklangan"
 
 #. Translators: notification source name for screenshots and recordings.
 #: js/ui/screenshot.js:40
-#, fuzzy
-#| msgid "Screenshot captured"
 msgid "Screen Capture"
-msgstr "Skrinshot olindi"
+msgstr "Ekranni yozib olish"
 
 #: js/ui/screenshot.js:1266
 msgid "Selection"
@@ -2205,10 +2182,8 @@ msgstr "Skrinshot kutilmaganda tugadi"
 
 #. Translators: notification body when a screencast was recorded.
 #: js/ui/screenshot.js:2106
-#, fuzzy
-#| msgid "Click here to view the video."
 msgid "Click here to view the video"
-msgstr "Videoni koʻrish uchun shu yerni bosing."
+msgstr "Videoni koʻrish uchun bu yerga bosing"
 
 #. Translators: button on the screencast notification.
 #. Translators: button on the screenshot notification.
@@ -2230,20 +2205,16 @@ msgstr "Skrinshot olindi"
 
 #. Translators: notification body when a screenshot was captured.
 #: js/ui/screenshot.js:2349
-#, fuzzy
-#| msgid "You can paste the image from the clipboard."
 msgid "You can paste the image from the clipboard"
-msgstr "Tasvirni vaqtinchalik xotiradan joylashtirishingiz mumkin."
+msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 
 #: js/ui/screenshot.js:2407 js/ui/screenshot.js:2569
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
 #: js/ui/search.js:847
-#, fuzzy
-#| msgid "Searching…"
 msgid "Searching"
-msgstr "Qidirilmoqda…"
+msgstr "Qidirilmoqda"
 
 #: js/ui/search.js:850
 msgid "No results"
@@ -2423,10 +2394,8 @@ msgid "Keyboard"
 msgstr "Klaviatura"
 
 #: js/ui/status/backlight.js:164
-#, fuzzy
-#| msgid "Keyboard Brightness"
 msgid "Open keyboard brightness menu"
-msgstr "Klaviatura yorqinligi"
+msgstr "Klaviatura yoritish menyusini ochish"
 
 #: js/ui/status/bluetooth.js:246 js/ui/status/network.js:360
 msgid "Disconnect"
@@ -2449,10 +2418,8 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 #: js/ui/status/bluetooth.js:278
-#, fuzzy
-#| msgid "Bluetooth Settings"
 msgid "Open Bluetooth menu"
-msgstr "Bluetooth sozlamalari"
+msgstr "Bluetooth menyusini ochish"
 
 #: js/ui/status/bluetooth.js:304 js/ui/status/network.js:1925
 msgid "Bluetooth Settings"
@@ -2474,10 +2441,8 @@ msgid_plural "%d Connected"
 msgstr[0] "%d Ulandi"
 
 #: js/ui/status/brightness.js:42
-#, fuzzy
-#| msgid "Open menu"
 msgid "Open brightness menu"
-msgstr "Menyuni ochish"
+msgstr "Yorugʻlik menyusini ochish"
 
 #: js/ui/status/darkMode.js:12
 msgid "Dark Style"
@@ -2577,10 +2542,8 @@ msgid "VPN"
 msgstr "VPN"
 
 #: js/ui/status/network.js:1546
-#, fuzzy
-#| msgid "Open menu"
 msgid "Open VPN menu"
-msgstr "Menyuni ochish"
+msgstr "VPN menyusini ochish"
 
 #: js/ui/status/network.js:1547
 msgid "VPN Settings"
@@ -2588,13 +2551,11 @@ msgstr "VPN sozlamalari"
 
 #: js/ui/status/network.js:1807
 msgid "Wi–Fi"
-msgstr "Wi-fi"
+msgstr "Wi-Fi"
 
 #: js/ui/status/network.js:1808
-#, fuzzy
-#| msgid "Open menu"
 msgid "Open Wi–Fi menu"
-msgstr "Menyuni ochish"
+msgstr "Wi-Fi menyusini ochish"
 
 #: js/ui/status/network.js:1810
 msgid "All Networks"
@@ -2605,39 +2566,33 @@ msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
 #: js/ui/status/network.js:1908
-#, fuzzy
-#| msgid "Wired Connections"
 msgid "Open wired connections menu"
-msgstr "Simli ulanishlar"
+msgstr "Simli ulanishlar menyusini ochish"
 
 #: js/ui/status/network.js:1909
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
 #: js/ui/status/network.js:1923
-#, fuzzy
 msgid "Bluetooth Tethers"
-msgstr "Bluetooth ulagichlari"
+msgstr "Bluetooth tethers"
 
 #: js/ui/status/network.js:1924
-#, fuzzy
 msgid "Open Bluetooth tethers menu"
-msgstr "Bluetooth ulagichlari"
+msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
 #: js/ui/status/network.js:1931
 msgid "Tether"
-msgstr ""
+msgstr "Tether"
 
 #: js/ui/status/network.js:1944
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
 #: js/ui/status/network.js:1945
-#, fuzzy
-#| msgid "Mobile Connections"
 msgid "Open mobile connections menu"
-msgstr "Mobil ulanishlar"
+msgstr "Mobil ulanishlar menyusini ochish"
 
 #: js/ui/status/network.js:1947
 msgid "Mobile Broadband Settings"
@@ -2649,8 +2604,6 @@ msgid "Mobile"
 msgstr "Mobil"
 
 #: js/ui/status/network.js:1990
-#, fuzzy
-#| msgid "Sign Into Wi–Fi Network"
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
@@ -2684,7 +2637,7 @@ msgstr "Quvvat tejash"
 #: js/ui/status/powerProfiles.js:35
 msgctxt "Power profile"
 msgid "Custom"
-msgstr ""
+msgstr "Maxsus"
 
 #: js/ui/status/powerProfiles.js:45 js/ui/status/powerProfiles.js:77
 msgid "Power Mode"
@@ -2692,7 +2645,7 @@ msgstr "Quvvat rejimi"
 
 #: js/ui/status/powerProfiles.js:46
 msgid "Open power profiles menu"
-msgstr ""
+msgstr "Quvvat profillari menyusini ochish"
 
 #: js/ui/status/powerProfiles.js:79
 msgid "Power Settings"
@@ -2793,17 +2746,15 @@ msgstr "Ovoz chiqishi"
 
 #: js/ui/status/volume.js:310
 msgid "Open sound output menu"
-msgstr ""
+msgstr "Tovush chiqarish menyusini ochish"
 
 #: js/ui/status/volume.js:385
 msgid "Sound Input"
 msgstr "Ovoz kiritish"
 
 #: js/ui/status/volume.js:386
-#, fuzzy
-#| msgid "Open menu"
 msgid "Open sound input menu"
-msgstr "Menyuni ochish"
+msgstr "Ovoz kiritish menyusini ochish"
 
 #. Translators: this is for display mirroring i.e. cloning.
 #. * Try to keep it under around 15 characters.
@@ -3109,11 +3060,11 @@ msgstr ""
 
 #: subprojects/extensions-app/js/extensionsWindow.js:112
 msgid "_Cancel"
-msgstr "_Bekor qilish"
+msgstr "Bekor qilish"
 
 #: subprojects/extensions-app/js/extensionsWindow.js:113
 msgid "_Remove"
-msgstr "_Oʻchirish"
+msgstr "Oʻchirish"
 
 #: subprojects/extensions-app/js/extensionsWindow.js:153
 msgid "translator-credits"
@@ -3141,15 +3092,15 @@ msgstr "Kengaytma tafsilotlari"
 
 #: subprojects/extensions-app/data/ui/extension-row.ui:188
 msgid "_Website"
-msgstr "_Veb-sayt"
+msgstr "Vebsayt"
 
 #: subprojects/extensions-app/data/ui/extension-row.ui:215
 msgid "_Settings"
-msgstr "_Sozlamalar"
+msgstr "Sozlamalar"
 
 #: subprojects/extensions-app/data/ui/extension-row.ui:242
 msgid "_Remove…"
-msgstr "_Oʻchirish…"
+msgstr "Oʻchirish…"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:6
 msgid "Keyboard Shortcuts"
@@ -3168,14 +3119,12 @@ msgid "Search extensions"
 msgstr "Kengaytmalarni qidirish"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:123
-#, fuzzy
-#| msgid "Log Out…"
 msgid "_Log Out…"
 msgstr "Chiqish…"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:131
 msgid "_Extensions"
-msgstr "_Kengaytmalar"
+msgstr "Kengaytmalar"
 
 #: subprojects/extensions-app/data/ui/extensions-window.ui:136
 msgid "More Information"
@@ -3318,9 +3267,8 @@ msgid "The unique identifier of the new extension"
 msgstr "Yangi kengaytmaning noyob identifikatori"
 
 #: subprojects/extensions-tool/src/command-create.c:518
-#, fuzzy
 msgid "NAME"
-msgstr "NAME"
+msgstr "NOMI"
 
 #: subprojects/extensions-tool/src/command-create.c:519
 msgid "The user-visible name of the new extension"
@@ -3353,9 +3301,8 @@ msgid "The GSettings schema used by the extension"
 msgstr "Kengaytma tomonidan ishlatiladigan GSettings sxemasi"
 
 #: subprojects/extensions-tool/src/command-create.c:534
-#, fuzzy
 msgid "TEMPLATE"
-msgstr "TEMPLATE"
+msgstr "Shablon"
 
 #: subprojects/extensions-tool/src/command-create.c:535
 msgid "The template to use for the new extension"
@@ -3437,7 +3384,7 @@ msgstr "Mavjud kengaytmani qayta yozing"
 
 #: subprojects/extensions-tool/src/command-install.c:192
 msgid "EXTENSION_BUNDLE"
-msgstr "EXTENSION_BUNDLE"
+msgstr "EXTENSIONBUNDLE"
 
 #: subprojects/extensions-tool/src/command-install.c:201
 msgid "Install an extension bundle"
@@ -3493,9 +3440,8 @@ msgstr "Oʻrnatilgan kengaytmalar roʻyxati"
 
 #: subprojects/extensions-tool/src/command-pack.c:444
 #: subprojects/extensions-tool/src/command-upload.c:427
-#, fuzzy
 msgid "FILE"
-msgstr "FILE"
+msgstr "FAYL"
 
 #: subprojects/extensions-tool/src/command-pack.c:445
 msgid "Additional source to include in the bundle"
@@ -3528,7 +3474,7 @@ msgstr "Paket yaratilishi kerak boʻlgan katalog"
 
 #: subprojects/extensions-tool/src/command-pack.c:466
 msgid "SOURCE_DIRECTORY"
-msgstr "SOURCE_DIRECTORY"
+msgstr "SOURCEDIRECTORY"
 
 #: subprojects/extensions-tool/src/command-pack.c:475
 msgid "Create an extension bundle"
@@ -3571,65 +3517,63 @@ msgid "Uninstall an extension"
 msgstr "Kengaytmani olib tashlang"
 
 #: subprojects/extensions-tool/src/command-upload.c:226
-#, fuzzy, c-format
-#| msgid "List extensions"
+#, c-format
 msgid "Login to extensions.gnome.org\n"
-msgstr "Roʻyxat kengaytmalari"
+msgstr "extensions.gnome.org saytiga kirish\n"
 
 #: subprojects/extensions-tool/src/command-upload.c:256
 #, c-format
 msgid "Warning! Password will be echoed"
-msgstr ""
+msgstr "Ogohlantirish! Parol aks-sado beradi"
 
 #: subprojects/extensions-tool/src/command-upload.c:419
 #, fuzzy
 msgid "USERNAME"
-msgstr "NAME"
+msgstr "USERNAME"
 
 #: subprojects/extensions-tool/src/command-upload.c:421
 msgid "Username to log into https://extensions.gnome.org"
-msgstr ""
+msgstr "https://extensions.gnome.org saytiga kirish uchun foydalanuvchi nomi"
 
 #: subprojects/extensions-tool/src/command-upload.c:423
 msgid "PASSWORD"
-msgstr ""
+msgstr "PAROL"
 
 #: subprojects/extensions-tool/src/command-upload.c:425
 msgid "Password to log into https://extensions.gnome.org"
-msgstr ""
+msgstr "https://extensions.gnome.org saytiga kirish uchun parol"
 
 #: subprojects/extensions-tool/src/command-upload.c:429
 msgid "Read https://extensions.gnome.org password from file, use \"-\" for stdin"
 msgstr ""
+"Fayldan https://extensions.gnome.org parolini oʻqing, stdin uchun \"-\" "
+"belgisini ishlating"
 
 #: subprojects/extensions-tool/src/command-upload.c:432
 msgid "Accept the terms of service at https://extensions.gnome.org/upload/"
 msgstr ""
+"Xizmat shartlarini https://extensions.gnome.org/upload/ orqali qabul qiling"
 
 #: subprojects/extensions-tool/src/command-upload.c:434
-#, fuzzy
 msgid "FILE…"
-msgstr "FILE"
+msgstr "FAYl…"
 
 #: subprojects/extensions-tool/src/command-upload.c:443
-#, fuzzy
-#| msgid "Allow extension installation"
 msgid "Upload new extension versions"
-msgstr "Kengaytmani oʻrnatishga ruxsat bering"
+msgstr "Yangi kengaytma versiyalarini yuklash"
 
 #: subprojects/extensions-tool/src/command-upload.c:461
 msgid "Only one of --password and --password-file can be used"
-msgstr ""
+msgstr "Faqat --parol va --parol faylidan birini ishlatish mumkins"
 
 #: subprojects/extensions-tool/src/command-upload.c:467
 msgid "You must accept the terms of service to upload extensions"
 msgstr ""
+"Kengaytmalarni yuklash uchun xizmat shartlarini qabul qilishingiz kerak"
 
 #: subprojects/extensions-tool/src/command-upload.c:473
-#, fuzzy
-#| msgid "No UUID given"
 msgid "No files given"
-msgstr "UUID berilmagan"
+msgstr "Hech qanday fayl berilmagan"
 
 #: subprojects/extensions-tool/src/main.c:76
 msgid "Do not print error messages"

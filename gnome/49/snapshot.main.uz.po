@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: snapshot main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/snapshot/-/issues\n"
-"POT-Creation-Date: 2025-12-13 22:33+0000\n"
+"POT-Creation-Date: 2025-12-27 21:21+0000\n"
 "PO-Revision-Date: 2025-04-03 08:41+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: data/org.gnome.Snapshot.desktop.in.in:2
 #: data/resources/org.gnome.Snapshot.metainfo.xml.in.in:7
-#: data/resources/ui/window.ui:4 data/resources/ui/window.ui:11 src/main.rs:24
+#: data/resources/ui/window.ui:4 data/resources/ui/window.ui:11 src/main.rs:23
 msgid "Camera"
 msgstr "Kamera"
 
@@ -235,7 +235,7 @@ msgstr "Keyingi rasm"
 msgid "Previous Image"
 msgstr "Oldingi rasm"
 
-#: data/resources/ui/gallery.ui:81 src/widgets/gallery.rs:139
+#: data/resources/ui/gallery.ui:81
 msgid "Open in Image Viewer"
 msgstr "Rasmlarni koʻrish dasturida oching"
 
@@ -383,48 +383,48 @@ msgstr "JPEG"
 
 #. TRANSLATORS Do NOT translate {date}. This will appear as, e.g. "Photo
 #. from 2023-05-21 11-05-59.12345" and it will be used as a file name.
-#: src/utils.rs:23
+#: src/utils.rs:22
+#, rust-format
 msgid "Photo from {date}"
 msgstr "{date} dan surat"
 
 #. TRANSLATORS Do NOT translate {number}. This will appear as, e.g.
 #. "Photo 12345" and it will be used as a file name.
 #: src/utils.rs:28
+#, rust-format
 msgid "Photo {number}"
 msgstr "Surat {number}"
 
 #. TRANSLATORS Do NOT translate {date}. This will appear as, e.g.
 #. "Recording from 2023-05-21 11-05-59.12345" and it will be used as a
 #. file name.
-#: src/utils.rs:41
+#: src/utils.rs:42
+#, rust-format
 msgid "Recording from {date}"
 msgstr "{date} dan yozib olinmoqda"
 
 #. TRANSLATORS Do NOT translate {number}. This will appear as, e.g.
 #. "Recording 12345" and it will be used as a file name.
-#: src/utils.rs:46
+#: src/utils.rs:48
+#, rust-format
 msgid "Recording {number}"
 msgstr "Yozilmoqda: {number}"
 
-#: src/utils.rs:136
+#: src/utils.rs:139
 msgid "_Copy Picture"
 msgstr "_Rasmni nusxalash"
 
-#: src/utils.rs:138
+#: src/utils.rs:141
 msgid "_Copy Video"
 msgstr "_Videoni nusxalash"
 
-#: src/utils.rs:140
+#: src/utils.rs:143
 msgid "_Delete"
 msgstr "_Oʻchirish"
 
 #: src/widgets/camera.rs:613
 msgid "Could not play camera stream"
 msgstr "Kamera oqimini oʻynatib boʻlmadi"
-
-#: src/widgets/gallery.rs:141
-msgid "Open in Video Player"
-msgstr "Video pleerda oching"
 
 #: src/widgets/gallery.rs:420 src/widgets/qr_bottom_sheet.rs:104
 msgid "Copied to clipboard"
@@ -450,11 +450,11 @@ msgstr "Yozishni boshlang"
 msgid "Stop Recording"
 msgstr "Yozishni toʻxtating"
 
-#: src/widgets/window.rs:107 src/widgets/window.rs:363
+#: src/widgets/window.rs:107
 msgid "Could not take picture"
 msgstr "Rasmga tushirib boʻlmadi"
 
-#: src/widgets/window.rs:111 src/widgets/window.rs:367
+#: src/widgets/window.rs:111
 msgid "Could not record video"
 msgstr "Video yozib boʻlmadi"
 
@@ -467,3 +467,6 @@ msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
 #~ msgid "Whether to save videos as mp4 or webm"
 #~ msgstr "Videolarni mp4 yoki webm sifatida saqlash kerakmi"
+
+#~ msgid "Open in Video Player"
+#~ msgstr "Video pleerda oching"

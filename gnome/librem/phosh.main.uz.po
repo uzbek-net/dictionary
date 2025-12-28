@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-12-15 18:28+0000\n"
+"POT-Creation-Date: 2025-12-24 16:01+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -156,11 +156,11 @@ msgstr "Yangi jild yarating"
 msgid "Application"
 msgstr "Ilovani oʻrnating (ilova identifikatori yordamida)"
 
-#: src/app-grid.c:261
+#: src/app-grid.c:264
 msgid "Show All Apps"
 msgstr "Barcha ilovalarni koʻrsatish"
 
-#: src/app-grid.c:264
+#: src/app-grid.c:267
 msgid "Show Only Mobile Friendly Apps"
 msgstr "Faqat mobil ilovalarni koʻrsatish"
 

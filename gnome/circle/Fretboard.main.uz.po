@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fretboard main\n"
 "Report-Msgid-Bugs-To: https://github.com/bragefuglseth/fretboard/issues\n"
-"POT-Creation-Date: 2025-12-20 15:26+0000\n"
+"POT-Creation-Date: 2025-04-13 23:39+0000\n"
 "PO-Revision-Date: 2025-10-13 11:09+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -126,18 +126,21 @@ msgid "Move Down"
 msgstr "Pastga siljitish"
 
 #: src/widgets/chord_diagram_top_toggle.rs:168
+#, rust-format
 msgid "Not Open ({})"
 msgstr "Ochilmagan ({})"
 
 #. translators: The text between the `{}` markers is the note of the muted
 #. string.
 #: src/widgets/chord_diagram_top_toggle.rs:171
+#, rust-format
 msgid "Muted ({})"
 msgstr "Ovozsiz ({})"
 
 #. translators: The text between the `{}` markers is the note of the open
 #. string. "Open" is an adjective, not a verb.
 #: src/widgets/chord_diagram_top_toggle.rs:175
+#, rust-format
 msgid "Open ({})"
 msgstr "Ochish ({})"
 
@@ -211,6 +214,7 @@ msgstr "Xatchoʻp"
 #. translators: The text between the `{}` markers becomes a link to the app's
 #. issue tracker. Include both of the markers.
 #: src/widgets/window.rs:310
+#, rust-format
 msgid ""
 "There are no chords with this name in Fretboard’s built-in chord set. If you"
 " think there should be, {}reach out{}."
