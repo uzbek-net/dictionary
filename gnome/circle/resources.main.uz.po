@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2025-12-26 01:21+0000\n"
+"POT-Creation-Date: 2025-12-30 06:46+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -912,22 +912,14 @@ msgstr "Qidirish"
 msgid "Toggle search field"
 msgstr "Qidiruv maydonini almashtirish"
 
-#: src/application.rs:282
-msgid "Report Issues"
-msgstr "Hisobot muammolari"
-
 #. Translator credits. Replace "translator-credits" with your name/username,
 #. and optionally an email or URL.
 #. One name per line, please do not remove previous names.
-#: src/application.rs:288
+#: src/application.rs:285
 msgid "translator-credits"
 msgstr ""
 "BeMeritus <bemerituss@gmail.com>\n"
 "Baxrom Raxmatov"
-
-#: src/application.rs:289
-msgid "Icon by"
-msgstr "Belgi"
 
 #: src/ui/dialogs/app_dialog.rs:155 src/ui/dialogs/process_dialog.rs:133
 #: src/ui/dialogs/process_dialog.rs:137 src/ui/dialogs/process_dialog.rs:146
@@ -2063,3 +2055,9 @@ msgstr "WWAN ulanishi"
 
 #~ msgid "The Nalux Team"
 #~ msgstr "Nalux jamoasi"
+
+#~ msgid "Report Issues"
+#~ msgstr "Hisobot muammolari"
+
+#~ msgid "Icon by"
+#~ msgstr "Belgi"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: loupe main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/loupe/-/issues\n"
-"POT-Creation-Date: 2025-12-15 22:34+0000\n"
+"POT-Creation-Date: 2026-01-01 21:17+0000\n"
 "PO-Revision-Date: 2025-04-04 11:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -349,6 +349,7 @@ msgstr "E"
 msgid "W"
 msgstr "CH"
 
+#. / Returns localized date + time format
 #. Translators: This is the date and time format we use in metadata output
 #. etc.
 #. The format has to follow
@@ -356,11 +357,10 @@ msgstr "CH"
 #. The default is already translated. Don't change if you are not sure what to
 #. use.
 #: src/util.rs:39
-#, c-format
 msgid "%x %X"
 msgstr "%x %X"
 
-#: src/util.rs:182 src/widgets/image_window.rs:646
+#: src/util.rs:182
 msgid "Failed to restore image from trash"
 msgstr "Chiqindidan rasmni tiklab boʻlmadi"
 
@@ -480,6 +480,7 @@ msgstr "Maydon oʻlchami"
 #. Translators: Filename suffix
 #. Translators: Filename suffix, {} is replaced by a number
 #: src/widgets/edit_window.rs:196 src/widgets/edit_window.rs:199
+#, rust-format
 msgid " (Edited)"
 msgid_plural " (Edited {})"
 msgstr[0] " (tahrirlangan)"
@@ -564,6 +565,7 @@ msgid "Report _Issue"
 msgstr "_Muammo haqida xabar berish"
 
 #: src/widgets/image_page.rs:227
+#, rust-format
 msgid ""
 "No image loaders available. Maybe the “glycin-loaders” package with "
 "compatibility version “{}” is not installed."
@@ -572,10 +574,12 @@ msgstr ""
 "ega \"glisin-loaders\" toʻplami oʻrnatilmagan."
 
 #: src/widgets/image_page.rs:242
+#, rust-format
 msgid "The image format “{} ({})” is known but not installed."
 msgstr "“{} ({})” tasvir formati maʼlum, lekin oʻrnatilmagan."
 
 #: src/widgets/image_page.rs:249
+#, rust-format
 msgid "Unknown image format “{} ({}).”"
 msgstr "Noma’lum rasm formati “{} ({}).”"
 
@@ -628,10 +632,6 @@ msgstr "Chapga aylantiring"
 #: src/widgets/image_page.ui:133 src/widgets/image_window.ui:111
 msgid "Rotate Right"
 msgstr "Oʻngga aylantiring"
-
-#: src/widgets/image_view.rs:197
-msgid "{} %"
-msgstr "{}%"
 
 #. Translators: This is a toast notification, informing the user that
 #. an image has been set as background.
@@ -708,6 +708,7 @@ msgid "Permanently Delete Image?"
 msgstr "Rasm butunlay oʻchirilsinmi?"
 
 #: src/widgets/image_window.rs:687
+#, rust-format
 msgid "After deleting the image “{}” it will be permanently lost."
 msgstr "“{}” tasviri oʻchirilgandan soʻng u butunlay yoʻqoladi."
 
@@ -808,6 +809,8 @@ msgstr "px"
 
 #. Translators: {} is a placeholder for the filename
 #: src/widgets/print.rs:361
+#, fuzzy, rust-format
+#| msgid "Print “{}”"
 msgid "Print “{}”"
 msgstr "_Chop etish…"
 
@@ -987,3 +990,6 @@ msgstr "Ishlab chiqaruvchi, model"
 #: src/widgets/window.rs:212
 msgid "Show Details"
 msgstr "Tafsilotlarni koʻrsatish"
+
+#~ msgid "{} %"
+#~ msgstr "{}%"

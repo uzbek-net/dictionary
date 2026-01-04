@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: baobab main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/baobab/issues/\n"
-"POT-Creation-Date: 2025-12-10 11:19+0000\n"
+"POT-Creation-Date: 2025-12-28 09:39+0000\n"
 "PO-Revision-Date: 2025-04-16 07:48+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -97,51 +97,6 @@ msgstr "Kattalashtirilgan oyna"
 #: data/org.gnome.baobab.gschema.xml:31
 msgid "Whether or not the window is maximized"
 msgstr "Oyna kattalashtiriladimi yoki yoʻqmi"
-
-#: data/gtk/help-overlay.ui:11
-msgctxt "shortcut window"
-msgid "General"
-msgstr "Asosiy"
-
-#: data/gtk/help-overlay.ui:15
-msgctxt "shortcut window"
-msgid "Show help"
-msgstr "Yordam koʻrsatish"
-
-#: data/gtk/help-overlay.ui:21
-msgctxt "shortcut window"
-msgid "Show / Hide primary menu"
-msgstr "Asosiy menyuni koʻrsatish/yashirish"
-
-#: data/gtk/help-overlay.ui:27
-msgctxt "shortcut window"
-msgid "Quit"
-msgstr "Chiqish"
-
-#: data/gtk/help-overlay.ui:33
-msgctxt "shortcut window"
-msgid "Show Keyboard Shortcuts"
-msgstr "Klaviatura tezkor tugmalarini koʻrsatish"
-
-#: data/gtk/help-overlay.ui:39
-msgctxt "shortcut window"
-msgid "Show preferences"
-msgstr "Sozlamalarni koʻrsatish"
-
-#: data/gtk/help-overlay.ui:46
-msgctxt "shortcut window"
-msgid "Scanning"
-msgstr "Skanerlash"
-
-#: data/gtk/help-overlay.ui:50
-msgctxt "shortcut window"
-msgid "Scan folder"
-msgstr "Jildni skanerlash"
-
-#: data/gtk/help-overlay.ui:56
-msgctxt "shortcut window"
-msgid "Rescan current location"
-msgstr "Joriy joylashuvni boshqatdan skaner qilish"
 
 #: data/gtk/menus.ui:7 data/ui/baobab-treeview-menu.ui:6
 msgid "_Open Externally"
@@ -250,6 +205,76 @@ msgstr "_Blokli diagramma"
 #: data/ui/baobab-preferences-dialog.ui:11
 msgid "Locations to Ignore"
 msgstr "E’tiborga olinmaydigan manzillar"
+
+#: data/ui/shortcuts-dialog.ui:6
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "General"
+msgctxt "shortcuts dialog"
+msgid "General"
+msgstr "Asosiy"
+
+#: data/ui/shortcuts-dialog.ui:10
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Show help"
+msgctxt "shortcuts dialog"
+msgid "Show Help"
+msgstr "Yordam koʻrsatish"
+
+#: data/ui/shortcuts-dialog.ui:16
+#, fuzzy
+#| msgid "Main Menu"
+msgctxt "shortcuts dialog"
+msgid "Open Main Menu"
+msgstr "Asosiy menyu"
+
+#: data/ui/shortcuts-dialog.ui:22
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Quit"
+msgctxt "shortcuts dialog"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/ui/shortcuts-dialog.ui:28
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Show Keyboard Shortcuts"
+msgctxt "shortcuts dialog"
+msgid "Show Keyboard Shortcuts"
+msgstr "Klaviatura tezkor tugmalarini koʻrsatish"
+
+#: data/ui/shortcuts-dialog.ui:34
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Show preferences"
+msgctxt "shortcuts dialog"
+msgid "Show Preferences"
+msgstr "Sozlamalarni koʻrsatish"
+
+#: data/ui/shortcuts-dialog.ui:41
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Scanning"
+msgctxt "shortcuts dialog"
+msgid "Scanning"
+msgstr "Skanerlash"
+
+#: data/ui/shortcuts-dialog.ui:45
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Scan folder"
+msgctxt "shortcuts dialog"
+msgid "Scan Folder"
+msgstr "Jildni skanerlash"
+
+#: data/ui/shortcuts-dialog.ui:51
+#, fuzzy
+#| msgid "Rescan Current Location"
+msgctxt "shortcuts dialog"
+msgid "Rescan Current Location"
+msgstr "Joriy joylashuvni boshqatdan tahlil qilish"
 
 #: src/baobab-application.vala:33
 msgid ""
@@ -379,3 +404,11 @@ msgstr "“%s” skanerlash yakunlandi"
 #, c-format
 msgid "“%s” is not a valid folder"
 msgstr "“%s” yaroqli jild emas"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Show / Hide primary menu"
+#~ msgstr "Asosiy menyuni koʻrsatish/yashirish"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Rescan current location"
+#~ msgstr "Joriy joylashuvni boshqatdan skaner qilish"

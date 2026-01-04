@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2025-12-15 13:37+0000\n"
+"POT-Creation-Date: 2025-12-31 13:23+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -111,9 +111,25 @@ msgstr "Yoqilgʻi oʻlchagich"
 msgid "Battery"
 msgstr "Batareya"
 
-#: src/conf-tweaks/ms-tweaks-callback-handlers.c:47
+#: src/conf-tweaks/ms-tweaks-callback-handlers.c:61
 #, c-format
 msgid "Something went wrong: %s"
+msgstr ""
+
+#: src/conf-tweaks/ms-tweaks-preferences-page.c:479
+msgid "Authentication cancelled"
+msgstr ""
+
+#. We had errors while running the commands, so inform the user of this.
+#: src/conf-tweaks/ms-tweaks-preferences-page.c:484
+#, c-format
+msgid "%i error occurred while saving"
+msgid_plural "%i errors occurred while saving"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/conf-tweaks/ms-tweaks-preferences-page.c:891
+msgid "You need to authenticate as administrator to save some settings"
 msgstr ""
 
 #: src/gtk/help-overlay.ui:11

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-font-viewer main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-font-viewer/issues/\n"
-"POT-Creation-Date: 2025-12-10 16:29+0000\n"
+"POT-Creation-Date: 2026-01-03 21:57+0000\n"
 "PO-Revision-Date: 2025-04-04 11:26+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -17,18 +17,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.6\n"
 
-#: data/org.gnome.font-viewer.appdata.xml.in:6
-#: data/org.gnome.font-viewer.desktop.in.in:2 src/font-view-application.c:124
-#: src/font-view-application.c:150
+#: data/org.gnome.font-viewer.desktop.in.in:2
+#: data/org.gnome.font-viewer.metainfo.xml.in:6
+#: src/font-view-application.c:124 src/font-view-application.c:150
 msgid "Fonts"
 msgstr "Shriftlar"
 
-#: data/org.gnome.font-viewer.appdata.xml.in:7
 #: data/org.gnome.font-viewer.desktop.in.in:3
+#: data/org.gnome.font-viewer.metainfo.xml.in:7
 msgid "View fonts on your system"
 msgstr "Tizimingizda shriftlarni koʻring"
 
-#: data/org.gnome.font-viewer.appdata.xml.in:9
+#. Translators: Search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.font-viewer.desktop.in.in:5
+msgid "fonts;fontface;"
+msgstr "shriftlar;shrift yuzi;"
+
+#: data/org.gnome.font-viewer.metainfo.xml.in:9
 msgid ""
 "Fonts shows you the fonts installed on your computer for your use as "
 "thumbnails. Selecting any thumbnails shows the full view of how the font "
@@ -38,7 +44,7 @@ msgstr ""
 "shriftlarni koʻrsatadi. Har qanday eskizni tanlash shriftning turli "
 "oʻlchamlarda qanday koʻrinishini toʻliq koʻrinishini koʻrsatadi."
 
-#: data/org.gnome.font-viewer.appdata.xml.in:15
+#: data/org.gnome.font-viewer.metainfo.xml.in:15
 msgid ""
 "Fonts also supports installing new font files downloaded in the .ttf and "
 "other formats. Fonts may be installed only for your use or made available to"
@@ -50,16 +56,10 @@ msgstr ""
 "foydalanuvchilarga taqdim etilishi mumkin."
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.font-viewer.appdata.xml.in:22
+#: data/org.gnome.font-viewer.metainfo.xml.in:22
 #: src/font-view-application.c:126
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
-
-#. Translators: Search terms to find this application. Do NOT translate or
-#. localize the semicolons! The list MUST also end with a semicolon!
-#: data/org.gnome.font-viewer.desktop.in.in:5
-msgid "fonts;fontface;"
-msgstr "shriftlar;shrift yuzi;"
 
 #: src/font-thumbnailer.c:181
 msgid "Text to thumbnail (default: Aa)"
@@ -81,7 +81,7 @@ msgstr "SIZE"
 msgid "FONT-FILE OUTPUT-FILE"
 msgstr "SHIFT-FILE OUTPUT-FILE"
 
-#: src/font-view-application.c:79 src/font-view-window.c:744
+#: src/font-view-application.c:79 src/font-view-window.c:728
 msgid "Could Not Display Font"
 msgstr "Shriftni koʻrsatib boʻlmadi"
 
@@ -89,19 +89,19 @@ msgstr "Shriftni koʻrsatib boʻlmadi"
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: src/font-view-window.c:120
+#: src/font-view-window.c:104
 msgid "Failed"
 msgstr "Muvaffaqiyatsiz"
 
-#: src/font-view-window.c:128
+#: src/font-view-window.c:112
 msgid "Installed"
 msgstr "Oʻrnatilgan"
 
-#: src/font-view-window.c:133
+#: src/font-view-window.c:117
 msgid "Installing"
 msgstr "Oʻrnatilmoqda"
 
-#: src/font-view-window.c:136 src/font-view-window.ui:176
+#: src/font-view-window.c:120 src/font-view-window.ui:174
 msgid "_Install"
 msgstr "_Oʻrnatish"
 
@@ -109,92 +109,92 @@ msgstr "_Oʻrnatish"
 #. * a 'font variation axis'. The %s gets replaced with the name
 #. * of the axis, for example 'Width'. The three %g get replaced
 #. * with the minimum, maximum and default values for the axis.
-#: src/font-view-window.c:250
+#: src/font-view-window.c:234
 #, c-format
 msgid "%s %g — %g, default %g"
 msgstr "%s %g — %g, standart %g"
 
-#: src/font-view-window.c:305
+#: src/font-view-window.c:289
 #, c-format
 msgid "Instance %d"
 msgstr "%d misol"
 
 #. Translators, this seperates the list of Layout
 #. * Features.
-#: src/font-view-window.c:343
+#: src/font-view-window.c:327
 msgctxt "OpenType layout"
 msgid ", "
 msgstr ", "
 
-#: src/font-view-window.c:372
+#: src/font-view-window.c:356
 msgid "Name"
 msgstr "Ism"
 
-#: src/font-view-window.c:375
+#: src/font-view-window.c:359
 msgid "Location"
 msgstr "Joylashuvi"
 
-#: src/font-view-window.c:378
+#: src/font-view-window.c:362
 msgid "Style"
 msgstr "Stil"
 
-#: src/font-view-window.c:388
+#: src/font-view-window.c:372
 msgid "Type"
 msgstr "Turi"
 
-#: src/font-view-window.c:454 src/font-view-window.c:480
+#: src/font-view-window.c:438 src/font-view-window.c:464
 msgid "Version"
 msgstr "Versiya"
 
-#: src/font-view-window.c:458 src/font-view-window.c:485
+#: src/font-view-window.c:442 src/font-view-window.c:469
 msgid "Copyright"
 msgstr "Mualliflik huquqi"
 
-#: src/font-view-window.c:462
+#: src/font-view-window.c:446
 msgid "Description"
 msgstr "Ta'rif"
 
-#: src/font-view-window.c:466
+#: src/font-view-window.c:450
 msgid "Manufacturer"
 msgstr "Ishlab chiqaruvchi"
 
-#: src/font-view-window.c:470
+#: src/font-view-window.c:454
 msgid "Designer"
 msgstr "Dizayner"
 
-#: src/font-view-window.c:474
+#: src/font-view-window.c:458
 msgid "License"
 msgstr "Litsenziya"
 
-#: src/font-view-window.c:499
+#: src/font-view-window.c:483
 msgid "Glyph Count"
 msgstr "Gliflar soni"
 
-#: src/font-view-window.c:501
+#: src/font-view-window.c:485
 msgid "Color Glyphs"
 msgstr "Rangli gliflar"
 
-#: src/font-view-window.c:502
+#: src/font-view-window.c:486
 msgid "yes"
 msgstr "ha"
 
-#: src/font-view-window.c:502
+#: src/font-view-window.c:486
 msgid "no"
 msgstr "yoʻq"
 
-#: src/font-view-window.c:506
+#: src/font-view-window.c:490
 msgid "Layout Features"
 msgstr "Joylashtirish xususiyatlari"
 
-#: src/font-view-window.c:512
+#: src/font-view-window.c:496
 msgid "Variation Axes"
 msgstr "Variatsiya oʻqlari"
 
-#: src/font-view-window.c:519
+#: src/font-view-window.c:503
 msgid "Named Styles"
 msgstr "Nomlangan uslublar"
 
-#: src/font-view-window.c:560 src/font-view-window.c:663
+#: src/font-view-window.c:544 src/font-view-window.c:647
 msgid "Could Not Install Font"
 msgstr "Shriftni oʻrnatib boʻlmadi"
 
@@ -214,19 +214,19 @@ msgstr "Shriftlar haqida"
 msgid "Search fonts"
 msgstr "Shriftlarni qidirish"
 
-#: src/font-view-window.ui:179
+#: src/font-view-window.ui:177
 msgid "Install Font"
 msgstr "Shriftni oʻrnating"
 
-#: src/font-view-window.ui:184
+#: src/font-view-window.ui:182
 msgid "I_nfo"
 msgstr "I_nfo"
 
-#: src/font-view-window.ui:186
+#: src/font-view-window.ui:184
 msgid "Font Details"
 msgstr "Shrift tafsilotlari"
 
-#: src/font-view-window.ui:232
+#: src/font-view-window.ui:230
 msgid "_Close"
 msgstr "_Yopish"
 

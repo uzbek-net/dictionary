@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2025-12-28 01:52+0000\n"
+"POT-Creation-Date: 2026-01-03 02:53+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -1179,7 +1179,7 @@ msgstr "Barchasini tanlash"
 #. Translators: %2$s is the name of a removable drive, %1$s is a folder
 #. on that removable drive.
 #. translators: this is "folder-name on server-host"
-#: libdeja/BackendDrive.vala:75 libdeja/CommonUtils.vala:551
+#: libdeja/BackendDrive.vala:75 libdeja/CommonUtils.vala:553
 #, c-format
 msgid "%1$s on %2$s"
 msgstr "%1$s %2$sʼda"
@@ -1189,7 +1189,7 @@ msgstr "%1$s %2$sʼda"
 msgid "Backup will begin when %s is connected."
 msgstr "Zaxiralash %s ulanganida boshlanadi."
 
-#: libdeja/BackendDrive.vala:251 libdeja/BackendRemote.vala:172
+#: libdeja/BackendDrive.vala:251 libdeja/BackendRemote.vala:230
 msgid "Storage location not available"
 msgstr "Saqlash manzili mavjud emas"
 
@@ -1293,24 +1293,7 @@ msgstr "Rcloneda oldin Rclone masofaviy ʻ%sʻ sozlanishi kerak."
 msgid "The network server is not available"
 msgstr "Tarmoq serveri ishlamayapti"
 
-#: libdeja/BackendRemote.vala:162
-msgid ""
-"You must first install FUSE support for GVfs, likely provided by the gvfs-"
-"fuse package. Then log out, log back in, and try again."
-msgstr ""
-"Avval GVfs uchun FUSE qoʻllab-quvvatlovini oʻrnatishingiz kerak, katta "
-"ehtimol bilan gvfs-fuse paketi tomonidan taqdim etiladi. Keyin hisobingizdan"
-" chiqing, qayta kiring va qayta urining."
-
-#: libdeja/BackendRemote.vala:173
-msgid "Waiting for a network connection…"
-msgstr "Tarmoqqa ulanish kutilmoqda…"
-
-#: libdeja/BackendRemote.vala:185
-msgid "Could not mount storage location."
-msgstr "Saqlash joyini oʻrnatib boʻlmadi."
-
-#: libdeja/BackendRemote.vala:189
+#: libdeja/BackendRemote.vala:164
 msgid ""
 "The server’s network location needs to be specified in the storage location "
 "preferences."
@@ -1318,13 +1301,19 @@ msgstr ""
 "Serverning tarmoq joylashuvi xotira manzili afzalliklarida koʻrsatilishi "
 "kerak."
 
-#: libdeja/BackendRemote.vala:194
+#: libdeja/BackendRemote.vala:170
 #, c-format
 msgid ""
 "The server’s network location ‘%s’ does not look like a network location."
 msgstr "Serverning ʻ%sʻ tarmoq joylashuvi tarmoq manziliga oʻxshamaydi."
 
-#: libdeja/BackendRemote.vala:205
+#: libdeja/BackendRemote.vala:177
+msgid ""
+"HTTP network locations are not supported. If you want to connect to a WebDAV"
+" server, use `davs://` or `dav://` instead."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:190
 #, c-format
 msgid "‘%s’ does not appear to be a network location."
 msgstr "‘%s’ tarmoq manzili emas."
@@ -1333,7 +1322,7 @@ msgstr "‘%s’ tarmoq manzili emas."
 #. specific backend we need isn't installed - for whatever reason, the
 #. real scheme isn't being used and a path like the following is being
 #. used instead: file:///home/xxx/ftp:/example.com/
-#: libdeja/BackendRemote.vala:214
+#: libdeja/BackendRemote.vala:200
 #, c-format
 msgid ""
 "You must first install a gvfs backend that can connect to ‘%s’ network "
@@ -1345,29 +1334,46 @@ msgstr ""
 #. Special sanity check for some edge cases like smb:// where if the user
 #. just puts in smb://server/ as the root, GIO thinks it's a valid root,
 #. but the share never ends up mounted.
-#: libdeja/BackendRemote.vala:222
+#: libdeja/BackendRemote.vala:209
 msgid "Samba network locations must include both a hostname and a share name."
 msgstr ""
 "Samba tarmogʻining joylashuvi ham host nomini, ham ulashish nomini oʻz "
 "ichiga olishi kerak."
 
+#: libdeja/BackendRemote.vala:220
+msgid ""
+"You must first install FUSE support for GVfs, likely provided by the gvfs-"
+"fuse package. Then log out, log back in, and try again."
+msgstr ""
+"Avval GVfs uchun FUSE qoʻllab-quvvatlovini oʻrnatishingiz kerak, katta "
+"ehtimol bilan gvfs-fuse paketi tomonidan taqdim etiladi. Keyin hisobingizdan"
+" chiqing, qayta kiring va qayta urining."
+
+#: libdeja/BackendRemote.vala:231
+msgid "Waiting for a network connection…"
+msgstr "Tarmoqqa ulanish kutilmoqda…"
+
+#: libdeja/BackendRemote.vala:243
+msgid "Could not mount storage location."
+msgstr "Saqlash joyini oʻrnatib boʻlmadi."
+
 #. Translators: this is the home folder and %s is the user's username
-#: libdeja/CommonUtils.vala:607
+#: libdeja/CommonUtils.vala:610
 #, c-format
 msgid "Home (%s)"
 msgstr "Uy (%s)"
 
 #. Translators: this is the home folder
-#: libdeja/CommonUtils.vala:612
+#: libdeja/CommonUtils.vala:615
 msgid "Home"
 msgstr "Uy"
 
 #. Translators: this is the trash folder
-#: libdeja/CommonUtils.vala:617
+#: libdeja/CommonUtils.vala:620
 msgid "Trash"
 msgstr "Chiqindi"
 
-#: libdeja/CommonUtils.vala:681
+#: libdeja/CommonUtils.vala:684
 msgid "Backup encryption password"
 msgstr "Zaxira shifrlash paroli"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-desktop\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-desktop/issues/\n"
-"POT-Creation-Date: 2025-12-22 15:36+0000\n"
+"POT-Creation-Date: 2025-12-30 17:41+0000\n"
 "PO-Revision-Date: 2025-03-22 19:49+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: uzbek\n"
@@ -43,52 +43,52 @@ msgstr "“%s” jildini yaratib boʻlmadi"
 msgid "The output folder '%s' is not writable"
 msgstr "“%s” jildini yaratib boʻlmadi"
 
-#: libgnome-desktop/gnome-languages.c:698
+#: libgnome-desktop/gnome-languages.c:700
 msgid "Unspecified"
 msgstr "Aniqlanmagan"
 
 #. TRANSLATORS: Used to distinguish the labels representing the gez_ER
 #. and gez_ET locales from gez_ER@abegede respective gez_ET@abegede. The
 #. difference is related to collation.
-#: libgnome-desktop/gnome-languages.c:1364
+#: libgnome-desktop/gnome-languages.c:1366
 msgid "Abegede"
 msgstr "Abegede"
 
 #. TRANSLATORS: Used to distinguish Cyrillic from Latin written language
 #. variants.
-#: libgnome-desktop/gnome-languages.c:1366
+#: libgnome-desktop/gnome-languages.c:1368
 msgid "Cyrillic"
 msgstr "Kirill alifbosi"
 
 #. TRANSLATORS: Also known as "Nagari", a written variant for many languages
 #. of the Indian subcontinent. See:
 #. https://en.wikipedia.org/wiki/Devanagari
-#: libgnome-desktop/gnome-languages.c:1370
+#: libgnome-desktop/gnome-languages.c:1372
 msgid "Devanagari"
 msgstr "Devanagari"
 
 #. TRANSLATORS: Used to distinguish the label representing the tt_RU
 #. locale from tt_RU@iqtelif. It's a special alphabet for Tatar.
-#: libgnome-desktop/gnome-languages.c:1373
+#: libgnome-desktop/gnome-languages.c:1375
 msgid "IQTElif"
 msgstr "IQTElif"
 
 #. TRANSLATORS: The alphabet/script, not the language. Used to distinguish
 #. Latin from Cyrillic written language variants.
-#: libgnome-desktop/gnome-languages.c:1376
+#: libgnome-desktop/gnome-languages.c:1378
 msgid "Latin"
 msgstr "Lotin"
 
 #. TRANSLATORS: "Saho" is a variant of the Afar language. Used to
 #. distinguish the label representing the aa_ER locale from aa_ER@saaho.
-#: libgnome-desktop/gnome-languages.c:1379
+#: libgnome-desktop/gnome-languages.c:1381
 msgid "Saho"
 msgstr "Saho"
 
 #. TRANSLATORS: "Valencia" is a dialect of the Catalan language spoken
 #. in Valencia. Used to distinguish the label representing the ca_ES
 #. locale from ca_ES@valencia.
-#: libgnome-desktop/gnome-languages.c:1383
+#: libgnome-desktop/gnome-languages.c:1385
 msgid "Valencia"
 msgstr "Valencia"
 

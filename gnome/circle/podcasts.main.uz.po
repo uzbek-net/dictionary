@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: podcasts main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/podcasts/issues\n"
-"POT-Creation-Date: 2025-12-26 12:54+0000\n"
+"POT-Creation-Date: 2025-12-28 11:27+0000\n"
 "PO-Revision-Date: 2025-10-24 13:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -520,8 +520,8 @@ msgstr "Podkastlar haqida"
 #. Weird magic I copy-pasted that sets the Application Name in the Shell.
 #: podcasts-gtk/resources/gtk/window.ui:39
 #: podcasts-gtk/resources/gtk/window.ui:106
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:4
 #: podcasts-gtk/resources/org.gnome.Podcasts.desktop.in.in:2
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:4
 #: podcasts-gtk/src/app.rs:629 podcasts-gtk/src/widgets/aboutdialog.rs:56
 #: podcasts-gtk/src/widgets/player.rs:408
 msgid "Podcasts"
@@ -539,54 +539,6 @@ msgstr "Asosiy Menyu"
 #: podcasts-gtk/resources/gtk/window.ui:141
 msgid "Show"
 msgstr "Koʻrsatish"
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:8
-msgid "Listen to your favorite shows"
-msgstr "Sevimli shoularingizni tinglang"
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:10
-msgid ""
-"Play, update, and manage your podcasts from a lightweight interface that "
-"seamlessly integrates with GNOME. Podcasts can play various audio formats "
-"and remember where you stopped listening. You can subscribe to shows via "
-"RSS/Atom, iTunes, and Soundcloud links. Subscriptions from other apps can be"
-" imported via OPML files."
-msgstr ""
-"Podkastlaringizni GNOME bilan uzluksiz integratsiyalashgan yengil "
-"interfeysdan tinglang, yangilang va boshqaring. Podkastlar turli audio "
-"formatlarni ijro etishi va qayerda tinglashni toʻxtatganingizni eslab "
-"qolishi mumkin. Koʻrsatuvlarga RSS/Atom, iTunes va Soundcloud havolalari "
-"orqali obuna boʻlishingiz mumkin. Boshqa ilovalardan obunalarni OPML "
-"fayllari orqali import qilish mumkin."
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:18
-msgid "The home view displaying the newest episodes of your podcasts"
-msgstr "Podkastlaringizning eng yangi qismlari aks etgan bosh sahifa"
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:22
-msgid "The shows view displaying the covers of your podcasts"
-msgstr "Podkastlaringiz muqovalarini koʻrsatadigan koʻrinish"
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:26
-msgid ""
-"The show widget displaying the cover and the latest episodes of a specific "
-"podcast"
-msgstr ""
-"Muqova va ma’lum bir podkastning soʻnggi epizodlarni aks ettiruvchi shou "
-"vidjeti"
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:30
-msgid "The chapters available in an episode"
-msgstr "Bir epizodda mavjud boʻlgan boblar"
-
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:34
-msgid "The view where one can add a new podcast"
-msgstr "Yangi podkast qoʻshish mumkin boʻlgan joy"
-
-#. developer_name tag deprecated with Appstream 1.0
-#: podcasts-gtk/resources/org.gnome.Podcasts.appdata.xml.in.in:241
-msgid "The Podcasts developers"
-msgstr "Podkastlar ishlab chiquvchilari"
 
 #: podcasts-gtk/resources/org.gnome.Podcasts.desktop.in.in:3
 msgid "Listen to your favorite podcasts, right from your desktop."
@@ -634,6 +586,54 @@ msgstr "Avtomatik tozalashlar orasida qancha vaqt kutish kerakligi"
 #: podcasts-gtk/resources/org.gnome.Podcasts.gschema.xml.in:51
 msgid "What period of time to wait between automatic cleanups"
 msgstr "Avtomatik tozalashlar orasida qancha vaqt kutish kerakligi"
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:8
+msgid "Listen to your favorite shows"
+msgstr "Sevimli shoularingizni tinglang"
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:10
+msgid ""
+"Play, update, and manage your podcasts from a lightweight interface that "
+"seamlessly integrates with GNOME. Podcasts can play various audio formats "
+"and remember where you stopped listening. You can subscribe to shows via "
+"RSS/Atom, iTunes, and Soundcloud links. Subscriptions from other apps can be"
+" imported via OPML files."
+msgstr ""
+"Podkastlaringizni GNOME bilan uzluksiz integratsiyalashgan yengil "
+"interfeysdan tinglang, yangilang va boshqaring. Podkastlar turli audio "
+"formatlarni ijro etishi va qayerda tinglashni toʻxtatganingizni eslab "
+"qolishi mumkin. Koʻrsatuvlarga RSS/Atom, iTunes va Soundcloud havolalari "
+"orqali obuna boʻlishingiz mumkin. Boshqa ilovalardan obunalarni OPML "
+"fayllari orqali import qilish mumkin."
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:18
+msgid "The home view displaying the newest episodes of your podcasts"
+msgstr "Podkastlaringizning eng yangi qismlari aks etgan bosh sahifa"
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:22
+msgid "The shows view displaying the covers of your podcasts"
+msgstr "Podkastlaringiz muqovalarini koʻrsatadigan koʻrinish"
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:26
+msgid ""
+"The show widget displaying the cover and the latest episodes of a specific "
+"podcast"
+msgstr ""
+"Muqova va ma’lum bir podkastning soʻnggi epizodlarni aks ettiruvchi shou "
+"vidjeti"
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:30
+msgid "The chapters available in an episode"
+msgstr "Bir epizodda mavjud boʻlgan boblar"
+
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:34
+msgid "The view where one can add a new podcast"
+msgstr "Yangi podkast qoʻshish mumkin boʻlgan joy"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:241
+msgid "The Podcasts developers"
+msgstr "Podkastlar ishlab chiquvchilari"
 
 #: podcasts-gtk/src/app.rs:402
 msgid "Copied URL to clipboard!"

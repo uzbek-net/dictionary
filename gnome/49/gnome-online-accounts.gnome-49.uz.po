@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-online-accounts gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-online-accounts/issues\n"
-"POT-Creation-Date: 2025-12-10 17:14+0000\n"
+"POT-Creation-Date: 2025-12-31 15:48+0000\n"
 "PO-Revision-Date: 2025-03-25 09:50+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -62,19 +62,24 @@ msgstr "_Link Nusxalash"
 msgid "Copy the authorization URL to continue with a specific web browser."
 msgstr "Maxsus brauzerda ishni davom ettirish uchun URL ni nusxalang."
 
+#: src/goabackend/goadavclient.c:778 src/goabackend/goakerberosprovider.c:318
+#: src/goabackend/goaprovider.c:1078
+msgid "Unknown error"
+msgstr "Noma’lum xatolik"
+
 #. TODO: more specific
-#: src/goabackend/goadavclient.c:1235 src/goabackend/goaimapauthlogin.c:104
+#: src/goabackend/goadavclient.c:1310 src/goabackend/goaimapauthlogin.c:104
 #: src/goabackend/goakerberosprovider.c:290
 #: src/goabackend/goakerberosprovider.c:312 src/goabackend/goasmtpauth.c:102
 #: src/goabackend/goasmtpauth.c:495 src/goabackend/goautils.c:802
 msgid "Authentication failed"
 msgstr "Autentifikatsiya amalga oshmadi"
 
-#: src/goabackend/goadavclient.c:1242
+#: src/goabackend/goadavclient.c:1317
 msgid "Cannot find WebDAV endpoint"
 msgstr "WebDAV tugatish nuqtasi topilmadi"
 
-#: src/goabackend/goadavclient.c:1355 src/goabackend/goaoauth2provider.c:888
+#: src/goabackend/goadavclient.c:1430 src/goabackend/goaoauth2provider.c:888
 #: src/goabackend/goaowncloudprovider.c:622
 #: src/goabackend/goawebdavprovider.c:648
 #, c-format
@@ -330,10 +335,6 @@ msgstr "SMTP"
 #: src/goabackend/goakerberosprovider.c:81
 msgid "Kerberos"
 msgstr "Kerberos"
-
-#: src/goabackend/goakerberosprovider.c:318 src/goabackend/goaprovider.c:1078
-msgid "Unknown error"
-msgstr "Noma’lum xatolik"
 
 #: src/goabackend/goakerberosprovider.c:560
 msgid "_Principal"

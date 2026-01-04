@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-24 13:36+0000\n"
+"POT-Creation-Date: 2025-12-30 00:26+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -4040,16 +4040,16 @@ msgid ""
 "was aborted. Please read the details on the module’s domain."
 msgstr ""
 
-#: stats/services/refresh/steps.py:81
+#: stats/services/refresh/steps.py:82
 msgid "Errors while running “intltool-update -m” check."
 msgstr "\"intltool-update -m\" tekshiruvini bajarishda xatolar."
 
-#: stats/services/refresh/steps.py:88
+#: stats/services/refresh/steps.py:89
 #, python-format
 msgid "There are some missing files from POTFILES.in: %s"
 msgstr "POTFILES.in saytida ba'zi fayllar etishmayotgan: %s"
 
-#: stats/services/refresh/steps.py:98
+#: stats/services/refresh/steps.py:99
 #, python-format
 msgid ""
 "Following files are referenced in either POTFILES.in or POTFILES.skip, yet "
@@ -4058,28 +4058,33 @@ msgstr ""
 "Quyidagi fayllar POTFILES.in yoki POTFILES.skip saytlarida havola qilingan, "
 "ammo ular mavjud emas: %s"
 
-#: stats/services/refresh/steps.py:144
+#: stats/services/refresh/steps.py:145
 msgid "Can’t generate template file (POT), using old one."
 msgstr "Eskisini ishlatib, andoza faylini (POT) yaratib boʻlmadi."
 
-#: stats/services/refresh/steps.py:146
+#: stats/services/refresh/steps.py:147
 msgid "Can’t generate template file (POT), statistics aborted."
 msgstr "Andoza faylini (POT) yaratib boʻlmadi, statistika toʻxtatildi."
 
-#: stats/services/refresh/steps.py:174
+#: stats/services/refresh/steps.py:175
+#, fuzzy, python-format
+#| msgid ""
+#| "Unable to authenticate to GitLab, hence, no notification was sent to GitLab."
+#| " Administrators will be notified about this issue."
 msgid ""
-"Unable to authenticate to GitLab, hence, no notification was sent to GitLab."
-" Administrators will be notified about this issue."
+"Unable to send notification to GitLab, hence, no notification was sent to "
+"GitLab. Administrators will be notified about this issue. The error was: "
+"%(error)s."
 msgstr ""
 "GitLab-da autentifikatsiya qilish imkonsiz, shuning uchun GitLab-ga hech "
 "qanday bildirishnoma yuborilmadi. Ushbu muammo haqida ma'murlar xabardor "
 "qilinadi."
 
-#: stats/services/refresh/steps.py:197
+#: stats/services/refresh/steps.py:199
 msgid "Can’t copy new template file (POT) to public location."
 msgstr "Yangi andoza faylini (POT) hammaga ochiq joyga nusxalab boʻlmadi."
 
-#: stats/services/refresh/steps.py:255
+#: stats/services/refresh/steps.py:257
 #, python-format
 msgid ""
 "Unable to update the PO file in “%(locale)s” using the newly created POT for"
@@ -4088,7 +4093,7 @@ msgstr ""
 "%(module)s/%(branch)s uchun yangi yaratilgan POT yordamida “%(locale)s”dagi "
 "PO faylini yangilab boʻlmadi"
 
-#: stats/services/refresh/steps.py:292
+#: stats/services/refresh/steps.py:294
 #, python-format
 msgid ""
 "The language “%(language)s” is not listed in the LINGUAS file for the domain"
@@ -4097,21 +4102,21 @@ msgstr ""
 "“%(language)s” tili “%(domain)s” domeni uchun LINGUAS faylida "
 "koʻrsatilmagan."
 
-#: stats/services/refresh/steps.py:307 stats/services/refresh/steps.py:318
+#: stats/services/refresh/steps.py:309 stats/services/refresh/steps.py:320
 #, python-format
 msgid "PO file “%s” is not UTF-8 encoded."
 msgstr "“%s” PO fayli UTF-8 bilan kodlanmagan."
 
-#: stats/services/refresh/steps.py:311
+#: stats/services/refresh/steps.py:313
 msgid "This PO file has an executable bit set."
 msgstr "Ushbu PO faylida bajariladigan bitlar toʻplami mavjud."
 
-#: stats/services/refresh/steps.py:322
+#: stats/services/refresh/steps.py:324
 #, python-format
 msgid "PO file “%s” does not pass “msgfmt -vc” checks."
 msgstr "“%s” PO fayli “msgfmt -vc” tekshiruvidan oʻtmaydi."
 
-#: stats/services/refresh/steps.py:326
+#: stats/services/refresh/steps.py:328
 msgid "PO File is not found on the system."
 msgstr "PO fayli tizimda topilmadi."
 
@@ -4616,37 +4621,41 @@ msgstr "Hujjat raqamlarini koʻrsatish"
 msgid "Error"
 msgstr "Xatolik"
 
-#: stats/utils.py:119
+#: stats/utils.py:126
 #, python-format
 msgid "When compiling the PO file, the error was “%(exception)s”."
 msgstr "PO faylini kompilyatsiya qilishda xatolik \"%(exception)s\" edi."
 
-#: stats/utils.py:132
+#: stats/utils.py:139
 #, python-format
 msgid "The file “%s” does not exist"
 msgstr "“%s” fayli mavjud emas"
 
-#: stats/utils.py:145
+#: stats/utils.py:152
 #, python-format
 msgid "Error running pofilter: %s"
 msgstr "Pofiltrni ishga tushirishda xatolik yuz berdi: %s"
 
-#: stats/utils.py:157
+#: stats/utils.py:164
 #, python-format
 msgid "PO file “%s” does not exist or cannot be read."
 msgstr "“%s” PO fayli mavjud emas yoki oʻqib boʻlmaydi."
 
-#: stats/utils.py:161
+#: stats/utils.py:168
 #, python-format
 msgid "Can’t get statistics for POT file “%s”."
 msgstr "“%s” POT fayli statistikasini olib boʻlmadi."
 
-#: stats/utils.py:338
+#: stats/utils.py:350 stats/utils.py:365
 msgid ""
 "Unable to initialize the GitLab client because the authentication failed."
 msgstr ""
 "GitLab mijozini ishga tushirib boʻlmadi, chunki autentifikatsiya amalga "
 "oshmadi."
+
+#: stats/utils.py:369
+msgid "Unable to create GitLab issue."
+msgstr ""
 
 #: stats/views.py:82 teams/views.py:72
 msgid ""

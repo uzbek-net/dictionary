@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libadwaita libadwaita-1-8\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
-"POT-Creation-Date: 2025-12-25 12:50+0000\n"
+"POT-Creation-Date: 2026-01-03 17:24+0000\n"
 "PO-Revision-Date: 2025-10-13 17:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -398,7 +398,7 @@ msgstr "Orqaga"
 #. Translators: This is a placeholder text of the search entry from
 #. AdwComboRow. It should be phrased as a verb.
 #: src/adw-combo-row.ui:50 src/adw-preferences-dialog.ui:85
-#: src/adw-preferences-window.ui:97
+#: src/adw-preferences-window.ui:96
 msgid "Search"
 msgstr "Qidirish"
 
@@ -536,7 +536,7 @@ msgstr "Afzalliklar"
 msgid "Search preferences"
 msgstr "Afzalliklarni qidirish"
 
-#: src/adw-preferences-dialog.ui:153 src/adw-preferences-window.ui:164
+#: src/adw-preferences-dialog.ui:153 src/adw-preferences-window.ui:163
 #: src/adw-shortcuts-dialog.ui:79
 msgid "No Results Found"
 msgstr "Natija yoʻq"
@@ -546,7 +546,7 @@ msgstr "Natija yoʻq"
 msgid "Try a different search"
 msgstr "Boshqa qidiruvni sinab koʻrish"
 
-#: src/adw-preferences-window.ui:165
+#: src/adw-preferences-window.ui:164
 msgid "Try a different search."
 msgstr "Boshqa qidiruvni sinab koʻrish."
 

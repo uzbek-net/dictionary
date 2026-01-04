@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2025-10-08 10:14+0000\n"
-"PO-Revision-Date: 2025-05-23 00:17+0900\n"
-"Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
+"POT-Creation-Date: 2025-12-10 13:32+0000\n"
+"PO-Revision-Date: 2025-10-19 15:45+0500\n"
+"Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #: global-shortcuts-provider/cc-global-shortcut-dialog.blp:7
 msgid "Add Keyboard Shortcuts"
@@ -24,7 +24,7 @@ msgstr "Klaviatura yorliqlarini qoʻshing"
 
 #: global-shortcuts-provider/cc-global-shortcut-dialog.blp:17
 #: panels/applications/cc-application-shortcut-dialog.c:147
-#: panels/color/cc-color-calibrate.blp:21
+#: panels/color/cc-color-calibrate.blp:22
 #: panels/common/cc-language-chooser.blp:17
 #: panels/display/cc-display-panel.blp:28
 #: panels/display/cc-display-panel.blp:139
@@ -55,31 +55,27 @@ msgstr "Klaviatura yorliqlarini qoʻshing"
 #: panels/wwan/cc-wwan-network-dialog.blp:95
 #: panels/wwan/cc-wwan-sim-lock-dialog.blp:202
 msgid "_Cancel"
-msgstr "_Bekor qilish"
+msgstr "Bekor qilish"
 
 #: global-shortcuts-provider/cc-global-shortcut-dialog.blp:25
 #: panels/color/cc-color-panel.ui:349 panels/keyboard/cc-input-chooser.blp:24
 #: panels/keyboard/cc-keyboard-shortcut-editor.blp:32
 #: panels/network/connection-editor/net-connection-editor.c:653
 #: panels/printers/pp-new-printer-dialog.ui:96
-#: panels/system/users/cc-add-user-dialog.c:362
+#: panels/system/users/cc-add-user-dialog.c:370
 #: panels/system/users/cc-add-user-dialog.ui:32
-#: panels/system/users/cc-add-user-dialog.ui:153
+#: panels/system/users/cc-add-user-dialog.ui:154
 #: panels/system/users/cc-enterprise-login-dialog.blp:47
 msgid "_Add"
-msgstr "_Qoʻshish"
+msgstr "Qoʻshish"
 
 #: global-shortcuts-provider/cc-global-shortcut-dialog.blp:37
-#, fuzzy
-#| msgid ""
-#| "Added keyboard shortcuts will be available globally, and can be changed in "
-#| "the application’s panel in Settings"
 msgid ""
 "Added keyboard shortcuts will be available globally, and can be changed in "
 "the app’s page in Settings"
 msgstr ""
-"Qoʻshilgan klaviatura yorliqlari butun dunyo boʻylab mavjud boʻladi va "
-"ularni Sozlamalardagi ilova panelida oʻzgartirish mumkin"
+"Qoʻshilgan klaviatura yorliqlari butun tizim boʻylab mavjud boʻladi va "
+"ularni sozlamalardagi ilova panelida oʻzgartirish mumkin"
 
 #: panels/applications/cc-application-shortcut-dialog.blp:6
 msgid "Global Shortcuts"
@@ -102,11 +98,11 @@ msgstr ""
 #: panels/keyboard/cc-keyboard-shortcut-editor.blp:20
 #: panels/system/users/cc-user-page.blp:198
 msgid "_Remove"
-msgstr "_Oʻchirish"
+msgstr "Oʻchirish"
 
 #: panels/applications/cc-application-shortcut-dialog.c:178
 msgid "_Remove All Shortcuts"
-msgstr "_Barcha yorliqlarni olib tashlash"
+msgstr "Barcha yorliqlarni olib tashlash"
 
 #: panels/applications/cc-application-shortcut-dialog.c:260
 #, c-format
@@ -124,7 +120,7 @@ msgstr "Ilovalarni qidirish"
 
 #: panels/applications/cc-applications-panel.blp:39
 msgid "_Default Apps"
-msgstr "_Birlamchi ilovalar"
+msgstr "Standart ilovalar"
 
 #: panels/applications/cc-applications-panel.blp:40
 msgid "Set which apps open links, files, and media"
@@ -153,7 +149,7 @@ msgstr "Hech qanday ilova topilmadi"
 
 #: panels/applications/cc-applications-panel.blp:77
 msgid "_Find in Software"
-msgstr "_Dasturiy taʼminotda toping"
+msgstr "Dasturiy taʼminotda toping"
 
 #: panels/applications/cc-applications-panel.blp:95
 msgid "Unable to List Apps"
@@ -179,9 +175,8 @@ msgid "Removable Media"
 msgstr "Olinadigan media"
 
 #: panels/applications/cc-applications-panel.blp:121
-#, fuzzy
 msgid "Med_ia Autostart"
-msgstr "Media_ia avtomatik ishga tushirish"
+msgstr "Mediani avtomatik ishga tushirish"
 
 #: panels/applications/cc-applications-panel.blp:122
 msgid "Start apps or prompt when media is connected"
@@ -206,11 +201,11 @@ msgstr ""
 
 #: panels/applications/cc-applications-panel.blp:189
 msgid "_Open"
-msgstr "_Ochish"
+msgstr "Ochish"
 
 #: panels/applications/cc-applications-panel.blp:201
 msgid "App _Details"
-msgstr "Ilova _Tafsilotlari"
+msgstr "Ilova tafsilotlari"
 
 #: panels/applications/cc-applications-panel.blp:214
 msgid "Permissions"
@@ -221,7 +216,7 @@ msgstr "Ruxsatlar"
 #. the app's Shell Search Provider
 #: panels/applications/cc-applications-panel.blp:218
 msgid "_Search"
-msgstr "_Qidirish"
+msgstr "Qidirish"
 
 #: panels/applications/cc-applications-panel.blp:219
 msgid "Receive system searches and send results"
@@ -238,10 +233,10 @@ msgstr "Tizim qidiruvlarini qabul qiling va natijalarni yuboring"
 #: panels/applications/cc-applications-panel.blp:304
 #: panels/applications/cc-applications-panel.blp:318
 #: panels/keyboard/cc-keyboard-shortcut-editor.blp:120
-#: panels/keyboard/cc-xkb-modifier-page.c:322
+#: panels/keyboard/cc-xkb-modifier-page.c:333
 #: panels/keyboard/keyboard-shortcuts.c:367 panels/network/panel-common.c:336
-#: panels/system/users/cc-user-page.c:367
-#: panels/system/users/cc-user-page.c:753
+#: panels/system/users/cc-user-page.c:368
+#: panels/system/users/cc-user-page.c:755
 #: panels/wwan/cc-wwan-device-page.c:477
 #: subprojects/gvc/gvc-mixer-control.c:1872
 msgid "Disabled"
@@ -257,7 +252,7 @@ msgstr "Tizim bildirishnomalarini koʻrsatish"
 
 #: panels/applications/cc-applications-panel.blp:239
 msgid "_Run in Background"
-msgstr "_Fonda ishga tushirish"
+msgstr "Fonda ishga tushirish"
 
 #: panels/applications/cc-applications-panel.blp:240
 msgid "Allow activity when the app is closed"
@@ -273,7 +268,7 @@ msgstr "Istalgan vaqtda ekranni suratga oling"
 
 #: panels/applications/cc-applications-panel.blp:253
 msgid "Change _Wallpaper"
-msgstr "_Fon rasmini oʻzgartirish"
+msgstr "Fon rasmini oʻzgartirish"
 
 #: panels/applications/cc-applications-panel.blp:254
 msgid "Change the desktop wallpaper"
@@ -281,7 +276,7 @@ msgstr "Ish stoli fon rasmini oʻzgartiring"
 
 #: panels/applications/cc-applications-panel.blp:260
 msgid "So_unds"
-msgstr "To_vushlar"
+msgstr "Tovushlar"
 
 #: panels/applications/cc-applications-panel.blp:261
 #: panels/applications/cc-applications-panel.blp:268
@@ -295,7 +290,7 @@ msgstr "Tovushlar"
 
 #: panels/applications/cc-applications-panel.blp:274
 msgid "_Inhibit Shortcuts"
-msgstr "_Yorliqlarni taqiqlash"
+msgstr "Yorliqlarni taqiqlash"
 
 #: panels/applications/cc-applications-panel.blp:275
 msgid "Block standard keyboard shortcuts"
@@ -303,7 +298,7 @@ msgstr "Standart klaviatura yorliqlarini bloklash"
 
 #: panels/applications/cc-applications-panel.blp:281
 msgid "C_amera"
-msgstr "K_amera"
+msgstr "Kamera"
 
 #: panels/applications/cc-applications-panel.blp:282
 #: panels/applications/cc-applications-panel.blp:289
@@ -316,7 +311,7 @@ msgstr "Kamera"
 
 #: panels/applications/cc-applications-panel.blp:295
 msgid "_Microphone"
-msgstr "_Mikrofon"
+msgstr "Mikrofon"
 
 #: panels/applications/cc-applications-panel.blp:296
 #: panels/applications/cc-applications-panel.blp:303
@@ -329,7 +324,7 @@ msgstr "Mikrofon"
 
 #: panels/applications/cc-applications-panel.blp:309
 msgid "_Location Services"
-msgstr "_Joylashuv xizmatlari"
+msgstr "Joylashuv xizmatlari"
 
 #: panels/applications/cc-applications-panel.blp:310
 #: panels/applications/cc-applications-panel.blp:317
@@ -341,7 +336,6 @@ msgid "Location Services"
 msgstr "Joylashuv xizmatlari"
 
 #: panels/applications/cc-applications-panel.blp:325
-#, fuzzy
 msgid "Re_quired Permissions"
 msgstr "Kerakli ruxsatlar"
 
@@ -350,10 +344,8 @@ msgid "System permissions that the app requires"
 msgstr "Ilova talab qiladigan tizim ruxsatnomalari"
 
 #: panels/applications/cc-applications-panel.blp:333
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgid "Global S_hortcuts"
-msgstr "Global S_hortcuts"
+msgstr "Global yorliqlar"
 
 #: panels/applications/cc-applications-panel.blp:334
 msgid "Global actions that have been registered for use"
@@ -368,20 +360,19 @@ msgstr "Umumiy"
 
 #: panels/applications/cc-applications-panel.blp:344
 msgid "_Files &amp; Links"
-msgstr "_Fayllar &amp; Havolalar"
+msgstr "Fayllar &amp; Havolalar"
 
 #: panels/applications/cc-applications-panel.blp:345
 msgid "File and link types that are opened by the app"
 msgstr "Ilova tomonidan ochiladigan fayl va havola turlari"
 
 #: panels/applications/cc-applications-panel.blp:352
-#, fuzzy
 msgid "S_torage"
-msgstr "S_saqlash"
+msgstr "Xotira"
 
 #: panels/applications/cc-applications-panel.blp:353
 msgid "Disk space being used"
-msgstr "Disk maydoni ishlatilmoqda"
+msgstr "Disk xotirasi ishlatilmoqda"
 
 #: panels/applications/cc-applications-panel.blp:366
 msgid "Required Permissions"
@@ -401,7 +392,7 @@ msgstr "Bogʻlanish turlari"
 
 #: panels/applications/cc-applications-panel.blp:407
 msgid "_Reset"
-msgstr "_Qayta tiklash"
+msgstr "Qayta tiklash"
 
 #: panels/applications/cc-applications-panel.blp:422
 msgid "Storage"
@@ -425,13 +416,11 @@ msgstr "Jami"
 
 #: panels/applications/cc-applications-panel.blp:466
 msgid "_Clear Cache"
-msgstr "_Keshni tozalash"
+msgstr "Keshni tozalash"
 
 #: panels/applications/cc-applications-panel.c:881
-#, fuzzy
-#| msgid "System Sounds"
 msgid "System Bus"
-msgstr "Tizim avtobusi"
+msgstr ""
 
 #: panels/applications/cc-applications-panel.c:881
 #: panels/applications/cc-applications-panel.c:883
@@ -441,9 +430,8 @@ msgid "Full access"
 msgstr "Toʻliq ruxsat"
 
 #: panels/applications/cc-applications-panel.c:883
-#, fuzzy
 msgid "Session Bus"
-msgstr "Seans avtobusidan foydalaning"
+msgstr ""
 
 #: panels/applications/cc-applications-panel.c:887
 #: panels/privacy/bolt/cc-bolt-page.blp:118
@@ -498,10 +486,7 @@ msgstr "Sozlamalarni oʻzgartirishi mumkin"
 
 #. TRANSLATORS: %s is an app name.
 #: panels/applications/cc-applications-panel.c:911
-#, fuzzy, c-format
-#| msgid ""
-#| "%s requires access to the following system resources. To stop this access, "
-#| "the app must be removed."
+#, c-format
 msgid ""
 "%s requires access to the following system resources. To stop this access, "
 "the app must be removed."
@@ -513,7 +498,7 @@ msgstr ""
 #, c-format
 msgid "%u permission"
 msgid_plural "%u permissions"
-msgstr[0] "%u ruxsati"
+msgstr[0] "%u ruxsat"
 msgstr[1] "%u ruxsat"
 
 #: panels/applications/cc-applications-panel.c:1087
@@ -533,15 +518,13 @@ msgstr[1] "%u turlari"
 
 #. TRANSLATORS: %s is an app name.
 #: panels/applications/cc-applications-panel.c:1260
-#, fuzzy, c-format
-#| msgid "%s is used to open the following types of files and links"
+#, c-format
 msgid "%s is used to open the following types of files and links"
 msgstr "%s quyidagi turdagi fayllar va havolalarni ochish uchun ishlatiladi"
 
 #. TRANSLATORS: %s is an app name.
 #: panels/applications/cc-applications-panel.c:1303
-#, fuzzy, c-format
-#| msgid "How much disk space %s is occupying with app data and caches"
+#, c-format
 msgid "How much disk space %s is occupying with app data and caches"
 msgstr ""
 "%s ilova maʼlumotlari va keshlari bilan qancha disk maydonini egallaydi"
@@ -555,71 +538,70 @@ msgstr[1] "%u amal"
 
 #: panels/applications/cc-default-apps-page.blp:8
 msgid "_Web"
-msgstr "_Veb"
+msgstr "Veb"
 
 #: panels/applications/cc-default-apps-page.blp:16
 msgid "_Mail"
-msgstr "_Pochta"
+msgstr "Pochta"
 
 #: panels/applications/cc-default-apps-page.blp:23
 msgid "_Calendar"
-msgstr "_Taqvim"
+msgstr "Taqvim"
 
 #: panels/applications/cc-default-apps-page.blp:30
 msgid "M_usic"
-msgstr "M_usiqa"
+msgstr "Musiqa"
 
 #: panels/applications/cc-default-apps-page.blp:38
 msgid "_Video"
-msgstr "_Video"
+msgstr "Video"
 
 #: panels/applications/cc-default-apps-page.blp:46
 msgid "_Photos"
-msgstr "_Rasmlar"
+msgstr "Rasmlar"
 
 #. Translators: This is a telephone call
 #: panels/applications/cc-default-apps-page.blp:57
-#, fuzzy
 msgid "Ca_lls"
-msgstr "Chaqiruvlar"
+msgstr "Qoʻngʻiroqlar"
 
 #: panels/applications/cc-default-apps-page.blp:65
 msgid "_SMS"
-msgstr "_SMS"
+msgstr "SMS"
 
 #: panels/applications/cc-default-apps-row.c:138
 msgid "No Apps Available"
 msgstr "Hech qanday ilova mavjud emas"
 
-#: panels/applications/cc-removable-media-settings.c:280
+#: panels/applications/cc-removable-media-settings.c:281
 msgid "Ask what to do"
 msgstr "Nima qilish kerakligini soʻrang"
 
-#: panels/applications/cc-removable-media-settings.c:284
+#: panels/applications/cc-removable-media-settings.c:285
 msgid "Do nothing"
-msgstr "Hech narsa qilmang"
+msgstr "Hech narsa qilmaslik"
 
-#: panels/applications/cc-removable-media-settings.c:288
+#: panels/applications/cc-removable-media-settings.c:289
 msgid "Open folder"
 msgstr "Jildni oching"
 
-#: panels/applications/cc-removable-media-settings.c:374
+#: panels/applications/cc-removable-media-settings.c:375
 msgid "Select an app for audio CDs"
 msgstr "Audio kompakt disklar uchun ilovani tanlang"
 
-#: panels/applications/cc-removable-media-settings.c:375
+#: panels/applications/cc-removable-media-settings.c:376
 msgid "Select an app for video DVDs"
 msgstr "Video DVD uchun ilovani tanlang"
 
-#: panels/applications/cc-removable-media-settings.c:376
+#: panels/applications/cc-removable-media-settings.c:377
 msgid "Select an app to run when a music player is connected"
 msgstr "Musiqa pleer ulanganda ishga tushirish uchun ilovani tanlang"
 
-#: panels/applications/cc-removable-media-settings.c:377
+#: panels/applications/cc-removable-media-settings.c:378
 msgid "Select an app to run when a camera is connected"
 msgstr "Kamera ulanganda ishga tushadigan ilovani tanlang"
 
-#: panels/applications/cc-removable-media-settings.c:378
+#: panels/applications/cc-removable-media-settings.c:379
 msgid "Select an app for software CDs"
 msgstr "Dasturiy ta’minot kompakt disklari uchun ilovani tanlang"
 
@@ -627,61 +609,61 @@ msgstr "Dasturiy ta’minot kompakt disklari uchun ilovani tanlang"
 #. * strings, just here to fix capitalization of the English originals.
 #. * If the shared-mime-info translation works for your language,
 #. * simply leave these untranslated.
-#: panels/applications/cc-removable-media-settings.c:390
-msgid "audio DVD"
-msgstr "audio DVD"
-
 #: panels/applications/cc-removable-media-settings.c:391
+msgid "audio DVD"
+msgstr "DVD audio"
+
+#: panels/applications/cc-removable-media-settings.c:392
 msgid "blank Blu-ray disc"
 msgstr "boʻsh Blu-ray disk"
 
-#: panels/applications/cc-removable-media-settings.c:392
+#: panels/applications/cc-removable-media-settings.c:393
 msgid "blank CD disc"
 msgstr "boʻsh CD disk"
 
-#: panels/applications/cc-removable-media-settings.c:393
+#: panels/applications/cc-removable-media-settings.c:394
 msgid "blank DVD disc"
 msgstr "boʻsh DVD disk"
 
-#: panels/applications/cc-removable-media-settings.c:394
+#: panels/applications/cc-removable-media-settings.c:395
 msgid "blank HD DVD disc"
 msgstr "boʻsh HD DVD disk"
 
-#: panels/applications/cc-removable-media-settings.c:395
+#: panels/applications/cc-removable-media-settings.c:396
 msgid "Blu-ray video disc"
 msgstr "Blu-ray video disk"
 
-#: panels/applications/cc-removable-media-settings.c:396
+#: panels/applications/cc-removable-media-settings.c:397
 msgid "e-book reader"
 msgstr "elektron kitob oʻquvchi"
 
-#: panels/applications/cc-removable-media-settings.c:397
+#: panels/applications/cc-removable-media-settings.c:398
 msgid "HD DVD video disc"
 msgstr "HD DVD video disk"
 
-#: panels/applications/cc-removable-media-settings.c:398
+#: panels/applications/cc-removable-media-settings.c:399
 msgid "Picture CD"
 msgstr "Rasm CD"
 
-#: panels/applications/cc-removable-media-settings.c:399
+#: panels/applications/cc-removable-media-settings.c:400
 msgid "Super Video CD"
 msgstr "Super video CD"
 
-#: panels/applications/cc-removable-media-settings.c:400
+#: panels/applications/cc-removable-media-settings.c:401
 msgid "Video CD"
 msgstr "Video CD"
 
-#: panels/applications/cc-removable-media-settings.c:401
+#: panels/applications/cc-removable-media-settings.c:402
 msgid "Windows software"
 msgstr "Windows dasturiy ta'minot"
 
 #: panels/applications/cc-removable-media-settings.ui:6
 msgid "CD _Audio"
-msgstr "CD _Audio"
+msgstr "CD Audio"
 
 #: panels/applications/cc-removable-media-settings.ui:19
 msgid "_DVD Video"
-msgstr "_DVD video"
+msgstr "DVD video"
 
 #: panels/applications/cc-removable-media-settings.ui:32
 msgid "Music Pla_yer"
@@ -697,7 +679,7 @@ msgstr "Sof_tware"
 
 #: panels/applications/cc-removable-media-settings.ui:71
 msgid "_Other Media Types"
-msgstr "_Boshqa media turlari"
+msgstr "Boshqa media turlari"
 
 #: panels/applications/cc-removable-media-settings.ui:89
 msgid "Other Media Types"
@@ -705,11 +687,11 @@ msgstr "Boshqa media turlari"
 
 #: panels/applications/cc-removable-media-settings.ui:104
 msgid "_Type"
-msgstr "_Turi"
+msgstr "Turi"
 
 #: panels/applications/cc-removable-media-settings.ui:124
 msgid "_Action"
-msgstr "_Harakat"
+msgstr "Harakat"
 
 #: panels/applications/cc-snap-row.c:253
 msgid "Add user accounts and change passwords"
@@ -990,14 +972,13 @@ msgstr "Ish stoli foni yoʻq"
 
 #: panels/background/cc-background-panel.blp:26
 msgid "Style"
-msgstr "Stil"
+msgstr "Uslub"
 
 #: panels/background/cc-background-panel.blp:69
 msgid "_Default"
-msgstr "_Birlamchi"
+msgstr "Birlamchi"
 
 #: panels/background/cc-background-panel.blp:105
-#, fuzzy
 msgid "Da_rk"
 msgstr "Qora"
 
@@ -1012,7 +993,7 @@ msgstr "Orqa fon"
 
 #: panels/background/cc-background-panel.blp:142
 msgid "_Add Picture…"
-msgstr "_Rasm qoʻshish…"
+msgstr "Rasm qoʻshish…"
 
 #: panels/background/cc-background-panel.c:139
 msgid "Blue"
@@ -1020,7 +1001,7 @@ msgstr "Moviy"
 
 #: panels/background/cc-background-panel.c:141
 msgid "Teal"
-msgstr "Teal"
+msgstr "Moviy-yashil"
 
 #: panels/background/cc-background-panel.c:143
 msgid "Green"
@@ -1032,7 +1013,7 @@ msgstr "Sariq"
 
 #: panels/background/cc-background-panel.c:147
 msgid "Orange"
-msgstr "Apelsin"
+msgstr "Olov rang"
 
 #: panels/background/cc-background-panel.c:149
 msgid "Red"
@@ -1048,7 +1029,7 @@ msgstr "Binafsha"
 
 #: panels/background/cc-background-panel.c:155
 msgid "Slate"
-msgstr "Shifer"
+msgstr "Shifer rang"
 
 #: panels/background/cc-background-panel.c:341
 msgid "Current background"
@@ -1066,8 +1047,7 @@ msgstr "Fon rasmini yoki UI ranglarini oʻzgartiring"
 #. localize the semicolons! The list MUST also end with a semicolon!
 #: panels/background/gnome-background-panel.desktop.in:14
 msgid "Background;Wallpaper;Screen;Desktop;Style;Light;Dark;Appearance;"
-msgstr ""
-"Fon; Fon rasmi; Ekran; Ish stoli; Uslub; Yengil; Toʻq; Tashqi koʻrinish;"
+msgstr "Fon;Fon rasmi;Ekran;Ish stoli;Uslub;Yengil;Toʻq;Tashqi koʻrinish;"
 
 #: panels/bluetooth/cc-bluetooth-panel.blp:14
 msgid "Enable"
@@ -1099,7 +1079,7 @@ msgstr "Samolyot rejimi yoqilganda Bluetooth oʻchiriladi"
 
 #: panels/bluetooth/cc-bluetooth-panel.blp:52 panels/wwan/cc-wwan-panel.blp:59
 msgid "_Turn Off Airplane Mode"
-msgstr "_Samolyot rejimini oʻchirish"
+msgstr "Samolyot rejimini oʻchirish"
 
 #: panels/bluetooth/cc-bluetooth-panel.blp:71
 msgid "Hardware Airplane Mode is On"
@@ -1107,7 +1087,7 @@ msgstr "Uskuna samolyot rejimi yoqilgan"
 
 #: panels/bluetooth/cc-bluetooth-panel.blp:72
 msgid "Turn off the Airplane mode switch to enable Bluetooth"
-msgstr "Bluetooth-ni yoqish uchun samolyot rejimini oʻchiring"
+msgstr "Bluetoothʼni yoqish uchun samolyot rejimini oʻchiring"
 
 #. Translators: The found device is a printer connected via Bluetooth
 #: panels/bluetooth/gnome-bluetooth-panel.desktop.in:2
@@ -1119,7 +1099,7 @@ msgstr "Bluetooth"
 
 #: panels/bluetooth/gnome-bluetooth-panel.desktop.in:3
 msgid "Turn Bluetooth on and off and connect your devices"
-msgstr "Bluetooth-ni yoqing va oʻchiring va qurilmalaringizni ulang"
+msgstr "Bluetoothʼni yoqing va oʻchiring va qurilmalaringizni ulang"
 
 #. Translators: Search terms to find the Bluetooth panel. Do NOT translate or
 #. localize the semicolons! The list MUST also end with a semicolon!
@@ -1132,31 +1112,31 @@ msgid "Display Calibration"
 msgstr "Displey kalibrlash"
 
 #. Translators: This starts the calibration process
-#: panels/color/cc-color-calibrate.blp:27
+#: panels/color/cc-color-calibrate.blp:28
 msgid "_Start"
 msgstr "Boshlash"
 
 #. Translators: This resumes the calibration process
-#: panels/color/cc-color-calibrate.blp:33
+#: panels/color/cc-color-calibrate.blp:34
 msgid "_Resume"
 msgstr "Pauza qilingan minerni davom ettirish uchun cookie tan olinmadi"
 
 #. Translators: This button returns the user back to the color control panel
-#: panels/color/cc-color-calibrate.blp:39
+#: panels/color/cc-color-calibrate.blp:40
 #: panels/system/users/cc-fingerprint-dialog.blp:39
 msgid "_Done"
-msgstr "_Bajarilgan"
+msgstr "Bajarilgan"
 
 #. TRANSLATORS: The user has to be careful not to knock the
 #. * display off the screen (although we do cope if this is
 #. * detected early enough)
-#: panels/color/cc-color-calibrate.blp:60
-#: panels/color/cc-color-calibrate.c:544
+#: panels/color/cc-color-calibrate.blp:61
+#: panels/color/cc-color-calibrate.c:557
 msgid "Do not disturb the calibration device while in progress"
 msgstr "Ishlayotgan vaqtda kalibrlash moslamasini bezovta qilmang"
 
 #. TRANSLATORS: The user has to attach the sensor to the screen
-#: panels/color/cc-color-calibrate.c:356
+#: panels/color/cc-color-calibrate.c:369
 msgid "Place your calibration device over the square and press “Start”"
 msgstr ""
 "Kalibrlash qurilmangizni kvadrat ustiga qoʻying va \"Ishga tushirish\" "
@@ -1165,7 +1145,7 @@ msgstr ""
 #. TRANSLATORS: Some calibration devices need the user to move a
 #. * dial or switch manually. We also show a picture showing them
 #. * what to do...
-#: panels/color/cc-color-calibrate.c:362
+#: panels/color/cc-color-calibrate.c:375
 msgid ""
 "Move your calibration device to the calibrate position and press “Continue”"
 msgstr ""
@@ -1175,7 +1155,7 @@ msgstr ""
 #. TRANSLATORS: Some calibration devices need the user to move a
 #. * dial or switch manually. We also show a picture showing them
 #. * what to do...
-#: panels/color/cc-color-calibrate.c:368
+#: panels/color/cc-color-calibrate.c:381
 msgid ""
 "Move your calibration device to the surface position and press “Continue”"
 msgstr ""
@@ -1185,47 +1165,47 @@ msgstr ""
 #. TRANSLATORS: on some hardware e.g. Lenovo W700 the sensor
 #. * is built into the palmrest and we need to fullscreen the
 #. * sample widget and shut the lid.
-#: panels/color/cc-color-calibrate.c:374
+#: panels/color/cc-color-calibrate.c:387
 msgid "Shut the laptop lid"
 msgstr "Laptop qopqogʻini yoping"
 
 #. TRANSLATORS: We suck, the calibration failed and we have no
 #. * good idea why or any suggestions
-#: panels/color/cc-color-calibrate.c:405
+#: panels/color/cc-color-calibrate.c:418
 msgid "An internal error occurred that could not be recovered."
 msgstr "Qayta tiklab boʻlmaydigan ichki xatolik yuz berdi."
 
 #. TRANSLATORS: Some required-at-runtime tools were not
 #. * installed, which should only affect insane distros
-#: panels/color/cc-color-calibrate.c:410
+#: panels/color/cc-color-calibrate.c:423
 msgid "Tools required for calibration are not installed."
 msgstr "Kalibrlash uchun zarur asboblar oʻrnatilmagan."
 
 #. TRANSLATORS: The profile failed for some reason
-#: panels/color/cc-color-calibrate.c:416
+#: panels/color/cc-color-calibrate.c:429
 msgid "The profile could not be generated."
 msgstr "Profilni yaratib boʻlmadi."
 
 #. TRANSLATORS: The user specified a whitepoint that was
 #. * unobtainable with the hardware they've got -- see
 #. * https://en.wikipedia.org/wiki/White_point for details
-#: panels/color/cc-color-calibrate.c:422
+#: panels/color/cc-color-calibrate.c:435
 msgid "The target whitepoint was not obtainable."
 msgstr "Maqsadli oq nuqta olinmadi."
 
 #. TRANSLATORS: the display calibration process is finished
-#: panels/color/cc-color-calibrate.c:461
+#: panels/color/cc-color-calibrate.c:474
 msgid "Complete!"
 msgstr "Sozlashni tugallash!"
 
 #. TRANSLATORS: the display calibration failed, and we also show
 #. * the translated (or untranslated) error string after this
-#: panels/color/cc-color-calibrate.c:469
+#: panels/color/cc-color-calibrate.c:482
 msgid "Calibration failed!"
 msgstr "Kalibrlash amalga oshmadi!"
 
 #. TRANSLATORS: The user can now remove the sensor from the screen
-#: panels/color/cc-color-calibrate.c:476
+#: panels/color/cc-color-calibrate.c:489
 msgid "You can remove the calibration device."
 msgstr "Siz kalibrlash moslamasini olib tashlashingiz mumkin."
 
@@ -1499,7 +1479,7 @@ msgstr "Profil qoʻshish"
 
 #: panels/color/cc-color-panel.ui:343
 msgid "_Import File…"
-msgstr "_Faylni import qilish…"
+msgstr "Faylni import qilish…"
 
 #: panels/color/cc-color-panel.ui:418
 msgid ""
@@ -1511,7 +1491,7 @@ msgstr ""
 
 #: panels/color/cc-color-panel.ui:466
 msgid "_Set for All Users"
-msgstr "_Barcha foydalanuvchilar uchun sozlangan"
+msgstr "Barcha foydalanuvchilar uchun sozlangan"
 
 #: panels/color/cc-color-panel.ui:467
 msgid "Set this profile for all users on this device"
@@ -1520,7 +1500,7 @@ msgstr ""
 
 #: panels/color/cc-color-panel.ui:474
 msgid "_Enable"
-msgstr "_Yoqish"
+msgstr "Yoqish"
 
 #: panels/color/cc-color-panel.ui:475
 msgid "Enable profile"
@@ -1528,11 +1508,11 @@ msgstr "Profilni yoqish"
 
 #: panels/color/cc-color-panel.ui:489
 msgid "_Add Profile"
-msgstr "_Profil qoʻshish"
+msgstr "Profil qoʻshish"
 
 #: panels/color/cc-color-panel.ui:496
 msgid "_Calibrate…"
-msgstr "_Kalibrlash…"
+msgstr "Kalibrlash…"
 
 #: panels/color/cc-color-panel.ui:497
 msgid "Calibrate the device"
@@ -1540,11 +1520,11 @@ msgstr "Qurilmani kalibrlash"
 
 #: panels/color/cc-color-panel.ui:504
 msgid "_Remove Profile"
-msgstr "_Profilni oʻchirish"
+msgstr "Profilni oʻchirish"
 
 #: panels/color/cc-color-panel.ui:511
 msgid "_View Details"
-msgstr "_Tafsilotlarni koʻrish"
+msgstr "Tafsilotlarni koʻrish"
 
 #: panels/color/cc-color-panel.ui:539
 msgid "No Devices"
@@ -1746,7 +1726,7 @@ msgstr "Tilni tanlang"
 #: panels/printers/pp-ppd-selection-dialog.blp:26
 #: panels/system/region/cc-format-chooser.blp:40
 msgid "_Select"
-msgstr "_Tanlash"
+msgstr "Tanlash"
 
 #: panels/common/cc-language-chooser.blp:43
 msgid "Language or country"
@@ -1762,7 +1742,7 @@ msgid "More…"
 msgstr "Koʻproq…"
 
 #: panels/common/cc-list-row-info-button.blp:5
-#: panels/wellbeing/cc-wellbeing-panel.blp:15
+#: panels/wellbeing/cc-wellbeing-panel.blp:19
 msgid "More Information"
 msgstr "Batafsil"
 
@@ -1783,7 +1763,7 @@ msgstr "Ba'zi sozlamalar qulflangan"
 
 #: panels/common/cc-permission-infobar.c:56
 msgid "_Unlock…"
-msgstr "_Qulfni ochish…"
+msgstr "Qulfni ochish…"
 
 #: panels/common/cc-timelike-editor.blp:17
 msgid "Increment Hour"
@@ -1913,7 +1893,7 @@ msgstr "Displeylar"
 #: panels/display/cc-display-panel.blp:199
 #: panels/network/connection-editor/connection-editor.blp:24
 msgid "_Apply"
-msgstr "_Qoʻllamoq"
+msgstr "Qoʻllamoq"
 
 #: panels/display/cc-display-panel.blp:60
 msgid "Display Settings Disabled"
@@ -1926,11 +1906,11 @@ msgstr "Bir nechta displeylar"
 #. Translators: 'Join' as in 'Join displays'
 #: panels/display/cc-display-panel.blp:78
 msgid "_Join"
-msgstr "_Qoʻshilish"
+msgstr "Qoʻshilish"
 
 #: panels/display/cc-display-panel.blp:84
 msgid "_Mirror"
-msgstr "_Oyna"
+msgstr "Oyna"
 
 #: panels/display/cc-display-panel.blp:99
 msgid "Contains top bar and Activities"
@@ -1938,14 +1918,14 @@ msgstr "Yuqori bar va Faoliyatlarni oʻz ichiga oladi"
 
 #: panels/display/cc-display-panel.blp:100
 msgid "_Primary Display"
-msgstr "_Birlamchi displey"
+msgstr "Birlamchi displey"
 
 #. Translators: This is the redshift functionality where we suppress blue
 #. light when the sun has gone down
 #: panels/display/cc-display-panel.blp:113
 #: panels/display/cc-night-light-page.blp:63
 msgid "_Night Light"
-msgstr "_Tungi yorugʻlik"
+msgstr "Tungi yorugʻlik"
 
 #: panels/display/cc-display-panel.blp:127
 msgid "Night Light"
@@ -1977,23 +1957,21 @@ msgstr "Buning sababi apparat cheklovlari boʻlishi mumkin."
 #: panels/display/cc-display-settings.blp:31
 msgctxt "display setting"
 msgid "_Orientation"
-msgstr "_Orientatsiya"
+msgstr "Orientatsiya"
 
 #: panels/display/cc-display-settings.blp:38
 msgctxt "display setting"
 msgid "_Resolution"
-msgstr "_Rezolyutsiya"
+msgstr "Rezolyutsiya"
 
 #: panels/display/cc-display-settings.blp:45
 #: panels/display/cc-display-settings.blp:52
-#, fuzzy
-#| msgid "Re_fresh rate:"
 msgid "R_efresh Rate"
-msgstr "R_efresh darajasi"
+msgstr "R_efresh Rate"
 
 #: panels/display/cc-display-settings.blp:60
 msgid "_Variable Refresh Rate"
-msgstr "_Oʻzgaruvchan yangilanish tezligi"
+msgstr "Oʻzgaruvchan yangilanish tezligi"
 
 #: panels/display/cc-display-settings.blp:67
 #, fuzzy
@@ -2003,17 +1981,17 @@ msgstr "Re_fresh tezligi"
 
 #: panels/display/cc-display-settings.blp:75
 msgid "_HDR (High Dynamic Range)"
-msgstr "_HDR (Yuqori dinamik diapazon)"
+msgstr "HDR (Yuqori dinamik diapazon)"
 
 #: panels/display/cc-display-settings.blp:82
 msgid "Adjust for _TV"
-msgstr "_TV uchun sozlang"
+msgstr "TV uchun sozlang"
 
 #: panels/display/cc-display-settings.blp:89
 #: panels/display/cc-display-settings.blp:101
 msgctxt "display setting"
 msgid "_Scale"
-msgstr "_Mashtab"
+msgstr "Mashtab"
 
 #: panels/display/cc-display-settings.c:124
 msgctxt "Display rotation"
@@ -2038,9 +2016,7 @@ msgstr "Landshaft (aylantirilgan)"
 #: panels/display/cc-display-settings.c:144
 msgctxt "Display rotation"
 msgid "Portrait"
-msgstr ""
-"Portret nisbatdagi asosiy ekran, bitta taymer 180 daraja aylantirilganini "
-"koʻrsatadi"
+msgstr "Portret"
 
 #: panels/display/cc-display-settings.c:147
 msgctxt "Display rotation"
@@ -2075,7 +2051,7 @@ msgstr "Chap"
 #: panels/display/cc-display-settings.c:173
 msgctxt "Display rotation"
 msgid "Flipped"
-msgstr "Oʻgirildi"
+msgstr "Oʻgirilgan"
 
 #: panels/display/cc-display-settings.c:239
 msgid "%.2lf Hz"
@@ -2130,7 +2106,7 @@ msgstr "Qoʻlda jadval"
 
 #: panels/display/cc-night-light-page.blp:82
 msgid "_Times"
-msgstr "_Vaqt"
+msgstr "Vaqt"
 
 #: panels/display/cc-night-light-page.blp:96
 msgid "From"
@@ -2660,7 +2636,7 @@ msgstr "Yoʻq"
 
 #: panels/keyboard/cc-keyboard-shortcut-editor.blp:250
 msgid "_Set Shortcut…"
-msgstr "_Yorliq oʻrnatish…"
+msgstr "Yorliq oʻrnatish…"
 
 #. TRANSLATORS: Don't translate/transliterate <b>%s</b>, which is the
 #. accelerator used
@@ -3187,7 +3163,7 @@ msgstr "Tarmoq nomi"
 #: panels/network/cc-wifi-hotspot-dialog.blp:79
 #: panels/printers/pp-jobs-dialog.blp:171
 #: panels/printers/pp-new-printer-dialog.ui:300
-#: panels/system/users/cc-add-user-dialog.ui:103
+#: panels/system/users/cc-add-user-dialog.ui:104
 #: panels/wwan/cc-wwan-apn-dialog.blp:152
 msgid "Password"
 msgstr "Parol"
@@ -3391,6 +3367,14 @@ msgstr "802.1x _Xavfsizlik"
 #: panels/system/users/cc-user-page.blp:77
 msgid "_Name"
 msgstr "Ism"
+
+#: panels/network/connection-editor/ce-ip-address-entry.c:53
+msgid "IP address value not valid"
+msgstr ""
+
+#: panels/network/connection-editor/ce-netmask-entry.c:82
+msgid "Netmask value not valid"
+msgstr ""
 
 #: panels/network/connection-editor/ce-page-8021x-security.c:106
 #: panels/network/connection-editor/ce-page-security.c:416
@@ -3649,21 +3633,21 @@ msgstr "avtomatik"
 msgid "Automatic DNS is enabled. Did you intend to disable Automatic DNS?"
 msgstr "Avtomatik DNS yoqilgan. Avtomatik DNS-ni oʻchirib qoʻymoqchimisiz?"
 
-#: panels/network/connection-editor/ce-page-ip4.c:293
-#: panels/network/connection-editor/ce-page-ip6.c:277
+#: panels/network/connection-editor/ce-page-ip4.c:296
+#: panels/network/connection-editor/ce-page-ip6.c:280
 msgid "Delete Address"
 msgstr "Manzilni oʻchirish"
 
-#: panels/network/connection-editor/ce-page-ip4.c:462
-#: panels/network/connection-editor/ce-page-ip6.c:434
+#: panels/network/connection-editor/ce-page-ip4.c:465
+#: panels/network/connection-editor/ce-page-ip6.c:437
 msgid "Delete Route"
 msgstr "Yoʻnalishni oʻchirish"
 
-#: panels/network/connection-editor/ce-page-ip4.c:799
+#: panels/network/connection-editor/ce-page-ip4.c:802
 msgid "IPv4"
 msgstr "IPv4 tarmoq ulanishi"
 
-#: panels/network/connection-editor/ce-page-ip6.c:768
+#: panels/network/connection-editor/ce-page-ip6.c:771
 msgid "IPv6"
 msgstr "IPv6 tarmoq ulanishi"
 
@@ -3956,8 +3940,8 @@ msgstr ""
 "Xato: %s."
 
 #: panels/network/connection-editor/vpn-helpers.c:148
-#: panels/system/users/cc-add-user-dialog.c:87
-#: panels/system/users/cc-password-dialog.c:150 shell/cc-window.blp:77
+#: panels/system/users/cc-add-user-dialog.c:88
+#: panels/system/users/cc-password-dialog.c:158 shell/cc-window.blp:77
 msgid "_OK"
 msgstr "_OK"
 
@@ -5086,20 +5070,18 @@ msgid "High performance and power usage"
 msgstr "Yuqori unumdorlik va quvvat sarfi"
 
 #: panels/power/cc-power-profile-row.c:132
-#, fuzzy
 msgctxt "Power profile"
 msgid "Ba_lanced"
-msgstr "Balanslangan"
+msgstr "Muvozanatli"
 
 #: panels/power/cc-power-profile-row.c:133
 msgid "Standard performance and power usage"
 msgstr "Standart ishlash va quvvat sarfi"
 
 #: panels/power/cc-power-profile-row.c:136
-#, fuzzy
 msgctxt "Power profile"
 msgid "P_ower Saver"
-msgstr "P_ower Saver"
+msgstr "Quvvatni tejash"
 
 #: panels/power/cc-power-profile-row.c:137
 msgid "Reduced performance and power usage"
@@ -5107,7 +5089,7 @@ msgstr "Ishlash va quvvat sarfini kamaytirish"
 
 #: panels/power/gnome-power-panel.desktop.in:2
 msgid "Power"
-msgstr "Oʻrnatish va oʻchirish"
+msgstr "Quvvat"
 
 #: panels/power/gnome-power-panel.desktop.in:3
 msgid "View your battery status and change power saving settings"
@@ -5188,11 +5170,11 @@ msgstr "Printer nomlarida SPACE, TAB, # yoki / boʻlishi mumkin emas"
 #: panels/printers/pp-details-dialog.blp:45
 #: panels/privacy/cc-privacy-panel.blp:28
 msgid "_Location"
-msgstr "_Joylashuv"
+msgstr "Joylashuv"
 
 #: panels/printers/pp-details-dialog.blp:50
 msgid "_Address"
-msgstr "_Manzil"
+msgstr "Manzil"
 
 #: panels/printers/pp-details-dialog.blp:61
 msgid "Open Address"
@@ -5208,7 +5190,7 @@ msgstr ""
 
 #: panels/printers/pp-details-dialog.blp:90
 msgid "_Search for Drivers"
-msgstr "_Haydovchilarni qidirish"
+msgstr "Drayverlarni qidirish"
 
 #: panels/printers/pp-details-dialog.blp:96
 msgid "S_elect from Database…"
@@ -5216,7 +5198,7 @@ msgstr "Maʼlumotlar bazas_idan tanlash…"
 
 #: panels/printers/pp-details-dialog.blp:102
 msgid "_Install PPD File…"
-msgstr "_PPD faylini oʻrnatish…"
+msgstr "PPD faylini oʻrnatish…"
 
 #: panels/printers/pp-details-dialog.c:106
 msgid "No suitable driver found"
@@ -5353,7 +5335,7 @@ msgstr "Faol ishlar"
 #. list.
 #: panels/printers/pp-jobs-dialog.blp:15
 msgid "_Clear All"
-msgstr "_Hammasini tozalash"
+msgstr "Hammasini tozalash"
 
 #. Translators: this label describes the dialog empty state, with no jobs
 #. listed.
@@ -5365,7 +5347,7 @@ msgstr "Faol printer ishlari yoʻq"
 #. need credentials.
 #: panels/printers/pp-jobs-dialog.blp:77
 msgid "_Authenticate"
-msgstr "_Tasdiqlash"
+msgstr "Tasdiqlash"
 
 #: panels/printers/pp-jobs-dialog.blp:105
 msgid "Clear All Active Jobs?"
@@ -5377,12 +5359,12 @@ msgstr "Ishlarni tozalashni ortga qaytarib boʻlmaydi"
 
 #: panels/printers/pp-jobs-dialog.blp:113
 msgid "Clear _All"
-msgstr "_Hammasini tozalash"
+msgstr "Hammasini tozalash"
 
 #. Translators: This is a windows domain used with SMB protocol.
 #: panels/printers/pp-jobs-dialog.blp:143
 msgid "Domain"
-msgstr "DOMAIN"
+msgstr "Domen"
 
 #. Translators: This is a username on a print server.
 #: panels/printers/pp-jobs-dialog.blp:157
@@ -5394,10 +5376,8 @@ msgstr "Foydalanuvchi nomi"
 #. Translators: This button authenticates all print jobs and send them for
 #. printing.
 #: panels/printers/pp-jobs-dialog.blp:219
-#, fuzzy
-#| msgid "_Authenticate"
 msgid "A_uthenticate"
-msgstr "A_autentifikatsiya"
+msgstr "Tasdiqlash"
 
 #. Translators: This label shows how many jobs of this printer needs to be
 #. authenticated to be printed.
@@ -5493,7 +5473,7 @@ msgstr "Orqaga"
 #: panels/printers/pp-new-printer-dialog.ui:128
 #: panels/wwan/cc-wwan-device-page.blp:31
 msgid "_Unlock"
-msgstr "_Qulfni ochish"
+msgstr "Qulfni ochish"
 
 #. Translators: No printers were detected
 #: panels/printers/pp-new-printer-dialog.ui:179
@@ -5528,7 +5508,7 @@ msgstr "Printer opsiyalari"
 #. Translators: This button triggers the printing of a test page.
 #: panels/printers/pp-options-dialog.blp:19
 msgid "_Test Page"
-msgstr "_Test sahifasi"
+msgstr "Test sahifasi"
 
 #: panels/printers/pp-options-dialog.c:86
 msgid "Two Sided"
@@ -5674,11 +5654,11 @@ msgstr "Oldindan filtrlash yoʻq"
 
 #: panels/printers/pp-ppd-selection-dialog.blp:7
 msgid "Select Printer Driver"
-msgstr "Printer Driver-ni tanlang"
+msgstr "Printer drayverini tanlang"
 
 #: panels/printers/pp-ppd-selection-dialog.blp:46
 msgid "Loading Drivers"
-msgstr "Haydovchilar yuklanmoqda"
+msgstr "Drayverlar yuklanmoqda"
 
 #. Translators: Name of column showing printer manufacturers
 #: panels/printers/pp-ppd-selection-dialog.c:216
@@ -5741,7 +5721,7 @@ msgstr "Printerni olib tashlang"
 #, c-format
 msgid "%u Job"
 msgid_plural "%u Jobs"
-msgstr[0] "%u Ish"
+msgstr[0] "%u ta Ish"
 msgstr[1] "%u Ishlar"
 
 #. Translators: Name of job which makes printer to clean its heads
@@ -6470,8 +6450,8 @@ msgstr "Yaroqsiz"
 #. TRANSLATORS: if the function is enabled through BIOS or OS settings.
 #. TRANSLATORS: Status of Parental Controls setup
 #: panels/privacy/firmware-security/cc-firmware-security-utils.c:45
-#: panels/system/users/cc-user-page.c:365
-#: panels/system/users/cc-user-page.c:753
+#: panels/system/users/cc-user-page.c:366
+#: panels/system/users/cc-user-page.c:755
 #: panels/wwan/cc-wwan-device-page.c:475
 msgid "Enabled"
 msgstr "Yoqilgan"
@@ -6550,7 +6530,7 @@ msgstr ""
 
 #: panels/privacy/location/cc-location-page.blp:15
 msgid "_Automatic Device Location"
-msgstr "_Avtomatik qurilma joylashuvi"
+msgstr "Avtomatik qurilma joylashuvi"
 
 #: panels/privacy/location/cc-location-page.blp:16
 msgid "Use sources like GPS and cellular to determine device location"
@@ -6586,7 +6566,7 @@ msgstr ""
 
 #: panels/privacy/screen/cc-screen-page.blp:17
 msgid "_Blank Screen Delay"
-msgstr "_Blank Screen Delay"
+msgstr "Ekranni oʻchirish vaqti"
 
 #: panels/privacy/screen/cc-screen-page.blp:18
 msgid "Period of inactivity until screen blanks"
@@ -6620,7 +6600,7 @@ msgstr "Bloklash ekrani _Bildirishnomalar"
 
 #: panels/privacy/screen/cc-screen-page.blp:65
 msgid "Forbid New _USB Devices"
-msgstr "Yangi _USB qurilmalarni taqiqlash"
+msgstr "Yangi USB qurilmalarni taqiqlash"
 
 #: panels/privacy/screen/cc-screen-page.blp:66
 msgid ""
@@ -6658,7 +6638,7 @@ msgstr ""
 
 #: panels/privacy/usage/cc-usage-page.blp:18
 msgid "File H_istory"
-msgstr "Fayl tarix_i"
+msgstr "Fayl tarixi"
 
 #: panels/privacy/usage/cc-usage-page.blp:23
 msgid "File _History Duration"
@@ -6671,7 +6651,7 @@ msgstr "Abadiy"
 
 #: panels/privacy/usage/cc-usage-page.blp:40
 msgid "_Clear History…"
-msgstr "_Tarixni tozalash…"
+msgstr "Tarixni tozalash…"
 
 #: panels/privacy/usage/cc-usage-page.blp:51
 msgid "Trash &amp; Temporary Files"
@@ -6688,7 +6668,7 @@ msgstr ""
 
 #: panels/privacy/usage/cc-usage-page.blp:55
 msgid "Automatically Empty _Trash"
-msgstr "_Trashni avtomatik boʻshatish"
+msgstr "Trashni avtomatik boʻshatish"
 
 #: panels/privacy/usage/cc-usage-page.blp:60
 msgid "Automatically Delete Temporary _Files"
@@ -6706,11 +6686,11 @@ msgstr "1 soat"
 
 #: panels/privacy/usage/cc-usage-page.blp:83
 msgid "_Empty Trash…"
-msgstr "_Chiqindini boʻshatish…"
+msgstr "Chiqindini boʻshatish…"
 
 #: panels/privacy/usage/cc-usage-page.blp:93
 msgid "_Delete Temporary Files…"
-msgstr "_Vaqtinchalik fayllarni oʻchirish…"
+msgstr "Vaqtinchalik fayllarni oʻchirish…"
 
 #: panels/privacy/usage/cc-usage-page.blp:107
 msgid "Clear File History?"
@@ -6723,7 +6703,7 @@ msgstr ""
 
 #: panels/privacy/usage/cc-usage-page.blp:115
 msgid "Clear _History"
-msgstr "_Tarixni tozalash"
+msgstr "Tarixni tozalash"
 
 #: panels/privacy/usage/cc-usage-page.blp:120
 msgid "Empty all items from Trash?"
@@ -6735,7 +6715,7 @@ msgstr "Chiqindidagi barcha elementlar butunlay oʻchirib tashlanadi."
 
 #: panels/privacy/usage/cc-usage-page.blp:128
 msgid "_Empty Trash"
-msgstr "_Chiqindini boʻshatish"
+msgstr "Chiqindini boʻshatish"
 
 #: panels/privacy/usage/cc-usage-page.blp:133
 msgid "Delete all the temporary files?"
@@ -6747,7 +6727,7 @@ msgstr "Barcha vaqtinchalik fayllar butunlay oʻchiriladi."
 
 #: panels/privacy/usage/cc-usage-page.blp:141
 msgid "_Purge Temporary Files"
-msgstr "_Vaqtinchalik fayllarni tozalash"
+msgstr "Vaqtinchalik fayllarni tozalash"
 
 #: panels/search/cc-search-locations-page.blp:5
 msgid "Search Locations"
@@ -6798,7 +6778,7 @@ msgstr "Joylashuvni tanlang"
 
 #: panels/search/cc-search-panel.blp:16
 msgid "_App Search"
-msgstr "_Ilova qidiruvi"
+msgstr "Ilova qidiruvi"
 
 #: panels/search/cc-search-panel.blp:17
 msgid "Include app-provided search results"
@@ -6844,7 +6824,7 @@ msgstr "Ulashish uchun hech qanday tarmoq tanlanmagan"
 #: panels/sharing/cc-sharing-panel.blp:14
 #: panels/system/about/cc-about-page.blp:48
 msgid "_Device Name"
-msgstr "_Qurilma nomi"
+msgstr "Qurilma nomi"
 
 #: panels/sharing/cc-sharing-panel.blp:23
 msgid "Share files with other devices on the current network"
@@ -6863,7 +6843,7 @@ msgstr ""
 #: panels/sharing/cc-sharing-panel.blp:32
 #: panels/sharing/cc-sharing-panel.blp:134
 msgid "_Media Sharing"
-msgstr "_Media almashish"
+msgstr "Media almashish"
 
 #: panels/sharing/cc-sharing-panel.blp:41
 msgid "File Sharing"
@@ -6888,11 +6868,11 @@ msgstr "Nusxalash"
 
 #: panels/sharing/cc-sharing-panel.blp:86
 msgid "_Open Public Folder"
-msgstr "_Ochiq papkani oching"
+msgstr "Ochiq papkani oching"
 
 #: panels/sharing/cc-sharing-panel.blp:97
 msgid "_Require Password"
-msgstr "_Parol talab qiling"
+msgstr "Parol talab qiling"
 
 #: panels/sharing/cc-sharing-panel.blp:104
 msgid ""
@@ -6903,10 +6883,10 @@ msgstr ""
 "Bu tarmoqdagi qurilmalar qaysi kontent ulashilayotganini koʻrishi mumkin."
 
 #: panels/sharing/cc-sharing-panel.blp:113
-#: panels/system/users/cc-add-user-dialog.ui:176
+#: panels/system/users/cc-add-user-dialog.ui:177
 #: panels/system/users/cc-enterprise-login-dialog.blp:87
 msgid "_Password"
-msgstr "_Parol"
+msgstr "Parol"
 
 #: panels/sharing/cc-sharing-panel.blp:124
 msgid "Media Sharing"
@@ -6949,7 +6929,7 @@ msgstr "Jildni tanlang"
 
 #: panels/sharing/cc-sharing-panel.c:448
 msgid "_Add Folder"
-msgstr "_Jild qoʻshish"
+msgstr "Jild qoʻshish"
 
 #. Translators: %s is the hostname of the user's device
 #: panels/sharing/cc-sharing-panel.c:607
@@ -7032,11 +7012,11 @@ msgstr "%u Chiqish"
 
 #: panels/sound/cc-sound-panel.blp:27
 msgid "_Test…"
-msgstr "_Test…"
+msgstr "Test…"
 
 #: panels/sound/cc-sound-panel.blp:34
 msgid "_Output Device"
-msgstr "_Chiqish qurilmasi"
+msgstr "Chiqish qurilmasi"
 
 #: panels/sound/cc-sound-panel.blp:39
 msgid "_Configuration"
@@ -7047,23 +7027,20 @@ msgid "Master volume"
 msgstr "Asosiy hajm"
 
 #: panels/sound/cc-sound-panel.blp:60
-#, fuzzy
-#| msgid "Volume"
 msgid "O_utput Volume"
-msgstr "O_utput hajmi"
+msgstr "Chiqish hajmi"
 
 #: panels/sound/cc-sound-panel.blp:83
 msgid "_Balance"
-msgstr "_Balans"
+msgstr "Balans"
 
 #: panels/sound/cc-sound-panel.blp:106
-#, fuzzy
 msgid "Fad_e"
-msgstr "Fad_e"
+msgstr "Fade"
 
 #: panels/sound/cc-sound-panel.blp:129
 msgid "_Subwoofer"
-msgstr "_Subwoofer"
+msgstr "Subwoofer"
 
 #: panels/sound/cc-sound-panel.blp:144
 msgid "Output Device"
@@ -7079,7 +7056,7 @@ msgstr "Kirish"
 
 #: panels/sound/cc-sound-panel.blp:160
 msgid "_Input Device"
-msgstr "_Kirish qurilmasi"
+msgstr "Kiritish qurilmasi"
 
 #: panels/sound/cc-sound-panel.blp:165
 #, fuzzy
@@ -7165,10 +7142,8 @@ msgid "System Logo"
 msgstr "Tizim logotipi"
 
 #: panels/system/about/cc-about-page.blp:29
-#, fuzzy
-#| msgid "Supported"
 msgid "Support GNOME"
-msgstr "Qoʻllab-quvvatlanadi"
+msgstr "GNOMEʼni qoʻllab-quvvatlang"
 
 #: panels/system/about/cc-about-page.blp:30
 msgid "GNOME needs your help. Please donate today."
@@ -7208,7 +7183,7 @@ msgstr "Hisoblanmoqda…"
 
 #: panels/system/about/cc-about-page.blp:103
 msgid "_System Details"
-msgstr "_Tizim tafsilotlari"
+msgstr "Tizim tafsilotlari"
 
 #: panels/system/about/cc-system-details-window.blp:5
 msgid "System Details"
@@ -7220,7 +7195,7 @@ msgstr "_Nusxa olish"
 
 #: panels/system/about/cc-system-details-window.blp:58
 msgid "Hardware Information"
-msgstr "Uskuna haqida ma'lumot"
+msgstr "Qurilma maʼlumotlari"
 
 #: panels/system/about/cc-system-details-window.blp:101
 msgid "Software Information"
@@ -7323,7 +7298,7 @@ msgstr ""
 
 #: panels/system/cc-system-panel.blp:16
 msgid "_Region &amp; Language"
-msgstr "_Region &amp; Til"
+msgstr "_Mintaqa &amp; Til"
 
 #: panels/system/cc-system-panel.blp:17
 msgid "System language and localization"
@@ -7662,11 +7637,11 @@ msgstr "Hisobingiz"
 #: panels/system/region/cc-region-page.blp:28
 #: panels/system/users/cc-user-page.blp:162
 msgid "_Language"
-msgstr "_Til"
+msgstr "Til"
 
 #: panels/system/region/cc-region-page.blp:34
 msgid "_Formats"
-msgstr "_Formatlar"
+msgstr "Formatlar"
 
 #: panels/system/region/cc-region-page.blp:41
 msgid "Login Screen"
@@ -7674,7 +7649,7 @@ msgstr "Kirish ekrani"
 
 #: panels/system/region/cc-region-page.blp:44
 msgid "L_anguage"
-msgstr "Til_"
+msgstr "Til"
 
 #: panels/system/region/cc-region-page.blp:50
 msgid "Fo_rmats"
@@ -7701,7 +7676,7 @@ msgstr ""
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:22
 msgid "_Desktop Sharing"
-msgstr "_Ish stolini almashish"
+msgstr "Ish stolini almashish"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:27
 msgid "Remote _Control"
@@ -7729,12 +7704,12 @@ msgstr ""
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:38
 #: panels/system/remote-desktop/cc-remote-login-page.blp:37
 msgid "_Hostname"
-msgstr "_Xost nomi"
+msgstr "Host nomi"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:59
 #: panels/system/remote-desktop/cc-remote-login-page.blp:58
 msgid "_Port"
-msgstr "_Port"
+msgstr "Port"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:81
 #: panels/system/remote-desktop/cc-remote-login-page.blp:81
@@ -7746,22 +7721,22 @@ msgstr "Kirish tafsilotlari"
 #: panels/system/users/cc-add-user-dialog.ui:87
 #: panels/system/users/cc-enterprise-login-dialog.blp:81
 msgid "_Username"
-msgstr "_Resurs uchun foydalanuvchi nomi"
+msgstr "Foydalanuvchi nomi"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:101
 #: panels/system/remote-desktop/cc-remote-login-page.blp:101
 msgid "P_assword"
-msgstr "P_arol"
+msgstr "Parol"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:123
 #: panels/system/remote-desktop/cc-remote-login-page.blp:124
 msgid "_Generate New Password"
-msgstr "_Yangi parol yarating"
+msgstr "Yangi parol yarating"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.blp:130
 #: panels/system/remote-desktop/cc-remote-login-page.blp:131
 msgid "_Verify Encryption"
-msgstr "_Shifrlashni tekshirish"
+msgstr "Shifrlashni tekshirish"
 
 #: panels/system/remote-desktop/cc-desktop-sharing-page.c:357
 #: panels/system/remote-desktop/cc-remote-login-page.c:96
@@ -7801,11 +7776,11 @@ msgstr "Masofaviy ish stoli"
 
 #: panels/system/remote-desktop/cc-remote-desktop-page.blp:38
 msgid "Desktop _Sharing"
-msgstr "Ish stoli _Sharing"
+msgstr "Ish stolini ulashish"
 
 #: panels/system/remote-desktop/cc-remote-desktop-page.blp:46
 msgid "Remote _Login"
-msgstr "Masofaviy _Login"
+msgstr "Masofadan kirish"
 
 #: panels/system/remote-desktop/cc-remote-login-page.blp:14
 msgid ""
@@ -7817,7 +7792,7 @@ msgstr ""
 
 #: panels/system/remote-desktop/cc-remote-login-page.blp:27
 msgid "_Remote Login"
-msgstr "_Masofadan kirish"
+msgstr "Masofadan kirish"
 
 #: panels/system/remote-desktop/org.gnome.controlcenter.remote-session-helper.policy.in.in:11
 msgid "Enable or disable remote sessions"
@@ -7839,7 +7814,7 @@ msgstr "Secure Shell (SSH) yordamida ushbu qurilmaga kiring"
 
 #: panels/system/secure-shell/cc-secure-shell-page.blp:29
 msgid "_Secure Shell"
-msgstr "_Secure Shell"
+msgstr "Xavfsiz Shell"
 
 #: panels/system/secure-shell/cc-secure-shell-page.blp:35
 msgid "SSH Login _Command"
@@ -7859,22 +7834,26 @@ msgstr ""
 "Masofaviy kirishni yoqish yoki oʻchirish uchun autentifikatsiya talab "
 "qilinadi"
 
-#: panels/system/users/cc-add-user-dialog.c:151
+#: panels/system/users/cc-add-user-dialog.c:152
 msgid "Failed to add account"
 msgstr "Hisob qoʻshib boʻlmadi"
 
-#: panels/system/users/cc-add-user-dialog.c:282
+#: panels/system/users/cc-add-user-dialog.c:290
+#: panels/system/users/cc-password-dialog.c:271
+#: panels/system/users/cc-password-dialog.c:356
 msgid "Passwords match"
 msgstr "Parollar mos keladi"
 
-#: panels/system/users/cc-add-user-dialog.c:282
+#: panels/system/users/cc-add-user-dialog.c:290
+#: panels/system/users/cc-password-dialog.c:267
+#: panels/system/users/cc-password-dialog.c:399
 msgid "Passwords do not match"
 msgstr "Parollar mos kelmaydi"
 
-#: panels/system/users/cc-add-user-dialog.c:362
+#: panels/system/users/cc-add-user-dialog.c:370
 #: panels/wwan/cc-wwan-sim-lock-dialog.blp:21
 msgid "_Next"
-msgstr "_Keyingisi"
+msgstr "Keyingisi"
 
 #: panels/system/users/cc-add-user-dialog.ui:15
 msgid "Add User"
@@ -7905,12 +7884,10 @@ msgid "User Details"
 msgstr "Foydalanuvchi tafsilotlari"
 
 #: panels/system/users/cc-add-user-dialog.ui:79
-#, fuzzy
-#| msgid "Full Name"
 msgid "Fu_ll Name"
 msgstr "Toʻliq ism"
 
-#: panels/system/users/cc-add-user-dialog.ui:95
+#: panels/system/users/cc-add-user-dialog.ui:96
 msgid ""
 "Usernames can only include lower case letters, numbers, hyphens and "
 "underscores."
@@ -7918,28 +7895,28 @@ msgstr ""
 "Foydalanuvchi nomlari faqat kichik harflar, raqamlar, tire va pastki "
 "chiziqni oʻz ichiga olishi mumkin."
 
-#: panels/system/users/cc-add-user-dialog.ui:107
+#: panels/system/users/cc-add-user-dialog.ui:108
 msgid "User sets password on _first login"
 msgstr "Foydalanuvchi _birinchi kirishda parol oʻrnatadi"
 
-#: panels/system/users/cc-add-user-dialog.ui:120
+#: panels/system/users/cc-add-user-dialog.ui:121
 msgid "Set password n_ow"
-msgstr "Paroln_i hozir oʻrnating"
+msgstr "Parolni hozir oʻrnating"
 
-#: panels/system/users/cc-add-user-dialog.ui:143
+#: panels/system/users/cc-add-user-dialog.ui:144
 msgid "Set Password"
 msgstr "Parol oʻrnatish"
 
-#: panels/system/users/cc-add-user-dialog.ui:219
+#: panels/system/users/cc-add-user-dialog.ui:221
 msgid ""
 "For a good password, mix upper case, lower case, numbers and punctuation."
 msgstr ""
 "Yaxshi parol uchun katta harf, kichik harf, raqamlar va tinish belgilarini "
 "aralashtiring."
 
-#: panels/system/users/cc-add-user-dialog.ui:229
+#: panels/system/users/cc-add-user-dialog.ui:231
 msgid "_Confirm Password"
-msgstr "_Parolni tasdiqlang"
+msgstr "Parolni tasdiqlang"
 
 #: panels/system/users/cc-avatar-chooser.blp:17
 msgid "Stock avatars"
@@ -7980,7 +7957,7 @@ msgstr ""
 
 #: panels/system/users/cc-enterprise-login-dialog.blp:67
 msgid "_Domain"
-msgstr "_Domen"
+msgstr "Domen"
 
 #: panels/system/users/cc-enterprise-login-dialog.blp:74
 msgid "Should match the web domain of the account provider"
@@ -7992,7 +7969,7 @@ msgstr "Qurilmani roʻyxatdan oʻtkazish"
 
 #: panels/system/users/cc-enterprise-login-dialog.blp:108
 msgid "_Enroll"
-msgstr "_Roʻyxatdan oʻtish"
+msgstr "Roʻyxatdan oʻtish"
 
 #: panels/system/users/cc-enterprise-login-dialog.blp:126
 msgid "Administrator _Name"
@@ -8101,7 +8078,7 @@ msgstr ""
 
 #: panels/system/users/cc-fingerprint-dialog.blp:194
 msgid "_Delete Fingerprints"
-msgstr "_Barmoq izlarini oʻchirish"
+msgstr "Barmoq izlarini oʻchirish"
 
 #: panels/system/users/cc-fingerprint-dialog.blp:207
 msgid "Fingerprint Enroll"
@@ -8155,7 +8132,7 @@ msgstr "Chap oʻrta barmoq"
 
 #: panels/system/users/cc-fingerprint-dialog.c:612
 msgid "_Left index finger"
-msgstr "_Chap koʻrsatkich barmogʻi"
+msgstr "Chap koʻrsatkich barmogʻi"
 
 #: panels/system/users/cc-fingerprint-dialog.c:614
 msgid "Left ring finger"
@@ -8175,7 +8152,7 @@ msgstr "Oʻng oʻrta barmoq"
 
 #: panels/system/users/cc-fingerprint-dialog.c:622
 msgid "_Right index finger"
-msgstr "_Oʻng koʻrsatkich barmogʻi"
+msgstr "Oʻng koʻrsatkich barmogʻi"
 
 #: panels/system/users/cc-fingerprint-dialog.c:624
 msgid "Right ring finger"
@@ -8235,7 +8212,7 @@ msgstr ""
 
 #: panels/system/users/cc-fingerprint-dialog.c:1015
 msgid "_Re-enroll this finger…"
-msgstr "_Ushbu barmoqni qayta roʻyxatdan oʻtkazish…"
+msgstr "Ushbu barmoqni qayta roʻyxatdan oʻtkazish…"
 
 #. TRANSLATORS: This is the label for the button to enroll a new finger
 #: panels/system/users/cc-fingerprint-dialog.c:1030
@@ -8277,17 +8254,17 @@ msgstr ""
 
 #: panels/system/users/cc-fingerprint-dialog.c:1401
 msgid "_Delete All"
-msgstr "_Hammasini oʻchirish"
+msgstr "Hammasini oʻchirish"
 
-#: panels/system/users/cc-password-dialog.c:129
+#: panels/system/users/cc-password-dialog.c:137
 msgid "Please choose another password."
 msgstr "Boshqa parolni tanlang."
 
-#: panels/system/users/cc-password-dialog.c:138
+#: panels/system/users/cc-password-dialog.c:146
 msgid "Please type your current password again."
 msgstr "Iltimos, joriy parolingizni qayta kiriting."
 
-#: panels/system/users/cc-password-dialog.c:144
+#: panels/system/users/cc-password-dialog.c:152
 msgid "Password could not be changed"
 msgstr "Parolni oʻzgartirib boʻlmadi"
 
@@ -8297,29 +8274,25 @@ msgstr "Parolni oʻzgartirish"
 
 #: panels/system/users/cc-password-dialog.ui:24
 msgid "Ch_ange"
-msgstr "Oʻzgartirish_"
+msgstr "Oʻzgartirish"
 
 #: panels/system/users/cc-password-dialog.ui:42
 msgid "Current Password"
 msgstr "Joriy parol"
 
-#: panels/system/users/cc-password-dialog.ui:54
+#: panels/system/users/cc-password-dialog.ui:61
 msgid "New Password"
 msgstr "Yangi Parol"
 
-#: panels/system/users/cc-password-dialog.ui:82
+#: panels/system/users/cc-password-dialog.ui:89
 msgid "Confirm Password"
 msgstr "Parolni Tasdiqlash"
 
-#: panels/system/users/cc-password-dialog.ui:94
-msgid "The passwords do not match"
-msgstr "Parollar mos kelmaydi"
-
-#: panels/system/users/cc-password-dialog.ui:130
+#: panels/system/users/cc-password-dialog.ui:125
 msgid "Allow user to change their password on next login"
 msgstr "Keyingi kirishda foydalanuvchi parolini oʻzgartirishga ruxsat bering"
 
-#: panels/system/users/cc-password-dialog.ui:142
+#: panels/system/users/cc-password-dialog.ui:137
 msgid "Set a password now"
 msgstr "Endi parol oʻrnating"
 
@@ -8366,15 +8339,15 @@ msgstr "Avatarni olib tashlang"
 
 #: panels/system/users/cc-user-page.blp:87
 msgid "Pa_ssword"
-msgstr "P_arol"
+msgstr "Parol"
 
 #: panels/system/users/cc-user-page.blp:98
 msgid "_Fingerprint Login"
-msgstr "_Barmoq izi bilan login"
+msgstr "Barmoq izi bilan login"
 
 #: panels/system/users/cc-user-page.blp:106
 msgid "A_utomatic Login"
-msgstr "A_avtomatik kirish"
+msgstr "Avtomatik kirish"
 
 #: panels/system/users/cc-user-page.blp:116
 msgid ""
@@ -8392,7 +8365,7 @@ msgstr "Administrator"
 
 #: panels/system/users/cc-user-page.blp:149
 msgid "_Parental Controls"
-msgstr "_Ota-ona nazorati"
+msgstr "Ota-ona nazorati"
 
 #: panels/system/users/cc-user-page.blp:150
 msgid "Open the Parental Controls app"
@@ -8400,7 +8373,7 @@ msgstr "Ota-ona nazorati ilovasini oching"
 
 #: panels/system/users/cc-user-page.blp:176
 msgid "_Remove User…"
-msgstr "_Foydalanuvchini oʻchirish…"
+msgstr "Foydalanuvchini oʻchirish…"
 
 #: panels/system/users/cc-user-page.blp:191
 msgid ""
@@ -8412,25 +8385,25 @@ msgstr ""
 
 #: panels/system/users/cc-user-page.blp:204
 msgid "_Delete Files and Settings"
-msgstr "_Fayllar va sozlamalarni oʻchirish"
+msgstr "Fayllar va sozlamalarni oʻchirish"
 
-#: panels/system/users/cc-user-page.c:203
+#: panels/system/users/cc-user-page.c:204
 msgctxt "Password mode"
 msgid "Account disabled"
 msgstr "Hisob oʻchirilgan"
 
-#: panels/system/users/cc-user-page.c:210
+#: panels/system/users/cc-user-page.c:211
 msgctxt "Password mode"
 msgid "To be set at next login"
 msgstr "Keyingi kirishda oʻrnatiladi"
 
-#: panels/system/users/cc-user-page.c:213
+#: panels/system/users/cc-user-page.c:214
 msgctxt "Password mode"
 msgid "None"
 msgstr "Hech biri"
 
 #. TODO: Handle enterprise accounts
-#: panels/system/users/cc-user-page.c:421
+#: panels/system/users/cc-user-page.c:422
 #, c-format
 msgid "Remove %s?"
 msgstr "“%s” olib tashlansinmi?"
@@ -8448,11 +8421,11 @@ msgstr ""
 
 #: panels/system/users/cc-users-page.blp:26
 msgid "_Add User"
-msgstr "_Foydalanuvchi qoʻshish"
+msgstr "Foydalanuvchi qoʻshish"
 
 #: panels/system/users/cc-users-page.blp:34
 msgid "Add _Enterprise Login"
-msgstr "_Enterprise Login qoʻshing"
+msgstr "Korxona kirish tizimini qoʻshish"
 
 #: panels/system/users/gnome-users-panel.desktop.in:3
 msgid "Add or remove users and change your password"
@@ -8638,10 +8611,9 @@ msgstr "Nama'lum xatolik"
 
 #. Translators: '%s' is an invalid character, such as @, #, etc...
 #: panels/system/users/user-utils.c:148
-#, fuzzy, c-format
-#| msgid "Usernames cannot include “%c”"
+#, c-format
 msgid "Usernames cannot include “%s”"
-msgstr "Foydalanuvchi nomlarida “%c” boʻlishi mumkin emas"
+msgstr "Foydalanuvchi nomlarida “%s” boʻlishi mumkin emas"
 
 #: panels/system/users/user-utils.c:152
 msgid "Username is already in use — please choose another"
@@ -8671,7 +8643,7 @@ msgstr "Eshitish"
 
 #: panels/universal-access/cc-ua-hearing-page.blp:15
 msgid "_Overamplification"
-msgstr "_Haddan tashqari kuchaytirish"
+msgstr "Haddan tashqari kuchaytirish"
 
 #: panels/universal-access/cc-ua-hearing-page.blp:16
 msgid "Allow volume to exceed 100%, with reduced sound quality"
@@ -8691,7 +8663,7 @@ msgstr "Vizual ogohlantirishlar"
 
 #: panels/universal-access/cc-ua-hearing-page.blp:44
 msgid "_Flash Area"
-msgstr "_Flash maydoni"
+msgstr "Flash maydoni"
 
 #: panels/universal-access/cc-ua-hearing-page.blp:50
 msgid "Entire Screen"
@@ -8703,7 +8675,7 @@ msgstr "Butun Oyna"
 
 #: panels/universal-access/cc-ua-hearing-page.blp:60
 msgid "_Test Flash"
-msgstr "_ Flash-ni sinab koʻring"
+msgstr "Test Flash"
 
 #. Translators: This will be presented as the text of a link to the Sound
 #. panel
@@ -8734,7 +8706,7 @@ msgstr ""
 
 #: panels/universal-access/cc-ua-mouse-page.blp:21
 msgid "_Locate Pointer"
-msgstr "_Koʻrsatkichni aniqlash"
+msgstr "Koʻrsatkichni aniqlash"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:22
 msgid "Reveal pointer location by pressing Left Ctrl"
@@ -8742,7 +8714,7 @@ msgstr "Chap Ctrl tugmasini bosish orqali koʻrsatgich oʻrnini koʻrsating"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:27
 msgid "_Activate Windows on Hover"
-msgstr "_Hoverda Windows-ni faollashtiring"
+msgstr "Hoverda Windows-ni faollashtiring"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:28
 msgid "Place the pointer over a window to activate it"
@@ -8750,7 +8722,7 @@ msgstr "Uni faollashtirish uchun kursorni oyna ustiga qoʻying"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:33
 msgid "_Double-Click Delay"
-msgstr "_Ikki marta bosish kechikishi"
+msgstr "Ikki marta bosish kechikishi"
 
 #. Translators: This is a mark in the Crosshair Length scale
 #: panels/universal-access/cc-ua-mouse-page.blp:41
@@ -8780,7 +8752,7 @@ msgstr "Assist tugmasini bosing"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:61
 msgid "_Simulated Secondary Click"
-msgstr "_Simulyatsiya qilingan ikkilamchi bosish"
+msgstr "Simulyatsiya qilingan ikkilamchi bosish"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:62
 msgid "Secondary click by holding down the primary mouse button"
@@ -8796,7 +8768,7 @@ msgstr "Qabul qilish kechikishi"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:90
 msgid "_Hover Click"
-msgstr "_Kirish tugmasini bosing"
+msgstr "Kirish tugmasini bosing"
 
 #: panels/universal-access/cc-ua-mouse-page.blp:91
 msgid "Trigger a click when the pointer hovers"
@@ -8821,7 +8793,7 @@ msgstr "Katta"
 
 #: panels/universal-access/cc-ua-panel.blp:16
 msgid "_Always Show Accessibility Menu"
-msgstr "_Har doim maxsus imkoniyatlar menyusini koʻrsatish"
+msgstr "Har doim maxsus imkoniyatlar menyusini koʻrsatish"
 
 #: panels/universal-access/cc-ua-panel.blp:17
 msgid "Display the accessibility menu in the top bar"
@@ -8829,19 +8801,19 @@ msgstr "Yuqori panelda maxsus imkoniyatlar menyusini koʻrsating"
 
 #: panels/universal-access/cc-ua-panel.blp:24
 msgid "_Seeing"
-msgstr "_Koʻrish"
+msgstr "Koʻrish"
 
 #: panels/universal-access/cc-ua-panel.blp:32
 msgid "_Hearing"
-msgstr "_Eshitish"
+msgstr "Eshitish"
 
 #: panels/universal-access/cc-ua-panel.blp:40
 msgid "_Typing"
-msgstr "_Yozish"
+msgstr "Yozish"
 
 #: panels/universal-access/cc-ua-panel.blp:48
 msgid "_Pointing and Clicking"
-msgstr "_Ishora qilish va bosish"
+msgstr "Ishora qilish va bosish"
 
 #: panels/universal-access/cc-ua-panel.blp:56
 msgid "_Zoom"
@@ -8866,14 +8838,12 @@ msgid "The screen reader reads displayed text as you move the focus"
 msgstr "Fokusni siljitganingizda ekran oʻquvchi koʻrsatilgan matnni oʻqiydi"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:32
-#, fuzzy
-#| msgid "Proxy Configuration"
 msgid "Co_nfigure"
-msgstr "C_onfiguration"
+msgstr "Sozlash"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:43
 msgid "_High Contrast"
-msgstr "_Yuqori kontrast"
+msgstr "Yuqori kontrast"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:44
 msgid ""
@@ -8882,7 +8852,7 @@ msgstr "Old va fon interfeysi elementlarining rang kontrastini oshiring"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:49
 msgid "_On/Off Shapes"
-msgstr "_ Shakllarni yoqish/oʻchirish"
+msgstr "Shakllarni yoqish/oʻchirish"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:50
 msgid "Use shapes to indicate state in addition to or instead of color"
@@ -8892,7 +8862,7 @@ msgstr ""
 
 #: panels/universal-access/cc-ua-seeing-page.blp:55
 msgid "_Animation Effects"
-msgstr "_Animatsiya effektlari"
+msgstr "Animatsiya effektlari"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:56
 msgid "Toggle animation effects throughout the user interface"
@@ -8911,7 +8881,7 @@ msgstr ""
 
 #: panels/universal-access/cc-ua-seeing-page.blp:73
 msgid "_Large Text"
-msgstr "_Katta matn"
+msgstr "Katta matn"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:74
 msgid "Increase the size of all text in the user interface"
@@ -8919,7 +8889,7 @@ msgstr "Foydalanuvchi interfeysidagi barcha matn hajmini oshiring"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:79
 msgid "_Cursor Size"
-msgstr "_Kursor hajmi"
+msgstr "Kursor hajmi"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:80
 msgid "Increase the size of the cursor"
@@ -8927,7 +8897,7 @@ msgstr "Kursor hajmini oshiring"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:86
 msgid "_Sound Keys"
-msgstr "_Ovoz tugmalari"
+msgstr "Ovoz tugmalari"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:87
 msgid "Beep when Num Lock or Caps Lock are turned on or off"
@@ -8935,23 +8905,23 @@ msgstr "Num Lock yoki Caps Lock yoqilganda yoki oʻchirilganda signal"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:92
 msgid "Always Show Scroll_bars"
-msgstr "Har doim Scroll_bars koʻrsatilsin"
+msgstr "Har doim gʻildirakni koʻrsatilsin"
 
 #: panels/universal-access/cc-ua-seeing-page.blp:93
 msgid "Make scrollbars always visible"
-msgstr "Oʻtkazish panellarini har doim koʻrinadigan qilib qoʻying"
+msgstr "Gʻildiraklarni har doim koʻrinadigan qilib qoʻying"
 
 #. translators: the labels will read:
 #. * Cursor Size: Default
 #: panels/universal-access/cc-ua-seeing-page.c:176
 msgctxt "cursor size"
 msgid "Default"
-msgstr "Odatiy"
+msgstr "Standart"
 
 #: panels/universal-access/cc-ua-seeing-page.c:179
 msgctxt "cursor size"
 msgid "Medium"
-msgstr "Средний"
+msgstr "Oʻrtacha"
 
 #: panels/universal-access/cc-ua-seeing-page.c:182
 msgctxt "cursor size"
@@ -8977,7 +8947,7 @@ msgstr[1] "%d piksel"
 
 #: panels/universal-access/cc-ua-typing-page.blp:16
 msgid "Screen _Keyboard"
-msgstr "Ekran _Klaviatura"
+msgstr "Ekran klaviaturasi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:17
 msgid "Use the on-screen keyboard to type in input fields"
@@ -8985,7 +8955,7 @@ msgstr "Kirish maydonlarini kiritish uchun ekran klaviaturasidan foydalaning"
 
 #: panels/universal-access/cc-ua-typing-page.blp:22
 msgid "_Enable by Keyboard"
-msgstr "_Klaviatura orqali yoqish"
+msgstr "Klaviatura orqali yoqish"
 
 #: panels/universal-access/cc-ua-typing-page.blp:23
 msgid "Turn accessibility features on or off using the keyboard"
@@ -8997,7 +8967,7 @@ msgstr "Matn kursori"
 
 #: panels/universal-access/cc-ua-typing-page.blp:32
 msgid "_Cursor Blinking"
-msgstr "_Kursor miltillovchi"
+msgstr "Kursor miltillashi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:33
 msgid "Change if the cursor blinks in text fields"
@@ -9005,7 +8975,7 @@ msgstr "Kursor matn maydonlarida miltillasa, oʻzgartiring"
 
 #: panels/universal-access/cc-ua-typing-page.blp:38
 msgid "_Blink Speed"
-msgstr "_Blink tezligi"
+msgstr "Miltillash tezligi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:46
 msgid "Blink Speed"
@@ -9013,7 +8983,7 @@ msgstr "Miltillash tezligi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:72
 msgid "_Test Entry"
-msgstr "_Test kirish"
+msgstr "Test yozuvi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:78
 msgid "Typing Assist"
@@ -9021,7 +8991,7 @@ msgstr "Yozish yordamchisi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:81
 msgid "_Repeat Keys"
-msgstr "_Klavishlarni takrorlash"
+msgstr "Klavishlarni takrorlash"
 
 #: panels/universal-access/cc-ua-typing-page.blp:82
 msgid "Key presses repeat when the key is held down"
@@ -9033,7 +9003,7 @@ msgstr "Tezlik"
 
 #: panels/universal-access/cc-ua-typing-page.blp:134
 msgid "_Sticky Keys"
-msgstr "_Yopishqoq kalitlar"
+msgstr "Yopishqoq kalitlar"
 
 #: panels/universal-access/cc-ua-typing-page.blp:135
 msgid "Sequences of modifier keys act as a key combination"
@@ -9049,10 +9019,8 @@ msgid "Beep when modifier key is pressed"
 msgstr "Modifikator tugmasi bosilganda signal eshitiladi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:149
-#, fuzzy
-#| msgid "Mouse Keys"
 msgid "S_low Keys"
-msgstr "S_low tugmalari"
+msgstr "Sekin tugmalar"
 
 #: panels/universal-access/cc-ua-typing-page.blp:150
 msgid "Delay between when a key is pressed and when it is accepted"
@@ -9072,10 +9040,8 @@ msgid "Beep when a key is rejected"
 msgstr "Kalit rad etilganda signal eshitiladi"
 
 #: panels/universal-access/cc-ua-typing-page.blp:190
-#, fuzzy
-#| msgid "Mouse Keys"
 msgid "B_ounce Keys"
-msgstr "B_unce kalitlari"
+msgstr "Sakrash tugmalari"
 
 #: panels/universal-access/cc-ua-typing-page.blp:191
 msgid "Ignore fast duplicate keypresses"
@@ -9087,7 +9053,7 @@ msgstr "Kattalashtirish"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:15
 msgid "_Desktop Zoom"
-msgstr "_Ish stolini kattalashtirish"
+msgstr "Ish stolini kattalashtirish"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:16
 msgid "Magnify the entire screen"
@@ -9099,12 +9065,11 @@ msgstr "Kattalashtiruvchi"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:25
 msgid "_Magnification Factor"
-msgstr "_Kattalashtirish faktori"
+msgstr "Kattalashtirish faktori"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:39
-#, fuzzy
 msgid "M_agnifier View"
-msgstr "M_agnifier koʻrinishi"
+msgstr "Kattalashtiruvchi koʻrinish"
 
 #. Translators: This is a behavior option of the Magnifier View
 #: panels/universal-access/cc-ua-zoom-page.blp:46
@@ -9118,11 +9083,11 @@ msgstr "Ekran maydoni"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:54
 msgid "_Extend Outside Screen Edges"
-msgstr "_Ekranning tashqi qirralarini kengaytirish"
+msgstr "Ekranning tashqi qirralarini kengaytirish"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:61
 msgid "_Screen Area"
-msgstr "_Ekran maydoni"
+msgstr "Ekran maydoni"
 
 #. Translators: This is an option of the Magnifier Screen Area
 #: panels/universal-access/cc-ua-zoom-page.blp:67
@@ -9151,7 +9116,7 @@ msgstr "Oʻng yarmi"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:82
 msgid "_Follow Behavior"
-msgstr "_Xulq-atvorga rioya qiling"
+msgstr "Xulq-atvorga rioya qiling"
 
 #. Translators: This is an option of the zoom Magnifier behavior
 #: panels/universal-access/cc-ua-zoom-page.blp:89
@@ -9174,7 +9139,7 @@ msgstr "Krossheyrlar"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:103
 msgid "_Crosshair Lines"
-msgstr "_Crossshair Lines"
+msgstr "Kesishgan chiziqlar"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:104
 msgid "Mark the cursor location in the magnifier region using lines"
@@ -9183,11 +9148,11 @@ msgstr ""
 
 #: panels/universal-access/cc-ua-zoom-page.blp:109
 msgid "_Overlap Mouse Cursor"
-msgstr "_Sichqoncha kursori ustma-ust"
+msgstr "Sichqoncha kursori ustma-ust"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:114
 msgid "_Thickness"
-msgstr "_ Qalinligi"
+msgstr "Qalinligi"
 
 #. Translators: This is a mark in the Thickness scale
 #: panels/universal-access/cc-ua-zoom-page.blp:121
@@ -9204,10 +9169,8 @@ msgid "Len_gth"
 msgstr "Uzun_lik"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:161
-#, fuzzy
-#| msgid "Colors"
 msgid "Colo_r"
-msgstr "Colo_r"
+msgstr "Rang"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:174
 msgid "Color Filters"
@@ -9215,7 +9178,7 @@ msgstr "Rang filtrlari"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:177
 msgid "_Inverted"
-msgstr "_Inverted"
+msgstr "Teskari"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:178
 msgid "Invert colors in the magnifier region"
@@ -9223,7 +9186,7 @@ msgstr "Ranglarni kattalashtiruvchi mintaqada oʻzgartiring"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:183
 msgid "_Brightness"
-msgstr "_Yorqinlik"
+msgstr "Yorugʻlik"
 
 #. Translators: This is a mark in the Brightness scale
 #. Translators: This is a mark in the Contrast scale
@@ -9241,12 +9204,11 @@ msgstr "Yuqori"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:209
 msgid "Co_ntrast"
-msgstr "Ko_ntrast"
+msgstr "Kontrast"
 
 #: panels/universal-access/cc-ua-zoom-page.blp:233
-#, fuzzy
 msgid "Co_lor"
-msgstr "Co_lor"
+msgstr "Rang"
 
 #. Translators: This is a mark in the Grayscale scale
 #: panels/universal-access/cc-ua-zoom-page.blp:242
@@ -9287,7 +9249,7 @@ msgstr ""
 
 #: panels/wacom/button-mapping.blp:59
 msgid "_Close"
-msgstr "_Yopish"
+msgstr "Yopish"
 
 #: panels/wacom/calibrator/calibrator.blp:48
 msgid ""
@@ -9353,11 +9315,11 @@ msgstr "Tashqi ped qurilmasi"
 
 #: panels/wacom/cc-wacom-ekr-page.blp:19 panels/wacom/cc-wacom-page.blp:46
 msgid "Map _Buttons"
-msgstr "Xarita _tugmalar"
+msgstr "Xarita tugmalar"
 
 #: panels/wacom/cc-wacom-page.blp:17
 msgid "_Tablet Mode"
-msgstr "_Planshet rejimi"
+msgstr "Planshet rejimi"
 
 #: panels/wacom/cc-wacom-page.blp:18
 msgid "Use absolute positioning for the pen"
@@ -9374,11 +9336,11 @@ msgstr "Planshetdagi jismoniy tugmalarning joylashuvi"
 #: panels/wacom/cc-wacom-page.blp:55
 msgctxt "display setting"
 msgid "Map to _Monitor"
-msgstr "_Monitor uchun xarita"
+msgstr "Monitor uchun xarita"
 
 #: panels/wacom/cc-wacom-page.blp:61
 msgid "_Keep Aspect Ratio"
-msgstr "_Aspekt nisbatini saqlang"
+msgstr "Aspekt nisbatini saqlash"
 
 #: panels/wacom/cc-wacom-page.blp:62
 msgid "Only use a portion of the tablet surface to keep monitor aspect ratio"
@@ -9388,7 +9350,7 @@ msgstr ""
 
 #: panels/wacom/cc-wacom-page.blp:67
 msgid "_Calibrate"
-msgstr "_Kalibrlash"
+msgstr "Kalibrlash"
 
 #. All displays item
 #: panels/wacom/cc-wacom-page.c:664
@@ -9425,7 +9387,7 @@ msgstr "%d Xaritalash tugmasi"
 
 #: panels/wacom/cc-wacom-stylus-page.blp:17
 msgid "Tip _Pressure Feel"
-msgstr "Maslahat _Bosim hissi"
+msgstr "Uchli qismda bosimni his qilish"
 
 #. Translators: This is a mark in the 'Tip Pressure Feel' scale
 #. Translators: This is a mark in the 'Erase Pressure Feel' scale
@@ -9443,19 +9405,19 @@ msgstr "Qattiq"
 
 #: panels/wacom/cc-wacom-stylus-page.blp:41
 msgid "Button _1"
-msgstr "_1 tugmasi"
+msgstr "1-tugma"
 
 #: panels/wacom/cc-wacom-stylus-page.blp:47
 msgid "Button _2"
-msgstr "_2 tugmasi"
+msgstr "2-tugma"
 
 #: panels/wacom/cc-wacom-stylus-page.blp:53
 msgid "Button _3"
-msgstr "_3 tugmasi"
+msgstr "3-tugma"
 
 #: panels/wacom/cc-wacom-stylus-page.blp:59
 msgid "_Eraser Pressure Feel"
-msgstr "_Eraser bosimi hissi"
+msgstr "Oʻchirgʻich bosimini his qilish"
 
 #: panels/wacom/cc-wacom-stylus-page.c:415
 msgid "Left Mousebutton Click"
@@ -9530,25 +9492,25 @@ msgstr "Davomiyligi"
 msgid "Interval"
 msgstr "Oraliq"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:23
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:27
 msgid "Screen Time Unavailable"
 msgstr "Ekran vaqti mavjud emas"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:25
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:29
 msgid "Screen time information will appear here after a period of usage"
 msgstr ""
 "Bir muddat foydalanishdan keyin ekran vaqti haqidagi maʼlumotlar shu yerda "
 "paydo boʻladi"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:160
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:164
 msgid "Average Week"
 msgstr "Oʻrtacha hafta"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:204
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:208
 msgid "Previous Week"
 msgstr "Oldingi hafta"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:214
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:218
 msgid "Next Week"
 msgstr "Keyingi hafta"
 
@@ -9608,13 +9570,13 @@ msgstr "%usoat"
 #: panels/wellbeing/cc-screen-time-statistics-row.c:406
 #, c-format
 msgid "%uh %um"
-msgstr "%usoat %udaq"
+msgstr "%us %ud"
 
 #: panels/wellbeing/cc-screen-time-statistics-row.c:665
 #: panels/wellbeing/cc-screen-time-statistics-row.c:785
 #, c-format
 msgid "Failed to load session history file ‘%s’: %s"
-msgstr "“%s” seans tarixi faylini yuklab boʻlmadi: %s"
+msgstr "Seans tarixi faylini yuklab boʻlmadi: ‘%s’: %s"
 
 #: panels/wellbeing/cc-screen-time-statistics-row.c:666
 msgid "Invalid file structure"
@@ -9720,11 +9682,11 @@ msgstr ""
 "Ekran vaqtidan foydalanish shtrix diagrammasi uchun joy ushlagich. Hozircha "
 "hech qanday maʼlumot mavjud emas."
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:11
+#: panels/wellbeing/cc-wellbeing-panel.blp:15
 msgid "Screen Time"
 msgstr "Ekran vaqti"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:35
+#: panels/wellbeing/cc-wellbeing-panel.blp:39
 msgid ""
 "Disabling screen time recording stops screen time data from being saved. "
 "This data is never shared outside this device."
@@ -9733,72 +9695,71 @@ msgstr ""
 "saqlashni toʻxtatadi. Bu maʼlumotlar ushbu qurilmadan tashqariga hech qachon"
 " ulashilmaydi."
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:43
+#: panels/wellbeing/cc-wellbeing-panel.blp:47
 msgid "_Disable Screen Time"
-msgstr "_Ekran vaqtini oʻchirish"
+msgstr "Ekran vaqtini oʻchirish"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:67
+#: panels/wellbeing/cc-wellbeing-panel.blp:71
 msgid "Screen Time Recording Disabled"
 msgstr "Ekran vaqtini yozib olish oʻchirilgan"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:69
+#: panels/wellbeing/cc-wellbeing-panel.blp:73
 msgid "Enable recording to view screen usage history"
 msgstr "Ekrandan foydalanish tarixini koʻrish uchun yozib olishni yoqing"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:73
-#, fuzzy
+#: panels/wellbeing/cc-wellbeing-panel.blp:77
 msgid "E_nable"
-msgstr "E_nable"
+msgstr "Yoqish"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:90
+#: panels/wellbeing/cc-wellbeing-panel.blp:94
 msgid "Screen Limits"
 msgstr "Ekran chegaralari"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:93
+#: panels/wellbeing/cc-wellbeing-panel.blp:97
 msgid "_Screen Time Limit"
-msgstr "_Ekran vaqt chegarasi"
+msgstr "Ekran vaqt chegarasi"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:99
+#: panels/wellbeing/cc-wellbeing-panel.blp:103
 msgid "Daily _Limit"
-msgstr "Kunlik _Limit"
+msgstr "Kunlik limit"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:104
+#: panels/wellbeing/cc-wellbeing-panel.blp:108
 msgid "_Grayscale"
-msgstr "_Kulrang rang"
+msgstr "Kulrang rang"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:105
+#: panels/wellbeing/cc-wellbeing-panel.blp:109
 msgid "Black and white screen for screen limits"
 msgstr "Ekran chegaralari uchun qora va oq ekran"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:111
+#: panels/wellbeing/cc-wellbeing-panel.blp:115
 msgid "Break Reminders"
 msgstr "Eslatmalarni buzish"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:114
+#: panels/wellbeing/cc-wellbeing-panel.blp:118
 msgid "_Eyesight Reminders"
-msgstr "_Koʻzni koʻrish haqida eslatmalar"
+msgstr "Koʻzni koʻrish haqida eslatmalar"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:115
+#: panels/wellbeing/cc-wellbeing-panel.blp:119
 msgid "Reminders to look away from the screen"
 msgstr "Ekrandan uzoqqa qarash uchun eslatmalar"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:120
+#: panels/wellbeing/cc-wellbeing-panel.blp:124
 msgid "_Movement Reminders"
-msgstr "_Harakat eslatmalari"
+msgstr "Harakat eslatmalari"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:121
+#: panels/wellbeing/cc-wellbeing-panel.blp:125
 msgid "Reminders to move around"
 msgstr "Harakat qilish uchun eslatmalar"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:126
+#: panels/wellbeing/cc-wellbeing-panel.blp:130
 msgid "Movement _Break Schedule"
 msgstr "Harakat _Tanaffus jadvali"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:131
+#: panels/wellbeing/cc-wellbeing-panel.blp:135
 msgid "S_ounds"
-msgstr "Tovus_hlar"
+msgstr "Tovushlar"
 
-#: panels/wellbeing/cc-wellbeing-panel.blp:132
+#: panels/wellbeing/cc-wellbeing-panel.blp:136
 msgid "Play a sound when a break ends"
 msgstr "Tanaffus tugagach, ovozni ijro eting"
 
@@ -9834,10 +9795,8 @@ msgid "APN"
 msgstr "APN"
 
 #: panels/wwan/cc-wwan-apn-dialog.blp:177
-#, fuzzy
-#| msgid "Paper Type"
 msgid "APN Type"
-msgstr "Qogʻoz turi"
+msgstr "APN turi"
 
 #: panels/wwan/cc-wwan-apn-dialog.blp:193
 msgid "Internet"
@@ -9845,11 +9804,9 @@ msgstr "Internet"
 
 #: panels/wwan/cc-wwan-apn-dialog.blp:194
 msgid "Attach"
-msgstr ""
+msgstr "Biriktiring"
 
 #: panels/wwan/cc-wwan-apn-dialog.blp:208
-#, fuzzy
-#| msgid "Account Type"
 msgid "Auth Type"
 msgstr "Hisob turi"
 
@@ -10108,7 +10065,7 @@ msgstr "SIM qulflangan"
 
 #: panels/wwan/cc-wwan-device-page.blp:61
 msgid "_Mobile Data"
-msgstr "_Mobil ma'lumotlar"
+msgstr "Mobil maʼlumotlar"
 
 #: panels/wwan/cc-wwan-device-page.blp:62
 msgid "Access data using mobile network"
@@ -10311,7 +10268,7 @@ msgstr "Tarmoq rejimi"
 
 #: panels/wwan/cc-wwan-network-dialog.blp:35
 msgid "_Automatic"
-msgstr "_Avtomatik"
+msgstr "Avtomatik"
 
 #: panels/wwan/cc-wwan-network-dialog.blp:46
 msgid "Choose Network"
@@ -10340,7 +10297,7 @@ msgstr "Samolyot rejimi yoqilganda Wireless Wan oʻchiriladi"
 
 #: panels/wwan/cc-wwan-panel.blp:90
 msgid "Data Connection"
-msgstr "Ma'lumotlar ulanishi"
+msgstr "Maʼlumotlar ulanishi"
 
 #: panels/wwan/cc-wwan-panel.blp:91
 msgid "SIM card used for internet"
@@ -10357,11 +10314,11 @@ msgstr "SIM qulfi"
 
 #: panels/wwan/cc-wwan-sim-lock-dialog.blp:75
 msgid "_Lock SIM with PIN"
-msgstr "_SIM kartani PIN-kod bilan qulflang"
+msgstr "SIM kartani PIN kod bilan qulflang"
 
 #: panels/wwan/cc-wwan-sim-lock-dialog.blp:86
 msgid "Change PIN"
-msgstr "PIN-kodni oʻzgartiring"
+msgstr "PIN kodni oʻzgartiring"
 
 #: panels/wwan/cc-wwan-sim-lock-dialog.blp:102
 msgid "New PIN"
@@ -10474,15 +10431,15 @@ msgstr ""
 
 #: shell/cc-window.blp:86
 msgid "_Keyboard Shortcuts"
-msgstr "_Klaviatura yorliqlari"
+msgstr "Klaviatura yorliqlari"
 
 #: shell/cc-window.blp:91
 msgid "_Help"
-msgstr "_Yordam"
+msgstr "Yordam"
 
 #: shell/cc-window.blp:96
 msgid "_About Settings"
-msgstr "_Sozlamalar haqida"
+msgstr "Sozlamalar haqida"
 
 #. Translators: Search terms to find this app. Do NOT translate or localize
 #. the semicolons! The list MUST also end with a semicolon!
@@ -10527,63 +10484,41 @@ msgstr ""
 "ichiga olgan tuple (tapl)."
 
 #: shell/shortcuts-dialog.blp:6
-#, fuzzy
-#| msgid "General"
 msgctxt "shortcuts dialog"
 msgid "General"
 msgstr "Umumiy"
 
 #: shell/shortcuts-dialog.blp:10
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Quit"
 msgctxt "shortcuts dialog"
 msgid "Quit"
 msgstr "Chiqish"
 
 #: shell/shortcuts-dialog.blp:15 shell/shortcuts-dialog.blp:46
-#, fuzzy
-#| msgid "Search"
 msgctxt "shortcuts dialog"
 msgid "Search"
 msgstr "Qidirish"
 
 #: shell/shortcuts-dialog.blp:20
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Show help"
 msgctxt "shortcuts dialog"
 msgid "Show help"
 msgstr "Yordam koʻrsatish"
 
 #: shell/shortcuts-dialog.blp:25
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Keyboard shortcuts"
 msgctxt "shortcuts dialog"
 msgid "Keyboard shortcuts"
 msgstr "Klaviatura yorliqlari"
 
 #: shell/shortcuts-dialog.blp:30
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Panels"
 msgctxt "shortcuts dialog"
 msgid "Panels"
 msgstr "Panellar"
 
 #: shell/shortcuts-dialog.blp:35 shell/shortcuts-dialog.blp:41
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Go back to previous panel"
 msgctxt "shortcuts dialog"
 msgid "Go back to previous panel"
 msgstr "Oldingi panelga qayting"
 
 #: shell/shortcuts-dialog.blp:50
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Cancel search"
 msgctxt "shortcuts dialog"
 msgid "Cancel search"
 msgstr "Qidiruvni bekor qilish"
@@ -10609,6 +10544,9 @@ msgstr[1] "%u Kirishlar"
 #: subprojects/gvc/gvc-mixer-control.c:2872
 msgid "System Sounds"
 msgstr "Tizim tovushlari"
+
+#~ msgid "The passwords do not match"
+#~ msgstr "Parollar mos kelmaydi"
 
 #~ msgid "The measuring instrument does not support printer profiling."
 #~ msgstr "Oʻlchov vositasi printer profilini qoʻllab-quvvatlamaydi."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2025-12-19 18:00+0000\n"
+"POT-Creation-Date: 2025-11-19 08:53+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -734,7 +734,6 @@ msgid "GNOME Document Previewer"
 msgstr "GNOME hujjatlarni koʻruvchisi"
 
 #: previewer/pps-previewer-window.c:171 previewer/pps-previewer-window.c:494
-#: shell/src/application.rs:72
 msgid "Papers Document Viewer"
 msgstr "Qogʻozlar hujjat koʻruvchi"
 
@@ -997,7 +996,7 @@ msgstr "Oʻchirish paneli"
 msgid "Document Menu"
 msgstr "Hujjat menyusi"
 
-#: shell/resources/pps-document-view.blp:223 shell/src/document_view/io.rs:265
+#: shell/resources/pps-document-view.blp:223
 msgid "Document has been digitally signed."
 msgstr ""
 
@@ -1847,14 +1846,6 @@ msgstr "_Save nusxasi"
 msgid "Save Image"
 msgstr "Rasmni saqlash"
 
-#: shell/src/document_view/actions.rs:880
-msgid "Couldn’t find appropriate format to save image"
-msgstr "Rasmni saqlash uchun mos xil formatni topib boʻlmadi"
-
-#: shell/src/document_view/actions.rs:897
-msgid "The image could not be saved."
-msgstr "Rasmni saqlab boʻlmadi."
-
 #: shell/src/document_view/actions.rs:969
 msgid "Caret navigation mode is now enabled, press F7 to disable."
 msgstr ""
@@ -1864,19 +1855,10 @@ msgid "Caret navigation mode is now disabled, press F7 to enable."
 msgstr ""
 
 #: shell/src/document_view/actions.rs:1026
-#: shell/src/sidebar_attachments.rs:286
 #, fuzzy
 #| msgid "Unable to open attachment"
 msgid "Unable to Open Attachment"
 msgstr "Ilovani ochib boʻlmadi"
-
-#: shell/src/document_view/actions.rs:1059
-msgid "The attachment could not be saved."
-msgstr "Ilovani saqlab boʻlmadi."
-
-#: shell/src/document_view/io.rs:269
-msgid "Digital signature is invalid"
-msgstr ""
 
 #: shell/src/document_view/io.rs:280
 #, fuzzy
@@ -1890,12 +1872,6 @@ msgstr "Hujjatda sahifalar mavjud emas"
 msgid "The Document Contains Only Empty Pages"
 msgstr "Hujjatda faqat boʻsh sahifalar mavjud"
 
-#: shell/src/document_view/io.rs:368 shell/src/document_view/io.rs:446
-#, fuzzy
-#| msgid "The file could not be saved as “%s”."
-msgid "The file could not be saved as “{}”."
-msgstr "Fayl \"%s\" sifatida saqlanmadi."
-
 #: shell/src/document_view/io.rs:409
 msgid "Save As…"
 msgstr "Boshqacha saqlash…"
@@ -1905,7 +1881,7 @@ msgid "Draw a rectangle to insert a signature field"
 msgstr "Imzo maydonini qoʻyish uchun toʻgʻri burchak chirsatish"
 
 #: shell/src/document_view/io.rs:507
-#, fuzzy
+#, fuzzy, rust-format
 #| msgid ""
 #| "Digitally signed by %s\n"
 #| "Date: %s"
@@ -1937,7 +1913,7 @@ msgid "Save Signed File"
 msgstr "Imzolangan faylni saqlash"
 
 #: shell/src/document_view/io.rs:699
-#, fuzzy
+#, fuzzy, rust-format
 #| msgid "Please enter password for %s"
 msgid "Please enter password for {}"
 msgstr "%s uchun parolni kiriting"
@@ -1948,7 +1924,7 @@ msgstr "_Kirish"
 
 #. TRANSLATORS: In the context of "the job {} is being printed"
 #: shell/src/document_view/print.rs:46
-#, fuzzy
+#, fuzzy, rust-format
 #| msgid "Printing job “%s”"
 msgid "Printing job “{}”"
 msgstr "Bosib chiqarish vazifasi \"%s\""
@@ -1960,12 +1936,8 @@ msgstr "Bosib chiqarish vazifasi \"%s\""
 msgid "No pending jobs in queue"
 msgstr "%d kutilayotgan vazifa navbatda"
 
-#: shell/src/document_view/signals.rs:226
-msgid "Unable to open external link"
-msgstr "Tashqi havolani ochib boʻlmadi"
-
 #: shell/src/document_view/signals.rs:254
-#, fuzzy
+#, fuzzy, rust-format
 #| msgid ""
 #| "Security alert: this document has been prevented from opening the file “%s”"
 msgid ""
@@ -1974,6 +1946,7 @@ msgstr "Ogohlantirish: ushbu hujjat \"%s\" faylini ochib boʻlmadi"
 
 #: shell/src/document_view/signals.rs:433 shell/src/page_selector.rs:77
 #: shell/src/sidebar_annotations_row.rs:82
+#, rust-format
 msgid "Page {}"
 msgstr "{}-sahifa"
 
@@ -1981,15 +1954,18 @@ msgstr "{}-sahifa"
 #. '{' and '}' they are variable names. Changing their
 #. order is possible
 #: shell/src/page_selector.rs:230 shell/src/page_selector.rs:258
+#, rust-format
 msgid "({pagenum} of {totalpages})"
 msgstr ""
 
 #. Translators: the placeholder is the total amount of pages
 #: shell/src/page_selector.rs:238 shell/src/page_selector.rs:268
+#, rust-format
 msgid "of {}"
 msgstr "{}"
 
 #: shell/src/password_view.rs:145
+#, rust-format
 msgid ""
 "The document “{}” is locked and requires a password before it can be opened"
 msgstr ""
@@ -2031,102 +2007,6 @@ msgstr "Tarkibi"
 #: shell/src/properties_general.rs:314
 msgid "Date &amp; Time"
 msgstr "Sana &amp; _Vaqt"
-
-#: shell/src/properties_signatures.rs:138
-#: shell/src/properties_signatures.rs:146
-msgid "Signed by"
-msgstr ""
-
-#: shell/src/properties_signatures.rs:187
-msgid "Signature is valid."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:190
-msgid "Signature is invalid."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:194
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Document View and Handling"
-msgid "Document has been changed after signing."
-msgstr "Hujjatni koʻrish va ishlatish"
-
-#: shell/src/properties_signatures.rs:198
-#, fuzzy
-#| msgid "The image could not be saved."
-msgid "Signature could not be decoded."
-msgstr "Rasmni saqlab boʻlmadi."
-
-#: shell/src/properties_signatures.rs:202
-msgid "Signature verification error."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:214
-msgid "Signed with a certificate issued by trusted issuer."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:220
-msgid "Signed with a certificate issued by untrusted issuer."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:226
-msgid "Signed with a certificate issued by unknown issuer."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:231
-msgid "Signed with revoked certificate."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:235
-msgid "Signed with expired certificate."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:239
-msgid "Certificate verification error."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:243
-msgid "Certificate has not been verified."
-msgstr ""
-
-#: shell/src/properties_signatures.rs:256
-msgid "Organization"
-msgstr ""
-
-#: shell/src/properties_signatures.rs:265
-#, fuzzy
-#| msgid "Date &amp; Time"
-msgid "Date and Time"
-msgstr "Sana &amp; _Vaqt"
-
-#: shell/src/properties_signatures.rs:276
-#, fuzzy
-#| msgid "Certificate Required"
-msgid "Certificate Issuer"
-msgstr "Sertifikat talab qilinadi"
-
-#: shell/src/properties_signatures.rs:287
-#, fuzzy
-#| msgid "Certificate Required"
-msgid "Certificate Issuer's Email"
-msgstr "Sertifikat talab qilinadi"
-
-#: shell/src/properties_signatures.rs:298
-msgid "Certificate Issuer's Organization"
-msgstr ""
-
-#: shell/src/properties_signatures.rs:309
-#, fuzzy
-#| msgid "Certificate Required"
-msgid "Certificate's Issuance Time"
-msgstr "Sertifikat talab qilinadi"
-
-#: shell/src/properties_signatures.rs:321
-#, fuzzy
-#| msgid "Certificate Required"
-msgid "Certificate's Expiration Time"
-msgstr "Sertifikat talab qilinadi"
 
 #: shell/src/properties_signatures.rs:403
 #, fuzzy
@@ -2200,6 +2080,10 @@ msgstr "_Tafsilotlarni koʻrish"
 #~ msgstr "Hujjat boʻyicha koʻchirish"
 
 #~ msgctxt "shortcut window"
+#~ msgid "Document View and Handling"
+#~ msgstr "Hujjatni koʻrish va ishlatish"
+
+#~ msgctxt "shortcut window"
 #~ msgid "Finding Text"
 #~ msgstr "Matn qidirish"
 
@@ -2213,8 +2097,24 @@ msgstr "_Tafsilotlarni koʻrish"
 #~ msgid "_Apply"
 #~ msgstr "_Qoʻllamoq"
 
+#, c-format
+#~ msgid "The file could not be saved as “%s”."
+#~ msgstr "Fayl \"%s\" sifatida saqlanmadi."
+
 #~ msgid "No certificates found!"
 #~ msgstr "Sertifikatlar topilmadi!"
+
+#~ msgid "Unable to open external link"
+#~ msgstr "Tashqi havolani ochib boʻlmadi"
+
+#~ msgid "Couldn’t find appropriate format to save image"
+#~ msgstr "Rasmni saqlash uchun mos xil formatni topib boʻlmadi"
+
+#~ msgid "The image could not be saved."
+#~ msgstr "Rasmni saqlab boʻlmadi."
+
+#~ msgid "The attachment could not be saved."
+#~ msgstr "Ilovani saqlab boʻlmadi."
 
 #~ msgid "Bookmarks"
 #~ msgstr "Xatchoʻplar"

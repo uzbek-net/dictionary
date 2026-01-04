@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-logs master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-logs/issues/\n"
-"POT-Creation-Date: 2025-12-26 09:17+0000\n"
+"POT-Creation-Date: 2025-12-28 13:02+0000\n"
 "PO-Revision-Date: 2025-04-04 11:39+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -357,39 +357,18 @@ msgctxt "shortcut window"
 msgid "Export logs to a file"
 msgstr "Jurnallarni faylga eksport qiling"
 
-#: data/org.gnome.Logs.appdata.xml.in:7 data/org.gnome.Logs.desktop.in:2
+#: data/org.gnome.Logs.desktop.in:2 data/org.gnome.Logs.metainfo.xml.in:7
 #: src/gl-application.c:139 src/gl-eventtoolbar.c:143
 msgid "Logs"
 msgstr "Loglar"
 
-#: data/org.gnome.Logs.appdata.xml.in:8 data/org.gnome.Logs.desktop.in:4
-msgid "View detailed event logs for the system"
-msgstr "Tizim uchun batafsil voqealar jurnallarini koʻring"
-
-#: data/org.gnome.Logs.appdata.xml.in:10
-msgid ""
-"Logs shows events from the systemd journal, and sorts them into categories, "
-"such as hardware and applications."
-msgstr ""
-"Jurnallar tizim jurnalidagi voqealarni koʻrsatadi va ularni apparat va "
-"ilovalar kabi toifalarga ajratadi."
-
-#: data/org.gnome.Logs.appdata.xml.in:12
-msgid ""
-"Using Logs you can search your logs by typing a search term, and view "
-"detailed information about each event by clicking on it."
-msgstr ""
-"Jurnallardan foydalanib, siz qidiruv soʻzini kiritish orqali "
-"jurnallaringizni qidirishingiz va ustiga bosish orqali har bir voqea haqida "
-"batafsil ma'lumotni koʻrishingiz mumkin."
-
-#: data/org.gnome.Logs.appdata.xml.in:63 src/gl-application.c:141
-msgid "The GNOME Project"
-msgstr "GNOME loyihasi"
-
 #: data/org.gnome.Logs.desktop.in:3
 msgid "Log Viewer"
 msgstr "Jurnalni koʻruvchi"
+
+#: data/org.gnome.Logs.desktop.in:4 data/org.gnome.Logs.metainfo.xml.in:8
+msgid "View detailed event logs for the system"
+msgstr "Tizim uchun batafsil voqealar jurnallarini koʻring"
 
 #. Translators: Search terms to find this application. Do NOT translate or
 #. localize the semicolons! The list MUST also end with a semicolon!
@@ -420,6 +399,27 @@ msgid "Sort list rows in ascending or descending order for the selected type"
 msgstr ""
 "Tanlangan tur uchun roʻyxat qatorlarini oʻsish yoki kamayish tartibida "
 "tartiblang"
+
+#: data/org.gnome.Logs.metainfo.xml.in:10
+msgid ""
+"Logs shows events from the systemd journal, and sorts them into categories, "
+"such as hardware and applications."
+msgstr ""
+"Jurnallar tizim jurnalidagi voqealarni koʻrsatadi va ularni apparat va "
+"ilovalar kabi toifalarga ajratadi."
+
+#: data/org.gnome.Logs.metainfo.xml.in:12
+msgid ""
+"Using Logs you can search your logs by typing a search term, and view "
+"detailed information about each event by clicking on it."
+msgstr ""
+"Jurnallardan foydalanib, siz qidiruv soʻzini kiritish orqali "
+"jurnallaringizni qidirishingiz va ustiga bosish orqali har bir voqea haqida "
+"batafsil ma'lumotni koʻrishingiz mumkin."
+
+#: data/org.gnome.Logs.metainfo.xml.in:63 src/gl-application.c:141
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
 
 #: src/gl-application.c:82 src/gl-window.c:285
 msgid "Failed To Open Help"
