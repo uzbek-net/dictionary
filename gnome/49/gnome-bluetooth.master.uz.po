@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-bluetooth master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-bluetooth/issues\n"
-"POT-Creation-Date: 2025-12-14 10:25+0000\n"
+"POT-Creation-Date: 2025-12-14 16:04+0000\n"
 "PO-Revision-Date: 2025-03-27 14:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -438,7 +438,9 @@ msgid "Select"
 msgstr "Tanlash"
 
 #: sendto/main.c:736
-msgid "Remote device to use"
+#, fuzzy
+#| msgid "Remote device to use"
+msgid "Remote device to use (required)"
 msgstr "Foydalanish uchun masofaviy qurilma"
 
 #: sendto/main.c:736
@@ -446,10 +448,16 @@ msgid "ADDRESS"
 msgstr "MANZIL"
 
 #: sendto/main.c:738
-msgid "Remote device’s name"
+#, fuzzy
+#| msgid "Remote device’s name"
+msgid "Remote device’s name, used as a label in the UI"
 msgstr "Masofaviy qurilma nomi"
 
 # yoki NOMI so'zidan foydalangan ma'qulmi?
 #: sendto/main.c:738
 msgid "NAME"
 msgstr "NOM"
+
+#: sendto/main.c:779
+msgid "The “--device” option is required, device selection is not supported."
+msgstr ""

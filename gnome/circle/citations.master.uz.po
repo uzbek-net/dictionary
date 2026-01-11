@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: citations master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/citations/-/issues\n"
-"POT-Creation-Date: 2025-12-27 21:11+0000\n"
+"POT-Creation-Date: 2026-01-10 17:50+0000\n"
 "PO-Revision-Date: 2025-10-07 20:57+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -96,7 +96,7 @@ msgstr "Oddiy matn"
 #. NOTE: This is the app name
 #: data/org.gnome.World.Citations.desktop.in.in:2
 #: data/org.gnome.World.Citations.metainfo.xml.in.in:7
-#: data/resources/ui/window.ui:67 src/main.rs:38
+#: data/resources/ui/window.ui:78 src/main.rs:38
 msgid "Citations"
 msgstr "Iqtiboslar"
 
@@ -116,31 +116,19 @@ msgid "New Window"
 msgstr "Yangi oyna"
 
 #: data/org.gnome.World.Citations.gschema.xml.in:6
-msgid "Window width"
-msgstr "Oyna kengligi"
-
-#: data/org.gnome.World.Citations.gschema.xml.in:10
-msgid "Window height"
-msgstr "Deraza balandligi"
-
-#: data/org.gnome.World.Citations.gschema.xml.in:14
-msgid "Window maximized state"
-msgstr "Oynaning kattalashtirilgan holati"
-
-#: data/org.gnome.World.Citations.gschema.xml.in:18
 msgid "List of paths of recent files"
 msgstr "Deraza balandligi"
 
-#: data/org.gnome.World.Citations.gschema.xml.in:22
-#: data/org.gnome.World.Citations.gschema.xml.in:26
+#: data/org.gnome.World.Citations.gschema.xml.in:10
+#: data/org.gnome.World.Citations.gschema.xml.in:14
 msgid "Default template for book citation"
 msgstr "Kitob iqtibosi uchun standart shablon"
 
-#: data/org.gnome.World.Citations.gschema.xml.in:30
+#: data/org.gnome.World.Citations.gschema.xml.in:18
 msgid "Default template kind for citations"
 msgstr "Iqtiboslar uchun standart shablon turi"
 
-#: data/org.gnome.World.Citations.gschema.xml.in:34
+#: data/org.gnome.World.Citations.gschema.xml.in:22
 msgid "Default template format for citations"
 msgstr "Iqtiboslar uchun standart shablon formati"
 
@@ -234,7 +222,7 @@ msgstr "PDF faylini ochish"
 msgid "_Copy Key"
 msgstr "Kalitdan nusxa olish"
 
-#: data/resources/ui/entry_list_row.ui:99 data/resources/ui/window.ui:61
+#: data/resources/ui/entry_list_row.ui:99 data/resources/ui/window.ui:72
 msgid "_Delete"
 msgstr "Olib tashlash"
 
@@ -295,7 +283,8 @@ msgid "PDF"
 msgstr "PDF"
 
 #: data/resources/ui/entry_page.ui:297 data/resources/ui/window.ui:10
-#: data/resources/ui/window.ui:105 data/resources/ui/window.ui:155
+#: data/resources/ui/window.ui:33 data/resources/ui/window.ui:118
+#: data/resources/ui/window.ui:168
 msgid "_Open"
 msgstr "Ochish"
 
@@ -394,12 +383,12 @@ msgstr "Qidirish"
 msgid "_Create New Bibliography"
 msgstr "Yangi adabiyotlar roʻyxatini yaratish"
 
-#: data/resources/ui/window.ui:17 data/resources/ui/window.ui:39
+#: data/resources/ui/window.ui:17 data/resources/ui/window.ui:44
 msgid "_Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
 #. TRANSLATORS About dialog
-#: data/resources/ui/window.ui:21 data/resources/ui/window.ui:43
+#: data/resources/ui/window.ui:21 data/resources/ui/window.ui:48
 msgid "_About Citations"
 msgstr "Iqtiboslar haqida"
 
@@ -407,62 +396,66 @@ msgstr "Iqtiboslar haqida"
 msgid "_Save"
 msgstr "Saqlash"
 
-#: data/resources/ui/window.ui:33
+#: data/resources/ui/window.ui:38
 msgid "New _Window"
 msgstr "Yangi oyna"
 
-#: data/resources/ui/window.ui:51
+#: data/resources/ui/window.ui:56
 msgid "_Search in Google Scholar"
 msgstr "Google Scholar orqali qidirish"
 
 #. TRANSLATORS arXiv is a proper name
-#: data/resources/ui/window.ui:55
+#: data/resources/ui/window.ui:60
 msgid "_Search in arXiv"
 msgstr "arXiv ichidan qidirish"
 
-#: data/resources/ui/window.ui:88 data/resources/ui/window.ui:129
-#: data/resources/ui/window.ui:210
+#: data/resources/ui/window.ui:66
+msgid "_Copy BibTeX Entry"
+msgstr ""
+
+#: data/resources/ui/window.ui:101 data/resources/ui/window.ui:142
+#: data/resources/ui/window.ui:223
 msgid "Main Menu"
 msgstr "Asosiy menyu"
 
 #. TRANSLATORS BibTeX is a proper name
-#: data/resources/ui/window.ui:98
+#: data/resources/ui/window.ui:111
 msgid "Open a BibTeX File"
 msgstr "BibTeX faylini ochish"
 
-#: data/resources/ui/window.ui:99
+#: data/resources/ui/window.ui:112
 msgid "Or drag-and-drop a file"
 msgstr "Yoki faylni tortib tashlash"
 
-#: data/resources/ui/window.ui:137
+#: data/resources/ui/window.ui:150
 msgid "Manage your Citations"
 msgstr "Iqtiboslarni boshqarish"
 
-#: data/resources/ui/window.ui:147
+#: data/resources/ui/window.ui:160
 msgid "Recent Files"
 msgstr "Soʻnggi fayllar"
 
-#: data/resources/ui/window.ui:192
+#: data/resources/ui/window.ui:205
 msgid "Sidebar"
 msgstr "Yon panel"
 
-#: data/resources/ui/window.ui:203
+#: data/resources/ui/window.ui:216
 msgid "Add New Citation"
 msgstr "Yangi iqtibos kiritish"
 
-#: data/resources/ui/window.ui:217
+#: data/resources/ui/window.ui:230
 msgid "Search"
 msgstr "Qidirish"
 
-#: data/resources/ui/window.ui:231
+#: data/resources/ui/window.ui:244
 msgid "Search…"
 msgstr "Qidirish…"
 
-#: data/resources/ui/window.ui:253
+#: data/resources/ui/window.ui:266
 msgid "Content"
 msgstr "Tarkibi"
 
-#: data/resources/ui/window.ui:263
+#: data/resources/ui/window.ui:276
 msgid "Secondary Menu"
 msgstr "Ikkilamchi menyu"
 
@@ -515,6 +508,7 @@ msgid "Custom"
 msgstr "Maxsus"
 
 #: src/citation_preview.rs:261 src/entry_list_row.rs:59 src/entry_page.rs:229
+#: src/window.rs:655
 msgid "Copied"
 msgstr "Nusxalangan"
 
@@ -543,94 +537,94 @@ msgstr "Havola kaliti allaqachon mavjud"
 msgid "Insert a BibTeX citation here"
 msgstr "Bu yerga BibTeX iqtibosini joylang"
 
-#: src/utils.rs:14
+#: src/utils.rs:13
 msgid "Author"
 msgstr "Muallif"
 
-#: src/utils.rs:15
+#: src/utils.rs:14
 msgid "Year"
 msgstr "Yil"
 
-#: src/utils.rs:16
+#: src/utils.rs:15
 msgid "Title"
 msgstr "Sarlavha"
 
-#: src/utils.rs:17
+#: src/utils.rs:16
 msgid "Volume"
 msgstr "Tovush"
 
-#: src/utils.rs:18
+#: src/utils.rs:17
 msgid "Number"
 msgstr "Raqam"
 
-#: src/utils.rs:19
+#: src/utils.rs:18
 msgid "Pages"
 msgstr "Sahifalar"
 
-#: src/utils.rs:20
+#: src/utils.rs:19
 msgid "Publisher"
 msgstr "Nashriyot"
 
-#: src/utils.rs:21
+#: src/utils.rs:20
 msgid "Journal"
 msgstr "Jurnal"
 
-#: src/utils.rs:22
+#: src/utils.rs:21
 msgid "Address"
 msgstr "Manzil"
 
 #. TRANSLATORS Method of publication, see
 #. https://www.bibtex.com/f/howpublished-field/
-#: src/utils.rs:24
+#: src/utils.rs:23
 msgid "How Published"
 msgstr "Qanday chop etilgan"
 
-#: src/utils.rs:25
+#: src/utils.rs:24
 msgid "Note"
 msgstr "Eslatma"
 
-#: src/utils.rs:26
+#: src/utils.rs:25
 msgid "Book Title"
 msgstr "Kitob nomi"
 
-#: src/utils.rs:27
+#: src/utils.rs:26
 msgid "Series"
 msgstr "Seriya"
 
-#: src/utils.rs:28
+#: src/utils.rs:27
 msgid "Archive Prefix"
 msgstr "Arxivlash prefiksi"
 
 #. TRANSLATORS As in digital print
-#: src/utils.rs:30
+#: src/utils.rs:29
 msgid "ePrint"
 msgstr "elektron bosma"
 
 #. TRANSLATORS Identifier used by arXiv, see
 #. https://arxiv.org/help/hypertex/bibstyles
-#: src/utils.rs:32
+#: src/utils.rs:31
 msgid "Primary Class"
 msgstr "Boshlangʻich sinf"
 
-#: src/utils.rs:33
+#: src/utils.rs:32
 msgid "Month"
 msgstr "Oy"
 
 #. TRANSLATORS As in chief editor
-#: src/utils.rs:35
+#: src/utils.rs:34
 msgid "Editor"
 msgstr "Muharrir"
 
 #. TRANSLATORS As in association
-#: src/utils.rs:37
+#: src/utils.rs:36
 msgid "Organization"
 msgstr "Tashkilot"
 
-#: src/utils.rs:38
+#: src/utils.rs:37
 msgid "School"
 msgstr "Maktab"
 
-#: src/utils.rs:39
+#: src/utils.rs:38
 msgid "Institution"
 msgstr "Muassasa"
 
@@ -638,72 +632,111 @@ msgstr "Muassasa"
 msgid "Could not add entry"
 msgstr "Yozuv kiritilmadi"
 
-#: src/window.rs:359 src/window.rs:384
+#: src/window.rs:393 src/window.rs:418
 msgid "BibTeX Files"
 msgstr "BibTeX fayllari"
 
-#: src/window.rs:393
+#: src/window.rs:427
 msgid "Create New Bibliography"
 msgstr "Yangi bibliografiya yaratish"
 
-#: src/window.rs:394
+#: src/window.rs:428
 msgid "_Create"
 msgstr "Yaratish"
 
 #. TRANSLATORS This a file name, .bib will be appended e.g.
 #. bibliography.bib, please only use alphabetic characters.
-#: src/window.rs:397
+#: src/window.rs:431
 msgid "bibliography"
 msgstr "bibliografiya"
 
-#: src/window.rs:520
+#: src/window.rs:554
 msgid "An entry with the given citation key already exists"
 msgstr "Berilgan iqtibos kaliti bilan yozuv allaqachon mavjud"
 
-#: src/window.rs:535
+#: src/window.rs:569
 msgid "Bibliography saved"
 msgstr "Bibliografiya saqlandi"
 
-#: src/window.rs:588
+#: src/window.rs:622
 msgid "Citation Deleted"
 msgstr "Iqtibos oʻchirildi"
 
-#: src/window.rs:590
+#: src/window.rs:624
 msgid "Undo"
 msgstr "Bekor qilish"
 
-#: src/window.rs:633
+#: src/window.rs:673
 msgid "translator-credits"
 msgstr ""
 "BeMeritus <bemerituss@gmail.com>\n"
 "Baxrom Raxmatov"
 
 #. NOTE Dialog title which informs the user about unsaved changes.
-#: src/window.rs:647
+#: src/window.rs:687 src/window.rs:719
 msgid "Unsaved Changes"
 msgstr "Saqlanmagan oʻzgarishlar"
 
 #. NOTE Dialog subtitle which informs the user about unsaved changes more
 #. detailed.
-#: src/window.rs:650
-msgid "Do you want to write all changes to the safe?"
+#: src/window.rs:690
+#, fuzzy
+#| msgid "Do you want to write all changes to the safe?"
+msgid ""
+"Do you want to write all changes to the bibliography before opening the new "
+"one?"
 msgstr "Barcha oʻzgarishlarni xavfsiz joyga yozishni xohlaysizmi?"
 
-#: src/window.rs:654
+#: src/window.rs:694
+#, fuzzy
+#| msgid "_Quit Without Saving"
+msgid "_Open Without Saving"
+msgstr "Saqlamasdan chiqish"
+
+#: src/window.rs:695
+#, fuzzy
+#| msgid "_Don't Quit"
+msgid "_Don't Open"
+msgstr "Chiqilmasin"
+
+#: src/window.rs:696
+#, fuzzy
+#| msgid "_Save and Quit"
+msgid "_Save and Open"
+msgstr "Saqlash va tark etish"
+
+#. NOTE Dialog subtitle which informs the user about unsaved changes more
+#. detailed.
+#: src/window.rs:722
+#, fuzzy
+#| msgid "Do you want to write all changes to the safe?"
+msgid "Do you want to write all changes to the bibliography?"
+msgstr "Barcha oʻzgarishlarni xavfsiz joyga yozishni xohlaysizmi?"
+
+#: src/window.rs:726
 msgid "_Quit Without Saving"
 msgstr "Saqlamasdan chiqish"
 
-#: src/window.rs:655
+#: src/window.rs:727
 msgid "_Don't Quit"
 msgstr "Chiqilmasin"
 
-#: src/window.rs:656
+#: src/window.rs:728
 msgid "_Save and Quit"
 msgstr "Saqlash va tark etish"
 
-#: src/window.rs:699
+#: src/window.rs:815
 msgid "Remove From Recent Files"
 msgstr "Oxirgi fayllardan olib tashlash"
+
+#~ msgid "Window width"
+#~ msgstr "Oyna kengligi"
+
+#~ msgid "Window height"
+#~ msgstr "Deraza balandligi"
+
+#~ msgid "Window maximized state"
+#~ msgstr "Oynaning kattalashtirilgan holati"
 
 #~ msgid "PDF added"
 #~ msgstr "PDF kiritildi"

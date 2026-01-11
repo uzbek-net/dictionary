@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2025-12-30 06:46+0000\n"
+"POT-Creation-Date: 2026-01-10 15:09+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -66,7 +66,7 @@ msgstr "CPU"
 #: data/resources/ui/window.ui:176 data/resources/ui/window.ui:183
 #: src/ui/pages/applications/mod.rs:806 src/ui/pages/applications/mod.rs:823
 #: src/ui/pages/memory.rs:106 src/ui/pages/memory.rs:192
-#: src/ui/pages/processes/mod.rs:1099 src/ui/pages/processes/mod.rs:1116
+#: src/ui/pages/processes/mod.rs:1106 src/ui/pages/processes/mod.rs:1123
 msgid "Memory"
 msgstr "Xotira"
 
@@ -76,8 +76,8 @@ msgstr "Xotira"
 #: data/resources/ui/dialogs/settings_dialog.ui:158
 #: data/resources/ui/dialogs/settings_dialog.ui:250
 #: src/ui/pages/applications/mod.rs:1232 src/ui/pages/applications/mod.rs:1249
-#: src/ui/pages/gpu.rs:119 src/ui/pages/processes/mod.rs:1537
-#: src/ui/pages/processes/mod.rs:1554 src/ui/window.rs:468
+#: src/ui/pages/gpu.rs:119 src/ui/pages/processes/mod.rs:1544
+#: src/ui/pages/processes/mod.rs:1561 src/ui/window.rs:468
 msgid "GPU"
 msgstr "GPU"
 
@@ -156,8 +156,8 @@ msgstr "Foydalanish"
 #: data/resources/ui/dialogs/settings_dialog.ui:225
 #: data/resources/ui/window.ui:145 data/resources/ui/window.ui:152
 #: src/ui/pages/applications/mod.rs:873 src/ui/pages/applications/mod.rs:890
-#: src/ui/pages/cpu.rs:128 src/ui/pages/processes/mod.rs:1166
-#: src/ui/pages/processes/mod.rs:1183 src/ui/window.rs:290
+#: src/ui/pages/cpu.rs:128 src/ui/pages/processes/mod.rs:1173
+#: src/ui/pages/processes/mod.rs:1190 src/ui/window.rs:290
 msgid "Processor"
 msgstr "Protsessor"
 
@@ -166,8 +166,8 @@ msgstr "Protsessor"
 #: data/resources/ui/dialogs/settings_dialog.ui:178
 #: data/resources/ui/dialogs/settings_dialog.ui:290
 #: src/ui/pages/applications/mod.rs:1503 src/ui/pages/applications/mod.rs:1520
-#: src/ui/pages/memory.rs:198 src/ui/pages/processes/mod.rs:2086
-#: src/ui/pages/processes/mod.rs:2103
+#: src/ui/pages/memory.rs:198 src/ui/pages/processes/mod.rs:2093
+#: src/ui/pages/processes/mod.rs:2110
 msgid "Swap"
 msgstr "Svap"
 
@@ -176,7 +176,7 @@ msgstr "Svap"
 #: data/resources/ui/dialogs/settings_dialog.ui:138
 #: data/resources/ui/dialogs/settings_dialog.ui:230
 #: src/ui/pages/applications/mod.rs:945 src/ui/pages/applications/mod.rs:964
-#: src/ui/pages/processes/mod.rs:1238 src/ui/pages/processes/mod.rs:1257
+#: src/ui/pages/processes/mod.rs:1245 src/ui/pages/processes/mod.rs:1264
 msgid "Drive Read"
 msgstr "Diskni oʻqish"
 
@@ -185,7 +185,7 @@ msgstr "Diskni oʻqish"
 #: data/resources/ui/dialogs/settings_dialog.ui:143
 #: data/resources/ui/dialogs/settings_dialog.ui:235
 #: src/ui/pages/applications/mod.rs:1018 src/ui/pages/applications/mod.rs:1037
-#: src/ui/pages/processes/mod.rs:1313 src/ui/pages/processes/mod.rs:1332
+#: src/ui/pages/processes/mod.rs:1320 src/ui/pages/processes/mod.rs:1339
 msgid "Drive Read Total"
 msgstr "Jami diskdagi oʻqishlar soni"
 
@@ -194,7 +194,7 @@ msgstr "Jami diskdagi oʻqishlar soni"
 #: data/resources/ui/dialogs/settings_dialog.ui:148
 #: data/resources/ui/dialogs/settings_dialog.ui:240
 #: src/ui/pages/applications/mod.rs:1087 src/ui/pages/applications/mod.rs:1106
-#: src/ui/pages/processes/mod.rs:1388 src/ui/pages/processes/mod.rs:1407
+#: src/ui/pages/processes/mod.rs:1395 src/ui/pages/processes/mod.rs:1414
 msgid "Drive Write"
 msgstr "Diskga yozish"
 
@@ -203,7 +203,7 @@ msgstr "Diskga yozish"
 #: data/resources/ui/dialogs/settings_dialog.ui:153
 #: data/resources/ui/dialogs/settings_dialog.ui:245
 #: src/ui/pages/applications/mod.rs:1162 src/ui/pages/applications/mod.rs:1181
-#: src/ui/pages/processes/mod.rs:1463 src/ui/pages/processes/mod.rs:1482
+#: src/ui/pages/processes/mod.rs:1470 src/ui/pages/processes/mod.rs:1489
 msgid "Drive Write Total"
 msgstr "Jami disk yozuvi"
 
@@ -212,7 +212,7 @@ msgstr "Jami disk yozuvi"
 #: data/resources/ui/dialogs/settings_dialog.ui:163
 #: data/resources/ui/dialogs/settings_dialog.ui:255
 #: src/ui/pages/applications/mod.rs:1436 src/ui/pages/applications/mod.rs:1454
-#: src/ui/pages/processes/mod.rs:1742 src/ui/pages/processes/mod.rs:1761
+#: src/ui/pages/processes/mod.rs:1749 src/ui/pages/processes/mod.rs:1768
 msgid "Video Memory"
 msgstr "Video xotira"
 
@@ -221,7 +221,7 @@ msgstr "Video xotira"
 #: data/resources/ui/dialogs/settings_dialog.ui:168
 #: data/resources/ui/dialogs/settings_dialog.ui:260
 #: src/ui/pages/applications/mod.rs:1299 src/ui/pages/applications/mod.rs:1318
-#: src/ui/pages/processes/mod.rs:1604 src/ui/pages/processes/mod.rs:1623
+#: src/ui/pages/processes/mod.rs:1611 src/ui/pages/processes/mod.rs:1630
 msgid "Video Encoder"
 msgstr "Videoni shifrlovchi"
 
@@ -230,7 +230,7 @@ msgstr "Videoni shifrlovchi"
 #: data/resources/ui/dialogs/settings_dialog.ui:173
 #: data/resources/ui/dialogs/settings_dialog.ui:265
 #: src/ui/pages/applications/mod.rs:1368 src/ui/pages/applications/mod.rs:1387
-#: src/ui/pages/processes/mod.rs:1673 src/ui/pages/processes/mod.rs:1692
+#: src/ui/pages/processes/mod.rs:1680 src/ui/pages/processes/mod.rs:1699
 msgid "Video Decoder"
 msgstr "Video dekodlovchi"
 
@@ -267,37 +267,37 @@ msgstr "Jarayon haqida ma’lumot"
 
 #: data/resources/ui/dialogs/process_dialog.ui:154
 #: data/resources/ui/dialogs/settings_dialog.ui:270
-#: src/ui/pages/processes/mod.rs:1810 src/ui/pages/processes/mod.rs:1828
+#: src/ui/pages/processes/mod.rs:1817 src/ui/pages/processes/mod.rs:1835
 msgid "Total CPU Time"
 msgstr "Umumiy CPU vaqti"
 
 #: data/resources/ui/dialogs/process_dialog.ui:163
 #: data/resources/ui/dialogs/settings_dialog.ui:275
-#: src/ui/pages/processes/mod.rs:1877 src/ui/pages/processes/mod.rs:1895
+#: src/ui/pages/processes/mod.rs:1884 src/ui/pages/processes/mod.rs:1902
 msgid "User CPU Time"
 msgstr "Foydalanuvchining CPU vaqti"
 
 #: data/resources/ui/dialogs/process_dialog.ui:172
 #: data/resources/ui/dialogs/settings_dialog.ui:280
-#: src/ui/pages/processes/mod.rs:1944 src/ui/pages/processes/mod.rs:1962
+#: src/ui/pages/processes/mod.rs:1951 src/ui/pages/processes/mod.rs:1969
 msgid "System CPU Time"
 msgstr "Tizim CPU vaqti"
 
 #: data/resources/ui/dialogs/process_dialog.ui:186
 #: data/resources/ui/dialogs/settings_dialog.ui:210
-#: src/ui/pages/processes/mod.rs:976 src/ui/pages/processes/mod.rs:991
+#: src/ui/pages/processes/mod.rs:983 src/ui/pages/processes/mod.rs:998
 msgid "Process ID"
 msgstr "Jarayon identifikatori (ID)"
 
 #: data/resources/ui/dialogs/process_dialog.ui:204
 #: data/resources/ui/dialogs/settings_dialog.ui:300
-#: src/ui/pages/processes/mod.rs:2222 src/ui/pages/processes/mod.rs:2240
+#: src/ui/pages/processes/mod.rs:2229 src/ui/pages/processes/mod.rs:2247
 msgid "Commandline"
 msgstr "Buyruq satri"
 
 #: data/resources/ui/dialogs/process_dialog.ui:213
 #: data/resources/ui/dialogs/settings_dialog.ui:215
-#: src/ui/pages/processes/mod.rs:1037 src/ui/pages/processes/mod.rs:1052
+#: src/ui/pages/processes/mod.rs:1044 src/ui/pages/processes/mod.rs:1059
 msgid "User"
 msgstr "Foydalanuvchi"
 
@@ -327,7 +327,7 @@ msgstr ""
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:87
 #: data/resources/ui/dialogs/settings_dialog.ui:285
-#: src/ui/pages/processes/mod.rs:2011 src/ui/pages/processes/mod.rs:2027
+#: src/ui/pages/processes/mod.rs:2018 src/ui/pages/processes/mod.rs:2034
 msgid "Priority"
 msgstr "Ustuvorlik"
 
@@ -512,7 +512,7 @@ msgstr "Axborot ustunlari"
 #: data/resources/ui/dialogs/settings_dialog.ui:183
 #: data/resources/ui/dialogs/settings_dialog.ui:295
 #: src/ui/pages/applications/mod.rs:1570 src/ui/pages/applications/mod.rs:1589
-#: src/ui/pages/processes/mod.rs:2153 src/ui/pages/processes/mod.rs:2172
+#: src/ui/pages/processes/mod.rs:2160 src/ui/pages/processes/mod.rs:2179
 msgid "Combined Memory"
 msgstr "Kombinatsiyalangan xotira"
 
@@ -779,17 +779,17 @@ msgid "Memory Frequency"
 msgstr "Xotira chastotasi"
 
 #: data/resources/ui/pages/processes.ui:6
-#: data/resources/ui/pages/processes.ui:42 src/ui/pages/processes/mod.rs:2339
+#: data/resources/ui/pages/processes.ui:42 src/ui/pages/processes/mod.rs:2346
 msgid "Kill Process"
 msgstr "Toʻxtatish jarayoni"
 
 #: data/resources/ui/pages/processes.ui:10
-#: data/resources/ui/pages/processes.ui:46 src/ui/pages/processes/mod.rs:2338
+#: data/resources/ui/pages/processes.ui:46 src/ui/pages/processes/mod.rs:2345
 msgid "Halt Process"
 msgstr "Jarayonni toʻxtatish"
 
 #: data/resources/ui/pages/processes.ui:14
-#: data/resources/ui/pages/processes.ui:50 src/ui/pages/processes/mod.rs:2340
+#: data/resources/ui/pages/processes.ui:50 src/ui/pages/processes/mod.rs:2347
 msgid "Continue Process"
 msgstr "Jarayonni davom ettirish"
 
@@ -810,7 +810,7 @@ msgstr "Jarayonlarni davom ettirish"
 
 #: data/resources/ui/pages/processes.ui:38
 #: data/resources/ui/pages/processes.ui:157 src/ui/pages/processes/mod.rs:527
-#: src/ui/pages/processes/mod.rs:2337
+#: src/ui/pages/processes/mod.rs:2344
 msgid "End Process"
 msgstr "Jarayonni yakunlash"
 
@@ -955,12 +955,12 @@ msgstr ""
 #: src/ui/pages/network.rs:375 src/ui/pages/network.rs:404
 #: src/ui/pages/network.rs:407 src/ui/pages/network.rs:409
 #: src/ui/pages/network.rs:417 src/ui/pages/network.rs:424
-#: src/ui/pages/network.rs:434 src/ui/pages/processes/mod.rs:1268
-#: src/ui/pages/processes/mod.rs:1343 src/ui/pages/processes/mod.rs:1418
-#: src/ui/pages/processes/mod.rs:1493 src/ui/pages/processes/mod.rs:2043
-#: src/ui/pages/processes/mod.rs:2045 src/utils/battery.rs:152
+#: src/ui/pages/network.rs:434 src/ui/pages/processes/mod.rs:1275
+#: src/ui/pages/processes/mod.rs:1350 src/ui/pages/processes/mod.rs:1425
+#: src/ui/pages/processes/mod.rs:1500 src/ui/pages/processes/mod.rs:2050
+#: src/ui/pages/processes/mod.rs:2052 src/utils/battery.rs:152
 #: src/utils/drive.rs:137 src/utils/gpu/mod.rs:279 src/utils/gpu/mod.rs:291
-#: src/utils/link/mod.rs:61 src/utils/npu/mod.rs:244 src/utils/npu/mod.rs:250
+#: src/utils/link/mod.rs:61 src/utils/npu/mod.rs:249 src/utils/npu/mod.rs:255
 msgid "N/A"
 msgstr "M/E"
 
@@ -1003,7 +1003,7 @@ msgstr "Ha (Snap)"
 msgid "Running Apps: {}"
 msgstr "Ishlayotgan ilovalar: {}"
 
-#: src/ui/pages/applications/mod.rs:703 src/ui/pages/processes/mod.rs:866
+#: src/ui/pages/applications/mod.rs:703 src/ui/pages/processes/mod.rs:873
 msgid "Cancel"
 msgstr "Bekor qilish"
 
@@ -1011,27 +1011,27 @@ msgstr "Bekor qilish"
 msgid "App"
 msgstr "Ilova"
 
-#: src/ui/pages/applications/mod.rs:1638 src/ui/pages/processes/mod.rs:2286
+#: src/ui/pages/applications/mod.rs:1638 src/ui/pages/processes/mod.rs:2293
 #, rust-format
 msgid "End {}?"
 msgstr "{} tugallansinmi?"
 
-#: src/ui/pages/applications/mod.rs:1639 src/ui/pages/processes/mod.rs:2287
+#: src/ui/pages/applications/mod.rs:1639 src/ui/pages/processes/mod.rs:2294
 #, rust-format
 msgid "Halt {}?"
 msgstr "{} toʻxtatilsinmi?"
 
-#: src/ui/pages/applications/mod.rs:1640 src/ui/pages/processes/mod.rs:2288
+#: src/ui/pages/applications/mod.rs:1640 src/ui/pages/processes/mod.rs:2295
 #, rust-format
 msgid "Kill {}?"
 msgstr "{} toʻxtatilsinmi?"
 
-#: src/ui/pages/applications/mod.rs:1641 src/ui/pages/processes/mod.rs:2289
+#: src/ui/pages/applications/mod.rs:1641 src/ui/pages/processes/mod.rs:2296
 #, rust-format
 msgid "Continue {}?"
 msgstr "{} davom ettirilsinmi?"
 
-#: src/ui/pages/applications/mod.rs:1647 src/ui/pages/processes/mod.rs:2324
+#: src/ui/pages/applications/mod.rs:1647 src/ui/pages/processes/mod.rs:2331
 msgid "Unsaved work might be lost."
 msgstr "Saqlanmagan ish yoʻqolishi mumkin."
 
@@ -1165,16 +1165,16 @@ msgstr "Yuborilmoqda"
 msgid "R: {} · S: {}"
 msgstr "Q: {} · Y: {}"
 
-#: src/ui/pages/processes/mod.rs:817
+#: src/ui/pages/processes/mod.rs:824
 #, rust-format
 msgid "Running Processes: {}"
 msgstr "Ishga tushirish jarayonlari: {}"
 
-#: src/ui/pages/processes/mod.rs:915
+#: src/ui/pages/processes/mod.rs:922
 msgid "Process"
 msgstr "Jarayon"
 
-#: src/ui/pages/processes/mod.rs:2296
+#: src/ui/pages/processes/mod.rs:2303
 #, fuzzy, rust-format
 #| msgid "End process?"
 #| msgid_plural "End {} processes?"
@@ -1182,7 +1182,7 @@ msgid "End process?"
 msgid_plural "End {} processes?"
 msgstr[0] "Jarayon yakunlansinmi?"
 
-#: src/ui/pages/processes/mod.rs:2302
+#: src/ui/pages/processes/mod.rs:2309
 #, fuzzy, rust-format
 #| msgid "Halt process?"
 #| msgid_plural "Halt {} processes?"
@@ -1190,7 +1190,7 @@ msgid "Halt process?"
 msgid_plural "Halt {} processes?"
 msgstr[0] "Jarayon to‘xtatilsinmi?"
 
-#: src/ui/pages/processes/mod.rs:2308 src/ui/pages/processes/mod.rs:2314
+#: src/ui/pages/processes/mod.rs:2315 src/ui/pages/processes/mod.rs:2321
 #, fuzzy, rust-format
 #| msgid "Kill process?"
 #| msgid_plural "Kill {} processes?"
@@ -1198,7 +1198,7 @@ msgid "Kill process?"
 msgid_plural "Kill {} processes?"
 msgstr[0] "Jarayonni to'xtatilsinmi?"
 
-#: src/ui/pages/processes/mod.rs:2326
+#: src/ui/pages/processes/mod.rs:2333
 msgid ""
 "Halting a process can come with serious risks such as losing data and "
 "security implications. Use with caution."
@@ -1206,7 +1206,7 @@ msgstr ""
 "Jarayonni toʻxtatish ma’lumotlar va xavfsizlik oqibatlarini yoʻqotish kabi "
 "jiddiy xavflar bilan birga kelishi mumkin. Ehtiyotkorlik bilan foydalaning."
 
-#: src/ui/pages/processes/mod.rs:2329
+#: src/ui/pages/processes/mod.rs:2336
 msgid ""
 "Killing a process can come with serious risks such as losing data and "
 "security implications. Use with caution."
@@ -1228,37 +1228,37 @@ msgstr "NPU {}"
 msgid "NPU"
 msgstr "NPU"
 
-#: src/ui/window.rs:1174
+#: src/ui/window.rs:1201
 #, rust-format
 msgid "Successfully adjusted {}"
 msgstr "{} sozlandi"
 
-#: src/ui/window.rs:1175
+#: src/ui/window.rs:1202
 #, rust-format
 msgid "There was a problem adjusting {}"
 msgstr "{}ʼni sozlashda muammo yuz berdi"
 
-#: src/ui/window.rs:1257
+#: src/ui/window.rs:1284
 #, rust-format
 msgid "Successfully ended {}"
 msgstr "{} muvaffaqiyatli yakunlandi"
 
-#: src/ui/window.rs:1258
+#: src/ui/window.rs:1285
 #, rust-format
 msgid "Successfully halted {}"
 msgstr "{} toʻxtatildi"
 
-#: src/ui/window.rs:1259
+#: src/ui/window.rs:1286
 #, rust-format
 msgid "Successfully killed {}"
 msgstr "{} oʻldirildi"
 
-#: src/ui/window.rs:1260
+#: src/ui/window.rs:1287
 #, rust-format
 msgid "Successfully continued {}"
 msgstr "{} davom ettirildi"
 
-#: src/ui/window.rs:1267
+#: src/ui/window.rs:1294
 #, fuzzy, rust-format
 #| msgid "Successfully ended the process"
 #| msgid_plural "Successfully ended {} processes"
@@ -1266,7 +1266,7 @@ msgid "Successfully ended the process"
 msgid_plural "Successfully ended {} processes"
 msgstr[0] "Jarayon muvaffaqiyatli yakunlandi"
 
-#: src/ui/window.rs:1273
+#: src/ui/window.rs:1300
 #, fuzzy, rust-format
 #| msgid "Successfully halted the process"
 #| msgid_plural "Successfully halted {} processes"
@@ -1274,7 +1274,7 @@ msgid "Successfully halted the process"
 msgid_plural "Successfully halted {} processes"
 msgstr[0] "Jarayonni muvaffaqiyatli to‘xtatdi"
 
-#: src/ui/window.rs:1279
+#: src/ui/window.rs:1306
 #, fuzzy, rust-format
 #| msgid "Successfully killed the process"
 #| msgid_plural "Successfully killed {} processes"
@@ -1282,7 +1282,7 @@ msgid "Successfully killed the process"
 msgid_plural "Successfully killed {} processes"
 msgstr[0] "Jarayon muvaffaqiyatli yakunlandi"
 
-#: src/ui/window.rs:1285
+#: src/ui/window.rs:1312
 #, fuzzy, rust-format
 #| msgid "Successfully continued the process"
 #| msgid_plural "Successfully continued {} processes"
@@ -1290,7 +1290,7 @@ msgid "Successfully continued the process"
 msgid_plural "Successfully continued {} processes"
 msgstr[0] "Jarayonni muvaffaqiyatli davom ettirdi"
 
-#: src/ui/window.rs:1296
+#: src/ui/window.rs:1323
 #, fuzzy, rust-format
 #| msgid "There was a problem ending a process"
 #| msgid_plural "There were problems ending {} processes"
@@ -1298,7 +1298,7 @@ msgid "There was a problem ending a process"
 msgid_plural "There were problems ending {} processes"
 msgstr[0] "Jarayonni yakunlashda muammo yuz berdi"
 
-#: src/ui/window.rs:1302
+#: src/ui/window.rs:1329
 #, fuzzy, rust-format
 #| msgid "There was a problem halting a process"
 #| msgid_plural "There were problems halting {} processes"
@@ -1306,7 +1306,7 @@ msgid "There was a problem halting a process"
 msgid_plural "There were problems halting {} processes"
 msgstr[0] "Jarayonni to‘xtatishda muammo yuz berdi"
 
-#: src/ui/window.rs:1308
+#: src/ui/window.rs:1335
 #, fuzzy, rust-format
 #| msgid "There was a problem killing a process"
 #| msgid_plural "There were problems killing {} processes"
@@ -1314,7 +1314,7 @@ msgid "There was a problem killing a process"
 msgid_plural "There were problems killing {} processes"
 msgstr[0] "Jarayonni o‘ldirish muammosi yuzaga keldi"
 
-#: src/ui/window.rs:1314
+#: src/ui/window.rs:1341
 #, fuzzy, rust-format
 #| msgid "There was a problem continuing a process"
 #| msgid_plural "There were problems continuing {} processes"
@@ -1322,27 +1322,27 @@ msgid "There was a problem continuing a process"
 msgid_plural "There were problems continuing {} processes"
 msgstr[0] "Jarayonni davom ettirishda muammo yuz berdi"
 
-#: src/ui/window.rs:1324
+#: src/ui/window.rs:1351
 #, rust-format
 msgid "There was a problem ending {}"
 msgstr "{} bilan tugaydigan muammo bor edi"
 
-#: src/ui/window.rs:1325
+#: src/ui/window.rs:1352
 #, rust-format
 msgid "There was a problem halting {}"
 msgstr "{} toʻxtatishda muammo yuz berdi"
 
-#: src/ui/window.rs:1326
+#: src/ui/window.rs:1353
 #, rust-format
 msgid "There was a problem killing {}"
 msgstr "{} oʻldirishda muammo yuz berdi"
 
-#: src/ui/window.rs:1327
+#: src/ui/window.rs:1354
 #, rust-format
 msgid "There was a problem continuing {}"
 msgstr "{} davom etishida muammo bor edi"
 
-#: src/utils/app.rs:223
+#: src/utils/app.rs:224
 msgid "System Processes"
 msgstr "Tizim jarayonlari"
 

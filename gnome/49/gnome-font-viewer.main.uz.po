@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-font-viewer main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-font-viewer/issues/\n"
-"POT-Creation-Date: 2026-01-03 21:57+0000\n"
+"POT-Creation-Date: 2026-01-05 21:22+0000\n"
 "PO-Revision-Date: 2025-04-04 11:26+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -81,7 +81,7 @@ msgstr "SIZE"
 msgid "FONT-FILE OUTPUT-FILE"
 msgstr "SHIFT-FILE OUTPUT-FILE"
 
-#: src/font-view-application.c:79 src/font-view-window.c:728
+#: src/font-view-application.c:79 src/font-view-window.c:726
 msgid "Could Not Display Font"
 msgstr "Shriftni koʻrsatib boʻlmadi"
 
@@ -89,19 +89,19 @@ msgstr "Shriftni koʻrsatib boʻlmadi"
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: src/font-view-window.c:104
+#: src/font-view-window.c:102
 msgid "Failed"
 msgstr "Muvaffaqiyatsiz"
 
-#: src/font-view-window.c:112
+#: src/font-view-window.c:110
 msgid "Installed"
 msgstr "Oʻrnatilgan"
 
-#: src/font-view-window.c:117
+#: src/font-view-window.c:115
 msgid "Installing"
 msgstr "Oʻrnatilmoqda"
 
-#: src/font-view-window.c:120 src/font-view-window.ui:174
+#: src/font-view-window.c:118 src/font-view-window.ui:164
 msgid "_Install"
 msgstr "_Oʻrnatish"
 
@@ -109,92 +109,92 @@ msgstr "_Oʻrnatish"
 #. * a 'font variation axis'. The %s gets replaced with the name
 #. * of the axis, for example 'Width'. The three %g get replaced
 #. * with the minimum, maximum and default values for the axis.
-#: src/font-view-window.c:234
+#: src/font-view-window.c:232
 #, c-format
 msgid "%s %g — %g, default %g"
 msgstr "%s %g — %g, standart %g"
 
-#: src/font-view-window.c:289
+#: src/font-view-window.c:287
 #, c-format
 msgid "Instance %d"
 msgstr "%d misol"
 
 #. Translators, this seperates the list of Layout
 #. * Features.
-#: src/font-view-window.c:327
+#: src/font-view-window.c:325
 msgctxt "OpenType layout"
 msgid ", "
 msgstr ", "
 
-#: src/font-view-window.c:356
+#: src/font-view-window.c:354
 msgid "Name"
 msgstr "Ism"
 
-#: src/font-view-window.c:359
+#: src/font-view-window.c:357
 msgid "Location"
 msgstr "Joylashuvi"
 
-#: src/font-view-window.c:362
+#: src/font-view-window.c:360
 msgid "Style"
 msgstr "Stil"
 
-#: src/font-view-window.c:372
+#: src/font-view-window.c:370
 msgid "Type"
 msgstr "Turi"
 
-#: src/font-view-window.c:438 src/font-view-window.c:464
+#: src/font-view-window.c:436 src/font-view-window.c:462
 msgid "Version"
 msgstr "Versiya"
 
-#: src/font-view-window.c:442 src/font-view-window.c:469
+#: src/font-view-window.c:440 src/font-view-window.c:467
 msgid "Copyright"
 msgstr "Mualliflik huquqi"
 
-#: src/font-view-window.c:446
+#: src/font-view-window.c:444
 msgid "Description"
 msgstr "Ta'rif"
 
-#: src/font-view-window.c:450
+#: src/font-view-window.c:448
 msgid "Manufacturer"
 msgstr "Ishlab chiqaruvchi"
 
-#: src/font-view-window.c:454
+#: src/font-view-window.c:452
 msgid "Designer"
 msgstr "Dizayner"
 
-#: src/font-view-window.c:458
+#: src/font-view-window.c:456
 msgid "License"
 msgstr "Litsenziya"
 
-#: src/font-view-window.c:483
+#: src/font-view-window.c:481
 msgid "Glyph Count"
 msgstr "Gliflar soni"
 
-#: src/font-view-window.c:485
+#: src/font-view-window.c:483
 msgid "Color Glyphs"
 msgstr "Rangli gliflar"
 
-#: src/font-view-window.c:486
+#: src/font-view-window.c:484
 msgid "yes"
 msgstr "ha"
 
-#: src/font-view-window.c:486
+#: src/font-view-window.c:484
 msgid "no"
 msgstr "yoʻq"
 
-#: src/font-view-window.c:490
+#: src/font-view-window.c:488
 msgid "Layout Features"
 msgstr "Joylashtirish xususiyatlari"
 
-#: src/font-view-window.c:496
+#: src/font-view-window.c:494
 msgid "Variation Axes"
 msgstr "Variatsiya oʻqlari"
 
-#: src/font-view-window.c:503
+#: src/font-view-window.c:501
 msgid "Named Styles"
 msgstr "Nomlangan uslublar"
 
-#: src/font-view-window.c:544 src/font-view-window.c:647
+#: src/font-view-window.c:542 src/font-view-window.c:645
 msgid "Could Not Install Font"
 msgstr "Shriftni oʻrnatib boʻlmadi"
 
@@ -202,31 +202,27 @@ msgstr "Shriftni oʻrnatib boʻlmadi"
 msgid "All Fonts"
 msgstr "Barcha shriftlar"
 
-#: src/font-view-window.ui:33
-msgid "Search"
-msgstr "Qidiruv"
-
-#: src/font-view-window.ui:41
-msgid "About Fonts"
-msgstr "Shriftlar haqida"
-
-#: src/font-view-window.ui:53
+#: src/font-view-window.ui:36
 msgid "Search fonts"
 msgstr "Shriftlarni qidirish"
 
-#: src/font-view-window.ui:177
+#: src/font-view-window.ui:45
+msgid "About Fonts"
+msgstr "Shriftlar haqida"
+
+#: src/font-view-window.ui:167
 msgid "Install Font"
 msgstr "Shriftni oʻrnating"
 
-#: src/font-view-window.ui:182
+#: src/font-view-window.ui:172
 msgid "I_nfo"
 msgstr "I_nfo"
 
-#: src/font-view-window.ui:184
+#: src/font-view-window.ui:174
 msgid "Font Details"
 msgstr "Shrift tafsilotlari"
 
-#: src/font-view-window.ui:230
+#: src/font-view-window.ui:220
 msgid "_Close"
 msgstr "_Yopish"
 
@@ -1032,3 +1028,6 @@ msgstr "Aylanish uchun vertikal muqobillar"
 msgctxt "OpenType layout"
 msgid "Slashed Zero"
 msgstr "Slashed Zero"
+
+#~ msgid "Search"
+#~ msgstr "Qidiruv"

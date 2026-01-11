@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2025-11-21 01:29+0000\n"
+"POT-Creation-Date: 2026-01-07 00:06+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -2406,27 +2406,27 @@ msgstr "Joriy tegni olib tashlash"
 msgid "Add Bookmark"
 msgstr "Xatchoʻp qoʻshish"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:618
+#: src/bookmarks/ephy-bookmarks-dialog.c:617
 #: src/resources/gtk/bookmark-row.blp:65 src/resources/gtk/lang-row.blp:33
 msgid "Move Controls"
 msgstr "Harakatlanish boshqaruvlari"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:623
+#: src/bookmarks/ephy-bookmarks-dialog.c:622
 #: src/resources/gtk/bookmark-row.blp:7 src/resources/gtk/lang-row.blp:7
 msgid "Move Up"
 msgstr "Yuqoriga siljitish"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:624
+#: src/bookmarks/ephy-bookmarks-dialog.c:623
 #: src/resources/gtk/bookmark-row.blp:11 src/resources/gtk/lang-row.blp:11
 msgid "Move Down"
 msgstr "Pastga siljitish"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:809
+#: src/bookmarks/ephy-bookmarks-dialog.c:808
 msgid "Bookmark removed"
 msgstr "Xatchoʻp olib tashlandi"
 
 #. Undo, redo.
-#: src/bookmarks/ephy-bookmarks-dialog.c:811 src/ephy-window.c:987
+#: src/bookmarks/ephy-bookmarks-dialog.c:810 src/ephy-window.c:987
 #: src/preferences/prefs-features-page.c:276
 msgid "_Undo"
 msgstr "_Bekor qilish"
@@ -2443,7 +2443,7 @@ msgid "File is not a valid Epiphany bookmarks file: missing bookmarks table"
 msgstr ""
 "Fayl haqiqiy Epiphany xatchoʻplar fayli emas: xatchoʻplar jadvali topilmadi"
 
-#: src/bookmarks/ephy-bookmarks-import.c:319
+#: src/bookmarks/ephy-bookmarks-import.c:320
 #, c-format
 msgid ""
 "Firefox bookmarks database could not be opened. Close Firefox and try again."
@@ -2451,27 +2451,27 @@ msgstr ""
 "Firefox xatchoʻplar maʼlumotlar bazasini ochib boʻlmadi. Firefoxʼni yoping "
 "va qaytadan urinib koʻring."
 
-#: src/bookmarks/ephy-bookmarks-import.c:332
-#: src/bookmarks/ephy-bookmarks-import.c:368
+#: src/bookmarks/ephy-bookmarks-import.c:333
+#: src/bookmarks/ephy-bookmarks-import.c:369
 #, c-format
 msgid "Firefox bookmarks could not be retrieved!"
 msgstr "Firefox xatchoʻplarini olib boʻlmadi!"
 
-#: src/bookmarks/ephy-bookmarks-import.c:535
+#: src/bookmarks/ephy-bookmarks-import.c:536
 #, c-format
 msgid "HTML bookmarks database could not be opened: %s"
 msgstr "HTML xatchoʻplar maʼlumotlar bazasini ochib boʻlmadi: %s"
 
-#: src/bookmarks/ephy-bookmarks-import.c:546
+#: src/bookmarks/ephy-bookmarks-import.c:547
 msgid "HTML bookmarks database could not be read."
 msgstr "HTML xatchoʻplar maʼlumotlar bazasini oʻqib boʻlmadi."
 
-#: src/bookmarks/ephy-bookmarks-import.c:568
+#: src/bookmarks/ephy-bookmarks-import.c:569
 #, c-format
 msgid "HTML bookmarks database could not be parsed: %s"
 msgstr "HTML xatchoʻplar maʼlumotlar bazasini pars qilib boʻlmadi: %s"
 
-#: src/bookmarks/ephy-bookmarks-import.c:740
+#: src/bookmarks/ephy-bookmarks-import.c:741
 #, c-format
 msgid "Bookmarks file could not be parsed:"
 msgstr "Xatchoʻplarni pars qilib boʻlmadi:"

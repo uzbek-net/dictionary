@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-share master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-user-share/issues\n"
-"POT-Creation-Date: 2025-12-10 19:01+0000\n"
+"POT-Creation-Date: 2025-10-30 00:03+0000\n"
 "PO-Revision-Date: 2025-03-20 18:28+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -49,12 +49,14 @@ msgstr "ulashish;fayllar;http;tarmoq;nusxa olish;yuborish;"
 #. language, you may use something equivalent to
 #. "Public files of {}", or leave out the {} altogether.
 #: src/http.rs:54
+#, rust-format
 msgid "{}'s public files"
 msgstr "{} umumiy fayllari"
 
 #. Translators: This is similar to the string before, only it
 #. has the hostname in it too.
 #: src/http.rs:58
+#, rust-format
 msgid "{0}'s public files on {1}"
 msgstr "{0}ning umumiy fayllari {1}"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: authenticator master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Authenticator/issues\n"
-"POT-Creation-Date: 2025-12-10 11:12+0000\n"
+"POT-Creation-Date: 2025-12-24 17:58+0000\n"
 "PO-Revision-Date: 2025-10-06 18:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -443,7 +443,7 @@ msgstr "Yordam URL manzili"
 msgid "Providers"
 msgstr "Ta’minotchilar"
 
-#: data/resources/ui/providers_dialog.ui:29 src/widgets/providers/page.rs:209
+#: data/resources/ui/providers_dialog.ui:29 src/widgets/providers/page.rs:213
 msgid "New Provider"
 msgstr "Yangi ta’minotchi"
 
@@ -721,7 +721,7 @@ msgid "SHA-512"
 msgstr "SHA-512"
 
 #: src/widgets/accounts/add.rs:277 src/widgets/backup/dialog.rs:445
-#: src/widgets/providers/page.rs:292
+#: src/widgets/providers/page.rs:296
 msgid "Image"
 msgstr "Rasm"
 
@@ -794,11 +794,12 @@ msgstr "Ta’minotchi muvaffaqiyatli yangilandi"
 msgid "Provider removed successfully"
 msgstr "Ta’minotchi muvaffaqiyatli olib tashlandi"
 
-#: src/widgets/providers/page.rs:186
+#: src/widgets/providers/page.rs:188
+#, rust-format
 msgid "Editing Provider: {}"
 msgstr "Tahrirlash ta’minotchisi: {}"
 
-#: src/widgets/providers/page.rs:325
+#: src/widgets/providers/page.rs:329
 msgid "The provider has accounts assigned to it, please remove them first"
 msgstr ""
 "Ta’minotchiga biriktirilgan hisoblarga ega, avval ularni olib tashlang"

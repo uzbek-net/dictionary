@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-boxes main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-boxes/issues\n"
-"POT-Creation-Date: 2025-10-29 18:21+0000\n"
+"POT-Creation-Date: 2025-11-24 10:45+0000\n"
 "PO-Revision-Date: 2025-05-23 21:09+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -130,7 +130,7 @@ msgid "Setup Shared Folders between your system and virtual machines"
 msgstr "Tizim va virtual mashinalar oʻrtasida umumiy papkalarni oʻrnating"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Boxes.metainfo.xml.in:77
+#: data/org.gnome.Boxes.metainfo.xml.in:82
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -741,10 +741,18 @@ msgstr "Virtualizatsiya imkoniyatlarini tekshirish"
 msgid "Open box with UUID"
 msgstr "Box`ni UUID bilan ochish"
 
+#: src/app.vala:180
+msgid "UUID"
+msgstr ""
+
 # sal neto :
 #: src/app.vala:181
 msgid "Search term"
 msgstr "Atamalarni qidirish"
+
+#: src/app.vala:181
+msgid "TEXT"
+msgstr ""
 
 #. A 'broker' is a virtual-machine manager (local or remote). Currently only
 #. libvirt is supported.

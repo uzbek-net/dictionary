@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2025-11-19 08:53+0000\n"
+"POT-Creation-Date: 2026-01-04 02:56+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -547,7 +547,7 @@ msgstr "Chop qilish doirasi tarkibida sahifalar mavjud emas"
 #. show close if the certificate is null, or if no cert is found
 #: libview/pps-print-operation.c:1336 previewer/pps-previewer-window.blp:81
 #: shell/resources/pps-document-view.blp:560
-#: shell/resources/pps-window.blp:138 shell/src/document_view/io.rs:602
+#: shell/resources/pps-window.blp:138 shell/src/document_view/io.rs:604
 msgid "_Close"
 msgstr "_Yopish"
 
@@ -742,8 +742,8 @@ msgstr "Qogʻozlar hujjat koʻruvchi"
 msgid "The selected printer “%s” could not be found"
 msgstr "Tanlangan printer \"%s\" topilmadi"
 
-#: previewer/pps-previewer-window.c:472 shell/src/document_view/io.rs:201
-#: shell/src/document_view/io.rs:202
+#: previewer/pps-previewer-window.c:472 shell/src/document_view/io.rs:205
+#: shell/src/document_view/io.rs:206
 msgid "Papers"
 msgstr "Qogʻozlar"
 
@@ -1048,9 +1048,9 @@ msgstr ""
 msgid "Abort _Print and Close"
 msgstr "Bekor _Print va yopish"
 
-#: shell/resources/pps-document-view.blp:551 shell/src/document_view.rs:726
-#: shell/src/document_view/io.rs:486 shell/src/document_view/io.rs:530
-#: shell/src/document_view/io.rs:714
+#: shell/resources/pps-document-view.blp:551 shell/src/document_view.rs:727
+#: shell/src/document_view/io.rs:488 shell/src/document_view/io.rs:532
+#: shell/src/document_view/io.rs:716
 msgid "_Cancel"
 msgstr "_Bekor qilish"
 
@@ -1260,7 +1260,7 @@ msgstr "C_ancel"
 
 #: shell/resources/pps-password-dialog.blp:5
 #: shell/resources/pps-password-view.blp:11
-#: shell/resources/pps-password-view.blp:17 shell/src/document_view/io.rs:707
+#: shell/resources/pps-password-view.blp:17 shell/src/document_view/io.rs:709
 msgid "Password Required"
 msgstr "Maxfiy soʻz talab qilinmaydi"
 
@@ -1806,11 +1806,11 @@ msgstr "Dastur versiyasini koʻrsatish."
 msgid "[FILE…]"
 msgstr "[FILE…]"
 
-#: shell/src/document_view.rs:300
+#: shell/src/document_view.rs:301
 msgid "View Details"
 msgstr "_Tafsilotlarni koʻrish"
 
-#: shell/src/document_view.rs:705
+#: shell/src/document_view.rs:706
 msgid ""
 "Document contains new or modified annotations and form fields that have been"
 " filled out."
@@ -1818,27 +1818,27 @@ msgstr ""
 "Hujjat yangi yoki oʻzgartirilgan annotatsiyalarni va toʻldirilgan shakl "
 "maydonlarini oʻz ichiga oladi."
 
-#: shell/src/document_view.rs:706
+#: shell/src/document_view.rs:707
 msgid "Document contains form fields that have been filled out."
 msgstr "Hujjatda toʻldirilgan shakllar qatori mavjud."
 
-#: shell/src/document_view.rs:707
+#: shell/src/document_view.rs:708
 msgid "Document contains new or modified annotations."
 msgstr "Hujjat yangi yoki oʻzgartirilgan annotatsiyalarni oʻz ichiga oladi."
 
-#: shell/src/document_view.rs:715
+#: shell/src/document_view.rs:716
 msgid "If you don’t save a copy, changes will be permanently lost."
 msgstr "Agar nusxasini saqlamasangiz, oʻzgarishlar butunlay yoʻqoladi."
 
-#: shell/src/document_view.rs:716
+#: shell/src/document_view.rs:717
 msgid "Save Changes to a Copy?"
 msgstr "Oʻzgarishlarni nusxasiga saqlashni istaysizmi?"
 
-#: shell/src/document_view.rs:725
+#: shell/src/document_view.rs:726
 msgid "Close _Without Saving"
 msgstr "Saqlangan _Without yopish"
 
-#: shell/src/document_view.rs:727
+#: shell/src/document_view.rs:728
 msgid "_Save a Copy"
 msgstr "_Save nusxasi"
 
@@ -1860,27 +1860,27 @@ msgstr ""
 msgid "Unable to Open Attachment"
 msgstr "Ilovani ochib boʻlmadi"
 
-#: shell/src/document_view/io.rs:280
+#: shell/src/document_view/io.rs:284
 #, fuzzy
 #| msgid "The document contains no pages"
 msgid "The Document Contains No Pages"
 msgstr "Hujjatda sahifalar mavjud emas"
 
-#: shell/src/document_view/io.rs:282
+#: shell/src/document_view/io.rs:286
 #, fuzzy
 #| msgid "The document contains only empty pages"
 msgid "The Document Contains Only Empty Pages"
 msgstr "Hujjatda faqat boʻsh sahifalar mavjud"
 
-#: shell/src/document_view/io.rs:409
+#: shell/src/document_view/io.rs:411
 msgid "Save As…"
 msgstr "Boshqacha saqlash…"
 
-#: shell/src/document_view/io.rs:485
+#: shell/src/document_view/io.rs:487
 msgid "Draw a rectangle to insert a signature field"
 msgstr "Imzo maydonini qoʻyish uchun toʻgʻri burchak chirsatish"
 
-#: shell/src/document_view/io.rs:507
+#: shell/src/document_view/io.rs:509
 #, fuzzy, rust-format
 #| msgid ""
 #| "Digitally signed by %s\n"
@@ -1892,33 +1892,33 @@ msgstr ""
 "Raqamli imzo %s\n"
 "Sana: %s"
 
-#: shell/src/document_view/io.rs:523
+#: shell/src/document_view/io.rs:525
 msgid "Certificate Required"
 msgstr "Sertifikat talab qilinadi"
 
-#: shell/src/document_view/io.rs:526
+#: shell/src/document_view/io.rs:528
 msgid "Select signing certificate"
 msgstr "Imzolash sertifikatini tanlang"
 
-#: shell/src/document_view/io.rs:527
+#: shell/src/document_view/io.rs:529
 msgid "Select"
 msgstr "Tanlash"
 
-#: shell/src/document_view/io.rs:600
+#: shell/src/document_view/io.rs:602
 msgid "A certificate is required to sign this document"
 msgstr ""
 
-#: shell/src/document_view/io.rs:669
+#: shell/src/document_view/io.rs:671
 msgid "Save Signed File"
 msgstr "Imzolangan faylni saqlash"
 
-#: shell/src/document_view/io.rs:699
+#: shell/src/document_view/io.rs:701
 #, fuzzy, rust-format
 #| msgid "Please enter password for %s"
 msgid "Please enter password for {}"
 msgstr "%s uchun parolni kiriting"
 
-#: shell/src/document_view/io.rs:715
+#: shell/src/document_view/io.rs:717
 msgid "_Login"
 msgstr "_Kirish"
 
@@ -1944,7 +1944,7 @@ msgid ""
 "Security alert: this document has been prevented from opening the file “{}”"
 msgstr "Ogohlantirish: ushbu hujjat \"%s\" faylini ochib boʻlmadi"
 
-#: shell/src/document_view/signals.rs:433 shell/src/page_selector.rs:77
+#: shell/src/document_view/signals.rs:433 shell/src/page_selector.rs:88
 #: shell/src/sidebar_annotations_row.rs:82
 #, rust-format
 msgid "Page {}"
@@ -1953,13 +1953,13 @@ msgstr "{}-sahifa"
 #. Translators: Do NOT translate the content between
 #. '{' and '}' they are variable names. Changing their
 #. order is possible
-#: shell/src/page_selector.rs:230 shell/src/page_selector.rs:258
+#: shell/src/page_selector.rs:241 shell/src/page_selector.rs:269
 #, rust-format
 msgid "({pagenum} of {totalpages})"
 msgstr ""
 
 #. Translators: the placeholder is the total amount of pages
-#: shell/src/page_selector.rs:238 shell/src/page_selector.rs:268
+#: shell/src/page_selector.rs:249 shell/src/page_selector.rs:279
 #, rust-format
 msgid "of {}"
 msgstr "{}"

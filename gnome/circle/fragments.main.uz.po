@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fragments main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Fragments/issues\n"
-"POT-Creation-Date: 2025-12-10 13:28+0000\n"
+"POT-Creation-Date: 2026-01-07 14:08+0000\n"
 "PO-Revision-Date: 2025-10-09 17:06+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -855,7 +855,7 @@ msgstr "Fayl ochilmadi"
 msgid "Downloading data…"
 msgstr "Ma’lumotlar yuklab olinmoqda…"
 
-#: src/app.rs:404
+#: src/app.rs:405
 msgid "Unsupported file format"
 msgstr "Fayl formati qabul qilinmaydi"
 
@@ -896,17 +896,18 @@ msgstr "Demon translatsiyasini toʻxtatib boʻlmadi"
 msgid "Unable to start transmission-daemon"
 msgstr "Demon translatsiyasini ishga tushirib boʻlmadi"
 
-#: src/ui/about_dialog.rs:41
+#: src/ui/about_dialog.rs:45
 msgid "translator-credits"
 msgstr ""
 "BeMeritus <bemerituss@gmail.com>\n"
 "Baxrom Raxmatov"
 
-#: src/ui/about_dialog.rs:42
+#: src/ui/about_dialog.rs:46
 msgid "Donate"
 msgstr "Xayriya qilmoq"
 
 #: src/ui/add_connection_dialog.rs:113
+#, rust-format
 msgid ""
 "Could not connect with “{}”:\n"
 "{}"
@@ -923,6 +924,7 @@ msgid "The configured incomplete directory cannot be accessed."
 msgstr "Sozlangan toʻliq boʻlmagan katalogga kirish imkonsiz."
 
 #: src/ui/connection_box.rs:172
+#, rust-format
 msgid "Connection with {} was lost."
 msgstr "{} bilan aloqa uzildi."
 
@@ -931,10 +933,12 @@ msgid "Credentials could not be saved"
 msgstr "Hisob ma’lumotlari saqlanmadi"
 
 #: src/ui/connection_box.rs:332
+#, rust-format
 msgid "No connection found with UUID \"{}\""
 msgstr "UUID \"{}\" bilan hech qanday aloqa topilmadi"
 
 #: src/ui/connection_box.rs:377
+#, rust-format
 msgid "Failed to establish a connection with the Transmission service (“{}”)."
 msgstr "Uzatish xizmati (\"{}\") bilan aloqa oʻrnatib boʻlmadi."
 
@@ -943,15 +947,18 @@ msgid "This computer"
 msgstr "Bu kompyuter"
 
 #: src/ui/file_row.rs:207
+#, rust-format
 msgid "{} / {}, {} item"
 msgid_plural "{} / {}, {} items"
 msgstr[0] "{} / {}, {} ta element"
 
 #: src/ui/file_row.rs:209
+#, rust-format
 msgid "{} / {}"
 msgstr "{} / {}"
 
 #: src/ui/file_row.rs:212
+#, rust-format
 msgid "{}, {} item"
 msgid_plural "{}, {} items"
 msgstr[0] "{}, {} ta element"
@@ -981,20 +988,26 @@ msgid "Test failed. Make sure you are connected to the internet."
 msgstr "Tekshirilmadi. Internetga ulanganingizga ishonch hosil qiling."
 
 #: src/ui/preferences_dialog.rs:408 src/ui/stats_dialog.rs:306
+#, rust-format
 msgid "You are connected with “{}”"
 msgstr "Siz \"{}\" bilan bogʻlangansiz"
 
 #: src/ui/stats_dialog.rs:290
+#, rust-format
 msgid "{} time"
 msgid_plural "{} times"
 msgstr[0] "{} marta"
 
 #: src/ui/torrent_dialog.rs:371
+#, fuzzy, rust-format
+#| msgid "Show All"
+#| msgid_plural "Show All {} Items"
 msgid "Show All"
 msgid_plural "Show All {} Items"
 msgstr[0] "Hammasini ko‘rsatish"
 
 #: src/ui/torrent_dialog.rs:425
+#, rust-format
 msgid "{} ({} active)"
 msgid_plural "{} ({} active)"
 msgstr[0] "{} ({} ta faol)"
@@ -1004,6 +1017,7 @@ msgstr[0] "{} ({} ta faol)"
 #. Displayed under the torrent name in the main window when torrent
 #. download is finished
 #: src/ui/torrent_row.rs:274
+#, rust-format
 msgid "{} uploaded · {}"
 msgstr "{} yuklandi · {}"
 
@@ -1012,6 +1026,7 @@ msgstr "{} yuklandi · {}"
 #. Displayed under the torrent name in the main window when torrent
 #. is stopped
 #: src/ui/torrent_row.rs:282
+#, rust-format
 msgid "{} of {}"
 msgstr "{} / {}"
 
@@ -1020,10 +1035,12 @@ msgstr "{} / {}"
 #. Displayed under the torrent name in the main window when torrent
 #. is downloading
 #: src/ui/torrent_row.rs:288
+#, rust-format
 msgid "{} of {} · {}"
 msgstr "{} / {} · {}"
 
 #: src/ui/window.rs:150
+#, rust-format
 msgid "Remote control \"{}\""
 msgstr "Masofaviy boshqaruv paneli \"{}\""
 
@@ -1036,6 +1053,7 @@ msgid "Torrent completely downloaded"
 msgstr "Torrent toʻliq yuklab olindi"
 
 #: src/ui/window.rs:359
+#, rust-format
 msgid "Add magnet link “{}” from clipboard?"
 msgstr "Vaqtincha xotiradan \"{}\" magnit havolasi kiritilsinmi?"
 
@@ -1048,14 +1066,17 @@ msgid "_Add"
 msgstr "Qoʻshish"
 
 #: src/ui/window.rs:374
+#, rust-format
 msgid "Add torrent from “{}”?"
 msgstr "\"{}\" tormenti qoʻshilsinmi?"
 
-#: src/ui/window.rs:381
+#: src/ui/window.rs:382
+#, rust-format
 msgid "Add “{}” from clipboard?"
 msgstr "Vaqtincha xotiradan \"{}\" qoʻshilsinmi?"
 
 #: src/utils.rs:85
+#, rust-format
 msgid "{}/s"
 msgid_plural "{}/s"
 msgstr[0] "{}/s"
@@ -1065,21 +1086,27 @@ msgid "more than a day"
 msgstr "bir kundan ortiq"
 
 #: src/utils.rs:109
+#, rust-format
 msgid "{} day"
 msgid_plural "{} days"
 msgstr[0] "{} kun"
 
 #: src/utils.rs:110
+#, fuzzy, rust-format
+#| msgid "{} hour"
+#| msgid_plural "{} hours"
 msgid "{} hour"
 msgid_plural "{} hours"
 msgstr[0] "Soat"
 
 #: src/utils.rs:111
+#, rust-format
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
 
 #: src/utils.rs:112
+#, rust-format
 msgid "{} second"
 msgid_plural "{} seconds"
 msgstr[0] "{} soniya"

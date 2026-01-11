@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-text-editor main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/chergert/gnome-text-editor/issues\n"
-"POT-Creation-Date: 2025-12-15 14:41+0000\n"
+"POT-Creation-Date: 2026-01-06 20:38+0000\n"
 "PO-Revision-Date: 2025-04-02 15:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -367,11 +367,11 @@ msgstr ""
 msgid "Print version information and exit"
 msgstr "Versiya ma’lumotlarini chop eting va chiqing"
 
-#: src/editor-document.c:2281
+#: src/editor-document.c:2285
 msgid "[Read-Only]"
 msgstr "[Read-Only]"
 
-#: src/editor-document.c:2506 src/editor-page.c:1125
+#: src/editor-document.c:2510 src/editor-page.c:1125
 #: src/editor-sidebar-item.c:500
 msgid "New Document"
 msgstr "Yangi hujjat"

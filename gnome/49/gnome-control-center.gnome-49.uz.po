@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2025-12-10 13:32+0000\n"
+"POT-Creation-Date: 2026-01-05 13:33+0000\n"
 "PO-Revision-Date: 2025-10-19 15:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -934,7 +934,7 @@ msgid "Background removed"
 msgstr "Fon olib tashlandi"
 
 #: panels/background/cc-background-chooser.c:170
-#: panels/network/net-device-wifi.c:883
+#: panels/network/net-device-wifi.c:890
 #: panels/printers/cc-printers-panel.c:673
 msgid "_Undo"
 msgstr "Oldingi buyruqni bekor qilish"
@@ -3350,7 +3350,7 @@ msgstr ""
 msgid "_Turn Off"
 msgstr "Oʻchirib qoʻyish"
 
-#: panels/network/cc-wifi-panel.c:420
+#: panels/network/cc-wifi-panel.c:421
 #: panels/network/gnome-wifi-panel.desktop.in:2
 #: panels/network/network-wifi.blp:53 panels/network/network-wifi.blp:58
 msgid "Wi-Fi"
@@ -4164,31 +4164,31 @@ msgstr "Simli"
 msgid "Add new connection"
 msgstr "Yangi ulanish qoʻshing"
 
-#: panels/network/net-device-wifi.c:881
+#: panels/network/net-device-wifi.c:888
 msgid "Network deleted"
 msgstr "Tarmoq oʻchirildi"
 
 #. Translators: %d is the number of network connections deleted.
-#: panels/network/net-device-wifi.c:896
+#: panels/network/net-device-wifi.c:903
 #, c-format
 msgid "%d network deleted"
 msgid_plural "%d networks deleted"
 msgstr[0] "%d tarmoq oʻchirildi"
 msgstr[1] "%d ta tarmoq oʻchirildi"
 
-#: panels/network/net-device-wifi.c:1130
+#: panels/network/net-device-wifi.c:1137
 msgid "System policy prohibits use as a Hotspot"
 msgstr "Tizim siyosati Hotspot sifatida foydalanishni taqiqlaydi"
 
-#: panels/network/net-device-wifi.c:1133
+#: panels/network/net-device-wifi.c:1140
 msgid "Wireless device does not support Hotspot mode"
 msgstr "Simsiz qurilma Hotspot rejimini qoʻllab-quvvatlamaydi"
 
-#: panels/network/net-device-wifi.c:1159
+#: panels/network/net-device-wifi.c:1166
 msgid "Searching for networks…"
 msgstr "Tarmoqlar qidirilmoqda…"
 
-#: panels/network/net-device-wifi.c:1176
+#: panels/network/net-device-wifi.c:1183
 msgid "No saved networks"
 msgstr "Saqlangan tarmoqlar yoʻq"
 

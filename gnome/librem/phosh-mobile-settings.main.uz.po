@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2025-12-31 13:23+0000\n"
+"POT-Creation-Date: 2026-01-09 15:10+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -381,6 +381,22 @@ msgstr "Fon rasmi tanlang"
 #: src/ms-window.c:146
 msgid "Device"
 msgstr "Qurilma"
+
+#: src/ui/ms-about-panel.ui:18
+msgid "Phosh logo"
+msgstr ""
+
+#: src/ui/ms-about-panel.ui:29
+msgid "Phosh Version"
+msgstr ""
+
+#: src/ui/ms-about-panel.ui:37
+msgid "Operating System"
+msgstr ""
+
+#: src/ui/ms-about-panel.ui:45
+msgid "Hardware Model"
+msgstr ""
 
 #: src/ui/ms-alerts-panel.ui:17
 msgid "Unable To Receive Alerts"
@@ -1245,15 +1261,19 @@ msgstr "Qurilmani toʻxtatib turish"
 msgid "Experimental"
 msgstr "Eksperimental xususiyatlar"
 
-#: src/ui/ms-window.ui:329
+#: src/ui/ms-window.ui:316 src/ui/ms-window.ui:324
+msgid "About"
+msgstr ""
+
+#: src/ui/ms-window.ui:349
 msgid "_Show Configurable Tweaks"
 msgstr ""
 
-#: src/ui/ms-window.ui:336
+#: src/ui/ms-window.ui:356
 msgid "_Keyboard Shortcuts"
 msgstr "_Klaviatura yorliqlari"
 
-#: src/ui/ms-window.ui:340
+#: src/ui/ms-window.ui:360
 msgid "_About Mobile Settings"
 msgstr "_Mobil sozlamalari haqida"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
-"POT-Creation-Date: 2025-12-29 18:07+0000\n"
+"POT-Creation-Date: 2026-01-07 02:43+0000\n"
 "PO-Revision-Date: 2025-05-14 21:12+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1041,7 +1041,7 @@ msgstr "Nautilus clipboardda boʻsh qatorlar boʻlmasligi kerak."
 msgid "View More"
 msgstr "Koʻproq"
 
-#: src/nautilus-column-utilities.c:69 src/nautilus-sidebar.c:2019
+#: src/nautilus-column-utilities.c:69 src/nautilus-sidebar.c:2018
 msgid "Name"
 msgstr "Ism"
 
@@ -1905,7 +1905,7 @@ msgstr "Fayllarni oʻchirish"
 
 #. Translators: %s is a file name formatted for display
 #: src/nautilus-file-operations.c:2334 src/nautilus-files-view.c:6531
-#: src/nautilus-sidebar.c:2363 src/nautilus-sidebar.c:2392
+#: src/nautilus-sidebar.c:2362 src/nautilus-sidebar.c:2391
 #, c-format
 msgid "Unable to eject “%s”"
 msgstr "“%s”ni chiqarib boʻlmadi"
@@ -2681,7 +2681,7 @@ msgstr "Haydovchini toʻxtatib boʻlmadi"
 
 #. Translators: %s is a file name formatted for display
 #: src/nautilus-files-view.c:6664 src/nautilus-sidebar.c:1736
-#: src/nautilus-sidebar.c:2607
+#: src/nautilus-sidebar.c:2606
 #, c-format
 msgid "Unable to start “%s”"
 msgstr "“%s”ni ishga tushirib boʻlmadi"
@@ -2716,7 +2716,7 @@ msgstr "Koʻchirma…"
 msgid "Open"
 msgstr "Oching"
 
-#: src/nautilus-files-view.c:7915 src/nautilus-sidebar.c:3045
+#: src/nautilus-files-view.c:7915 src/nautilus-sidebar.c:3044
 #: src/resources/ui/nautilus-files-view-context-menus.ui:159
 msgid "_Start"
 msgstr "Boshlash"
@@ -2737,7 +2737,7 @@ msgstr "Drive qulfini ochish"
 msgid "Stop Drive"
 msgstr "Drive toʻxtating"
 
-#: src/nautilus-files-view.c:7957 src/nautilus-sidebar.c:3076
+#: src/nautilus-files-view.c:7957 src/nautilus-sidebar.c:3075
 msgid "_Safely Remove Drive"
 msgstr "_Diskni xavfsiz olib tashlang"
 
@@ -3353,7 +3353,7 @@ msgstr ""
 msgid "_Learn More"
 msgstr "_Batafsil ma'lumot"
 
-#: src/nautilus-location-banner.c:240 src/nautilus-sidebar.c:2997
+#: src/nautilus-location-banner.c:240 src/nautilus-sidebar.c:2996
 msgid "_Empty Trash…"
 msgstr "_Chiqindini boʻshatish…"
 
@@ -3768,8 +3768,8 @@ msgstr "Operatsion tizim"
 msgid "Administrator Root"
 msgstr "Administrator ildizi"
 
-#: src/nautilus-portal.c:431 src/nautilus-sidebar.c:2834
-#: src/nautilus-sidebar.c:2952 src/resources/ui/nautilus-app-chooser.ui:24
+#: src/nautilus-portal.c:431 src/nautilus-sidebar.c:2833
+#: src/nautilus-sidebar.c:2951 src/resources/ui/nautilus-app-chooser.ui:24
 #: src/resources/ui/nautilus-files-view-context-menus.ui:87
 msgid "_Open"
 msgstr "Oching"
@@ -3860,11 +3860,11 @@ msgstr ""
 msgid "Details: "
 msgstr "Tafsilotlar: "
 
-#: src/nautilus-progress-info.c:375
+#: src/nautilus-progress-info.c:383
 msgid "Cancelled"
 msgstr "Bekor qilindi"
 
-#: src/nautilus-progress-info.c:422 src/nautilus-progress-info.c:443
+#: src/nautilus-progress-info.c:430 src/nautilus-progress-info.c:451
 msgid "Preparing"
 msgstr "Tayyorlanmoqda"
 
@@ -4198,111 +4198,111 @@ msgstr "“%s” qulfini ochishda xatolik yuz berdi"
 msgid "This name is already taken"
 msgstr "Bu nom allaqachon olingan"
 
-#: src/nautilus-sidebar.c:2025 src/nautilus-sidebar.c:2986
+#: src/nautilus-sidebar.c:2024 src/nautilus-sidebar.c:2985
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:126
 #: src/resources/ui/nautilus-file-conflict-dialog.ui:30
 #: src/resources/ui/nautilus-rename-file-popover.ui:47
 msgid "_Rename"
 msgstr "_Nomini oʻzgartirish"
 
-#: src/nautilus-sidebar.c:2334
+#: src/nautilus-sidebar.c:2333
 #, c-format
 msgid "Unable to stop “%s”"
 msgstr "“%s” toʻxtatib boʻlmadi"
 
-#: src/nautilus-sidebar.c:2559
+#: src/nautilus-sidebar.c:2558
 #, c-format
 msgid "Unable to poll “%s” for media changes"
 msgstr "Media oʻzgarishlari uchun “%s” soʻrovini oʻtkazib boʻlmadi"
 
-#: src/nautilus-sidebar.c:2842 src/nautilus-sidebar.c:2960
+#: src/nautilus-sidebar.c:2841 src/nautilus-sidebar.c:2959
 #: src/resources/ui/nautilus-files-view-context-menus.ui:98
 #: src/resources/ui/nautilus-pathbar-context-menu.ui:10
 msgid "Open in New _Tab"
 msgstr "Yangi _tabda oching"
 
-#: src/nautilus-sidebar.c:2849 src/nautilus-sidebar.c:2969
+#: src/nautilus-sidebar.c:2848 src/nautilus-sidebar.c:2968
 #: src/resources/ui/nautilus-files-view-context-menus.ui:103
 #: src/resources/ui/nautilus-pathbar-context-menu.ui:6
 msgid "Open in New _Window"
 msgstr "Yangi oyna oching"
 
-#: src/nautilus-sidebar.c:2981
+#: src/nautilus-sidebar.c:2980
 msgid "_Remove from Bookmarks"
 msgstr "_Xatchoʻplardan olib tashlash"
 
-#: src/nautilus-sidebar.c:3010
+#: src/nautilus-sidebar.c:3009
 #: src/resources/ui/nautilus-files-view-context-menus.ui:144
 msgid "_Mount"
 msgstr "_Mount"
 
-#: src/nautilus-sidebar.c:3019
+#: src/nautilus-sidebar.c:3018
 #: src/resources/ui/nautilus-files-view-context-menus.ui:149
 msgid "_Unmount"
 msgstr "_Oʻchirish"
 
-#: src/nautilus-sidebar.c:3026
+#: src/nautilus-sidebar.c:3025
 #: src/resources/ui/nautilus-files-view-context-menus.ui:154
 msgid "_Eject"
 msgstr "_Chiqartirish"
 
-#: src/nautilus-sidebar.c:3036
+#: src/nautilus-sidebar.c:3035
 #: src/resources/ui/nautilus-files-view-context-menus.ui:169
 msgid "_Detect Media"
 msgstr "_Mediani aniqlash"
 
-#: src/nautilus-sidebar.c:3049
+#: src/nautilus-sidebar.c:3048
 msgid "_Power On"
 msgstr "_Quvvatni yoqish"
 
-#: src/nautilus-sidebar.c:3053
+#: src/nautilus-sidebar.c:3052
 msgid "_Connect Drive"
 msgstr "_Driveni ulang"
 
-#: src/nautilus-sidebar.c:3057
+#: src/nautilus-sidebar.c:3056
 msgid "_Start Multi-disk Device"
 msgstr "_Koʻp diskli qurilmani ishga tushiring"
 
-#: src/nautilus-sidebar.c:3061
+#: src/nautilus-sidebar.c:3060
 msgid "_Unlock Device"
 msgstr "_Qurilmani qulfdan chiqarish"
 
-#: src/nautilus-sidebar.c:3072
+#: src/nautilus-sidebar.c:3071
 #: src/resources/ui/nautilus-files-view-context-menus.ui:164
 msgid "_Stop"
 msgstr "_Stop"
 
-#: src/nautilus-sidebar.c:3080
+#: src/nautilus-sidebar.c:3079
 msgid "_Disconnect Drive"
 msgstr "_Drayvni uzing"
 
-#: src/nautilus-sidebar.c:3084
+#: src/nautilus-sidebar.c:3083
 msgid "_Stop Multi-disk Device"
 msgstr "_Koʻp diskli qurilmani toʻxtatish"
 
-#: src/nautilus-sidebar.c:3088
+#: src/nautilus-sidebar.c:3087
 msgid "_Lock Device"
 msgstr "_Qurilmani qulflash"
 
-#: src/nautilus-sidebar.c:3098
+#: src/nautilus-sidebar.c:3097
 msgid "Format…"
 msgstr "Formatlash…"
 
-#: src/nautilus-sidebar.c:3109
+#: src/nautilus-sidebar.c:3108
 #: src/resources/ui/nautilus-properties-window.ui:5
 #: src/resources/ui/nautilus-properties-window.ui:16
 msgid "Properties"
 msgstr "Xususiyatlari"
 
-#: src/nautilus-sidebar.c:3636
+#: src/nautilus-sidebar.c:3635
 msgid "Device"
 msgstr "Qurilma"
 
-#: src/nautilus-sidebar.c:3678
+#: src/nautilus-sidebar.c:3677
 msgid "Sidebar"
 msgstr "Yon panel"
 
-#: src/nautilus-sidebar.c:3680
+#: src/nautilus-sidebar.c:3679
 msgid "List of common shortcuts, mountpoints, and bookmarks."
 msgstr "Umumiy yorliqlar, ulanish nuqtalari va xatchoʻplar roʻyxati."
 
