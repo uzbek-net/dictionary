@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: health master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Health/issues\n"
-"POT-Creation-Date: 2025-12-10 20:14+0000\n"
+"POT-Creation-Date: 2025-04-30 12:51+0000\n"
 "PO-Revision-Date: 2025-10-09 18:45+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -407,7 +407,7 @@ msgstr "JSST tana vazni indeksini 18,5-24,9 deb tavsiya qiladi."
 msgid "Current weight"
 msgstr "Joriy ogʻirlik"
 
-#: data/ui/setup_window.blp:342 src/widgets/bmi_level_bar.rs:249
+#: data/ui/setup_window.blp:342
 msgid "Current BMI"
 msgstr "Joriy TVI"
 
@@ -617,6 +617,7 @@ msgid "Health: walking reminder"
 msgstr "Salomatlik: piyoda yurish eslatmasi"
 
 #: src/model/model_notification.rs:233
+#, rust-format
 msgid "{} step remaining to complete your daily step goal."
 msgid_plural "{} steps remaining to complete your daily step goal."
 msgstr[0] "Kunlik qadamlar maqsadingizni bajarish uchun {} qadam qoldi."
@@ -627,10 +628,12 @@ msgstr "Faoliyatlar"
 
 #. Translators: min is short for Minutes active today. Example: "64 min"
 #: src/plugins/activities/summary.rs:106
+#, rust-format
 msgid "{} min"
 msgstr "{} daq"
 
 #: src/plugins/calories/details.rs:218
+#, rust-format
 msgid ""
 "{}:\n"
 "{} calorie\n"
@@ -646,10 +649,12 @@ msgstr[0] ""
 
 #. Translators: cal is short for calories burned today. Example: "2666 cal"
 #: src/plugins/calories/summary.rs:116 src/plugins/calories/summary.rs:119
+#, rust-format
 msgid "{} cal"
 msgstr "{} chaqiruv"
 
 #: src/plugins/steps/details.rs:185
+#, rust-format
 msgid "Today’s steps: {}"
 msgstr "Bugungi qadamlar: {}"
 
@@ -661,6 +666,7 @@ msgstr ""
 "qadamlar maqsadingizga erishing!"
 
 #: src/plugins/steps/details.rs:208
+#, rust-format
 msgid ""
 "You’re on a streak for {} day. Reach your step goal today to continue it!"
 msgid_plural ""
@@ -676,22 +682,26 @@ msgstr ""
 " davom eting!"
 
 #: src/plugins/steps/details.rs:219
+#, rust-format
 msgid "You’re on a streak for {} day. Good job!"
 msgid_plural "You’re on a streak for {} days. Good job!"
 msgstr[0] "Ketma-ket {} kun davom etmoqdasiz. Barakalla!"
 
 #. TRANSLATORS: X step(s) on DATE
 #: src/plugins/steps/details.rs:236
+#, rust-format
 msgid "{} step on {}"
 msgid_plural "{} steps on {}"
 msgstr[0] "{} qadam {}-sanada"
 
 #: src/plugins/steps/summary.rs:111
+#, rust-format
 msgid "{} step"
 msgid_plural "{} steps"
 msgstr[0] "{} qadam"
 
 #: src/plugins/steps/summary.rs:122
+#, rust-format
 msgid "Reached {} percent of daily step goal"
 msgid_plural "Reached {} percent of daily step goal"
 msgstr[0] "Kunlik qadam maqsadining {} foiziga erishildi"
@@ -701,17 +711,20 @@ msgid "Well done! You have reached your daily step goal!"
 msgstr "Barakalla! Kunlik qadam maqsadiga yetdingiz!"
 
 #: src/plugins/weight/details.rs:200
+#, rust-format
 msgid "Current BMI: {}"
 msgstr "Joriy TVI: {}"
 
 #. TRANSLATORS: Weight X on date Y
 #: src/plugins/weight/details.rs:215
+#, rust-format
 msgid "{} pound on {}"
 msgid_plural "{} pounds on {}"
 msgstr[0] "{} da {} funt"
 
 #. TRANSLATORS: Weight X on date Y
 #: src/plugins/weight/details.rs:218
+#, rust-format
 msgid "{} kilogram on {}"
 msgid_plural "{} kilograms on {}"
 msgstr[0] "{} da {} kilogramm"
@@ -721,6 +734,7 @@ msgid "Unknown BMI"
 msgstr "Noma’lum TVI"
 
 #: src/plugins/weight/details.rs:282
+#, rust-format
 msgid ""
 "Your weight goal is {} pound. Add a first weight measurement to see how "
 "close you are to reaching it."
@@ -732,6 +746,7 @@ msgstr[0] ""
 "erishishga qanchalik yaqin ekaningizni ko‘ring."
 
 #: src/plugins/weight/details.rs:289
+#, rust-format
 msgid ""
 "Your weight goal is {} kilogram. Add a first weight measurement to see how "
 "close you are to reaching it."
@@ -747,21 +762,25 @@ msgid "You’ve reached your weight goal. Great job!"
 msgstr "Vazn maqsadingizga erishdingiz. Barakalla!"
 
 #: src/plugins/weight/details.rs:314
+#, rust-format
 msgid "Your weight goal is {} pound."
 msgid_plural "Your weight goal is {} pounds."
 msgstr[0] "Vazningiz maqsadi {} funt."
 
 #: src/plugins/weight/details.rs:319
+#, rust-format
 msgid "You have {} pound left to reach it."
 msgid_plural "You have {} pounds left to reach it."
 msgstr[0] "Unga yetish uchun {} funt qoldi."
 
 #: src/plugins/weight/details.rs:326
+#, rust-format
 msgid "Your weight goal is {} kilogram."
 msgid_plural "Your weight goal is {} kilograms."
 msgstr[0] "Vazningiz maqsadi {} kilogramm."
 
 #: src/plugins/weight/details.rs:332
+#, rust-format
 msgid "You have {} kilogram left to reach it"
 msgid_plural "You have {} kilograms left to reach it"
 msgstr[0] "Unga yetish uchun {} kilogramm qoldi"
@@ -773,26 +792,31 @@ msgstr ""
 "sozlashingiz mumkin."
 
 #: src/plugins/weight/summary.rs:135 src/plugins/weight/summary.rs:169
+#, rust-format
 msgid "{} pound"
 msgid_plural "{} pounds"
 msgstr[0] "{} funt"
 
 #. TRANSLATORS: Current user weight. kg is short for kilograms
 #: src/plugins/weight/summary.rs:142
+#, rust-format
 msgid "{} kg"
 msgstr "{} kg"
 
 #: src/plugins/weight/summary.rs:149
+#, rust-format
 msgid "+ {} pound"
 msgid_plural "+ {} pounds"
 msgstr[0] "+ {} funt"
 
 #: src/plugins/weight/summary.rs:157
+#, rust-format
 msgid "+ {} kilogram"
 msgid_plural "+ {} kilograms"
 msgstr[0] "+ {} kilogramm"
 
 #: src/plugins/weight/summary.rs:178
+#, rust-format
 msgid "{} kilogram"
 msgid_plural "{} kilograms"
 msgstr[0] "{} kilogramm"
@@ -804,16 +828,6 @@ msgstr "Vazn oʻzgarmaydi"
 #: src/plugins/weight/summary.rs:191
 msgid "No weight data available"
 msgstr "Hech qanday vazn axboroti topilmadi"
-
-#: src/sync/csv.rs:81 src/sync/csv.rs:369
-msgid "No activities added yet; can’t create empty export!"
-msgstr ""
-"Hali hech qanday tadbir qoʻshilmagan; boʻsh eksport yaratish imkonsiz!"
-
-#: src/sync/csv.rs:111 src/sync/csv.rs:387
-msgid "No weight measurements added yet; can’t create empty export!"
-msgstr ""
-"Hozircha vazn oʻlchovlari kiritilmagan; boʻsh eksport yaratish imkonsiz!"
 
 #: src/sync/csv.rs:184 src/sync/csv.rs:331
 msgid "Can’t parse encrypted backup without encryption key!"
@@ -833,31 +847,28 @@ msgstr ""
 "Ma’lumotlar shifrdan chiqarilmadi. Toʻgʻri kalitdan foydalanayotganingizga "
 "ishonchingiz komilmi?"
 
+#: src/sync/csv.rs:369
+msgid "No activities added yet; can’t create empty export!"
+msgstr ""
+"Hali hech qanday tadbir qoʻshilmagan; boʻsh eksport yaratish imkonsiz!"
+
+#: src/sync/csv.rs:387
+msgid "No weight measurements added yet; can’t create empty export!"
+msgstr ""
+"Hozircha vazn oʻlchovlari kiritilmagan; boʻsh eksport yaratish imkonsiz!"
+
 #: src/sync/database_receiver.rs:47
+#, rust-format
 msgid "Couldn’t synchronize steps due to error {}"
 msgstr "{} xatosi tufayli qadamlar sinxronlanmadi"
 
 #: src/sync/database_receiver.rs:61
+#, rust-format
 msgid "Couldn’t synchronize weight measurements due to error {}"
 msgstr "{} xatosi tufayli vazn oʻlchovlari sinxronlanmadi"
 
-#: src/sync/google_fit.rs:211
-msgid "CRSF Verification failed, got {}, expected {}"
-msgstr "CRSF tasdiqlanmadi, {} olindi, {} kutilgan edi"
-
-#: src/sync/google_fit.rs:227
-msgid "Requesting OAuth2 token failed due to error {}"
-msgstr "{} xatosi tufayli OAuth2 tokenini soʻrash amalga oshmadi"
-
-#: src/sync/sync_provider.rs:110
-msgid ""
-"Can’t retrieve OAuth2 token when no refresh token is set! Please re-"
-"authenticate with your sync provider."
-msgstr ""
-"Yangilash tokeni oʻrnatilmagan holatda OAuth2 tokenini olish mumkin emas! "
-"Iltimos, sinxronlash provayderi bilan qaytadan autentifikatsiyadan oʻting."
-
 #: src/sync/sync_provider.rs:166
+#, rust-format
 msgid "Token for Health sync provider {}"
 msgstr "Salomatlik sinxronizatsiyasi provayderi uchun token {}"
 
@@ -866,10 +877,6 @@ msgid "Successfully authenticated, please return to Health."
 msgstr ""
 "Autentifikatsiya muvaffaqiyatli tasdiqlandi, iltimos, Salomatlik ilovasiga "
 "qayting."
-
-#: src/sync/sync_provider.rs:236
-msgid "Couldn’t parse OAuth2 response"
-msgstr "OAuth2 javobi tahlil qilinmadi"
 
 #: src/views/bar_graph_view.rs:569
 msgid "Enter weight record to calculate idle calories"
@@ -884,6 +891,7 @@ msgid "Activity"
 msgstr "Faoliyat"
 
 #: src/widgets/activity_row.rs:68
+#, rust-format
 msgid "{} for {} Minute"
 msgid_plural "{} for {} Minutes"
 msgstr[0] "{} daqiqa uchun {}"
@@ -905,16 +913,19 @@ msgid "Minimum heart rate"
 msgstr "Minimal yurak urishi tezligi"
 
 #: src/widgets/activity_row.rs:115
+#, rust-format
 msgid "{} meter"
 msgid_plural "{} meters"
 msgstr[0] "{} metr"
 
 #: src/widgets/activity_row.rs:118
+#, rust-format
 msgid "{} yard"
 msgid_plural "{} yards"
 msgstr[0] "{} yard"
 
 #: src/widgets/bmi_level_bar.rs:256
+#, rust-format
 msgid "<small>Current BMI: {}</small>"
 msgstr "<small>Joriy TVI: {}</small>"
 
@@ -1000,11 +1011,6 @@ msgstr "Activities.csv.encrypted"
 msgid "Activities.csv"
 msgstr "Faoliyat.csv"
 
-#: src/windows/export_dialog.rs:79 src/windows/export_dialog.rs:121
-#: src/windows/import_dialog.rs:72 src/windows/import_dialog.rs:107
-msgid "No file selected."
-msgstr "Fayl tanlanmagan."
-
 #: src/windows/export_dialog.rs:93
 msgid "Save Weight Measurement"
 msgstr "Vaznni oʻlchashni saqlash"
@@ -1064,5 +1070,25 @@ msgid "An error occurred!"
 msgstr "Xatolik yuz berdi!"
 
 #: src/windows/window.rs:257
+#, rust-format
 msgid "Couldn’t sync Google Fit data due to error: {}"
 msgstr "Xatolik tufayli Google Fit ma’lumotlari sinxronlanmadi: {}"
+
+#~ msgid "CRSF Verification failed, got {}, expected {}"
+#~ msgstr "CRSF tasdiqlanmadi, {} olindi, {} kutilgan edi"
+
+#~ msgid "Requesting OAuth2 token failed due to error {}"
+#~ msgstr "{} xatosi tufayli OAuth2 tokenini soʻrash amalga oshmadi"
+
+#~ msgid ""
+#~ "Can’t retrieve OAuth2 token when no refresh token is set! Please re-"
+#~ "authenticate with your sync provider."
+#~ msgstr ""
+#~ "Yangilash tokeni oʻrnatilmagan holatda OAuth2 tokenini olish mumkin emas! "
+#~ "Iltimos, sinxronlash provayderi bilan qaytadan autentifikatsiyadan oʻting."
+
+#~ msgid "Couldn’t parse OAuth2 response"
+#~ msgstr "OAuth2 javobi tahlil qilinmadi"
+
+#~ msgid "No file selected."
+#~ msgstr "Fayl tanlanmagan."

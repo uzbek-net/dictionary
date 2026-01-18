@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: warp main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/warp/issues\n"
-"POT-Creation-Date: 2025-12-10 23:22+0000\n"
+"POT-Creation-Date: 2025-08-10 14:14+0000\n"
 "PO-Revision-Date: 2025-10-24 17:02+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -151,36 +151,42 @@ msgstr "Faylni qabul qilish"
 #. Translators: {0} = file size transferred, {1} = total file size, Example:
 #. 17.3MB / 20.5MB
 #: src/gettext/duration.rs:11
+#, rust-format
 msgctxt "File size transferred"
 msgid "{0} / {1}"
 msgstr "{0} / {1}"
 
 #. Translators: File transfer time left
 #: src/gettext/duration.rs:18
+#, rust-format
 msgid "One second left"
 msgid_plural "{} seconds left"
 msgstr[0] "{} soniya qoldi"
 
 #. Translators: File transfer time left
 #: src/gettext/duration.rs:26
+#, rust-format
 msgid "One minute left"
 msgid_plural "{} minutes left"
 msgstr[0] "{} daqiqa qoldi"
 
 #. Translators: File transfer time left
 #: src/gettext/duration.rs:34
+#, rust-format
 msgid "One hour left"
 msgid_plural "{} hours left"
 msgstr[0] "{} soat qoldi"
 
 #. Translators: File transfer time left
 #: src/gettext/duration.rs:42
+#, rust-format
 msgid "One day left"
 msgid_plural "{} days left"
 msgstr[0] "{} kun qoldi"
 
 #. Translators: {0} = 11.3MB / 20.7MB, {1} = 3 seconds left
 #: src/gettext/duration.rs:52
+#, rust-format
 msgctxt "Combine bytes progress {0} and time remaining {1}"
 msgid "{0} — {1}"
 msgstr "{0} — {1}"
@@ -208,6 +214,7 @@ msgid "Creating Archive"
 msgstr "Arxiv yaratish"
 
 #: src/ui/action_view.rs:459
+#, rust-format
 msgid "Compressing folder “{}”"
 msgstr "\"{}\" jildi zichlanmoqda"
 
@@ -223,6 +230,7 @@ msgstr "Fayl uzatish soʻralmoqda"
 
 #. Translators: Description, argument is filename
 #: src/ui/action_view.rs:499
+#, rust-format
 msgid "Ready to send “{}”."
 msgstr "“{}” yuborishga tayyor."
 
@@ -234,6 +242,7 @@ msgstr ""
 "skanerdan oʻtkazishi kerak."
 
 #: src/ui/action_view.rs:510
+#, rust-format
 msgid "The QR code is compatible with the following apps: {}."
 msgstr "QR kod quyidagi ilovalar bilan mos keladi: {}."
 
@@ -252,6 +261,7 @@ msgstr "Havolani bufer nusxalash uchun QR kodni bosing."
 
 #. Translators: Description, Transfer Code
 #: src/ui/action_view.rs:545
+#, rust-format
 msgid "Connecting to peer with code “{}”"
 msgstr "“{}” kodi bilan sherigingizga ulanilmoqda"
 
@@ -271,6 +281,7 @@ msgstr "Faylni qabul qilishga tayyorlanmoqda"
 
 #. Translators: File receive confirmation message dialog; Filename, File size
 #: src/ui/action_view.rs:585
+#, rust-format
 msgid ""
 "Your peer wants to send you “{0}” (Size: {1}).\n"
 "Do you want to download this file? The default action will save the file to your Downloads folder."
@@ -289,26 +300,31 @@ msgstr "Fayl uzatishga tayyor. Uzatish tasdiqlashi kerak."
 
 #. Translators: Description, During transfer
 #: src/ui/action_view.rs:622
+#, rust-format
 msgid "File “{}” via local network direct transfer"
 msgstr "“{}” faylini mahalliy tarmoq orqali toʻgʻridan-toʻgʻri uzatish"
 
 #. Translators: Description, During transfer
 #: src/ui/action_view.rs:625
+#, rust-format
 msgid "File “{}” via direct transfer"
 msgstr "\"{}\" faylini toʻgʻridan-toʻgʻri uzatish usuli bilan"
 
 #. Translators: Description, During transfer
 #: src/ui/action_view.rs:631
+#, rust-format
 msgid "File “{0}” via relay {1}"
 msgstr "\"{0}\" faylini {1} orqali uzatish"
 
 #. Translators: Description, During transfer
 #: src/ui/action_view.rs:634
+#, rust-format
 msgid "File “{}” via relay"
 msgstr "“{}” faylini uzatish"
 
 #. Translators: Description, During transfer
 #: src/ui/action_view.rs:638
+#, rust-format
 msgid "File “{}” via Unknown connection method"
 msgstr "“{}” fayli orqali noma’lum ulanish usuli"
 
@@ -319,16 +335,19 @@ msgstr "Fayl yuborilmoqda"
 
 #. Translators: Description, Filename
 #: src/ui/action_view.rs:668
+#, rust-format
 msgid "Successfully sent file “{}”"
 msgstr "“{}” fayli muvaffaqiyatli yuborildi"
 
 #. Translators: Filename
 #: src/ui/action_view.rs:686
+#, rust-format
 msgid "File has been saved to the selected folder as “{}”"
 msgstr "Fayl tanlangan jildga “{}” sifatida saqlandi"
 
 #. Translators: Filename
 #: src/ui/action_view.rs:693
+#, rust-format
 msgid "File has been saved to the Downloads folder as “{}”"
 msgstr "Fayl Yuklanmalar jildiga “{}” sifatida saqlandi"
 
@@ -338,6 +357,7 @@ msgid "File Transfer Failed"
 msgstr "Fayl uzatish amalga oshmadi"
 
 #: src/ui/action_view.rs:724
+#, rust-format
 msgid "The file transfer failed: {}"
 msgstr "Fayl uzatish amalga oshmadi: {}"
 
@@ -361,11 +381,13 @@ msgstr ""
 "notoʻgʻri URL kiritilgan."
 
 #: src/ui/action_view.rs:967
+#, rust-format
 msgid "Invalid path selected: {}"
 msgstr "Yaroqsiz yoʻnalish tanlandi: {}"
 
 #. Translators: Above progress bar for creating an archive to send as a folder
 #: src/ui/action_view.rs:1212
+#, rust-format
 msgid "{} File - Size: {}"
 msgid_plural "{} Files - Size: {}"
 msgstr[0] "{} ta fayl - Hajmi: {}"
@@ -454,6 +476,7 @@ msgstr ""
 "foydalanishga ruxsat bering."
 
 #: src/ui/camera.rs:252
+#, rust-format
 msgid "Failed to start the camera: {}"
 msgstr "Kamerani ishga tushirib boʻlmadi: {}"
 
@@ -462,10 +485,12 @@ msgid "Error"
 msgstr "Xatolik"
 
 #: src/ui/camera.rs:345
+#, rust-format
 msgid "Could not use the camera portal: {}"
 msgstr "Kamera portalidan foydalanilmadi: {}"
 
 #: src/ui/camera.rs:352
+#, rust-format
 msgid "Could not start the device provider: {}"
 msgstr "Qurilma ta’minotchisi ishga tushirilmadi: {}"
 
@@ -494,15 +519,18 @@ msgid "Downloads dir missing. Please set XDG_DOWNLOAD_DIR"
 msgstr "Yuklab olish jildi topilmadi. Iltimos, XDG_DOWNLOAD_DIRʼni sozlang"
 
 #: src/ui/licenses.rs:150
+#, rust-format
 msgid "Licensed under the <a href=\"{}\">{}</a>."
 msgstr "<a href=\"{}\">{}</a> bilan litsenziyalangan."
 
 #. Translators: License information without a link to the software license
 #: src/ui/licenses.rs:155
+#, rust-format
 msgid "Licensed under the {}."
 msgstr "{} bilan litsenziyalangan."
 
 #: src/ui/preferences.rs:97
+#, rust-format
 msgid ""
 "Changing the rendezvous server URL needs to be done on both sides of the transfer. Only enter a server URL you can trust.\n"
 "\n"
@@ -595,6 +623,7 @@ msgid "Get Started Using Warp"
 msgstr "Warp ishlatishni boshlang"
 
 #: src/ui/window.rs:139
+#, rust-format
 msgid ""
 "Error loading config file “{0}”, using default config.\n"
 "Error: {1}"
@@ -603,6 +632,7 @@ msgstr ""
 "Xato: {1}"
 
 #: src/ui/window.rs:287
+#, rust-format
 msgid "Error saving configuration file: {}"
 msgstr "Konfiguratsiya faylini saqlashda xatolik yuz berdi: {}"
 
@@ -639,6 +669,7 @@ msgid "Select Folder to Send"
 msgstr "Yuborish uchun jildni tanlang"
 
 #: src/ui/window.rs:449
+#, rust-format
 msgid "“{}” appears to be an invalid Transmit Code. Please try again."
 msgstr ""
 "“{}” notoʻgʻri uzatish kodi boʻlishi mumkin. Iltimos, qaytadan urinib "
@@ -750,18 +781,22 @@ msgid "The code does not match the required format"
 msgstr "Kod talab qilingan formatga mos kelmaydi"
 
 #: src/util.rs:241 src/util.rs:247
+#, rust-format
 msgid "Unknown URI version: {}"
 msgstr "Notanish URI versiyasi: {}"
 
 #: src/util.rs:256
+#, rust-format
 msgid "The URI parameter “rendezvous” contains an invalid URL: “{}”"
 msgstr "\"Uchrashuv\" URI parametri yaroqsiz URL manzilini oʻz ichiga oladi: \"{}\""
 
 #: src/util.rs:268
+#, rust-format
 msgid "The URI parameter “role” must be “follower” or “leader” (was: “{}”)"
 msgstr "URI \"rol\" parametri \"kuzatuvchi\" yoki \"yetakchi\" boʻlishi kerak (edi: \"{}\")"
 
 #: src/util.rs:275
+#, rust-format
 msgid "Unknown URI parameter “{}”"
 msgstr "Noma’lum URI parametri \"{}\""
 
@@ -790,6 +825,7 @@ msgstr ""
 "yaratish zarur."
 
 #: src/util/error.rs:232
+#, rust-format
 msgid "The rendezvous server responded with an unknown message: {}"
 msgstr "Uchrashuv serveri noma’lum xabar bilan javob berdi: {}"
 
@@ -849,12 +885,14 @@ msgid "The first segment of a code must be a number"
 msgstr "Kodning birinchi boʻlagi albatta raqam boʻlishi shart"
 
 #: src/util/error.rs:270
+#, rust-format
 msgid "Code too weak. It can be guessed with an average of {} try."
 msgid_plural "Code too weak. It can be guessed with an average of {} tries."
 msgstr[0] ""
 "Kod juda zaif. Buni o‘rtacha {} ta urinish bilan taxmin qilish mumkin."
 
 #: src/util/error.rs:278
+#, rust-format
 msgid ""
 "Code too short. The text after the “-” must be at least {} character long."
 msgid_plural ""
@@ -884,15 +922,18 @@ msgid "Portal service response: Permission denied"
 msgstr "Portal xizmati javobi: Ruxsat berilmadi"
 
 #: src/util/error.rs:306
+#, rust-format
 msgid "The portal service has failed: {}"
 msgstr "Portal xizmati ishlamay qoldi: {}"
 
 #: src/util/error.rs:309
+#, rust-format
 msgid "Error communicating with the portal service via zbus: {}"
 msgstr ""
 "Zbus orqali portal xizmati bilan aloqa oʻrnatishda xatolik yuz berdi: {}"
 
 #: src/util/error.rs:312 src/util/error.rs:313
+#, rust-format
 msgid "Portal error: {}"
 msgstr "Portalda xatolik: {}"
 
@@ -905,6 +946,7 @@ msgid "The received file is corrupted"
 msgstr "Qabul qilingan fayl buzilgan"
 
 #: src/util/error.rs:332
+#, rust-format
 msgid ""
 "The file contained a different amount of bytes than advertised! Sent {} "
 "bytes, but should have been {}"
@@ -921,6 +963,7 @@ msgid "The other side has rejected the transfer"
 msgstr "Narigi tomon uzatishni rad etdi"
 
 #: src/util/error.rs:341
+#, rust-format
 msgid "Something went wrong on the other side: {}"
 msgstr "Boshqa tomonda xatolik yuz berdi: {}"
 
@@ -933,6 +976,7 @@ msgid "Unknown file transfer error"
 msgstr "Noma’lum fayl uzatish xatosi"
 
 #: src/util/error.rs:373
+#, rust-format
 msgid "An unknown error occurred while creating a zip file: {}"
 msgstr "Zip faylini yaratishda noma’lum xatolik yuz berdi: {}"
 

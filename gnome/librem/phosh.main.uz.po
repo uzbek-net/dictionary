@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2025-12-31 16:32+0000\n"
+"POT-Creation-Date: 2026-01-15 13:17+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -342,11 +342,11 @@ msgstr "Noma'lum sarlavha"
 msgid "Unknown Artist"
 msgstr "Noma'lum rassom"
 
-#: src/monitor-manager.c:128
+#: src/monitor-manager.c:129
 msgid "Built-in display"
 msgstr "Oʻrnatilgan displey"
 
-#: src/monitor-manager.c:146
+#: src/monitor-manager.c:147
 #, c-format
 msgctxt ""
 "This is a monitor vendor name, followed by a size in inches, like 'Dell "
@@ -354,7 +354,7 @@ msgctxt ""
 msgid "%s %s"
 msgstr "%s %s"
 
-#: src/monitor-manager.c:153
+#: src/monitor-manager.c:154
 #, c-format
 msgctxt ""
 "This is a monitor vendor name followed by product/model name where size in "
@@ -363,7 +363,7 @@ msgid "%s %s"
 msgstr "%s %s"
 
 #. Translators: An unknown monitor type
-#: src/monitor-manager.c:162
+#: src/monitor-manager.c:163
 msgid "Unknown"
 msgstr "Nomaʼlum"
 

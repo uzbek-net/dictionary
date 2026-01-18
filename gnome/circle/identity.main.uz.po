@@ -1,0 +1,435 @@
+# Uzbek (Latin) translation for identity.
+# Copyright (C) 2025 identity's COPYRIGHT HOLDER
+# This file is distributed under the same license as the identity package.
+# let rec <toxtayevhamidulloh6997@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: identity master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/YaLTeR/identity/issues\n"
+"POT-Creation-Date: 2025-10-28 17:19+0000\n"
+"PO-Revision-Date: 2025-10-10 16:26+0500\n"
+"Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
+"Language-Team: Uzbek (Latin) <Uzbek>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.desktop.in.in:2
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:7
+#: data/resources/ui/window.blp:128 src/main.rs:104
+msgid "Identity"
+msgstr "Identifikatsiya"
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.desktop.in.in:3
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:8
+msgid "Compare images and videos"
+msgstr "Rasm va videolarni solishtirish"
+
+#. Translators: search terms to find this application. Do NOT translate or
+#. localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.gitlab.YaLTeR.Identity.desktop.in.in:9
+msgid "Movie;Film;Clip;Video;Image;Difference;Frame;Quality;Compare;Check;"
+msgstr "Kino;Film;Klip;Video;Rasm;Farq;Kadr;Sifat;Taqqoslash;Tekshirish;"
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:10
+msgid "A program for comparing multiple versions of an image or video."
+msgstr "Rasm yoki videoning bir nechta versiyalarini taqqoslash dasturi."
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:15
+msgid "You can arrange videos in a row"
+msgstr "Videolarni ketma-ket joylashingiz mumkin"
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:19
+msgid "You can arrange images in a column"
+msgstr "Rasmlarni ustunga joylashtirishingiz mumkin"
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:23
+msgid "You can open files as tabs"
+msgstr "Fayllarni tab sifatida ochish mumkin"
+
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:27
+msgid "Inspect a few properties of a video in a dialog"
+msgstr "Dialogda videoning bir nechta xususiyatlarini tekshiring"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:205
+msgid "Ivan Molodetskikh"
+msgstr "Ivan Molodetskikh"
+
+#. Translators: Title of the media properties window.
+#: data/resources/ui/media_properties.blp:6
+msgid "Properties"
+msgstr "Xususiyatlar"
+
+#. Translators: Title text in the media properties window when no files are
+#. open.
+#: data/resources/ui/media_properties.blp:21
+msgid "No Media Open"
+msgstr "Media ochiq emas"
+
+#. Translators: Description on the media properties window when no files are
+#. open.
+#: data/resources/ui/media_properties.blp:23
+msgid "Open a video or image to view its properties."
+msgstr "Xususiyatlarini koʻrish uchun video yoki rasmni oching."
+
+#. Translators: Section in the media properties window.
+#: data/resources/ui/media_properties.blp:43
+msgid "File"
+msgstr "Fayl"
+
+#. Translators: File-name row in the media properties window.
+#: data/resources/ui/media_properties.blp:49
+msgid "Name"
+msgstr "Ism"
+
+#. Translators: File location row in the media properties window.
+#: data/resources/ui/media_properties.blp:57
+msgid "Location"
+msgstr "Joylashuv"
+
+#. Translators: Section in the media properties window.
+#: data/resources/ui/media_properties.blp:64
+msgid "Media"
+msgstr "Media"
+
+#. Translators: Pixel-resolution row in the media properties window.
+#: data/resources/ui/media_properties.blp:70
+msgid "Resolution"
+msgstr "Piksel aniqligi"
+
+#. Translators: Frame-rate row in the media properties window.
+#: data/resources/ui/media_properties.blp:78
+msgid "Frame Rate"
+msgstr "Kadr tezligi"
+
+#. Translators: Codec row in the media properties window.
+#: data/resources/ui/media_properties.blp:86
+msgid "Codec"
+msgstr "Kodek"
+
+#. Translators: Container-format row in the media properties window.
+#: data/resources/ui/media_properties.blp:94
+msgid "Container"
+msgstr "Konteyner"
+
+#. Translators: Title that is shown upon video or image loading error.
+#: data/resources/ui/page.blp:63
+msgid "File Failed to Load"
+msgstr "Fayl yuklanishda xatolik yuz berdi"
+
+#. Translators: Label shown when a video or image has failed to load.
+#: data/resources/ui/page.blp:66
+msgid ""
+"Could not display the file.\n"
+"\n"
+"If you're running Identity under Flatpak, note that opening files by drag-and-drop and by pasting may not work."
+msgstr ""
+"Fayl koʻrsatilmadi.\n"
+"\n"
+"Agar Flatpak orqali Identity dasturini ishga tushirayotgan boʻlsangiz, fayllarni sichqoncha yordamida sudrab tashlash va joylash orqali ochish ishlamasligi mumkin."
+
+# asosiymi yoki umumiymi?
+#: data/resources/ui/shortcuts.blp:6
+#, fuzzy
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Umumiy"
+
+#: data/resources/ui/shortcuts.blp:9
+msgctxt "shortcut window"
+msgid "Switch between files"
+msgstr "Fayllar orasida almashish"
+
+#: data/resources/ui/shortcuts.blp:14
+msgctxt "shortcut window"
+msgid "Open videos or images"
+msgstr "Video yoki rasmlarni ochish"
+
+#: data/resources/ui/shortcuts.blp:19
+msgctxt "shortcut window"
+msgid "Open file from clipboard"
+msgstr "Buferdan faylni ochish"
+
+#: data/resources/ui/shortcuts.blp:24
+msgctxt "shortcut window"
+msgid "New window"
+msgstr "Yangi oyna"
+
+#: data/resources/ui/shortcuts.blp:31
+msgctxt "shortcut window"
+msgid "Copy selected file to clipboard"
+msgstr "Tanlangan faylni buferga nusxalash"
+
+#: data/resources/ui/shortcuts.blp:36
+msgctxt "shortcut window"
+msgid "Close selected file"
+msgstr "Tanlangan faylni yopish"
+
+#: data/resources/ui/shortcuts.blp:41
+msgctxt "shortcut window"
+msgid "Show media properties"
+msgstr "Media xususiyatlarini koʻrsatish"
+
+#: data/resources/ui/shortcuts.blp:46
+msgctxt "shortcut window"
+msgid "Show shortcuts"
+msgstr "Yorliqlarni koʻrsatish"
+
+#: data/resources/ui/shortcuts.blp:51
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Chiqish"
+
+#: data/resources/ui/shortcuts.blp:57
+msgctxt "shortcut window"
+msgid "Playback"
+msgstr "Qayta ijro"
+
+#: data/resources/ui/shortcuts.blp:60
+msgctxt "shortcut window"
+msgid "Play / Pause"
+msgstr "Ijro / Pauza"
+
+#: data/resources/ui/shortcuts.blp:65
+msgctxt "shortcut window"
+msgid "Step forward one frame"
+msgstr "Bitta kadrni oldinga surish"
+
+#: data/resources/ui/shortcuts.blp:70
+msgctxt "shortcut window"
+msgid "Step back one frame"
+msgstr "Bitta kadr orqaga surish"
+
+#: data/resources/ui/shortcuts.blp:76
+msgctxt "shortcut window"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: data/resources/ui/shortcuts.blp:79
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr "Kattalashtirish"
+
+#: data/resources/ui/shortcuts.blp:84
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr "Kichiklashtirish"
+
+#: data/resources/ui/shortcuts.blp:89
+msgctxt "shortcut window"
+msgid "Zoom 1:1"
+msgstr "1:1 masshtab"
+
+#: data/resources/ui/shortcuts.blp:94
+msgctxt "shortcut window"
+msgid "Best fit"
+msgstr "Eng yaxshi moslik"
+
+#. Translators: Shortcuts window section title for the display mode (arrange
+#. as tabs, in a row, in a column).
+#: data/resources/ui/shortcuts.blp:101
+msgctxt "shortcut window"
+msgid "Display"
+msgstr "Koʻrsatish"
+
+#: data/resources/ui/shortcuts.blp:104
+msgctxt "shortcut window"
+msgid "Arrange as tabs"
+msgstr "Tab sifatida tartiblash"
+
+#: data/resources/ui/shortcuts.blp:109
+msgctxt "shortcut window"
+msgid "Arrange in a row"
+msgstr "Qatorga sifatida tartiblash"
+
+#: data/resources/ui/shortcuts.blp:114
+msgctxt "shortcut window"
+msgid "Arrange in a column"
+msgstr "Ustun sifatida tartiblash"
+
+#. Translators: Primary menu entry that opens a new window.
+#: data/resources/ui/window.blp:8 data/resources/ui/window.blp:42
+msgid "_New Window"
+msgstr "Yangi oyna"
+
+#. Translators: Primary menu entry that opens the media properties window.
+#: data/resources/ui/window.blp:14 data/resources/ui/window.blp:48
+msgid "_Media Properties"
+msgstr "Multimedia xususiyatlari"
+
+#. Translators: Primary menu entry that opens the keyboard shortcuts window.
+#: data/resources/ui/window.blp:20 data/resources/ui/window.blp:54
+msgid "_Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#. Translators: Primary menu entry that opens the About dialog.
+#: data/resources/ui/window.blp:26 data/resources/ui/window.blp:60
+msgid "_About Identity"
+msgstr "Shaxs haqida"
+
+#. Translators: Tab menu entry that copies the file to the clipboard.
+#: data/resources/ui/window.blp:70
+msgid "Copy File"
+msgstr "Faylni nusxalash"
+
+#. Translators: Tab menu entry that shows the file in the file manager.
+#: data/resources/ui/window.blp:76
+msgid "Show in Files"
+msgstr "Fayllarda koʻrsatish"
+
+#. Translators: Tab menu entry that moves it to a new window.
+#: data/resources/ui/window.blp:82
+msgid "Move to New Window"
+msgstr "Yangi oynaga oʻtish"
+
+#. Translators: Tab menu entry that closes it.
+#: data/resources/ui/window.blp:88
+msgid "Close File"
+msgstr "Faylni yopish"
+
+#. Translators: Tooltip for the primary menu button that selects the tabbed
+#. display mode.
+#: data/resources/ui/window.blp:102
+msgid "Arrange as Tabs"
+msgstr "Varaqlar sifatida tartiblash"
+
+#. Translators: Tooltip for the primary menu button that selects the tiled in
+#. a row display mode.
+#: data/resources/ui/window.blp:109
+msgid "Arrange in a Row"
+msgstr "Qator qilib joylashtirmoq"
+
+#. Translators: Tooltip for the primary menu button that selects the tiled in
+#. a column display mode.
+#: data/resources/ui/window.blp:116
+msgid "Arrange in a Column"
+msgstr "Ustun qilib joylashtirmoq"
+
+#. Translators: Primary menu tooltip.
+#: data/resources/ui/window.blp:155 data/resources/ui/window.blp:216
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#. Translators: Title text on the window when no files are open.
+#: data/resources/ui/window.blp:164
+msgid "Compare Media"
+msgstr "Medialarni taqqoslash"
+
+#. Translators: Description text on the window when no files are open.
+#: data/resources/ui/window.blp:167
+msgid "Drag and drop images or videos here"
+msgstr "Rasmlar yoki videolarni bu yerga sudrab tashlang"
+
+#. Translators: Open button label when no files are open.
+#: data/resources/ui/window.blp:171
+msgid "Open Media…"
+msgstr "Media fayllarni ochish…"
+
+#. Translators: Open button tooltip.
+#: data/resources/ui/window.blp:173 data/resources/ui/window.blp:198
+msgid "Select an Image or Video"
+msgstr "Rasm yoki videoni tanlang"
+
+#. Translators: Open button label.
+#: data/resources/ui/window.blp:196
+msgid "Open"
+msgstr "Ochish"
+
+#. Translators: Scale/zoom entry tooltip.
+#: data/resources/ui/window.blp:231
+msgid "Zoom Level"
+msgstr "Kattalashtirish darajasi"
+
+#. Translators: Scale/zoom menu button tooltip.
+#: data/resources/ui/window.blp:236
+msgid "Select Zoom Level"
+msgstr "Kattalashtirish darajasini tanlang"
+
+#. Translators: screen reader label on the Play / Pause button.
+#: data/resources/ui/window.blp:284
+msgid "Play / Pause"
+msgstr "Tinglash/Toʻxtatish"
+
+#. Translators: screen reader label on the playback position slider.
+#: data/resources/ui/window.blp:306
+msgid "Playback position"
+msgstr "Ijro holati"
+
+#: src/page.rs:379
+#, rust-format
+msgid "{} × {}"
+msgstr "{} × {}"
+
+#. Translators: "Not applicable" string for the media properties dialog when a
+#. given property is unknown or missing (e.g. images don't have frame rate).
+#: src/page.rs:388 src/window.rs:551 src/window.rs:559 src/window.rs:567
+msgid "N/A"
+msgstr "N/A"
+
+#. Translators: shown in the About dialog, put your name here.
+#: src/window.rs:353
+msgid "translator-credits"
+msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
+
+#. Translators: link title in the About dialog.
+#: src/window.rs:356
+msgid "Contribute Translations"
+msgstr "Tarjimalarga hissa qoʻshish"
+
+#. Translators: name of https://apps.gnome.org/VideoTrimmer
+#: src/window.rs:362
+msgid "Video Trimmer"
+msgstr "Videoni qirqish vositasi"
+
+#. Translators: summary of https://apps.gnome.org/VideoTrimmer
+#: src/window.rs:364
+msgid "Trim videos quickly"
+msgstr "Videolarni tezda kesish"
+
+#: src/window.rs:371
+msgid ""
+"This release adds a context menu to row and column display modes and updates"
+" the platform to GNOME 49."
+msgstr ""
+"Ushbu yangilanishda qator va ustun koʻrsatish rejimlariga kontekst menyu "
+"qoʻshildi hamda platforma GNOME 49 versiyasiga yangilandi."
+
+#: src/window.rs:372
+#, fuzzy
+msgid ""
+"Added a context menu on the images, mirroring the tab context menu. This "
+"makes the context menu accessible in row and column display modes where "
+"there are no tabs."
+msgstr ""
+"Rasmlarga, xuddi varaq kontekst menyusiga oʻxshab, kontekst menyu qoʻshildi."
+" Bu yangilik qator va ustun koʻrsatish rejimlarida, varaqlar mavjud "
+"boʻlmagan hollarda ham, kontekst menyudan foydalanish imkoniyatini yaratadi."
+
+#: src/window.rs:373
+msgid "Updated to the GNOME 49 platform."
+msgstr "GNOME 49 platformasiga yangilandi."
+
+#: src/window.rs:374
+msgid "Updated translations."
+msgstr "Yangilangan tarjimalar."
+
+#. Translators: Entry in the scale/zoom menu that indicates that the image or
+#. video is
+#. always resized to fit the window.
+#: src/window.rs:628
+msgid "Best Fit"
+msgstr "Eng yaxshi moslik"
+
+#. Translators: file chooser file filter name.
+#: src/window.rs:1798
+msgid "Videos and images"
+msgstr "Video va rasmlar"
+
+#. Translators: file chooser dialog title.
+#: src/window.rs:1806
+msgid "Open videos or images to compare"
+msgstr "Taqqoslash uchun video yoki rasmlarni oching"

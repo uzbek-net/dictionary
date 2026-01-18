@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2025-11-24 13:53+0000\n"
+"POT-Creation-Date: 2026-01-14 18:14+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -95,7 +95,7 @@ msgid "Open new window of pinned app 9"
 msgstr "Qattiqlangan ilovaning yangi oynasini oching 9"
 
 #. Translators: name of the folder under ~/Pictures for screenshots.
-#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2290
+#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2292
 msgid "Screenshots"
 msgstr "Skrinshotlar"
 
@@ -120,7 +120,7 @@ msgid "Record a screencast interactively"
 msgstr "Skrinshotni interaktiv tarzda yozib oling"
 
 #: data/50-gnome-shell-system.xml:6
-#: data/X-GNOME-Shell-System.directory.desktop.in:2 js/ui/messageTray.js:1313
+#: data/X-GNOME-Shell-System.directory.desktop.in:2 js/ui/messageTray.js:1314
 msgid "System"
 msgstr "Tizim"
 
@@ -913,7 +913,7 @@ msgid "Break in %d second"
 msgid_plural "Break in %d seconds"
 msgstr[0] "%d soniyada tanaffus"
 
-#: js/misc/brightnessManager.js:169 js/ui/status/brightness.js:10
+#: js/misc/brightnessManager.js:171 js/ui/status/brightness.js:10
 msgid "Brightness"
 msgstr "Yorqinlik"
 
@@ -1365,15 +1365,15 @@ msgstr "%d"
 msgid "Week %V"
 msgstr "Hafta %V"
 
-#: js/ui/calendar.js:773
+#: js/ui/calendar.js:774
 msgid "No Notifications"
 msgstr "Bildirishnomalar"
 
-#: js/ui/calendar.js:812
+#: js/ui/calendar.js:815
 msgid "Clear"
 msgstr "Tozalash"
 
-#: js/ui/calendar.js:816
+#: js/ui/calendar.js:819
 msgctxt "action"
 msgid "Clear all notifications"
 msgstr "Barcha bildirishnomalarni tozalang"
@@ -1528,7 +1528,7 @@ msgstr "Autentifikatsiya"
 msgid "Sorry, that didn’t work. Please try again."
 msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 
-#: js/ui/ctrlAltTab.js:23 js/ui/overviewControls.js:406
+#: js/ui/ctrlAltTab.js:23 js/ui/overviewControls.js:407
 msgid "Windows"
 msgstr "Windows"
 
@@ -1878,7 +1878,7 @@ msgstr "Oʻchirib qoʻyish"
 msgid "Leave Off"
 msgstr "Oʻchirish"
 
-#: js/ui/keyboard.js:179 js/ui/status/keyboard.js:901
+#: js/ui/keyboard.js:179 js/ui/status/keyboard.js:898
 msgid "Keyboard Settings"
 msgstr "Klaviatura sozlamalari"
 
@@ -1987,11 +1987,11 @@ msgstr "Noma'lum sarlavha"
 #. in the search entry when no search is
 #. active; it should not exceed ~30
 #. characters.
-#: js/ui/overviewControls.js:329
+#: js/ui/overviewControls.js:330
 msgid "Type to search"
 msgstr "Qidirish uchun yozing"
 
-#: js/ui/overviewControls.js:394
+#: js/ui/overviewControls.js:395
 msgid "Apps"
 msgstr "Ilovalar"
 
@@ -2080,15 +2080,15 @@ msgstr "Qayta ishga tushirish Waylandda mavjud emas"
 msgid "Restarting…"
 msgstr "Qayta ishga tushirilmoqda…"
 
-#: js/ui/screenShield.js:233
+#: js/ui/screenShield.js:227
 msgid "GNOME needs to lock the screen"
 msgstr "GNOME ekranni qulflashi kerak"
 
-#: js/ui/screenShield.js:274 js/ui/screenShield.js:679
+#: js/ui/screenShield.js:269 js/ui/screenShield.js:680
 msgid "Unable to lock"
 msgstr "Bloklash imkonsiz"
 
-#: js/ui/screenShield.js:275 js/ui/screenShield.js:680
+#: js/ui/screenShield.js:270 js/ui/screenShield.js:681
 msgid "Lock was blocked by an app"
 msgstr "Bloklash ilova tomonidan bloklangan"
 
@@ -2097,118 +2097,118 @@ msgstr "Bloklash ilova tomonidan bloklangan"
 msgid "Screen Capture"
 msgstr "Ekranni yozib olish"
 
-#: js/ui/screenshot.js:1266
+#: js/ui/screenshot.js:1268
 msgid "Selection"
 msgstr "Tanlash rejimi"
 
-#: js/ui/screenshot.js:1276
+#: js/ui/screenshot.js:1278
 msgid "Area Selection"
 msgstr "Hududni tanlash"
 
-#: js/ui/screenshot.js:1281
+#: js/ui/screenshot.js:1283
 msgid "Screen"
 msgstr "Ekran"
 
-#: js/ui/screenshot.js:1291
+#: js/ui/screenshot.js:1293
 msgid "Screen Selection"
 msgstr "Ekranni tanlash"
 
-#: js/ui/screenshot.js:1296
+#: js/ui/screenshot.js:1298
 msgid "Window"
 msgstr "Oyna"
 
-#: js/ui/screenshot.js:1306
+#: js/ui/screenshot.js:1308
 msgid "Window Selection"
 msgstr "Oyna tanlash"
 
-#: js/ui/screenshot.js:1331 js/ui/status/system.js:118
+#: js/ui/screenshot.js:1333 js/ui/status/system.js:118
 msgid "Take Screenshot"
 msgstr "Skrinshot oling"
 
-#: js/ui/screenshot.js:1347
+#: js/ui/screenshot.js:1349
 msgid "Record Screen"
 msgstr "Yozib olish ekrani"
 
 #. Translators: since this string refers to an action,
 #. it needs to be phrased as a verb.
-#: js/ui/screenshot.js:1364
+#: js/ui/screenshot.js:1366
 msgid "Capture"
 msgstr "Qoʻlga olish"
 
-#: js/ui/screenshot.js:1386
+#: js/ui/screenshot.js:1388
 msgid "Show Pointer"
 msgstr "Pointerni koʻrsatish"
 
 #. Translators: this is the folder where recorded
 #. screencasts are stored.
-#: js/ui/screenshot.js:2014
+#: js/ui/screenshot.js:2016
 msgid "Screencasts"
 msgstr "Ekran tasvirlari"
 
 #. Translators: this is a filename used for screencast
 #. * recording, where "%d" and "%t" date and time, e.g.
 #. * "Screencast From 07-17-2013 10:00:46 PM"
-#: js/ui/screenshot.js:2019
+#: js/ui/screenshot.js:2021
 #, no-c-format
 msgid "Screencast From %d %t"
 msgstr "Skrinshot: %d %t"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2065
+#: js/ui/screenshot.js:2067
 msgid "Screencast recorded"
 msgstr "Skrinshot yozib olingan"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2078
+#: js/ui/screenshot.js:2080
 msgid "Screencast failed to start"
 msgstr "Skrinshot boshlanmadi"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2084
+#: js/ui/screenshot.js:2086
 msgid "Screencast ended: Out of disk space"
 msgstr "Skrinshot tugadi: Diskda joy qolmadi"
 
 #. We can encourage user to try again on service crashes since the
 #. recorder will auto-blocklist the pipeline that crashed.
 #. Translators: notification title.
-#: js/ui/screenshot.js:2090
+#: js/ui/screenshot.js:2092
 msgid "Screencast ended unexpectedly, please try again"
 msgstr "Skrinshot kutilmaganda tugadi, qayta urinib koʻring"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2093
+#: js/ui/screenshot.js:2095
 msgid "Screencast ended unexpectedly"
 msgstr "Skrinshot kutilmaganda tugadi"
 
 #. Translators: notification body when a screencast was recorded.
-#: js/ui/screenshot.js:2106
+#: js/ui/screenshot.js:2108
 msgid "Click here to view the video"
 msgstr "Videoni koʻrish uchun bu yerga bosing"
 
 #. Translators: button on the screencast notification.
 #. Translators: button on the screenshot notification.
-#: js/ui/screenshot.js:2114 js/ui/screenshot.js:2357
+#: js/ui/screenshot.js:2116 js/ui/screenshot.js:2359
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 
 #. Translators: this is the name of the file that the screenshot is
 #. saved to. The placeholder is a timestamp, e.g. "2017-05-21 12-24-03".
-#: js/ui/screenshot.js:2303
+#: js/ui/screenshot.js:2305
 #, javascript-format
 msgid "Screenshot From %s"
 msgstr "Skrinshot: %s"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2347
+#: js/ui/screenshot.js:2349
 msgid "Screenshot captured"
 msgstr "Skrinshot olindi"
 
 #. Translators: notification body when a screenshot was captured.
-#: js/ui/screenshot.js:2349
+#: js/ui/screenshot.js:2351
 msgid "You can paste the image from the clipboard"
 msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 
-#: js/ui/screenshot.js:2407 js/ui/screenshot.js:2569
+#: js/ui/screenshot.js:2409 js/ui/screenshot.js:2571
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
@@ -2231,23 +2231,23 @@ msgstr[0] "yana %d ta"
 msgid "Search"
 msgstr "Qidiruv"
 
-#: js/ui/shellEntry.js:21
+#: js/ui/shellEntry.js:22
 msgid "Copy"
 msgstr "Nusxalash"
 
-#: js/ui/shellEntry.js:26
+#: js/ui/shellEntry.js:27
 msgid "Paste"
 msgstr "Qoʻyish"
 
-#: js/ui/shellEntry.js:78
+#: js/ui/shellEntry.js:79
 msgid "Show Text"
 msgstr "Matnni koʻrsatish"
 
-#: js/ui/shellEntry.js:80
+#: js/ui/shellEntry.js:81
 msgid "Hide Text"
 msgstr "Matnni yashirish"
 
-#: js/ui/shellEntry.js:174
+#: js/ui/shellEntry.js:175
 msgid "Caps lock is on"
 msgstr "Caps lock yoqilgan"
 
@@ -2389,7 +2389,7 @@ msgstr "Past"
 msgid "High"
 msgstr "Yuqori"
 
-#: js/ui/status/backlight.js:162 js/ui/status/keyboard.js:883
+#: js/ui/status/backlight.js:162 js/ui/status/keyboard.js:880
 msgid "Keyboard"
 msgstr "Klaviatura"
 
@@ -2472,7 +2472,7 @@ msgstr "Ikkilamchi bosing"
 msgid "Dwell Click"
 msgstr "Dwell bosing"
 
-#: js/ui/status/keyboard.js:900
+#: js/ui/status/keyboard.js:897
 msgid "Show Keyboard Layout"
 msgstr "Klaviatura tartibini koʻrsatish"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-tour main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-tour/issues/\n"
-"POT-Creation-Date: 2025-12-12 23:03+0000\n"
+"POT-Creation-Date: 2025-09-11 18:01+0000\n"
 "PO-Revision-Date: 2025-03-25 10:08+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -131,5 +131,6 @@ msgstr "Batafsil maslahat va tavsiyalar uchun Yordam ilovasiga kiring."
 #. essential
 #. features in GNOME 3.36" for example
 #: src/widgets/window.rs:69
+#, rust-format
 msgid "Learn about the key features in {name} {version}."
 msgstr "{name} {version}dagi asosiy funksiyalar haqida batafsil."

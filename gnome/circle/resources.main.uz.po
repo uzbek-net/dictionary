@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2026-01-10 15:09+0000\n"
+"POT-Creation-Date: 2026-01-10 18:36+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -933,12 +933,12 @@ msgstr ""
 #: src/ui/pages/battery.rs:301 src/ui/pages/cpu.rs:243 src/ui/pages/cpu.rs:258
 #: src/ui/pages/cpu.rs:278 src/ui/pages/cpu.rs:284 src/ui/pages/cpu.rs:290
 #: src/ui/pages/cpu.rs:296 src/ui/pages/cpu.rs:300 src/ui/pages/cpu.rs:303
-#: src/ui/pages/cpu.rs:341 src/ui/pages/cpu.rs:448 src/ui/pages/drive.rs:319
-#: src/ui/pages/drive.rs:350 src/ui/pages/drive.rs:352
-#: src/ui/pages/drive.rs:381 src/ui/pages/drive.rs:383
-#: src/ui/pages/drive.rs:399 src/ui/pages/drive.rs:400
-#: src/ui/pages/drive.rs:407 src/ui/pages/drive.rs:417
-#: src/ui/pages/drive.rs:427 src/ui/pages/drive.rs:433 src/ui/pages/gpu.rs:245
+#: src/ui/pages/cpu.rs:341 src/ui/pages/cpu.rs:448 src/ui/pages/drive.rs:321
+#: src/ui/pages/drive.rs:352 src/ui/pages/drive.rs:354
+#: src/ui/pages/drive.rs:383 src/ui/pages/drive.rs:385
+#: src/ui/pages/drive.rs:401 src/ui/pages/drive.rs:402
+#: src/ui/pages/drive.rs:409 src/ui/pages/drive.rs:419
+#: src/ui/pages/drive.rs:429 src/ui/pages/drive.rs:435 src/ui/pages/gpu.rs:245
 #: src/ui/pages/gpu.rs:252 src/ui/pages/gpu.rs:297 src/ui/pages/gpu.rs:322
 #: src/ui/pages/gpu.rs:325 src/ui/pages/gpu.rs:336 src/ui/pages/gpu.rs:377
 #: src/ui/pages/gpu.rs:384 src/ui/pages/gpu.rs:396 src/ui/pages/gpu.rs:403
@@ -971,7 +971,7 @@ msgid "CPU {}"
 msgstr "CPU {}"
 
 #: src/ui/pages/applications/application_entry.rs:190
-#: src/ui/pages/drive.rs:414 src/ui/pages/drive.rs:424
+#: src/ui/pages/drive.rs:416 src/ui/pages/drive.rs:426
 #: src/ui/pages/processes/process_entry.rs:211
 msgid "No"
 msgstr "Yoʻq"
@@ -1062,7 +1062,7 @@ msgid "Battery Charge"
 msgstr "Batareyani zaryadlash"
 
 #: src/ui/pages/battery.rs:279 src/ui/pages/cpu.rs:438
-#: src/ui/pages/drive.rs:344 src/ui/pages/drive.rs:375 src/ui/pages/gpu.rs:429
+#: src/ui/pages/drive.rs:346 src/ui/pages/drive.rs:377 src/ui/pages/gpu.rs:429
 #: src/ui/pages/network.rs:362 src/ui/pages/network.rs:396
 msgid "Highest:"
 msgstr "Eng yuqori:"
@@ -1091,14 +1091,14 @@ msgstr "Oʻqish tezligi"
 msgid "Write Speed"
 msgstr "Yozish tezligi"
 
-#: src/ui/pages/drive.rs:412 src/ui/pages/drive.rs:422
+#: src/ui/pages/drive.rs:414 src/ui/pages/drive.rs:424
 msgid "Yes"
 msgstr "Xa"
 
 #. Translators: This is an abbreviation for "Read" and "Write". This is
 #. displayed in the sidebar so your
 #. translation should preferably be quite short or an abbreviation
-#: src/ui/pages/drive.rs:440
+#: src/ui/pages/drive.rs:442
 #, rust-format
 msgid "R: {} · W: {}"
 msgstr "Oʻ: {} · Y: {}"
@@ -1524,378 +1524,378 @@ msgstr "{} RiB"
 msgid "{} QiB"
 msgstr "{} QiB"
 
-#: src/utils/units.rs:198 src/utils/units.rs:215
+#: src/utils/units.rs:197 src/utils/units.rs:214
 #, rust-format
 msgid "{} B/s"
 msgstr "{} B/s"
 
-#: src/utils/units.rs:199
+#: src/utils/units.rs:198
 #, rust-format
 msgid "{} kB/s"
 msgstr "{} kB/s"
 
-#: src/utils/units.rs:200
+#: src/utils/units.rs:199
 #, fuzzy, rust-format
 #| msgid "{} MB/s"
 msgid "{} MB/s"
 msgstr "{} MB/s{} MB/s"
 
-#: src/utils/units.rs:201
+#: src/utils/units.rs:200
 #, rust-format
 msgid "{} GB/s"
 msgstr "{} GB/s"
 
-#: src/utils/units.rs:202
+#: src/utils/units.rs:201
 #, rust-format
 msgid "{} TB/s"
 msgstr "{} TB/s"
 
-#: src/utils/units.rs:203
+#: src/utils/units.rs:202
 #, rust-format
 msgid "{} PB/s"
 msgstr "{} PB/s"
 
-#: src/utils/units.rs:204
+#: src/utils/units.rs:203
 #, rust-format
 msgid "{} EB/s"
 msgstr "{} EB/s"
 
-#: src/utils/units.rs:205
+#: src/utils/units.rs:204
 #, rust-format
 msgid "{} ZB/s"
 msgstr "{} ZB/s"
 
-#: src/utils/units.rs:206
+#: src/utils/units.rs:205
 #, rust-format
 msgid "{} YB/s"
 msgstr "{} YB/s"
 
-#: src/utils/units.rs:207
+#: src/utils/units.rs:206
 #, rust-format
 msgid "{} RB/s"
 msgstr "{} RB/s"
 
-#: src/utils/units.rs:208
+#: src/utils/units.rs:207
 #, rust-format
 msgid "{} QB/s"
 msgstr "{} QB/s"
 
-#: src/utils/units.rs:216
+#: src/utils/units.rs:215
 #, rust-format
 msgid "{} KiB/s"
 msgstr "{} KiB/s"
 
-#: src/utils/units.rs:217
+#: src/utils/units.rs:216
 #, rust-format
 msgid "{} MiB/s"
 msgstr "{} MiB/s"
 
-#: src/utils/units.rs:218
+#: src/utils/units.rs:217
 #, rust-format
 msgid "{} GiB/s"
 msgstr "{} GiB/s"
 
-#: src/utils/units.rs:219
+#: src/utils/units.rs:218
 #, rust-format
 msgid "{} TiB/s"
 msgstr "{} TiB/s"
 
-#: src/utils/units.rs:220
+#: src/utils/units.rs:219
 #, rust-format
 msgid "{} PiB/s"
 msgstr "{} PiB/s"
 
-#: src/utils/units.rs:221
+#: src/utils/units.rs:220
 #, rust-format
 msgid "{} EiB/s"
 msgstr "{} EiB/s"
 
-#: src/utils/units.rs:222
+#: src/utils/units.rs:221
 #, rust-format
 msgid "{} ZiB/s"
 msgstr "{} ZiB/s"
 
-#: src/utils/units.rs:223
+#: src/utils/units.rs:222
 #, rust-format
 msgid "{} YiB/s"
 msgstr "{} YiB/s"
 
-#: src/utils/units.rs:224
+#: src/utils/units.rs:223
 #, rust-format
 msgid "{} RiB/s"
 msgstr "{} RiB/s"
 
-#: src/utils/units.rs:225
+#: src/utils/units.rs:224
 #, rust-format
 msgid "{} QiB/s"
 msgstr "{} QiB/s"
 
-#: src/utils/units.rs:239 src/utils/units.rs:256
+#: src/utils/units.rs:238 src/utils/units.rs:255
 #, rust-format
 msgid "{} b/s"
 msgstr "{} b/s"
 
-#: src/utils/units.rs:240
+#: src/utils/units.rs:239
 #, rust-format
 msgid "{} kb/s"
 msgstr "{} kb/s"
 
-#: src/utils/units.rs:241
+#: src/utils/units.rs:240
 #, rust-format
 msgid "{} Mb/s"
 msgstr "{} Mb/s"
 
-#: src/utils/units.rs:242
+#: src/utils/units.rs:241
 #, rust-format
 msgid "{} Gb/s"
 msgstr "{} Gb/s"
 
-#: src/utils/units.rs:243
+#: src/utils/units.rs:242
 #, rust-format
 msgid "{} Tb/s"
 msgstr "{} Tb/s"
 
-#: src/utils/units.rs:244
+#: src/utils/units.rs:243
 #, rust-format
 msgid "{} Pb/s"
 msgstr "{} Pb/s"
 
-#: src/utils/units.rs:245
+#: src/utils/units.rs:244
 #, rust-format
 msgid "{} Eb/s"
 msgstr "{} Eb/s"
 
-#: src/utils/units.rs:246
+#: src/utils/units.rs:245
 #, rust-format
 msgid "{} Zb/s"
 msgstr "{} Zb/s"
 
-#: src/utils/units.rs:247
+#: src/utils/units.rs:246
 #, rust-format
 msgid "{} Yb/s"
 msgstr "{} Yb/s"
 
-#: src/utils/units.rs:248
+#: src/utils/units.rs:247
 #, rust-format
 msgid "{} Rb/s"
 msgstr "{} Rb/s"
 
-#: src/utils/units.rs:249
+#: src/utils/units.rs:248
 #, rust-format
 msgid "{} Qb/s"
 msgstr "{} Qb/s"
 
-#: src/utils/units.rs:257
+#: src/utils/units.rs:256
 #, rust-format
 msgid "{} Kib/s"
 msgstr "{} Kib/s"
 
-#: src/utils/units.rs:258
+#: src/utils/units.rs:257
 #, rust-format
 msgid "{} Mib/s"
 msgstr "{} Mib/s"
 
-#: src/utils/units.rs:259
+#: src/utils/units.rs:258
 #, rust-format
 msgid "{} Gib/s"
 msgstr "{} Gib/s"
 
-#: src/utils/units.rs:260
+#: src/utils/units.rs:259
 #, rust-format
 msgid "{} Tib/s"
 msgstr "{} Tib/s"
 
-#: src/utils/units.rs:261
+#: src/utils/units.rs:260
 #, rust-format
 msgid "{} Pib/s"
 msgstr "{} Pib/s"
 
-#: src/utils/units.rs:262
+#: src/utils/units.rs:261
 #, rust-format
 msgid "{} Eib/s"
 msgstr "{} Eib/s"
 
-#: src/utils/units.rs:263
+#: src/utils/units.rs:262
 #, rust-format
 msgid "{} Zib/s"
 msgstr "{} Zib/s"
 
-#: src/utils/units.rs:264
+#: src/utils/units.rs:263
 #, rust-format
 msgid "{} Yib/s"
 msgstr "{} Yib/s"
 
-#: src/utils/units.rs:265
+#: src/utils/units.rs:264
 #, rust-format
 msgid "{} Rib/s"
 msgstr "{} Rib/s"
 
-#: src/utils/units.rs:266
+#: src/utils/units.rs:265
 #, rust-format
 msgid "{} Qib/s"
 msgstr "{} Qib/s"
 
-#: src/utils/units.rs:273
+#: src/utils/units.rs:272
 #, rust-format
 msgid "{} Hz"
 msgstr "{} Hz"
 
-#: src/utils/units.rs:274
+#: src/utils/units.rs:273
 #, rust-format
 msgid "{} kHz"
 msgstr "{} kHz"
 
-#: src/utils/units.rs:275
+#: src/utils/units.rs:274
 #, rust-format
 msgid "{} MHz"
 msgstr "{} MHz"
 
-#: src/utils/units.rs:276
+#: src/utils/units.rs:275
 #, rust-format
 msgid "{} GHz"
 msgstr "{} GHz"
 
-#: src/utils/units.rs:277
+#: src/utils/units.rs:276
 #, rust-format
 msgid "{} THz"
 msgstr "{} THz"
 
-#: src/utils/units.rs:278
+#: src/utils/units.rs:277
 #, rust-format
 msgid "{} PHz"
 msgstr "{} PHz"
 
-#: src/utils/units.rs:279
+#: src/utils/units.rs:278
 #, rust-format
 msgid "{} EHz"
 msgstr "{} EHz"
 
-#: src/utils/units.rs:280
+#: src/utils/units.rs:279
 #, rust-format
 msgid "{} ZHz"
 msgstr "{} ZHz"
 
-#: src/utils/units.rs:281
+#: src/utils/units.rs:280
 #, rust-format
 msgid "{} YHz"
 msgstr "{} YHz"
 
-#: src/utils/units.rs:282
+#: src/utils/units.rs:281
 #, rust-format
 msgid "{} RHz"
 msgstr "{} RHz"
 
-#: src/utils/units.rs:283
+#: src/utils/units.rs:282
 #, rust-format
 msgid "{} QHz"
 msgstr "{} QHz"
 
-#: src/utils/units.rs:290
+#: src/utils/units.rs:289
 #, rust-format
 msgid "{} W"
 msgstr "{} W"
 
-#: src/utils/units.rs:291
+#: src/utils/units.rs:290
 #, rust-format
 msgid "{} kW"
 msgstr "{} kW"
 
-#: src/utils/units.rs:292
+#: src/utils/units.rs:291
 #, rust-format
 msgid "{} MW"
 msgstr "{} MW"
 
-#: src/utils/units.rs:293
+#: src/utils/units.rs:292
 #, rust-format
 msgid "{} GW"
 msgstr "{} GW"
 
-#: src/utils/units.rs:294
+#: src/utils/units.rs:293
 #, rust-format
 msgid "{} TW"
 msgstr "{} TW"
 
-#: src/utils/units.rs:295
+#: src/utils/units.rs:294
 #, rust-format
 msgid "{} PW"
 msgstr "{} PW"
 
-#: src/utils/units.rs:296
+#: src/utils/units.rs:295
 #, rust-format
 msgid "{} EW"
 msgstr "{} EW"
 
-#: src/utils/units.rs:297
+#: src/utils/units.rs:296
 #, rust-format
 msgid "{} ZW"
 msgstr "{} ZW"
 
-#: src/utils/units.rs:298
+#: src/utils/units.rs:297
 #, rust-format
 msgid "{} YW"
 msgstr "{} YW"
 
-#: src/utils/units.rs:299
+#: src/utils/units.rs:298
 #, rust-format
 msgid "{} RW"
 msgstr "{} RW"
 
-#: src/utils/units.rs:300
+#: src/utils/units.rs:299
 #, rust-format
 msgid "{} QW"
 msgstr "{} QW"
 
-#: src/utils/units.rs:309 src/utils/units.rs:323
+#: src/utils/units.rs:308 src/utils/units.rs:322
 #, rust-format
 msgid "{} Wh"
 msgstr "{} Wh"
 
-#: src/utils/units.rs:310 src/utils/units.rs:324
+#: src/utils/units.rs:309 src/utils/units.rs:323
 #, rust-format
 msgid "{} kWh"
 msgstr "{} kWh"
 
-#: src/utils/units.rs:311 src/utils/units.rs:325
+#: src/utils/units.rs:310 src/utils/units.rs:324
 #, rust-format
 msgid "{} MWh"
 msgstr "{} MWh"
 
-#: src/utils/units.rs:312 src/utils/units.rs:326
+#: src/utils/units.rs:311 src/utils/units.rs:325
 #, rust-format
 msgid "{} GWh"
 msgstr "{} GWh"
 
-#: src/utils/units.rs:313 src/utils/units.rs:327
+#: src/utils/units.rs:312 src/utils/units.rs:326
 #, rust-format
 msgid "{} TWh"
 msgstr "{} TWh"
 
-#: src/utils/units.rs:314 src/utils/units.rs:328
+#: src/utils/units.rs:313 src/utils/units.rs:327
 #, rust-format
 msgid "{} PWh"
 msgstr "{} PWh"
 
-#: src/utils/units.rs:315 src/utils/units.rs:329
+#: src/utils/units.rs:314 src/utils/units.rs:328
 #, rust-format
 msgid "{} EWh"
 msgstr "{} EWh"
 
-#: src/utils/units.rs:316 src/utils/units.rs:330
+#: src/utils/units.rs:315 src/utils/units.rs:329
 #, rust-format
 msgid "{} ZWh"
 msgstr "{} ZWh"
 
-#: src/utils/units.rs:317 src/utils/units.rs:331
+#: src/utils/units.rs:316 src/utils/units.rs:330
 #, rust-format
 msgid "{} YWh"
 msgstr "{} YWh"
 
-#: src/utils/units.rs:318 src/utils/units.rs:332
+#: src/utils/units.rs:317 src/utils/units.rs:331
 #, rust-format
 msgid "{} RWh"
 msgstr "{} RWh"
 
-#: src/utils/units.rs:319 src/utils/units.rs:333
+#: src/utils/units.rs:318 src/utils/units.rs:332
 #, rust-format
 msgid "{} QWh"
 msgstr "{} QWh"
