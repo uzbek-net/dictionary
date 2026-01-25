@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: citations master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/citations/-/issues\n"
-"POT-Creation-Date: 2026-01-10 17:50+0000\n"
+"POT-Creation-Date: 2026-01-22 22:59+0000\n"
 "PO-Revision-Date: 2025-10-07 20:57+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -214,15 +214,15 @@ msgstr "Iqtiboslar yoʻq"
 msgid "Create a new citation"
 msgstr "Yangi iqtibos yaratish"
 
-#: data/resources/ui/entry_list_row.ui:89
+#: data/resources/ui/entry_list_row.ui:100
 msgid "_Open PDF"
 msgstr "PDF faylini ochish"
 
-#: data/resources/ui/entry_list_row.ui:93
+#: data/resources/ui/entry_list_row.ui:104
 msgid "_Copy Key"
 msgstr "Kalitdan nusxa olish"
 
-#: data/resources/ui/entry_list_row.ui:99 data/resources/ui/window.ui:72
+#: data/resources/ui/entry_list_row.ui:110 data/resources/ui/window.ui:72
 msgid "_Delete"
 msgstr "Olib tashlash"
 
@@ -516,11 +516,11 @@ msgstr "Nusxalangan"
 msgid "Custom…"
 msgstr "Maxsus…"
 
-#: src/entry_list_row.rs:74
+#: src/entry_list_row.rs:90
 msgid "Author not set"
 msgstr "Muallif koʻrsatilmagan"
 
-#: src/entry_list_row.rs:84
+#: src/entry_list_row.rs:100
 msgid "Title not set"
 msgstr "Sarlavha belgilanmagan"
 

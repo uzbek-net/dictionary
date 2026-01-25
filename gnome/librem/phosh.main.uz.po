@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2026-01-15 13:17+0000\n"
+"POT-Creation-Date: 2026-01-22 11:47+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -163,6 +163,10 @@ msgstr "Barcha ilovalarni koʻrsatish"
 #: src/app-grid.c:267
 msgid "Show Only Mobile Friendly Apps"
 msgstr "Faqat mobil ilovalarni koʻrsatish"
+
+#: src/audio-manager.c:74
+msgid "Phone Shell Volume Control"
+msgstr "Phone Shell ovoz balandligini boshqarish"
 
 #. Translators: a battery level in percent
 #: src/bt-device-row.c:81
@@ -534,10 +538,6 @@ msgstr "Yopish uchun ESC tugmasini bosing"
 #, c-format
 msgid "Running '%s' failed"
 msgstr "“%s” ishga tushmadi"
-
-#: src/settings/audio-settings.c:376
-msgid "Phone Shell Volume Control"
-msgstr "Phone Shell ovoz balandligini boshqarish"
 
 #: src/system-prompt.c:376
 msgid "Passwords do not match."

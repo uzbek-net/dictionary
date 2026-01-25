@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-16 11:50+0000\n"
+"POT-Creation-Date: 2026-01-23 13:46+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -34,7 +34,7 @@ msgstr ""
 msgid "Refresh started."
 msgstr ""
 
-#: common/views.py:32
+#: common/views.py:43
 msgid "translator-credits"
 msgstr ""
 "Baxrom Raxmatov\n"
@@ -1371,7 +1371,7 @@ msgstr "muloqot oynalari"
 #: database-content.py:372 database-content.py:395 database-content.py:397
 #: database-content.py:431
 #: languages/templates/languages/language_release.html:20
-#: vertimus/templates/vertimus/vertimus_detail.html:66
+#: vertimus/templates/vertimus/vertimus_detail.html:62
 msgid "User Guide"
 msgstr "Foydalanuvchi qoʻllanmasi"
 
@@ -1619,98 +1619,102 @@ msgstr "GNOME uchun ilovalar"
 msgid "Local network service discovery via mDNS/DNS-SD"
 msgstr "mDNS/DNS-SD orqali mahalliy tarmoq xizmatini topish"
 
-#: database-content.py:436 templates/admin/base_site.html:6
+#: database-content.py:436
+msgid "Compress videos to target sizes."
+msgstr ""
+
+#: database-content.py:437 templates/admin/base_site.html:6
 msgid "Damned Lies"
 msgstr "Damned Lies"
 
-#: database-content.py:437
+#: database-content.py:438
 msgid "Play audio files"
 msgstr "Audio fayllarni oʻynatish"
 
-#: database-content.py:438
+#: database-content.py:439
 msgid "Eye of GNOME"
 msgstr "GNOME ning koʻzi"
 
-#: database-content.py:439
+#: database-content.py:440
 msgid "GNOME Shell Extensions Repository"
 msgstr "GNOME Shell kengaytmalari ombori"
 
-#: database-content.py:440
+#: database-content.py:441
 msgid "Foundry provides a platform for developer tools in GNOME"
 msgstr ""
 
-#: database-content.py:441
+#: database-content.py:442
 msgid "Collection of plugins for the gedit text editor"
 msgstr "gedit matn muharriri uchun plaginlar toʻplami"
 
-#: database-content.py:442
+#: database-content.py:443
 msgid "GIMP User Manual"
 msgstr "GIMP foydalanuvchi uchun qoʻllanma"
 
-#: database-content.py:443
+#: database-content.py:444
 msgid "GNOME User Documentation"
 msgstr "GNOME foydalanuvchi dokumentatsiyasi"
 
-#: database-content.py:444
+#: database-content.py:445
 msgid "Find LaTeX symbols"
 msgstr "LaTeX belgilarini toping"
 
-#: database-content.py:445
+#: database-content.py:446
 msgid "Gedit Technology - Actions, Menus and Toolbars Kit"
 msgstr ""
 "Gedit texnologiyasi - harakatlar, menyular va asboblar paneli toʻplami"
 
-#: database-content.py:446
+#: database-content.py:447
 msgid "Gedit Technology - File loading and saving"
 msgstr "Gedit texnologiyasi - faylni yuklash va saqlash"
 
-#: database-content.py:447
+#: database-content.py:448
 msgid "Gedit Technology - Source code editing widget"
 msgstr "Gedit Technology - Manba kodini tahrirlash vidjeti"
 
-#: database-content.py:448
+#: database-content.py:449
 msgid "Gedit Technology - Text editor product line"
 msgstr "Gedit Technology - Matn muharriri mahsulot qatori"
 
-#: database-content.py:449
+#: database-content.py:450
 msgid "GNOME Library Web site"
 msgstr "GNOME kutubxonasi veb-sayti"
 
-#: database-content.py:450
+#: database-content.py:451
 msgid "Set historic GNOME wallpapers"
 msgstr ""
 
-#: database-content.py:451
+#: database-content.py:452
 msgid "PackageKit"
 msgstr "PackageKit"
 
-#: database-content.py:452
+#: database-content.py:453
 msgid "Python GTK 3 Tutorial"
 msgstr "Python GTK 3 boʻyicha qoʻllanma"
 
-#: database-content.py:453
+#: database-content.py:454
 msgid "Shared MIME Info"
 msgstr "Umumiy MIME maʼlumotlari"
 
-#: database-content.py:454
+#: database-content.py:455
 msgid "WebKitGTK"
 msgstr "WebKitGTK"
 
-#: database-content.py:455 templates/_includes/footer.html:23
+#: database-content.py:456 templates/_includes/footer.html:23
 msgid "Welcome to GNOME"
 msgstr "GNOME ga xush kelibsiz"
 
-#: database-content.py:456
+#: database-content.py:457
 #, fuzzy
 #| msgid "GNOME Library Web site"
 msgid "GNOME Website"
 msgstr "GNOME kutubxonasi veb-sayti"
 
-#: database-content.py:457
+#: database-content.py:458
 msgid "XKeyboard-Config"
 msgstr "XKeyboard-Config"
 
-#: database-content.py:458
+#: database-content.py:459
 msgid ""
 "D-Bus interface for user account query and manipulation. To submit your "
 "translation, <a "
@@ -1722,7 +1726,7 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/accountsservice/accountsservice/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:459
+#: database-content.py:460
 msgid ""
 "Apps for GNOME is the web application you can find at <a "
 "href=\"https://apps.gnome.org/\">https://apps.gnome.org/</a>."
@@ -1731,7 +1735,7 @@ msgstr ""
 "href=\"https://apps.gnome.org/\">https://apps.gnome.org/</a> saytida "
 "topishingiz mumkin boʻlgan veb-ilova."
 
-#: database-content.py:460
+#: database-content.py:461
 msgid ""
 "Utilities to generate, maintain and access the AppStream Xapian database and"
 " work with AppStream metadata."
@@ -1739,7 +1743,7 @@ msgstr ""
 "AppStream Xapian ma'lumotlar bazasini yaratish, saqlash va unga kirish va "
 "AppStream metama'lumotlari bilan ishlash uchun yordamchi dasturlar."
 
-#: database-content.py:461
+#: database-content.py:462
 msgid ""
 "There is a glossary that will help translators in Chronojump localization: "
 "<a "
@@ -1750,7 +1754,7 @@ msgstr ""
 "href=\"https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md\">https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md</a>"
 " ."
 
-#: database-content.py:462
+#: database-content.py:463
 msgid ""
 "colord is a system service that makes it easy to manage, install and "
 "generate color profiles to accurately color manage input and output devices."
@@ -1759,11 +1763,11 @@ msgstr ""
 "rang profillarini boshqarish, oʻrnatish va yaratishni osonlashtiradigan "
 "tizim xizmati."
 
-#: database-content.py:463
+#: database-content.py:464
 msgid "PolicyKit helper to configure CUPS with fine-grained privileges."
 msgstr "PolicyKit yordamchisi CUPSni nozik imtiyozlar bilan sozlash uchun."
 
-#: database-content.py:464
+#: database-content.py:465
 msgid ""
 "Translators: Please keep the “SPDX-License-Identifier:” line in the header "
 "of your .po files. Build will break if it’s missing."
@@ -1771,16 +1775,6 @@ msgstr ""
 "Tarjimonlar: Iltimos, .po fayllaringiz sarlavhasida “SPDX-License-"
 "Identifier:” qatorini saqlang. Agar u etishmayotgan boʻlsa, qurilish "
 "buziladi."
-
-#: database-content.py:465
-msgid ""
-"Linux application sandboxing and distribution framework. To submit your "
-"translation, <a href=\"https://github.com/flatpak/flatpak/pulls\">create a "
-"pull request</a>."
-msgstr ""
-"Linux ilovalarini sinovdan oʻtkazish va tarqatish tizimi. Tarjimangizni "
-"yuborish uchun <a href=\"https://github.com/flatpak/flatpak/pulls\">tortib "
-"olish soʻrovini yarating</a> ."
 
 #: database-content.py:466
 msgid "D-Bus service to access fingerprint readers."
@@ -1810,18 +1804,6 @@ msgstr ""
 
 #: database-content.py:470
 msgid ""
-"This module requires <a "
-"href=\"https://gitlab.gnome.org/GNOME/glib/-/merge_requests\">creating a "
-"pull request</a> to submit translations. Don’t forget to provide a link to "
-"this workflow as proof that the translation has been reviewed."
-msgstr ""
-"Ushbu modul tarjimalarni yuborish uchun <a "
-"href=\"https://gitlab.gnome.org/GNOME/glib/-/merge_requests\">tortish "
-"soʻrovini yaratishni</a> talab qiladi. Tarjima koʻrib chiqilganligining "
-"isboti sifatida ushbu ish jarayoniga havolani taqdim etishni unutmang."
-
-#: database-content.py:471
-msgid ""
 "glom is a user-friendly database application.<br>\n"
 "Apart from the UI messages and the documentation, there are additional example files that can be translated."
 msgstr ""
@@ -1829,7 +1811,7 @@ msgstr ""
 "xabarlari va dokumentatsiyadan tashqari, tarjima qilinishi mumkin boʻlgan "
 "qoʻshimcha misol fayllari mavjud."
 
-#: database-content.py:473
+#: database-content.py:472
 msgid ""
 "There is a limited number of supported locales. If you use an unsupported locale, the browser (at least Chromium-based) will ignore it. <b>Google Chrome/Chromium/Vivaldi support:</b>\n"
 "\n"
@@ -1861,7 +1843,7 @@ msgstr ""
 "pt_BR, pt_PT, rm, ro, ru, si, sk, sl, son, sq, sr, sv_SE, ta, te, th, tr, "
 "uk, uz, vi, xh, zh_CN, zh_TW</i>"
 
-#: database-content.py:484
+#: database-content.py:483
 msgid ""
 "Note that some strings visible in the gnome-tweaks interface are coming from"
 " the <a href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-"
@@ -1871,7 +1853,7 @@ msgstr ""
 "href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-schemas</a> "
 "modulidan keladi."
 
-#: database-content.py:485
+#: database-content.py:484
 msgid ""
 "To ease localization, gallery of GNOME Video Effects has been set up here: "
 "<a "
@@ -1882,7 +1864,7 @@ msgstr ""
 "href=\"https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects\">https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects</a>"
 " ."
 
-#: database-content.py:486
+#: database-content.py:485
 msgid ""
 "Useful information on localization of the Gnumeric analysis tools can be "
 "found in the <a href "
@@ -1900,7 +1882,7 @@ msgstr ""
 "Gnumeric funksiyalarini lokalizatsiya qilish boʻyicha foydali maʼlumotlarga "
 "ega."
 
-#: database-content.py:487
+#: database-content.py:486
 msgid ""
 "This a low-priority module to translate, as there are currently no user "
 "interface that show those strings."
@@ -1908,11 +1890,11 @@ msgstr ""
 "Bu tarjima qilish uchun past ustuvor modul, chunki hozirda ushbu satrlarni "
 "koʻrsatadigan foydalanuvchi interfeysi mavjud emas."
 
-#: database-content.py:488
+#: database-content.py:487
 msgid "GStreamer open-source multimedia framework core library."
 msgstr "GStreamer ochiq manbali multimedia ramkasining asosiy kutubxonasi."
 
-#: database-content.py:489
+#: database-content.py:488
 msgid ""
 "Please note that GTK in versions 4.6 and earlier has both po and po-"
 "properties UI domains. If you add a new language in either domain, you have "
@@ -1924,7 +1906,7 @@ msgstr ""
 " GTK tuzilishi /po-properties-da buzilmasa ham, ulardan birida 0 ta tarjima "
 "boʻlsa ham, Git-ga ikkala faylni topshirishingiz kerak."
 
-#: database-content.py:490
+#: database-content.py:489
 msgid ""
 "malcontent implements support for restricting the type of content accessible"
 " to non-administrator accounts on a Linux system. To submit your "
@@ -1943,7 +1925,7 @@ msgstr ""
 "href=\"https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:491
+#: database-content.py:490
 msgid ""
 "Unified high-level API for communicating with mobile broadband modems. To "
 "submit your translation, <a href=\"https://gitlab.freedesktop.org/mobile-"
@@ -1955,7 +1937,7 @@ msgstr ""
 "broadband/ModemManager/merge_requests\">birlashtirish soʻrovini yarating</a>"
 " ."
 
-#: database-content.py:492
+#: database-content.py:491
 msgid ""
 "Network connection manager and user applications. To submit your "
 "translation, <a "
@@ -1967,11 +1949,11 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/NetworkManager/NetworkManager/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:493
+#: database-content.py:492
 msgid "PKCS#11 cryptography framework for multiple consumers."
 msgstr "Bir nechta iste'molchilar uchun PKCS#11 kriptografiya tizimi."
 
-#: database-content.py:494
+#: database-content.py:493
 msgid ""
 "System designed to make installing and updating software on your computer "
 "easier."
@@ -1979,7 +1961,7 @@ msgstr ""
 "Kompyuteringizga dasturiy ta'minotni oʻrnatish va yangilashni osonlashtirish"
 " uchun moʻljallangan tizim."
 
-#: database-content.py:495
+#: database-content.py:494
 msgid ""
 "Multimedia processing graphs. To submit your translation, <a "
 "href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">create"
@@ -1989,7 +1971,7 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:496
+#: database-content.py:495
 msgid ""
 "Plymouth provides the graphical boot-splash and offline-updates status "
 "splash on most distributions."
@@ -1997,7 +1979,7 @@ msgstr ""
 "Plymouth koʻpgina distribyutorlarda grafik yuklash va oflayn yangilanish "
 "holatini taqdim etadi."
 
-#: database-content.py:497
+#: database-content.py:496
 msgid ""
 "Toolkit for defining and handling authorizations. To submit your "
 "translation, <a href=\"https://github.com/polkit-org/polkit/pulls\">create a"
@@ -2007,7 +1989,7 @@ msgstr ""
 "Tarjimangizni yuborish uchun <a href=\"https://github.com/polkit-"
 "org/polkit/pulls\">birlashtirish soʻrovini yarating</a> ."
 
-#: database-content.py:498
+#: database-content.py:497
 msgid ""
 "PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for "
 "your sound applications."
@@ -2015,7 +1997,7 @@ msgstr ""
 "PulseAudio - bu POSIX operatsion tizimlari uchun ovoz tizimi, ya'ni u "
 "sizning ovoz ilovalaringiz uchun proksi-server hisoblanadi."
 
-#: database-content.py:499
+#: database-content.py:498
 msgid ""
 "D-Bus system service that manages discovery and enrollment in realms/domains"
 " like Active Directory or IPA."
@@ -2023,15 +2005,15 @@ msgstr ""
 "Active Directory yoki IPA kabi sohalarda/domenlarda kashfiyot va roʻyxatga "
 "olishni boshqaradigan D-Bus tizimi xizmati."
 
-#: database-content.py:500
+#: database-content.py:499
 msgid "Shared MIME information specification."
 msgstr "Umumiy MIME maʼlumotlari spetsifikatsiyasi."
 
-#: database-content.py:501
+#: database-content.py:500
 msgid "System and session manager."
 msgstr "Tizim va sessiya menejeri."
 
-#: database-content.py:502
+#: database-content.py:501
 msgid ""
 "Translations should be submitted as <a "
 "href=\"https://bugs.webkit.org/enter_bug.cgi?product=WebKit&component=WebKitGTK\">bug"
@@ -2044,7 +2026,7 @@ msgstr ""
 "qolmasligi uchun komponent sifatida &quot;WebKitGTK&quot; ni tanlashni "
 "unutmang."
 
-#: database-content.py:503
+#: database-content.py:502
 msgid ""
 "Session / policy manager implementation for PipeWire. To submit your "
 "translation, <a "
@@ -2056,7 +2038,7 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/pipewire/wireplumber/-/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:504
+#: database-content.py:503
 msgid ""
 "Desktop integration portal. To submit your translation, <a "
 "href=\"https://github.com/flatpak/xdg-desktop-portal/pulls\">create a pull "
@@ -2066,7 +2048,7 @@ msgstr ""
 "href=\"https://github.com/flatpak/xdg-desktop-portal/pulls\">tortib olish "
 "soʻrovini yarating</a> ."
 
-#: database-content.py:505
+#: database-content.py:504
 msgid ""
 "GTK implementation of xdg-desktop-portal. To submit your translation, <a "
 "href=\"https://github.com/flatpak/xdg-desktop-portal-gtk/pulls\">create a "
@@ -2076,7 +2058,7 @@ msgstr ""
 "<a href=\"https://github.com/flatpak/xdg-desktop-portal-gtk/pulls\">tortib "
 "olish soʻrovini yarating</a> ."
 
-#: database-content.py:506
+#: database-content.py:505
 msgid ""
 "Tool to help manage “well known” user directories like the desktop folder "
 "and the music folder."
@@ -2084,169 +2066,169 @@ msgstr ""
 "Ish stoli papkasi va musiqa papkasi kabi \"malum\" foydalanuvchi "
 "kataloglarini boshqarishga yordam beradigan vosita."
 
-#: database-content.py:507
+#: database-content.py:506
 msgid "Database of keyboard configuration data."
 msgstr "Klaviatura konfiguratsiyasi ma'lumotlar bazasi."
 
-#: database-content.py:508
+#: database-content.py:507
 msgid "GNOME Incubator"
 msgstr "GNOME inkubatori"
 
-#: database-content.py:509
+#: database-content.py:508
 #, fuzzy
 #| msgid "GNOME Developer Platform"
 msgid "GNOME 50 (development)"
 msgstr "GNOME dasturchi platformasi"
 
-#: database-content.py:510
+#: database-content.py:509
 #, fuzzy
 #| msgid "GNOME 48 (stable)"
 msgid "GNOME 49 (stable)"
 msgstr "GNOME 48 (barqaror)"
 
-#: database-content.py:511
+#: database-content.py:510
 #, fuzzy
 #| msgid "GNOME 47 (old stable)"
 msgid "GNOME 48 (old stable)"
 msgstr "GNOME 47 (eski barqaror)"
 
-#: database-content.py:512
+#: database-content.py:511
 msgid "GNOME 47 (old stable)"
 msgstr "GNOME 47 (eski barqaror)"
 
-#: database-content.py:513
+#: database-content.py:512
 msgid "GNOME 46 (old stable)"
 msgstr "GNOME 46 (eski barqaror)"
 
-#: database-content.py:514
+#: database-content.py:513
 msgid "GNOME 45 (old stable)"
 msgstr "GNOME 45 (eski barqaror)"
 
-#: database-content.py:515
+#: database-content.py:514
 msgid "GNOME 44 (old stable)"
 msgstr "GNOME 44 (eski barqaror)"
 
-#: database-content.py:516
+#: database-content.py:515
 msgid "GNOME 43 (old stable)"
 msgstr "GNOME 43 (eski barqaror)"
 
-#: database-content.py:517
+#: database-content.py:516
 msgid "GNOME 42 (old stable)"
 msgstr "GNOME 42 (eski barqaror)"
 
-#: database-content.py:518
+#: database-content.py:517
 msgid "GNOME 41 (old stable)"
 msgstr "GNOME 41 (eski barqaror)"
 
-#: database-content.py:519
+#: database-content.py:518
 msgid "GNOME 40 (old stable)"
 msgstr "GNOME 40 (eski barqaror)"
 
-#: database-content.py:520
+#: database-content.py:519
 msgid "Obsolete GNOME Applications"
 msgstr "Eskirgan GNOME ilovalari"
 
-#: database-content.py:521
+#: database-content.py:520
 msgid "Librem 5 - Purism"
 msgstr "Librem 5 - Purism"
 
-#: database-content.py:522
+#: database-content.py:521
 msgid "GNOME Infrastructure"
 msgstr "GNOME infratuzilmasi"
 
-#: database-content.py:523
+#: database-content.py:522
 msgid "GIMP and Friends"
 msgstr "GIMP va boshqalar"
 
-#: database-content.py:524
+#: database-content.py:523
 msgid "Other Apps (stable)"
 msgstr "Boshqa ilovalar (barqaror)"
 
-#: database-content.py:525
+#: database-content.py:524
 msgid "Other Apps"
 msgstr "Boshqa ilovalar"
 
-#: database-content.py:526
+#: database-content.py:525
 msgid "GNOME Circle"
 msgstr "GNOME Circle"
 
-#: database-content.py:527
+#: database-content.py:526
 msgid "Evolution and friends"
 msgstr "Evolution va boshqalar"
 
-#: database-content.py:528
+#: database-content.py:527
 msgid "freedesktop.org (non-GNOME)"
 msgstr "freedesktop.org (GNOME boʻlmagan)"
 
-#: database-content.py:529
+#: database-content.py:528
 msgid "Default"
 msgstr "Odatiy"
 
-#: database-content.py:530
+#: database-content.py:529
 msgid "Administration Tools"
 msgstr "Boshqaruv vositalari"
 
-#: database-content.py:531
+#: database-content.py:530
 msgid "Development Tools"
 msgstr "Rivojlanish vositalari"
 
-#: database-content.py:532
+#: database-content.py:531
 msgid "GNOME Desktop"
 msgstr "GNOME ish stoli"
 
-#: database-content.py:533
+#: database-content.py:532
 msgid "GNOME Developer Platform"
 msgstr "GNOME dasturchi platformasi"
 
-#: database-content.py:534
+#: database-content.py:533
 msgid "New Module Proposals"
 msgstr "Yangi modul takliflari"
 
-#: database-content.py:535
+#: database-content.py:534
 msgid "Core"
 msgstr "Yadro"
 
-#: database-content.py:536
+#: database-content.py:535
 msgid "Utils"
 msgstr "Utils"
 
-#: database-content.py:537
+#: database-content.py:536
 msgid "Apps"
 msgstr "Ilovalar"
 
-#: database-content.py:538
+#: database-content.py:537
 msgid "Accessibility"
 msgstr "Maxsus imkoniyatlar"
 
-#: database-content.py:539
+#: database-content.py:538
 msgid "Games"
 msgstr "Oʻyinlar"
 
-#: database-content.py:540
+#: database-content.py:539
 msgid "Backends"
 msgstr "Backends"
 
-#: database-content.py:541
+#: database-content.py:540
 msgid "Core Libraries"
 msgstr "Asosiy kutubxonalar"
 
-#: database-content.py:542
+#: database-content.py:541
 msgid "Extra Libraries"
 msgstr "Qoʻshimcha kutubxonalar"
 
-#: database-content.py:543
+#: database-content.py:542
 msgid "Legacy Desktop"
 msgstr "Eski ish stoli"
 
-#: database-content.py:544
+#: database-content.py:543
 msgid "Stable Branches"
 msgstr "Barqaror filiallar"
 
-#: database-content.py:545
+#: database-content.py:544
 msgid "Development Branches"
 msgstr "Rivojlanish filiallari"
 
-#: database-content.py:546
+#: database-content.py:545
 msgid "Office Apps"
 msgstr "Ofis ilovalari"
 
@@ -2265,8 +2247,8 @@ msgid "Latest actions of the GNOME Translation Project for the %s language"
 msgstr "GNOME tarjima loyihasining %s tili uchun soʻnggi harakatlari"
 
 #: languages/models.py:30 stats/models.py:77 stats/models.py:247
-#: stats/models.py:657 stats/models.py:1097 stats/models.py:1509
-#: teams/models.py:122 vertimus/models.py:113 vertimus/models.py:523
+#: stats/models.py:657 stats/models.py:1097 stats/models.py:1499
+#: teams/models.py:67 vertimus/models.py:113 vertimus/models.py:523
 msgid "Name"
 msgstr "Ism"
 
@@ -2306,7 +2288,7 @@ msgid "Unknown"
 msgstr "Nomaʼlum"
 
 #: languages/templates/languages/_includes/language_release_summary.html:12
-#: stats/models.py:1519 stats/templates/module_edit.html:54
+#: stats/models.py:1509 stats/templates/module_edit.html:54
 msgid "Release"
 msgstr "Chiqarish"
 
@@ -2440,7 +2422,7 @@ msgid "Module"
 msgstr "Modul"
 
 #: languages/templates/languages/language_release_stats.html:60
-#: stats/models.py:1520 stats/models.py:1718
+#: stats/models.py:1510 stats/models.py:1708
 #: stats/templates/module_edit.html:53 vertimus/admin.py:33
 #: vertimus/models.py:101 vertimus/templates/vertimus/activity_summary.html:37
 msgid "Branch"
@@ -2624,7 +2606,7 @@ msgstr ""
 msgid "Avatar provider"
 msgstr "Avatar provayderi"
 
-#: people/models.py:151 teams/admin.py:45 teams/models.py:137
+#: people/models.py:151 teams/admin.py:45 teams/models.py:82
 msgid "Web page"
 msgstr "Veb sahifa"
 
@@ -2771,7 +2753,7 @@ msgid "Choose"
 msgstr "Tanlang"
 
 #: people/templates/people/_includes/person_team_membership.html:3
-#: teams/templates/teams/team_detail.html:150
+#: teams/templates/teams/team_detail.html:148
 msgid "Team membership"
 msgstr "Jamoa aʼzoligi"
 
@@ -2796,7 +2778,7 @@ msgid "Are you sure you want to leave the %(team_name)s team?"
 msgstr "Haqiqatan ham %(team_name)s jamoasini tark etmoqchimisiz?"
 
 #: people/templates/people/_includes/person_team_membership.html:28
-#: teams/templates/teams/team_detail.html:47
+#: teams/templates/teams/team_detail.html:48
 msgid "Leave"
 msgstr "Tashlab ket"
 
@@ -3131,7 +3113,7 @@ msgid "Profile"
 msgstr "Profil"
 
 #: people/templates/people/person_base.html:15
-#: stats/templates/module_detail.html:79
+#: stats/templates/module_detail.html:93
 msgid "View on application’s backend"
 msgstr "Ilovaning orqa tomonida koʻrish"
 
@@ -3170,7 +3152,8 @@ msgstr "Tafsilotlaringizni oʻzgartiring"
 #: people/templates/people/person_detail_change_form.html:17
 #: people/templates/people/use_external_provider_or_create_account.html:66
 #: stats/templates/module_edit.html:17
-#: teams/templates/teams/team_detail.html:71
+#: teams/templates/teams/team_detail.html:72
+#: teams/templates/teams/team_edit.html:21
 msgid "Cancel"
 msgstr "Bekor qilish"
 
@@ -3512,17 +3495,17 @@ msgid "Cannot clone repository for module: %s"
 msgstr ""
 
 #: stats/models.py:66
-msgid "Direct"
-msgstr ""
+#, fuzzy
+#| msgid "Submit to repository"
+msgid "Directly pushed to the repository"
+msgstr "Repozitariyga yuboring"
 
 #: stats/models.py:67
-#, fuzzy
-#| msgid "GitLab account"
-msgid "GitLab MR"
-msgstr "GitLab hisobi"
+msgid "Through a GitLab MR"
+msgstr ""
 
 #: stats/models.py:68
-msgid "GitHub PR"
+msgid "Through a GitHub PR"
 msgstr ""
 
 #: stats/models.py:79
@@ -3538,7 +3521,7 @@ msgstr ""
 "yangilanadi."
 
 #: stats/models.py:84 stats/models.py:659 stats/models.py:1106
-#: teams/models.py:125 vertimus/templates/vertimus/activity_summary.html:38
+#: teams/models.py:70 vertimus/templates/vertimus/activity_summary.html:38
 msgid "Description"
 msgstr "Ta'rif"
 
@@ -3894,73 +3877,73 @@ msgstr ""
 msgid "Branches"
 msgstr "Filiallar"
 
-#: stats/models.py:1521
+#: stats/models.py:1511
 msgid "Category name"
 msgstr "Turkum nomi"
 
-#: stats/models.py:1719 vertimus/admin.py:42 vertimus/models.py:102
+#: stats/models.py:1709 vertimus/admin.py:42 vertimus/models.py:102
 msgid "Domain"
 msgstr "Domen"
 
-#: stats/models.py:1720 stats/templates/release_detail.html:19
+#: stats/models.py:1710 stats/templates/release_detail.html:19
 #: stats/templates/stats_show.html:72 vertimus/admin.py:52
 #: vertimus/models.py:103
 msgid "Language"
 msgstr "Til"
 
-#: stats/models.py:1723
+#: stats/models.py:1713
 msgid "Full PO file"
 msgstr "Toʻliq PO fayli"
 
-#: stats/models.py:1726
+#: stats/models.py:1716
 msgid "Partial PO file"
 msgstr "Qisman PO fayli"
 
-#: stats/models.py:1832 stats/models.py:2441
+#: stats/models.py:1822 stats/models.py:2431
 #, python-format
 msgid "%(lang_name)s (%(lang_locale)s)"
 msgstr "%(lang_name)s (%(lang_locale)s)"
 
-#: stats/models.py:1892
+#: stats/models.py:1882
 #, python-format
 msgid "%(count)s message"
 msgid_plural "%(count)s messages"
 msgstr[0] "%(count)s xabar"
 msgstr[1] "%(count)s ta xabarlar"
 
-#: stats/models.py:1893
+#: stats/models.py:1883
 #, python-format
 msgid "%(count)s word"
 msgid_plural "%(count)s words"
 msgstr[0] "%(count)s soʻz"
 msgstr[1] "%(count)s ta soʻzlar"
 
-#: stats/models.py:1895
+#: stats/models.py:1885
 #, python-format
 msgid "%(count)s figure"
 msgid_plural "%(count)s figures"
 msgstr[0] "%(count)s raqam"
 msgstr[1] "%(count)s ta raqamlar"
 
-#: stats/models.py:1896
+#: stats/models.py:1886
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s, %(figures)s)"
 msgstr "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 
-#: stats/models.py:1902
+#: stats/models.py:1892
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s)"
 msgstr "(%(messages)s — %(words)s) — %(updated)s"
 
-#: stats/models.py:1907
+#: stats/models.py:1897
 #, fuzzy
 #| msgid "Unable to summarise the POT statistics, the file is missing."
 msgid "Unable to summarize the POT statistics, the file is missing."
 msgstr "POT statistikasini umumlashtirib boʻlmadi, fayl yoʻq."
 
-#: stats/models.py:2068
+#: stats/models.py:2058
 msgid ""
 "Error while updating statistics using “%(file_path)”. The file may not exist"
 " on disk or is unreadable."
@@ -3968,7 +3951,7 @@ msgstr ""
 "“%(file_path)” yordamida statistikani yangilashda xatolik yuz berdi. Fayl "
 "diskda mavjud boʻlmasligi yoki oʻqib boʻlmaydigan boʻlishi mumkin."
 
-#: stats/models.py:2089
+#: stats/models.py:2079
 msgid ""
 "The original file with strings to translate (.pot) has been updated by the "
 "software developers, and the changes have to be merged to the translation "
@@ -4073,51 +4056,45 @@ msgstr ""
 "Andoza faylini (POT) yaratib boʻlmadi. POT yaratish jarayonining oʻzi "
 "muvaffaqiyatsiz tugadi, lekin POT fayli diskda mavjud emas."
 
-#: stats/services/refresh/service.py:55 stats/services/refresh/service.py:109
+#: stats/services/refresh/service.py:55 stats/services/refresh/service.py:105
 msgid "The refresh process has not started yet."
 msgstr ""
 
-#: stats/services/refresh/service.py:103
+#: stats/services/refresh/service.py:99
 msgid "No refresh in progress."
 msgstr ""
 
-#: stats/services/refresh/service.py:105
+#: stats/services/refresh/service.py:101
 msgid "The refresh process was aborted."
 msgstr ""
 
-#: stats/services/refresh/service.py:107
+#: stats/services/refresh/service.py:103
 msgid "The refresh process failed."
 msgstr ""
 
-#: stats/services/refresh/service.py:112
+#: stats/services/refresh/service.py:108
 #, python-format
 msgid "Processing domain “%(domain)s”: %(step)s"
 msgstr ""
 
-#: stats/services/refresh/service.py:118
+#: stats/services/refresh/service.py:114
 #, fuzzy
 #| msgid "The role of the user has been changed successfully."
 msgid "The refresh process completed successfully."
 msgstr "Foydalanuvchining roli muvaffaqiyatli oʻzgartirildi."
 
-#: stats/services/refresh/service.py:209
-msgid ""
-"Some errors occurred while refreshing statistics and statistics generation "
-"was aborted. Please read the details on the module’s domain."
-msgstr ""
-
-#: stats/services/refresh/service.py:281
-#: stats/services/refresh/tests/test_service.py:265
+#: stats/services/refresh/service.py:278
+#: stats/services/refresh/tests/test_service.py:266
 msgid "The task failed without a specific error message."
 msgstr ""
 
-#: stats/services/refresh/service.py:315
+#: stats/services/refresh/service.py:312
 msgid ""
 "An error occurred while starting the refresh process. Please try again later"
 " or if the problem persists, contact the site administrator."
 msgstr ""
 
-#: stats/services/refresh/service.py:325
+#: stats/services/refresh/service.py:322
 msgid ""
 "The refresh service is currently unavailable. Please try again later or if "
 "the problem persists, contact the site administrator."
@@ -4504,31 +4481,37 @@ msgstr ""
 "majburlamoqchisiz. Bu harakat bir necha daqiqa vaqt olishi mumkin. Davom "
 "etishni xohlaysizmi?"
 
-#: stats/templates/module_detail.html:85
+#: stats/templates/module_detail.html:87
+#, fuzzy
+#| msgid "Homepage"
+msgid "Project Homepage"
+msgstr "Bosh sahifa"
+
+#: stats/templates/module_detail.html:99
 #, fuzzy
 #| msgid "Updated at"
 msgid "Update module"
 msgstr "Yangilandi"
 
-#: stats/templates/module_detail.html:118
+#: stats/templates/module_detail.html:109
 msgid "Maintainers"
 msgstr "Ta'minotchilar"
 
-#: stats/templates/module_detail.html:129
+#: stats/templates/module_detail.html:120
 msgid "Bug reporting"
 msgstr "Xatolar haqida xabar berish"
 
-#: stats/templates/module_detail.html:132
+#: stats/templates/module_detail.html:123
 msgid "Sorry, no known locations to report bugs for this module."
 msgstr ""
 "Kechirasiz, ushbu modul uchun xatoliklar haqida xabar beradigan maʼlum joy "
 "yoʻq."
 
-#: stats/templates/module_detail.html:135
+#: stats/templates/module_detail.html:126
 msgid "Show existing i18n and l10n bugs"
 msgstr "Mavjud i18n va l10n xatolarini koʻrsatish"
 
-#: stats/templates/module_detail.html:138
+#: stats/templates/module_detail.html:129
 msgid "Report a bug"
 msgstr "Xato haqida xabar bering"
 
@@ -4751,12 +4734,12 @@ msgid "Older Releases"
 msgstr "Eski nashrlar"
 
 #: stats/templates/stats_show.html:21
-#: vertimus/templates/vertimus/vertimus_detail.html:133
+#: vertimus/templates/vertimus/vertimus_detail.html:125
 msgid "Download template file (POT)"
 msgstr "Shablon faylini yuklab oling (POT)"
 
 #: stats/templates/stats_show.html:23
-#: vertimus/templates/vertimus/vertimus_detail.html:135
+#: vertimus/templates/vertimus/vertimus_detail.html:127
 msgid "Template file (POT)"
 msgstr "Shablon fayli (POT)"
 
@@ -4820,7 +4803,7 @@ msgstr ""
 msgid "Unable to create GitLab issue."
 msgstr ""
 
-#: stats/views.py:78 teams/views.py:96
+#: stats/views.py:78
 msgid ""
 "The return format type you indicated is not allowed. Allowed values are: "
 "html, json, xml."
@@ -4841,104 +4824,108 @@ msgid ""
 "manually."
 msgstr ""
 
-#: teams/admin.py:67 teams/models.py:266
+#: teams/admin.py:67 teams/models.py:173
 msgid "Team"
 msgstr "Jamoa"
 
-#: teams/forms.py:42 teams/models.py:256
+#: teams/forms.py:43 teams/models.py:163
 #: teams/templates/teams/team_base.html:43
 msgid "Coordinator"
 msgstr "Muvofiqlashtiruvchi"
 
-#: teams/forms.py:80
+#: teams/forms.py:44
+msgid "Only active team members are listed."
+msgstr ""
+
+#: teams/forms.py:82
 #, python-format
 msgid "Your role in the %(team)s team has been changed to %(role)s"
 msgstr "%(team)s jamoasidagi rolingiz %(role)s ga oʻzgartirildi"
 
-#: teams/forms.py:109
+#: teams/forms.py:111
 #, python-format
 msgid "You have been removed from the %(team)s team"
 msgstr "Siz %(team)s jamoasidan olib tashlangansiz"
 
-#: teams/forms.py:126
+#: teams/forms.py:128
 msgid "Mark as Inactive"
 msgstr "Faol emas deb belgilang"
 
-#: teams/forms.py:126
+#: teams/forms.py:128
 msgid "Remove From Team"
 msgstr "Jamoadan olib tashlash"
 
-#: teams/models.py:122
+#: teams/models.py:67
 msgid "The name of the team, as a locale name (ie: fr, en)."
 msgstr "Mahalliy nom sifatida jamoa nomi (ya'ni: fr, en)."
 
-#: teams/models.py:127
+#: teams/models.py:72
 msgid ""
 "The description of the team, it is generally the natural name of the "
 "language, such a French or English."
 msgstr ""
 "Jamoaning tavsifi, odatda, bu tilning tabiiy nomi, frantsuz yoki ingliz."
 
-#: teams/models.py:131
+#: teams/models.py:76
 msgid "Use workflow"
 msgstr "Ish jarayonidan foydalaning"
 
-#: teams/models.py:131
+#: teams/models.py:76
 msgid "Whether the team uses the GNOME translation workflow or not."
 msgstr "Jamoa GNOME tarjima ish jarayonidan foydalanadimi yoki yoʻqmi."
 
-#: teams/models.py:134
+#: teams/models.py:79
 msgid "Presentation"
 msgstr "Taqdimot"
 
-#: teams/models.py:134
+#: teams/models.py:79
 msgid "A presentation of the team, its goals, its members…"
 msgstr "Jamoa taqdimoti, uning maqsadlari, a'zolari..."
 
-#: teams/models.py:136
+#: teams/models.py:81
 msgid "Members"
 msgstr "Aʼzolar"
 
-#: teams/models.py:138
+#: teams/models.py:83
 msgid "Mailing list"
 msgstr "Pochta roʻyxati"
 
-#: teams/models.py:139
+#: teams/models.py:84
 msgid "URL to subscribe"
 msgstr "Obuna boʻlish uchun URL"
 
-#: teams/models.py:240
+#: teams/models.py:147
 #, python-format
 msgid "No team for locale %s"
 msgstr "%s tili boʻyicha jamoa yoʻq"
 
-#: teams/models.py:253
+#: teams/models.py:160
 msgid "Translator"
 msgstr "Tarjimon"
 
-#: teams/models.py:254
+#: teams/models.py:161
 msgid "Reviewer"
 msgstr "Taqrizchi"
 
-#: teams/models.py:255
+#: teams/models.py:162
 msgid "Committer"
 msgstr "Committer"
 
-#: teams/models.py:267 vertimus/admin.py:61 vertimus/admin.py:103
+#: teams/models.py:174 vertimus/admin.py:61 vertimus/admin.py:103
 #: vertimus/models.py:109 vertimus/models.py:519
 msgid "Person"
 msgstr "Shaxs"
 
-#: teams/models.py:268
+#: teams/models.py:175
 msgid "Role"
 msgstr "Rol"
 
 #. Translators: this refers to a person being active in a team or not
-#: teams/models.py:272
+#: teams/models.py:179
 msgid "Is active"
 msgstr "Faol emas"
 
-#: teams/models.py:274
+#: teams/models.py:181
 #, fuzzy
 #| msgid ""
 #| "Whether the person is active in the team or not. Account that have no recent"
@@ -4955,30 +4942,30 @@ msgstr ""
 msgid "Last login on %(last_login)s"
 msgstr "Oxirgi kirish sanasi: %(last_login)s"
 
-#: teams/templates/teams/_includes/team_small_block.html:18
+#: teams/templates/teams/_includes/team_small_block.html:19
 #, python-format
 msgid "Coordinated by %(people_list)s"
 msgstr "Muvofiqlashtiruvchi: %(people_list)s"
 
-#: teams/templates/teams/_includes/team_small_block.html:22
+#: teams/templates/teams/_includes/team_small_block.html:23
 msgid "No coordinator"
 msgstr "Muvofiqlashtiruvchi yoʻq"
 
-#: teams/templates/teams/_includes/team_small_block.html:30
+#: teams/templates/teams/_includes/team_small_block.html:31
 #, python-format
 msgid "You already are a member of the %(team_name)s team."
 msgstr "Siz allaqachon %(team_name)s jamoasi aʼzosisiz."
 
-#: teams/templates/teams/_includes/team_small_block.html:30
+#: teams/templates/teams/_includes/team_small_block.html:31
 msgid "Member"
 msgstr "Aʼzo"
 
-#: teams/templates/teams/_includes/team_small_block.html:33
+#: teams/templates/teams/_includes/team_small_block.html:34
 #, python-format
 msgid "We suggest you to become a member of the %(team_name)s team."
 msgstr "Sizga %(team_name)s jamoasi aʼzosi boʻlishni tavsiya qilamiz."
 
-#: teams/templates/teams/_includes/team_small_block.html:33
+#: teams/templates/teams/_includes/team_small_block.html:34
 msgid "Suggestion"
 msgstr "Taklif"
 
@@ -5093,41 +5080,41 @@ msgstr ""
 "GNOME tarjima loyihasining %(lang)s jamoasi tomonidan bajarilgan oxirgi "
 "harakatlar"
 
-#: teams/templates/teams/team_detail.html:59
+#: teams/templates/teams/team_detail.html:60
 #, python-format
 msgid "Leave the “<b>%(language)s</b>” team"
 msgstr "“ <b>%(language)s</b> ” jamoasini tark eting"
 
-#: teams/templates/teams/team_detail.html:63
+#: teams/templates/teams/team_detail.html:64
 msgid "By leaving the team, you will:"
 msgstr "Jamoani tark etish orqali siz:"
 
-#: teams/templates/teams/team_detail.html:65
+#: teams/templates/teams/team_detail.html:66
 msgid "Stop being able to contribute."
 msgstr "Hissa qoʻshishni toʻxtating."
 
-#: teams/templates/teams/team_detail.html:66
+#: teams/templates/teams/team_detail.html:67
 msgid "Lose the right to translate."
 msgstr "Tarjima qilish huquqini yoʻqoting."
 
-#: teams/templates/teams/team_detail.html:67
+#: teams/templates/teams/team_detail.html:68
 msgid "Lose your rights as a reviewer or committer."
 msgstr "Taqrizchi yoki komitter sifatida huquqlaringizni yoʻqoting."
 
-#: teams/templates/teams/team_detail.html:76
+#: teams/templates/teams/team_detail.html:77
 msgid "Leave the team"
 msgstr "Jamoani tark eting"
 
-#: teams/templates/teams/team_detail.html:88
+#: teams/templates/teams/team_detail.html:89
 msgid "Join"
 msgstr "Qoʻshilish"
 
-#: teams/templates/teams/team_detail.html:92
+#: teams/templates/teams/team_detail.html:93
 #, python-format
 msgid "%(language)s Translation Team"
 msgstr "%(language)s Tarjimon jamoasi"
 
-#: teams/templates/teams/team_detail.html:106
+#: teams/templates/teams/team_detail.html:107
 msgid ""
 "There is currently no established team for this language. See <a "
 "href=\"https://wiki.gnome.org/TranslationProject/StartingATeam\">the GTP "
@@ -5139,50 +5126,40 @@ msgstr ""
 "href=\"https://wiki.gnome.org/TranslationProject/StartingATeam\">GTP Wiki-"
 "ga</a> qarang."
 
-#: teams/templates/teams/team_detail.html:121
+#: teams/templates/teams/team_detail.html:119
 msgid "Plural forms:"
 msgstr "Koʻplik shakllari:"
 
-#: teams/templates/teams/team_detail.html:122
+#: teams/templates/teams/team_detail.html:120
 msgid "Current activities"
 msgstr "Joriy faoliyat"
 
-#: teams/templates/teams/team_detail.html:133
+#: teams/templates/teams/team_detail.html:131
 msgid "Show/hide archived translations"
 msgstr "Arxivlangan tarjimalarni koʻrsatish/yashirish"
 
-#: teams/templates/teams/team_detail.html:138
+#: teams/templates/teams/team_detail.html:136
 msgid "Archives"
 msgstr "Arxivlar"
 
-#: teams/templates/teams/team_detail.html:159
+#: teams/templates/teams/team_detail.html:157
 msgid "Show or hide inactive team members"
 msgstr "Nofaol jamoa aʼzolarini koʻrsatish yoki yashirish"
 
-#: teams/templates/teams/team_detail.html:177
+#: teams/templates/teams/team_detail.html:175
 msgid "Apply modifications"
 msgstr "Oʻzgartirishlarni qoʻllash"
 
-#: teams/templates/teams/team_edit.html:17
+#: teams/templates/teams/team_edit.html:16
 #, python-format
 msgid "%(lang)s Translation Team"
 msgstr "%(lang)s Tarjimon jamoasi"
 
-#: teams/templates/teams/team_edit.html:43
-msgid "This team is using the translation workflow"
-msgstr "Bu jamoa tarjima ish jarayonidan foydalanmoqda"
-
-#: teams/templates/teams/team_edit.html:53
-msgid ""
-"This content may use <a "
-"href='https://en.wikipedia.org/wiki/Markdown'>Markdown</a> syntax"
-msgstr ""
-"Bu kontent <a href='https://en.wikipedia.org/wiki/Markdown'>Markdown</a> "
-"sintaksisidan foydalanishi mumkin"
-
-#: teams/templates/teams/team_edit.html:58
-msgid "Save"
-msgstr "Saqlash"
+#: teams/templates/teams/team_edit.html:23
+#, fuzzy
+#| msgid "Updated at"
+msgid "Update Team"
+msgstr "Yangilandi"
 
 #: teams/templates/teams/team_list.html:4
 #: teams/templates/teams/team_list.html:8
@@ -5193,57 +5170,57 @@ msgstr "GNOME tarjima jamoalari"
 msgid "Select a team below to see more information about it:"
 msgstr "U haqida koʻproq maʼlumot olish uchun quyidagi jamoani tanlang:"
 
-#: teams/templates/teams/team_list.html:16
+#: teams/templates/teams/team_list.html:17
 msgid "All Teams"
 msgstr "Barcha Jamoalar"
 
-#: teams/templates/teams/team_list.html:26
+#: teams/templates/teams/team_list.html:27
 msgid "There are currently no translation teams in GNOME. :("
 msgstr "Hozirda GNOME-da tarjima guruhlari mavjud emas. :("
 
 # Hech boʻlmaganda transliteratsiya qilinishi kerak
-#: teams/views.py:143
+#: teams/views.py:118
 msgid "Committers"
 msgstr "Komitterlar"
 
-#: teams/views.py:146
+#: teams/views.py:121
 msgid "No committers"
 msgstr "Kommitterlar yoʻq"
 
-#: teams/views.py:150
+#: teams/views.py:125
 msgid "Reviewers"
 msgstr "Taqrizchilar"
 
-#: teams/views.py:153
+#: teams/views.py:128
 msgid "No reviewers"
 msgstr "Taqrizchilar yoʻq"
 
-#: teams/views.py:157
+#: teams/views.py:132
 msgid "Translators"
 msgstr "Tarjimonlar"
 
-#: teams/views.py:160
+#: teams/views.py:135
 msgid "No translators"
 msgstr "Tarjimonlar yoʻq"
 
-#: teams/views.py:164
+#: teams/views.py:139
 msgid "Inactive members"
 msgstr "Faol boʻlmagan aʼzolar"
 
-#: teams/views.py:167
+#: teams/views.py:142
 msgid "No inactive members"
 msgstr "Faol boʻlmagan aʼzolar yoʻq"
 
-#: teams/views.py:234
+#: teams/views.py:220
 msgid "The role of the user has been changed successfully."
 msgstr "Foydalanuvchining roli muvaffaqiyatli oʻzgartirildi."
 
-#: teams/views.py:238
+#: teams/views.py:224
 #, python-format
 msgid "Failed to notify %(username)s that their role has changed."
 msgstr "%(username)s oʻz roli oʻzgargani haqida xabar berib boʻlmadi."
 
-#: teams/views.py:246
+#: teams/views.py:232
 #, python-format
 msgid ""
 "An error occurred while changing the role of the user. Errors were: "
@@ -5251,11 +5228,11 @@ msgid ""
 msgstr ""
 "Foydalanuvchi rolini oʻzgartirishda xatolik yuz berdi. Xatolar: %(errors)s"
 
-#: teams/views.py:267
+#: teams/views.py:253
 msgid "The team details have been updated successfully."
 msgstr "Jamoa tafsilotlari muvaffaqiyatli yangilandi."
 
-#: teams/views.py:273
+#: teams/views.py:259
 #, python-format
 msgid ""
 "An error occurred while updating the team details. Errors were: %(errors)s"
@@ -5922,7 +5899,7 @@ msgstr "Birlashtirilgan fayl"
 msgid "The file merged with the new POT after the upload."
 msgstr "Yuklashdan keyin fayl yangi POT bilan birlashtirildi."
 
-#: vertimus/models.py:569 vertimus/templates/vertimus/vertimus_detail.html:274
+#: vertimus/models.py:569 vertimus/templates/vertimus/vertimus_detail.html:266
 msgid "deleted account"
 msgstr "oʻchirilgan hisob"
 
@@ -6123,81 +6100,83 @@ msgstr ""
 msgid "Module Translation: %(name)s"
 msgstr "Modul tarjimasi: %(name)s"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:70
+#: vertimus/templates/vertimus/vertimus_detail.html:66
 msgid "Interface"
 msgstr "Interfeys"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:89
+#: vertimus/templates/vertimus/vertimus_detail.html:80
 #, fuzzy
 #| msgid ""
-#| "The repository %s is read-only. It is not possible to create commits."
+#| "This module is read-only and no translation can be submitted. This is "
+#| "usually because the repository URL is not writable."
 msgid ""
-"This branch is archived, therefore read-only, it will not be possible to "
-"commit changes."
+"This branch is archived and no new translation can be submitted. It is only "
+"kept for statistical purposes."
 msgstr ""
-"%s repozitori faqat oʻqish uchun moʻljallangan. Majburiyatlarni yaratish "
-"mumkin emas."
+"Ushbu modul faqat oʻqish uchun moʻljallangan va hech qanday tarjimani "
+"yuborib boʻlmaydi. Buning sababi, odatda, ombor URL manzilini yozish mumkin "
+"emas."
 
-#: vertimus/templates/vertimus/vertimus_detail.html:99
+#: vertimus/templates/vertimus/vertimus_detail.html:89
 msgid "Used in release(s):"
 msgstr "Chiqarish(lar)da foydalanilgan:"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:107
+#: vertimus/templates/vertimus/vertimus_detail.html:97
 msgid "Expand or collapse all"
 msgstr "Hammasini yoyish yoki yopish"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:147
+#: vertimus/templates/vertimus/vertimus_detail.html:139
 msgid ""
 "The translation file (PO) that will be the starting point of the translation"
 msgstr "Tarjimaning boshlangʻich nuqtasi boʻladigan tarjima fayli (PO)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:147
+#: vertimus/templates/vertimus/vertimus_detail.html:139
 msgid "Download current translation file (PO) as stored in the repository"
 msgstr "Joriy tarjima faylini (PO) omborda saqlangan tarzda yuklab oling"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:151
+#: vertimus/templates/vertimus/vertimus_detail.html:143
 msgid "File to translate (PO)"
 msgstr "Tarjima qilinadigan fayl (PO)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:153
+#: vertimus/templates/vertimus/vertimus_detail.html:145
 msgid "Current translated file (PO)"
 msgstr "Joriy tarjima qilingan fayl (PO)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:158
+#: vertimus/templates/vertimus/vertimus_detail.html:150
 msgid "Current translation with inline diffs for fuzzy strings"
 msgstr "Loyqa satrlar uchun inline farqlari bilan joriy tarjima"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:159
+#: vertimus/templates/vertimus/vertimus_detail.html:151
 msgid "Icons to show current translation with inline diffs for fuzzy strings"
 msgstr ""
 "Joriy tarjimani noaniq satrlar uchun inline farqlari bilan koʻrsatadigan "
 "piktogrammalar"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:160
+#: vertimus/templates/vertimus/vertimus_detail.html:152
 msgid "Differences for fuzzy strings"
 msgstr "Loyqa satrlar uchun farqlar"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:165
-#: vertimus/templates/vertimus/vertimus_detail.html:301
+#: vertimus/templates/vertimus/vertimus_detail.html:157
+#: vertimus/templates/vertimus/vertimus_detail.html:293
 msgid "Quality checks"
 msgstr "Sifat tekshiruvlari"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:167
+#: vertimus/templates/vertimus/vertimus_detail.html:159
 msgid "Quality check"
 msgstr "Sifatni tekshirish"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:176
+#: vertimus/templates/vertimus/vertimus_detail.html:168
 msgid ""
 "Download current reduced translation file (PO) as stored in the repository"
 msgstr ""
 "Repozitariyda saqlangan joriy qisqartirilgan tarjima faylini (PO) yuklab "
 "oling"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:178
+#: vertimus/templates/vertimus/vertimus_detail.html:170
 msgid "Current reduced translated file (PO)"
 msgstr "Hozirgi qisqartirilgan tarjima fayli (PO)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:196
+#: vertimus/templates/vertimus/vertimus_detail.html:188
 msgid ""
 "Another branch for this module has ongoing activity. There should only be "
 "activity in one branch at a time. This other branch is:"
@@ -6211,7 +6190,7 @@ msgstr[1] ""
 "Ushbu modul uchun boshqa bir qator faoliyatlar mavjud. Faoliyat faqat bitta "
 "bo‘limda bir vaqtda bo‘lishi kerak. Bu boshqa bo‘limlar:"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:205
+#: vertimus/templates/vertimus/vertimus_detail.html:197
 msgid ""
 "Activity in multiple branches at once results in duplicated work and "
 "divergences. If it’s relevant, at the end of a flow, committers shall apply "
@@ -6221,7 +6200,7 @@ msgstr ""
 "farqlarga olib keladi. Agar bu tegishli boʻlsa, oqim oxirida komitentlar bir"
 " filialdan boshqasiga oʻzgartirishlarni qoʻllashlari kerak."
 
-#: vertimus/templates/vertimus/vertimus_detail.html:211
+#: vertimus/templates/vertimus/vertimus_detail.html:203
 #, python-format
 msgid ""
 "There is currently no translation for this module branch yet. You can start "
@@ -6232,67 +6211,67 @@ msgstr ""
 "primary\" href=\"%(po_url)s\">Andoza faylini yuklab olib</a> , uni ushbu ish"
 " jarayoniga qayta yuklash orqali tarjima qilishni boshlashingiz mumkin."
 
-#: vertimus/templates/vertimus/vertimus_detail.html:236
+#: vertimus/templates/vertimus/vertimus_detail.html:228
 msgid "Actions"
 msgstr "Amallar"
 
 #. Translators: human_level is an ordinal expression ('1st',' 2nd',...)
 #. which should be localized in Django itself
-#: vertimus/templates/vertimus/vertimus_detail.html:242
+#: vertimus/templates/vertimus/vertimus_detail.html:234
 #, python-format
 msgid "Archived Actions (%(human_level)s archived series)"
 msgstr "Arxiv qilingan harakatlar (%(human_level)s arxiv qilingan seriyalar)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:244
+#: vertimus/templates/vertimus/vertimus_detail.html:236
 msgid "(Return to current actions)"
 msgstr "(Joriy harakatlarga qaytish)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:249
+#: vertimus/templates/vertimus/vertimus_detail.html:241
 msgid "(Previous action history)"
 msgstr "(Avvalgi harakatlar tarixi)"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:277
-#: vertimus/templates/vertimus/vertimus_detail.html:282
+#: vertimus/templates/vertimus/vertimus_detail.html:269
+#: vertimus/templates/vertimus/vertimus_detail.html:274
 msgid "Y-m-d g:i a O"
 msgstr "Y-m-d g:i a O"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:290
+#: vertimus/templates/vertimus/vertimus_detail.html:282
 msgid "Link to this comment"
 msgstr "Ushbu izohga havola"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:307
+#: vertimus/templates/vertimus/vertimus_detail.html:299
 msgid "This message was sent to the mailing list"
 msgstr "Ushbu xabar pochta roʻyxatiga yuborildi"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:326
+#: vertimus/templates/vertimus/vertimus_detail.html:318
 msgid "Submitted file"
 msgstr "Yuborilgan fayl"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:334
+#: vertimus/templates/vertimus/vertimus_detail.html:326
 msgid "Submitted file merged with development changes"
 msgstr "Yuborilgan fayl ishlab chiqish oʻzgarishlari bilan birlashtirildi"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:342
+#: vertimus/templates/vertimus/vertimus_detail.html:334
 msgid "User Guide Index"
 msgstr "Foydalanuvchi uchun qoʻllanma indeksi"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:346
+#: vertimus/templates/vertimus/vertimus_detail.html:338
 msgid "Build help"
 msgstr "Yordam yaratish"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:351
+#: vertimus/templates/vertimus/vertimus_detail.html:343
 msgid "Compare to:"
 msgstr "Taqqoslash:"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:371
+#: vertimus/templates/vertimus/vertimus_detail.html:363
 msgid "No current actions."
 msgstr "Joriy harakatlar mavjud emas."
 
-#: vertimus/templates/vertimus/vertimus_detail.html:375
+#: vertimus/templates/vertimus/vertimus_detail.html:367
 msgid "New Action"
 msgstr "Yangi amal"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:379
+#: vertimus/templates/vertimus/vertimus_detail.html:371
 #, python-format
 msgid ""
 "You need <a href=\"%(login_url)s\">to be authenticated</a> and member of the"
@@ -6301,11 +6280,11 @@ msgstr ""
 "Siz <a href=\"%(login_url)s\">autentifikatsiya qilingan va %(team_name)s "
 "jamoasi aʼzosi boʻlishingiz</a> kerak."
 
-#: vertimus/templates/vertimus/vertimus_detail.html:414
+#: vertimus/templates/vertimus/vertimus_detail.html:406
 msgid "Submit"
 msgstr "Yuborish"
 
-#: vertimus/templates/vertimus/vertimus_detail.html:422
+#: vertimus/templates/vertimus/vertimus_detail.html:414
 msgid "This team is not using the translation workflow."
 msgstr "Bu jamoa tarjima ish jarayonidan foydalanmayapti."
 
@@ -6423,6 +6402,26 @@ msgstr ""
 #~ msgid "GNOME Release Notes"
 #~ msgstr "GNOME reliz yozuvlari"
 
+#~ msgid ""
+#~ "Linux application sandboxing and distribution framework. To submit your "
+#~ "translation, <a href=\"https://github.com/flatpak/flatpak/pulls\">create a "
+#~ "pull request</a>."
+#~ msgstr ""
+#~ "Linux ilovalarini sinovdan oʻtkazish va tarqatish tizimi. Tarjimangizni "
+#~ "yuborish uchun <a href=\"https://github.com/flatpak/flatpak/pulls\">tortib "
+#~ "olish soʻrovini yarating</a> ."
+
+#~ msgid ""
+#~ "This module requires <a "
+#~ "href=\"https://gitlab.gnome.org/GNOME/glib/-/merge_requests\">creating a "
+#~ "pull request</a> to submit translations. Don’t forget to provide a link to "
+#~ "this workflow as proof that the translation has been reviewed."
+#~ msgstr ""
+#~ "Ushbu modul tarjimalarni yuborish uchun <a "
+#~ "href=\"https://gitlab.gnome.org/GNOME/glib/-/merge_requests\">tortish "
+#~ "soʻrovini yaratishni</a> talab qiladi. Tarjima koʻrib chiqilganligining "
+#~ "isboti sifatida ushbu ish jarayoniga havolani taqdim etishni unutmang."
+
 #~ msgid "GNOME 3.38 (old stable)"
 #~ msgstr "GNOME 3.38 (eski barqaror)"
 
@@ -6443,6 +6442,9 @@ msgstr ""
 #, python-brace-format
 #~ msgid "Unable to update branch: {error}"
 #~ msgstr "Filialni yangilab boʻlmadi: {error}"
+
+#~ msgid "Save"
+#~ msgstr "Saqlash"
 
 #~ msgid "Sorry, you’re not allowed to edit this module’s branches"
 #~ msgstr "Kechirasiz, sizda ushbu modul boʻlimlarini tahrirlash ruxsati yoʻq"
@@ -6468,6 +6470,24 @@ msgstr ""
 #~ msgstr ""
 #~ "“%(module)s” modulining “%(branch)s” filiali uchun statistika muvaffaqiyatli"
 #~ " yangilandi."
+
+#~ msgid "This team is using the translation workflow"
+#~ msgstr "Bu jamoa tarjima ish jarayonidan foydalanmoqda"
+
+#~ msgid ""
+#~ "This content may use <a "
+#~ "href='https://en.wikipedia.org/wiki/Markdown'>Markdown</a> syntax"
+#~ msgstr ""
+#~ "Bu kontent <a href='https://en.wikipedia.org/wiki/Markdown'>Markdown</a> "
+#~ "sintaksisidan foydalanishi mumkin"
+
+#, fuzzy
+#~ msgid ""
+#~ "This branch is archived, therefore read-only, it will not be possible to "
+#~ "commit changes."
+#~ msgstr ""
+#~ "%s repozitori faqat oʻqish uchun moʻljallangan. Majburiyatlarni yaratish "
+#~ "mumkin emas."
 
 #~ msgid ""
 #~ "Committed translations are updated manually on l10n.gnome.org from time to "

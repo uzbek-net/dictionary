@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
-"POT-Creation-Date: 2026-01-12 12:17+0000\n"
+"POT-Creation-Date: 2026-01-16 12:46+0000\n"
 "PO-Revision-Date: 2025-04-04 21:19+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -3757,7 +3757,7 @@ msgstr "Boshqa toifalar"
 msgid "No App Data Found"
 msgstr "Ilova maʼlumotlari topilmadi"
 
-#: lib/gs-plugin-loader.c:2283
+#: lib/gs-plugin-loader.c:2312
 msgctxt "Distribution name"
 msgid "Unknown"
 msgstr "Nomaʼlum"
