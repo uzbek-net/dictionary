@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: snapshot main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/snapshot/-/issues\n"
-"POT-Creation-Date: 2026-01-03 21:43+0000\n"
+"POT-Creation-Date: 2026-01-31 15:53+0000\n"
 "PO-Revision-Date: 2025-04-03 08:41+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -131,7 +131,7 @@ msgid "Camera's gallery viewer"
 msgstr "Kamera galereyasi tomoshabin"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/resources/org.gnome.Snapshot.metainfo.xml.in.in:251
+#: data/resources/org.gnome.Snapshot.metainfo.xml.in.in:260
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hieroglyphic main\n"
 "Report-Msgid-Bugs-To: https://github.com/FineFindus/Hieroglyphic/issues\n"
-"POT-Creation-Date: 2025-12-24 11:35+0000\n"
+"POT-Creation-Date: 2026-01-28 13:35+0000\n"
 "PO-Revision-Date: 2025-10-10 15:35+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -161,7 +161,7 @@ msgstr "Asosiy oyna"
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
-#: src/window.rs:392
+#: src/window.rs:393
 #, rust-format
 msgid "Copied “{}”"
 msgstr "Nusxalangan \"{}\""

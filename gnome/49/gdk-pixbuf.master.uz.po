@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdk-pixbuf/issues/new\n"
-"POT-Creation-Date: 2025-10-07 17:02+0000\n"
+"POT-Creation-Date: 2026-01-29 06:08+0000\n"
 "PO-Revision-Date: 2025-04-07 08:52+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.6\n"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:190 gdk-pixbuf/gdk-pixbuf-io.c:1216
-#: gdk-pixbuf/gdk-pixbuf-io.c:1489
+#: gdk-pixbuf/gdk-pixbuf-animation.c:190 gdk-pixbuf/gdk-pixbuf-io.c:1224
+#: gdk-pixbuf/gdk-pixbuf-io.c:1497
 #, c-format
 msgid "Failed to open file “%s”: %s"
 msgstr "“%s” faylini ochib boʻlmadi: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:203 gdk-pixbuf/gdk-pixbuf-io.c:1077
+#: gdk-pixbuf/gdk-pixbuf-animation.c:203 gdk-pixbuf/gdk-pixbuf-io.c:1085
 #, c-format
 msgid "Image file “%s” contains no data"
 msgstr "“%s” rasm faylida maʼlumotlar yoʻq"
@@ -38,8 +38,8 @@ msgstr ""
 "'%s' : animatsiyasini yuklab boʻlmadi: sababi nomaʼlum, balki fayl buzuq "
 "boʻlishi mumkin"
 
-#: gdk-pixbuf/gdk-pixbuf-animation.c:309 gdk-pixbuf/gdk-pixbuf-io.c:1252
-#: gdk-pixbuf/gdk-pixbuf-io.c:1541
+#: gdk-pixbuf/gdk-pixbuf-animation.c:309 gdk-pixbuf/gdk-pixbuf-io.c:1260
+#: gdk-pixbuf/gdk-pixbuf-io.c:1549
 #, c-format
 msgid ""
 "Failed to load image “%s”: reason not known, probably a corrupt image file"
@@ -120,12 +120,12 @@ msgstr "Piksel bayt"
 msgid "Readonly pixel data"
 msgstr "Faqat oʻqish uchun piksel ma'lumotlari"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:893
+#: gdk-pixbuf/gdk-pixbuf-io.c:901
 #, c-format
 msgid "Unable to load image-loading module: %s: %s"
 msgstr "Rasm yuklash modulini yuklab boʻlmadi: %s: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:911
+#: gdk-pixbuf/gdk-pixbuf-io.c:919
 #, c-format
 msgid ""
 "Image-loading module %s does not export the proper interface; perhaps it’s "
@@ -134,56 +134,56 @@ msgstr ""
 "Rasmni yuklash moduli %s tegishli interfeysni eksport qilmaydi; ehtimol u "
 "boshqa gdk-pixbuf versiyasidandir?"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:921 gdk-pixbuf/gdk-pixbuf-io.c:964
+#: gdk-pixbuf/gdk-pixbuf-io.c:929 gdk-pixbuf/gdk-pixbuf-io.c:972
 #, c-format
 msgid "Image type “%s” is not supported"
 msgstr "'%s' rasm turi qoʻllanilmaydi"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:1049
+#: gdk-pixbuf/gdk-pixbuf-io.c:1057
 #, c-format
 msgid "Couldn’t recognize the image file format for file “%s”"
 msgstr "'%s' faylidagi rasm formatini aniqlab boʻlmadi"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:1057
+#: gdk-pixbuf/gdk-pixbuf-io.c:1065
 msgid "Unrecognized image file format"
 msgstr "Nomaʼlum rasm formati"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:1263
+#: gdk-pixbuf/gdk-pixbuf-io.c:1271
 #, c-format
 msgid "Failed to load image “%s”: %s"
 msgstr "'%s' rasmi yuklanmadi: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2338 gdk-pixbuf/io-gdip-utils.c:840
+#: gdk-pixbuf/gdk-pixbuf-io.c:2346 gdk-pixbuf/io-gdip-utils.c:840
 #, c-format
 msgid "Error writing to image file: %s"
 msgstr "Rasm fayliga yozishda xatolik yuz berdi: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2380 gdk-pixbuf/gdk-pixbuf-io.c:2501
+#: gdk-pixbuf/gdk-pixbuf-io.c:2388 gdk-pixbuf/gdk-pixbuf-io.c:2509
 #, c-format
 msgid "This build of gdk-pixbuf does not support saving the image format: %s"
 msgstr ""
 "Ushbu gdk-pixbuf qurilmasi rasm formatini saqlashni qoʻllab-quvvatlamaydi: "
 "%s"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2411
+#: gdk-pixbuf/gdk-pixbuf-io.c:2419
 msgid "Insufficient memory to save image to callback"
 msgstr ""
 "Rasmni qayta qoʻngʻiroq qilish uchun saqlash uchun xotira yetarli emas"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2424
+#: gdk-pixbuf/gdk-pixbuf-io.c:2432
 msgid "Failed to open temporary file"
 msgstr "Vaqtinchalik faylni ochib boʻlmadi"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2447
+#: gdk-pixbuf/gdk-pixbuf-io.c:2455
 msgid "Failed to read from temporary file"
 msgstr "Vaqtinchalik fayldan oʻqib boʻlmadi"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2669
+#: gdk-pixbuf/gdk-pixbuf-io.c:2677
 #, c-format
 msgid "Failed to open “%s” for writing: %s"
 msgstr "'%s' faylini yozish uchun ochib boʻlmadi: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2695
+#: gdk-pixbuf/gdk-pixbuf-io.c:2703
 #, c-format
 msgid ""
 "Failed to close “%s” while writing image, all data may not have been saved: "
@@ -192,11 +192,11 @@ msgstr ""
 "Rasm yozish paytida “%s” yopilmadi, barcha maʼlumotlar saqlanmagan boʻlishi "
 "mumkin: %s"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:2929 gdk-pixbuf/gdk-pixbuf-io.c:2984
+#: gdk-pixbuf/gdk-pixbuf-io.c:2937 gdk-pixbuf/gdk-pixbuf-io.c:2992
 msgid "Insufficient memory to save image into a buffer"
 msgstr "Rasmni buferga saqlash uchun xotira yetishmaydi"
 
-#: gdk-pixbuf/gdk-pixbuf-io.c:3030
+#: gdk-pixbuf/gdk-pixbuf-io.c:3038
 msgid "Error writing to image stream"
 msgstr "Rasm oqimiga yozishda xatolik yuz berdi"
 

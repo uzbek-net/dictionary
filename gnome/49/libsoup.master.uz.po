@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libsoup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues/\n"
-"POT-Creation-Date: 2026-01-22 09:46+0000\n"
+"POT-Creation-Date: 2026-01-28 14:56+0000\n"
 "PO-Revision-Date: 2025-04-04 09:46+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -49,7 +49,7 @@ msgid "Cannot truncate SoupBodyInputStream"
 msgstr "SoupBodyInputStreamni kesib boʻlmadi"
 
 #: libsoup/http1/soup-client-message-io-http1.c:322
-#: libsoup/http1/soup-client-message-io-http1.c:775
+#: libsoup/http1/soup-client-message-io-http1.c:776
 #: libsoup/http2/soup-body-input-stream-http2.c:248
 #: libsoup/server/http1/soup-server-message-io-http1.c:417
 #: libsoup/server/http1/soup-server-message-io-http1.c:891
@@ -64,8 +64,8 @@ msgstr "HTTP javobini tahlil qilib boʻlmadi"
 msgid "Unrecognized HTTP response encoding"
 msgstr "Nomaʼlum HTTP javob kodlash usuli"
 
-#: libsoup/http1/soup-client-message-io-http1.c:734
-#: libsoup/http1/soup-client-message-io-http1.c:760
+#: libsoup/http1/soup-client-message-io-http1.c:735
+#: libsoup/http1/soup-client-message-io-http1.c:761
 #: libsoup/http2/soup-client-message-io-http2.c:1791
 #: libsoup/http2/soup-client-message-io-http2.c:1817
 msgid "Operation was cancelled"
@@ -83,7 +83,7 @@ msgstr "Mavjud soketni import qilib boʻlmadi: "
 msgid "Can’t import unconnected socket"
 msgstr "Ulanmagan soketni import qilib boʻlmadi"
 
-#: libsoup/server/soup-server.c:1238
+#: libsoup/server/soup-server.c:1239
 msgid "Can’t create a TLS server without a TLS certificate"
 msgstr "TLS sertifikatisiz TLS serverini yaratib boʻlmaydi"
 

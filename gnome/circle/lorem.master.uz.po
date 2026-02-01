@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lorem master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/design/lorem/-/issues\n"
-"POT-Creation-Date: 2026-01-10 15:19+0000\n"
+"POT-Creation-Date: 2026-01-30 19:56+0000\n"
 "PO-Revision-Date: 2025-10-10 18:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -32,6 +32,20 @@ msgstr "Toʻldiruvchi matnini yaratish"
 #: data/org.gnome.design.Lorem.desktop.in.in:10
 msgid "placeholder;"
 msgstr "toʻldiruvchi;"
+
+#: data/org.gnome.design.Lorem.gschema.xml.in:10
+#: data/org.gnome.design.Lorem.gschema.xml.in:11
+msgid "Default window width"
+msgstr "Odatiy oyna kengligi"
+
+#: data/org.gnome.design.Lorem.gschema.xml.in:15
+#: data/org.gnome.design.Lorem.gschema.xml.in:16
+msgid "Default window height"
+msgstr "Odatiy oyna balandligi"
+
+#: data/org.gnome.design.Lorem.gschema.xml.in:20
+msgid "Default window maximized behavior"
+msgstr "Odatiy oynaning maksimal xatti-harakatlari"
 
 #: data/org.gnome.design.Lorem.metainfo.xml.in.in:10
 msgid "Simple app to generate the well-known Lorem Ipsum placeholder text."
@@ -100,7 +114,7 @@ msgstr "Nusxalash"
 msgid "Main Menu"
 msgstr "Asosiy menyu"
 
-#: src/application.rs:121
+#: src/application.rs:113
 msgid "translator-credits"
 msgstr ""
 "BeMeritus <bemerituss@gmail.com>\n"
@@ -114,19 +128,10 @@ msgstr "Paragraflar"
 msgid "Words"
 msgstr "Soʻzlar"
 
-#: src/window.rs:209
+#: src/window.rs:243
 msgid "Selection copied"
 msgstr "Tanlov nusxalandi"
 
-#: src/window.rs:214
+#: src/window.rs:248
 msgid "Copied"
 msgstr "Nusxalangan"
-
-#~ msgid "Default window width"
-#~ msgstr "Odatiy oyna kengligi"
-
-#~ msgid "Default window height"
-#~ msgstr "Odatiy oyna balandligi"
-
-#~ msgid "Default window maximized behavior"
-#~ msgstr "Odatiy oynaning maksimal xatti-harakatlari"

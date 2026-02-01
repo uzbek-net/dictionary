@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-01-05 13:33+0000\n"
+"POT-Creation-Date: 2026-01-26 17:10+0000\n"
 "PO-Revision-Date: 2025-10-19 15:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -238,7 +238,7 @@ msgstr "Tizim qidiruvlarini qabul qiling va natijalarni yuboring"
 #: panels/system/users/cc-user-page.c:368
 #: panels/system/users/cc-user-page.c:755
 #: panels/wwan/cc-wwan-device-page.c:477
-#: subprojects/gvc/gvc-mixer-control.c:1872
+#: subprojects/gvc/gvc-mixer-control.c:1910
 msgid "Disabled"
 msgstr "Oʻchirilgan"
 
@@ -10525,7 +10525,7 @@ msgstr "Qidiruvni bekor qilish"
 
 #. translators:
 #. * The number of sound outputs on a particular device
-#: subprojects/gvc/gvc-mixer-control.c:1879
+#: subprojects/gvc/gvc-mixer-control.c:1917
 #, c-format
 msgid "%u Output"
 msgid_plural "%u Outputs"
@@ -10534,14 +10534,14 @@ msgstr[1] "%u Chiqishlar"
 
 #. translators:
 #. * The number of sound inputs on a particular device
-#: subprojects/gvc/gvc-mixer-control.c:1889
+#: subprojects/gvc/gvc-mixer-control.c:1927
 #, c-format
 msgid "%u Input"
 msgid_plural "%u Inputs"
 msgstr[0] "%u kiritish"
 msgstr[1] "%u Kirishlar"
 
-#: subprojects/gvc/gvc-mixer-control.c:2872
+#: subprojects/gvc/gvc-mixer-control.c:2910
 msgid "System Sounds"
 msgstr "Tizim tovushlari"
 

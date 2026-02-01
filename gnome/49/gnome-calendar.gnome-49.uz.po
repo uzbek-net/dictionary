@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-calendar/issues\n"
 "POT-Creation-Date: 2026-01-05 23:09+0000\n"
-"PO-Revision-Date: 2025-03-29 22:02+0500\n"
+"PO-Revision-Date: 2026-01-22 17:47+0500\n"
 "Last-Translator: Umidjon Almasov <umidjon@almasov.uz>\n"
 "Language-Team: Uzbek\n"
 "Language: uz\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #: data/org.gnome.Calendar.desktop.in.in:2
 #: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:13
@@ -741,7 +741,9 @@ msgstr "Mualliflik huquqi © 2012–%d Taqvim mualliflari"
 
 #: src/gui/gcal-application.c:241
 msgid "translator-credits"
-msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
+msgstr ""
+"Baxrom Raxmatov\n"
+"Muhammad Gʻaniyev"
 
 #: src/gui/gcal-application.c:245 src/gui/gcal-window.blp:374
 msgid "Weather"
@@ -1229,8 +1231,9 @@ msgid "Drop Event Files to Import"
 msgstr "Hodisa fayllarini import qilish uchun qoldiring"
 
 #: src/gui/gcal-window.blp:163
+#, fuzzy
 msgid "Toggle Sidebar"
-msgstr ""
+msgstr "Yon panelni almashtirish"
 
 #: src/gui/gcal-window.blp:188
 msgid "Main Menu"
@@ -1327,8 +1330,9 @@ msgid "Month"
 msgstr "Oy"
 
 #: src/gui/gcal-window.c:404
+#, fuzzy
 msgid "Agenda"
-msgstr ""
+msgstr "Kun tartibi"
 
 #: src/gui/gcal-window.c:950
 msgid "Another event deleted"
@@ -1411,12 +1415,9 @@ msgid "File is not an iCalendar (.ics) file"
 msgstr "Fayl iCalendar (.ics) fayli emas"
 
 #: src/gui/shortcuts-dialog.blp:6
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "General"
 msgctxt "shortcut dialog"
 msgid "General"
-msgstr "Umumiy"
+msgstr "Asosiy"
 
 #: src/gui/shortcuts-dialog.blp:9
 #, fuzzy
@@ -1429,7 +1430,7 @@ msgstr "Asosiy menyuni oching"
 #: src/gui/shortcuts-dialog.blp:14
 msgctxt "shortcut dialog"
 msgid "Toggle Sidebar"
-msgstr ""
+msgstr "Yon panelni almashtirish"
 
 #: src/gui/shortcuts-dialog.blp:19
 #, fuzzy
@@ -1611,11 +1612,11 @@ msgstr "_Barcha tadbirlar"
 #. Conferencing
 #: src/utils/gcal-utils.c:1240
 msgid "BlueJeans"
-msgstr ""
+msgstr "BlueJeans"
 
 #: src/utils/gcal-utils.c:1241 src/utils/gcal-utils.c:1242
 msgid "BigBlueButton"
-msgstr ""
+msgstr "BigBlueButton"
 
 #: src/utils/gcal-utils.c:1243
 msgid "Google Meet"
@@ -1633,7 +1634,7 @@ msgstr "Hodisalar soni"
 
 #: src/utils/gcal-utils.c:1247
 msgid "GNOME Meet"
-msgstr ""
+msgstr "GNOME Meet"
 
 #: src/utils/gcal-utils.c:1248
 msgid "Microsoft Teams"
@@ -1645,7 +1646,7 @@ msgstr "Whereby"
 
 #: src/utils/gcal-utils.c:1250
 msgid "Webex"
-msgstr ""
+msgstr "Webex"
 
 #: src/utils/gcal-utils.c:1251
 msgid "Zoom"
@@ -1661,7 +1662,7 @@ msgstr "Koʻrinish"
 
 #: src/utils/gcal-utils.c:1255
 msgid "OpenStreetMap"
-msgstr ""
+msgstr "OpenStreetMap"
 
 #: src/utils/gcal-utils.c:1256 src/utils/gcal-utils.c:1257
 #, fuzzy
@@ -1671,7 +1672,7 @@ msgstr "Google Meet"
 
 #: src/utils/gcal-utils.c:1258
 msgid "Bing Maps"
-msgstr ""
+msgstr "Bing Maps"
 
 #~ msgid "_Calendars"
 #~ msgstr "_Taqvimlar"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: showtime main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/showtime/-/issues\n"
-"POT-Creation-Date: 2025-11-27 12:19+0000\n"
+"POT-Creation-Date: 2026-01-31 14:28+0000\n"
 "PO-Revision-Date: 2025-04-04 18:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -72,102 +72,106 @@ msgstr "Yakuniy vaqt tamgʻasi pozitsiyasida nimani koʻrsatish kerak"
 msgid "E.g. total duration of the video or the amount of time remaining"
 msgstr "Masalan, videoning umumiy davomiyligi yoki qolgan vaqt miqdori"
 
-#: showtime/main.py:89
+#: showtime/main.py:88
 msgid "Playing a video"
 msgstr "Video ijro etilmoqda"
 
-#: showtime/mpris.py:288 showtime/widgets/window.py:1040
+#: showtime/mpris.py:288 showtime/widgets/window.py:1061
 msgid "Unknown Title"
 msgstr "Noma'lum sarlavha"
 
 #. Translators: The variable is the number of channels
 #. in an audio track
-#: showtime/widgets/options.py:94
+#: showtime/widgets/options.py:93
 msgid "Undetermined, {} Channel"
 msgid_plural "Undetermined, {} Channels"
 msgstr[0] "Aniqlanmagan, {} kanal"
 msgstr[1] "Aniqlanmagan, {} ta kanal"
 
-#: showtime/widgets/options.py:99
+#: showtime/widgets/options.py:98
 msgid "Undetermined"
 msgstr "Aniqlanmagan"
 
-#: showtime/widgets/options.py:112
+#: showtime/widgets/options.py:111
 msgid "No Audio"
 msgstr "CD _Audio"
 
-#: showtime/widgets/options.py:117
+#: showtime/widgets/options.py:116
 msgid "None"
 msgstr "Hech biri"
 
-#: showtime/widgets/options.py:123
+#: showtime/widgets/options.py:122
 msgid "Undetermined Language"
 msgstr "Aniqlanmagan til"
 
-#: showtime/widgets/options.py:134
+#: showtime/widgets/options.py:133
 msgid "Add Subtitle File…"
 msgstr "Subtitr faylini qoʻshish…"
 
-#: showtime/widgets/window.py:181 showtime/gtk/window.blp:161
+#: showtime/widgets/window.py:182 showtime/gtk/window.blp:161
 msgid "Play"
 msgstr "Oʻynang"
 
-#: showtime/widgets/window.py:181
+#: showtime/widgets/window.py:182
 msgid "Pause"
 msgstr "Pauza"
 
-#: showtime/widgets/window.py:756
+#: showtime/widgets/window.py:754
 msgid "Details copied"
 msgstr "Tafsilotlar nusxalandi"
 
-#: showtime/widgets/window.py:758
+#: showtime/widgets/window.py:756
 msgid "Copy Technical Details"
 msgstr "Texnik ma'lumotlarni nusxalash"
 
-#: showtime/widgets/window.py:761
+#: showtime/widgets/window.py:759
 #, fuzzy
 #| msgid "Start Again"
 msgid "Try Again"
 msgstr "Qaytadan boshlash"
 
-#: showtime/widgets/window.py:791
+#: showtime/widgets/window.py:816
+msgid "No plugin available for this media type"
+msgstr "Ushbu turdagi media uchun plagin mavjud emas"
+
+#: showtime/widgets/window.py:824
+msgid "Unable to install the required plugin"
+msgstr "Kerakli plaginni oʻrnatib boʻlmadi"
+
+#: showtime/widgets/window.py:831
+msgid "Installing…"
+msgstr "Oʻrnatilmoqda…"
+
+#: showtime/widgets/window.py:835
+msgid "“{}” codecs are required to play this video"
+msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
+
+#: showtime/widgets/window.py:838
+msgid "Install Plugin"
+msgstr "Plaginni oʻrnating"
+
+#: showtime/widgets/window.py:844
 msgid "The “{}” codecs required to play this video could not be found"
 msgstr ""
 "Bu videoni ijro etish uchun zarur boʻlgan “{}” kodeklarini topib boʻlmadi"
 
-#: showtime/widgets/window.py:809
-msgid "No plugin available for this media type"
-msgstr "Ushbu turdagi media uchun plagin mavjud emas"
-
-#: showtime/widgets/window.py:815
-msgid "Unable to install the required plugin"
-msgstr "Kerakli plaginni oʻrnatib boʻlmadi"
-
-#: showtime/widgets/window.py:818
-msgid "Install Plugin"
-msgstr "Plaginni oʻrnating"
-
-#: showtime/widgets/window.py:826
-msgid "Installing…"
-msgstr "Oʻrnatilmoqda…"
-
-#: showtime/widgets/window.py:834
-msgid "“{}” codecs are required to play this video"
-msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
+#: showtime/widgets/window.py:854
+msgid "Try Anyway"
+msgstr ""
 
 #. Translators: Replace this with your name for it to show up in the about
 #. dialog
-#: showtime/widgets/window.py:1019
+#: showtime/widgets/window.py:1040
 #, fuzzy
 #| msgid "translator_credits"
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: showtime/widgets/window.py:1074
+#: showtime/widgets/window.py:1095
 msgid "Screenshot captured"
 msgstr "Skrinshot olindi"
 
-#: showtime/widgets/window.py:1076
+#: showtime/widgets/window.py:1097
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 

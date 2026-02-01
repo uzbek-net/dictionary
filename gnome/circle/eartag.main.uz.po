@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eartag main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/eartag/-/issues\n"
-"POT-Creation-Date: 2025-09-03 16:26+0000\n"
+"POT-Creation-Date: 2026-01-31 13:22+0000\n"
 "PO-Revision-Date: 2025-10-17 18:12+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -973,62 +973,62 @@ msgstr "1200 px"
 msgid "Maximum size"
 msgstr "Eng katta oʻlcham"
 
-#: src/ui/shortcuts.blp:11
+#: src/ui/shortcuts.blp:6
 msgctxt "shortcut window"
 msgid "Files"
 msgstr "Fayllar"
 
-#: src/ui/shortcuts.blp:15
+#: src/ui/shortcuts.blp:10
 msgctxt "shortcut window"
 msgid "Open files"
 msgstr "Fayllarni ochish"
 
-#: src/ui/shortcuts.blp:20
+#: src/ui/shortcuts.blp:15
 msgctxt "shortcut window"
 msgid "Open folder"
 msgstr "Jildni ochish"
 
-#: src/ui/shortcuts.blp:25
+#: src/ui/shortcuts.blp:20
 msgctxt "shortcut window"
 msgid "Save all modified files"
 msgstr "Barcha oʻzgartirilgan fayllarni saqlash"
 
-#: src/ui/shortcuts.blp:30
+#: src/ui/shortcuts.blp:25
 msgctxt "shortcut window"
 msgid "Sidebar"
 msgstr "Yon panel"
 
-#: src/ui/shortcuts.blp:34
+#: src/ui/shortcuts.blp:29
 msgctxt "shortcut window"
 msgid "Select previous file in sidebar"
 msgstr "Yon paneldagi avvalgi faylni tanlash"
 
-#: src/ui/shortcuts.blp:39
+#: src/ui/shortcuts.blp:34
 msgctxt "shortcut window"
 msgid "Select next file in sidebar"
 msgstr "Yon panelda keyingi faylni tanlash"
 
-#: src/ui/shortcuts.blp:44
+#: src/ui/shortcuts.blp:39
 msgctxt "shortcut window"
 msgid "Select all files in sidebar"
 msgstr "Yon paneldagi barcha fayllarni tanlash"
 
-#: src/ui/shortcuts.blp:49
+#: src/ui/shortcuts.blp:44
 msgctxt "shortcut window"
 msgid "Remove selected files from sidebar"
 msgstr "Tanlangan fayllarni yon paneldan olib tashlash"
 
-#: src/ui/shortcuts.blp:50
+#: src/ui/shortcuts.blp:45
 msgctxt "shortcut window"
 msgid "Closes the window if no files are present."
 msgstr "Hech qanday fayl boʻlmasa, oyna yopiladi."
 
-#: src/ui/shortcuts.blp:55
+#: src/ui/shortcuts.blp:50
 msgctxt "shortcut window"
 msgid "Other"
 msgstr "Boshqa"
 
-#: src/ui/shortcuts.blp:59
+#: src/ui/shortcuts.blp:54
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
 msgstr "Klaviatura yorliqlari"

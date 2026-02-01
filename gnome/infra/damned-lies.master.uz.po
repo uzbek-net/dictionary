@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 13:46+0000\n"
+"POT-Creation-Date: 2026-01-31 21:31+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -34,7 +34,7 @@ msgstr ""
 msgid "Refresh started."
 msgstr ""
 
-#: common/views.py:43
+#: common/views.py:47
 msgid "translator-credits"
 msgstr ""
 "Baxrom Raxmatov\n"
@@ -1620,7 +1620,7 @@ msgid "Local network service discovery via mDNS/DNS-SD"
 msgstr "mDNS/DNS-SD orqali mahalliy tarmoq xizmatini topish"
 
 #: database-content.py:436
-msgid "Compress videos to target sizes."
+msgid "Compress videos to target sizes"
 msgstr ""
 
 #: database-content.py:437 templates/admin/base_site.html:6
@@ -2303,7 +2303,7 @@ msgstr "Foydalanuvchi interfeysi"
 #: languages/templates/languages/language_release_stats.html:63
 #: people/templates/people/_includes/person_contribution_activity.html:37
 #: stats/templates/release_detail.html:21
-#: stats/templates/release_detail.html:30 stats/templates/stats_show.html:77
+#: stats/templates/release_detail.html:30 stats/templates/stats_show.html:79
 msgid "Graph"
 msgstr "Grafik"
 
@@ -3886,7 +3886,7 @@ msgid "Domain"
 msgstr "Domen"
 
 #: stats/models.py:1710 stats/templates/release_detail.html:19
-#: stats/templates/stats_show.html:72 vertimus/admin.py:52
+#: stats/templates/stats_show.html:74 vertimus/admin.py:52
 #: vertimus/models.py:103
 msgid "Language"
 msgstr "Til"
@@ -4056,45 +4056,51 @@ msgstr ""
 "Andoza faylini (POT) yaratib boʻlmadi. POT yaratish jarayonining oʻzi "
 "muvaffaqiyatsiz tugadi, lekin POT fayli diskda mavjud emas."
 
-#: stats/services/refresh/service.py:55 stats/services/refresh/service.py:105
+#: stats/services/pot/service.py:490
+#, python-format
+msgid ""
+"'xgettext' command cannot be built, the following error occurred: %(error)s"
+msgstr ""
+
+#: stats/services/refresh/service.py:54 stats/services/refresh/service.py:104
 msgid "The refresh process has not started yet."
 msgstr ""
 
-#: stats/services/refresh/service.py:99
+#: stats/services/refresh/service.py:98
 msgid "No refresh in progress."
 msgstr ""
 
-#: stats/services/refresh/service.py:101
+#: stats/services/refresh/service.py:100
 msgid "The refresh process was aborted."
 msgstr ""
 
-#: stats/services/refresh/service.py:103
+#: stats/services/refresh/service.py:102
 msgid "The refresh process failed."
 msgstr ""
 
-#: stats/services/refresh/service.py:108
+#: stats/services/refresh/service.py:107
 #, python-format
 msgid "Processing domain “%(domain)s”: %(step)s"
 msgstr ""
 
-#: stats/services/refresh/service.py:114
+#: stats/services/refresh/service.py:113
 #, fuzzy
 #| msgid "The role of the user has been changed successfully."
 msgid "The refresh process completed successfully."
 msgstr "Foydalanuvchining roli muvaffaqiyatli oʻzgartirildi."
 
-#: stats/services/refresh/service.py:278
+#: stats/services/refresh/service.py:277
 #: stats/services/refresh/tests/test_service.py:266
 msgid "The task failed without a specific error message."
 msgstr ""
 
-#: stats/services/refresh/service.py:312
+#: stats/services/refresh/service.py:314
 msgid ""
 "An error occurred while starting the refresh process. Please try again later"
 " or if the problem persists, contact the site administrator."
 msgstr ""
 
-#: stats/services/refresh/service.py:322
+#: stats/services/refresh/service.py:324
 msgid ""
 "The refresh service is currently unavailable. Please try again later or if "
 "the problem persists, contact the site administrator."
@@ -4743,23 +4749,23 @@ msgstr "Shablon faylini yuklab oling (POT)"
 msgid "Template file (POT)"
 msgstr "Shablon fayli (POT)"
 
-#: stats/templates/stats_show.html:45
+#: stats/templates/stats_show.html:47
 msgid "Notices"
 msgstr "Eslatmalar"
 
-#: stats/templates/stats_show.html:54
+#: stats/templates/stats_show.html:56
 msgid "Search for similar bugs before reporting it"
 msgstr "Xabar berishdan oldin shunga oʻxshash xatolarni qidiring"
 
-#: stats/templates/stats_show.html:57
+#: stats/templates/stats_show.html:59
 msgid "Report this bug"
 msgstr "Bu xato haqida xabar bering"
 
-#: stats/templates/stats_show.html:73 vertimus/models.py:302
+#: stats/templates/stats_show.html:75 vertimus/models.py:302
 msgid "Translated"
 msgstr "Tarjima qilingan"
 
-#: stats/templates/stats_show.html:110
+#: stats/templates/stats_show.html:112
 msgid "Display document figures"
 msgstr "Hujjat raqamlarini koʻrsatish"
 
@@ -4803,7 +4809,7 @@ msgstr ""
 msgid "Unable to create GitLab issue."
 msgstr ""
 
-#: stats/views.py:78
+#: stats/views.py:77
 msgid ""
 "The return format type you indicated is not allowed. Allowed values are: "
 "html, json, xml."
@@ -4811,13 +4817,13 @@ msgstr ""
 "Siz koʻrsatgan qaytarish formati turiga ruxsat berilmagan. Ruxsat berilgan "
 "qiymatlar: html, json, xml."
 
-#: stats/views.py:110
+#: stats/views.py:109
 msgid ""
 "You do not have the rights to edit this module. Module edition is restricted"
 " to module maintainers."
 msgstr ""
 
-#: stats/views.py:128
+#: stats/views.py:127
 msgid ""
 "Module properties have been updated. If you modified branches, domain or "
 "repository for instance, you will have to trigger statistics refresh "
@@ -5622,7 +5628,7 @@ msgid "Third Party Authentication"
 msgstr "Autentifikatsiya tokeni"
 
 #: templates/login/authentication_providers.html:6
-msgid "Fedora"
+msgid "Fedora OIDC"
 msgstr ""
 
 #: templates/login/authentication_providers.html:7
@@ -6392,6 +6398,11 @@ msgid ""
 msgstr ""
 "Dokumentatsiyani yaratishga ruxsat berilmagan. Ushbu operatsiyani faqat "
 "jamoa aʼzolari bajarishi mumkin."
+
+#: vertimus/views.py:606
+#, python-format
+msgid "The documentation build failed: %(details)s"
+msgstr ""
 
 #~ msgid "General homepage strings"
 #~ msgstr "Umumiy bosh sahifa qatorlari"
