@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-weather main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-weather/issues/\n"
-"POT-Creation-Date: 2025-12-27 22:15+0000\n"
+"POT-Creation-Date: 2026-02-01 08:18+0000\n"
 "PO-Revision-Date: 2025-03-29 21:59+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -86,7 +86,7 @@ msgstr "Kattalashgan oyna"
 msgid "Whether or not the window is maximized."
 msgstr "Oyna kattalashtiriladimi yoki yoʻqmi."
 
-#: data/org.gnome.Weather.metainfo.xml.in.in:16
+#: data/org.gnome.Weather.metainfo.xml.in.in:10
 msgid ""
 "A small application that allows you to monitor the current weather "
 "conditions for your city, or anywhere in the world."
@@ -94,7 +94,7 @@ msgstr ""
 "Sizning shahringiz yoki dunyoning istalgan nuqtasi uchun joriy ob-havo "
 "sharoitlarini kuzatish imkonini beruvchi kichik dastur."
 
-#: data/org.gnome.Weather.metainfo.xml.in.in:20
+#: data/org.gnome.Weather.metainfo.xml.in.in:14
 msgid ""
 "It provides access to detailed forecasts, up to 7 days, with hourly details "
 "for the current and next day, using various internet services."
@@ -103,7 +103,7 @@ msgstr ""
 " soatlik ma'lumotlar bilan 7 kungacha boʻlgan batafsil prognozlarga kirish "
 "imkonini beradi."
 
-#: data/org.gnome.Weather.metainfo.xml.in.in:24
+#: data/org.gnome.Weather.metainfo.xml.in.in:18
 msgid ""
 "It also optionally integrates with the GNOME Shell, allowing you to see the "
 "current conditions of the most recently searched cities by just typing the "
@@ -114,8 +114,20 @@ msgstr ""
 "soʻnggi qidirilgan shaharlarning joriy sharoitlarini koʻrish imkonini "
 "beradi."
 
+#: data/org.gnome.Weather.metainfo.xml.in.in:28
+#, fuzzy
+#| msgid "_Hourly"
+msgid "Hourly View"
+msgstr "_Soatiga"
+
+#: data/org.gnome.Weather.metainfo.xml.in.in:32
+#, fuzzy
+#| msgid "_Daily"
+msgid "Daily View"
+msgstr "_Kuniga"
+
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Weather.metainfo.xml.in.in:482 src/app/window.ts:189
+#: data/org.gnome.Weather.metainfo.xml.in.in:486 src/app/window.ts:189
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-01-09 15:10+0000\n"
+"POT-Creation-Date: 2026-02-04 17:29+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -213,27 +213,27 @@ msgid "Playing %s"
 msgstr "%s ijro etilmoqda"
 
 #. Translators: "low" categorizes notifications with minor importance
-#: src/ms-feedback-panel.c:419
+#: src/ms-feedback-panel.c:435
 msgid "low"
 msgstr "past"
 
 #. Translators: "normal" categorizes notifications with standard importance
-#: src/ms-feedback-panel.c:422
+#: src/ms-feedback-panel.c:438
 msgid "normal"
 msgstr "normal"
 
 #. Translators: "critical" categorizes notifications with urgent importance
-#: src/ms-feedback-panel.c:425
+#: src/ms-feedback-panel.c:441
 msgid "critical"
 msgstr "juda muhim xato"
 
 #. Translators: "none" is the default for notifications with no specified
 #. importance
-#: src/ms-feedback-panel.c:429
+#: src/ms-feedback-panel.c:445
 msgid "none"
 msgstr "mavjud emas"
 
-#: src/ms-feedback-panel.c:813
+#: src/ms-feedback-panel.c:829
 #, fuzzy
 #| msgid "Mobile Settings"
 msgid "Mobile Settings Volume Control"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-01-27 12:41+0000\n"
+"POT-Creation-Date: 2026-02-05 16:09+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -706,26 +706,26 @@ msgstr "Roʻyxatga kiritilmaganmi?"
 
 #. Translators: this message is shown below the username entry field
 #. to clue the user in on how to login to the local network realm
-#: js/gdm/loginDialog.js:1129
+#: js/gdm/loginDialog.js:1136
 #, javascript-format
 msgid "(e.g., user or %s)"
 msgstr "(masalan, foydalanuvchi yoki %s)"
 
-#: js/gdm/loginDialog.js:1134 js/ui/components/networkAgent.js:258
+#: js/gdm/loginDialog.js:1141 js/ui/components/networkAgent.js:258
 #: js/ui/components/networkAgent.js:293 js/ui/components/networkAgent.js:327
 #: subprojects/extensions-tool/src/command-upload.c:234
 msgid "Username"
 msgstr "Foydalanuvchi nomi"
 
-#: js/gdm/loginDialog.js:1200
+#: js/gdm/loginDialog.js:1207
 msgid "Login Attempt Timed Out"
 msgstr "Kirish urinish vaqti tugadi"
 
-#: js/gdm/loginDialog.js:1201
+#: js/gdm/loginDialog.js:1208
 msgid "Login took too long, please try again"
 msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
-#: js/gdm/loginDialog.js:1550
+#: js/gdm/loginDialog.js:1557
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
@@ -735,40 +735,40 @@ msgstr "Autentifikatsiya xatosi"
 
 #. Translators: this message is shown below the password entry field
 #. to indicate the user can swipe their finger on the fingerprint reader
-#: js/gdm/util.js:729
+#: js/gdm/util.js:733
 msgid "(or swipe finger across reader)"
 msgstr "(yoki barmogʻingizni oʻquvchi boʻylab suring)"
 
 #. Translators: this message is shown below the password entry field
 #. to indicate the user can place their finger on the fingerprint reader
 #. instead
-#: js/gdm/util.js:734
+#: js/gdm/util.js:738
 msgid "(or place finger on reader)"
 msgstr "(yoki barmogʻingizni oʻquvchiga qoʻying)"
 
-#: js/misc/breakManager.js:770
+#: js/misc/breakManager.js:774
 msgid "Break complete sound"
 msgstr "Tanaffus tugash ovozi"
 
-#: js/misc/breakManager.js:980
+#: js/misc/breakManager.js:984
 #, javascript-format
 msgid "%d second"
 msgid_plural "%d seconds"
 msgstr[0] "%d soniya"
 
-#: js/misc/breakManager.js:986
+#: js/misc/breakManager.js:990
 #, javascript-format
 msgid "%d minute"
 msgid_plural "%d minutes"
 msgstr[0] "%d daqiqa"
 
-#: js/misc/breakManager.js:992
+#: js/misc/breakManager.js:996
 #, javascript-format
 msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d soat"
 
-#: js/misc/breakManager.js:998
+#: js/misc/breakManager.js:1002
 #, javascript-format
 msgid "%d day"
 msgid_plural "%d days"
@@ -776,79 +776,79 @@ msgstr[0] "%d kun"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1081
+#: js/misc/breakManager.js:1085
 #, javascript-format
 msgid "It will be time for a break in %s"
 msgid_plural "It will be time for a break in %s"
 msgstr[0] "Tanaffus vaqti: %s"
 
-#: js/misc/breakManager.js:1089
+#: js/misc/breakManager.js:1093
 msgid "Movement Break Soon"
 msgstr "Tez orada harakat tanaffus"
 
-#: js/misc/breakManager.js:1092
+#: js/misc/breakManager.js:1096
 msgid "Eyesight Break Soon"
 msgstr "Tez orada koʻrish buzilishi"
 
-#: js/misc/breakManager.js:1095
+#: js/misc/breakManager.js:1099
 msgid "Break Soon"
 msgstr "Tez orada tanaffus"
 
-#: js/misc/breakManager.js:1140
+#: js/misc/breakManager.js:1144
 msgid "Movement Break in Progress"
 msgstr "Harakatning uzilishi davom etmoqda"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1143
+#: js/misc/breakManager.js:1147
 #, javascript-format
 msgid "Continue moving around for %s"
 msgid_plural "Continue moving around for %s"
 msgstr[0] "%s atrofida harakatlanishda davom eting"
 
-#: js/misc/breakManager.js:1149
+#: js/misc/breakManager.js:1153
 msgid "Eyesight Break in Progress"
 msgstr "Koʻrish buzilishi davom etmoqda"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1152
+#: js/misc/breakManager.js:1156
 #, javascript-format
 msgid "Continue looking away for %s"
 msgid_plural "Continue looking away for %s"
 msgstr[0] "%sʼga qarashda davom eting"
 
-#: js/misc/breakManager.js:1158
+#: js/misc/breakManager.js:1162
 msgid "Break in Progress"
 msgstr "Tanaffus davom etmoqda"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1161
+#: js/misc/breakManager.js:1165
 #, javascript-format
 msgid "%s left in your break"
 msgid_plural "%s left in your break"
 msgstr[0] "Tanaffusingizda %s qoldi"
 
-#: js/misc/breakManager.js:1200
+#: js/misc/breakManager.js:1204
 msgid "Time for a Movement Break"
 msgstr "Harakat tanaffus vaqti"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1203
+#: js/misc/breakManager.js:1207
 #, javascript-format
 msgid "Take a break from the device and move around for %s"
 msgid_plural "Take a break from the device and move around for %s"
 msgstr[0] "Qurilmada tanaffus qiling va %s atrofida harakatlaning"
 
-#: js/misc/breakManager.js:1209
+#: js/misc/breakManager.js:1213
 msgid "Time for an Eyesight Break"
 msgstr "Koʻrish uchun tanaffus vaqti"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1212
+#: js/misc/breakManager.js:1216
 #, javascript-format
 msgid ""
 "Take a break from the screen. Look at least 6 meters away for at least %s"
@@ -856,13 +856,13 @@ msgid_plural ""
 "Take a break from the screen. Look at least 6 meters away for at least %s"
 msgstr[0] "Ekrandan dam oling. Kamida 6 metr masofani kamida %s qidiring"
 
-#: js/misc/breakManager.js:1218
+#: js/misc/breakManager.js:1222
 msgid "Time for a Break"
 msgstr "Tanaffus vaqti"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1221
+#: js/misc/breakManager.js:1225
 #, javascript-format
 msgid "It’s time to take a break. Get away from the device for %s!"
 msgid_plural "It’s time to take a break. Get away from the device for %s!"
@@ -870,44 +870,44 @@ msgstr[0] "Tanaffus qilish vaqti keldi. %s uchun qurilmadan uzoqroq turing!"
 
 #. %s will be replaced with a string that describes a time interval, such as
 #. “2 minutes”, “40 seconds” or “1 hour”
-#: js/misc/breakManager.js:1245
+#: js/misc/breakManager.js:1249
 #, javascript-format
 msgid "You were due to take a break %s ago"
 msgid_plural "You were due to take a break %s ago"
 msgstr[0] "Siz %s oldin tanaffus qilishingiz kerak edi"
 
-#: js/misc/breakManager.js:1251
+#: js/misc/breakManager.js:1255
 msgid "Break Overdue"
 msgstr "Kechiktirilgan tanaffus"
 
-#: js/misc/breakManager.js:1267
+#: js/misc/breakManager.js:1271
 #, javascript-format
 msgid "There is %s remaining in your break"
 msgid_plural "There are %s remaining in your break"
 msgstr[0] "Tanaffusga %s ta qoldi"
 
-#: js/misc/breakManager.js:1273
+#: js/misc/breakManager.js:1277
 msgid "Break Interrupted"
 msgstr "Tanaffus uzildi"
 
 #. Translators: As in "Delay the break"
-#: js/misc/breakManager.js:1351
+#: js/misc/breakManager.js:1355
 msgid "Delay"
 msgstr "Kechiktirish"
 
 #. Translators: As in "Skip the break"
-#: js/misc/breakManager.js:1373 js/ui/welcomeDialog.js:61
+#: js/misc/breakManager.js:1377 js/ui/welcomeDialog.js:61
 msgid "Skip"
 msgstr "Oʻtkazib yuborish"
 
 #. Translators: As in "Take the break"
-#: js/misc/breakManager.js:1395
+#: js/misc/breakManager.js:1399
 msgid "Take"
 msgstr "Istalgan vaqtda ekranni suratga oling"
 
 #. Translators: This is a notification to warn the user that a
 #. screen time break will start shortly.
-#: js/misc/breakManager.js:1458
+#: js/misc/breakManager.js:1462
 #, javascript-format
 msgid "Break in %d second"
 msgid_plural "Break in %d seconds"
@@ -2922,23 +2922,23 @@ msgstr "Monitorning oʻng tomoniga siljiting"
 msgid "Close"
 msgstr "Yopish"
 
-#: src/main.c:515 subprojects/extensions-tool/src/main.c:336
+#: src/main.c:517 subprojects/extensions-tool/src/main.c:336
 msgid "Print version"
 msgstr "Chop etish versiyasi"
 
-#: src/main.c:521
+#: src/main.c:523
 msgid "Mode used by GDM for login screen"
 msgstr "Kirish ekrani uchun GDM tomonidan foydalaniladigan rejim"
 
-#: src/main.c:527
+#: src/main.c:529
 msgid "Use a specific mode, e.g. “gdm” for login screen"
 msgstr "Muayyan rejimdan foydalaning, masalan. Kirish ekrani uchun \"gdm\""
 
-#: src/main.c:533
+#: src/main.c:535
 msgid "List possible modes"
 msgstr "Mumkin rejimlarni sanab oʻting"
 
-#: src/main.c:539
+#: src/main.c:541
 msgid "Force animations to be enabled"
 msgstr "Animatsiyalarni yoqish uchun majburlash"
 
@@ -2960,16 +2960,16 @@ msgstr "Parollar mos kelmaydi"
 msgid "Password cannot be blank"
 msgstr "Parol boʻsh boʻlishi mumkin emas"
 
-#: src/shell-polkit-authentication-agent.c:344
+#: src/shell-polkit-authentication-agent.c:342
 msgid "Authentication dialog was dismissed by the user"
 msgstr "Autentifikatsiya dialogi foydalanuvchi tomonidan oʻchirildi"
 
-#: src/st/st-icon-theme.c:1859
+#: src/st/st-icon-theme.c:1857
 #, c-format
 msgid "Icon '%s' not present in theme %s"
 msgstr "“%s” belgisi %s mavzusida mavjud emas"
 
-#: src/st/st-icon-theme.c:3452 src/st/st-icon-theme.c:3755
+#: src/st/st-icon-theme.c:3450 src/st/st-icon-theme.c:3753
 msgid "Failed to load icon"
 msgstr "Belgini yuklab boʻlmadi"
 

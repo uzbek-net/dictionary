@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-desktop\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-desktop/issues/\n"
-"POT-Creation-Date: 2025-12-30 17:41+0000\n"
+"POT-Creation-Date: 2026-02-05 22:45+0000\n"
 "PO-Revision-Date: 2025-03-22 19:49+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: uzbek\n"
@@ -28,17 +28,17 @@ msgstr "%s faylida oldindan koʻrish belgisi atributi yoʻq"
 msgid "No loadable icon for %s"
 msgstr "%s uchun yuklanadigan belgi yoʻq"
 
-#: libgnome-desktop/gnome-desktop-thumbnail.c:1166
+#: libgnome-desktop/gnome-desktop-thumbnail.c:1170
 #, c-format
 msgid "Could not find thumbnailer for mime-type '%s'"
 msgstr "Mim tipidagi “%s” uchun eskiz topilmadi"
 
-#: libgnome-desktop/gnome-desktop-thumbnail.c:1296
+#: libgnome-desktop/gnome-desktop-thumbnail.c:1300
 #, c-format
 msgid "Failed to create folder '%s'"
 msgstr "“%s” jildini yaratib boʻlmadi"
 
-#: libgnome-desktop/gnome-desktop-thumbnail.c:1309
+#: libgnome-desktop/gnome-desktop-thumbnail.c:1313
 #, c-format
 msgid "The output folder '%s' is not writable"
 msgstr "“%s” jildini yaratib boʻlmadi"

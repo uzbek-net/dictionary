@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-31 21:31+0000\n"
+"POT-Creation-Date: 2026-02-05 10:17+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-#: api/views.py:1037
+#: api/views.py:1039
 msgid ""
 "You are not allowed to trigger a refresh on this branch. You do not have the"
 " required permissions. You need to be a site admin, a team coordinator, or a"
 " maintainer of the module."
 msgstr ""
 
-#: api/views.py:1046
+#: api/views.py:1048
 msgid "A refresh is already in progress."
 msgstr ""
 
-#: api/views.py:1056
+#: api/views.py:1058
 msgid "Refresh started."
 msgstr ""
 
@@ -2247,7 +2247,7 @@ msgid "Latest actions of the GNOME Translation Project for the %s language"
 msgstr "GNOME tarjima loyihasining %s tili uchun soʻnggi harakatlari"
 
 #: languages/models.py:30 stats/models.py:77 stats/models.py:247
-#: stats/models.py:657 stats/models.py:1097 stats/models.py:1499
+#: stats/models.py:653 stats/models.py:1102 stats/models.py:1504
 #: teams/models.py:67 vertimus/models.py:113 vertimus/models.py:523
 msgid "Name"
 msgstr "Ism"
@@ -2288,7 +2288,7 @@ msgid "Unknown"
 msgstr "Nomaʼlum"
 
 #: languages/templates/languages/_includes/language_release_summary.html:12
-#: stats/models.py:1509 stats/templates/module_edit.html:54
+#: stats/models.py:1514 stats/templates/module_edit.html:54
 msgid "Release"
 msgstr "Chiqarish"
 
@@ -2316,7 +2316,7 @@ msgstr "Foydalanuvchi interfeysi (qizil.)"
 #: languages/templates/languages/_includes/language_release_summary.html:32
 #: languages/templates/languages/_includes/language_release_summary.html:37
 #: languages/templates/languages/language_release_stats.html:33
-#: languages/templates/languages/language_release_stats.html:121
+#: languages/templates/languages/language_release_stats.html:123
 #: vertimus/templates/vertimus/_includes/po_file_stats.html:11
 msgid "Translated/Fuzzy/Untranslated"
 msgstr "Tarjima qilingan/loyqa/tarjima qilinmagan"
@@ -2417,12 +2417,12 @@ msgstr "%(total_trans_perc)s%%"
 
 #: languages/templates/languages/language_release_stats.html:59
 #: people/templates/people/_includes/person_contribution_activity.html:35
-#: stats/models.py:655 vertimus/templates/vertimus/activity_summary.html:36
+#: stats/models.py:651 vertimus/templates/vertimus/activity_summary.html:36
 msgid "Module"
 msgstr "Modul"
 
 #: languages/templates/languages/language_release_stats.html:60
-#: stats/models.py:1510 stats/models.py:1708
+#: stats/models.py:1515 stats/models.py:1713
 #: stats/templates/module_edit.html:53 vertimus/admin.py:33
 #: vertimus/models.py:101 vertimus/templates/vertimus/activity_summary.html:37
 msgid "Branch"
@@ -2434,7 +2434,7 @@ msgid "Statistics"
 msgstr "Statistika"
 
 #: languages/templates/languages/language_release_stats.html:64
-#: stats/models.py:1112
+#: stats/models.py:1117
 msgid "Status"
 msgstr "Holati"
 
@@ -2449,12 +2449,30 @@ msgstr "Sana"
 msgid "%(categname)s (%(percentage)s%% translated)"
 msgstr "%(categname)s (%(percentage)s%% tarjima qilingan)"
 
-#: languages/templates/languages/language_release_stats.html:116
+#: languages/templates/languages/language_release_stats.html:100
+#, fuzzy
+#| msgid "Figures translation status"
+msgid "View module translation activity"
+msgstr "Raqamlar tarjimasi holati"
+
+#: languages/templates/languages/language_release_stats.html:105
+#, fuzzy
+#| msgid "Change your details"
+msgid "View module details"
+msgstr "Tafsilotlaringizni oʻzgartiring"
+
+#: languages/templates/languages/language_release_stats.html:118
 #: stats/templates/stats_show.html:15
 msgid "This document is written in Mallard documentation format"
 msgstr "Ushbu hujjat Mallard hujjatlari formatida yozilgan"
 
-#: languages/templates/languages/language_release_stats.html:161
+#: languages/templates/languages/language_release_stats.html:119
+#, fuzzy
+#| msgid "This document is written in Mallard documentation format"
+msgid "Mallard documentation format"
+msgstr "Ushbu hujjat Mallard hujjatlari formatida yozilgan"
+
+#: languages/templates/languages/language_release_stats.html:160
 msgid "Error summary"
 msgstr "Xato xulosasi"
 
@@ -2513,7 +2531,7 @@ msgstr "Muhim sanalar"
 msgid "Personal Information"
 msgstr "Shaxsiy ma'lumot"
 
-#: people/admin.py:157 stats/admin.py:82 stats/admin.py:229
+#: people/admin.py:157 stats/admin.py:82 stats/admin.py:226
 #: stats/templates/module_edit.html:26
 msgid "Metadata"
 msgstr "Meta ma'lumotlar"
@@ -2753,7 +2771,7 @@ msgid "Choose"
 msgstr "Tanlang"
 
 #: people/templates/people/_includes/person_team_membership.html:3
-#: teams/templates/teams/team_detail.html:148
+#: teams/templates/teams/team_detail.html:149
 msgid "Team membership"
 msgstr "Jamoa aʼzoligi"
 
@@ -2767,18 +2785,13 @@ msgstr ""
 "<span id=\"role-%(role_name)s-in-%(team_name)s-team\" class=\"badge text-bg-"
 "secondary\">%(role_name_display)s</span> − %(team_name_url)s"
 
-#: people/templates/people/_includes/person_team_membership.html:20
-#, python-format
-msgid "Go to “%(team_name)s” team"
-msgstr "“%(team_name)s” jamoasiga oʻting"
-
-#: people/templates/people/_includes/person_team_membership.html:25
+#: people/templates/people/_includes/person_team_membership.html:22
 #, python-format
 msgid "Are you sure you want to leave the %(team_name)s team?"
 msgstr "Haqiqatan ham %(team_name)s jamoasini tark etmoqchimisiz?"
 
-#: people/templates/people/_includes/person_team_membership.html:28
-#: teams/templates/teams/team_detail.html:48
+#: people/templates/people/_includes/person_team_membership.html:25
+#: teams/templates/teams/team_detail.html:51
 msgid "Leave"
 msgstr "Tashlab ket"
 
@@ -3108,11 +3121,11 @@ msgstr ""
 msgid "%(username)s - GNOME Contributor"
 msgstr "%(username)s - GNOME ishtirokchisi"
 
-#: people/templates/people/person_base.html:10
+#: people/templates/people/person_base.html:11
 msgid "Profile"
 msgstr "Profil"
 
-#: people/templates/people/person_base.html:15
+#: people/templates/people/person_base.html:16
 #: stats/templates/module_detail.html:93
 msgid "View on application’s backend"
 msgstr "Ilovaning orqa tomonida koʻrish"
@@ -3121,27 +3134,27 @@ msgstr "Ilovaning orqa tomonida koʻrish"
 msgid "Settings"
 msgstr "Sozlamalar"
 
-#: people/templates/people/person_base.html:30
+#: people/templates/people/person_base.html:29
 msgid "Change your details and settings"
 msgstr "Tafsilotlaringizni va sozlamalaringizni oʻzgartiring"
 
-#: people/templates/people/person_base.html:34
+#: people/templates/people/person_base.html:33
 msgid "Manage external authentication providers"
 msgstr "Tashqi autentifikatsiya provayderlarini boshqaring"
 
-#: people/templates/people/person_base.html:38
+#: people/templates/people/person_base.html:37
 msgid "Manage teams membership"
 msgstr "Jamoa aʼzoligini boshqaring"
 
-#: people/templates/people/person_base.html:44
+#: people/templates/people/person_base.html:43
 msgid "Create an authentication token"
 msgstr "Autentifikatsiya tokenini yarating"
 
-#: people/templates/people/person_base.html:52
+#: people/templates/people/person_base.html:51
 msgid "Are you sure you want to delete your authentication token?"
 msgstr "Haqiqatan ham autentifikatsiya tokenini oʻchirib tashlamoqchimisiz?"
 
-#: people/templates/people/person_base.html:54
+#: people/templates/people/person_base.html:53
 msgid "Delete the authentication token"
 msgstr "Autentifikatsiya belgisini oʻchiring"
 
@@ -3152,7 +3165,7 @@ msgstr "Tafsilotlaringizni oʻzgartiring"
 #: people/templates/people/person_detail_change_form.html:17
 #: people/templates/people/use_external_provider_or_create_account.html:66
 #: stats/templates/module_edit.html:17
-#: teams/templates/teams/team_detail.html:72
+#: teams/templates/teams/team_detail.html:74
 #: teams/templates/teams/team_edit.html:21
 msgid "Cancel"
 msgstr "Bekor qilish"
@@ -3436,15 +3449,15 @@ msgstr "Repozitariy"
 msgid "Branches without release"
 msgstr "Filiallar yangilandi"
 
-#: stats/admin.py:235
+#: stats/admin.py:232
 msgid "POT Generation Parameters"
 msgstr "POT yaratish parametrlari"
 
-#: stats/admin.py:248
+#: stats/admin.py:245
 msgid "Domain restriction over branches"
 msgstr "Filiallar uchun domen cheklovi"
 
-#: stats/admin.py:350
+#: stats/admin.py:347
 #, python-format
 msgid "Successfully deleted the release."
 msgid_plural "Successfully deleted %(number_of_releases)s releases."
@@ -3453,7 +3466,7 @@ msgstr[1] ""
 "Muvaffaqiyatli ravishda %(number_of_releases)s chiqishlarni o'chirib "
 "tashlandi."
 
-#: stats/admin.py:356
+#: stats/admin.py:353
 #, python-format
 msgid "Furthermore, the branch was deleted."
 msgid_plural "Furthermore, %(number_of_branches)s branches were deleted."
@@ -3489,7 +3502,7 @@ msgstr "Yangi filial %s qoʻshildi"
 msgid "Error adding the branch '%(branch_name)s': %(error)s"
 msgstr "“%(branch_name)s” filialini qoʻshishda xatolik yuz berdi: %(error)s"
 
-#: stats/forms.py:314
+#: stats/forms.py:320
 #, python-format
 msgid "Cannot clone repository for module: %s"
 msgstr ""
@@ -3520,7 +3533,7 @@ msgstr ""
 "Agar modulda .doap fayli boʻlsa, bosh sahifa URL manzili avtomatik ravishda "
 "yangilanadi."
 
-#: stats/models.py:84 stats/models.py:659 stats/models.py:1106
+#: stats/models.py:84 stats/models.py:655 stats/models.py:1111
 #: teams/models.py:70 vertimus/templates/vertimus/activity_summary.html:38
 msgid "Description"
 msgstr "Ta'rif"
@@ -3632,7 +3645,7 @@ msgstr ""
 "Versiyani boshqarish tizimining pastki yoʻli. Git tomonidan boshqariladigan "
 "loyiha uchun .git qaerda joylashgan."
 
-#: stats/models.py:259 stats/models.py:1118
+#: stats/models.py:259 stats/models.py:1123
 msgid "Weight"
 msgstr "Ogʻirlik"
 
@@ -3655,23 +3668,23 @@ msgstr "Ushbu filial hech qanday reliz bilan bogʻlanmagan."
 msgid "There is no documentation statistics for this branch."
 msgstr "Ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
 
-#: stats/models.py:570
+#: stats/models.py:569
 msgid "There is no documentation statistics for this branch in this language."
 msgstr ""
 "Ushbu tilda ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
 
-#: stats/models.py:579
+#: stats/models.py:578
 msgid "There is no user interface statistics for this branch."
 msgstr "Ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud emas."
 
-#: stats/models.py:587
+#: stats/models.py:585
 msgid ""
 "There is no user interface statistics for this branch in this language."
 msgstr ""
 "Ushbu tilda ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud "
 "emas."
 
-#: stats/models.py:621
+#: stats/models.py:617
 #, python-format
 msgid ""
 "This branch name is ‘%(branch_name)s’ while there already exists a branch "
@@ -3680,7 +3693,7 @@ msgstr ""
 "Bu filial nomi “%(branch_name)s” boʻlib, HEAD ga ishora qiluvchi filial "
 "allaqachon mavjud (%(branch_head_names)s deb ataladi)."
 
-#: stats/models.py:629
+#: stats/models.py:625
 msgid ""
 "There are too many main branches for this module. Please report this issue "
 "to the coordination team, some cleanup is needed."
@@ -3688,22 +3701,22 @@ msgstr ""
 "Ushbu modul uchun juda koʻp asosiy filiallar mavjud. Iltimos, bu muammoni "
 "muvofiqlashtiruvchi guruhga xabar bering, biroz tozalash kerak."
 
-#: stats/models.py:657
+#: stats/models.py:653
 msgid "The name of the domain (ie. “po”, “help”…)"
 msgstr "Domen nomi (masalan, “po”, “help”…)"
 
-#: stats/models.py:661
+#: stats/models.py:657
 #, python-format
 msgid ""
 "A description of the domain. “%(ui)s” and “%(doc)s” are common descriptions "
 "for modules."
 msgstr "Domen tavsifi. “%(ui)s” va “%(doc)s” modullar uchun umumiy tavsifdir."
 
-#: stats/models.py:666
+#: stats/models.py:662
 msgid "Domain type"
 msgstr "Domen turi"
 
-#: stats/models.py:670
+#: stats/models.py:666
 #, fuzzy, python-format
 #| msgid ""
 #| "Whether the Domain is a for a user interface (%(ui)s) or a documentation "
@@ -3715,11 +3728,11 @@ msgstr ""
 "Domen foydalanuvchi interfeysi (%(ui)s) yoki dokumentatsiya (%(doc)s) "
 "uchunmi."
 
-#: stats/models.py:677
+#: stats/models.py:673
 msgid "PO files layout"
 msgstr "PO fayllari tartibi"
 
-#: stats/models.py:680
+#: stats/models.py:676
 #, python-format
 msgid ""
 "The standard for the user interface is “%(po_layout_for_ui)s”. For the "
@@ -3728,23 +3741,23 @@ msgstr ""
 "Foydalanuvchi interfeysi uchun standart “%(po_layout_for_ui)s”. "
 "Dokumentatsiya uchun bu “%(po_layout_for_help)s”."
 
-#: stats/models.py:686
+#: stats/models.py:682
 msgid "POT generation method"
 msgstr "POT ishlab chiqarish usuli"
 
-#: stats/models.py:690
+#: stats/models.py:686
 msgid "The method to generate the POT file."
 msgstr "POT faylini yaratish usuli."
 
-#: stats/models.py:693
+#: stats/models.py:689
 msgid "POT generation parameters"
 msgstr "POT ishlab chiqarish parametrlari"
 
-#: stats/models.py:700
+#: stats/models.py:696
 msgid "Extra ITS directories"
 msgstr "Qoʻshimcha ITS kataloglari"
 
-#: stats/models.py:702
+#: stats/models.py:698
 #, fuzzy
 #| msgid ""
 #| "Colon-separated directories containing extra .its/.loc files for gettext"
@@ -3755,11 +3768,11 @@ msgstr ""
 "Gettext uchun qoʻshimcha .its/.loc fayllarni oʻz ichiga olgan ikki nuqta "
 "bilan ajratilgan kataloglar"
 
-#: stats/models.py:705
+#: stats/models.py:701
 msgid "LINGUAS file location"
 msgstr "LINGUAS fayl joylashuvi"
 
-#: stats/models.py:711
+#: stats/models.py:707
 #, python-format
 msgid ""
 "Use “%s” for no LINGUAS check, or path/to/file#variable for a non-standard location.\n"
@@ -3768,12 +3781,12 @@ msgstr ""
 "LINGUAS tekshiruvi uchun “%s” yoki nostandart joylashuv uchun path/to/file#variabledan foydalaning.\n"
 "Standart joylashuv uchun boʻsh qoldiring (UI uchun LINGUAS/configure.ac/.in da ALL_LINGUAS va DOC uchun Makefile.am da DOC_LINGUAS). Bu qiymat tilning LINGUAS faylida toʻgʻri koʻrsatilganligini tekshirish uchun ishlatiladi. Koʻpgina hollarda LINGUAS fayllari tarjimasi mavjud boʻlgan barcha tillarni oʻz ichiga olishi kerak."
 
-#: stats/models.py:721
+#: stats/models.py:717
 msgid "Reduced string filter"
 msgstr "Kamaytirilgan simli filtr"
 
 #. Translators: the placeholder is a filter name
-#: stats/models.py:726
+#: stats/models.py:722
 #, python-format
 msgid ""
 "A “%s” filter to strip po file from unprioritized strings (format: "
@@ -3782,36 +3795,36 @@ msgstr ""
 "Po faylini ustuvor boʻlmagan qatorlardan ajratib olish uchun “%s” filtri "
 "(format: joylashuv|string, filtrsiz uchun “-”)"
 
-#: stats/models.py:738
+#: stats/models.py:734
 msgid "Valid from branch"
 msgstr "Filialdan amal qiladi"
 
-#: stats/models.py:739
+#: stats/models.py:735
 msgid "The domain is valid from the branch given, for all branches otherwise."
 msgstr ""
 "Domen berilgan filialdan amal qiladi, aks holda barcha filiallar uchun."
 
-#: stats/models.py:747
+#: stats/models.py:743
 msgid "Valid to branch"
 msgstr "Filial uchun amal qiladi"
 
-#: stats/models.py:748
+#: stats/models.py:744
 msgid ""
 "If empty, the domain is valid for all branches or until the branch given."
 msgstr ""
 "Agar boʻsh boʻlsa, domen barcha filiallar uchun yoki berilgan filialga qadar"
 " amal qiladi."
 
-#: stats/models.py:860
+#: stats/models.py:857
 #, python-format
 msgid "Unable to determine the PO path for this domain in language “%(lang)s”"
 msgstr "“%(lang)s” tilida bu domen uchun PO yoʻlini aniqlab boʻlmadi"
 
-#: stats/models.py:874
+#: stats/models.py:871
 msgid "This domain is not a documentation domain."
 msgstr "Bu domen dokumentatsiya domeni emas."
 
-#: stats/models.py:917
+#: stats/models.py:915
 #, python-format
 msgid ""
 "No check of the LINGUAS file. The “%(linguas_location)s” value is set to "
@@ -3820,7 +3833,7 @@ msgstr ""
 "LINGUAS fayli tekshirilmagan. “%(linguas_location)s” qiymati “%(value)s” ga "
 "oʻrnatiladi."
 
-#: stats/models.py:933
+#: stats/models.py:931
 #, python-format
 msgid ""
 "The LINGUAS file is stored at “%(linguas_location)s” but does not exist on "
@@ -3828,7 +3841,7 @@ msgid ""
 " and updated."
 msgstr ""
 
-#: stats/models.py:978
+#: stats/models.py:977
 #, python-format
 msgid ""
 "Entry for this language is not present in %(var)s variable in %(file)s file."
@@ -3836,12 +3849,12 @@ msgstr ""
 "Bu til uchun yozuv %(file)s faylidagi %(var)s oʻzgaruvchisida mavjud emas."
 
 #. Translators: do not translate dtype, it’s a technical term.
-#: stats/models.py:991
+#: stats/models.py:990
 #, python-format
 msgid "Domain dtype should be “%(dtype_ui)s” or “%(dtype_doc)s”."
 msgstr "Domen turi “%(dtype_ui)s” yoki “%(dtype_doc)s” boʻlishi kerak."
 
-#: stats/models.py:1101
+#: stats/models.py:1106
 msgid ""
 "The name of the release. You should use a slug, a unique identifier for this"
 " release, such as “gnome-40”. This information is used in URLs."
@@ -3850,100 +3863,100 @@ msgstr ""
 "boʻlgan slugdan foydalanishingiz kerak. Ushbu ma'lumotlar URL manzillarida "
 "ishlatiladi."
 
-#: stats/models.py:1106
+#: stats/models.py:1111
 msgid "The real name of the release, such as “GIMP 2.8” or “GNOME 40”"
 msgstr "“GIMP 2.8” yoki “GNOME 40” kabi nashrning haqiqiy nomi"
 
-#: stats/models.py:1109
+#: stats/models.py:1114
 msgid "String frozen"
 msgstr "String muzlatilgan"
 
-#: stats/models.py:1109
+#: stats/models.py:1114
 msgid "Whether the strings are frozen for this release."
 msgstr "Ushbu nashr uchun satrlar muzlatilganmi yoki yoʻqmi."
 
-#: stats/models.py:1115
+#: stats/models.py:1120
 msgid "The status of the release: whether it is official or not."
 msgstr "Chiqarish holati: rasmiymi yoki yoʻqmi."
 
-#: stats/models.py:1120
+#: stats/models.py:1125
 msgid ""
 "The weight is used to sort releases, higher on top, below 0 in archives."
 msgstr ""
 "Ogʻirligi arxivda 0 dan pastroq boʻlgan yuqoriroqdagi nashrlarni saralash "
 "uchun ishlatiladi."
 
-#: stats/models.py:1123 stats/templates/module_edit.html:49
+#: stats/models.py:1128 stats/templates/module_edit.html:49
 msgid "Branches"
 msgstr "Filiallar"
 
-#: stats/models.py:1511
+#: stats/models.py:1516
 msgid "Category name"
 msgstr "Turkum nomi"
 
-#: stats/models.py:1709 vertimus/admin.py:42 vertimus/models.py:102
+#: stats/models.py:1714 vertimus/admin.py:42 vertimus/models.py:102
 msgid "Domain"
 msgstr "Domen"
 
-#: stats/models.py:1710 stats/templates/release_detail.html:19
+#: stats/models.py:1715 stats/templates/release_detail.html:19
 #: stats/templates/stats_show.html:74 vertimus/admin.py:52
 #: vertimus/models.py:103
 msgid "Language"
 msgstr "Til"
 
-#: stats/models.py:1713
+#: stats/models.py:1718
 msgid "Full PO file"
 msgstr "Toʻliq PO fayli"
 
-#: stats/models.py:1716
+#: stats/models.py:1721
 msgid "Partial PO file"
 msgstr "Qisman PO fayli"
 
-#: stats/models.py:1822 stats/models.py:2431
+#: stats/models.py:1828 stats/models.py:2438
 #, python-format
 msgid "%(lang_name)s (%(lang_locale)s)"
 msgstr "%(lang_name)s (%(lang_locale)s)"
 
-#: stats/models.py:1882
+#: stats/models.py:1890
 #, python-format
 msgid "%(count)s message"
 msgid_plural "%(count)s messages"
 msgstr[0] "%(count)s xabar"
 msgstr[1] "%(count)s ta xabarlar"
 
-#: stats/models.py:1883
+#: stats/models.py:1891
 #, python-format
 msgid "%(count)s word"
 msgid_plural "%(count)s words"
 msgstr[0] "%(count)s soʻz"
 msgstr[1] "%(count)s ta soʻzlar"
 
-#: stats/models.py:1885
+#: stats/models.py:1893
 #, python-format
 msgid "%(count)s figure"
 msgid_plural "%(count)s figures"
 msgstr[0] "%(count)s raqam"
 msgstr[1] "%(count)s ta raqamlar"
 
-#: stats/models.py:1886
+#: stats/models.py:1894
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s, %(figures)s)"
 msgstr "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 
-#: stats/models.py:1892
+#: stats/models.py:1900
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s)"
 msgstr "(%(messages)s — %(words)s) — %(updated)s"
 
-#: stats/models.py:1897
+#: stats/models.py:1905
 #, fuzzy
 #| msgid "Unable to summarise the POT statistics, the file is missing."
 msgid "Unable to summarize the POT statistics, the file is missing."
 msgstr "POT statistikasini umumlashtirib boʻlmadi, fayl yoʻq."
 
-#: stats/models.py:2058
+#: stats/models.py:2064
 msgid ""
 "Error while updating statistics using “%(file_path)”. The file may not exist"
 " on disk or is unreadable."
@@ -3951,7 +3964,7 @@ msgstr ""
 "“%(file_path)” yordamida statistikani yangilashda xatolik yuz berdi. Fayl "
 "diskda mavjud boʻlmasligi yoki oʻqib boʻlmaydigan boʻlishi mumkin."
 
-#: stats/models.py:2079
+#: stats/models.py:2085
 msgid ""
 "The original file with strings to translate (.pot) has been updated by the "
 "software developers, and the changes have to be merged to the translation "
@@ -5086,39 +5099,39 @@ msgstr ""
 "GNOME tarjima loyihasining %(lang)s jamoasi tomonidan bajarilgan oxirgi "
 "harakatlar"
 
-#: teams/templates/teams/team_detail.html:60
+#: teams/templates/teams/team_detail.html:46
+#, python-format
+msgid "%(language)s Translation Team"
+msgstr "%(language)s Tarjimon jamoasi"
+
+#: teams/templates/teams/team_detail.html:62
 #, python-format
 msgid "Leave the “<b>%(language)s</b>” team"
 msgstr "“ <b>%(language)s</b> ” jamoasini tark eting"
 
-#: teams/templates/teams/team_detail.html:64
+#: teams/templates/teams/team_detail.html:66
 msgid "By leaving the team, you will:"
 msgstr "Jamoani tark etish orqali siz:"
 
-#: teams/templates/teams/team_detail.html:66
+#: teams/templates/teams/team_detail.html:68
 msgid "Stop being able to contribute."
 msgstr "Hissa qoʻshishni toʻxtating."
 
-#: teams/templates/teams/team_detail.html:67
+#: teams/templates/teams/team_detail.html:69
 msgid "Lose the right to translate."
 msgstr "Tarjima qilish huquqini yoʻqoting."
 
-#: teams/templates/teams/team_detail.html:68
+#: teams/templates/teams/team_detail.html:70
 msgid "Lose your rights as a reviewer or committer."
 msgstr "Taqrizchi yoki komitter sifatida huquqlaringizni yoʻqoting."
 
-#: teams/templates/teams/team_detail.html:77
+#: teams/templates/teams/team_detail.html:79
 msgid "Leave the team"
 msgstr "Jamoani tark eting"
 
-#: teams/templates/teams/team_detail.html:89
+#: teams/templates/teams/team_detail.html:91
 msgid "Join"
 msgstr "Qoʻshilish"
-
-#: teams/templates/teams/team_detail.html:93
-#, python-format
-msgid "%(language)s Translation Team"
-msgstr "%(language)s Tarjimon jamoasi"
 
 #: teams/templates/teams/team_detail.html:107
 msgid ""
@@ -5132,27 +5145,27 @@ msgstr ""
 "href=\"https://wiki.gnome.org/TranslationProject/StartingATeam\">GTP Wiki-"
 "ga</a> qarang."
 
-#: teams/templates/teams/team_detail.html:119
+#: teams/templates/teams/team_detail.html:120
 msgid "Plural forms:"
 msgstr "Koʻplik shakllari:"
 
-#: teams/templates/teams/team_detail.html:120
+#: teams/templates/teams/team_detail.html:121
 msgid "Current activities"
 msgstr "Joriy faoliyat"
 
-#: teams/templates/teams/team_detail.html:131
+#: teams/templates/teams/team_detail.html:132
 msgid "Show/hide archived translations"
 msgstr "Arxivlangan tarjimalarni koʻrsatish/yashirish"
 
-#: teams/templates/teams/team_detail.html:136
+#: teams/templates/teams/team_detail.html:137
 msgid "Archives"
 msgstr "Arxivlar"
 
-#: teams/templates/teams/team_detail.html:157
+#: teams/templates/teams/team_detail.html:158
 msgid "Show or hide inactive team members"
 msgstr "Nofaol jamoa aʼzolarini koʻrsatish yoki yashirish"
 
-#: teams/templates/teams/team_detail.html:175
+#: teams/templates/teams/team_detail.html:176
 msgid "Apply modifications"
 msgstr "Oʻzgartirishlarni qoʻllash"
 
@@ -6441,6 +6454,10 @@ msgstr ""
 
 #~ msgid "Authentication Token"
 #~ msgstr "Autentifikatsiya tokeni"
+
+#, python-format
+#~ msgid "Go to “%(team_name)s” team"
+#~ msgstr "“%(team_name)s” jamoasiga oʻting"
 
 #, python-format
 #~ msgid "updated on %(date)s"

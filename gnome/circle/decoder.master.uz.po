@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: decoder master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Decoder/-/issues\n"
-"POT-Creation-Date: 2025-12-27 21:16+0000\n"
+"POT-Creation-Date: 2026-02-05 19:15+0000\n"
 "PO-Revision-Date: 2025-10-02 13:35+0500\n"
 "Last-Translator: let_rec <https://github.com/let-rec>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -309,11 +309,11 @@ msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 msgid "None"
 msgstr "Hech biri"
 
-#: src/widgets/qrcode/create.rs:118 src/widgets/qrcode/scanned_page.rs:124
+#: src/widgets/qrcode/create.rs:118 src/widgets/qrcode/scanned_page.rs:119
 msgid "Could not generate QR code"
 msgstr "QR kod yaratib boʻlmadi"
 
-#: src/widgets/qrcode/create.rs:162 src/widgets/qrcode/scanned_page.rs:119
+#: src/widgets/qrcode/create.rs:162 src/widgets/qrcode/scanned_page.rs:114
 msgid "QR Code saved in history"
 msgstr "QR kod tarixga saqlandi"
 

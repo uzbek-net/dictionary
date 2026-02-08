@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boatswain main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/boatswain/issues\n"
-"POT-Creation-Date: 2025-12-16 21:38+0000\n"
+"POT-Creation-Date: 2026-01-31 21:11+0000\n"
 "PO-Revision-Date: 2025-10-03 19:25+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -288,17 +288,17 @@ msgstr "Boatswain haqida"
 msgid "_Quit"
 msgstr "Chiqish"
 
-#: src/gtk/help-overlay.ui:11
+#: src/shortcuts-dialog.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Umumiy"
 
-#: src/gtk/help-overlay.ui:14
+#: src/shortcuts-dialog.ui:9
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "Yorliqlarni koʻrsatish"
 
-#: src/gtk/help-overlay.ui:20
+#: src/shortcuts-dialog.ui:15
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Chiqish"

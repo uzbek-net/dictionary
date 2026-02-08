@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libsoup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues/\n"
-"POT-Creation-Date: 2026-01-28 14:56+0000\n"
+"POT-Creation-Date: 2026-02-02 09:48+0000\n"
 "PO-Revision-Date: 2025-04-04 09:46+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -31,20 +31,20 @@ msgid "Output buffer is too small"
 msgstr "Chiqish buferi juda kichik"
 
 #: libsoup/http1/soup-body-input-stream.c:155
-#: libsoup/http1/soup-body-input-stream.c:188
-#: libsoup/http1/soup-body-input-stream.c:223
-#: libsoup/http1/soup-body-input-stream.c:242
+#: libsoup/http1/soup-body-input-stream.c:190
+#: libsoup/http1/soup-body-input-stream.c:226
+#: libsoup/http1/soup-body-input-stream.c:246
 #: libsoup/http1/soup-message-io-data.c:77
 #: libsoup/http2/soup-client-message-io-http2.c:483
 #: libsoup/server/http2/soup-server-message-io-http2.c:466
 msgid "Connection terminated unexpectedly"
 msgstr "Ulanish kutilmaganda uzildi"
 
-#: libsoup/http1/soup-body-input-stream.c:489
+#: libsoup/http1/soup-body-input-stream.c:493
 msgid "Invalid seek request"
 msgstr "Notoʻgʻri qidiruv soʻrovi"
 
-#: libsoup/http1/soup-body-input-stream.c:517
+#: libsoup/http1/soup-body-input-stream.c:521
 msgid "Cannot truncate SoupBodyInputStream"
 msgstr "SoupBodyInputStreamni kesib boʻlmadi"
 
@@ -52,7 +52,7 @@ msgstr "SoupBodyInputStreamni kesib boʻlmadi"
 #: libsoup/http1/soup-client-message-io-http1.c:776
 #: libsoup/http2/soup-body-input-stream-http2.c:248
 #: libsoup/server/http1/soup-server-message-io-http1.c:417
-#: libsoup/server/http1/soup-server-message-io-http1.c:891
+#: libsoup/server/http1/soup-server-message-io-http1.c:899
 msgid "Operation would block"
 msgstr "Operatsiya bloklanadi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2026-01-28 14:59+0000\n"
+"POT-Creation-Date: 2026-02-04 11:02+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -496,17 +496,17 @@ msgid_plural "Almost %dy"
 msgstr[0] "Deyarli %dy"
 msgstr[1] "Deyarli %dy"
 
-#: src/polkit-auth-agent.c:271
+#: src/polkit-auth-agent.c:275
 msgid "Authentication dialog was dismissed by the user"
 msgstr "Autentifikatsiya dialogi foydalanuvchi tomonidan oʻchirildi"
 
-#: src/polkit-auth-prompt.c:275 src/ui/gtk-mount-prompt.ui:17
-#: src/ui/network-auth-prompt.ui:69 src/ui/polkit-auth-prompt.ui:45
+#: src/polkit-auth-prompt.c:382 src/ui/gtk-mount-prompt.ui:17
+#: src/ui/network-auth-prompt.ui:69 src/ui/polkit-auth-prompt.ui:44
 #: src/ui/system-prompt.ui:28
 msgid "Password:"
 msgstr "Parol:"
 
-#: src/polkit-auth-prompt.c:322
+#: src/polkit-auth-prompt.c:429
 msgid "Sorry, that didn’t work. Please try again."
 msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 
@@ -655,7 +655,7 @@ msgstr ""
 msgid "Do not disturb"
 msgstr ""
 
-#: src/ui/feedback-status-page.ui:52
+#: src/ui/feedback-status-page.ui:53
 #, fuzzy
 #| msgid "Folder Settings"
 msgid "Feedback Settings"
@@ -701,7 +701,7 @@ msgstr "_Bekor qilish"
 msgid "C_onnect"
 msgstr "C_ulanish"
 
-#: src/ui/polkit-auth-prompt.ui:97
+#: src/ui/polkit-auth-prompt.ui:96
 msgid "Authenticate"
 msgstr "Autentifikatsiya"
 
@@ -830,9 +830,15 @@ msgstr "Yoniq"
 msgid "Caffeine timers"
 msgstr ""
 
-#: plugins/caffeine-quick-setting/qs.ui:37
+#: plugins/caffeine-quick-setting/qs.ui:38
 msgid "No caffeine intervals"
 msgstr ""
+
+#: plugins/caffeine-quick-setting/qs.ui:55
+#, fuzzy
+#| msgid "Caffeine Quick Setting"
+msgid "Caffeine Settings"
+msgstr "Kofeinni tez sozlash"
 
 #: plugins/caffeine-quick-setting/prefs/caffeine-quick-setting-prefs.c:253
 #: plugins/caffeine-quick-setting/prefs/prefs.ui:171
