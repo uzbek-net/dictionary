@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-02-04 17:29+0000\n"
+"POT-Creation-Date: 2026-02-12 14:39+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -161,31 +161,27 @@ msgstr "- Mobil sozlamalaringizni boshqaring"
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: src/ms-audio-devices.c:178
+#: src/ms-audio-devices.c:179
 msgid "Media Volume"
 msgstr ""
 
-#: src/ms-audio-devices.c:180
+#: src/ms-audio-devices.c:182
 msgid "Notification Volume"
 msgstr ""
 
-#: src/ms-audio-devices.c:182
+#: src/ms-audio-devices.c:185
 msgid "Voice Call Volume"
 msgstr ""
 
-#: src/ms-audio-devices.c:184
+#: src/ms-audio-devices.c:188
 msgid "Ring Tone Volume"
 msgstr ""
 
-#: src/ms-audio-devices.c:186
-msgid "Call volume"
-msgstr ""
-
-#: src/ms-audio-devices.c:188
+#: src/ms-audio-devices.c:191
 msgid "Alarm Volume"
 msgstr ""
 
-#: src/ms-audio-devices.c:190
+#: src/ms-audio-devices.c:194
 #, fuzzy
 #| msgid "Emergency Calls"
 msgid "Emergency Alerts Volume"
@@ -195,45 +191,45 @@ msgstr "Favqulodda qoʻngʻiroqlar"
 msgid "Message of unknown severity"
 msgstr ""
 
-#: src/ms-feedback-panel.c:215
+#: src/ms-feedback-panel.c:309
 msgid "Sound file does not exist"
 msgstr "Ovoz fayli mavjud emas"
 
-#: src/ms-feedback-panel.c:217
+#: src/ms-feedback-panel.c:311
 msgid "Sound file is corrupt"
 msgstr "Ovoz fayli buzilgan"
 
-#: src/ms-feedback-panel.c:219
+#: src/ms-feedback-panel.c:313
 msgid "Failed to play sound"
 msgstr "Ovoz ijro qilinmadi"
 
-#: src/ms-feedback-panel.c:258
+#: src/ms-feedback-panel.c:352
 #, c-format
 msgid "Playing %s"
 msgstr "%s ijro etilmoqda"
 
 #. Translators: "low" categorizes notifications with minor importance
-#: src/ms-feedback-panel.c:435
+#: src/ms-feedback-panel.c:529
 msgid "low"
 msgstr "past"
 
 #. Translators: "normal" categorizes notifications with standard importance
-#: src/ms-feedback-panel.c:438
+#: src/ms-feedback-panel.c:532
 msgid "normal"
 msgstr "normal"
 
 #. Translators: "critical" categorizes notifications with urgent importance
-#: src/ms-feedback-panel.c:441
+#: src/ms-feedback-panel.c:535
 msgid "critical"
 msgstr "juda muhim xato"
 
 #. Translators: "none" is the default for notifications with no specified
 #. importance
-#: src/ms-feedback-panel.c:445
+#: src/ms-feedback-panel.c:539
 msgid "none"
 msgstr "mavjud emas"
 
-#: src/ms-feedback-panel.c:829
+#: src/ms-feedback-panel.c:954
 #, fuzzy
 #| msgid "Mobile Settings"
 msgid "Mobile Settings Volume Control"
@@ -244,15 +240,15 @@ msgid "Failed to set lockscreen wallpaper"
 msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
 
 #. Translators: The default completer
-#: src/ms-osk-panel.c:744
+#: src/ms-osk-panel.c:747
 msgid "Default"
 msgstr "Odatiy"
 
-#: src/ms-osk-panel.c:745
+#: src/ms-osk-panel.c:748
 msgid "The default completer selected by the OSK"
 msgstr "OSK tomonidan tanlangan standart toʻldiruvchi"
 
-#: src/ms-osk-panel.c:748
+#: src/ms-osk-panel.c:751
 msgid "No information available for this completer"
 msgstr "Bu toʻldiruvchi uchun maʼlumot yoʻq"
 
@@ -559,33 +555,37 @@ msgstr "Yoqilgan"
 msgid "Sound Settings"
 msgstr "Tez sozlamalar elementi"
 
-#: src/ui/ms-feedback-panel.ui:27
+#: src/ui/ms-feedback-panel.ui:17
+msgid "Play sound on adjusting volume sliders"
+msgstr ""
+
+#: src/ui/ms-feedback-panel.ui:33
 #, fuzzy
 #| msgid "Quick Settings"
 msgid "Feedback Settings"
 msgstr "Tez sozlamalar elementi"
 
-#: src/ui/ms-feedback-panel.ui:30
+#: src/ui/ms-feedback-panel.ui:36
 msgid "Feedback profile"
 msgstr "Fikr-mulohaza profili"
 
-#: src/ui/ms-feedback-panel.ui:31
+#: src/ui/ms-feedback-panel.ui:37
 msgid "The global maximum feedback profile"
 msgstr "Global maksimal qayta aloqa profili"
 
-#: src/ui/ms-feedback-panel.ui:46
+#: src/ui/ms-feedback-panel.ui:52
 msgid "Prefer flash"
 msgstr "Chiroqni afzal koʻring"
 
-#: src/ui/ms-feedback-panel.ui:47
+#: src/ui/ms-feedback-panel.ui:53
 msgid "Prefer camera flash over status LED when available"
 msgstr "Mavjud boʻlsa, holat LED'idan koʻra kamera chirogʻini afzal koʻring"
 
-#: src/ui/ms-feedback-panel.ui:53
+#: src/ui/ms-feedback-panel.ui:59
 msgid "Silence by volume button press"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:54
+#: src/ui/ms-feedback-panel.ui:60
 #, fuzzy
 #| msgid ""
 #| "When locked put the phone in silent mode when pressing Vol- on incoming "
@@ -598,111 +598,111 @@ msgstr ""
 "qoʻying"
 
 #. Translators: Strength of the haptic motor
-#: src/ui/ms-feedback-panel.ui:60
+#: src/ui/ms-feedback-panel.ui:66
 msgid "Haptic strength"
 msgstr "Haptik kuch"
 
-#: src/ui/ms-feedback-panel.ui:61
+#: src/ui/ms-feedback-panel.ui:67
 msgid "Maximum haptic feedback strength percentage"
 msgstr "Haptik aloqa kuchining maksimal foizi"
 
-#: src/ui/ms-feedback-panel.ui:80
+#: src/ui/ms-feedback-panel.ui:86
 msgid "Per Application settings"
 msgstr "Har bir ilova sozlamalari"
 
-#: src/ui/ms-feedback-panel.ui:93 src/ui/ms-window.ui:159
+#: src/ui/ms-feedback-panel.ui:99 src/ui/ms-window.ui:159
 msgid "Sounds"
 msgstr "Tovushlar"
 
-#: src/ui/ms-feedback-panel.ui:94
+#: src/ui/ms-feedback-panel.ui:100
 msgid "The sound to use for certain events"
 msgstr "Muayyan hodisalar uchun ishlatiladigan ovoz"
 
-#: src/ui/ms-feedback-panel.ui:108
+#: src/ui/ms-feedback-panel.ui:114
 msgid "Phone Calls"
 msgstr "Telefon qoʻngʻiroqlari"
 
-#: src/ui/ms-feedback-panel.ui:120
+#: src/ui/ms-feedback-panel.ui:126
 msgid "SMS"
 msgstr "SMS"
 
-#: src/ui/ms-feedback-panel.ui:132 src/ui/ms-feedback-panel.ui:201
+#: src/ui/ms-feedback-panel.ui:138 src/ui/ms-feedback-panel.ui:207
 #, fuzzy
 #| msgid "Instant messages"
 msgid "Instant Messages"
 msgstr "Tezkor xabarlar"
 
-#: src/ui/ms-feedback-panel.ui:145
+#: src/ui/ms-feedback-panel.ui:151
 msgid "Alarm Clock"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:156
+#: src/ui/ms-feedback-panel.ui:162
 msgid "Screen Wakeup"
 msgstr "Ekranni uygʻotish"
 
-#: src/ui/ms-feedback-panel.ui:159
+#: src/ui/ms-feedback-panel.ui:165
 msgid "Notification urgency that lights up the screen"
 msgstr "Ekranni yoritib yuboradigan shoshilinch bildirishnoma"
 
-#: src/ui/ms-feedback-panel.ui:177
+#: src/ui/ms-feedback-panel.ui:183
 msgid ""
 "Notification categories that wake up the screen independent from their "
 "urgency"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:180
+#: src/ui/ms-feedback-panel.ui:186
 #, fuzzy
 #| msgid "Phone Calls"
 msgid "Calls"
 msgstr "Telefon qoʻngʻiroqlari"
 
-#: src/ui/ms-feedback-panel.ui:181
+#: src/ui/ms-feedback-panel.ui:187
 msgid "A generic audio or video call notification"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:187
+#: src/ui/ms-feedback-panel.ui:193
 #, fuzzy
 #| msgid "Device"
 msgid "Device events"
 msgstr "Qurilma"
 
-#: src/ui/ms-feedback-panel.ui:188
+#: src/ui/ms-feedback-panel.ui:194
 msgid "A generic device-related notification"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:194
+#: src/ui/ms-feedback-panel.ui:200
 msgid "Emails"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:195
+#: src/ui/ms-feedback-panel.ui:201
 msgid "A generic e-mail-related notification"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:202
+#: src/ui/ms-feedback-panel.ui:208
 msgid "A generic instant message-related notification"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:208
+#: src/ui/ms-feedback-panel.ui:214
 msgid "Network events"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:209
+#: src/ui/ms-feedback-panel.ui:215
 msgid "A generic network notification"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:215
+#: src/ui/ms-feedback-panel.ui:221
 msgid "Presence changes"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:216
+#: src/ui/ms-feedback-panel.ui:222
 msgid "A generic presence change notification"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:222
+#: src/ui/ms-feedback-panel.ui:228
 msgid "File transfers"
 msgstr ""
 
-#: src/ui/ms-feedback-panel.ui:223
+#: src/ui/ms-feedback-panel.ui:229
 msgid "A generic file transfer or download notification"
 msgstr ""
 
@@ -816,7 +816,7 @@ msgstr ""
 msgid "_Shortcut Key"
 msgstr "Yorliqlar"
 
-#: src/ui/ms-osk-add-shortcut-dialog.ui:154
+#: src/ui/ms-osk-add-shortcut-dialog.ui:167
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "Shortcut Preview"
@@ -930,7 +930,7 @@ msgid "Keep physical size constant"
 msgstr ""
 
 #: src/ui/ms-osk-panel.ui:105
-msgid "Whether to keep the OSK's size constant in portrait mode"
+msgid "Ensure OSK is large enough in high screen resolutions"
 msgstr ""
 
 #: src/ui/ms-osk-panel.ui:111

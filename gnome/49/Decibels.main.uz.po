@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Decibels main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/Incubator/decibels/-/issues\n"
-"POT-Creation-Date: 2025-12-24 11:31+0000\n"
+"POT-Creation-Date: 2026-01-25 19:47+0000\n"
 "PO-Revision-Date: 2025-04-10 08:01+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -69,6 +69,7 @@ msgstr "_Audio ijro vositasi haqida"
 #: data/org.gnome.Decibels.desktop.in.in:2
 #: data/org.gnome.Decibels.desktop.in.in:3
 #: data/org.gnome.Decibels.metainfo.xml.in.in:4 data/window.blp:8
+#: src/application.ts:27
 msgid "Audio Player"
 msgstr "Audio ijro vositasi"
 
@@ -196,7 +197,7 @@ msgstr ""
 
 #. Translators: Replace "translator-credits" with your names, one name per
 #. line
-#: src/application.ts:73
+#: src/application.ts:76
 msgid "translator-credits"
 msgstr "Asadbek Rajabov <asadbekrajabov1337@gmail.com>"
 
@@ -208,15 +209,15 @@ msgstr "Tashlangan fayllarga ruxsat olib boʻlmadi"
 msgid "An unknown error happened"
 msgstr "Noma'lum xatolik yuz berdi"
 
-#: src/player.ts:120
+#: src/player.ts:127
 msgid "Pause"
 msgstr "Pauza"
 
-#: src/player.ts:120
+#: src/player.ts:127
 msgid "Play"
 msgstr "Ijro qilish"
 
-#: src/stream.ts:271
+#: src/stream.ts:262
 msgid ""
 "File uses a format that cannot be played. Additional media codecs may be "
 "required."
@@ -224,7 +225,7 @@ msgstr ""
 "Fayl ijro qilib boʻlmaydigan formatdan foydalanmoqda. Qoʻshimcha media "
 "kodeklari talab qilinishi mumkin."
 
-#: src/stream.ts:283
+#: src/stream.ts:274
 msgid ""
 "An error happened while trying to get information about the file. Please try"
 " again."
@@ -232,20 +233,20 @@ msgstr ""
 "Fayl haqida ma'lumot olishga urinishda xatolik yuz berdi. Iltimos, qayta "
 "urinib koʻring."
 
-#: src/stream.ts:294
+#: src/stream.ts:285
 msgid "File uses an invalid URI"
 msgstr "Fayl notoʻgʻri URI ishlatilgan"
 
-#: src/stream.ts:305
+#: src/stream.ts:296
 msgid "Reading the file’s information timed out. Please try again."
 msgstr ""
 "Fayl ma'lumotlarini oʻqish vaqti tugadi. Iltimos, qayta urinib koʻring."
 
-#: src/stream.ts:421
+#: src/stream.ts:404
 msgid "Unknown File"
 msgstr "Noma'lum fayl"
 
-#: src/stream.ts:667
+#: src/stream.ts:649
 msgid "The selected file doesn’t contain any audio"
 msgstr "Tanlangan faylda hech qanday audio mavjud emas"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2026-02-06 22:44+0000\n"
+"POT-Creation-Date: 2026-02-12 00:06+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1160,7 +1160,7 @@ msgstr "%s uchun PIN kodini kiriting, %s:%d da autentifikatsiya qilish uchun."
 #: embed/ephy-client-certificate-manager.c:446 embed/ephy-download.c:767
 #: embed/ephy-web-view.c:1377 src/ephy-history-dialog.c:893
 #: src/ephy-passwords-view.c:158 src/ephy-shell.c:417 src/ephy-window.c:267
-#: src/ephy-window.c:2289 src/preferences/autofill-view.c:363
+#: src/ephy-window.c:2290 src/preferences/autofill-view.c:363
 #: src/preferences/extension-view.c:117
 #: src/resources/gtk/bookmark-properties.blp:20
 #: src/resources/gtk/firefox-sync-dialog.blp:98
@@ -1258,7 +1258,7 @@ msgid "Finished downloading %s"
 msgstr "%s ni yuklab olish tugadi"
 
 #. Translators: the title of the notification.
-#: embed/ephy-download.c:969 src/ephy-window.c:3914
+#: embed/ephy-download.c:969 src/ephy-window.c:3915
 msgid "Download finished"
 msgstr "Yuklab olish tugadi"
 
@@ -2426,7 +2426,7 @@ msgid "Bookmark removed"
 msgstr "Xatchoʻp olib tashlandi"
 
 #. Undo, redo.
-#: src/bookmarks/ephy-bookmarks-dialog.c:851 src/ephy-window.c:987
+#: src/bookmarks/ephy-bookmarks-dialog.c:851 src/ephy-window.c:988
 #: src/preferences/prefs-features-page.c:276
 msgid "_Undo"
 msgstr "_Bekor qilish"
@@ -2646,7 +2646,7 @@ msgstr "Butun ekrandan chiqish"
 msgid "Select _None"
 msgstr "Tanlashni _bekor qilish"
 
-#: src/ephy-history-dialog.c:267 src/ephy-window.c:995
+#: src/ephy-history-dialog.c:267 src/ephy-window.c:996
 #: src/resources/gtk/history-dialog.blp:47
 msgid "Select _All"
 msgstr "_Barchasini tanlash"
@@ -2760,7 +2760,7 @@ msgstr ""
 msgid "Copy password"
 msgstr "Paroldan nusxa olish"
 
-#: src/ephy-passwords-view.c:259 src/ephy-window.c:4011
+#: src/ephy-passwords-view.c:259 src/ephy-window.c:4012
 msgid "Username"
 msgstr "Foydalanuvchi nomi"
 
@@ -2768,7 +2768,7 @@ msgstr "Foydalanuvchi nomi"
 msgid "Copy username"
 msgstr "Foydalanuvchi nomidan nusxa olish"
 
-#: src/ephy-passwords-view.c:277 src/ephy-window.c:4018
+#: src/ephy-passwords-view.c:277 src/ephy-window.c:4019
 msgid "Password"
 msgstr "Parol"
 
@@ -2918,158 +2918,158 @@ msgstr "Qidiruv tizimlari tavsiyalarini yuklab boʻlmadi: %s"
 msgid "Open a new tab"
 msgstr "Yangi varaq ochish"
 
-#: src/ephy-window.c:988
+#: src/ephy-window.c:989
 msgid "Re_do"
 msgstr "Qa_ytarish"
 
 #. Edit.
-#: src/ephy-window.c:991
+#: src/ephy-window.c:992
 msgid "Cu_t"
 msgstr "Qi_rqish"
 
-#: src/ephy-window.c:992
+#: src/ephy-window.c:993
 msgid "_Copy"
 msgstr "_Nusxa olish"
 
-#: src/ephy-window.c:993
+#: src/ephy-window.c:994
 msgid "_Paste"
 msgstr "_Qoʻyish"
 
-#: src/ephy-window.c:994
+#: src/ephy-window.c:995
 msgid "_Paste Text Only"
 msgstr "_Faqat matnni qoʻyish"
 
-#: src/ephy-window.c:997
+#: src/ephy-window.c:998
 msgid "S_end Link by Email…"
 msgstr "Havolani e-pochta orqali _joʻnatish…"
 
-#: src/ephy-window.c:998
+#: src/ephy-window.c:999
 msgid "Add _Link to Bookmarks"
 msgstr "_Havolani xatchoʻplarga qoʻshish"
 
-#: src/ephy-window.c:1000
+#: src/ephy-window.c:1001
 msgid "_Reload"
 msgstr "_Qayta yuklash"
 
-#: src/ephy-window.c:1001
+#: src/ephy-window.c:1002
 msgid "_Back"
 msgstr "_Orqaga"
 
-#: src/ephy-window.c:1002
+#: src/ephy-window.c:1003
 msgid "_Forward"
 msgstr "_Oldinga"
 
 #. Bookmarks
-#: src/ephy-window.c:1005
+#: src/ephy-window.c:1006
 msgid "Add Boo_kmark…"
 msgstr "_Xatchoʻp qoʻshish…"
 
 #. Links.
-#: src/ephy-window.c:1009
+#: src/ephy-window.c:1010
 msgid "Open Link in New _Window"
 msgstr "Havolani yangi _oynada ochish"
 
-#: src/ephy-window.c:1010
+#: src/ephy-window.c:1011
 msgid "Open Link in New _Tab"
 msgstr "Havolani yangi _varaqda ochish"
 
-#: src/ephy-window.c:1011
+#: src/ephy-window.c:1012
 msgid "Open Link in I_ncognito Window"
 msgstr "Havolani _maxfiy oynada ochish"
 
-#: src/ephy-window.c:1012
+#: src/ephy-window.c:1013
 msgid "_Save Link As…"
 msgstr "Havolani quyidagidek _saqlash…"
 
-#: src/ephy-window.c:1013
+#: src/ephy-window.c:1014
 msgid "_Copy Link Address"
 msgstr "Havola manzilidan _nusxa olish"
 
-#: src/ephy-window.c:1014
+#: src/ephy-window.c:1015
 msgid "_Copy E-mail Address"
 msgstr "E-pochta manzilidan _nusxa olish"
 
 #. Images.
-#: src/ephy-window.c:1018
+#: src/ephy-window.c:1019
 msgid "View _Image in New Tab"
 msgstr "_Rasmni yangi varaqda koʻrish"
 
-#: src/ephy-window.c:1019
+#: src/ephy-window.c:1020
 msgid "Copy I_mage Address"
 msgstr "R_asm manzilidan nusxa olish"
 
-#: src/ephy-window.c:1020
+#: src/ephy-window.c:1021
 msgid "_Save Image As…"
 msgstr "Rasmni boshqacha _saqlash…"
 
-#: src/ephy-window.c:1021
+#: src/ephy-window.c:1022
 msgid "Set as _Wallpaper"
 msgstr "_Orqa fon sifatida oʻrnatish"
 
 #. Video.
-#: src/ephy-window.c:1025
+#: src/ephy-window.c:1026
 msgid "Open Video in New _Window"
 msgstr "Videoni yangi _oynada ochish"
 
-#: src/ephy-window.c:1026
+#: src/ephy-window.c:1027
 msgid "Open Video in New _Tab"
 msgstr "Videoni yangi _varaqda ochish"
 
-#: src/ephy-window.c:1027
+#: src/ephy-window.c:1028
 msgid "_Save Video As…"
 msgstr "Videoni quyidagidek _saqlash…"
 
-#: src/ephy-window.c:1028
+#: src/ephy-window.c:1029
 msgid "_Copy Video Address"
 msgstr "Manzildan _nusxa olish"
 
 #. Audio.
-#: src/ephy-window.c:1032
+#: src/ephy-window.c:1033
 msgid "Open Audio in New _Window"
 msgstr "Audioni yangi _oynada ochish"
 
-#: src/ephy-window.c:1033
+#: src/ephy-window.c:1034
 msgid "Open Audio in New _Tab"
 msgstr "Audioni yangi _varaqda ochish"
 
-#: src/ephy-window.c:1034
+#: src/ephy-window.c:1035
 msgid "_Save Audio As…"
 msgstr "Audioni quyidagidek _saqlash…"
 
-#: src/ephy-window.c:1035
+#: src/ephy-window.c:1036
 msgid "_Copy Audio Address"
 msgstr "Audio manzilidan _nusxa olish"
 
-#: src/ephy-window.c:1041
+#: src/ephy-window.c:1042
 msgid "Save Pa_ge As…"
 msgstr "_Sahifani quyidagidek saqlash…"
 
-#: src/ephy-window.c:1042
+#: src/ephy-window.c:1043
 msgid "_Take Screenshot…"
 msgstr "_Skrinshot olish…"
 
-#: src/ephy-window.c:1043
+#: src/ephy-window.c:1044
 msgid "_Page Source"
 msgstr "_Sahifa manba kodi"
 
-#: src/ephy-window.c:1424
+#: src/ephy-window.c:1425
 #, c-format
 msgid "Search the Web for “%s”"
 msgstr "“%s” ni Webʼda qidirish"
 
-#: src/ephy-window.c:1453
+#: src/ephy-window.c:1454
 msgid "Open Link"
 msgstr "Havolani ochish"
 
-#: src/ephy-window.c:1455
+#: src/ephy-window.c:1456
 msgid "Open Link In New Tab"
 msgstr "Havolani yangi varaqda ochish"
 
-#: src/ephy-window.c:1457
+#: src/ephy-window.c:1458
 msgid "Open Link In New Window"
 msgstr "Havolani yangi oynada ochish"
 
-#: src/ephy-window.c:1459
+#: src/ephy-window.c:1460
 msgid "Open Link In Incognito Window"
 msgstr "Havolani maxfiy oynada ochish"
 
@@ -3078,85 +3078,85 @@ msgstr "Havolani maxfiy oynada ochish"
 #. * explicit user consent. Notably, websites can download malicious files
 #. * without consent, so they should not be able to also open those files
 #. * without user interaction.
-#: src/ephy-window.c:2287
+#: src/ephy-window.c:2288
 #, c-format
 msgid "Allow “%s” to open the “%s” link in an external app"
 msgstr "“%s”ga tashqi ilovada “%s” havolasini ochishga ruxsat berish"
 
-#: src/ephy-window.c:2288
+#: src/ephy-window.c:2289
 msgid "Open in External App?"
 msgstr "Tashqi ilovada ochilsinmi?"
 
-#: src/ephy-window.c:2290
+#: src/ephy-window.c:2291
 msgid "_Open Link"
 msgstr "Bogʻlamani _ochish"
 
-#: src/ephy-window.c:2296
+#: src/ephy-window.c:2297
 msgid "Always Allow"
 msgstr "Har doim ruxsat berish"
 
 #. Translators: Notification policy for a specific site.
-#: src/ephy-window.c:2989
+#: src/ephy-window.c:2990
 msgid "Notification Request"
 msgstr "Bildirishnoma soʻrovi"
 
 #. Translators: Notification policy for a specific site.
-#: src/ephy-window.c:2991
+#: src/ephy-window.c:2992
 #, c-format
 msgid "The page at “%s” would like to send you notifications"
 msgstr "“%s” dagi sahifa sizga bildirishnomalar joʻnatmoqchi"
 
 #. Translators: Geolocation policy for a specific site.
-#: src/ephy-window.c:2996
+#: src/ephy-window.c:2997
 msgid "Location Access Request"
 msgstr "Lokatsiyaga ruxsat soʻrovi"
 
 #. Translators: Geolocation policy for a specific site.
-#: src/ephy-window.c:2998
+#: src/ephy-window.c:2999
 #, c-format
 msgid "The page at “%s” would like to know your location"
 msgstr "“%s” dagi sahifa sizni lokatsiyangizni ishlatmoqchi"
 
 #. Translators: Microphone policy for a specific site.
-#: src/ephy-window.c:3003
+#: src/ephy-window.c:3004
 msgid "Microphone Access Request"
 msgstr "Mikrofonga ruxsat soʻrovi"
 
 #. Translators: Microphone policy for a specific site.
-#: src/ephy-window.c:3005
+#: src/ephy-window.c:3006
 #, c-format
 msgid "The page at “%s” would like to use your microphone"
 msgstr "“%s” dagi sahifa sizni mikrofoningizni ishlatmoqchi"
 
 #. Translators: Webcam policy for a specific site.
-#: src/ephy-window.c:3010
+#: src/ephy-window.c:3011
 msgid "Webcam Access Request"
 msgstr "Veb-kameraga ruxsat soʻrovi"
 
 #. Translators: Webcam policy for a specific site.
-#: src/ephy-window.c:3012
+#: src/ephy-window.c:3013
 #, c-format
 msgid "The page at “%s” would like to use your webcam"
 msgstr "“%s” dagi sahifa sizni veb-kamerangizni ishlatmoqchi"
 
 #. Translators: Webcam and microphone policy for a specific site.
-#: src/ephy-window.c:3017
+#: src/ephy-window.c:3018
 msgid "Webcam and Microphone Access Request"
 msgstr "Veb-kamera va mikrofonga ruxsat soʻrovi"
 
 #. Translators: Webcam and microphone policy for a specific site.
-#: src/ephy-window.c:3019
+#: src/ephy-window.c:3020
 #, c-format
 msgid "The page at “%s” would like to use your webcam and microphone"
 msgstr "“%s” dagi sahifa sizni veb-kamera va mikrofoningizni ishlatmoqchi"
 
 #. Translators: Storage access policy for a specific site.
-#: src/ephy-window.c:3033
+#: src/ephy-window.c:3034
 msgid "Website Data Access Request"
 msgstr "Veb-sayt maʼlumotlariga ruxsat soʻrovi"
 
 #. Translators: Storage access policy for a specific site.
-#: src/ephy-window.c:3035
+#: src/ephy-window.c:3036
 #, c-format
 msgid ""
 "The page at “%s” would like to access its own data (including cookies) while"
@@ -3167,65 +3167,65 @@ msgstr ""
 " imkonini beradi."
 
 #. Translators: Clipboard policy for a specific site.
-#: src/ephy-window.c:3040
+#: src/ephy-window.c:3041
 msgid "Clipboard Access Request"
 msgstr "Buferga ruxsat soʻrovi"
 
 #. Translators: Clipboard policy for a specific site.
-#: src/ephy-window.c:3042
+#: src/ephy-window.c:3043
 #, c-format
 msgid "The page at “%s” would like to access your clipboard"
 msgstr "“%s” dagi sahifa sizni buferingizni ishlatmoqchi"
 
-#: src/ephy-window.c:3070
+#: src/ephy-window.c:3071
 msgid "_Ask Later"
 msgstr "Keyinroq _soʻralsin"
 
-#: src/ephy-window.c:3071
+#: src/ephy-window.c:3072
 msgid "_Deny"
 msgstr "Ra_d etish"
 
-#: src/ephy-window.c:3072
+#: src/ephy-window.c:3073
 msgid "_Allow"
 msgstr "_Ruxsat berish"
 
-#: src/ephy-window.c:3255 src/ephy-window.c:4909
+#: src/ephy-window.c:3256 src/ephy-window.c:4910
 msgid "Leave Website?"
 msgstr "Veb-saytdan chiqmoqchimisiz?"
 
-#: src/ephy-window.c:3256 src/ephy-window.c:4910 src/window-commands.c:1406
+#: src/ephy-window.c:3257 src/ephy-window.c:4911 src/window-commands.c:1406
 msgid "A form was modified and has not been submitted"
 msgstr "Shakl oʻzgartirildi lekin hali yuborilmadi"
 
-#: src/ephy-window.c:3257 src/ephy-window.c:4911 src/window-commands.c:1410
+#: src/ephy-window.c:3258 src/ephy-window.c:4912 src/window-commands.c:1410
 msgid "_Discard Form"
 msgstr "Shaklni _bekor qilish"
 
-#: src/ephy-window.c:3278
+#: src/ephy-window.c:3279
 msgid "Download operation"
 msgstr "Yuklab olish jarayoni"
 
-#: src/ephy-window.c:3280
+#: src/ephy-window.c:3281
 msgid "Show details"
 msgstr "Tafsilotlarni koʻrsatish"
 
-#: src/ephy-window.c:3282
+#: src/ephy-window.c:3283
 #, c-format
 msgid "%d download operation active"
 msgid_plural "%d download operations active"
 msgstr[0] "%d ta yuklab olish jarayoni davom etmoqda"
 
-#: src/ephy-window.c:3560
+#: src/ephy-window.c:3561
 msgid "Set as Default Browser?"
 msgstr "Birlamchi brauzer sifatida oʻrnatilsinmi?"
 
-#: src/ephy-window.c:3562
+#: src/ephy-window.c:3563
 msgid "Use Web as your default web browser and for opening external links"
 msgstr ""
 "Webʼni birlamchi veb-brauzer sifatida foydalaning va u bilan tashqi "
 "havolalarni oching"
 
-#: src/ephy-window.c:3564
+#: src/ephy-window.c:3565
 msgid ""
 "Use Epiphany Technology Preview as your default web browser and for opening "
 "external links"
@@ -3233,29 +3233,29 @@ msgstr ""
 "Epiphany Technology Previewʼni birlamchi veb-brauzer sifatida va tashqi "
 "havolalarni ochish uchun foydalaning"
 
-#: src/ephy-window.c:3568
+#: src/ephy-window.c:3569
 msgid "_Ask Again Later"
 msgstr "Keyinroq qayta _soʻralsin"
 
-#: src/ephy-window.c:3569
+#: src/ephy-window.c:3570
 msgid "_No"
 msgstr "Yoʻq"
 
-#: src/ephy-window.c:3570
+#: src/ephy-window.c:3571
 msgid "_Yes"
 msgstr "_Ha"
 
-#: src/ephy-window.c:3902
+#: src/ephy-window.c:3903
 msgid "Download started"
 msgstr "Yuklab olish boshlandi"
 
-#: src/ephy-window.c:3992
+#: src/ephy-window.c:3993
 #, fuzzy
 #| msgid "Save password?"
 msgid "Save Password?"
 msgstr "Parol saqlansinmi?"
 
-#: src/ephy-window.c:3993
+#: src/ephy-window.c:3994
 msgid ""
 "Passwords are saved only on your device and can be removed at any time in "
 "Preferences"
@@ -3263,49 +3263,49 @@ msgstr ""
 "Parollar faqat qurilmangizda saqlanadi va istalgan vaqtda afzalliklar "
 "boʻlimida oʻchirish mumkin"
 
-#: src/ephy-window.c:3995
+#: src/ephy-window.c:3996
 msgid "Not Now"
 msgstr "Hozir emas"
 
-#: src/ephy-window.c:3996
+#: src/ephy-window.c:3997
 msgid "Never Save"
 msgstr "Hech qachon saqlanmasin"
 
-#: src/ephy-window.c:3997
+#: src/ephy-window.c:3998
 msgid "Save"
 msgstr "Saqlash"
 
-#: src/ephy-window.c:4198
+#: src/ephy-window.c:4199
 #, fuzzy
 #| msgid "Web App"
 msgctxt "shortcuts dialog"
 msgid "Web App"
 msgstr "Veb-ilova"
 
-#: src/ephy-window.c:4201
+#: src/ephy-window.c:4202
 #, fuzzy
 #| msgid "Install as _Web App…"
 msgctxt "shortcuts dialog"
 msgid "Install Site as Web App"
 msgstr "_Veb-ilova sifatida ochish…"
 
-#: src/ephy-window.c:5024
+#: src/ephy-window.c:5025
 msgid "Close Multiple Tabs?"
 msgstr "Bir nechta varaqlar yopilsinmi?"
 
-#: src/ephy-window.c:5025
+#: src/ephy-window.c:5026
 msgid "If this window is closed, all open tabs will be lost"
 msgstr "Agar bu oyna yopilsa barcha ochiq varaqlar yoʻqoladi"
 
-#: src/ephy-window.c:5026
+#: src/ephy-window.c:5027
 msgid "C_lose Tabs"
 msgstr "Varaqlarni yo_pish"
 
-#: src/ephy-window.c:5136
+#: src/ephy-window.c:5137
 msgid "New tab opened"
 msgstr "Yangi varaq ochildi"
 
-#: src/ephy-window.c:5140
+#: src/ephy-window.c:5141
 msgid "Switch"
 msgstr "Almashtirish"
 

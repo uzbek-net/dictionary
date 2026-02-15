@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: podcasts main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/podcasts/issues\n"
-"POT-Creation-Date: 2025-12-28 11:27+0000\n"
+"POT-Creation-Date: 2026-02-14 11:31+0000\n"
 "PO-Revision-Date: 2025-10-24 13:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -303,7 +303,7 @@ msgid "Description"
 msgstr "Taʼrif"
 
 #: podcasts-gtk/resources/gtk/sheet_base.ui:89
-#: podcasts-gtk/src/widgets/chapters.rs:194
+#: podcasts-gtk/src/widgets/chapters.rs:193
 msgid "Chapters"
 msgstr "Boblar"
 
@@ -656,56 +656,56 @@ msgstr "{}:{} ga sakrash"
 msgid "Download failed: {}"
 msgstr "Yuklab olinmadi: {}"
 
-#: podcasts-gtk/src/utils.rs:299
+#: podcasts-gtk/src/utils.rs:300
 #, rust-format
 msgid "Failed to subscribe to feed: {}"
 msgstr "Tasmaga obuna qilinmadi: {}"
 
-#: podcasts-gtk/src/utils.rs:394 podcasts-gtk/src/utils.rs:437
+#: podcasts-gtk/src/utils.rs:395 podcasts-gtk/src/utils.rs:447
 msgid "OPML file"
 msgstr "OPML fayli"
 
-#: podcasts-gtk/src/utils.rs:405
+#: podcasts-gtk/src/utils.rs:406
 msgid "Select the file from which to you want to import shows."
 msgstr "Koʻrsatuvlarni import qilmoqchi boʻlgan faylni tanlang."
 
-#: podcasts-gtk/src/utils.rs:407
+#: podcasts-gtk/src/utils.rs:408
 msgid "_Import"
 msgstr "Import qilish"
 
-#: podcasts-gtk/src/utils.rs:426
+#: podcasts-gtk/src/utils.rs:437
 #, rust-format
 msgid "Failed to parse the imported file {}"
 msgstr "Import qilingan fayl {} tahlil qilinmadi"
 
 #. Translators: Show as a noun, meaning Podcast-Shows.
-#: podcasts-gtk/src/utils.rs:448
+#: podcasts-gtk/src/utils.rs:458
 msgid "Export shows to…"
 msgstr "Koʻrsatuvlarni eksport qilish…"
 
-#: podcasts-gtk/src/utils.rs:449
+#: podcasts-gtk/src/utils.rs:459
 msgid "_Export"
 msgstr "Eksport"
 
 #. Translators: This is the string of the suggested name for the exported opml
 #. file
-#: podcasts-gtk/src/utils.rs:453
+#: podcasts-gtk/src/utils.rs:463
 msgid "gnome-podcasts-exported-shows"
 msgstr "gnome-podcasts-exported-shows"
 
-#: podcasts-gtk/src/utils.rs:462
+#: podcasts-gtk/src/utils.rs:473
 msgid "GNOME Podcasts Subscriptions"
 msgstr "GNOME Podkastlar obunalari"
 
-#: podcasts-gtk/src/utils.rs:466
+#: podcasts-gtk/src/utils.rs:477
 msgid "Failed to export podcasts"
 msgstr "Podkastlar eksport qilinmadi"
 
-#: podcasts-gtk/src/utils.rs:478
+#: podcasts-gtk/src/utils.rs:488
 msgid "Just now"
 msgstr ""
 
-#: podcasts-gtk/src/utils.rs:482
+#: podcasts-gtk/src/utils.rs:492
 #, fuzzy, rust-format
 #| msgid "{} min"
 msgid "{} minute ago"
@@ -713,28 +713,28 @@ msgid_plural "{} minutes ago"
 msgstr[0] "{} daq"
 msgstr[1] "{} daq"
 
-#: podcasts-gtk/src/utils.rs:488
+#: podcasts-gtk/src/utils.rs:498
 #, rust-format
 msgid "{} hour ago"
 msgid_plural "{} hours ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#: podcasts-gtk/src/utils.rs:492
+#: podcasts-gtk/src/utils.rs:502
 #, rust-format
 msgid "{} day ago"
 msgid_plural "{} days ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#: podcasts-gtk/src/utils.rs:496
+#: podcasts-gtk/src/utils.rs:506
 #, rust-format
 msgid "{} month ago"
 msgid_plural "{} months ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#: podcasts-gtk/src/utils.rs:500
+#: podcasts-gtk/src/utils.rs:510
 #, rust-format
 msgid "{} year ago"
 msgid_plural "{} years ago"
@@ -749,7 +749,7 @@ msgstr "GNOME ish stoli uchun podkast dasturi."
 msgid "translator-credits"
 msgstr "BeMeritus <bemerituss@gmail.com>"
 
-#: podcasts-gtk/src/widgets/chapters.rs:130
+#: podcasts-gtk/src/widgets/chapters.rs:129
 msgid "Currently playing chapter"
 msgstr "Hozirda bob ijro etilmoqda"
 
