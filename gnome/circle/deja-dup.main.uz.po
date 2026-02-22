@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2026-02-04 01:50+0000\n"
+"POT-Creation-Date: 2026-02-19 00:58+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -438,7 +438,7 @@ msgstr "Versiyani koʻsatish"
 msgid "Immediately start a backup"
 msgstr "Darhol zaxiralashni boshlash"
 
-#: app/main.vala:307
+#: app/main.vala:308
 msgid "translator-credits"
 msgstr "Maftuna Vahidjanova"
 
@@ -447,7 +447,7 @@ msgstr "Maftuna Vahidjanova"
 #. context is itself a reference to both the underlying command line tool
 #. "duplicity" and the act of duplicating data for backup.  As a whole, the
 #. phrase "Déjà Dup" may not be very translatable.
-#: app/main.vala:367 data/app.metainfo.xml.in:11 data/ui/MainWindow.blp:11
+#: app/main.vala:368 data/app.metainfo.xml.in:11 data/ui/MainWindow.blp:11
 #: data/ui/OverviewPage.blp:11 data/ui/WelcomePage.blp:11
 msgid "Déjà Dup Backups"
 msgstr "Déjà Dup Zaxiralari"

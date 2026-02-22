@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: citations master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/citations/-/issues\n"
-"POT-Creation-Date: 2026-02-14 08:05+0000\n"
+"POT-Creation-Date: 2026-02-21 11:12+0000\n"
 "PO-Revision-Date: 2025-10-07 20:57+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -528,11 +528,11 @@ msgstr "Nusxalangan"
 msgid "Custom…"
 msgstr "Maxsus…"
 
-#: src/entry_list_row.rs:214
+#: src/entry_list_row.rs:204
 msgid "Title not set"
 msgstr "Sarlavha belgilanmagan"
 
-#: src/entry_list_row.rs:223
+#: src/entry_list_row.rs:213
 msgid "Author not set"
 msgstr "Muallif koʻrsatilmagan"
 

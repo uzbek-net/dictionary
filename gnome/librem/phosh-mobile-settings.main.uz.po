@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-02-12 14:39+0000\n"
+"POT-Creation-Date: 2026-02-21 15:05+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -191,45 +191,45 @@ msgstr "Favqulodda qoʻngʻiroqlar"
 msgid "Message of unknown severity"
 msgstr ""
 
-#: src/ms-feedback-panel.c:309
+#: src/ms-feedback-panel.c:338
 msgid "Sound file does not exist"
 msgstr "Ovoz fayli mavjud emas"
 
-#: src/ms-feedback-panel.c:311
+#: src/ms-feedback-panel.c:340
 msgid "Sound file is corrupt"
 msgstr "Ovoz fayli buzilgan"
 
-#: src/ms-feedback-panel.c:313
+#: src/ms-feedback-panel.c:342
 msgid "Failed to play sound"
 msgstr "Ovoz ijro qilinmadi"
 
-#: src/ms-feedback-panel.c:352
+#: src/ms-feedback-panel.c:381
 #, c-format
 msgid "Playing %s"
 msgstr "%s ijro etilmoqda"
 
 #. Translators: "low" categorizes notifications with minor importance
-#: src/ms-feedback-panel.c:529
+#: src/ms-feedback-panel.c:579
 msgid "low"
 msgstr "past"
 
 #. Translators: "normal" categorizes notifications with standard importance
-#: src/ms-feedback-panel.c:532
+#: src/ms-feedback-panel.c:582
 msgid "normal"
 msgstr "normal"
 
 #. Translators: "critical" categorizes notifications with urgent importance
-#: src/ms-feedback-panel.c:535
+#: src/ms-feedback-panel.c:585
 msgid "critical"
 msgstr "juda muhim xato"
 
 #. Translators: "none" is the default for notifications with no specified
 #. importance
-#: src/ms-feedback-panel.c:539
+#: src/ms-feedback-panel.c:589
 msgid "none"
 msgstr "mavjud emas"
 
-#: src/ms-feedback-panel.c:954
+#: src/ms-feedback-panel.c:1008
 #, fuzzy
 #| msgid "Mobile Settings"
 msgid "Mobile Settings Volume Control"
