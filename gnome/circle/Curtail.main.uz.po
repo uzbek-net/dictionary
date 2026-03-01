@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Curtail master\n"
 "Report-Msgid-Bugs-To: https://github.com/Huluti/Curtail/issues\n"
-"POT-Creation-Date: 2026-01-23 17:59+0000\n"
+"POT-Creation-Date: 2026-02-28 11:48+0000\n"
 "PO-Revision-Date: 2025-10-03 16:38+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -334,7 +334,7 @@ msgstr "Tezkor tugmalar"
 msgid "About Curtail"
 msgstr "Curtail haqida"
 
-#: data/ui/window.ui:22 src/window.py:304
+#: data/ui/window.ui:22 src/window.py:303
 msgid "Browse Files"
 msgstr "Fayllarni koʻrish"
 
@@ -415,15 +415,15 @@ msgstr "SVG rasmlar"
 msgid "Version not found"
 msgstr "Versiya topilmadi"
 
-#: src/window.py:161
+#: src/window.py:160
 msgid "Skipped"
 msgstr "Tashlab ketildi"
 
-#: src/window.py:182
+#: src/window.py:181
 msgid "More Information"
 msgstr "Batafsil"
 
-#: src/window.py:191
+#: src/window.py:190
 msgid ""
 "Compression was skipped because compressing the file would have resulted in "
 "a larger file size."
@@ -431,27 +431,27 @@ msgstr ""
 "Faylni zichlash tashlab ketildi, chunki faylni zichlash natijasida fayl "
 "hajmi kattalashgan boʻlar edi."
 
-#: src/window.py:261
+#: src/window.py:260
 msgid "Open Image"
 msgstr "Rasmni ochish"
 
-#: src/window.py:262
+#: src/window.py:261
 msgid "Show in Folder"
 msgstr "Jildda koʻrsatish"
 
-#: src/window.py:294
+#: src/window.py:293
 msgid "Overwrite mode"
 msgstr "Ustidan yozish usuli"
 
-#: src/window.py:319
+#: src/window.py:318
 msgid "Browse Directories"
 msgstr "Direktoriyalarni koʻrish"
 
-#: src/window.py:342 src/window.py:351
+#: src/window.py:341 src/window.py:350
 msgid "Are you sure you want to compress images in these directories?"
 msgstr "Haqiqatan ham bu kataloglardagi rasmlarni zichlamoqchimisiz?"
 
-#: src/window.py:344
+#: src/window.py:343
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed. The original images will not be modified."
@@ -459,7 +459,7 @@ msgstr ""
 "Belgilangan direktoriyalar va ularning quyi direktoriyalaridagi barcha "
 "rasmlar zichlashtiriladi. Asl rasmlar oʻzgarmaydi."
 
-#: src/window.py:353
+#: src/window.py:352
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed and overwritten!"
@@ -467,31 +467,31 @@ msgstr ""
 "Tanlangan direktoriyalar va ularning quyi direktoriyalaridagi barcha rasmlar"
 " zichlanadi va ustidan yoziladi!"
 
-#: src/window.py:358
+#: src/window.py:357
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/window.py:359
+#: src/window.py:358
 msgid "Compress"
 msgstr "Zichlamoq"
 
-#: src/window.py:404
+#: src/window.py:403
 msgid "Format of this file is not supported."
 msgstr "Bu fayl formati qoʻllab-quvvatlanmaydi."
 
-#: src/window.py:406
+#: src/window.py:405
 msgid "Unable to read file information."
 msgstr ""
 
-#: src/window.py:459
+#: src/window.py:458
 msgid "No files found"
 msgstr "Hech qanday fayllar topilmadi"
 
-#: src/window.py:522
+#: src/window.py:521
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
-#: src/window.py:526
+#: src/window.py:525
 msgid "Contributors"
 msgstr "Hissa qoʻshuvchilar"
 

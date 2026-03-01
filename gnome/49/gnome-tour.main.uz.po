@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-tour main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-tour/issues/\n"
-"POT-Creation-Date: 2025-09-11 18:01+0000\n"
+"POT-Creation-Date: 2026-02-27 21:16+0000\n"
 "PO-Revision-Date: 2025-03-25 10:08+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -39,7 +39,7 @@ msgid "A guided tour and greeter for GNOME."
 msgstr "GNOME uchun ekskursiya va salomlashuv."
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Tour.metainfo.xml.in.in:58
+#: data/org.gnome.Tour.metainfo.xml.in.in:63
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

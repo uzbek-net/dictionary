@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-02-21 15:05+0000\n"
+"POT-Creation-Date: 2026-02-25 17:40+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -111,6 +111,54 @@ msgstr "Yoqilgʻi oʻlchagich"
 msgid "Battery"
 msgstr "Batareya"
 
+#. Translators: Title for a dialog to add a new on-screen keyboard layout
+#. Translators: Label for a button that allows the user to add a new keyboard
+#. layout
+#: libpms/ms-osk-add-layout-dialog.ui:5 libpms/ms-osk-layout-prefs.ui:14
+msgid "Add Layout"
+msgstr "Layout qoʻshish"
+
+#: libpms/ms-osk-add-layout-dialog.ui:14
+#: src/ui/ms-osk-add-shortcut-dialog.ui:17
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: libpms/ms-osk-add-layout-dialog.ui:20
+#: src/ui/ms-osk-add-shortcut-dialog.ui:23
+msgid "Add"
+msgstr "Qoʻshish"
+
+#: libpms/ms-osk-add-layout-dialog.ui:40
+msgid "Language"
+msgstr "Til"
+
+#: libpms/ms-osk-layout-prefs.ui:5
+msgctxt "on screen keyboard"
+msgid "Layouts"
+msgstr "Tartiblar"
+
+#. Translators: Message displayed when there are no keyboard layouts
+#. configured
+#: libpms/ms-osk-layout-prefs.ui:30
+msgid "No Layouts configured"
+msgstr "Hech qanday tartib sozlanmagan"
+
+#: libpms/ms-osk-layout-row.ui:26 src/ui/ms-plugin-row.ui:47
+msgid "More options…"
+msgstr "Boshqa variantlar…"
+
+#: libpms/ms-osk-layout-row.ui:39 src/ui/ms-plugin-row.ui:60
+msgid "Move Up"
+msgstr "Yuqoriga siljitish"
+
+#: libpms/ms-osk-layout-row.ui:43 src/ui/ms-plugin-row.ui:64
+msgid "Move Down"
+msgstr "Pastga siljiting"
+
+#: libpms/ms-osk-layout-row.ui:49
+msgid "Remove"
+msgstr "Oʻchirish"
+
 #: src/conf-tweaks/ms-tweaks-callback-handlers.c:61
 #, c-format
 msgid "Something went wrong: %s"
@@ -128,7 +176,7 @@ msgid_plural "%i errors occurred while saving"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/conf-tweaks/ms-tweaks-preferences-page.c:891
+#: src/conf-tweaks/ms-tweaks-preferences-page.c:902
 msgid "You need to authenticate as administrator to save some settings"
 msgstr ""
 
@@ -240,15 +288,15 @@ msgid "Failed to set lockscreen wallpaper"
 msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
 
 #. Translators: The default completer
-#: src/ms-osk-panel.c:747
+#: src/ms-osk-panel.c:748
 msgid "Default"
 msgstr "Odatiy"
 
-#: src/ms-osk-panel.c:748
+#: src/ms-osk-panel.c:749
 msgid "The default completer selected by the OSK"
 msgstr "OSK tomonidan tanlangan standart toʻldiruvchi"
 
-#: src/ms-osk-panel.c:751
+#: src/ms-osk-panel.c:752
 msgid "No information available for this completer"
 msgstr "Bu toʻldiruvchi uchun maʼlumot yoʻq"
 
@@ -759,27 +807,6 @@ msgstr "Vidjetlar"
 msgid "Additional widgets for the lock screen"
 msgstr "Bloklash ekrani uchun qoʻshimcha vidjetlar"
 
-#. Translators: Title for a dialog to add a new on-screen keyboard layout
-#. Translators: Label for a button that allows the user to add a new keyboard
-#. layout
-#: src/ui/ms-osk-add-layout-dialog.ui:5 src/ui/ms-osk-layout-prefs.ui:14
-msgid "Add Layout"
-msgstr "Layout qoʻshish"
-
-#: src/ui/ms-osk-add-layout-dialog.ui:14
-#: src/ui/ms-osk-add-shortcut-dialog.ui:17
-msgid "Cancel"
-msgstr "Bekor qilish"
-
-#: src/ui/ms-osk-add-layout-dialog.ui:20
-#: src/ui/ms-osk-add-shortcut-dialog.ui:23
-msgid "Add"
-msgstr "Qoʻshish"
-
-#: src/ui/ms-osk-add-layout-dialog.ui:40
-msgid "Language"
-msgstr "Til"
-
 #. Translators: Title for a dialog to add a new on-screen keyboard shortcut
 #. Translators: Label for a button that allows the user to add a new keyboard
 #. shortcut
@@ -821,33 +848,6 @@ msgstr "Yorliqlar"
 #| msgid "Shortcuts"
 msgid "Shortcut Preview"
 msgstr "Yorliqlar"
-
-#: src/ui/ms-osk-layout-prefs.ui:5
-msgctxt "on screen keyboard"
-msgid "Layouts"
-msgstr "Tartiblar"
-
-#. Translators: Message displayed when there are no keyboard layouts
-#. configured
-#: src/ui/ms-osk-layout-prefs.ui:30
-msgid "No Layouts configured"
-msgstr "Hech qanday tartib sozlanmagan"
-
-#: src/ui/ms-osk-layout-row.ui:26 src/ui/ms-plugin-row.ui:47
-msgid "More options…"
-msgstr "Boshqa variantlar…"
-
-#: src/ui/ms-osk-layout-row.ui:39 src/ui/ms-plugin-row.ui:60
-msgid "Move Up"
-msgstr "Yuqoriga siljitish"
-
-#: src/ui/ms-osk-layout-row.ui:43 src/ui/ms-plugin-row.ui:64
-msgid "Move Down"
-msgstr "Pastga siljiting"
-
-#: src/ui/ms-osk-layout-row.ui:49
-msgid "Remove"
-msgstr "Oʻchirish"
 
 #: src/ui/ms-osk-panel.ui:13
 msgid "Enable _On Screen Keyboard"

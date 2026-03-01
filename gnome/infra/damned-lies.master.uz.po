@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-18 00:04+0000\n"
+"POT-Creation-Date: 2026-02-26 22:17+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -4007,9 +4007,13 @@ msgstr ""
 "birlashtirilishi kerak. Ushbu muammoni hal qilish uchun tarjima faylini "
 "qayta topshiring."
 
-#: stats/notifications.py:22
+#: stats/notifications.py:23
 #, python-format
 msgid "Broken links detected for module ‘%(module_name)s’"
+msgstr ""
+
+#: stats/notifications.py:52
+msgid "New branches automatically added to database"
 msgstr ""
 
 #: stats/services/pot/documentation.py:53
@@ -4365,31 +4369,31 @@ msgstr ""
 msgid "The PO file path could not be determined. No commit will be emitted."
 msgstr "PO fayl yoʻlini aniqlab boʻlmadi. Hech qanday majburiyat berilmaydi."
 
-#: stats/services/repositories/repositories.py:318
+#: stats/services/repositories/repositories.py:331
 #, python-format
 msgid "Git repository %s is not valid. Calling ‘git-status’ failed."
 msgstr "Git ombori %s yaroqsiz. \"git-status\" ni chaqirib boʻlmadi."
 
-#: stats/services/repositories/repositories.py:345
+#: stats/services/repositories/repositories.py:358
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be renamed. %(command_error)s"
 msgid "Git repository at %(name)s could not be cloned. %(command_error)s"
 msgstr "Git ombori %(name)s nomini oʻzgartirib boʻlmadi. %(command_error)s"
 
-#: stats/services/repositories/repositories.py:365
+#: stats/services/repositories/repositories.py:378
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be updated: %(command_error)s"
 msgid "Git repository %(name)s could not be fetched: %(command_error)s"
 msgstr "%(name)s Git omborini yangilab boʻlmadi: %(command_error)s"
 
-#: stats/services/repositories/repositories.py:389
+#: stats/services/repositories/repositories.py:402
 #, python-format
 msgid "Git repository %(name)s could not be updated: %(command_error)s"
 msgstr "%(name)s Git omborini yangilab boʻlmadi: %(command_error)s"
 
-#: stats/services/repositories/repositories.py:415
+#: stats/services/repositories/repositories.py:428
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be updated: %(command_error)s"
@@ -4397,7 +4401,7 @@ msgid ""
 "Git repository %(name)s could not create feature branch: %(command_error)s"
 msgstr "%(name)s Git omborini yangilab boʻlmadi: %(command_error)s"
 
-#: stats/services/repositories/repositories.py:451
+#: stats/services/repositories/repositories.py:464
 #, python-format
 msgid ""
 "Git repository %(name)s could not be pushed: %(command_error)s. The branch "
@@ -4410,7 +4414,7 @@ msgstr ""
 "ega emas. Loyiha boshqaruvchilaridan Damned Liesʼga majburiyatlarni "
 "bajarishga ruxsat berish uchun filiallar uchun himoyani yangilashni soʻrang."
 
-#: stats/services/repositories/repositories.py:460
+#: stats/services/repositories/repositories.py:473
 #, python-format
 msgid ""
 "Git repository %(name)s could not be pushed because of an unknown error: "
@@ -4419,12 +4423,12 @@ msgstr ""
 "Noma'lum xatolik tufayli %(name)s Git omborini oʻtkazib boʻlmadi: "
 "%(command_error)s"
 
-#: stats/services/repositories/repositories.py:486
+#: stats/services/repositories/repositories.py:499
 #, python-format
 msgid "Git repository %(name)s could not be committed: %(command_error)s"
 msgstr "%(name)s Git omborini oʻrnatib boʻlmadi: %(command_error)s"
 
-#: stats/services/repositories/repositories.py:542
+#: stats/services/repositories/repositories.py:555
 #, python-format
 msgid ""
 "Git repository %(name)s could not cherry-pick commit ‘%(hash)s’: "
@@ -4433,7 +4437,7 @@ msgstr ""
 "Git repozitori %(name)s ‘%(hash)s’ majburiyatini bajara olmadi: "
 "%(command_error)s"
 
-#: stats/services/repositories/repositories.py:569
+#: stats/services/repositories/repositories.py:582
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be renamed. %(command_error)s"
@@ -4441,13 +4445,20 @@ msgid ""
 "Git branch ‘%(name)s’ could not be renamed in repository: %(command_error)s"
 msgstr "Git ombori %(name)s nomini oʻzgartirib boʻlmadi. %(command_error)s"
 
-#: stats/services/repositories/repositories.py:584
+#: stats/services/repositories/repositories.py:597
 msgid ""
 "Git repository could not be removed due to insufficient rights on the "
 "filesystem."
 msgstr ""
 
-#: stats/services/repositories/repositories.py:608
+#: stats/services/repositories/repositories.py:611
+#, fuzzy, python-format
+#| msgid ""
+#| "Git repository %(name)s could not be committed: %(command_error)s"
+msgid "Git remote branches could not be listed for %(url)s: %(command_error)s"
+msgstr "%(name)s Git omborini oʻrnatib boʻlmadi: %(command_error)s"
+
+#: stats/services/repositories/repositories.py:637
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be removed. %(command_error)s"
@@ -4456,7 +4467,7 @@ msgid ""
 "%(command_error)s"
 msgstr "%(name)s Git omborini oʻchirib boʻlmadi. %(command_error)s"
 
-#: stats/services/repositories/repositories.py:659
+#: stats/services/repositories/repositories.py:690
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be updated: %(command_error)s"
@@ -4465,7 +4476,7 @@ msgid ""
 "%(command_error)s"
 msgstr "%(name)s Git omborini yangilab boʻlmadi: %(command_error)s"
 
-#: stats/services/repositories/repositories.py:693
+#: stats/services/repositories/repositories.py:724
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be updated: %(command_error)s"
@@ -4474,7 +4485,7 @@ msgid ""
 "%(command_error)s"
 msgstr "%(name)s Git omborini yangilab boʻlmadi: %(command_error)s"
 
-#: stats/services/repositories/repositories.py:723
+#: stats/services/repositories/repositories.py:754
 #, fuzzy, python-format
 #| msgid ""
 #| "Git repository %(name)s could not be pushed: %(command_error)s. The branch "
@@ -4492,14 +4503,14 @@ msgstr ""
 "ega emas. Loyiha boshqaruvchilaridan Damned Liesʼga majburiyatlarni "
 "bajarishga ruxsat berish uchun filiallar uchun himoyani yangilashni soʻrang."
 
-#: stats/services/repositories/repositories.py:875
+#: stats/services/repositories/repositories.py:922
 #, python-format
 msgid ""
 "Git repository %(name)s could not create a pull request: GitHub CLI (gh) is "
 "not installed. Please install it from https://cli.github.com/"
 msgstr ""
 
-#: stats/services/repositories/repositories.py:889
+#: stats/services/repositories/repositories.py:936
 #, python-format
 msgid ""
 "Git repository %(name)s could not create a pull request: A pull request "
@@ -4857,6 +4868,56 @@ msgid ""
 "Please update the broken links by visiting the module edition page: "
 "%(site_domain)s%(module_edit_url)s"
 msgstr ""
+
+#: stats/templates/stats/notifications/new_branches_detected.html:2
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
+msgid ""
+"<p> This is an automated message sent from <a href=\"%(site_domain)s\">GNOME"
+" Damned Lies</a> to inform you that new branches have been detected in "
+"remote repositories and automatically added to the database. </p>"
+msgstr ""
+"\n"
+"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
+
+#: stats/templates/stats/notifications/new_branches_detected.html:10
+#: stats/templates/stats/notifications/new_branches_detected.txt:6
+msgid ""
+"The following branches were automatically created and linked to a release:"
+msgstr ""
+
+#: stats/templates/stats/notifications/new_branches_detected.html:26
+#: stats/templates/stats/notifications/new_branches_detected.txt:12
+msgid ""
+"The following HEAD branches were unlinked from releases (replaced by the "
+"newly detected branches):"
+msgstr ""
+
+#: stats/templates/stats/notifications/new_branches_detected.html:33
+#: stats/templates/stats/notifications/new_branches_detected.txt:15
+msgid "unlinked from"
+msgstr ""
+
+#: stats/templates/stats/notifications/new_branches_detected.html:42
+#: stats/templates/stats/notifications/new_branches_detected.txt:18
+msgid ""
+"The following branches were created but still need manual release linking:"
+msgstr ""
+
+#: stats/templates/stats/notifications/new_branches_detected.txt:1
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
+msgid ""
+"This is an automated message sent from GNOME Damned Lies (%(site_domain)s) "
+"to inform you that new branches have been detected in remote repositories "
+"and automatically added to the database."
+msgstr ""
+"\n"
+"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
 
 #: stats/templates/stats_show.html:21
 #: vertimus/templates/vertimus/vertimus_detail.html:133
@@ -6192,21 +6253,21 @@ msgstr "“%(lang)s” uchun harakatlar xulosasi"
 msgid "Activity summary for <a href=\"%(url)s\">%(lang)s</a>"
 msgstr "<a href=\"%(url)s\">%(lang)s</a> uchun harakatlar xulosasi"
 
-#: vertimus/templates/vertimus/notifications/new_action_changed_module_state.html:1
+#: vertimus/templates/vertimus/notifications/new_action_changed_module_state.html:3
 #, python-format
 msgid ""
 "<p>Hello,</p>\n"
 "\n"
 "<p>The state of <a href=\"%(url)s\">%(module)s — %(branch)s — %(domain)s (%(language)s)</a> is “%(new_state)s”.</p>\n"
 "\n"
-"<blockquote>\n"
+"<div style=\"border-left: 4px solid #ccc; margin: 1em 0; padding: 0.5em 1em; color: #555;\">\n"
 "<p>\n"
 "    %(comment)s\n"
 "</p>\n"
 "<p>\n"
 "    %(person_name)s\n"
 "</p>\n"
-"</blockquote>\n"
+"</div>\n"
 "\n"
 "<hr>\n"
 "<p>This is an automatic message sent from <a href=\"https://%(site_domain)s\">GNOME Damned Lies</a>. Please do not answer.</p>\n"

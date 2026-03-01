@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-01-26 17:10+0000\n"
+"POT-Creation-Date: 2026-02-27 12:49+0000\n"
 "PO-Revision-Date: 2025-10-19 15:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -238,7 +238,7 @@ msgstr "Tizim qidiruvlarini qabul qiling va natijalarni yuboring"
 #: panels/system/users/cc-user-page.c:368
 #: panels/system/users/cc-user-page.c:755
 #: panels/wwan/cc-wwan-device-page.c:477
-#: subprojects/gvc/gvc-mixer-control.c:1910
+#: subprojects/gvc/gvc-mixer-control.c:1919
 msgid "Disabled"
 msgstr "Oʻchirilgan"
 
@@ -4988,46 +4988,46 @@ msgstr ""
 
 #. TRANSLATORS: This is the same title as the title from the .ui file, but
 #. without mnemonic
-#: panels/power/cc-power-panel.c:208
+#: panels/power/cc-power-panel.c:211
 msgid "Power Saving"
 msgstr "Quvvatni tejash"
 
-#: panels/power/cc-power-panel.c:304
+#: panels/power/cc-power-panel.c:311
 msgid "Battery Levels"
 msgstr "Batareya darajalari"
 
 #. Translators: UPS is an Uninterruptible Power Supply:
 #. * https://en.wikipedia.org/wiki/Uninterruptible_power_supply
-#: panels/power/cc-power-panel.c:309
+#: panels/power/cc-power-panel.c:316
 msgid "UPS"
 msgstr "UPS"
 
-#: panels/power/cc-power-panel.c:312
+#: panels/power/cc-power-panel.c:319
 msgid "Battery Level"
 msgstr "Batareya darajasi"
 
-#: panels/power/cc-power-panel.c:551
+#: panels/power/cc-power-panel.c:569
 msgid "Suspend"
 msgstr "Toʻxtatib turish"
 
-#: panels/power/cc-power-panel.c:552
+#: panels/power/cc-power-panel.c:570
 msgid "Power Off"
 msgstr "Oʻchirish"
 
-#: panels/power/cc-power-panel.c:553
+#: panels/power/cc-power-panel.c:571
 msgid "Hibernate"
 msgstr "Kutish rejimi"
 
-#: panels/power/cc-power-panel.c:554
+#: panels/power/cc-power-panel.c:572
 msgid "Nothing"
 msgstr "Hech narsa"
 
-#: panels/power/cc-power-panel.c:859
+#: panels/power/cc-power-panel.c:877
 msgid ""
 "Performance mode temporarily disabled due to high operating temperature"
 msgstr "Ishlash rejimi yuqori ish harorati tufayli vaqtincha oʻchirilgan"
 
-#: panels/power/cc-power-panel.c:861
+#: panels/power/cc-power-panel.c:879
 msgid ""
 "Lap detected: performance mode temporarily unavailable. Move the device to a"
 " stable surface to restore."
@@ -5035,11 +5035,11 @@ msgstr ""
 "Tur aniqlandi: ishlash rejimi vaqtincha ishlamaydi. Qayta tiklash uchun "
 "qurilmani barqaror yuzaga suring."
 
-#: panels/power/cc-power-panel.c:863
+#: panels/power/cc-power-panel.c:881
 msgid "Performance mode temporarily disabled"
 msgstr "Ishlash rejimi vaqtincha oʻchirilgan"
 
-#: panels/power/cc-power-panel.c:905
+#: panels/power/cc-power-panel.c:923
 msgid ""
 "Power saver enabled due to low battery. Previous mode will be restored when "
 "battery is charged."
@@ -5048,13 +5048,13 @@ msgstr ""
 "zaryadlanganda avvalgi rejim tiklanadi."
 
 #. translators: "%s" is an application name
-#: panels/power/cc-power-panel.c:913
+#: panels/power/cc-power-panel.c:931
 #, c-format
 msgid "Power Saver mode activated by “%s”"
 msgstr "Quvvat tejash rejimi “%s” tomonidan faollashtirilgan"
 
 #. translators: "%s" is an application name
-#: panels/power/cc-power-panel.c:917
+#: panels/power/cc-power-panel.c:935
 #, c-format
 msgid "Performance mode activated by “%s”"
 msgstr "Ishlash rejimi “%s” tomonidan faollashtirilgan"
@@ -10525,7 +10525,7 @@ msgstr "Qidiruvni bekor qilish"
 
 #. translators:
 #. * The number of sound outputs on a particular device
-#: subprojects/gvc/gvc-mixer-control.c:1917
+#: subprojects/gvc/gvc-mixer-control.c:1926
 #, c-format
 msgid "%u Output"
 msgid_plural "%u Outputs"
@@ -10534,14 +10534,14 @@ msgstr[1] "%u Chiqishlar"
 
 #. translators:
 #. * The number of sound inputs on a particular device
-#: subprojects/gvc/gvc-mixer-control.c:1927
+#: subprojects/gvc/gvc-mixer-control.c:1936
 #, c-format
 msgid "%u Input"
 msgid_plural "%u Inputs"
 msgstr[0] "%u kiritish"
 msgstr[1] "%u Kirishlar"
 
-#: subprojects/gvc/gvc-mixer-control.c:2910
+#: subprojects/gvc/gvc-mixer-control.c:2919
 msgid "System Sounds"
 msgstr "Tizim tovushlari"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2026-02-19 00:58+0000\n"
+"POT-Creation-Date: 2026-02-23 03:19+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -422,7 +422,7 @@ msgstr "Desktop seansingiz parollarni saqlashni quvvatlamaydi."
 msgid "Try closing any open file manager windows and trying again."
 msgstr "Ochiq fayl boshqaruvchisi oynalarini yopib, qaytadan urinib koʻring."
 
-#: app/SnapshotsPage.vala:140
+#: app/SnapshotsPage.vala:153
 msgid "Failed to Open Backup"
 msgstr "Zaxiralashni ochib boʻlmadi"
 
@@ -1189,7 +1189,7 @@ msgstr "%1$s %2$sʼda"
 msgid "Backup will begin when %s is connected."
 msgstr "Zaxiralash %s ulanganida boshlanadi."
 
-#: libdeja/BackendDrive.vala:251 libdeja/BackendRemote.vala:230
+#: libdeja/BackendDrive.vala:251 libdeja/BackendRemote.vala:246
 msgid "Storage location not available"
 msgstr "Saqlash manzili mavjud emas"
 
@@ -1293,36 +1293,7 @@ msgstr "Rcloneda oldin Rclone masofaviy ʻ%sʻ sozlanishi kerak."
 msgid "The network server is not available"
 msgstr "Tarmoq serveri ishlamayapti"
 
-#: libdeja/BackendRemote.vala:164
-msgid ""
-"The server’s network location needs to be specified in the storage location "
-"preferences."
-msgstr ""
-"Serverning tarmoq joylashuvi xotira manzili afzalliklarida koʻrsatilishi "
-"kerak."
-
-#: libdeja/BackendRemote.vala:170
-#, c-format
-msgid ""
-"The server’s network location ‘%s’ does not look like a network location."
-msgstr "Serverning ʻ%sʻ tarmoq joylashuvi tarmoq manziliga oʻxshamaydi."
-
-#: libdeja/BackendRemote.vala:177
-msgid ""
-"HTTP network locations are not supported. If you want to connect to a WebDAV"
-" server, use `davs://` or `dav://` instead."
-msgstr ""
-
-#: libdeja/BackendRemote.vala:190
-#, c-format
-msgid "‘%s’ does not appear to be a network location."
-msgstr "‘%s’ tarmoq manzili emas."
-
-#. This means that we either couldn't talk to the gvfs daemon or the
-#. specific backend we need isn't installed - for whatever reason, the
-#. real scheme isn't being used and a path like the following is being
-#. used instead: file:///home/xxx/ftp:/example.com/
-#: libdeja/BackendRemote.vala:200
+#: libdeja/BackendRemote.vala:161
 #, c-format
 msgid ""
 "You must first install a gvfs backend that can connect to ‘%s’ network "
@@ -1331,16 +1302,47 @@ msgstr ""
 "Avval ‘%s’ tarmoq manzillariga ulanishi mumkin boʻlgan gvfs backendni "
 "oʻrnatishingiz kerak."
 
+#: libdeja/BackendRemote.vala:171
+msgid ""
+"The server’s network location needs to be specified in the storage location "
+"preferences."
+msgstr ""
+"Serverning tarmoq joylashuvi xotira manzili afzalliklarida koʻrsatilishi "
+"kerak."
+
+#: libdeja/BackendRemote.vala:177
+#, c-format
+msgid ""
+"The server’s network location ‘%s’ does not look like a network location."
+msgstr "Serverning ʻ%sʻ tarmoq joylashuvi tarmoq manziliga oʻxshamaydi."
+
+#: libdeja/BackendRemote.vala:184
+msgid ""
+"HTTP network locations are not supported. If you want to connect to a WebDAV"
+" server, use `davs://` or `dav://` instead."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:192
+msgid ""
+"Remote restic servers are not supported. Try another connection method (like"
+" `sftp://`) instead."
+msgstr ""
+
+#: libdeja/BackendRemote.vala:205
+#, c-format
+msgid "‘%s’ does not appear to be a network location."
+msgstr "‘%s’ tarmoq manzili emas."
+
 #. Special sanity check for some edge cases like smb:// where if the user
 #. just puts in smb://server/ as the root, GIO thinks it's a valid root,
 #. but the share never ends up mounted.
-#: libdeja/BackendRemote.vala:209
+#: libdeja/BackendRemote.vala:225
 msgid "Samba network locations must include both a hostname and a share name."
 msgstr ""
 "Samba tarmogʻining joylashuvi ham host nomini, ham ulashish nomini oʻz "
 "ichiga olishi kerak."
 
-#: libdeja/BackendRemote.vala:220
+#: libdeja/BackendRemote.vala:236
 msgid ""
 "You must first install FUSE support for GVfs, likely provided by the gvfs-"
 "fuse package. Then log out, log back in, and try again."
@@ -1349,11 +1351,11 @@ msgstr ""
 "ehtimol bilan gvfs-fuse paketi tomonidan taqdim etiladi. Keyin hisobingizdan"
 " chiqing, qayta kiring va qayta urining."
 
-#: libdeja/BackendRemote.vala:231
+#: libdeja/BackendRemote.vala:247
 msgid "Waiting for a network connection…"
 msgstr "Tarmoqqa ulanish kutilmoqda…"
 
-#: libdeja/BackendRemote.vala:243
+#: libdeja/BackendRemote.vala:259
 msgid "Could not mount storage location."
 msgstr "Saqlash joyini oʻrnatib boʻlmadi."
 
@@ -1420,10 +1422,10 @@ msgstr "Fayllarni listlash…"
 msgid "Verifying backup…"
 msgstr "Zaxiralar tasdiqlanmoqda…"
 
-#: libdeja/Operation.vala:72 libdeja/duplicity/DuplicityJob.vala:306
-#: libdeja/duplicity/DuplicityJob.vala:317
-#: libdeja/duplicity/DuplicityJob.vala:345
-#: libdeja/duplicity/DuplicityJob.vala:359
+#: libdeja/Operation.vala:72 libdeja/duplicity/DuplicityJob.vala:305
+#: libdeja/duplicity/DuplicityJob.vala:316
+#: libdeja/duplicity/DuplicityJob.vala:344
+#: libdeja/duplicity/DuplicityJob.vala:358
 msgid "Preparing…"
 msgstr "Tayyorlanmoqda…"
 
@@ -1510,7 +1512,7 @@ msgid "Could not find storage location ‘%s’."
 msgstr "’%s’ xotirasi joylashuvi topilmadi."
 
 #: libdeja/duplicity/DuplicityJob.vala:79
-#: libdeja/duplicity/DuplicityJob.vala:140
+#: libdeja/duplicity/DuplicityJob.vala:139
 msgid "Paused (no network)"
 msgstr "Pauzaga qoʻyildi (tarmoq yoʻq)"
 
@@ -1519,22 +1521,22 @@ msgstr "Pauzaga qoʻyildi (tarmoq yoʻq)"
 #. If the user adds folders to their backup and the target is just too small,
 #. let them know.
 #. Tiny backup location.  Suggest they get a larger one.
-#: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:337
+#: libdeja/duplicity/DuplicityJob.vala:483 libdeja/restic/ResticJob.vala:337
 msgid "Backup location is too small."
 msgstr "Zaxira joylashuvi juda kichik."
 
-#: libdeja/duplicity/DuplicityJob.vala:485 libdeja/restic/ResticJob.vala:338
+#: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:338
 #, c-format
 msgid "Try using a location with at least %s."
 msgstr "Kamida %s boʻlgan joylashuvdan foydalanib koʻring."
 
-#: libdeja/duplicity/DuplicityJob.vala:486
+#: libdeja/duplicity/DuplicityJob.vala:485
 msgid "(Space for two full backups is required.)"
 msgstr "(Ikkita toʻliq zaxira uchun boʻsh joy kerak.)"
 
 #. Can't delete any more backup chains ourselves. Tell the user, so they can
 #. clear out space.
-#: libdeja/duplicity/DuplicityJob.vala:507
+#: libdeja/duplicity/DuplicityJob.vala:506
 #, c-format
 msgid ""
 "Backup location does not have enough free space. Please free up at least %s."
@@ -1542,7 +1544,7 @@ msgstr ""
 "Zaxira joylashuvida boʻsh joy yetarli emas. Iltimos, kamida %s joy "
 "boʻshating."
 
-#: libdeja/duplicity/DuplicityJob.vala:509
+#: libdeja/duplicity/DuplicityJob.vala:508
 #, c-format
 msgid ""
 "Backup location does not have enough free space. Try using a location with "
@@ -1551,8 +1553,8 @@ msgstr ""
 "Zaxira joylashuvida boʻsh joy yetarli emas. Kamida %s boʻsh joylashuvdan "
 "foydalanib koʻring."
 
-#: libdeja/duplicity/DuplicityJob.vala:529
-#: libdeja/duplicity/DuplicityJob.vala:543
+#: libdeja/duplicity/DuplicityJob.vala:528
+#: libdeja/duplicity/DuplicityJob.vala:542
 msgid "Cleaning up…"
 msgstr "Tozalanmoqda…"
 
@@ -1563,14 +1565,14 @@ msgstr "Tozalanmoqda…"
 #. frequently fix odd metadata errors with duplicity.  If we hit an error
 #. a second time, we'll show the unknown error message.
 #. Should emit some sort of error...
-#: libdeja/duplicity/DuplicityJob.vala:641
-#: libdeja/duplicity/DuplicityJob.vala:1042
+#: libdeja/duplicity/DuplicityJob.vala:640
+#: libdeja/duplicity/DuplicityJob.vala:1041
 #: libdeja/libtool/ToolJoblet.vala:102 libdeja/restic/ResticInstance.vala:177
 msgid "Failed with an unknown error."
 msgstr "Nomaʻlum xatolik bilan xatolik yuz berdi."
 
 #. notify upper layers, if they want to do anything
-#: libdeja/duplicity/DuplicityJob.vala:851
+#: libdeja/duplicity/DuplicityJob.vala:850
 msgid "Bad encryption password."
 msgstr "Yomon shifrlash maxfiy soʻzi."
 
@@ -1582,23 +1584,23 @@ msgstr "Yomon shifrlash maxfiy soʻzi."
 #. (bad configuration files or something).
 #. We also check the English string in case there's a language misconfig
 #. and gpg isn't giving us the translated strings.
-#: libdeja/duplicity/DuplicityJob.vala:864
+#: libdeja/duplicity/DuplicityJob.vala:863
 msgid "No secret key"
 msgstr "Maxfiy kalit yoʻq"
 
-#: libdeja/duplicity/DuplicityJob.vala:866
+#: libdeja/duplicity/DuplicityJob.vala:865
 msgid "Bad session key"
 msgstr "Yomon seans kalit"
 
 #. make text a little nicer than duplicity gives
 #. duplicity gives something like "home/blah/blah not found in archive,
 #. no files restored".
-#: libdeja/duplicity/DuplicityJob.vala:902
+#: libdeja/duplicity/DuplicityJob.vala:901
 #, c-format
 msgid "Could not restore ‘%s’: File not found in backup"
 msgstr "‘%s’ tiklab boʻlmadi. Fayl zaxirada topilmadi"
 
-#: libdeja/duplicity/DuplicityJob.vala:913
+#: libdeja/duplicity/DuplicityJob.vala:912
 #, c-format
 msgid ""
 "The existing backup is of a computer named %s, but the current computer’s "
@@ -1609,65 +1611,65 @@ msgstr ""
 "kompyuterning nomi %s. Agar bu kutilmagan boʻlsa, zaxira nusxasini boshqa "
 "joyga saqlashingiz kerak."
 
-#: libdeja/duplicity/DuplicityJob.vala:916
+#: libdeja/duplicity/DuplicityJob.vala:915
 msgid "Unexpected computer name encountered"
 msgstr "Kutilmagan kompyuter nomi topildi"
 
-#: libdeja/duplicity/DuplicityJob.vala:917
+#: libdeja/duplicity/DuplicityJob.vala:916
 msgid "Computer Name Changed"
 msgstr "Kompyuter nomi oʻzgartirildi"
 
-#: libdeja/duplicity/DuplicityJob.vala:955
+#: libdeja/duplicity/DuplicityJob.vala:954
 #, c-format
 msgid "Permission denied when trying to create ‘%s’."
 msgstr "‘%s’ yaratish payti ruxsat berilmadi."
 
 #. assume error is on backend side
-#: libdeja/duplicity/DuplicityJob.vala:959
-#: libdeja/duplicity/DuplicityJob.vala:963
+#: libdeja/duplicity/DuplicityJob.vala:958
+#: libdeja/duplicity/DuplicityJob.vala:962
 #, c-format
 msgid "Permission denied when trying to read ‘%s’."
 msgstr "‘%s’ oʻqish payti ruxsat berilmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:967
+#: libdeja/duplicity/DuplicityJob.vala:966
 #, c-format
 msgid "Permission denied when trying to delete ‘%s’."
 msgstr "‘%s’ oʻchirish payti ruxsat berilmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:974
+#: libdeja/duplicity/DuplicityJob.vala:973
 #, c-format
 msgid "Backup location ‘%s’ does not exist."
 msgstr "Zaxira manzili ‘%s’ mavjud emas."
 
-#: libdeja/duplicity/DuplicityJob.vala:980
-#: libdeja/duplicity/DuplicityJob.vala:1013
+#: libdeja/duplicity/DuplicityJob.vala:979
+#: libdeja/duplicity/DuplicityJob.vala:1012
 msgid "No space left."
 msgstr "Joy qolmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:1002
+#: libdeja/duplicity/DuplicityJob.vala:1001
 #, c-format
 msgid "Error reading file ‘%s’."
 msgstr "‘%s’ faylini oʻqishda xatolik."
 
-#: libdeja/duplicity/DuplicityJob.vala:1004
+#: libdeja/duplicity/DuplicityJob.vala:1003
 #, c-format
 msgid "Error writing file ‘%s’."
 msgstr "‘%s’ faylini yozishda xatolik."
 
-#: libdeja/duplicity/DuplicityJob.vala:1015
+#: libdeja/duplicity/DuplicityJob.vala:1014
 #, c-format
 msgid "No space left in ‘%s’."
 msgstr "‘%s’ joy qolmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:1023
+#: libdeja/duplicity/DuplicityJob.vala:1022
 msgid "No backup files found"
 msgstr "Hech qanday zaxira fayllari topilmadi"
 
-#: libdeja/duplicity/DuplicityJob.vala:1073
+#: libdeja/duplicity/DuplicityJob.vala:1072
 msgid "Uploading…"
 msgstr "Yuklanmoqda…"
 
-#: libdeja/duplicity/DuplicityJob.vala:1542
+#: libdeja/duplicity/DuplicityJob.vala:1541
 msgid "could not restore test file"
 msgstr "sinov faylini qayta tiklab boʻlmadi"
 

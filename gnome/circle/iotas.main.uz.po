@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2026-02-18 08:52+0000\n"
+"POT-Creation-Date: 2026-02-26 08:52+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -429,8 +429,10 @@ msgid "Add a Note"
 msgstr "Qayd qoʻshish"
 
 #. Translators: Description, introduction help
-#. Translators: Menu item
-#: data/ui/first_start_page.ui:64 data/ui/index_menu_button.ui:13
+#: data/ui/first_start_page.ui:64
+#, fuzzy
+#| msgid "Sync with Nextcloud Notes"
+msgctxt "first-start-view"
 msgid "Sync with Nextcloud Notes"
 msgstr "Nextcloud qaydlar bilan sinxronlash"
 
@@ -558,6 +560,14 @@ msgstr "Belgilash katakchasi"
 #: data/ui/keyboard_shortcuts_dialog.ui:220
 msgid "Link"
 msgstr "Havola"
+
+#. Translators: Menu item
+#: data/ui/index_menu_button.ui:13
+#, fuzzy
+#| msgid "Sync with Nextcloud Notes"
+msgctxt "index-menu"
+msgid "Sync with Nextcloud Notes"
+msgstr "Nextcloud qaydlar bilan sinxronlash"
 
 #. Translators: Menu item
 #: data/ui/index_menu_button.ui:19
@@ -1323,7 +1333,9 @@ msgstr "Barcha qaydlar"
 
 #. Translators: Title
 #: iotas/category.py:21
-msgid "Uncategorised"
+#, fuzzy
+#| msgid "Uncategorised"
+msgid "Uncategorized"
 msgstr "Toifalanmagan"
 
 #. Translators: Description, notification, {0} is a number
