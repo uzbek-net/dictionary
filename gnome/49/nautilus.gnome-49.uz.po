@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
-"POT-Creation-Date: 2026-02-01 19:03+0000\n"
+"POT-Creation-Date: 2026-02-28 18:10+0000\n"
 "PO-Revision-Date: 2025-05-14 21:12+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -4096,7 +4096,7 @@ msgstr "Fayl nomini oʻzgartirish"
 msgid "Search for “%s”"
 msgstr "\"%s\" uchun qidirish natijalari"
 
-#: src/nautilus-search-engine.c:237
+#: src/nautilus-search-engine.c:240
 msgid "Unable to complete the requested search"
 msgstr "Soʻralgan qidiruvni yakunlab boʻlmadi"
 

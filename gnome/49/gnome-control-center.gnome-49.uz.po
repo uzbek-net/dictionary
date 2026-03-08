@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-02-27 12:49+0000\n"
+"POT-Creation-Date: 2026-03-04 16:16+0000\n"
 "PO-Revision-Date: 2025-10-19 15:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -474,7 +474,7 @@ msgstr "Fayl tizimi"
 
 #: panels/applications/cc-applications-panel.c:907
 #: panels/keyboard/01-launchers.xml.in:6
-#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:7
+#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:8
 #: shell/cc-window.blp:20 shell/cc-window.c:804
 #: shell/org.gnome.Settings.desktop.in:2
 msgid "Settings"
@@ -10347,16 +10347,16 @@ msgstr "Telefoniya va mobil ma'lumotlar ulanishlarini sozlang"
 msgid "cellular;wwan;telephony;sim;mobile;"
 msgstr "uyali;wwan;telefoniya;sim;mobil;"
 
-#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:8
+#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:9
 msgid "Utility to configure the GNOME desktop"
 msgstr "GNOME ish stolini sozlash uchun yordamchi dastur"
 
-#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:10
+#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:11
 msgid "Settings is the primary interface for configuring your system."
 msgstr "Sozlamalar tizimingizni sozlash uchun asosiy interfeysdir."
 
 #. developer_name tag deprecated with Appstream 1.0
-#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:39
+#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:40
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-logs master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-logs/issues/\n"
-"POT-Creation-Date: 2025-12-28 13:02+0000\n"
+"POT-Creation-Date: 2026-03-07 18:41+0000\n"
 "PO-Revision-Date: 2025-04-04 11:39+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -449,7 +449,7 @@ msgstr "Xavfsiz Boot yuklash oʻchirilgan"
 
 #. Translators: Shown when there are no (zero) results in the current
 #. * view.
-#: src/gl-eventviewlist.c:431
+#: src/gl-eventviewlist.c:444
 msgid "No Results"
 msgstr "Natija yoʻq"
 

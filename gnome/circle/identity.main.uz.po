@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: identity master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/YaLTeR/identity/issues\n"
-"POT-Creation-Date: 2025-10-28 17:19+0000\n"
+"POT-Creation-Date: 2026-03-03 17:54+0000\n"
 "PO-Revision-Date: 2025-10-10 16:26+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: data/org.gnome.gitlab.YaLTeR.Identity.desktop.in.in:2
 #: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:7
-#: data/resources/ui/window.blp:128 src/main.rs:104
+#: data/resources/ui/window.blp:128 src/main.rs:104 src/window.rs:513
 msgid "Identity"
 msgstr "Identifikatsiya"
 
@@ -225,28 +225,35 @@ msgid "Zoom 1:1"
 msgstr "1:1 masshtab"
 
 #: data/resources/ui/shortcuts.blp:94
+#, fuzzy
+#| msgid "Select Zoom Level"
+msgctxt "shortcut window"
+msgid "Set zoom level"
+msgstr "Kattalashtirish darajasini tanlang"
+
+#: data/resources/ui/shortcuts.blp:99
 msgctxt "shortcut window"
 msgid "Best fit"
 msgstr "Eng yaxshi moslik"
 
 #. Translators: Shortcuts window section title for the display mode (arrange
 #. as tabs, in a row, in a column).
-#: data/resources/ui/shortcuts.blp:101
+#: data/resources/ui/shortcuts.blp:106
 msgctxt "shortcut window"
 msgid "Display"
 msgstr "Koʻrsatish"
 
-#: data/resources/ui/shortcuts.blp:104
+#: data/resources/ui/shortcuts.blp:109
 msgctxt "shortcut window"
 msgid "Arrange as tabs"
 msgstr "Tab sifatida tartiblash"
 
-#: data/resources/ui/shortcuts.blp:109
+#: data/resources/ui/shortcuts.blp:114
 msgctxt "shortcut window"
 msgid "Arrange in a row"
 msgstr "Qatorga sifatida tartiblash"
 
-#: data/resources/ui/shortcuts.blp:114
+#: data/resources/ui/shortcuts.blp:119
 msgctxt "shortcut window"
 msgid "Arrange in a column"
 msgstr "Ustun sifatida tartiblash"
@@ -350,47 +357,83 @@ msgid "Select Zoom Level"
 msgstr "Kattalashtirish darajasini tanlang"
 
 #. Translators: screen reader label on the Play / Pause button.
-#: data/resources/ui/window.blp:284
+#: data/resources/ui/window.blp:286
 msgid "Play / Pause"
 msgstr "Tinglash/Toʻxtatish"
 
 #. Translators: screen reader label on the playback position slider.
-#: data/resources/ui/window.blp:306
+#: data/resources/ui/window.blp:308
 msgid "Playback position"
 msgstr "Ijro holati"
 
-#: src/page.rs:379
+#. Translators: shown in --help usage line as: identity [OPTION…] [FILES…]
+#: src/application.rs:53
+msgid "[FILES…]"
+msgstr ""
+
+#. Translators: CLI option description for --display. Example values in
+#. parentheses
+#. must not be localized.
+#: src/application.rs:62
+msgid "Display mode (tabbed, row, column)"
+msgstr ""
+
+#. Translators: CLI option argument placeholder for --display, shown as
+#. --display=MODE.
+#: src/application.rs:65
+msgid "MODE"
+msgstr ""
+
+#. Translators: CLI option description for --zoom.
+#: src/application.rs:73
+msgid "Zoom percentage"
+msgstr ""
+
+#. Translators: CLI option argument placeholder for --zoom, shown as
+#. --zoom=PERCENT.
+#: src/application.rs:76
+msgid "PERCENT"
+msgstr ""
+
+#: src/application.rs:90
+#, rust-format
+msgid ""
+"Unknown display mode: {}, defaulting to tabbed. Valid modes: tabbed, row, "
+"column."
+msgstr ""
+
+#: src/page.rs:383
 #, rust-format
 msgid "{} × {}"
 msgstr "{} × {}"
 
 #. Translators: "Not applicable" string for the media properties dialog when a
 #. given property is unknown or missing (e.g. images don't have frame rate).
-#: src/page.rs:388 src/window.rs:551 src/window.rs:559 src/window.rs:567
+#: src/page.rs:392 src/window.rs:570 src/window.rs:578 src/window.rs:586
 msgid "N/A"
 msgstr "N/A"
 
 #. Translators: shown in the About dialog, put your name here.
-#: src/window.rs:353
+#: src/window.rs:360
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
 #. Translators: link title in the About dialog.
-#: src/window.rs:356
+#: src/window.rs:363
 msgid "Contribute Translations"
 msgstr "Tarjimalarga hissa qoʻshish"
 
 #. Translators: name of https://apps.gnome.org/VideoTrimmer
-#: src/window.rs:362
+#: src/window.rs:369
 msgid "Video Trimmer"
 msgstr "Videoni qirqish vositasi"
 
 #. Translators: summary of https://apps.gnome.org/VideoTrimmer
-#: src/window.rs:364
+#: src/window.rs:371
 msgid "Trim videos quickly"
 msgstr "Videolarni tezda kesish"
 
-#: src/window.rs:371
+#: src/window.rs:378
 msgid ""
 "This release adds a context menu to row and column display modes and updates"
 " the platform to GNOME 49."
@@ -398,7 +441,7 @@ msgstr ""
 "Ushbu yangilanishda qator va ustun koʻrsatish rejimlariga kontekst menyu "
 "qoʻshildi hamda platforma GNOME 49 versiyasiga yangilandi."
 
-#: src/window.rs:372
+#: src/window.rs:379
 #, fuzzy
 msgid ""
 "Added a context menu on the images, mirroring the tab context menu. This "
@@ -409,27 +452,27 @@ msgstr ""
 " Bu yangilik qator va ustun koʻrsatish rejimlarida, varaqlar mavjud "
 "boʻlmagan hollarda ham, kontekst menyudan foydalanish imkoniyatini yaratadi."
 
-#: src/window.rs:373
+#: src/window.rs:380
 msgid "Updated to the GNOME 49 platform."
 msgstr "GNOME 49 platformasiga yangilandi."
 
-#: src/window.rs:374
+#: src/window.rs:381
 msgid "Updated translations."
 msgstr "Yangilangan tarjimalar."
 
 #. Translators: Entry in the scale/zoom menu that indicates that the image or
 #. video is
 #. always resized to fit the window.
-#: src/window.rs:628
+#: src/window.rs:647
 msgid "Best Fit"
 msgstr "Eng yaxshi moslik"
 
 #. Translators: file chooser file filter name.
-#: src/window.rs:1798
+#: src/window.rs:1921
 msgid "Videos and images"
 msgstr "Video va rasmlar"
 
 #. Translators: file chooser dialog title.
-#: src/window.rs:1806
+#: src/window.rs:1929
 msgid "Open videos or images to compare"
 msgstr "Taqqoslash uchun video yoki rasmlarni oching"
