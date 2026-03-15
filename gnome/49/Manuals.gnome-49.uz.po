@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Manuals gnome-49\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/manuals/-/issues\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/manuals/issues\n"
 "POT-Creation-Date: 2025-11-08 00:18+0000\n"
 "PO-Revision-Date: 2026-01-15 17:26+0500\n"
 "Last-Translator: Baxrom Raxmatov <>\n"

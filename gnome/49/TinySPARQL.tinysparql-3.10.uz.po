@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TinySPARQL main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/tinysparql/-/issues\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/tinysparql/issues/\n"
 "POT-Creation-Date: 2025-06-19 12:48+0000\n"
 "PO-Revision-Date: 2025-04-02 21:31+0500\n"
 "Last-Translator: \n"

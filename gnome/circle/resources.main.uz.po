@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2026-03-06 20:03+0000\n"
+"POT-Creation-Date: 2026-03-14 11:16+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -242,7 +242,7 @@ msgstr "Video dekodlovchi"
 #: data/resources/ui/pages/battery.ui:33 data/resources/ui/pages/cpu.ui:83
 #: data/resources/ui/pages/drive.ui:54 data/resources/ui/pages/gpu.ui:74
 #: data/resources/ui/pages/memory.ui:42 data/resources/ui/pages/network.ui:51
-#: data/resources/ui/pages/npu.ui:68
+#: data/resources/ui/pages/npu.ui:77
 msgid "Properties"
 msgstr "Xususiyatlar"
 
@@ -619,7 +619,7 @@ msgid "Technology"
 msgstr "Texnologiya"
 
 #: data/resources/ui/pages/battery.ui:72 data/resources/ui/pages/gpu.ui:81
-#: data/resources/ui/pages/network.ui:58 data/resources/ui/pages/npu.ui:75
+#: data/resources/ui/pages/network.ui:58 data/resources/ui/pages/npu.ui:84
 msgid "Manufacturer"
 msgstr "Ishlab chiqaruvchi"
 
@@ -636,7 +636,7 @@ msgid "Show Usages of Logical CPUs"
 msgstr "Protsessorlardan foydalanishni koʻrsatish"
 
 #: data/resources/ui/pages/cpu.ui:75 data/resources/ui/pages/gpu.ui:66
-#: data/resources/ui/pages/npu.ui:60
+#: data/resources/ui/pages/npu.ui:69
 msgid "Sensors"
 msgstr "Sensorlar"
 
@@ -694,7 +694,7 @@ msgstr "Olinadigan"
 
 #. Translators: "Link" refers to something like "PCIe 4.0 ×16"
 #: data/resources/ui/pages/drive.ui:102 data/resources/ui/pages/gpu.ui:113
-#: data/resources/ui/pages/network.ui:103 data/resources/ui/pages/npu.ui:107
+#: data/resources/ui/pages/network.ui:103 data/resources/ui/pages/npu.ui:116
 msgid "Link"
 msgstr "Havola"
 
@@ -706,21 +706,21 @@ msgstr "GPU chastotasi"
 msgid "Video Memory Frequency"
 msgstr "Video xotira chastotasi"
 
-#: data/resources/ui/pages/gpu.ui:55 data/resources/ui/pages/npu.ui:49
+#: data/resources/ui/pages/gpu.ui:55 data/resources/ui/pages/npu.ui:58
 #: src/ui/pages/battery.rs:218
 msgid "Power Usage"
 msgstr "Quvvat sarfi"
 
-#: data/resources/ui/pages/gpu.ui:90 data/resources/ui/pages/npu.ui:84
+#: data/resources/ui/pages/gpu.ui:90 data/resources/ui/pages/npu.ui:93
 msgid "PCI Slot"
 msgstr "PCI sloti"
 
 #: data/resources/ui/pages/gpu.ui:99 data/resources/ui/pages/network.ui:67
-#: data/resources/ui/pages/npu.ui:93
+#: data/resources/ui/pages/npu.ui:102
 msgid "Driver Used"
 msgstr "Drayver ishlatildi"
 
-#: data/resources/ui/pages/gpu.ui:108 data/resources/ui/pages/npu.ui:102
+#: data/resources/ui/pages/gpu.ui:108 data/resources/ui/pages/npu.ui:111
 msgid "Max Power Cap"
 msgstr "Maksimal quvvat qopqogʻi"
 
@@ -777,7 +777,11 @@ msgstr "Ulanish tezligi"
 msgid "NPU Frequency"
 msgstr "NPU chastotasi"
 
-#: data/resources/ui/pages/npu.ui:44
+#: data/resources/ui/pages/npu.ui:40
+msgid "Performance"
+msgstr ""
+
+#: data/resources/ui/pages/npu.ui:53
 msgid "Memory Frequency"
 msgstr "Xotira chastotasi"
 
@@ -963,7 +967,7 @@ msgstr ""
 #: src/ui/pages/processes/mod.rs:1500 src/ui/pages/processes/mod.rs:2050
 #: src/ui/pages/processes/mod.rs:2052 src/utils/battery.rs:152
 #: src/utils/drive.rs:137 src/utils/gpu/mod.rs:279 src/utils/gpu/mod.rs:291
-#: src/utils/link/mod.rs:61 src/utils/npu/mod.rs:249 src/utils/npu/mod.rs:255
+#: src/utils/link/mod.rs:61 src/utils/npu/mod.rs:263 src/utils/npu/mod.rs:269
 msgid "N/A"
 msgstr "M/E"
 
@@ -1231,37 +1235,37 @@ msgstr "NPU {}"
 msgid "NPU"
 msgstr "NPU"
 
-#: src/ui/window.rs:1201
+#: src/ui/window.rs:1200
 #, rust-format
 msgid "Successfully adjusted {}"
 msgstr "{} sozlandi"
 
-#: src/ui/window.rs:1202
+#: src/ui/window.rs:1201
 #, rust-format
 msgid "There was a problem adjusting {}"
 msgstr "{}ʼni sozlashda muammo yuz berdi"
 
-#: src/ui/window.rs:1284
+#: src/ui/window.rs:1283
 #, rust-format
 msgid "Successfully ended {}"
 msgstr "{} muvaffaqiyatli yakunlandi"
 
-#: src/ui/window.rs:1285
+#: src/ui/window.rs:1284
 #, rust-format
 msgid "Successfully halted {}"
 msgstr "{} toʻxtatildi"
 
-#: src/ui/window.rs:1286
+#: src/ui/window.rs:1285
 #, rust-format
 msgid "Successfully killed {}"
 msgstr "{} oʻldirildi"
 
-#: src/ui/window.rs:1287
+#: src/ui/window.rs:1286
 #, rust-format
 msgid "Successfully continued {}"
 msgstr "{} davom ettirildi"
 
-#: src/ui/window.rs:1294
+#: src/ui/window.rs:1293
 #, fuzzy, rust-format
 #| msgid "Successfully ended the process"
 #| msgid_plural "Successfully ended {} processes"
@@ -1269,7 +1273,7 @@ msgid "Successfully ended the process"
 msgid_plural "Successfully ended {} processes"
 msgstr[0] "Jarayon muvaffaqiyatli yakunlandi"
 
-#: src/ui/window.rs:1300
+#: src/ui/window.rs:1299
 #, fuzzy, rust-format
 #| msgid "Successfully halted the process"
 #| msgid_plural "Successfully halted {} processes"
@@ -1277,7 +1281,7 @@ msgid "Successfully halted the process"
 msgid_plural "Successfully halted {} processes"
 msgstr[0] "Jarayonni muvaffaqiyatli to‘xtatdi"
 
-#: src/ui/window.rs:1306
+#: src/ui/window.rs:1305
 #, fuzzy, rust-format
 #| msgid "Successfully killed the process"
 #| msgid_plural "Successfully killed {} processes"
@@ -1285,7 +1289,7 @@ msgid "Successfully killed the process"
 msgid_plural "Successfully killed {} processes"
 msgstr[0] "Jarayon muvaffaqiyatli yakunlandi"
 
-#: src/ui/window.rs:1312
+#: src/ui/window.rs:1311
 #, fuzzy, rust-format
 #| msgid "Successfully continued the process"
 #| msgid_plural "Successfully continued {} processes"
@@ -1293,7 +1297,7 @@ msgid "Successfully continued the process"
 msgid_plural "Successfully continued {} processes"
 msgstr[0] "Jarayonni muvaffaqiyatli davom ettirdi"
 
-#: src/ui/window.rs:1323
+#: src/ui/window.rs:1322
 #, fuzzy, rust-format
 #| msgid "There was a problem ending a process"
 #| msgid_plural "There were problems ending {} processes"
@@ -1301,7 +1305,7 @@ msgid "There was a problem ending a process"
 msgid_plural "There were problems ending {} processes"
 msgstr[0] "Jarayonni yakunlashda muammo yuz berdi"
 
-#: src/ui/window.rs:1329
+#: src/ui/window.rs:1328
 #, fuzzy, rust-format
 #| msgid "There was a problem halting a process"
 #| msgid_plural "There were problems halting {} processes"
@@ -1309,7 +1313,7 @@ msgid "There was a problem halting a process"
 msgid_plural "There were problems halting {} processes"
 msgstr[0] "Jarayonni to‘xtatishda muammo yuz berdi"
 
-#: src/ui/window.rs:1335
+#: src/ui/window.rs:1334
 #, fuzzy, rust-format
 #| msgid "There was a problem killing a process"
 #| msgid_plural "There were problems killing {} processes"
@@ -1317,7 +1321,7 @@ msgid "There was a problem killing a process"
 msgid_plural "There were problems killing {} processes"
 msgstr[0] "Jarayonni o‘ldirish muammosi yuzaga keldi"
 
-#: src/ui/window.rs:1341
+#: src/ui/window.rs:1340
 #, fuzzy, rust-format
 #| msgid "There was a problem continuing a process"
 #| msgid_plural "There were problems continuing {} processes"
@@ -1325,22 +1329,22 @@ msgid "There was a problem continuing a process"
 msgid_plural "There were problems continuing {} processes"
 msgstr[0] "Jarayonni davom ettirishda muammo yuz berdi"
 
-#: src/ui/window.rs:1351
+#: src/ui/window.rs:1350
 #, rust-format
 msgid "There was a problem ending {}"
 msgstr "{} bilan tugaydigan muammo bor edi"
 
-#: src/ui/window.rs:1352
+#: src/ui/window.rs:1351
 #, rust-format
 msgid "There was a problem halting {}"
 msgstr "{} toʻxtatishda muammo yuz berdi"
 
-#: src/ui/window.rs:1353
+#: src/ui/window.rs:1352
 #, rust-format
 msgid "There was a problem killing {}"
 msgstr "{} oʻldirishda muammo yuz berdi"
 
-#: src/ui/window.rs:1354
+#: src/ui/window.rs:1353
 #, rust-format
 msgid "There was a problem continuing {}"
 msgstr "{} davom etishida muammo bor edi"
@@ -1902,6 +1906,12 @@ msgstr "{} RWh"
 #, rust-format
 msgid "{} QWh"
 msgstr "{} QWh"
+
+#: src/utils/units.rs:338
+#, fuzzy, rust-format
+#| msgid "{} TB/s"
+msgid "{} TOPs"
+msgstr "{} TB/s"
 
 #: src/utils/drive.rs:129 src/utils/drive.rs:208
 msgid "CD/DVD/Blu-ray Drive"

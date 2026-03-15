@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chatty main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Chatty/issues\n"
-"POT-Creation-Date: 2025-10-27 11:35+0000\n"
+"POT-Creation-Date: 2026-02-28 12:23+0000\n"
 "PO-Revision-Date: 2025-04-04 22:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1803,6 +1803,10 @@ msgstr "Qolgan SMS-ni oʻchirish"
 #: src/ui/chatty-settings-dialog.ui:349
 msgid "SMIL for MMS"
 msgstr "MMS uchun SMIL"
+
+#: src/ui/chatty-settings-dialog.ui:350
+msgid "Enable rich media embedding"
+msgstr ""
 
 #: src/ui/chatty-settings-dialog.ui:381
 msgid "MMS Carrier Settings"

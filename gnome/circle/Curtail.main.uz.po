@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Curtail master\n"
 "Report-Msgid-Bugs-To: https://github.com/Huluti/Curtail/issues\n"
-"POT-Creation-Date: 2026-03-07 08:33+0000\n"
+"POT-Creation-Date: 2026-03-14 09:25+0000\n"
 "PO-Revision-Date: 2025-10-03 16:38+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -334,7 +334,7 @@ msgstr "Tezkor tugmalar"
 msgid "About Curtail"
 msgstr "Curtail haqida"
 
-#: data/ui/window.ui:22 src/window.py:303
+#: data/ui/window.ui:22 src/window.py:302
 msgid "Browse Files"
 msgstr "Fayllarni koʻrish"
 
@@ -380,15 +380,15 @@ msgstr "Barcha rasmlar"
 msgid "Analyzing your images before compression…"
 msgstr ""
 
-#: src/compressor.py:118
+#: src/compressor.py:122
 msgid "Compression has reached the configured timeout of {} seconds."
 msgstr "Zichlash vaqti belgilangan {} soniyaga yetdi."
 
-#: src/compressor.py:123
+#: src/compressor.py:127
 msgid "An unknown error has occurred"
 msgstr "Noma’lum xatolik yuz berdi"
 
-#: src/compressor.py:168
+#: src/compressor.py:175
 msgid "Can't find the compressed file"
 msgstr "Zichlangan fayl topilmadi"
 
@@ -412,20 +412,20 @@ msgstr "WebP rasmlar"
 msgid "SVG images"
 msgstr "SVG rasmlar"
 
-#: src/tools.py:155 src/tools.py:162 src/tools.py:169 src/tools.py:176
-#: src/tools.py:183 src/tools.py:210
+#: src/tools.py:158 src/tools.py:165 src/tools.py:172 src/tools.py:179
+#: src/tools.py:186 src/tools.py:213
 msgid "Version not found"
 msgstr "Versiya topilmadi"
 
-#: src/window.py:160
+#: src/window.py:159
 msgid "Skipped"
 msgstr "Tashlab ketildi"
 
-#: src/window.py:181
+#: src/window.py:180
 msgid "More Information"
 msgstr "Batafsil"
 
-#: src/window.py:190
+#: src/window.py:189
 msgid ""
 "Compression was skipped because compressing the file would have resulted in "
 "a larger file size."
@@ -433,27 +433,27 @@ msgstr ""
 "Faylni zichlash tashlab ketildi, chunki faylni zichlash natijasida fayl "
 "hajmi kattalashgan boʻlar edi."
 
-#: src/window.py:260
+#: src/window.py:259
 msgid "Open Image"
 msgstr "Rasmni ochish"
 
-#: src/window.py:261
+#: src/window.py:260
 msgid "Show in Folder"
 msgstr "Jildda koʻrsatish"
 
-#: src/window.py:293
+#: src/window.py:292
 msgid "Overwrite mode"
 msgstr "Ustidan yozish usuli"
 
-#: src/window.py:318
+#: src/window.py:320
 msgid "Browse Directories"
 msgstr "Direktoriyalarni koʻrish"
 
-#: src/window.py:341 src/window.py:350
+#: src/window.py:346 src/window.py:355
 msgid "Are you sure you want to compress images in these directories?"
 msgstr "Haqiqatan ham bu kataloglardagi rasmlarni zichlamoqchimisiz?"
 
-#: src/window.py:343
+#: src/window.py:348
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed. The original images will not be modified."
@@ -461,7 +461,7 @@ msgstr ""
 "Belgilangan direktoriyalar va ularning quyi direktoriyalaridagi barcha "
 "rasmlar zichlashtiriladi. Asl rasmlar oʻzgarmaydi."
 
-#: src/window.py:352
+#: src/window.py:357
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed and overwritten!"
@@ -469,31 +469,31 @@ msgstr ""
 "Tanlangan direktoriyalar va ularning quyi direktoriyalaridagi barcha rasmlar"
 " zichlanadi va ustidan yoziladi!"
 
-#: src/window.py:357
+#: src/window.py:362
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/window.py:358
+#: src/window.py:363
 msgid "Compress"
 msgstr "Zichlamoq"
 
-#: src/window.py:403
-msgid "Format of this file is not supported."
-msgstr "Bu fayl formati qoʻllab-quvvatlanmaydi."
-
-#: src/window.py:405
-msgid "Unable to read file information."
-msgstr ""
-
-#: src/window.py:458
+#: src/window.py:425
 msgid "No files found"
 msgstr "Hech qanday fayllar topilmadi"
 
-#: src/window.py:521
+#: src/window.py:434
+msgid "This file doesn't exist."
+msgstr "Bu fayl mavjud emas."
+
+#: src/window.py:454
+msgid "Format of this file is not supported."
+msgstr "Bu fayl formati qoʻllab-quvvatlanmaydi."
+
+#: src/window.py:512
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
-#: src/window.py:525
+#: src/window.py:516
 msgid "Contributors"
 msgstr "Hissa qoʻshuvchilar"
 
@@ -511,6 +511,3 @@ msgstr "Hissa qoʻshuvchilar"
 #~ msgctxt "shortcut window"
 #~ msgid "Keyboard Shortcuts"
 #~ msgstr "Klaviatura yorliqlari"
-
-#~ msgid "This file doesn't exist."
-#~ msgstr "Bu fayl mavjud emas."

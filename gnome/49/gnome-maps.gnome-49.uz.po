@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-01-28 20:58+0000\n"
+"POT-Creation-Date: 2026-03-13 09:46+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -190,7 +190,7 @@ msgstr ""
 "hamkorlikdagi OpenStreetMap maʼlumotlar bazasidan foydalanadi."
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Maps.metainfo.xml.in.in:652
+#: data/org.gnome.Maps.metainfo.xml.in.in:659
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -397,7 +397,7 @@ msgstr "Joylashuvni tahrirlash"
 msgid "Edit an existing location in OpenStreetMap"
 msgstr "OpenStreetMap dagi mavjud joylashuvni tahrirlash"
 
-#: data/ui/osm-edit-dialog.ui:68 src/mapView.js:714
+#: data/ui/osm-edit-dialog.ui:68 src/mapView.js:719
 #: src/transitplugins/motis2.js:367 src/transitplugins/openTripPlanner.js:1242
 #: src/transitplugins/openTripPlanner2.js:271
 msgid "Continue"
@@ -736,7 +736,7 @@ msgid "Zoom Out"
 msgstr "Kichiklashtirish"
 
 #. Translators: This is a tooltip
-#: data/ui/zoom-and-rotate-controls.ui:43 src/mapView.js:1325
+#: data/ui/zoom-and-rotate-controls.ui:43 src/mapView.js:1330
 msgid "Zoom In"
 msgstr "Kattalashtirish"
 
@@ -892,38 +892,38 @@ msgstr "Barcha qatlam fayllari"
 msgid "Open Shape Layers"
 msgstr "Shakl qatlamlarini oching"
 
-#: src/mapView.js:689 src/mapView.js:751
+#: src/mapView.js:694 src/mapView.js:756
 msgid "Failed to open layer"
 msgstr "Qatlamni ochib boʻlmadi"
 
-#: src/mapView.js:706
+#: src/mapView.js:711
 msgid "Do you want to continue?"
 msgstr "Davom etishni xohlaysizmi?"
 
-#: src/mapView.js:707
+#: src/mapView.js:712
 #, javascript-format
 msgid ""
 "You are about to open files with a total size of %s MB. This could take some"
 " time to load"
 msgstr "Siz umumiy %s MB hajmli fayl ochyabsiz. Bu biroz vaqt olishi mumkin"
 
-#: src/mapView.js:713
+#: src/mapView.js:718
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/mapView.js:745
+#: src/mapView.js:750
 msgid "File type is not supported"
 msgstr "Fayl turi qoʻllab quvvatlanmaydi"
 
-#: src/mapView.js:787
+#: src/mapView.js:792
 msgid "Failed to open GeoURI"
 msgstr "GeoURI-ni ochib boʻlmadi"
 
-#: src/mapView.js:1324
+#: src/mapView.js:1329
 msgid "Zoom in to add location"
 msgstr "Joylashuv qoʻshish uchun kattalashtiring"
 
-#: src/mapView.js:1342
+#: src/mapView.js:1347
 msgid "Location was added in OpenStreetMap"
 msgstr "Joylashuv OpenStreetMap-ga qoʻshildi"
 

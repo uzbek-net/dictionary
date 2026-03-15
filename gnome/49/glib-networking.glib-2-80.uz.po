@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: glib-networking master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib-networking/issues\n"
-"POT-Creation-Date: 2025-10-01 15:06+0000\n"
+"POT-Creation-Date: 2026-03-12 17:47+0000\n"
 "PO-Revision-Date: 2025-04-13 09:39+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -124,7 +124,7 @@ msgid "Could not create TLS connection:"
 msgstr "TLS ulanishini yaratish mumkin emas:"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:243
-#: tls/openssl/gtlsclientconnection-openssl.c:560
+#: tls/openssl/gtlsclientconnection-openssl.c:562
 #: tls/openssl/gtlsserverconnection-openssl.c:455
 #, c-format
 msgid "Could not create TLS connection: %s"
@@ -276,19 +276,19 @@ msgstr "Toʻgʻri roʻyxatni %s dan toʻldirish muvaffaqiyatsiz boʻldi: %s"
 msgid "Certificate has no private key"
 msgstr "Sertifikatda maxfiy kalit mavjud emas"
 
-#: tls/openssl/gtlsclientconnection-openssl.c:388
+#: tls/openssl/gtlsclientconnection-openssl.c:390
 #: tls/openssl/gtlsserverconnection-openssl.c:299
 #, c-format
 msgid "Could not set TLS cipher list: %s"
 msgstr "TLS shifrlashlar roʻyxatini oʻrnatib boʻlmadi: %s"
 
-#: tls/openssl/gtlsclientconnection-openssl.c:416
+#: tls/openssl/gtlsclientconnection-openssl.c:418
 #: tls/openssl/gtlsserverconnection-openssl.c:327
 #, c-format
 msgid "Could not set MAX protocol to %d: %s"
 msgstr "Maksimal protokolni %d ga oʻrnatib boʻlmadi: %s"
 
-#: tls/openssl/gtlsclientconnection-openssl.c:505
+#: tls/openssl/gtlsclientconnection-openssl.c:507
 #: tls/openssl/gtlsserverconnection-openssl.c:390
 #, c-format
 msgid "Could not create TLS context: %s"

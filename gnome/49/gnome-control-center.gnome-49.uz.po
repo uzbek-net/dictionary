@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-03-04 16:16+0000\n"
+"POT-Creation-Date: 2026-03-13 12:20+0000\n"
 "PO-Revision-Date: 2025-10-19 15:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -33,7 +33,7 @@ msgstr "Klaviatura yorliqlarini qoʻshing"
 #: panels/keyboard/cc-keyboard-shortcut-dialog.blp:143
 #: panels/keyboard/cc-keyboard-shortcut-editor.blp:13
 #: panels/network/cc-net-proxy-page.blp:15
-#: panels/network/cc-wifi-hotspot-dialog.blp:122
+#: panels/network/cc-wifi-hotspot-dialog.blp:129
 #: panels/network/cc-wifi-panel.blp:180
 #: panels/network/connection-editor/ce-page-details.c:89
 #: panels/network/connection-editor/connection-editor.blp:17
@@ -475,7 +475,7 @@ msgstr "Fayl tizimi"
 #: panels/applications/cc-applications-panel.c:907
 #: panels/keyboard/01-launchers.xml.in:6
 #: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:8
-#: shell/cc-window.blp:20 shell/cc-window.c:804
+#: shell/cc-window.blp:20 shell/cc-window.c:842
 #: shell/org.gnome.Settings.desktop.in:2
 msgid "Settings"
 msgstr "Sozlamalar"
@@ -3160,7 +3160,7 @@ msgstr "Tarmoq nomi"
 
 #. Translators: This is a password needed for printing.
 #: panels/network/cc-qr-code-dialog.blp:64
-#: panels/network/cc-wifi-hotspot-dialog.blp:79
+#: panels/network/cc-wifi-hotspot-dialog.blp:83
 #: panels/printers/pp-jobs-dialog.blp:171
 #: panels/printers/pp-new-printer-dialog.ui:300
 #: panels/system/users/cc-add-user-dialog.ui:104
@@ -3231,15 +3231,15 @@ msgstr ""
 "yaratish orqali internet ulanishingizni baham koʻrish imkonini beradi. "
 "Buning uchun siz Wi-Fidan boshqa manba orqali internetga ulanishingiz kerak."
 
-#: panels/network/cc-wifi-hotspot-dialog.blp:92
+#: panels/network/cc-wifi-hotspot-dialog.blp:96
 msgid "Generate Random Password"
 msgstr "Tasodifiy parol yarating"
 
-#: panels/network/cc-wifi-hotspot-dialog.blp:93
+#: panels/network/cc-wifi-hotspot-dialog.blp:97
 msgid "Autogenerate Password"
 msgstr "Parolni avtomatik yaratish"
 
-#: panels/network/cc-wifi-hotspot-dialog.blp:128
+#: panels/network/cc-wifi-hotspot-dialog.blp:135
 msgid "_Turn On"
 msgstr "_Yoqish"
 

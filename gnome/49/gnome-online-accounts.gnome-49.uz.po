@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-online-accounts gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-online-accounts/issues\n"
-"POT-Creation-Date: 2026-02-04 08:25+0000\n"
+"POT-Creation-Date: 2026-03-14 23:00+0000\n"
 "PO-Revision-Date: 2025-03-25 09:50+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -71,7 +71,7 @@ msgstr "Noma’lum xatolik"
 #: src/goabackend/goadavclient.c:1310 src/goabackend/goaimapauthlogin.c:104
 #: src/goabackend/goakerberosprovider.c:290
 #: src/goabackend/goakerberosprovider.c:312 src/goabackend/goasmtpauth.c:102
-#: src/goabackend/goasmtpauth.c:495 src/goabackend/goautils.c:808
+#: src/goabackend/goasmtpauth.c:473 src/goabackend/goautils.c:808
 msgid "Authentication failed"
 msgstr "Autentifikatsiya amalga oshmadi"
 
@@ -225,7 +225,7 @@ msgstr "Javobni tahlil qilib boʻlmadi"
 msgid "Service not available"
 msgstr "Xizmat mavjud emas"
 
-#: src/goabackend/goaimapauthlogin.c:157 src/goabackend/goasmtpauth.c:636
+#: src/goabackend/goaimapauthlogin.c:157 src/goabackend/goasmtpauth.c:616
 msgid "Server does not support STARTTLS"
 msgstr "Server STARTTLS-ni qoʻllab-quvvatlamaydi"
 
@@ -623,7 +623,7 @@ msgstr "Muloqot rad etildi"
 msgid "TLS not available"
 msgstr "TLS mavjud emas"
 
-#: src/goabackend/goasmtpauth.c:503
+#: src/goabackend/goasmtpauth.c:481
 msgid "Unknown authentication mechanism"
 msgstr "Noma’lum autentifikatsiya mexanizmi"
 

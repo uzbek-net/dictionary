@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-font-viewer main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-font-viewer/issues/\n"
-"POT-Creation-Date: 2026-01-16 18:43+0000\n"
+"POT-Creation-Date: 2026-03-14 21:32+0000\n"
 "PO-Revision-Date: 2025-04-04 11:26+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -81,7 +81,7 @@ msgstr "SIZE"
 msgid "FONT-FILE OUTPUT-FILE"
 msgstr "SHIFT-FILE OUTPUT-FILE"
 
-#: src/font-view-application.c:79 src/font-view-window.c:693
+#: src/font-view-application.c:79 src/font-view-window.c:695
 msgid "Could Not Display Font"
 msgstr "Shriftni koʻrsatib boʻlmadi"
 
@@ -101,7 +101,7 @@ msgstr "Oʻrnatilgan"
 msgid "Installing"
 msgstr "Oʻrnatilmoqda"
 
-#: src/font-view-window.c:111 src/font-view-window.ui:177
+#: src/font-view-window.c:111 src/font-view-window.ui:173
 msgid "_Install"
 msgstr "_Oʻrnatish"
 
@@ -198,31 +198,31 @@ msgstr "Nomlangan uslublar"
 msgid "Could Not Install Font"
 msgstr "Shriftni oʻrnatib boʻlmadi"
 
-#: src/font-view-window.ui:32
+#: src/font-view-window.ui:33
 msgid "All Fonts"
 msgstr "Barcha shriftlar"
 
-#: src/font-view-window.ui:43
+#: src/font-view-window.ui:44
 msgid "Search fonts"
 msgstr "Shriftlarni qidirish"
 
-#: src/font-view-window.ui:58
+#: src/font-view-window.ui:54
 msgid "About Fonts"
 msgstr "Shriftlar haqida"
 
-#: src/font-view-window.ui:180
+#: src/font-view-window.ui:176
 msgid "Install Font"
 msgstr "Shriftni oʻrnating"
 
-#: src/font-view-window.ui:185
+#: src/font-view-window.ui:181
 msgid "I_nfo"
 msgstr "I_nfo"
 
-#: src/font-view-window.ui:187
+#: src/font-view-window.ui:183
 msgid "Font Details"
 msgstr "Shrift tafsilotlari"
 
-#: src/font-view-window.ui:245
+#: src/font-view-window.ui:241
 msgid "_Close"
 msgstr "_Yopish"
 
