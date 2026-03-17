@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2026-03-13 18:45+0000\n"
+"POT-Creation-Date: 2026-03-16 09:49+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1046,17 +1046,64 @@ msgstr "Hech qanday ishga tushirgich sozlanmagan"
 msgid "Launchers"
 msgstr "Ishga tushiruvchilar"
 
-#: plugins/location-quick-setting/location-quick-setting.c:65
+#. Translators: Location precision level - country-wide
+#: plugins/location-quick-setting/accuracy-row.c:44
+msgid "Country"
+msgstr ""
+
+#. Translators: Location precision level - city-wide
+#: plugins/location-quick-setting/accuracy-row.c:47
+msgid "City"
+msgstr ""
+
+#. Translators: Location precision level - neighborhood
+#: plugins/location-quick-setting/accuracy-row.c:50
+msgid "Neighborhood"
+msgstr ""
+
+#. Translators: Location precision level - street
+#: plugins/location-quick-setting/accuracy-row.c:53
+msgid "Street"
+msgstr ""
+
+#. Translators: Location precision level - exact position
+#: plugins/location-quick-setting/accuracy-row.c:56
+msgid "Exact"
+msgstr ""
+
+#: plugins/location-quick-setting/location-quick-setting.c:91
 #, fuzzy
 #| msgid "Geolocation"
 msgid "Location On"
 msgstr "Geolokatsiya"
 
-#: plugins/location-quick-setting/location-quick-setting.c:65
+#: plugins/location-quick-setting/location-quick-setting.c:91
 #, fuzzy
 #| msgid "Geolocation"
 msgid "Location Off"
 msgstr "Geolokatsiya"
+
+#: plugins/location-quick-setting/qs.ui:15
+msgid "Location Accuracy"
+msgstr ""
+
+#: plugins/location-quick-setting/qs.ui:62
+#, fuzzy
+#| msgid "Wi-Fi Disabled"
+msgid "Location Disabled"
+msgstr "Wi-Fi oʻchirilgan"
+
+#: plugins/location-quick-setting/qs.ui:72
+#, fuzzy
+#| msgid "Geolocation"
+msgid "Enable Location"
+msgstr "Geolokatsiya"
+
+#: plugins/location-quick-setting/qs.ui:87
+#, fuzzy
+#| msgid "Sound Settings"
+msgid "Location Settings"
+msgstr "Ovoz sozlamalari"
 
 #: plugins/media-players/media-players.ui:20
 msgid "No running media players"

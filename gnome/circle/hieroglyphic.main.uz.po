@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hieroglyphic main\n"
 "Report-Msgid-Bugs-To: https://github.com/FineFindus/Hieroglyphic/issues\n"
-"POT-Creation-Date: 2026-01-28 13:35+0000\n"
+"POT-Creation-Date: 2026-03-15 20:26+0000\n"
 "PO-Revision-Date: 2025-10-10 15:35+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -44,7 +44,9 @@ msgstr "Hissalar muloqot oynasiga kichik turtki koʻrsatilsinmi"
 msgid "Whether to contribute recognized strokes"
 msgstr "Aniqlangan shtrixlarga hissa qoʻshish/qoʻshmaslik"
 
-#: data/io.github.finefindus.Hieroglyphic.gschema.xml.in:20
+#. Translators: the name of the markup language (latex, typst) for which
+#. symbols are suggested
+#: data/io.github.finefindus.Hieroglyphic.gschema.xml.in:21
 msgid "Markup language to suggest symbols for"
 msgstr ""
 

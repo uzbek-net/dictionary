@@ -7,12 +7,14 @@ import requests
 import tarfile
 
 
+gnome_50: str = "https://l10n.gnome.org/languages/uz/gnome-50/ui.tar.gz"
 gnome_49: str = "https://l10n.gnome.org/languages/uz/gnome-49/ui.tar.gz"
 gnome_circle: str = "https://l10n.gnome.org/languages/uz/gnome-circle/ui.tar.gz"
 gnome_infra: str = "https://l10n.gnome.org/languages/uz/gnome-infrastructure/ui.tar.gz"
 gnome_librem: str = "https://l10n.gnome.org/languages/uz/librem5/ui.tar.gz"
 
 archives: dict[str, str] = {
+    "50": gnome_50,
     "49": gnome_49,
     "circle": gnome_circle,
     "infra": gnome_infra,
