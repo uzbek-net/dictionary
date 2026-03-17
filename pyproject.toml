@@ -6,7 +6,7 @@ Issues = "https://github.com/uzbek-net/dictionary/issues"
 Changelog = "https://github.com/uzbek-net/dictionary/commits/main/"
 
 [project]
-name = "uzbek-net-dictionary"
+name = "uzbek_net_dictionary"
 version = "0.1.0"
 description = "uzbek dictionary for various translations, including GNOME"
 readme = "README.md"
@@ -29,3 +29,10 @@ dependencies = [
 [build-system]
 requires = ["setuptools >= 80.9.0"]
 build-backend = "setuptools.build_meta"
+
+[project.scripts]
+uzbek_net_dictionary = "uzbek_net_dictionary.__main__:main"
+
+[tool.setuptools]
+# Only include the specific package folder
+packages = ["uzbek_net_dictionary"]

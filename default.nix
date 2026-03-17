@@ -5,7 +5,7 @@
 }:
 
 python3.pkgs.buildPythonPackage {
-  name = "uzbek-net-dictionary";
+  name = "uzbek_net_dictionary";
   version = "0.1.0";
   pyproject = true;
   src = ./.;
