@@ -22,7 +22,7 @@
       {
         # Nix script formattar
         formatter = pkgs.nixfmt;
-
+        packages.default = pkgs.callPackage ./. { inherit pkgs; };
         devShells.default = pkgs.callPackage ./shell.nix { inherit pkgs; };
       }
     );
