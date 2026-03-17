@@ -1,25 +1,25 @@
 # reference: https://nixos.wiki/wiki/Packaging/Python
-{pkgs ? import <nixpkgs> {}}: let
-  pythonEnv = pkgs.python3.withPackages (ps:
-    with ps; [
-      pip
-      python-dotenv
-      requests
-    ]);
-in
-  pkgs.stdenv.mkDerivation {
-    name = "auto-profile-tg-dev";
+{
+  pkgs,
+}:
 
-    nativeBuildInputs = with pkgs; [
-      # Nix
-      nixd
-      alejandra
-      statix
-      deadnix
+pkgs.stdenv.mkDerivation {
+  name = "dictionary";
 
-      # Python
-      pythonEnv
-      poetry
-      nodejs
-    ];
-  }
+  nativeBuildInputs = with pkgs; [
+    # Nix
+    nixd
+    nixfmt
+    statix
+    deadnix
+
+    nodejs
+    python313Packages.pip
+    python313Packages.python-dotenv
+    python313Packages.requests
+    python313Packages.toml
+    python313Packages.polib
+    python313Packages.setuptools
+
+  ];
+}
