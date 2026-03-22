@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
-"POT-Creation-Date: 2026-03-16 11:06+0000\n"
+"POT-Creation-Date: 2026-03-19 08:16+0000\n"
 "PO-Revision-Date: 2025-05-14 21:12+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -25,7 +25,7 @@ msgstr "Dastur ishga tushirish"
 
 #: data/org.gnome.Nautilus.metainfo.xml.in.in:5
 #: data/org.gnome.Nautilus.desktop.in.in:2 src/nautilus-mime-actions.c:102
-#: src/nautilus-portal.c:535 src/resources/ui/nautilus-window.ui:123
+#: src/nautilus-portal.c:580 src/resources/ui/nautilus-window.ui:123
 msgid "Files"
 msgstr "Fayllar"
 
@@ -1802,8 +1802,8 @@ msgstr[1] "%'d fayl o'chirilmoqda"
 #: src/nautilus-file-operations.c:1423 src/nautilus-file-operations.c:1769
 #: src/nautilus-file-operations.c:1777 src/nautilus-file-operations.c:1817
 #: src/nautilus-file-operations.c:3702 src/nautilus-file-operations.c:3710
-#: src/nautilus-file-operations.c:3781 src/nautilus-file-operations.c:8483
-#: src/nautilus-file-operations.c:8551
+#: src/nautilus-file-operations.c:3781 src/nautilus-file-operations.c:8480
+#: src/nautilus-file-operations.c:8548
 #, c-format
 msgid "%'d / %'d"
 msgstr "%'d / %'d"
@@ -2164,8 +2164,8 @@ msgstr[1] ""
 #. something like "4 kB / 4 MB"
 #. To translators: %s will expand to a size like "2 bytes" or "3 MB".
 #: src/nautilus-file-operations.c:3692 src/nautilus-file-operations.c:3752
-#: src/nautilus-file-operations.c:7996 src/nautilus-file-operations.c:8223
-#: src/nautilus-file-operations.c:8478 src/nautilus-file-operations.c:8521
+#: src/nautilus-file-operations.c:7993 src/nautilus-file-operations.c:8220
+#: src/nautilus-file-operations.c:8475 src/nautilus-file-operations.c:8518
 #, c-format
 msgid "%s / %s"
 msgstr "%s / %s"
@@ -2191,8 +2191,8 @@ msgstr "%s / %s"
 #. *
 #. * The singular/plural form will be used depending on the remaining time
 #. (i.e. the %s argument).
-#: src/nautilus-file-operations.c:3736 src/nautilus-file-operations.c:8014
-#: src/nautilus-file-operations.c:8510
+#: src/nautilus-file-operations.c:3736 src/nautilus-file-operations.c:8011
+#: src/nautilus-file-operations.c:8507
 #, c-format
 msgid "%s / %s — %s left (%s/s)"
 msgid_plural "%s / %s — %s left (%s/s)"
@@ -2205,7 +2205,7 @@ msgstr[1] "%s / %s — %s qoldi (%s/s)"
 #. *
 #. * The singular/plural form will be used depending on the remaining time
 #. (i.e. the %s argument).
-#: src/nautilus-file-operations.c:3770 src/nautilus-file-operations.c:8540
+#: src/nautilus-file-operations.c:3770 src/nautilus-file-operations.c:8537
 #, c-format
 msgid "%'d / %'d — %s left (%s/s)"
 msgid_plural "%'d / %'d — %s left (%s/s)"
@@ -2357,151 +2357,151 @@ msgstr "Maqsad ramziy havolalarni qoʻllab-quvvatlamaydi."
 msgid "There was an error creating the symlink in %s."
 msgstr "%s da simli havola yaratishda xatolik yuz berdi."
 
-#: src/nautilus-file-operations.c:6848
+#: src/nautilus-file-operations.c:6845
 msgid "Setting permissions"
 msgstr "Ruxsatlarni sozlash"
 
 #. localizers: the initial name of a new folder
-#: src/nautilus-file-operations.c:7140
+#: src/nautilus-file-operations.c:7137
 msgid "Untitled Folder"
 msgstr "Nomsiz jild"
 
 #. localizers: the initial name of a new empty document
-#: src/nautilus-file-operations.c:7155
+#: src/nautilus-file-operations.c:7152
 msgid "Untitled Document"
 msgstr "Nomsiz hujjat"
 
-#: src/nautilus-file-operations.c:7381
+#: src/nautilus-file-operations.c:7378
 #, c-format
 msgid "Error while creating directory “%s”."
 msgstr "“%s” katalogini yaratishda xatolik yuz berdi."
 
-#: src/nautilus-file-operations.c:7386
+#: src/nautilus-file-operations.c:7383
 #, c-format
 msgid "Error while creating file “%s”."
 msgstr "“%s” faylini yaratishda xatolik yuz berdi."
 
-#: src/nautilus-file-operations.c:7390
+#: src/nautilus-file-operations.c:7387
 #, c-format
 msgid "There was an error creating the directory in %s."
 msgstr "%s katalogini yaratishda xatolik yuz berdi."
 
-#: src/nautilus-file-operations.c:7493
+#: src/nautilus-file-operations.c:7490
 msgid "Saving image to file"
 msgstr "Rasm faylga saqlanmoqda"
 
-#: src/nautilus-file-operations.c:7508
+#: src/nautilus-file-operations.c:7505
 msgid "Successfully saved image to file"
 msgstr "Rasm faylga muvaffaqiyatli saqlandi"
 
-#: src/nautilus-file-operations.c:7538
+#: src/nautilus-file-operations.c:7535
 msgid "Failed to save image"
 msgstr "Rasmni saqlab boʻlmadi"
 
 #. Translators: This is used to auto-generate a file name for pasted images
 #. from
 #. * the clipboard i.e. "Pasted image.png", "Pasted image 1.png", ...
-#: src/nautilus-file-operations.c:7600
+#: src/nautilus-file-operations.c:7597
 msgid "Pasted image"
 msgstr "Joylashtirilgan rasm"
 
-#: src/nautilus-file-operations.c:7607
+#: src/nautilus-file-operations.c:7604
 msgid "Retrieving clipboard data"
 msgstr "Bufer ma'lumotlari olinmoqda"
 
-#: src/nautilus-file-operations.c:7639
+#: src/nautilus-file-operations.c:7636
 msgid "Retrieving image data"
 msgstr "Rasm ma'lumotlari olinmoqda"
 
-#: src/nautilus-file-operations.c:7857
+#: src/nautilus-file-operations.c:7854
 msgid "Emptying Trash"
 msgstr "Chiqindi tozalanmoqda"
 
-#: src/nautilus-file-operations.c:7900
+#: src/nautilus-file-operations.c:7897
 msgid "Verifying destination"
 msgstr "Manzil tasdiqlanmoqda"
 
-#: src/nautilus-file-operations.c:7954
+#: src/nautilus-file-operations.c:7951
 #, c-format
 msgid "Extracting “%s”"
 msgstr "“%s” chiqarilmoqda"
 
-#: src/nautilus-file-operations.c:8080 src/nautilus-file-operations.c:8170
+#: src/nautilus-file-operations.c:8077 src/nautilus-file-operations.c:8167
 #, c-format
 msgid "Error extracting “%s”"
 msgstr "“%s”ni chiqarishda xatolik yuz berdi"
 
-#: src/nautilus-file-operations.c:8087
+#: src/nautilus-file-operations.c:8084
 #, c-format
 msgid "There was an error while extracting “%s”."
 msgstr "“%s” faylini chiqarishda xatolik yuz berdi."
 
-#: src/nautilus-file-operations.c:8173
+#: src/nautilus-file-operations.c:8170
 #, c-format
 msgid "Not enough free space to extract “%s”"
 msgstr "“%s”ni chiqarish uchun boʻsh joy yetarli emas"
 
-#: src/nautilus-file-operations.c:8206
+#: src/nautilus-file-operations.c:8203
 #, c-format
 msgid "Extracted “%s” to “%s”"
 msgstr "“%s” dan “%s”ga chiqarildi"
 
-#: src/nautilus-file-operations.c:8212
+#: src/nautilus-file-operations.c:8209
 #, c-format
 msgid "Extracted %'d file to “%s”"
 msgid_plural "Extracted %'d files to “%s”"
 msgstr[0] "%'d fayl “%s” ga chiqarildi"
 msgstr[1] "%'d fayl “%s” ga chiqarildi"
 
-#: src/nautilus-file-operations.c:8246
+#: src/nautilus-file-operations.c:8243
 msgid "Preparing to extract"
 msgstr "Chiqarishga tayyorlanmoqda"
 
-#: src/nautilus-file-operations.c:8374
+#: src/nautilus-file-operations.c:8371
 msgid "Extracting Files"
 msgstr "Fayllarni ajratib olish"
 
-#: src/nautilus-file-operations.c:8434
+#: src/nautilus-file-operations.c:8431
 #, c-format
 msgid "Compressing “%s” into “%s”"
 msgstr "“%s” “%s” ga siqilmoqda"
 
-#: src/nautilus-file-operations.c:8440
+#: src/nautilus-file-operations.c:8437
 #, c-format
 msgid "Compressing %'d file into “%s”"
 msgid_plural "Compressing %'d files into “%s”"
 msgstr[0] "%'d fayl “%s” ichiga siqilmoqda"
 msgstr[1] "%'d fayl “%s” ichiga siqilmoqda"
 
-#: src/nautilus-file-operations.c:8588
+#: src/nautilus-file-operations.c:8585
 #, c-format
 msgid "Error compressing “%s” into “%s”"
 msgstr "“%s”ni “%s”ga siqishda xatolik yuz berdi"
 
-#: src/nautilus-file-operations.c:8594
+#: src/nautilus-file-operations.c:8591
 #, c-format
 msgid "Error compressing %'d file into “%s”"
 msgid_plural "Error compressing %'d files into “%s”"
 msgstr[0] "%'d faylni “%s” ichiga siqishda xatolik yuz berdi"
 msgstr[1] "%'d faylni “%s” ichiga siqishda xatolik yuz berdi"
 
-#: src/nautilus-file-operations.c:8604
+#: src/nautilus-file-operations.c:8601
 msgid "There was an error while compressing files."
 msgstr "Fayllarni siqishda xatolik yuz berdi."
 
-#: src/nautilus-file-operations.c:8629
+#: src/nautilus-file-operations.c:8626
 #, c-format
 msgid "Compressed “%s” into “%s”"
 msgstr "“%s” “%s” ga siqildi"
 
-#: src/nautilus-file-operations.c:8635
+#: src/nautilus-file-operations.c:8632
 #, c-format
 msgid "Compressed %'d file into “%s”"
 msgid_plural "Compressed %'d files into “%s”"
 msgstr[0] "%'d fayl “%s” ichiga siqildi"
 msgstr[1] "%'d fayl “%s” ichiga siqildi"
 
-#: src/nautilus-file-operations.c:8754
+#: src/nautilus-file-operations.c:8751
 msgid "Compressing Files"
 msgstr "Fayllarni siqish"
 
@@ -2656,7 +2656,7 @@ msgid "Select Copy Destination"
 msgstr "Nusxa olish manzilini tanlang"
 
 #: src/nautilus-files-view.c:5773 src/nautilus-files-view.c:6140
-#: src/nautilus-portal.c:431 src/nautilus-properties-window.c:4031
+#: src/nautilus-portal.c:476 src/nautilus-properties-window.c:4031
 #: src/resources/ui/nautilus-files-view-select-items.ui:23
 msgid "_Select"
 msgstr "_Tanlash"
@@ -3768,17 +3768,17 @@ msgstr "Operatsion tizim"
 msgid "Administrator Root"
 msgstr "Administrator ildizi"
 
-#: src/nautilus-portal.c:431 src/nautilus-sidebar.c:2833
+#: src/nautilus-portal.c:476 src/nautilus-sidebar.c:2833
 #: src/nautilus-sidebar.c:2951 src/resources/ui/nautilus-app-chooser.ui:24
 #: src/resources/ui/nautilus-files-view-context-menus.ui:87
 msgid "_Open"
 msgstr "Oching"
 
-#: src/nautilus-portal.c:435
+#: src/nautilus-portal.c:480
 msgid "_Save"
 msgstr "_Saqlash"
 
-#: src/nautilus-portal.c:519
+#: src/nautilus-portal.c:564
 msgid "Open Read-Only"
 msgstr "Faqat oʻqish uchun ochiq"
 

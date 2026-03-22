@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: video-trimmer master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/YaLTeR/video-trimmer/-/issues\n"
-"POT-Creation-Date: 2025-04-06 12:34+0000\n"
+"POT-Creation-Date: 2026-03-21 07:21+0000\n"
 "PO-Revision-Date: 2025-10-20 18:20+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -17,16 +17,50 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
+#. Translators: shown in --help usage line as: video-trimmer [OPTION…] [VIDEO]
+#: src/application.rs:40
+msgid "[VIDEO]"
+msgstr ""
+
 #. Can't extract filenames from a VariantDict yet.
 #. Translators: --output commandline option description.
-#: src/application.rs:37
+#: src/application.rs:48
 msgid "Output file path"
 msgstr "Faylni chiqarish yoʻli"
 
 #. Translators: --output commandline option arg description.
-#: src/application.rs:39
+#: src/application.rs:50
 msgid "PATH"
 msgstr "YOʻL"
+
+#. Translators: --start commandline option description.
+#: src/application.rs:59
+msgid "Start timestamp"
+msgstr ""
+
+#. Translators: --start commandline option arg description.
+#: src/application.rs:61 src/application.rs:71
+msgid "TIMESTAMP"
+msgstr ""
+
+#. Translators: --end commandline option description.
+#: src/application.rs:70
+msgid "End timestamp"
+msgstr ""
+
+#. Translators: --precise commandline option description.
+#: src/application.rs:80
+#, fuzzy
+#| msgid "Precise Trim"
+msgid "Precise trim (re-encode)"
+msgstr "Aniq qirqish"
+
+#. Translators: --remove-audio commandline option description.
+#: src/application.rs:90
+#, fuzzy
+#| msgid "Remove Audio"
+msgid "Remove audio"
+msgstr "Audioni olib tashlash"
 
 #: src/main.rs:40 src/window.blp:45
 #: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.desktop.in.in:2
@@ -34,62 +68,62 @@ msgstr "YOʻL"
 msgid "Video Trimmer"
 msgstr "Videoni qirqish vositasi"
 
-#: src/shortcuts.blp:9
+#: src/shortcuts.blp:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Umumiy"
 
-#: src/shortcuts.blp:12
+#: src/shortcuts.blp:9
 msgctxt "shortcut window"
 msgid "Trim"
 msgstr "Qirqish"
 
-#: src/shortcuts.blp:17
+#: src/shortcuts.blp:14
 msgctxt "shortcut window"
 msgid "Set Start at current postion"
 msgstr "Joriy joylashuvdan boshlashni belgilash"
 
-#: src/shortcuts.blp:22
+#: src/shortcuts.blp:19
 msgctxt "shortcut window"
 msgid "Set End at current position"
 msgstr "Joriy joylashuvda tugashni belgilash"
 
-#: src/shortcuts.blp:27
+#: src/shortcuts.blp:26
 msgctxt "shortcut window"
 msgid "New window"
 msgstr "Yangi oyna"
 
-#: src/shortcuts.blp:32
+#: src/shortcuts.blp:31
 msgctxt "shortcut window"
 msgid "Close window"
 msgstr "Oynani yopish"
 
-#: src/shortcuts.blp:37
+#: src/shortcuts.blp:36
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
 msgstr "Klaviatura yorliqlari"
 
-#: src/shortcuts.blp:42
+#: src/shortcuts.blp:41
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Chiqish"
 
-#: src/shortcuts.blp:48
+#: src/shortcuts.blp:47
 msgctxt "shortcut window"
 msgid "Playback"
 msgstr "Qayta ijro"
 
-#: src/shortcuts.blp:51
+#: src/shortcuts.blp:50
 msgctxt "shortcut window"
 msgid "Play / Pause"
 msgstr "Tinglash / Toʻxtatish"
 
-#: src/shortcuts.blp:56
+#: src/shortcuts.blp:55
 msgctxt "shortcut window"
 msgid "Step forward"
 msgstr "Oldinga qadam tashlash"
 
-#: src/shortcuts.blp:61
+#: src/shortcuts.blp:60
 msgctxt "shortcut window"
 msgid "Step back"
 msgstr "Orqaga qadam tashlash"
@@ -111,22 +145,22 @@ msgstr ""
 "oʻrnatilmagan boʻlishi mumkin."
 
 #. Translators: file chooser file filter name.
-#: src/window.rs:221
+#: src/window.rs:253
 msgid "Video files"
 msgstr "Video fayllar"
 
 #. Translators: file chooser dialog title.
-#: src/window.rs:228
+#: src/window.rs:260
 msgid "Open video"
 msgstr "Videoni ochish"
 
 #. Translators: error dialog title.
-#: src/window.rs:239 src/window.rs:387 src/window.rs:630
+#: src/window.rs:271 src/window.rs:434 src/window.rs:677
 msgid "Error"
 msgstr "Xatolik"
 
 #. Translators: error dialog text.
-#: src/window.rs:242 src/window.rs:390 src/window.rs:633
+#: src/window.rs:274 src/window.rs:437 src/window.rs:680
 msgid ""
 "Video Trimmer can only operate on local files. Please choose another file."
 msgstr ""
@@ -134,30 +168,29 @@ msgstr ""
 "tanlang."
 
 #. Translators: error dialog button.
-#: src/window.rs:247 src/window.rs:395 src/window.rs:572 src/window.rs:594
-#: src/window.rs:638
+#: src/window.rs:279 src/window.rs:442 src/window.rs:619 src/window.rs:641
+#: src/window.rs:685
 msgid "_OK"
 msgstr "Hop"
 
-#. Translators: this is appended to the output video file name.
-#. So for example "my video.mp4" will become "my video (trimmed).mp4".
-#: src/window.rs:356
-msgid " (trimmed)"
-msgstr " (qirqilgan)"
+#: src/window.rs:398
+#, rust-format
+msgid " ({} - {})"
+msgstr ""
 
 #. Translators: message dialog text.
-#: src/window.rs:482
+#: src/window.rs:529
 msgid "Trimming…"
 msgstr "Qirqilmoqda…"
 
 #. Translators: trimming dialog button.
-#: src/window.rs:485
+#: src/window.rs:532
 msgid "_Cancel"
 msgstr "Bekor qilish"
 
 #. Translators: text on the toast after trimming was done.
 #. The placeholder is the video filename.
-#: src/window.rs:505
+#: src/window.rs:552
 #, rust-format
 msgid "{} has been saved"
 msgstr "{} saqlandi"
@@ -165,76 +198,77 @@ msgstr "{} saqlandi"
 #. Translators: text on the button of the toast after
 #. trimming was done to show the output file in the file
 #. manager.
-#: src/window.rs:512
+#: src/window.rs:559
 msgid "Show in Files"
 msgstr "Fayllar ichida koʻrsatish"
 
 #. Translators: error dialog heading.
-#: src/window.rs:544
+#: src/window.rs:591
 msgid "Error trimming video"
 msgstr "Videoni qirqishda xatolik yuz berdi"
 
 #. Translators: error dialog text before the FFmpeg
 #. error output.
-#: src/window.rs:548
+#: src/window.rs:595
 msgid "Please attach the following information when reporting an issue."
 msgstr "Muammo haqida xabar berishda quyidagi ma’lumotlarni biriktiring."
 
-#: src/window.rs:559
+#: src/window.rs:606
 msgid "Could not communicate with the ffmpeg subprocess"
 msgstr "FFmpeg ichki jarayoni bilan aloqa oʻrnatib boʻlmadi"
 
 #. Translators: error dialog text.
-#: src/window.rs:590
+#: src/window.rs:637
 msgid "Could not create the ffmpeg subprocess"
 msgstr "FFmpeg ichki jarayoni yaratib boʻlmadi"
 
 #. Translators: shown in the About dialog, put your name here.
-#: src/window.rs:855
+#: src/window.rs:902
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
 #. Translators: link title in the About dialog.
-#: src/window.rs:858
+#: src/window.rs:905
 msgid "Contribute Translations"
 msgstr "Tarjimalarga hissa qoʻshish"
 
 #. Translators: name of https://gitlab.gnome.org/YaLTeR/identity
-#: src/window.rs:864
+#: src/window.rs:911
 msgid "Identity"
 msgstr "Identifikatsiya"
 
 #. Translators: summary of https://gitlab.gnome.org/YaLTeR/identity
-#: src/window.rs:866
+#: src/window.rs:913
 msgid "Compare images and videos"
 msgstr "Rasm va videolarni solishtirish"
 
-#: src/window.rs:873
-msgid "This release makes the trimming options more discoverable."
-msgstr "Bu versiya qirqish variantlarini yanada aniqroq qiladi."
-
-#: src/window.rs:874
-msgid "Changed the versioning scheme to year.month."
-msgstr "Versiyalash tizimi yil.oy koʻrinishiga oʻzgartirildi."
-
-#: src/window.rs:875
+#: src/window.rs:920
 msgid ""
-"Moved the accurate trimming and remove audio options from the save dialog to"
-" the main window."
+"This release improves the default output file naming and adds command-line "
+"options."
 msgstr ""
-"Aniq qirqish va audioni olib tashlash variantlari saqlash oynasidan asosiy "
-"oynaga koʻchirildi."
 
-#: src/window.rs:876
-msgid "Added , and . shortcuts for short video stepping."
+#: src/window.rs:921
+msgid "The default output filename now includes start and end timestamps."
 msgstr ""
-"Qisqa video qadami uchun , (vergul) va . (nuqta) yorliqlari qoʻshildi."
 
-#: src/window.rs:877
-msgid "Updated to the GNOME 48 platform."
+#: src/window.rs:922
+msgid ""
+"Added command-line flags for start and end timestamps, precise trimming, and"
+" removing audio."
+msgstr ""
+
+#: src/window.rs:923
+msgid "Increased the default window size to make the video 960×540."
+msgstr ""
+
+#: src/window.rs:924
+#, fuzzy
+#| msgid "Updated to the GNOME 48 platform."
+msgid "Updated to the GNOME 50 platform."
 msgstr "GNOME 48 platformasiga yangilandi."
 
-#: src/window.rs:878
+#: src/window.rs:925
 msgid "Updated translations."
 msgstr "Yangilangan tarjimalar."
 
@@ -362,3 +396,23 @@ msgstr ""
 #: data/org.gnome.gitlab.YaLTeR.VideoTrimmer.metainfo.xml.in.in:30
 msgid "Main Window"
 msgstr "Asosiy oyna"
+
+#~ msgid " (trimmed)"
+#~ msgstr " (qirqilgan)"
+
+#~ msgid "This release makes the trimming options more discoverable."
+#~ msgstr "Bu versiya qirqish variantlarini yanada aniqroq qiladi."
+
+#~ msgid "Changed the versioning scheme to year.month."
+#~ msgstr "Versiyalash tizimi yil.oy koʻrinishiga oʻzgartirildi."
+
+#~ msgid ""
+#~ "Moved the accurate trimming and remove audio options from the save dialog to"
+#~ " the main window."
+#~ msgstr ""
+#~ "Aniq qirqish va audioni olib tashlash variantlari saqlash oynasidan asosiy "
+#~ "oynaga koʻchirildi."
+
+#~ msgid "Added , and . shortcuts for short video stepping."
+#~ msgstr ""
+#~ "Qisqa video qadami uchun , (vergul) va . (nuqta) yorliqlari qoʻshildi."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh/issues\n"
-"POT-Creation-Date: 2026-03-16 09:49+0000\n"
+"POT-Creation-Date: 2026-03-20 08:01+0000\n"
 "PO-Revision-Date: 2025-04-04 22:30+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -201,11 +201,15 @@ msgid "Wi-Fi network '%s' uses a captive portal"
 msgstr "\"%s\" Wi-Fi tarmogʻi tutqun portaldan foydalanadi"
 
 #: src/connectivity-manager.c:116
-msgid "The Wi-Fi network uses a captive portal"
+#, fuzzy
+#| msgid "The Wi-Fi network uses a captive portal"
+msgid "The network uses a captive portal"
 msgstr "Wi-Fi tarmogʻi tutqun portaldan foydalanadi"
 
 #: src/connectivity-manager.c:123
-msgid "Sign into Wi-Fi network"
+#, fuzzy
+#| msgid "Sign into Wi-Fi network"
+msgid "Sign into network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
 #: src/docked-info.c:81

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elastic main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/elastic/-/issues\n"
-"POT-Creation-Date: 2025-12-27 21:50+0000\n"
+"POT-Creation-Date: 2026-03-18 13:27+0000\n"
 "PO-Revision-Date: 2025-10-17 17:12+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -80,19 +80,23 @@ msgstr ""
 msgid "Export C, JavaScript, Python, Vala or Rust code."
 msgstr "C, JavaScript, Python, Vala yoki Rust kodini eksport qilish."
 
-#: data/app.drey.Elastic.metainfo.xml.in:31
+#: data/app.drey.Elastic.metainfo.xml.in:32
+#: data/app.drey.Elastic.metainfo.xml.in:36
 msgid "Initial screen"
 msgstr "Dastlabki ekran"
 
-#: data/app.drey.Elastic.metainfo.xml.in:35
+#: data/app.drey.Elastic.metainfo.xml.in:41
+#: data/app.drey.Elastic.metainfo.xml.in:45
 msgid "Animation graph"
 msgstr "Animatsiya grafigi"
 
-#: data/app.drey.Elastic.metainfo.xml.in:39
+#: data/app.drey.Elastic.metainfo.xml.in:50
+#: data/app.drey.Elastic.metainfo.xml.in:54
 msgid "Interactive preview"
 msgstr "Interaktiv oldindan koʻrish"
 
-#: data/app.drey.Elastic.metainfo.xml.in:43
+#: data/app.drey.Elastic.metainfo.xml.in:59
+#: data/app.drey.Elastic.metainfo.xml.in:63
 msgid "Code export"
 msgstr "Kodni eksport qilish"
 

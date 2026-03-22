@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-17 08:41+0000\n"
+"POT-Creation-Date: 2026-03-19 12:32+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -2079,15 +2079,15 @@ msgstr "Klaviatura konfiguratsiyasi ma'lumotlar bazasi."
 
 #: database-content.py:509
 #, fuzzy
-#| msgid "GNOME Developer Platform"
-msgid "GNOME 50 (development)"
-msgstr "GNOME dasturchi platformasi"
+#| msgid "GNOME 48 (stable)"
+msgid "GNOME 50 (stable)"
+msgstr "GNOME 48 (barqaror)"
 
 #: database-content.py:510
 #, fuzzy
-#| msgid "GNOME 48 (stable)"
-msgid "GNOME 49 (stable)"
-msgstr "GNOME 48 (barqaror)"
+#| msgid "GNOME 47 (old stable)"
+msgid "GNOME 49 (old stable)"
+msgstr "GNOME 47 (eski barqaror)"
 
 #: database-content.py:511
 #, fuzzy
@@ -2124,114 +2124,110 @@ msgid "GNOME 41 (old stable)"
 msgstr "GNOME 41 (eski barqaror)"
 
 #: database-content.py:519
-msgid "GNOME 40 (old stable)"
-msgstr "GNOME 40 (eski barqaror)"
-
-#: database-content.py:520
 msgid "Obsolete GNOME Applications"
 msgstr "Eskirgan GNOME ilovalari"
 
-#: database-content.py:521
+#: database-content.py:520
 msgid "Librem 5 - Purism"
 msgstr "Librem 5 - Purism"
 
-#: database-content.py:522
+#: database-content.py:521
 msgid "GNOME Infrastructure"
 msgstr "GNOME infratuzilmasi"
 
-#: database-content.py:523
+#: database-content.py:522
 msgid "GIMP and Friends"
 msgstr "GIMP va boshqalar"
 
-#: database-content.py:524
+#: database-content.py:523
 msgid "Other Apps (stable)"
 msgstr "Boshqa ilovalar (barqaror)"
 
-#: database-content.py:525
+#: database-content.py:524
 msgid "Other Apps"
 msgstr "Boshqa ilovalar"
 
-#: database-content.py:526
+#: database-content.py:525
 msgid "GNOME Circle"
 msgstr "GNOME Circle"
 
-#: database-content.py:527
+#: database-content.py:526
 msgid "Evolution and friends"
 msgstr "Evolution va boshqalar"
 
-#: database-content.py:528
+#: database-content.py:527
 msgid "freedesktop.org (non-GNOME)"
 msgstr "freedesktop.org (GNOME boʻlmagan)"
 
-#: database-content.py:529
+#: database-content.py:528
 msgid "Default"
 msgstr "Odatiy"
 
-#: database-content.py:530
+#: database-content.py:529
 msgid "Administration Tools"
 msgstr "Boshqaruv vositalari"
 
-#: database-content.py:531
+#: database-content.py:530
 msgid "Development Tools"
 msgstr "Rivojlanish vositalari"
 
-#: database-content.py:532
+#: database-content.py:531
 msgid "GNOME Desktop"
 msgstr "GNOME ish stoli"
 
-#: database-content.py:533
+#: database-content.py:532
 msgid "GNOME Developer Platform"
 msgstr "GNOME dasturchi platformasi"
 
-#: database-content.py:534
+#: database-content.py:533
 msgid "New Module Proposals"
 msgstr "Yangi modul takliflari"
 
-#: database-content.py:535
+#: database-content.py:534
 msgid "Core"
 msgstr "Yadro"
 
-#: database-content.py:536
+#: database-content.py:535
 msgid "Utils"
 msgstr "Utils"
 
-#: database-content.py:537
+#: database-content.py:536
 msgid "Apps"
 msgstr "Ilovalar"
 
-#: database-content.py:538
+#: database-content.py:537
 msgid "Accessibility"
 msgstr "Maxsus imkoniyatlar"
 
-#: database-content.py:539
+#: database-content.py:538
 msgid "Games"
 msgstr "Oʻyinlar"
 
-#: database-content.py:540
+#: database-content.py:539
 msgid "Backends"
 msgstr "Backends"
 
-#: database-content.py:541
+#: database-content.py:540
 msgid "Core Libraries"
 msgstr "Asosiy kutubxonalar"
 
-#: database-content.py:542
+#: database-content.py:541
 msgid "Extra Libraries"
 msgstr "Qoʻshimcha kutubxonalar"
 
-#: database-content.py:543
+#: database-content.py:542
 msgid "Legacy Desktop"
 msgstr "Eski ish stoli"
 
-#: database-content.py:544
+#: database-content.py:543
 msgid "Stable Branches"
 msgstr "Barqaror filiallar"
 
-#: database-content.py:545
+#: database-content.py:544
 msgid "Development Branches"
 msgstr "Rivojlanish filiallari"
 
-#: database-content.py:546
+#: database-content.py:545
 msgid "Office Apps"
 msgstr "Ofis ilovalari"
 
@@ -6652,6 +6648,9 @@ msgstr ""
 
 #~ msgid "GNOME Incubator"
 #~ msgstr "GNOME inkubatori"
+
+#~ msgid "GNOME 40 (old stable)"
+#~ msgstr "GNOME 40 (eski barqaror)"
 
 #~ msgid "GNOME 3.38 (old stable)"
 #~ msgstr "GNOME 3.38 (eski barqaror)"

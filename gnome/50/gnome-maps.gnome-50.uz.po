@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-03-13 09:38+0000\n"
+"POT-Creation-Date: 2026-03-17 21:16+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -456,7 +456,7 @@ msgstr "Joylashuvni tahrirlash"
 msgid "Edit an existing location in OpenStreetMap"
 msgstr "OpenStreetMap dagi mavjud joylashuvni tahrirlash"
 
-#: data/ui/osm-edit-dialog.blp:50 src/mapView.js:736 src/motis.js:369
+#: data/ui/osm-edit-dialog.blp:50 src/mapView.js:740 src/motis.js:369
 msgid "Continue"
 msgstr "Davom etish"
 
@@ -810,7 +810,7 @@ msgid "Zoom Out"
 msgstr "Kichiklashtirish"
 
 #. Translators: This is a tooltip
-#: data/ui/zoom-and-rotate-controls.blp:44 src/mapView.js:1327
+#: data/ui/zoom-and-rotate-controls.blp:44 src/mapView.js:1331
 msgid "Zoom In"
 msgstr "Kattalashtirish"
 
@@ -975,38 +975,38 @@ msgstr "Barcha qatlam fayllari"
 msgid "Open Shape Layers"
 msgstr "Shakl qatlamlarini oching"
 
-#: src/mapView.js:711 src/mapView.js:773
+#: src/mapView.js:715 src/mapView.js:777
 msgid "Failed to open layer"
 msgstr "Qatlamni ochib boʻlmadi"
 
-#: src/mapView.js:728
+#: src/mapView.js:732
 msgid "Do you want to continue?"
 msgstr "Davom etishni xohlaysizmi?"
 
-#: src/mapView.js:729
+#: src/mapView.js:733
 #, javascript-format
 msgid ""
 "You are about to open files with a total size of %s MB. This could take some"
 " time to load"
 msgstr "Siz umumiy %s MB hajmli fayl ochyabsiz. Bu biroz vaqt olishi mumkin"
 
-#: src/mapView.js:735
+#: src/mapView.js:739
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/mapView.js:767
+#: src/mapView.js:771
 msgid "File type is not supported"
 msgstr "Fayl turi qoʻllab quvvatlanmaydi"
 
-#: src/mapView.js:806
+#: src/mapView.js:810
 msgid "Failed to open GeoURI"
 msgstr "GeoURI-ni ochib boʻlmadi"
 
-#: src/mapView.js:1326
+#: src/mapView.js:1330
 msgid "Zoom in to add location"
 msgstr "Joylashuv qoʻshish uchun kattalashtiring"
 
-#: src/mapView.js:1344
+#: src/mapView.js:1348
 msgid "Location was added in OpenStreetMap"
 msgstr "Joylashuv OpenStreetMap-ga qoʻshildi"
 
