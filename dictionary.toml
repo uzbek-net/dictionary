@@ -1,4 +1,5 @@
-# Lug'atlar
+# Lugʻatlar
+
 [[translations]]
 en = "infiltrate"
 uz = "kirish"
@@ -39,7 +40,7 @@ status = "Pending review"
 en = "multithread"
 uz = "koʻp oqimli"
 part_of_speech = "adjective"
-description = "Ko'p oqimli ishlov berish jarayoni haqida atama."
+description = "Koʻp oqimli ishlov berish jarayoni haqida atama."
 pronunciation_uz = ""
 similar = [""]
 status = "Pending review"
@@ -102,7 +103,7 @@ status = "Pending review"
 en = "authorization"
 uz = "ruxsat"
 part_of_speech = "noun"
-description = "tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha meni tajribamda"
+description = "tasdiqlash deb tarjima chiqyapti lekin ruxsat maʻnosida keldi koʻpincha meni tajribamda"
 pronunciation_uz = ""
 similar = [""]
 status = "Pending review"
@@ -121,7 +122,7 @@ en = "framework"
 uz = "freymvork"
 part_of_speech = "noun"
 description = ""
-pronunciation_uz = "Freymvo'rk"
+pronunciation_uz = "Freymvoʻrk"
 similar = [""]
 status = "Pending review"
 
@@ -190,7 +191,7 @@ status = "Pending review"
 
 [[translations]]
 en = "release"
-uz = ""
+uz = "reliz"
 part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
@@ -372,7 +373,7 @@ status = "Pending review"
 en = "suspend"
 uz = "uyqu holati"
 part_of_speech = "verb"
-description = "kopyuterni dipleyini o'chitib qo'yish lekin quvvatdan uzilmagan holda"
+description = "kopyuterni dipleyini oʻchitib qoʻyish lekin quvvatdan uzilmagan holda"
 pronunciation_uz = ""
 similar = ["sleep"]
 status = "Pending review"
@@ -432,18 +433,9 @@ similar = [""]
 status = "Pending review"
 
 [[translations]]
-en = "preview"
-uz = ""
-part_of_speech = "noun"
-description = ""
-pronunciation_uz = ""
-similar = [""]
-status = "Needs translation"
-
-[[translations]]
 en = "media"
 uz = "multimedia"
-part_of_speech = ""
+part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
 similar = [""]
@@ -522,15 +514,6 @@ similar = [""]
 status = "Pending review"
 
 [[translations]]
-en = "release"
-uz = "reliz"
-part_of_speech = "noun"
-description = ""
-pronunciation_uz = ""
-similar = [""]
-status = "Pending review"
-
-[[translations]]
 en = "command line interface"
 uz = "buyruq satri interfeysi"
 part_of_speech = "noun"
@@ -595,7 +578,7 @@ status = "Pending review"
 
 [[translations]]
 en = "pattern"
-uz = ""
+uz = "qolip"
 part_of_speech = "noun"
 description = ""
 pronunciation_uz = ""
@@ -630,15 +613,6 @@ similar = [""]
 status = "Approved"
 
 [[translations]]
-en = "pattern"
-uz = "qolip"
-part_of_speech = "noun"
-description = ""
-pronunciation_uz = ""
-similar = [""]
-status = "Pending review"
-
-[[translations]]
 en = "clipboard"
 uz = "befer"
 part_of_speech = "noun"
@@ -646,13 +620,3 @@ description = ""
 pronunciation_uz = ""
 similar = [""]
 status = "Pending review"
-
-# Template for new words
-# [[translations]]
-# en = ""
-# uz = ""
-# part_of_speech = ""
-# description = ""
-# pronunciation_uz = ""
-# similar = [""]
-# status = "Needs translation"
