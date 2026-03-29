@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
-"POT-Creation-Date: 2026-03-13 07:31+0000\n"
+"POT-Creation-Date: 2026-03-27 00:07+0000\n"
 "PO-Revision-Date: 2025-04-04 21:19+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -912,7 +912,7 @@ msgstr "Yosh reytingi"
 msgid "_How to contribute missing information"
 msgstr "_Yoʻqolgan ma'lumotni qanday kiritish mumkin"
 
-#: lib/gs-app.c:6323
+#: lib/gs-app.c:6328
 msgid "Local file"
 msgstr "Mahalliy fayl"
 
@@ -921,14 +921,14 @@ msgstr "Mahalliy fayl"
 #. Example string: "Local file (RPM)"
 #. Translators: The first placeholder is an app runtime
 #. * name, the second is its version number.
-#: lib/gs-app.c:6342 src/gs-safety-context-dialog.c:588
+#: lib/gs-app.c:6347 src/gs-safety-context-dialog.c:588
 #, c-format
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
 #. Translators: This is a heading for a row showing the package name of an app
 #. (such as ‘gnome-software-46.0-1’).
-#: lib/gs-app.c:6419 src/gs-safety-context-dialog.c:825
+#: lib/gs-app.c:6424 src/gs-safety-context-dialog.c:825
 #: src/gs-safety-context-dialog.ui:92
 msgid "Package"
 msgstr "Paket"
@@ -968,8 +968,8 @@ msgstr "Yuklab olinmoqda"
 #. TRANSLATORS: button text in the header when firmware
 #. * can be live-installed
 #. TRANSLATORS: update the fw
-#: src/gs-app-addon-row.ui:21 src/gs-common.c:279 src/gs-details-page.c:1056
-#: src/gs-details-page.c:1091 src/gs-details-page.ui:203 src/gs-page.c:412
+#: src/gs-app-addon-row.ui:21 src/gs-common.c:277 src/gs-details-page.c:1056
+#: src/gs-details-page.c:1091 src/gs-details-page.ui:203 src/gs-page.c:441
 #: plugins/packagekit/gs-packagekit-task.c:149
 msgid "_Install"
 msgstr "_Oʻrnatish"
@@ -1738,9 +1738,9 @@ msgid "Login Required"
 msgstr "Kirish shart"
 
 #. TRANSLATORS: button text
-#: src/gs-basic-auth-dialog.ui:18 src/gs-common.c:272 src/gs-common.c:674
+#: src/gs-basic-auth-dialog.ui:18 src/gs-common.c:270 src/gs-common.c:654
 #: src/gs-details-page.ui:291 src/gs-dkms-dialog.ui:28
-#: src/gs-dkms-dialog.ui:120 src/gs-page.c:410 src/gs-removal-dialog.ui:24
+#: src/gs-dkms-dialog.ui:120 src/gs-page.c:439 src/gs-removal-dialog.ui:24
 #: src/gs-remove-app-dialog.ui:14 src/gs-repos-dialog.c:241
 #: src/gs-repos-dialog.c:324 src/gs-review-dialog.ui:24
 #: src/gs-review-row.c:239 src/gs-review-row.c:263 src/gs-updates-page.c:854
@@ -1838,7 +1838,7 @@ msgid "Recently installed updates are available to review"
 msgstr "Yaqinda oʻrnatilgan yangilanishlar koʻrib chiqilishi mumkin"
 
 #. TRANSLATORS: button text
-#: src/gs-common.c:103 src/gs-common.c:842
+#: src/gs-common.c:103 src/gs-common.c:822
 msgid "Restart"
 msgstr "Qayta ishga tushirish"
 
@@ -1847,17 +1847,17 @@ msgid "Launch"
 msgstr "Ishga tushirish"
 
 #. TRANSLATORS: window title
-#: src/gs-common.c:208
+#: src/gs-common.c:206
 msgid "Install Software?"
 msgstr "Dasturiy ta'minot oʻrnatilsinmi?"
 
 #. TRANSLATORS: window title
-#: src/gs-common.c:210
+#: src/gs-common.c:208
 msgid "Install Third-Party Software?"
 msgstr "Uchinchi tomon dasturiy ta'minotini oʻrnatasizmi?"
 
 #. TRANSLATORS: window title
-#: src/gs-common.c:214
+#: src/gs-common.c:212
 msgid "Enable Software Repository?"
 msgstr "Dasturiy ta'minot ombori yoqilsinmi?"
 
@@ -1865,14 +1865,14 @@ msgstr "Dasturiy ta'minot ombori yoqilsinmi?"
 #. ask for confirmation
 #. TRANSLATORS: "Enable Third-Party Software Repository?" is
 #. * the confirmation dialog title
-#: src/gs-common.c:216 src/gs-repos-dialog.c:238
+#: src/gs-common.c:214 src/gs-repos-dialog.c:238
 msgid "Enable Third-Party Software Repository?"
 msgstr "Uchinchi tomon dasturlari ombori yoqilsinmi?"
 
 #. TRANSLATORS: the replacements are as follows:
 #. * 1. App name, e.g. "Firefox"
 #. * 2. Software repository name, e.g. fedora-optional
-#: src/gs-common.c:228
+#: src/gs-common.c:226
 #, c-format
 msgid ""
 "%s is not <a href=\"https://en.wikipedia.org/wiki/Free_and_open-"
@@ -1886,19 +1886,19 @@ msgstr ""
 #. TRANSLATORS: the replacements are as follows:
 #. * 1. App name, e.g. "Firefox"
 #. * 2. Software repository name, e.g. fedora-optional
-#: src/gs-common.c:238
+#: src/gs-common.c:236
 #, c-format
 msgid "%s is provided by “%s”."
 msgstr "%s “%s” tomonidan taqdim etilgan."
 
-#: src/gs-common.c:247
+#: src/gs-common.c:245
 msgid "This software repository must be enabled to continue installation."
 msgstr ""
 "Oʻrnatishni davom ettirish uchun ushbu dasturiy ta'minot ombori yoqilgan "
 "boʻlishi kerak."
 
 #. TRANSLATORS: Laws are geographical, urgh...
-#: src/gs-common.c:257
+#: src/gs-common.c:255
 #, c-format
 msgid "It may be illegal to install or use %s in some countries."
 msgstr ""
@@ -1906,107 +1906,107 @@ msgstr ""
 "boʻlishi mumkin."
 
 #. TRANSLATORS: Laws are geographical, urgh...
-#: src/gs-common.c:263
+#: src/gs-common.c:261
 msgid "It may be illegal to install or use this codec in some countries."
 msgstr ""
 "Ba'zi mamlakatlarda ushbu kodekni oʻrnatish yoki ishlatish noqonuniy "
 "boʻlishi mumkin."
 
 #. TRANSLATORS: this is button text to not ask about non-free content again
-#: src/gs-common.c:275
+#: src/gs-common.c:273
 msgid "Don’t _Warn Again"
 msgstr "Qayta _Ogohlantirmang"
 
 #. TRANSLATORS: button text
-#: src/gs-common.c:284
+#: src/gs-common.c:282
 msgid "Enable and _Install"
 msgstr "Yoqish va _Oʻrnatish"
 
 #. TRANSLATORS: these are show_detailed_error messages from the
 #. * package manager no mortal is supposed to understand,
 #. * but google might know what they mean
-#: src/gs-common.c:491
+#: src/gs-common.c:471
 msgid "Detailed errors from the package manager follow:"
 msgstr "Paket menejerining batafsil xatolari quyidagilardan iborat:"
 
-#: src/gs-common.c:496 src/gs-safety-context-dialog.ui:67
+#: src/gs-common.c:476 src/gs-safety-context-dialog.ui:67
 #: src/gs-updates-paused-banner.c:77 src/gs-utils-error-dialog-simple.ui:31
 msgid "Details"
 msgstr "Tafsilotlar"
 
 #. TRANSLATORS: button text
-#: src/gs-common.c:554 src/gs-updates-paused-banner.c:64
+#: src/gs-common.c:534 src/gs-updates-paused-banner.c:64
 msgid "_Close"
 msgstr "_Yopish"
 
-#: src/gs-common.c:586
+#: src/gs-common.c:566
 msgid "Details copied to clipboard"
 msgstr "Tafsilotlar vaqtinchalik xotiraga nusxalandi"
 
 #. Translators: an accept button label, in a Cancel/Accept dialog
-#: src/gs-common.c:666
+#: src/gs-common.c:646
 msgid "_Accept"
 msgstr "_Qabul qilmoq"
 
 #. TRANSLATORS: we've just live-updated some apps
-#: src/gs-common.c:817
+#: src/gs-common.c:797
 msgid "An update has been installed"
 msgid_plural "Updates have been installed"
 msgstr[0] "Yangilanish o'rnatildi"
 msgstr[1] "Yangilanishlar o'rnatildi"
 
 #. TRANSLATORS: we've just uninstalled some apps
-#: src/gs-common.c:827
+#: src/gs-common.c:807
 msgid "An app has been uninstalled"
 msgid_plural "Apps have been uninstalled"
 msgstr[0] "Ilova oʻchirib tashlandi"
 msgstr[1] "Ilovalar oʻchirib tashlandi"
 
 #. TRANSLATORS: the new apps will not be run until we restart
-#: src/gs-common.c:833
+#: src/gs-common.c:813
 msgid "A restart is required for it to take effect"
 msgid_plural "A restart is required for them to take effect"
 msgstr[0] "Uning kuchga kirishi uchun qayta ishga tushirish kerak"
 msgstr[1] "Ular kuchga kirishi uchun qayta ishga tushirish talab qilinadi"
 
 #. TRANSLATORS: button text
-#: src/gs-common.c:840
+#: src/gs-common.c:820
 msgid "Not Now"
 msgstr "Hozir emas"
 
 #. TRANSLATORS: something happened less than a day ago
-#: src/gs-common.c:935
+#: src/gs-common.c:915
 msgid "Today"
 msgstr "Bugun"
 
 #. TRANSLATORS: something happened more than a day ago but less than 2 days
 #. ago
-#: src/gs-common.c:938
+#: src/gs-common.c:918
 msgid "Yesterday"
 msgstr "Kecha"
 
-#: src/gs-common.c:940
+#: src/gs-common.c:920
 #, c-format
 msgid "%d day ago"
 msgid_plural "%d days ago"
 msgstr[0] "%d kun oldin"
 msgstr[1] "%d kun oldin"
 
-#: src/gs-common.c:944
+#: src/gs-common.c:924
 #, c-format
 msgid "%d week ago"
 msgid_plural "%d weeks ago"
 msgstr[0] "%d hafta oldin"
 msgstr[1] "%d hafta oldin"
 
-#: src/gs-common.c:948
+#: src/gs-common.c:928
 #, c-format
 msgid "%d month ago"
 msgid_plural "%d months ago"
 msgstr[0] "%d oy oldin"
 msgstr[1] "%d oy oldin"
 
-#: src/gs-common.c:952
+#: src/gs-common.c:932
 #, c-format
 msgid "%d year ago"
 msgid_plural "%d years ago"
@@ -2014,18 +2014,18 @@ msgstr[0] "%d yil oldin"
 msgstr[1] "%d yil oldin"
 
 #. TRANSLATORS: something happened less than 5 minutes ago
-#: src/gs-common.c:1009
+#: src/gs-common.c:989
 msgid "Just now"
 msgstr "Hozirgina"
 
-#: src/gs-common.c:1011
+#: src/gs-common.c:991
 #, c-format
 msgid "%d minute ago"
 msgid_plural "%d minutes ago"
 msgstr[0] "%d daqiqa oldin"
 msgstr[1] "%d daqiqa oldin"
 
-#: src/gs-common.c:1013
+#: src/gs-common.c:993
 #, c-format
 msgid "%d hour ago"
 msgid_plural "%d hours ago"
@@ -2038,7 +2038,7 @@ msgstr[1] "%d soatlar oldin"
 #. then you can use "%2$s %1$s".
 #. * Make sure you'll preserve the no break space between the values.
 #. * Example result: "13.0 MB"
-#: src/gs-common.c:1376
+#: src/gs-common.c:1356
 #, c-format
 msgctxt "format-size"
 msgid "%s %s"
@@ -2047,7 +2047,7 @@ msgstr "%s %s"
 #. Translators: This refers to permissions (for example, from flatpak) which
 #. an app requests from the user. The placeholder is a D-Bus name such as
 #. `org.freedesktop.Flatpak`.
-#: src/gs-common.c:1511
+#: src/gs-common.c:1491
 #, fuzzy, c-format
 #| msgid "Uses System Services"
 msgid "Use the %s System Service"
@@ -2056,7 +2056,7 @@ msgstr "Tizim xizmatlaridan foydalanadi"
 #. Translators: This refers to permissions (for example, from flatpak) which
 #. an app requests from the user. The placeholder is a D-Bus name such as
 #. `org.freedesktop.Flatpak`.
-#: src/gs-common.c:1514
+#: src/gs-common.c:1494
 #, fuzzy, c-format
 #| msgid "Uses Session Services"
 msgid "Use the %s Session Service"
@@ -2065,21 +2065,21 @@ msgstr "Sessiya xizmatlaridan foydalanadi"
 #. Translators: This refers to permissions (for example, from flatpak) which
 #. an app requests from the user. The placeholder is a D-Bus name such as
 #. `org.freedesktop.Flatpak`.
-#: src/gs-common.c:1517
+#: src/gs-common.c:1497
 #, fuzzy, c-format
 #| msgid "Uses System Services"
 msgid "Use the %s Service"
 msgstr "Tizim xizmatlaridan foydalanadi"
 
-#: src/gs-common.c:1538
+#: src/gs-common.c:1518
 msgid "Can see the non-portal service"
 msgstr ""
 
-#: src/gs-common.c:1540
+#: src/gs-common.c:1520
 msgid "Can talk to the non-portal service"
 msgstr ""
 
-#: src/gs-common.c:1542
+#: src/gs-common.c:1522
 msgid "Can own the non-portal service"
 msgstr ""
 
@@ -3769,26 +3769,26 @@ msgstr "Nomaʼlum"
 msgid "_OK"
 msgstr "_OK"
 
-#: src/gs-page.c:265
+#: src/gs-page.c:266
 msgid "User declined installation"
 msgstr "Foydalanuvchi oʻrnatishni rad etdi"
 
 #. TRANSLATORS: this is a prompt message, and
 #. * '%s' is an app summary, e.g. 'GNOME Clocks'
-#: src/gs-page.c:405
+#: src/gs-page.c:434
 #, c-format
 msgid "Prepare %s"
 msgstr "Tayyorlash: %s"
 
 #. TRANSLATORS: this is a prompt message, and '%s' is an
 #. * repository name, e.g. 'GNOME Nightly'
-#: src/gs-page.c:544
+#: src/gs-page.c:573
 #, c-format
 msgid "Are you sure you want to remove the %s repository?"
 msgstr "Haqiqatan ham %s omborini oʻchirib tashlamoqchimisiz?"
 
 #. TRANSLATORS: Longer dialog text. The placeholder is a repository name.
-#: src/gs-page.c:548
+#: src/gs-page.c:577
 #, c-format
 msgid ""
 "All apps from %s will be uninstalled, and you will have to re-install the "
@@ -3809,8 +3809,8 @@ msgstr ""
 #. * name of a firmware
 #. TRANSLATORS: this is a prompt message, and '%s' is an
 #. * app summary, e.g. 'GNOME Clocks'
-#: src/gs-page.c:557 src/gs-page.c:568 src/gs-page.c:579 src/gs-page.c:590
-#: src/gs-page.c:601 src/gs-page.c:613
+#: src/gs-page.c:586 src/gs-page.c:597 src/gs-page.c:608 src/gs-page.c:619
+#: src/gs-page.c:630 src/gs-page.c:642
 #, c-format
 msgid "Uninstall %s?"
 msgstr "%s oʻchirib tashlansinmi?"
@@ -3818,14 +3818,14 @@ msgstr "%s oʻchirib tashlansinmi?"
 #. TRANSLATORS: Longer dialog text. The placeholder is the name
 #. * of an addon or an input method.
 #. Translators: the '%s' is replaced with the app name
-#: src/gs-page.c:561 src/gs-page.c:620
+#: src/gs-page.c:590 src/gs-page.c:649
 #, c-format
 msgid "It will not be possible to use %s after removal."
 msgstr "Oʻchirishdan keyin %s ishlatib boʻlmaydi."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name
 #. * of a runtime.
-#: src/gs-page.c:572
+#: src/gs-page.c:601
 #, c-format
 msgid ""
 "It will not be possible to use any apps which depend on %s after removal."
@@ -3834,7 +3834,7 @@ msgstr ""
 "imkonsiz boʻladi."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name of a font.
-#: src/gs-page.c:582
+#: src/gs-page.c:611
 #, c-format
 msgid ""
 "It will not be possible to use %s after removal, and any documents which use"
@@ -3844,7 +3844,7 @@ msgstr ""
 " boshqa shriftda koʻrinadi."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name of a codec.
-#: src/gs-page.c:593
+#: src/gs-page.c:622
 #, c-format
 msgid ""
 "It will not be possible to use %s after removal. This may mean some media "
@@ -3854,7 +3854,7 @@ msgstr ""
 "oʻynatib boʻlmasligini anglatishi mumkin."
 
 #. TRANSLATORS: Longer dialog text. The placeholder is the name of a firmware
-#: src/gs-page.c:604
+#: src/gs-page.c:633
 #, c-format
 msgid ""
 "Hardware which depends on %s may no longer function correctly after removal."
@@ -3863,7 +3863,7 @@ msgstr ""
 "mumkin."
 
 #. Translators: the '%s' is replaced with the app name
-#: src/gs-page.c:627
+#: src/gs-page.c:656
 #, fuzzy, c-format
 #| msgid ""
 #| "It will not be possible to use %s after removal, and any documents which use"
@@ -3877,7 +3877,7 @@ msgstr ""
 
 #. TRANSLATORS: Longer dialog text. The placeholder is
 #. * the name of an app.
-#: src/gs-page.c:633
+#: src/gs-page.c:662
 #, c-format
 msgid ""
 "It will not be possible to use %s after removal. App data and settings will "
@@ -6173,14 +6173,14 @@ msgstr "Yoqish"
 #. TRANSLATORS: this is a group of updates that are not
 #. * packages and are not shown in the main list
 #: plugins/core/gs-plugin-generic-updates.c:81
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:3343
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:3340
 msgid "System Updates"
 msgstr "Tizim yangilanishlari"
 
 #. TRANSLATORS: this is a longer description of the
 #. * "System Updates" string
 #: plugins/core/gs-plugin-generic-updates.c:86
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:3348
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:3345
 msgid ""
 "General system updates, such as security or bug fixes, and performance "
 "improvements."
@@ -6624,7 +6624,7 @@ msgstr "%s USB dock yangilanishi"
 msgid "Firmware"
 msgstr "Prashifka"
 
-#: plugins/fwupd/gs-plugin-fwupd.c:1946
+#: plugins/fwupd/gs-plugin-fwupd.c:1945
 msgid "Firmware update could not be applied: "
 msgstr "Prashifka yangilab boʻlmadi: "
 
@@ -6721,30 +6721,30 @@ msgstr ""
 msgid "_Import Key"
 msgstr ""
 
-#: plugins/packagekit/gs-plugin-packagekit.c:1477
+#: plugins/packagekit/gs-plugin-packagekit.c:1475
 msgid "Failed to install updates: "
 msgstr "Yangilanishlarni oʻrnatib boʻlmadi: "
 
-#: plugins/packagekit/gs-plugin-packagekit.c:1571
+#: plugins/packagekit/gs-plugin-packagekit.c:1569
 msgid "Packages"
 msgstr "Paketlar"
 
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1470
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1496
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1469
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1495
 msgid "Failed to wait on transaction end before download: "
 msgstr "Yuklab olishdan oldin tranzaksiya tugashini kutib boʻlmadi: "
 
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1503
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1516
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1502
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1515
 msgid "Failed to download updates: "
 msgstr "Yangilanishlarni yuklab boʻlmadi: "
 
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1555
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1565
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1554
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:1564
 msgid "Failed to trigger update: "
 msgstr "Yangilashni ishga tushirib boʻlmadi: "
 
-#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:3447
+#: plugins/rpm-ostree/gs-plugin-rpm-ostree.c:3444
 msgid "Operating System (OSTree)"
 msgstr "Operatsion tizim (OSTree)"
 
@@ -6762,16 +6762,16 @@ msgid "A snap is a universal Linux package"
 msgstr "Snap universal Linux paketidir"
 
 #. TRANSLATORS: this is the system OS upgrade
-#: plugins/systemd-sysupdate/gs-plugin-systemd-sysupdate.c:785
+#: plugins/systemd-sysupdate/gs-plugin-systemd-sysupdate.c:727
 msgid "System"
 msgstr "Sistema"
 
 #. TRANSLATORS: this is the system component update
-#: plugins/systemd-sysupdate/gs-plugin-systemd-sysupdate.c:789
+#: plugins/systemd-sysupdate/gs-plugin-systemd-sysupdate.c:731
 msgid "System component"
 msgstr "Tizim komponenti"
 
-#: plugins/systemd-sysupdate/gs-plugin-systemd-sysupdate.c:1040
+#: plugins/systemd-sysupdate/gs-plugin-systemd-sysupdate.c:972
 #, c-format
 msgid "Removing sysupdate job '%s' failed with status %i"
 msgstr "“%s” tizimni yangilash vazifasi %i holatida olib tashlanmadi"

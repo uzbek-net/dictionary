@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
-"POT-Creation-Date: 2026-03-20 16:30+0000\n"
+"POT-Creation-Date: 2026-03-24 21:50+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -679,7 +679,7 @@ msgstr "Sozlash tugallandi"
 msgid "All done!"
 msgstr "Hammasi bajarildi!"
 
-#: gnome-initial-setup/pages/timezone/gis-location-entry.c:121
+#: gnome-initial-setup/pages/timezone/gis-location-entry.c:117
 msgid "Search cities"
 msgstr "Shaharlarni qidirish"
 
@@ -689,8 +689,8 @@ msgstr "Shaharlarni qidirish"
 #. * 'London, United Kingdom'
 #. * You shouldn't need to translate this string unless the language has a
 #. different comma.
-#: gnome-initial-setup/pages/timezone/gis-location-entry.c:564
-#: gnome-initial-setup/pages/timezone/gis-location-entry.c:589
+#: gnome-initial-setup/pages/timezone/gis-location-entry.c:557
+#: gnome-initial-setup/pages/timezone/gis-location-entry.c:582
 #, c-format
 msgid "%s, %s"
 msgstr "%s, %s"

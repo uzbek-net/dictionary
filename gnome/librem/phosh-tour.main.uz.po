@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-tour main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-tour/-/issues\n"
-"POT-Creation-Date: 2026-02-15 08:35+0000\n"
+"POT-Creation-Date: 2026-03-26 18:34+0000\n"
 "PO-Revision-Date: 2025-04-04 22:11+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -235,9 +235,19 @@ msgstr ""
 "Istalgan vaqtda barcha ilovalaringizdan bildirishnomalarni koʻrish uchun "
 "qurilmaning yuqori qismidan pastga torting!"
 
+#: src/ui/pt-window.ui:117
+msgid "For Linux Enthusiasts"
+msgstr ""
+
+#: src/ui/pt-window.ui:118
+msgid ""
+"Eventually postmarketOS will be usable for everyone. Right now we expect our"
+" users to have Linux experience and helping out with fixing bugs"
+msgstr ""
+
 #. Translators: @BRAND@ is a substitution variable and must not be translated
 #. @BRAND@ is the brand of a device (e.g. Librem 5)
-#: src/ui/pt-window.ui:118
+#: src/ui/pt-window.ui:127
 msgid "Welcome to your @BRAND@!"
 msgstr "@BRAND@ ga xush kelibsiz!"
 
@@ -245,20 +255,20 @@ msgstr "@BRAND@ ga xush kelibsiz!"
 #. translated
 #. @VENDOR@ is a device vendor (e.g. Purism) and @URL@ the URL to a web site
 #. with further information
-#: src/ui/pt-window.ui:121
+#: src/ui/pt-window.ui:130
 msgid "To find out more about @VENDOR@ or your device, check out @URL@."
 msgstr ""
 "@VENDOR@ yoki qurilmangiz haqida koʻproq maʼlumot olish uchun @URL@ "
 "manziliga tashrif buyuring."
 
-#: src/ui/pt-window.ui:125
+#: src/ui/pt-window.ui:134
 msgid "Get Started"
 msgstr "Boshlang"
 
-#: src/ui/pt-window.ui:221
+#: src/ui/pt-window.ui:230
 msgid "_Keyboard Shortcuts"
 msgstr "_Klaviatura yorliqlari"
 
-#: src/ui/pt-window.ui:225
+#: src/ui/pt-window.ui:234
 msgid "_About Phosh Tour"
 msgstr "_Posh sayohati haqida"

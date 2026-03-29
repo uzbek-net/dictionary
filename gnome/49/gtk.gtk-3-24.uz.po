@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-18 10:17+0000\n"
+"POT-Creation-Date: 2026-03-23 01:44+0000\n"
 "PO-Revision-Date: 2025-05-23 11:38+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1765,7 +1765,7 @@ msgstr "Dastur"
 msgid "Other Applications"
 msgstr "Dastur"
 
-#: gtk/gtkapplicationwindow.c:345 gtk/gtkprintoperation-unix.c:530
+#: gtk/gtkapplicationwindow.c:345 gtk/gtkprintoperation-unix.c:529
 #: gtk/gtkprintoperation-win32.c:1589 gtk/inspector/prop-editor.c:1686
 msgid "Application"
 msgstr "Dastur"

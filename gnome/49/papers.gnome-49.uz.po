@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-02-28 14:08+0000\n"
+"POT-Creation-Date: 2026-03-23 09:46+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -475,7 +475,7 @@ msgid "This work is in the Public Domain"
 msgstr "Ushbu ish Jamoat domenida"
 
 #: libview/context/pps-attachment-context.c:350
-#: shell/src/document_view/actions.rs:1042
+#: shell/src/document_view/actions.rs:1037
 msgid "Save Attachment"
 msgid_plural "Save Attachments"
 msgstr[0] "Ilovani saqlash"
@@ -547,7 +547,7 @@ msgstr "Chop qilish doirasi tarkibida sahifalar mavjud emas"
 #. show close if the certificate is null, or if no cert is found
 #: libview/pps-print-operation.c:1336 previewer/pps-previewer-window.blp:81
 #: shell/resources/pps-document-view.blp:560
-#: shell/resources/pps-window.blp:138 shell/src/document_view/io.rs:604
+#: shell/resources/pps-window.blp:138 shell/src/document_view/io.rs:555
 msgid "_Close"
 msgstr "_Yopish"
 
@@ -622,51 +622,51 @@ msgstr "Agar belgilansa, betning chegarasi boʻylab rasm chiziladi."
 msgid "Page Handling"
 msgstr "Sahifalarni qayta ishlash"
 
-#: libview/pps-view.c:2110
+#: libview/pps-view.c:2134
 msgid "Go to first page"
 msgstr "Birinchi sahifaga oʻtish"
 
-#: libview/pps-view.c:2112
+#: libview/pps-view.c:2136
 msgid "Go to previous page"
 msgstr "Oldingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2114
+#: libview/pps-view.c:2138
 msgid "Go to next page"
 msgstr "Keyingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2116
+#: libview/pps-view.c:2140
 msgid "Go to last page"
 msgstr "Soʻngi sahifaga oʻtish"
 
-#: libview/pps-view.c:2118
+#: libview/pps-view.c:2142
 msgid "Go to page"
 msgstr "Sahifaga oʻtish"
 
-#: libview/pps-view.c:2120
+#: libview/pps-view.c:2144
 msgid "Find"
 msgstr "Indekslangan xususiyatlar topilmadi"
 
-#: libview/pps-view.c:2149
+#: libview/pps-view.c:2173
 #, c-format
 msgid "Go to page %s"
 msgstr "%s sahifaga oʻtish"
 
-#: libview/pps-view.c:2155
+#: libview/pps-view.c:2179
 #, c-format
 msgid "Go to %s on file “%s”"
 msgstr "\"%s\" faylidagi %s ga oʻtish"
 
-#: libview/pps-view.c:2158
+#: libview/pps-view.c:2182
 #, c-format
 msgid "Go to file “%s”"
 msgstr "\"%s\" faylga oʻtish"
 
-#: libview/pps-view.c:2166
+#: libview/pps-view.c:2190
 #, c-format
 msgid "Launch %s"
 msgstr "%s ishga tushirish"
 
-#: libview/pps-view.c:2173
+#: libview/pps-view.c:2197
 #, c-format
 msgid "Reset form"
 msgstr "Shaklni tiklash"
@@ -1049,8 +1049,8 @@ msgid "Abort _Print and Close"
 msgstr "Bekor _Print va yopish"
 
 #: shell/resources/pps-document-view.blp:551 shell/src/document_view.rs:727
-#: shell/src/document_view/io.rs:488 shell/src/document_view/io.rs:532
-#: shell/src/document_view/io.rs:716
+#: shell/src/document_view/io.rs:439 shell/src/document_view/io.rs:483
+#: shell/src/document_view/io.rs:667
 msgid "_Cancel"
 msgstr "_Bekor qilish"
 
@@ -1260,7 +1260,7 @@ msgstr "C_ancel"
 
 #: shell/resources/pps-password-dialog.blp:5
 #: shell/resources/pps-password-view.blp:11
-#: shell/resources/pps-password-view.blp:17 shell/src/document_view/io.rs:709
+#: shell/resources/pps-password-view.blp:17 shell/src/document_view/io.rs:660
 msgid "Password Required"
 msgstr "Maxfiy soʻz talab qilinmaydi"
 
@@ -1842,19 +1842,19 @@ msgstr "Saqlangan _Without yopish"
 msgid "_Save a Copy"
 msgstr "_Save nusxasi"
 
-#: shell/src/document_view/actions.rs:844
+#: shell/src/document_view/actions.rs:832
 msgid "Save Image"
 msgstr "Rasmni saqlash"
 
-#: shell/src/document_view/actions.rs:969
+#: shell/src/document_view/actions.rs:964
 msgid "Caret navigation mode is now enabled, press F7 to disable."
 msgstr ""
 
-#: shell/src/document_view/actions.rs:971
+#: shell/src/document_view/actions.rs:966
 msgid "Caret navigation mode is now disabled, press F7 to enable."
 msgstr ""
 
-#: shell/src/document_view/actions.rs:1026
+#: shell/src/document_view/actions.rs:1021
 #, fuzzy
 #| msgid "Unable to open attachment"
 msgid "Unable to Open Attachment"
@@ -1872,15 +1872,15 @@ msgstr "Hujjatda sahifalar mavjud emas"
 msgid "The Document Contains Only Empty Pages"
 msgstr "Hujjatda faqat boʻsh sahifalar mavjud"
 
-#: shell/src/document_view/io.rs:411
+#: shell/src/document_view/io.rs:362
 msgid "Save As…"
 msgstr "Boshqacha saqlash…"
 
-#: shell/src/document_view/io.rs:487
+#: shell/src/document_view/io.rs:438
 msgid "Draw a rectangle to insert a signature field"
 msgstr "Imzo maydonini qoʻyish uchun toʻgʻri burchak chirsatish"
 
-#: shell/src/document_view/io.rs:509
+#: shell/src/document_view/io.rs:460
 #, fuzzy, rust-format
 #| msgid ""
 #| "Digitally signed by %s\n"
@@ -1892,33 +1892,33 @@ msgstr ""
 "Raqamli imzo %s\n"
 "Sana: %s"
 
-#: shell/src/document_view/io.rs:525
+#: shell/src/document_view/io.rs:476
 msgid "Certificate Required"
 msgstr "Sertifikat talab qilinadi"
 
-#: shell/src/document_view/io.rs:528
+#: shell/src/document_view/io.rs:479
 msgid "Select signing certificate"
 msgstr "Imzolash sertifikatini tanlang"
 
-#: shell/src/document_view/io.rs:529
+#: shell/src/document_view/io.rs:480
 msgid "Select"
 msgstr "Tanlash"
 
-#: shell/src/document_view/io.rs:602
+#: shell/src/document_view/io.rs:553
 msgid "A certificate is required to sign this document"
 msgstr ""
 
-#: shell/src/document_view/io.rs:671
+#: shell/src/document_view/io.rs:622
 msgid "Save Signed File"
 msgstr "Imzolangan faylni saqlash"
 
-#: shell/src/document_view/io.rs:701
+#: shell/src/document_view/io.rs:652
 #, fuzzy, rust-format
 #| msgid "Please enter password for %s"
 msgid "Please enter password for {}"
 msgstr "%s uchun parolni kiriting"
 
-#: shell/src/document_view/io.rs:717
+#: shell/src/document_view/io.rs:668
 msgid "_Login"
 msgstr "_Kirish"
 

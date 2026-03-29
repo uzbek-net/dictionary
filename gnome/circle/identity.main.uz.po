@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: identity master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/YaLTeR/identity/issues\n"
-"POT-Creation-Date: 2026-03-03 17:54+0000\n"
+"POT-Creation-Date: 2026-03-22 06:54+0000\n"
 "PO-Revision-Date: 2025-10-10 16:26+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: data/org.gnome.gitlab.YaLTeR.Identity.desktop.in.in:2
 #: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:7
-#: data/resources/ui/window.blp:128 src/main.rs:104 src/window.rs:513
+#: data/resources/ui/window.blp:128 src/main.rs:104 src/window.rs:517
 msgid "Identity"
 msgstr "Identifikatsiya"
 
@@ -55,7 +55,7 @@ msgid "Inspect a few properties of a video in a dialog"
 msgstr "Dialogda videoning bir nechta xususiyatlarini tekshiring"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:205
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:219
 msgid "Ivan Molodetskikh"
 msgstr "Ivan Molodetskikh"
 
@@ -409,7 +409,7 @@ msgstr "{} × {}"
 
 #. Translators: "Not applicable" string for the media properties dialog when a
 #. given property is unknown or missing (e.g. images don't have frame rate).
-#: src/page.rs:392 src/window.rs:570 src/window.rs:578 src/window.rs:586
+#: src/page.rs:392 src/window.rs:574 src/window.rs:582 src/window.rs:590
 msgid "N/A"
 msgstr "N/A"
 
@@ -435,44 +435,74 @@ msgstr "Videolarni tezda kesish"
 
 #: src/window.rs:378
 msgid ""
-"This release adds a context menu to row and column display modes and updates"
-" the platform to GNOME 49."
+"This release adds a time hover display, CLI flags, and more zoom shortcuts."
 msgstr ""
-"Ushbu yangilanishda qator va ustun koʻrsatish rejimlariga kontekst menyu "
-"qoʻshildi hamda platforma GNOME 49 versiyasiga yangilandi."
 
 #: src/window.rs:379
-#, fuzzy
-msgid ""
-"Added a context menu on the images, mirroring the tab context menu. This "
-"makes the context menu accessible in row and column display modes where "
-"there are no tabs."
+msgid "Added a time display when hovering over the video seek bar."
 msgstr ""
-"Rasmlarga, xuddi varaq kontekst menyusiga oʻxshab, kontekst menyu qoʻshildi."
-" Bu yangilik qator va ustun koʻrsatish rejimlarida, varaqlar mavjud "
-"boʻlmagan hollarda ham, kontekst menyudan foydalanish imkoniyatini yaratadi."
 
 #: src/window.rs:380
-msgid "Updated to the GNOME 49 platform."
-msgstr "GNOME 49 platformasiga yangilandi."
+msgid ""
+"Added --display and --zoom CLI flags for starting Identity with a given "
+"display mode and zoom."
+msgstr ""
 
 #: src/window.rs:381
+msgid ""
+"Added Ctrl+2..9 shortcuts to set zoom level to increments from 200% to 900%."
+msgstr ""
+
+#: src/window.rs:382
+msgid ""
+"The window title now shows the current file name, which is convenient when "
+"opening many tabs."
+msgstr ""
+
+#: src/window.rs:383
+msgid "Increased the default window size to make the video 960×540."
+msgstr ""
+
+#: src/window.rs:384
+#, fuzzy
+#| msgid "Updated to the GNOME 49 platform."
+msgid "Updated to the GNOME 50 platform."
+msgstr "GNOME 49 platformasiga yangilandi."
+
+#: src/window.rs:385
 msgid "Updated translations."
 msgstr "Yangilangan tarjimalar."
 
 #. Translators: Entry in the scale/zoom menu that indicates that the image or
 #. video is
 #. always resized to fit the window.
-#: src/window.rs:647
+#: src/window.rs:651
 msgid "Best Fit"
 msgstr "Eng yaxshi moslik"
 
 #. Translators: file chooser file filter name.
-#: src/window.rs:1921
+#: src/window.rs:1925
 msgid "Videos and images"
 msgstr "Video va rasmlar"
 
 #. Translators: file chooser dialog title.
-#: src/window.rs:1929
+#: src/window.rs:1933
 msgid "Open videos or images to compare"
 msgstr "Taqqoslash uchun video yoki rasmlarni oching"
+
+#~ msgid ""
+#~ "This release adds a context menu to row and column display modes and updates"
+#~ " the platform to GNOME 49."
+#~ msgstr ""
+#~ "Ushbu yangilanishda qator va ustun koʻrsatish rejimlariga kontekst menyu "
+#~ "qoʻshildi hamda platforma GNOME 49 versiyasiga yangilandi."
+
+#, fuzzy
+#~ msgid ""
+#~ "Added a context menu on the images, mirroring the tab context menu. This "
+#~ "makes the context menu accessible in row and column display modes where "
+#~ "there are no tabs."
+#~ msgstr ""
+#~ "Rasmlarga, xuddi varaq kontekst menyusiga oʻxshab, kontekst menyu qoʻshildi."
+#~ " Bu yangilik qator va ustun koʻrsatish rejimlarida, varaqlar mavjud "
+#~ "boʻlmagan hollarda ham, kontekst menyudan foydalanish imkoniyatini yaratadi."
