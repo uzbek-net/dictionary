@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2026-03-14 11:16+0000\n"
+"POT-Creation-Date: 2026-04-02 08:44+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -1152,7 +1152,7 @@ msgstr "{} MT/s"
 msgid "{} / {} · Swap: {} %"
 msgstr "{} / {} · Svap: {}%"
 
-#: src/ui/pages/network.rs:127 src/utils/network.rs:144
+#: src/ui/pages/network.rs:127 src/utils/network.rs:147
 msgid "Network Interface"
 msgstr "Tarmoq interfeysi"
 
@@ -1349,7 +1349,7 @@ msgstr "{} oʻldirishda muammo yuz berdi"
 msgid "There was a problem continuing {}"
 msgstr "{} davom etishida muammo bor edi"
 
-#: src/utils/app.rs:224
+#: src/utils/app.rs:238
 msgid "System Processes"
 msgstr "Tizim jarayonlari"
 
@@ -2000,69 +2000,75 @@ msgstr "{} ZFS ovoz"
 msgid "{} Drive"
 msgstr "{} Disk"
 
-#: src/utils/network.rs:129
+#: src/utils/network.rs:131
 msgid "Bluetooth Tether"
 msgstr "Bluetooth bogʻlanish"
 
-#: src/utils/network.rs:130
+#: src/utils/network.rs:132
 msgid "Network Bridge"
 msgstr "Tarmoq koʻprigi"
 
-#: src/utils/network.rs:131
+#: src/utils/network.rs:133
 msgid "Ethernet Connection"
 msgstr "Ethernet aloqasi"
 
-#: src/utils/network.rs:132
+#: src/utils/network.rs:134
 msgid "Docker Bridge"
 msgstr "Doker koʻprigi"
 
-#: src/utils/network.rs:133
+#: src/utils/network.rs:135
 msgid "InfiniBand Connection"
 msgstr "InfiniBand ulanishi"
 
-#: src/utils/network.rs:134
+#: src/utils/network.rs:136
 #, fuzzy
 #| msgid "Docker Bridge"
 msgid "Incus Bridge"
 msgstr "Doker koʻprigi"
 
-#: src/utils/network.rs:135
+#: src/utils/network.rs:137
 #, fuzzy
 #| msgid "Docker Bridge"
 msgid "LXC Bridge"
 msgstr "Doker koʻprigi"
 
-#: src/utils/network.rs:136
+#: src/utils/network.rs:138
 #, fuzzy
 #| msgid "Docker Bridge"
 msgid "LXD Bridge"
 msgstr "Doker koʻprigi"
 
-#: src/utils/network.rs:137
+#: src/utils/network.rs:139
 msgid "Serial Line IP Connection"
 msgstr "Ketma-ket liniya IP ulanishi"
 
-#: src/utils/network.rs:138
+#: src/utils/network.rs:140
+#, fuzzy
+#| msgid "Network Interface"
+msgid "VM Network Interface"
+msgstr "Tarmoq interfeysi"
+
+#: src/utils/network.rs:141
 msgid "Virtual Ethernet Device"
 msgstr "Virtual Ethernet qurilmasi"
 
-#: src/utils/network.rs:139
+#: src/utils/network.rs:142
 msgid "VM Network Bridge"
 msgstr "VM tarmoq koʻprigi"
 
-#: src/utils/network.rs:140
+#: src/utils/network.rs:143
 msgid "VPN Tunnel"
 msgstr "VPN tunneli"
 
-#: src/utils/network.rs:141
+#: src/utils/network.rs:144
 msgid "VPN Tunnel (WireGuard)"
 msgstr "VPN tunneli (WireGuard)"
 
-#: src/utils/network.rs:142
+#: src/utils/network.rs:145
 msgid "Wi-Fi Connection"
 msgstr "Wi-Fi ulanish"
 
-#: src/utils/network.rs:143
+#: src/utils/network.rs:146
 msgid "WWAN Connection"
 msgstr "WWAN ulanishi"
 

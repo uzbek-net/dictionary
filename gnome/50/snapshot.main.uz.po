@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: snapshot main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/snapshot/-/issues\n"
-"POT-Creation-Date: 2026-03-11 19:45+0000\n"
+"POT-Creation-Date: 2026-03-29 19:07+0000\n"
 "PO-Revision-Date: 2025-04-03 08:41+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -422,7 +422,7 @@ msgstr "_Videoni nusxalash"
 msgid "_Delete"
 msgstr "_Oʻchirish"
 
-#: src/widgets/camera.rs:613
+#: src/widgets/camera.rs:614
 msgid "Could not play camera stream"
 msgstr "Kamera oqimini oʻynatib boʻlmadi"
 

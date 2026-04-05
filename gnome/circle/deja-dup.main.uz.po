@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2026-03-06 14:09+0000\n"
+"POT-Creation-Date: 2026-04-04 22:42+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -1506,7 +1506,7 @@ msgid ""
 msgstr ""
 "Saqlash joyidagi noma'lum fayl: ʻ%sʻ. Buning oʻrniga boʻsh jildni tanlang."
 
-#: libdeja/borg/BorgJob.vala:41 libdeja/restic/ResticJob.vala:185
+#: libdeja/borg/BorgJob.vala:41 libdeja/restic/ResticJob.vala:184
 #, c-format
 msgid "Could not find storage location ‘%s’."
 msgstr "’%s’ xotirasi joylashuvi topilmadi."
@@ -1521,11 +1521,11 @@ msgstr "Pauzaga qoʻyildi (tarmoq yoʻq)"
 #. If the user adds folders to their backup and the target is just too small,
 #. let them know.
 #. Tiny backup location.  Suggest they get a larger one.
-#: libdeja/duplicity/DuplicityJob.vala:483 libdeja/restic/ResticJob.vala:337
+#: libdeja/duplicity/DuplicityJob.vala:483 libdeja/restic/ResticJob.vala:336
 msgid "Backup location is too small."
 msgstr "Zaxira joylashuvi juda kichik."
 
-#: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:338
+#: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:337
 #, c-format
 msgid "Try using a location with at least %s."
 msgstr "Kamida %s boʻlgan joylashuvdan foydalanib koʻring."
@@ -1669,7 +1669,7 @@ msgstr "Hech qanday zaxira fayllari topilmadi"
 msgid "Uploading…"
 msgstr "Yuklanmoqda…"
 
-#: libdeja/duplicity/DuplicityJob.vala:1541
+#: libdeja/duplicity/DuplicityJob.vala:1539
 msgid "could not restore test file"
 msgstr "sinov faylini qayta tiklab boʻlmadi"
 
@@ -1713,16 +1713,16 @@ msgstr "Zaxira buzilgan boʻlishi mumkin."
 msgid "Please investigate the problem or start a new, separate backup."
 msgstr "Muammoni tekshiring yoki yangi, alohida zaxiralashni boshlang."
 
-#: libdeja/restic/ResticJob.vala:531
+#: libdeja/restic/ResticJob.vala:530
 msgid "The storage location is out of space but busy."
 msgstr "Xotirada joy yetarli emas, lekin band."
 
-#: libdeja/restic/ResticJob.vala:532
+#: libdeja/restic/ResticJob.vala:531
 msgid "Try closing any open file manager windows and try again."
 msgstr "Ochiq fayl menejeri oynalarini yopib koʻring va qayta urining."
 
 #. Translators: "external" here means a backup that Deja Dup didn't make
-#: libdeja/restic/ResticJob.vala:611
+#: libdeja/restic/ResticJob.vala:610
 msgctxt "non-Deja-Dup backup"
 msgid "external"
 msgstr "tashqi"

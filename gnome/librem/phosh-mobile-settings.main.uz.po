@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-03-25 10:53+0000\n"
+"POT-Creation-Date: 2026-04-04 11:36+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -205,7 +205,7 @@ msgstr "- Mobil sozlamalaringizni boshqaring"
 
 #. Translators: Replace "translator-credits" with your names, one name per
 #. line
-#: src/ms-application.c:511
+#: src/ms-application.c:542
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 

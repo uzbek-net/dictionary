@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-disk-utility gnome-46\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-disk-utility/issues\n"
-"POT-Creation-Date: 2025-08-16 12:13+0000\n"
+"POT-Creation-Date: 2026-04-04 04:04+0000\n"
 "PO-Revision-Date: 2025-04-04 19:20+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1165,7 +1165,7 @@ msgstr "Kengaytirilgan boʻlim"
 #. *              The second %s is a short string with the space free (e.g.
 #. '43 GB').
 #. *              The %f is the percentage in use (e.g. 62.2).
-#: src/disks/gdu-block.c:577
+#: src/disks/gdu-block.c:587
 #, c-format
 msgid "%s — %s free (%.1f%% full)"
 msgstr "%s — %s bepul (%.1f%% full)"
@@ -3588,7 +3588,7 @@ msgstr[1] "%d millisekund"
 
 #. Translators: Used for duration greater than one year. First %s is number of
 #. years, second %s is months, third %s is days
-#: src/libgdu/gduutils.c:477
+#: src/libgdu/gduutils.c:477 src/libgdu/gduutils.rs:339
 #, c-format
 msgctxt "duration-year-to-inf"
 msgid "%s, %s and %s"
@@ -3596,7 +3596,7 @@ msgstr "%s, %s va %s"
 
 #. Translators: Used for durations less than one year but greater than one
 #. month. First %s is number of months, second %s is days
-#: src/libgdu/gduutils.c:482
+#: src/libgdu/gduutils.c:482 src/libgdu/gduutils.rs:346
 #, c-format
 msgctxt "duration-months-to-year"
 msgid "%s and %s"
@@ -3604,7 +3604,7 @@ msgstr "%s va %s"
 
 #. Translators: Used for durations less than one month but greater than one
 #. day. First %s is number of days, second %s is hours
-#: src/libgdu/gduutils.c:487
+#: src/libgdu/gduutils.c:487 src/libgdu/gduutils.rs:351
 #, c-format
 msgctxt "duration-day-to-month"
 msgid "%s and %s"
@@ -3612,7 +3612,7 @@ msgstr "%s va %s"
 
 #. Translators: Used for durations less than one day but greater than one
 #. hour. First %s is number of hours, second %s is minutes
-#: src/libgdu/gduutils.c:492
+#: src/libgdu/gduutils.c:492 src/libgdu/gduutils.rs:356
 #, c-format
 msgctxt "duration-hour-to-day"
 msgid "%s and %s"
@@ -3620,7 +3620,7 @@ msgstr "%s va %s"
 
 #. Translators: Used for durations less than one hour but greater than one
 #. minute. First %s is number of minutes, second %s is seconds
-#: src/libgdu/gduutils.c:503
+#: src/libgdu/gduutils.c:503 src/libgdu/gduutils.rs:366
 #, c-format
 msgctxt "duration-minute-to-hour"
 msgid "%s and %s"
@@ -3633,7 +3633,7 @@ msgstr "Bir daqiqadan kamroq vaqt"
 
 #. Translators: Used for durations less than one minute byte greater than one
 #. second. First %s is number of seconds
-#: src/libgdu/gduutils.c:517
+#: src/libgdu/gduutils.c:517 src/libgdu/gduutils.rs:378
 #, c-format
 msgctxt "duration-second-to-minute"
 msgid "%s"
@@ -3641,7 +3641,7 @@ msgstr "%s"
 
 #. Translators: Used for durations less than one second. First %s is number of
 #. milli-seconds
-#: src/libgdu/gduutils.c:523
+#: src/libgdu/gduutils.c:523 src/libgdu/gduutils.rs:382
 #, c-format
 msgctxt "duration-zero-to-second"
 msgid "%s"
@@ -3662,40 +3662,6 @@ msgstr "Qurilmani bloklashda xatolik yuz berdi"
 #: src/libgdu/gduutils.c:1369 src/libgdu/gduutils.rs:897
 msgid "Error disabling autoclear for loop device"
 msgstr "Loop qurilmasi uchun autoclearni oʻchirishda xatolik yuz berdi"
-
-#: src/libgdu/gduutils.rs:338
-msgid "duration-year-to-inf"
-msgstr ""
-
-#: src/libgdu/gduutils.rs:345
-msgid "duration-months-to-year"
-msgstr ""
-
-#. Translators: Used for durations less than one month but greater than one
-#. day. First %s is number of days, second %s is hours
-#: src/libgdu/gduutils.rs:351
-msgid "duration-day-to-month"
-msgstr ""
-
-#: src/libgdu/gduutils.rs:355
-msgid "duration-hour-to-day"
-msgstr ""
-
-#: src/libgdu/gduutils.rs:365
-msgid "duration-minute-to-hour"
-msgstr ""
-
-#. Translators: Used for durations less than one minute byte greater than one
-#. second. First %s is number of seconds
-#: src/libgdu/gduutils.rs:378
-msgid "duration-second-to-minute"
-msgstr ""
-
-#. Translators: Used for durations less than one second. First %s is number of
-#. milli-seconds
-#: src/libgdu/gduutils.rs:382
-msgid "duration-zero-to-second"
-msgstr ""
 
 #: src/libgdu/gduutils.rs:883
 #, fuzzy

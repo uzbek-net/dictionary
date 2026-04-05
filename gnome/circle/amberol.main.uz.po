@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amberol main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/amberol/-/issues/\n"
-"POT-Creation-Date: 2025-10-02 15:14+0000\n"
+"POT-Creation-Date: 2026-03-29 14:16+0000\n"
 "PO-Revision-Date: 2025-10-03 18:14+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -122,7 +122,7 @@ msgctxt "a11y"
 msgid "Shuffle"
 msgstr "Aralashtirish"
 
-#: src/gtk/playback-control.blp:116 src/playback_control.rs:115
+#: src/gtk/playback-control.blp:116
 msgid "Enable Repeat"
 msgstr "Qayta takrorlashni yoqish"
 
@@ -298,36 +298,44 @@ msgid "Toggle the playlist pane"
 msgstr "Pleylist oynasini yoqish/oʻchirish"
 
 #: src/gtk/shortcuts-dialog.blp:57
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Clear the playlist"
+msgctxt "shortcut window"
+msgid "Search the playlist"
+msgstr "Pleylistni tozalash"
+
+#: src/gtk/shortcuts-dialog.blp:62
 msgctxt "shortcut window"
 msgid "Toggle shuffling songs"
 msgstr "Qoʻshiqlarni tasodifiy tartibda ijro etishni yoqish/oʻchirish"
 
-#: src/gtk/shortcuts-dialog.blp:63
+#: src/gtk/shortcuts-dialog.blp:68
 msgctxt "shortcut window"
 msgid "Playback"
 msgstr "Qayta ijro"
 
-#: src/gtk/shortcuts-dialog.blp:66
+#: src/gtk/shortcuts-dialog.blp:71
 msgctxt "shortcut window"
 msgid "Toggle play/pause"
 msgstr "Ijro/toʻxtatish tugmasi"
 
-#: src/gtk/shortcuts-dialog.blp:71
+#: src/gtk/shortcuts-dialog.blp:76
 msgctxt "shortcut window"
 msgid "Previous song"
 msgstr "Avvalgi musiqa"
 
-#: src/gtk/shortcuts-dialog.blp:76
+#: src/gtk/shortcuts-dialog.blp:81
 msgctxt "shortcut window"
 msgid "Next song"
 msgstr "Keyingi musiqa"
 
-#: src/gtk/shortcuts-dialog.blp:81
+#: src/gtk/shortcuts-dialog.blp:86
 msgctxt "shortcut window"
 msgid "Seek backwards in the current song"
 msgstr "Joriy qoʻshiqni orqaga qaytarish"
 
-#: src/gtk/shortcuts-dialog.blp:86
+#: src/gtk/shortcuts-dialog.blp:91
 msgctxt "shortcut window"
 msgid "Seek forward in the current song"
 msgstr "Joriy qoʻshiqni oldinga oʻtkazish"
@@ -381,21 +389,28 @@ msgstr ""
 msgid "Playback in progress"
 msgstr "Ijro jarayonida"
 
-#: src/audio/song.rs:317
+#: src/audio/song.rs:339
 msgid "Unknown artist"
 msgstr "Noma’lum ijrochi"
 
-#: src/audio/song.rs:324
+#: src/audio/song.rs:346
 msgid "Unknown title"
 msgstr "Noma’lum nom"
 
-#: src/audio/song.rs:331
+#: src/audio/song.rs:353
 msgid "Unknown album"
 msgstr "Notanish albom"
 
 #: src/cover_picture.rs:75
 msgid "Cover image"
 msgstr "Muqova rasmi"
+
+#: src/playback_control.rs:115
+#, fuzzy
+#| msgctxt "a11y"
+#| msgid "Repeat"
+msgid "Do Not Repeat"
+msgstr "Takrorlash"
 
 #: src/playback_control.rs:119
 msgid "Repeat All Songs"
@@ -417,7 +432,7 @@ msgstr "Musiqa  qoʻshish"
 msgid "Open File"
 msgstr "Faylni ochish"
 
-#: src/window.rs:168 src/window.rs:190 src/window.rs:1483
+#: src/window.rs:168 src/window.rs:190 src/window.rs:1487
 msgid "Unable to access files"
 msgstr "Fayllardan foydalanish imkoni yoʻq"
 
@@ -429,42 +444,42 @@ msgstr "Jild qoʻshish"
 msgid "Open Folder"
 msgstr "Jildni ochish"
 
-#: src/window.rs:509
+#: src/window.rs:512
 msgid "No available song found"
 msgstr "Mavjud qoʻshiq topilmadi"
 
-#: src/window.rs:570
+#: src/window.rs:574
 msgid "No songs found"
 msgstr "Hech qanday musiqa topilmadi"
 
-#: src/window.rs:603
+#: src/window.rs:607
 msgid "Added a new song"
 msgstr "Yangi musiqa kiritildi"
 
-#: src/window.rs:604
+#: src/window.rs:608
 msgid "Play"
 msgstr "Ijro"
 
 #. Translators: the `{}` must be left unmodified;
 #. it will be expanded to the number of songs added
 #. to the playlist
-#: src/window.rs:613
+#: src/window.rs:617
 #, rust-format
 msgid "Added one song"
 msgid_plural "Added {} songs"
 msgstr[0] "{} ta musiqa kiritildi"
 
-#: src/window.rs:1243
+#: src/window.rs:1247
 msgid "Unable to access dropped files"
 msgstr "Tashlab yuborilgan fayllarga kirish imkonsiz"
 
-#: src/window.rs:1337
+#: src/window.rs:1341
 #, rust-format
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
 
-#: src/window.rs:1348
+#: src/window.rs:1352
 #, rust-format
 msgid "{hours} hour {minutes} remaining"
 msgid_plural "{hours} hours {minutes} remaining"
@@ -473,19 +488,19 @@ msgstr[0] "{hours} soat {minutes} daqiqa qoldi"
 #. Translators: the '{}' must be left unmodified, and
 #. it will be replaced by the number of minutes remaining
 #. in the playlist
-#: src/window.rs:1358
+#: src/window.rs:1362
 #, rust-format
 msgid "{} minute remaining"
 msgid_plural "{} minutes remaining"
 msgstr[0] "{} daqiqa qoldi"
 
-#: src/window.rs:1462
+#: src/window.rs:1466
 msgid "No song selected"
 msgstr "Qoʻshiq tanlanmagan"
 
 #. Translators: The '{}' must be left unmodified, and
 #. it is expanded to the number of songs selected
-#: src/window.rs:1467
+#: src/window.rs:1471
 #, rust-format
 msgid "{} song selected"
 msgid_plural "{} songs selected"
@@ -494,11 +509,11 @@ msgstr[0] "{} ta musiqa tanlandi"
 #. Translators: `{title}` and `{artist}` must be left
 #. untranslated; they will expand to the title and
 #. artist of the currently playing song, respectively
-#: src/window.rs:1523
+#: src/window.rs:1527
 #, rust-format
 msgid "Currently playing “{title}” by “{artist}”"
 msgstr "Hozirgi \"{title}\" musiqa \"{artist}\" tomonidan ijro etilmoqda"
 
-#: src/window.rs:1560
+#: src/window.rs:1564
 msgid "Unable to open folder"
 msgstr "Jildni ochish imkonsiz"

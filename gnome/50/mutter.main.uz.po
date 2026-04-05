@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mutter main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/mutter/issues/\n"
-"POT-Creation-Date: 2026-03-19 16:20+0000\n"
+"POT-Creation-Date: 2026-04-02 12:00+0000\n"
 "PO-Revision-Date: 2025-04-07 07:51+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -883,7 +883,7 @@ msgstr "Foydalanish uchun Mutter plagini"
 msgid "Workspace %d"
 msgstr "Ish maydoni %d"
 
-#: src/core/util.c:156
+#: src/core/util.c:155
 msgid "Mutter was compiled without support for verbose mode"
 msgstr "Mutter batafsil rejimni qoʻllab-quvvatlamasdan tuzilgan"
 
@@ -896,24 +896,24 @@ msgstr "Ish joyi almashtirildi"
 msgid "Mode Switch: Mode %d"
 msgstr "Tartibni almashtirish: %d-rejim"
 
-#: src/x11/meta-x11-display.c:776
+#: src/x11/meta-x11-display.c:770
 #, c-format
 msgid "Display “%s” already has a window manager"
 msgstr ""
 
-#: src/x11/meta-x11-display.c:1139
+#: src/x11/meta-x11-display.c:1133
 #, c-format
 msgid "Failed to open X Window System display “%s”"
 msgstr "X Window System displeyi “%s” ochilmadi"
 
-#: src/x11/meta-x11-display.c:1284
+#: src/x11/meta-x11-display.c:1278
 #, c-format
 msgid "Screen %d on display “%s” is invalid"
 msgstr ""
 
 #. This probably means that a non-WM compositor like xcompmgr is running;
 #. * we have no way to get it to exit
-#: src/x11/meta-x11-display.c:2469
+#: src/x11/meta-x11-display.c:2463
 #, c-format
 msgid ""
 "Another compositing manager is already running on screen %i on display “%s”."

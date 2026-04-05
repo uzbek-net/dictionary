@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdk-pixbuf/issues/new\n"
-"POT-Creation-Date: 2026-01-29 06:08+0000\n"
+"POT-Creation-Date: 2026-04-03 22:24+0000\n"
 "PO-Revision-Date: 2025-04-07 08:52+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -342,7 +342,7 @@ msgctxt "image format"
 msgid "Windows icon"
 msgstr "Windows belgisi"
 
-#: gdk-pixbuf/io-gdip-jpeg.c:54 gdk-pixbuf/io-jpeg.c:1409
+#: gdk-pixbuf/io-gdip-jpeg.c:54 gdk-pixbuf/io-jpeg.c:1421
 #, c-format
 msgid ""
 "JPEG quality must be a value between 0 and 100; value “%s” could not be "
@@ -351,7 +351,7 @@ msgstr ""
 "JPEG sifati 0 dan 100 gacha boʻlgan qiymat boʻlishi kerak; “%s” qiymatini "
 "tahlil qilib boʻlmadi."
 
-#: gdk-pixbuf/io-gdip-jpeg.c:69 gdk-pixbuf/io-jpeg.c:1425
+#: gdk-pixbuf/io-gdip-jpeg.c:69 gdk-pixbuf/io-jpeg.c:1437
 #, c-format
 msgid ""
 "JPEG quality must be a value between 0 and 100; value “%d” is not allowed."
@@ -359,7 +359,7 @@ msgstr ""
 "JPEG sifati 0 dan 100 gacha boʻlgan qiymat boʻlishi kerak; “%d” qiymatiga "
 "ruxsat berilmagan."
 
-#: gdk-pixbuf/io-gdip-jpeg.c:147 gdk-pixbuf/io-jpeg.c:1710
+#: gdk-pixbuf/io-gdip-jpeg.c:147 gdk-pixbuf/io-jpeg.c:1722
 msgctxt "image format"
 msgid "JPEG"
 msgstr "JPEG"
@@ -523,7 +523,12 @@ msgstr "ICO fayli uchun qoʻllab-quvvatlanmaydigan chuqurlik: %d"
 msgid "Error interpreting JPEG image file (%s)"
 msgstr "JPEG rasm faylini talqin qilishda xatolik yuz berdi (%s)"
 
-#: gdk-pixbuf/io-jpeg.c:647
+#: gdk-pixbuf/io-jpeg.c:640 gdk-pixbuf/io-jpeg.c:1165
+#, c-format
+msgid "Unsupported number of color components (%d)"
+msgstr "Rang komponentlarining qoʻllab-quvvatlanmaydigan soni (%d)"
+
+#: gdk-pixbuf/io-jpeg.c:659
 msgid ""
 "Insufficient memory to load image, try exiting some applications to free "
 "memory"
@@ -531,26 +536,21 @@ msgstr ""
 "Rasmni yuklash uchun xotira yetarli emas, xotirani boʻshatish uchun baʼzi "
 "ilovalardan chiqib koʻring"
 
-#: gdk-pixbuf/io-jpeg.c:720 gdk-pixbuf/io-jpeg.c:970
+#: gdk-pixbuf/io-jpeg.c:732 gdk-pixbuf/io-jpeg.c:982
 #, c-format
 msgid "Unsupported JPEG color space (%s)"
 msgstr "Qoʻllab-quvvatlanmaydigan JPEG rang maydoni (%s)"
 
-#: gdk-pixbuf/io-jpeg.c:845 gdk-pixbuf/io-jpeg.c:1169
-#: gdk-pixbuf/io-jpeg.c:1516 gdk-pixbuf/io-jpeg.c:1526
+#: gdk-pixbuf/io-jpeg.c:857 gdk-pixbuf/io-jpeg.c:1181
+#: gdk-pixbuf/io-jpeg.c:1528 gdk-pixbuf/io-jpeg.c:1538
 msgid "Couldn’t allocate memory for loading JPEG file"
 msgstr "Meta-faylni yuklab boʻlmadi"
 
-#: gdk-pixbuf/io-jpeg.c:1127
+#: gdk-pixbuf/io-jpeg.c:1139
 msgid "Transformed JPEG has zero width or height."
 msgstr "Oʻzgartirilgan JPEG kengligi yoki balandligi nolga teng."
 
-#: gdk-pixbuf/io-jpeg.c:1153
-#, c-format
-msgid "Unsupported number of color components (%d)"
-msgstr "Rang komponentlarining qoʻllab-quvvatlanmaydigan soni (%d)"
-
-#: gdk-pixbuf/io-jpeg.c:1446
+#: gdk-pixbuf/io-jpeg.c:1458
 #, c-format
 msgid ""
 "JPEG x-dpi must be a value between 1 and 65535; value “%s” is not allowed."
@@ -558,7 +558,7 @@ msgstr ""
 "JPEG x-dpi qiymati 1 va 65535 oraligʻida boʻlishi kerak; “%s” qiymatiga "
 "ruxsat berilmagan."
 
-#: gdk-pixbuf/io-jpeg.c:1467
+#: gdk-pixbuf/io-jpeg.c:1479
 #, c-format
 msgid ""
 "JPEG y-dpi must be a value between 1 and 65535; value “%s” is not allowed."
@@ -566,7 +566,7 @@ msgstr ""
 "JPEG y-dpi 1 dan 65535 gacha boʻlgan qiymat boʻlishi kerak; “%s” qiymatiga "
 "ruxsat berilmagan."
 
-#: gdk-pixbuf/io-jpeg.c:1481
+#: gdk-pixbuf/io-jpeg.c:1493
 #, c-format
 msgid "Color profile has invalid length “%u”."
 msgstr "Rang profilining uzunligi “%u” yaroqsiz."
@@ -961,7 +961,7 @@ msgstr "Oʻlchamlar ma'lumotlarga mos kelmaydi"
 msgid "Failed to write to temporary file when loading XPM image"
 msgstr "XPM tasvirini yuklashda vaqtinchalik faylga yozib boʻlmadi"
 
-#: gdk-pixbuf/io-xpm.c:845
+#: gdk-pixbuf/io-xpm.c:844
 msgctxt "image format"
 msgid "XPM"
 msgstr "XPM"

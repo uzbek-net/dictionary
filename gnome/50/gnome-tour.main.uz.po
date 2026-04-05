@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-tour main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-tour/issues/\n"
-"POT-Creation-Date: 2026-02-27 21:16+0000\n"
+"POT-Creation-Date: 2026-04-03 17:30+0000\n"
 "PO-Revision-Date: 2025-03-25 10:08+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 #: data/org.gnome.Tour.desktop.in.in:2
-#: data/org.gnome.Tour.metainfo.xml.in.in:7 src/main.rs:27
+#: data/org.gnome.Tour.metainfo.xml.in.in:7 src/main.rs:26
 msgid "Tour"
 msgstr "Sayohat"
 
@@ -130,7 +130,7 @@ msgstr "Batafsil maslahat va tavsiyalar uchun Yordam ilovasiga kiring."
 #. Translators: The following string is formatted as "Learn about new and
 #. essential
 #. features in GNOME 3.36" for example
-#: src/widgets/window.rs:69
+#: src/widgets/window.rs:71
 #, rust-format
 msgid "Learn about the key features in {name} {version}."
 msgstr "{name} {version}dagi asosiy funksiyalar haqida batafsil."
