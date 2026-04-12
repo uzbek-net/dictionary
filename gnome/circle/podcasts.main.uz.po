@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: podcasts main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/podcasts/issues\n"
-"POT-Creation-Date: 2026-03-03 05:02+0000\n"
+"POT-Creation-Date: 2026-04-10 09:37+0000\n"
 "PO-Revision-Date: 2025-10-24 13:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -523,7 +523,7 @@ msgstr "Podkastlar haqida"
 #: podcasts-gtk/resources/org.gnome.Podcasts.desktop.in.in:2
 #: podcasts-gtk/resources/org.gnome.Podcasts.metainfo.xml.in.in:4
 #: podcasts-gtk/src/app.rs:629 podcasts-gtk/src/widgets/aboutdialog.rs:56
-#: podcasts-gtk/src/widgets/player.rs:408
+#: podcasts-gtk/src/widgets/player.rs:413
 msgid "Podcasts"
 msgstr "Podkastlar"
 
@@ -776,7 +776,7 @@ msgstr "Yuklab olish jarayoni"
 msgid "{} min"
 msgstr "{} daq"
 
-#: podcasts-gtk/src/widgets/player.rs:1133
+#: podcasts-gtk/src/widgets/player.rs:1149
 msgid "The media player was unable to execute an action."
 msgstr "Media pleyer amalni bajara olmadi."
 

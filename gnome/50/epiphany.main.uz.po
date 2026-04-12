@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2026-04-05 00:54+0000\n"
+"POT-Creation-Date: 2026-04-06 13:25+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1179,7 +1179,7 @@ msgstr "%s uchun PIN kodini kiriting, %s:%d da autentifikatsiya qilish uchun."
 
 #: embed/ephy-client-certificate-manager.c:321
 #: embed/ephy-client-certificate-manager.c:446 embed/ephy-download.c:771
-#: embed/ephy-web-view.c:1356 src/ephy-history-dialog.c:893
+#: embed/ephy-web-view.c:1356 src/ephy-history-dialog.c:867
 #: src/ephy-passwords-view.c:158 src/ephy-shell.c:417 src/ephy-window.c:272
 #: src/ephy-window.c:2317 src/preferences/autofill-view.c:363
 #: src/preferences/extension-view.c:117
@@ -2675,44 +2675,44 @@ msgstr[0] "%u daqiqa"
 msgid "Exit Fullscreen"
 msgstr "Butun ekrandan chiqish"
 
-#: src/ephy-history-dialog.c:264
+#: src/ephy-history-dialog.c:265
 msgid "Select _None"
 msgstr "Tanlashni _bekor qilish"
 
-#: src/ephy-history-dialog.c:267 src/ephy-window.c:1015
+#: src/ephy-history-dialog.c:268 src/ephy-window.c:1015
 #: src/resources/gtk/history-dialog.blp:47
 msgid "Select _All"
 msgstr "_Barchasini tanlash"
 
-#: src/ephy-history-dialog.c:454
+#: src/ephy-history-dialog.c:443
 msgid "Link copied"
 msgstr "Havoladan nusxa olindi"
 
-#: src/ephy-history-dialog.c:556
+#: src/ephy-history-dialog.c:532
 msgid "Remove the selected pages from history"
 msgstr "Tanlangan sahifalarni tarixdan olib tashlash"
 
-#: src/ephy-history-dialog.c:563
+#: src/ephy-history-dialog.c:539
 msgid "Copy URL"
 msgstr "URLʼdan nusxa olish"
 
-#: src/ephy-history-dialog.c:889
+#: src/ephy-history-dialog.c:863
 msgid "Clear Browsing History?"
 msgstr "Brauzer tarixi tozalansinmi?"
 
-#: src/ephy-history-dialog.c:890
+#: src/ephy-history-dialog.c:864
 msgid "All visible links will be permanently deleted"
 msgstr "Barcha koʻrinadigan havolalar butunlay oʻchiriladi"
 
-#: src/ephy-history-dialog.c:894
+#: src/ephy-history-dialog.c:868
 msgid "Cl_ear"
 msgstr "To_zalash"
 
-#: src/ephy-history-dialog.c:1109
+#: src/ephy-history-dialog.c:1083
 msgid "Unavailable in Incognito Mode"
 msgstr "Maxfiy rejimda ishlamaydi"
 
-#: src/ephy-history-dialog.c:1112
+#: src/ephy-history-dialog.c:1086
 msgid "Clear History"
 msgstr "Tarixni tozalash"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2026-03-21 21:48+0000\n"
+"POT-Creation-Date: 2026-04-12 02:50+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -756,7 +756,7 @@ msgstr ""
 #. Translators: Description, keyboard shortcut
 #. Translators: Button
 #: data/ui/keyboard_shortcuts_dialog.ui:93
-#: data/ui/keyboard_shortcuts_dialog.ui:134 iotas/export_dialog.py:254
+#: data/ui/keyboard_shortcuts_dialog.ui:134 iotas/export_dialog.py:243
 msgid "Export"
 msgstr "Eksport"
 
@@ -1400,7 +1400,7 @@ msgid "Transferring {} attachment"
 msgid_plural "Transferring {} attachments"
 msgstr[0] ""
 
-#: iotas/export_dialog.py:283
+#: iotas/export_dialog.py:272
 #, fuzzy
 #| msgid "One or more attachments failed to transfer."
 msgid "{} attachment failed to transfer"
@@ -1408,7 +1408,7 @@ msgid_plural "{} attachments failed to transfer"
 msgstr[0] "Bir yoki bir nechta biriktirma o‘tkazilmadi."
 
 #. Translators: Title
-#: iotas/export_dialog.py:289
+#: iotas/export_dialog.py:278
 msgid "Transfer Failed"
 msgstr "Oʻtkazma amalga oshmadi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
-"POT-Creation-Date: 2026-03-13 07:31+0000\n"
+"POT-Creation-Date: 2026-04-11 11:31+0000\n"
 "PO-Revision-Date: 2025-04-04 21:19+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -70,7 +70,7 @@ msgid "The update details"
 msgstr "Yangilanish tafsilotlari"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/metainfo/org.gnome.Software.metainfo.xml.in:3022
+#: data/metainfo/org.gnome.Software.metainfo.xml.in:3033
 #: src/gs-application.c:400
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"

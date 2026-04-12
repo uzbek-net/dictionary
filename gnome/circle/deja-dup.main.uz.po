@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2026-04-04 22:42+0000\n"
+"POT-Creation-Date: 2026-04-10 13:28+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -93,37 +93,48 @@ msgid "At least %d day"
 msgid_plural "At least %d days"
 msgstr[0] "Kamida %d kun"
 
-#: app/ConfigFolderPage.vala:21
+#: app/ConfigFolderPage.vala:40
 msgid "Reset All Folders?"
 msgstr "Hamma jildlarni qayta tiklash?"
 
-#: app/ConfigFolderPage.vala:22
+#: app/ConfigFolderPage.vala:41
 msgid "All changes to backed up and ignored folders will be lost."
 msgstr ""
 "Zaxiralangan va eʻtiborsiz qoldirilgan jildlardagi barcha oʻzgarishlar "
 "oʻchib ketadi."
 
-#: app/ConfigFolderPage.vala:24 app/OperationWrapper.vala:374
+#: app/ConfigFolderPage.vala:43 app/OperationWrapper.vala:374
 #: data/ui/ActionDialog.blp:22 data/ui/PassphraseDialog.blp:53
 msgid "_Cancel"
 msgstr "Bekor qilish"
 
-#: app/ConfigFolderPage.vala:25
+#: app/ConfigFolderPage.vala:44
 msgid "Rese_t"
 msgstr "Qayta tiklash"
 
+#: app/ConfigFolderRow.vala:51
+#, fuzzy
+#| msgid "Cleaning up…"
+msgctxt "scanning a folder for its disk usage"
+msgid "Scanning…"
+msgstr "Tozalanmoqda…"
+
 #. Keep this list of rules in sync with OperationBackup's
 #. filter on include/excludes.
-#: app/ConfigFolderRow.vala:39
+#: app/ConfigFolderRow.vala:82
 msgid "This folder cannot be backed up because it is a network folder."
 msgstr "Bu jild tarmoq jildi boʻlgani uchun uni zaxiralash imkonsiz."
 
-#: app/ConfigFolderRow.vala:42
+#: app/ConfigFolderRow.vala:85
 msgid ""
 "This folder cannot be backed up because Backups does not have access to it."
 msgstr ""
 "Bu jildni zaxiralab boʻlmaydi, chunki zaxiralar unga kirish huquqiga ega "
 "emas."
+
+#: app/ConfigFolderRow.vala:91
+msgid "This folder does not exist."
+msgstr ""
 
 #. *** Basic entries ***
 #: app/ConfigLocationRow.vala:53 libdeja/BackendGoogle.vala:78
@@ -422,7 +433,7 @@ msgstr "Desktop seansingiz parollarni saqlashni quvvatlamaydi."
 msgid "Try closing any open file manager windows and trying again."
 msgstr "Ochiq fayl boshqaruvchisi oynalarini yopib, qaytadan urinib koʻring."
 
-#: app/SnapshotsPage.vala:153
+#: app/SnapshotsPage.vala:156
 msgid "Failed to Open Backup"
 msgstr "Zaxiralashni ochib boʻlmadi"
 
@@ -854,11 +865,11 @@ msgstr "Ushbu jildlar har doim eʻtiborsiz qoldiriladi:"
 msgid "Folders"
 msgstr "Jildlar"
 
-#: data/ui/ConfigFolderPage.blp:24
+#: data/ui/ConfigFolderPage.blp:27
 msgid "Re_set All Folders…"
 msgstr "Hamma jildlarni qayta tiklash…"
 
-#: data/ui/ConfigFolderRow.blp:36
+#: data/ui/ConfigFolderRow.blp:39
 msgid "Remove"
 msgstr "Oʻchirish"
 

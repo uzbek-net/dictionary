@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-02 03:35+0000\n"
+"POT-Creation-Date: 2026-04-10 11:54+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -2257,7 +2257,7 @@ msgstr "GNOME tarjima loyihasining %s tili uchun soʻnggi harakatlari"
 
 #: languages/models.py:30 stats/models.py:83 stats/models.py:313
 #: stats/models.py:735 stats/models.py:1191 stats/models.py:1309
-#: teams/models.py:67 vertimus/models.py:113 vertimus/models.py:561
+#: teams/models.py:67 vertimus/models.py:113 vertimus/models.py:574
 msgid "Name"
 msgstr "Ism"
 
@@ -2753,7 +2753,7 @@ msgid "Current activity"
 msgstr "Joriy faoliyat"
 
 #: people/templates/people/_includes/person_contribution_activity.html:38
-#: vertimus/admin.py:94 vertimus/models.py:550
+#: vertimus/admin.py:94 vertimus/models.py:563
 #: vertimus/templates/vertimus/activity_summary.html:39
 msgid "State"
 msgstr "Holat"
@@ -5120,21 +5120,13 @@ msgstr ""
 msgid "Unable to create GitLab issue."
 msgstr ""
 
-#: stats/views.py:77
-msgid ""
-"The return format type you indicated is not allowed. Allowed values are: "
-"html, json, xml."
-msgstr ""
-"Siz koʻrsatgan qaytarish formati turiga ruxsat berilmagan. Ruxsat berilgan "
-"qiymatlar: html, json, xml."
-
-#: stats/views.py:110
+#: stats/views.py:96
 msgid ""
 "You do not have the rights to edit this module. Module edition is restricted"
 " to people responsible for module maintenance."
 msgstr ""
 
-#: stats/views.py:130
+#: stats/views.py:116
 msgid ""
 "Module properties have been updated. If you modified branches, domain or "
 "repository for instance, you will have to trigger statistics refresh "
@@ -5228,7 +5220,7 @@ msgid "Coordinator"
 msgstr "Muvofiqlashtiruvchi"
 
 #: teams/models.py:182 vertimus/admin.py:61 vertimus/admin.py:103
-#: vertimus/models.py:109 vertimus/models.py:557
+#: vertimus/models.py:109 vertimus/models.py:570
 msgid "Person"
 msgstr "Shaxs"
 
@@ -6044,7 +6036,7 @@ msgstr "%(name)s (elektron pochta manzili yoʻq)"
 msgid "Action"
 msgstr "Amal"
 
-#: vertimus/forms.py:51 vertimus/models.py:563
+#: vertimus/forms.py:51 vertimus/models.py:576
 msgid "Comment"
 msgstr "Izoh"
 
@@ -6209,147 +6201,160 @@ msgstr "Repozitariyga yuboring"
 msgid "Reserve to submit"
 msgstr "Taqdim etish uchun zaxira"
 
-#: vertimus/models.py:484
+#. Translators: description of an action to perform in a vertimus flow
+#: vertimus/models.py:485
 msgid "Inform of submission"
 msgstr "Taqdim etish haqida ma'lumot"
 
-#: vertimus/models.py:485
+#: vertimus/models.py:486
 msgid "Request rework"
 msgstr ""
 
-#: vertimus/models.py:486
+#: vertimus/models.py:487
 msgid "Archive the actions"
 msgstr "Amallarni arxivlash"
 
-#: vertimus/models.py:487
+#: vertimus/models.py:488
 msgid "Undo the last state change"
 msgstr "Oxirgi holat oʻzgarishini bekor qiling"
 
-#: vertimus/models.py:493
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:495
 #, fuzzy
 #| msgid "Write a comment"
 msgid "Wrote a comment"
 msgstr "Izoh yozing"
 
-#: vertimus/models.py:494
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:497
 #, fuzzy
 #| msgid "Reserve for translation"
 msgid "Reserved for translation"
 msgstr "Tarjima uchun zaxira"
 
-#: vertimus/models.py:495
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:499
 #, fuzzy
 #| msgid "Upload the new translation"
 msgid "Uploaded a new translation"
 msgstr "Yangi tarjimani yuklang"
 
-#: vertimus/models.py:496
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:501
 #, fuzzy
 #| msgid "Reserve for proofreading"
 msgid "Reserved for proofreading"
 msgstr "Tekshirish uchun zaxira"
 
-#: vertimus/models.py:497
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:503
 #, fuzzy
 #| msgid "Upload the proofread translation"
 msgid "Uploaded the proofread translation"
 msgstr "Tekshirilgan tarjimani yuklang"
 
-#: vertimus/models.py:498
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:505
 #, fuzzy
 #| msgid "Ready for submission"
 msgid "Marked as ready for submission"
 msgstr "Taqdim etishga tayyor"
 
-#: vertimus/models.py:499
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:507
 #, fuzzy
 #| msgid "Submit to repository"
 msgid "Submitted to repository"
 msgstr "Repozitariyga yuboring"
 
-#: vertimus/models.py:500
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:509
 #, fuzzy
 #| msgid "Reserve to submit"
 msgid "Reserved to submit"
 msgstr "Taqdim etish uchun zaxira"
 
-#: vertimus/models.py:501
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:511
 #, fuzzy
 #| msgid "Inform of submission"
 msgid "Informed of submission"
 msgstr "Taqdim etish haqida ma'lumot"
 
-#: vertimus/models.py:502
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:513
 msgid "Requested rework"
 msgstr ""
 
-#: vertimus/models.py:503
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:515
 #, fuzzy
 #| msgid "Archive the actions"
 msgid "Archived the actions"
 msgstr "Amallarni arxivlash"
 
-#: vertimus/models.py:504
+#. Translators: description of a past action in a vertimus flow
+#: vertimus/models.py:517
 #, fuzzy
 #| msgid "Undo the last state change"
 msgid "Undid the last state change"
 msgstr "Oxirgi holat oʻzgarishini bekor qiling"
 
-#: vertimus/models.py:551
+#: vertimus/models.py:564
 msgid "The state of the module. This may not be changed manually."
 msgstr "Modul holati. Buni qoʻlda oʻzgartirib boʻlmaydi."
 
-#: vertimus/models.py:558
+#: vertimus/models.py:571
 msgid "The person who made the action."
 msgstr "Harakat qilgan shaxs."
 
-#: vertimus/models.py:562
+#: vertimus/models.py:575
 msgid "Created at"
 msgstr "Yaratilgan"
 
 #. Translators: ML means mailing list
-#: vertimus/models.py:566
+#: vertimus/models.py:579
 msgid "Notification to ML"
 msgstr "ML uchun bildirishnoma"
 
-#: vertimus/models.py:568
+#: vertimus/models.py:581
 msgid ""
 "Whether a notification to the mailing list of the language team has been "
 "sent."
 msgstr ""
 "Til jamoasining pochta roʻyxatiga bildirishnoma yuborilganmi yoki yoʻqmi."
 
-#: vertimus/models.py:571 vertimus/views.py:287 vertimus/views.py:331
-#: vertimus/views.py:337
+#: vertimus/models.py:584 vertimus/views.py:286 vertimus/views.py:330
+#: vertimus/views.py:336
 msgid "Uploaded file"
 msgstr "Yuklangan fayl"
 
-#: vertimus/models.py:575
+#: vertimus/models.py:588
 msgid "The file uploaded by the user."
 msgstr "Foydalanuvchi tomonidan yuklangan fayl."
 
-#: vertimus/models.py:582
+#: vertimus/models.py:595
 msgid "Merged file"
 msgstr "Birlashtirilgan fayl"
 
-#: vertimus/models.py:583
+#: vertimus/models.py:596
 msgid "The file merged with the new POT after the upload."
 msgstr "Yuklashdan keyin fayl yangi POT bilan birlashtirildi."
 
-#: vertimus/models.py:611 vertimus/templates/vertimus/vertimus_detail.html:274
+#: vertimus/models.py:624 vertimus/templates/vertimus/vertimus_detail.html:274
 msgid "deleted account"
 msgstr "oʻchirilgan hisob"
 
-#: vertimus/models.py:662
+#: vertimus/models.py:675
 msgid "File in repository"
 msgstr "Fayl omborida"
 
-#: vertimus/models.py:674
+#: vertimus/models.py:687
 #, python-format
 msgid "Uploaded file by %(name)s on %(date)s"
 msgstr "Fayl %(name)s tomonidan %(date)s kuni yuklangan"
 
-#: vertimus/models.py:683
+#: vertimus/models.py:696
 #, python-format
 msgid ""
 "The new state of %(module)s — %(branch)s — %(domain)s (%(language)s) is now "
@@ -6358,19 +6363,19 @@ msgstr ""
 "%(module)s — %(branch)s — %(domain)s (%(language)s) ning yangi holati endi "
 "“%(new_state)s”."
 
-#: vertimus/models.py:793
+#: vertimus/models.py:806
 #, python-format
 msgid ""
 "It is not possible to apply this action (%(action)s) on the current state: "
 "%(state)s."
 msgstr "Bu amalni (%(action)s) joriy holatda qoʻllash mumkin emas: %(state)s."
 
-#: vertimus/models.py:888
+#: vertimus/models.py:901
 #, python-format
 msgid "New action in module %(module)s:%(branch)s"
 msgstr ""
 
-#: vertimus/models.py:966
+#: vertimus/models.py:979
 #, python-format
 msgid ""
 "A new comment has been posted on %(module)s — %(branch)s — %(domain)s "
@@ -6379,7 +6384,7 @@ msgstr ""
 "%(module)s — %(branch)s — %(domain)s (%(language)s) da yangi izoh "
 "joylashtirildi."
 
-#: vertimus/models.py:1080
+#: vertimus/models.py:1093
 msgid ""
 "There is no action in this workflow with a PO file. It is impossible to "
 "submit anything, please upload a PO file first."
@@ -6387,19 +6392,19 @@ msgstr ""
 "Ushbu ish jarayonida PO fayli bilan hech qanday harakat yoʻq. Hech narsa "
 "yuborish mumkin emas, avval PO faylini yuklang."
 
-#: vertimus/models.py:1095
+#: vertimus/models.py:1108
 #, python-format
 msgid ""
 "The changes have been submitted as a merge request and are waiting for "
 "approval. You can check the current status at: %(mr_url)s."
 msgstr ""
 
-#: vertimus/models.py:1132
+#: vertimus/models.py:1145
 #, python-format
 msgid "Creating commits is impossible: %(error)s"
 msgstr "Majburiyat yaratish mumkin emas: %(error)s"
 
-#: vertimus/models.py:1139
+#: vertimus/models.py:1152
 msgid ""
 "The commit has been created with success, but an error occurred while "
 "refreshing the branch statistics. If you have enough rights, you can try to "
@@ -6409,7 +6414,7 @@ msgstr ""
 " xatolik yuz berdi. Agar sizda etarlicha huquqlar boʻlsa, statistikani "
 "qoʻlda yangilashga urinib koʻrishingiz yoki muammoni ochishingiz mumkin."
 
-#: vertimus/models.py:1163
+#: vertimus/models.py:1176
 #, python-format
 msgid ""
 "An error occurred while trying to synchronize branch “%(main_branch)s” with "
@@ -6421,7 +6426,7 @@ msgstr ""
 "sinxronlashda xatolik yuz berdi. Asl PO fayli baribir bajarilgan. Iltimos, "
 "xuddi shu PO faylni maqsadli filialga (%(main_branch)s) yuklang."
 
-#: vertimus/models.py:1174
+#: vertimus/models.py:1187
 #, python-format
 msgid ""
 "It is impossible to cherry-pick the commit “%(commit_hash)s” from "
@@ -6763,30 +6768,30 @@ msgstr ""
 " loyihaga qoʻshilishini istasangiz, uni toʻldirishingiz kerak. Shaxsingizni "
 "yangilash uchun %(user_link)s profilingizga %(user_link)s kiring."
 
-#: vertimus/views.py:284
+#: vertimus/views.py:283
 msgid ""
 "No file was found as the first operand of the comparison. It does not exist "
 "on disk."
 msgstr ""
 
-#: vertimus/views.py:292
+#: vertimus/views.py:291
 msgid ""
 "No file was found as the second operand of the comparison. It does not exist"
 " on disk."
 msgstr ""
 
-#: vertimus/views.py:312
+#: vertimus/views.py:311
 #, fuzzy, python-format
 #| msgid "<a href=\"%(url)s\">Uploaded file</a> by %(name)s on %(date)s"
 msgid "<a href=\"%(url)s\">%(label)s</a> by %(name)s on %(date)s"
 msgstr "<a href=\"%(url)s\">Fayl %(name)s tomonidan %(date)s kuni yuklangan</a>"
 
-#: vertimus/views.py:343
+#: vertimus/views.py:342
 #, python-format
 msgid "<a href=\"%(url)s\">Latest committed file</a> for %(lang)s"
 msgstr "%(lang)s uchun <a href=\"%(url)s\">oxirgi tasdiqlangan fayl</a>"
 
-#: vertimus/views.py:350
+#: vertimus/views.py:349
 #, fuzzy, python-format
 #| msgid "including <a href=\"%(img_url)s\">%(statistics)s image</a>"
 #| msgid_plural ""
@@ -6794,25 +6799,25 @@ msgstr "%(lang)s uchun <a href=\"%(url)s\">oxirgi tasdiqlangan fayl</a>"
 msgid "<a href=\"%(url)s\">%(text)s</a>"
 msgstr "jumladan, <a href=\"%(img_url)s\">%(statistics)s ta rasm</a>"
 
-#: vertimus/views.py:352
+#: vertimus/views.py:351
 msgid "Latest POT file"
 msgstr "Eng soʻnggi POT fayl"
 
-#: vertimus/views.py:444
+#: vertimus/views.py:443
 msgid "No po file to check"
 msgstr "Tekshirish uchun po fayli yoʻq"
 
-#: vertimus/views.py:451
+#: vertimus/views.py:450
 #, python-format
 msgid ""
 "Sorry, the server was not able to run the quality checks on this file (%s)"
 msgstr "Kechirasiz, server ushbu fayl (%s) sifatini tekshira olmadi."
 
-#: vertimus/views.py:461
+#: vertimus/views.py:460
 msgid "The po file looks good!"
 msgstr "Po fayli yaxshi koʻrinadi!"
 
-#: vertimus/views.py:488
+#: vertimus/views.py:487
 msgid ""
 "WARNING: This file is <b>NOT</b> suitable as a base for completing this "
 "translation. It contains HTML markup to highlight differential parts of "
@@ -6822,11 +6827,11 @@ msgstr ""
 "<b>EMAS</b> . U oʻzgartirilgan satrlarning differentsial qismlarini ajratib "
 "koʻrsatish uchun HTML belgilarini oʻz ichiga oladi."
 
-#: vertimus/views.py:585
+#: vertimus/views.py:584
 msgid "No target po file for this action"
 msgstr "Ushbu amal uchun maqsadli po fayli yoʻq"
 
-#: vertimus/views.py:596
+#: vertimus/views.py:595
 msgid ""
 "You are not allowed to build the documentation. Only team members can "
 "perform this operation."
@@ -6899,6 +6904,13 @@ msgstr ""
 
 #~ msgid "Save"
 #~ msgstr "Saqlash"
+
+#~ msgid ""
+#~ "The return format type you indicated is not allowed. Allowed values are: "
+#~ "html, json, xml."
+#~ msgstr ""
+#~ "Siz koʻrsatgan qaytarish formati turiga ruxsat berilmagan. Ruxsat berilgan "
+#~ "qiymatlar: html, json, xml."
 
 #~ msgid "Sorry, you’re not allowed to edit this module’s branches"
 #~ msgstr "Kechirasiz, sizda ushbu modul boʻlimlarini tahrirlash ruxsati yoʻq"

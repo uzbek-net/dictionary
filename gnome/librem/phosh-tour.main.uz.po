@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-tour main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-tour/-/issues\n"
-"POT-Creation-Date: 2026-03-26 18:34+0000\n"
+"POT-Creation-Date: 2026-04-05 16:39+0000\n"
 "PO-Revision-Date: 2025-04-04 22:11+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -104,11 +104,20 @@ msgstr "Chiqish"
 msgid "- A graphical tour introducing your device"
 msgstr "- Qurilmangiz bilan tanishtiruvchi grafik sayohat"
 
-#: src/pt-application.c:162
-msgid "About "
-msgstr "Qurilma haqida "
+#. Translators: '%s' is the brand of a device (e.g. Librem 5)
+#: src/pt-application.c:152
+#, c-format
+msgid "%s Tour"
+msgstr ""
 
-#: src/pt-application.c:163
+#. Translators: '%s' is the brand of a device (e.g. Librem 5)
+#: src/pt-application.c:154
+#, fuzzy, c-format
+#| msgid "_About Phosh Tour"
+msgid "About %s Tour"
+msgstr "_Posh sayohati haqida"
+
+#: src/pt-application.c:167
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
@@ -272,3 +281,6 @@ msgstr "_Klaviatura yorliqlari"
 #: src/ui/pt-window.ui:234
 msgid "_About Phosh Tour"
 msgstr "_Posh sayohati haqida"
+
+#~ msgid "About "
+#~ msgstr "Qurilma haqida "

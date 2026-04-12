@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: authenticator master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Authenticator/issues\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Authenticator\n"
 "POT-Creation-Date: 2026-02-27 21:52+0000\n"
 "PO-Revision-Date: 2025-10-06 18:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"

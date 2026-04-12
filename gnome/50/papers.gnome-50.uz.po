@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-03-14 07:44+0000\n"
+"POT-Creation-Date: 2026-04-10 11:58+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -485,7 +485,7 @@ msgstr[1] "Ilovalarni & saqlash"
 msgid "Page %s"
 msgstr "%s Sahifasi"
 
-#: libview/pps-annotation-window.c:239
+#: libview/pps-annotation-window.c:242
 #: shell/resources/pps-sidebar-annotations.blp:60
 #, fuzzy
 #| msgid "Note"
@@ -545,7 +545,7 @@ msgid "Your print range selection does not include any pages"
 msgstr "Chop qilish doirasi tarkibida sahifalar mavjud emas"
 
 #. show close if the certificate is null, or if no cert is found
-#: libview/pps-print-operation.c:1336 previewer/pps-previewer-window.blp:81
+#: libview/pps-print-operation.c:1336 previewer/pps-previewer-window.blp:83
 #: shell/resources/pps-document-view.blp:788
 #: shell/resources/pps-window.blp:138 shell/src/document_view/io.rs:567
 msgid "_Close"
@@ -622,51 +622,51 @@ msgstr "Agar belgilansa, betning chegarasi boʻylab rasm chiziladi."
 msgid "Page Handling"
 msgstr "Sahifalarni qayta ishlash"
 
-#: libview/pps-view.c:2119
+#: libview/pps-view.c:2143
 msgid "Go to first page"
 msgstr "Birinchi sahifaga oʻtish"
 
-#: libview/pps-view.c:2121
+#: libview/pps-view.c:2145
 msgid "Go to previous page"
 msgstr "Oldingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2123
+#: libview/pps-view.c:2147
 msgid "Go to next page"
 msgstr "Keyingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2125
+#: libview/pps-view.c:2149
 msgid "Go to last page"
 msgstr "Soʻngi sahifaga oʻtish"
 
-#: libview/pps-view.c:2127
+#: libview/pps-view.c:2151
 msgid "Go to page"
 msgstr "Sahifaga oʻtish"
 
-#: libview/pps-view.c:2129
+#: libview/pps-view.c:2153
 msgid "Find"
 msgstr "Indekslangan xususiyatlar topilmadi"
 
-#: libview/pps-view.c:2158
+#: libview/pps-view.c:2182
 #, c-format
 msgid "Go to page %s"
 msgstr "%s sahifaga oʻtish"
 
-#: libview/pps-view.c:2164
+#: libview/pps-view.c:2188
 #, c-format
 msgid "Go to %s on file “%s”"
 msgstr "\"%s\" faylidagi %s ga oʻtish"
 
-#: libview/pps-view.c:2167
+#: libview/pps-view.c:2191
 #, c-format
 msgid "Go to file “%s”"
 msgstr "\"%s\" faylga oʻtish"
 
-#: libview/pps-view.c:2175
+#: libview/pps-view.c:2199
 #, c-format
 msgid "Launch %s"
 msgstr "%s ishga tushirish"
 
-#: libview/pps-view.c:2182
+#: libview/pps-view.c:2206
 #, c-format
 msgid "Reset form"
 msgstr "Shaklni tiklash"
@@ -747,42 +747,42 @@ msgstr "Tanlangan printer \"%s\" topilmadi"
 msgid "Papers"
 msgstr "Qogʻozlar"
 
-#: previewer/pps-previewer-window.blp:19
+#: previewer/pps-previewer-window.blp:21
 msgid "Previous Page"
 msgstr "Oldingi sahifa"
 
-#: previewer/pps-previewer-window.blp:25
+#: previewer/pps-previewer-window.blp:27
 msgid "Next Page"
 msgstr "Keyingi sahifa"
 
-#: previewer/pps-previewer-window.blp:31
+#: previewer/pps-previewer-window.blp:33
 #: shell/resources/pps-document-view.blp:212
 msgid "Page Count"
 msgstr "Sahifalar soni"
 
-#: previewer/pps-previewer-window.blp:36
+#: previewer/pps-previewer-window.blp:38
 msgid "_Print"
 msgstr "_Chop etish"
 
-#: previewer/pps-previewer-window.blp:37
+#: previewer/pps-previewer-window.blp:39
 msgid "Print This Document"
 msgstr "Skanerlangan hujjatni chop etish"
 
-#: previewer/pps-previewer-window.blp:48
+#: previewer/pps-previewer-window.blp:50
 #: shell/resources/pps-document-view.blp:292
 msgid "Zoom Out"
 msgstr "Kichraytirish"
 
-#: previewer/pps-previewer-window.blp:55
+#: previewer/pps-previewer-window.blp:57
 msgid "Normal Size"
 msgstr "Oʻrtacha oʻlcham"
 
-#: previewer/pps-previewer-window.blp:62
+#: previewer/pps-previewer-window.blp:64
 #: shell/resources/pps-document-view.blp:279
 msgid "Zoom In"
 msgstr "Kattalashtirish"
 
-#: previewer/pps-previewer-window.blp:78 shell/src/document_view/print.rs:114
+#: previewer/pps-previewer-window.blp:80 shell/src/document_view/print.rs:114
 msgid "Failed to Print Document"
 msgstr "Hujjatni bosib chiqarish muvaffaqiyatsiz yakunlandi"
 
@@ -2102,7 +2102,7 @@ msgid ""
 msgstr "Ogohlantirish: ushbu hujjat \"%s\" faylini ochib boʻlmadi"
 
 #: shell/src/document_view/signals.rs:439 shell/src/page_selector.rs:89
-#: shell/src/sidebar_annotations_row.rs:82
+#: shell/src/sidebar_annotations_row.rs:83
 #, rust-format
 msgid "Page {}"
 msgstr "{}-sahifa"

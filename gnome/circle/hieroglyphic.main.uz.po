@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hieroglyphic main\n"
 "Report-Msgid-Bugs-To: https://github.com/FineFindus/Hieroglyphic/issues\n"
-"POT-Creation-Date: 2026-03-15 20:26+0000\n"
+"POT-Creation-Date: 2026-04-09 08:26+0000\n"
 "PO-Revision-Date: 2025-10-10 15:35+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -30,7 +30,9 @@ msgstr "Chizma orqali 1000 dan ortiq turli Latex belgilarini eskizlash"
 #. Translators: Search terms to find this application. Do NOT translate or
 #. localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.finefindus.Hieroglyphic.desktop.in.in:9
-msgid "GTK;Tools;LaTeX;TeX;Symbols;"
+#, fuzzy
+#| msgid "GTK;Tools;LaTeX;TeX;Symbols;"
+msgid "GTK;Tools;LaTeX;TeX;Symbols;Typst;Math;"
 msgstr "GTK;Asboblar;LaTeX;TeX;Belgilar;"
 
 #. Translators: nudge means here a gentle prompt, i.e. the colored dot on the

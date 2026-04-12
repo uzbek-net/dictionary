@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: LocalSearch main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/localsearch/-/issues\n"
-"POT-Creation-Date: 2026-02-25 08:49+0000\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/localsearch/issues/\n"
+"POT-Creation-Date: 2026-03-15 00:39+0000\n"
 "PO-Revision-Date: 2025-04-02 21:25+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -219,7 +219,7 @@ msgstr ""
 msgid "Erase the indexed data"
 msgstr ""
 
-#: src/cli/main.c:74 src/cli/tracker-search.c:418
+#: src/cli/main.c:74 src/cli/tracker-search.c:415
 msgid "Search for content"
 msgstr "Kontentni qidirish"
 
@@ -227,7 +227,7 @@ msgstr "Kontentni qidirish"
 msgid "Provide status and statistics on the data indexed"
 msgstr "Indekslangan ma'lumotlarning holati va statistikasini taqdim eting"
 
-#: src/cli/main.c:76 src/cli/tracker-tag.c:414
+#: src/cli/main.c:76 src/cli/tracker-tag.c:411
 msgid "Add, remove and list tags"
 msgstr "Teglarni qoʻshish, oʻchirish va roʻyxatga olish"
 
@@ -284,8 +284,8 @@ msgstr "Fayldan metama'lumotlarni ajratib oling"
 
 #: src/cli/tracker-extract.c:138 src/cli/tracker-index.c:387
 #: src/cli/tracker-info.c:540 src/cli/tracker-inhibit.c:113
-#: src/cli/tracker-reset.c:207 src/cli/tracker-search.c:431
-#: src/cli/tracker-status.c:732 src/cli/tracker-tag.c:419
+#: src/cli/tracker-reset.c:207 src/cli/tracker-search.c:428
+#: src/cli/tracker-status.c:732 src/cli/tracker-tag.c:416
 msgid "Unrecognized options"
 msgstr "Noma'lum variantlar"
 
@@ -355,7 +355,7 @@ msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 msgid "Removable device mount point to query"
 msgstr ""
 
-#: src/cli/tracker-info.c:357 src/cli/tracker-search.c:373
+#: src/cli/tracker-info.c:357 src/cli/tracker-search.c:370
 #: src/cli/tracker-status.c:158 src/cli/tracker-status.c:276
 #, fuzzy
 #| msgid "Could not establish a connection to Tracker"
@@ -587,7 +587,7 @@ msgstr "Tracker statistikasini olib boʻlmadi"
 msgid "Currently indexed"
 msgstr "Hozirda indekslangan"
 
-#: src/cli/tracker-status.c:437 src/cli/tracker-tag.c:180
+#: src/cli/tracker-status.c:437 src/cli/tracker-tag.c:179
 #, c-format
 msgid "%d file"
 msgid_plural "%d files"
@@ -684,53 +684,53 @@ msgstr "FILE…"
 msgid "Could not get files related to tag"
 msgstr "Teg bilan bogʻliq fayllarni olib boʻlmadi"
 
-#: src/cli/tracker-tag.c:151 src/cli/tracker-tag.c:335
+#: src/cli/tracker-tag.c:150 src/cli/tracker-tag.c:334
 msgid "Could not get all tags"
 msgstr "Barcha teglar olinmadi"
 
-#: src/cli/tracker-tag.c:156
+#: src/cli/tracker-tag.c:155
 msgid "Tags (shown by name)"
 msgstr "Teglar (nomi bilan koʻrsatilgan)"
 
-#: src/cli/tracker-tag.c:217
+#: src/cli/tracker-tag.c:216
 msgid "Could not add tag"
 msgstr "Teg qoʻshib boʻlmadi"
 
-#: src/cli/tracker-tag.c:222
+#: src/cli/tracker-tag.c:221
 msgid "Tag was added successfully"
 msgstr "Teg muvaffaqiyatli qoʻshildi"
 
-#: src/cli/tracker-tag.c:248
+#: src/cli/tracker-tag.c:247
 msgid "Could not add tag to files"
 msgstr "Fayllarga teg qoʻshib boʻlmadi"
 
-#: src/cli/tracker-tag.c:253
+#: src/cli/tracker-tag.c:252
 msgid "Tagged"
 msgstr "Belgilangan"
 
-#: src/cli/tracker-tag.c:278 src/cli/tracker-tag.c:306
+#: src/cli/tracker-tag.c:277 src/cli/tracker-tag.c:305
 msgid "Could not remove tag"
 msgstr "Tegni olib tashlab boʻlmadi"
 
-#: src/cli/tracker-tag.c:283 src/cli/tracker-tag.c:311
+#: src/cli/tracker-tag.c:282 src/cli/tracker-tag.c:310
 msgid "Tag was removed successfully"
 msgstr "Teg muvaffaqiyatli olib tashlandi"
 
-#: src/cli/tracker-tag.c:360
+#: src/cli/tracker-tag.c:357
 #, fuzzy
 #| msgid "Could not establish a connection to Tracker"
 msgid "Could not establish a connection to LocalSearch"
 msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
-#: src/cli/tracker-tag.c:424
+#: src/cli/tracker-tag.c:421
 msgid "The --list option is required for --show-files"
 msgstr "--list opsiyasi --show-files uchun talab qilinadi"
 
-#: src/cli/tracker-tag.c:426
+#: src/cli/tracker-tag.c:423
 msgid "Add and delete actions can not be used together"
 msgstr "Qoʻshish va oʻchirish amallarini birgalikda ishlatib boʻlmaydi"
 
-#: src/cli/tracker-tag.c:428
+#: src/cli/tracker-tag.c:425
 msgid "The --description option can only be used with --add"
 msgstr "--description opsiyasi faqat --add bilan ishlatilishi mumkin"
 
@@ -859,27 +859,27 @@ msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 msgid "Avoids changes in the filesystem"
 msgstr "Fayl tizimidagi oʻzgarishlarni oldini oladi"
 
-#: src/indexer/tracker-application.c:1262
+#: src/indexer/tracker-application.c:1268
 #, c-format
 msgid "Data object “%s” currently exists"
 msgstr "“%s” maʼlumotlar obyekti hozirda mavjud"
 
-#: src/indexer/tracker-application.c:1263
+#: src/indexer/tracker-application.c:1269
 #, c-format
 msgid "Data object “%s” currently does not exist"
 msgstr "“%s” maʼlumotlar obyekti hozirda mavjud emas"
 
-#: src/indexer/tracker-application.c:1289
+#: src/indexer/tracker-application.c:1295
 #, c-format
 msgid "Parent directory “%s” is NOT eligible to be indexed (based on filters)"
 msgstr "“%s” asosiy katalogini indekslash MUMKIN EMAS (filtrlar asosida)"
 
-#: src/indexer/tracker-application.c:1295
+#: src/indexer/tracker-application.c:1301
 #, c-format
 msgid "Parent directory “%s” is NOT eligible to be indexed (hidden file)"
 msgstr "“%s” ota-katalogini indekslash MUMKIN EMAS (yashirin fayl)"
 
-#: src/indexer/tracker-application.c:1301
+#: src/indexer/tracker-application.c:1307
 #, c-format
 msgid ""
 "Parent directory “%s” is NOT eligible to be indexed (based on content "
@@ -887,27 +887,27 @@ msgid ""
 msgstr ""
 "“%s” ota-katalogini indekslash MUMKIN EMAS (kontent filtrlari asosida)"
 
-#: src/indexer/tracker-application.c:1316
+#: src/indexer/tracker-application.c:1322
 msgid "Directory is NOT eligible to be indexed (based on filters)"
 msgstr "Katalogni indekslash mumkin EMAS (filtrlar asosida)"
 
-#: src/indexer/tracker-application.c:1320
+#: src/indexer/tracker-application.c:1326
 msgid "File is NOT eligible to be indexed (based on filters)"
 msgstr "Faylni indekslash mumkin EMAS (filtrlar asosida)"
 
-#: src/indexer/tracker-application.c:1323
+#: src/indexer/tracker-application.c:1329
 msgid "File is NOT eligible to be indexed (hidden file)"
 msgstr "Fayl indekslanishi mumkin EMAS (yashirin fayl)"
 
-#: src/indexer/tracker-application.c:1325
+#: src/indexer/tracker-application.c:1331
 msgid "File is NOT eligible to be indexed (not an indexed folder)"
 msgstr "Fayl indekslanishi mumkin EMAS (indekslangan jild emas)"
 
-#: src/indexer/tracker-application.c:1333
+#: src/indexer/tracker-application.c:1339
 msgid "Directory is eligible to be indexed"
 msgstr "Katalog indekslanishi mumkin"
 
-#: src/indexer/tracker-application.c:1334
+#: src/indexer/tracker-application.c:1340
 msgid "File is eligible to be indexed"
 msgstr "Fayl indekslanishi mumkin"
 

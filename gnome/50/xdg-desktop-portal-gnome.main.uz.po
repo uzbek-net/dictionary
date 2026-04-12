@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xdg-desktop-portal-gnome main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome/issues/\n"
-"POT-Creation-Date: 2026-02-06 20:54+0000\n"
+"POT-Creation-Date: 2026-04-09 12:31+0000\n"
 "PO-Revision-Date: 2025-03-27 18:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -212,12 +212,12 @@ msgstr "Ekranni ulashish"
 msgid "Virtual Monitor"
 msgstr "Virtual monitor"
 
-#: src/screencastwidget.c:636
+#: src/screencastwidget.c:632
 #, c-format
 msgid "%s wants to share your screen. Choose what you'd like to share."
 msgstr "%s ekraningizni ulashmoqchi. Nimani baham koʻrishni tanlang."
 
-#: src/screencastwidget.c:641
+#: src/screencastwidget.c:637
 msgid "An app wants to share your screen. Choose what you'd like to share."
 msgstr "Ilova ekraningizni ulashmoqchi. Nimani baham koʻrishni tanlang."
 
@@ -233,12 +233,12 @@ msgstr "_Oyna"
 msgid "_Display"
 msgstr "_Displey"
 
-#: src/screenshotdialog.c:432
+#: src/screenshotdialog.c:431
 #, c-format
 msgid "Share this screenshot with %s?"
 msgstr "Bu skrinshotni %s bilan ulashasizmi?"
 
-#: src/screenshotdialog.c:436
+#: src/screenshotdialog.c:435
 msgid "Share this screenshot with the requesting app?"
 msgstr "Bu skrinshotni soʻrayotgan ilova bilan ulashasizmi?"
 

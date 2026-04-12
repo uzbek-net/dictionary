@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TinySPARQL main\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/tinysparql/-/issues\n"
-"POT-Creation-Date: 2025-06-19 12:48+0000\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/tinysparql/issues/\n"
+"POT-Creation-Date: 2026-03-17 13:27+0000\n"
 "PO-Revision-Date: 2025-04-02 21:31+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -116,24 +116,24 @@ msgstr "DBus nomiga ega boʻlmadi"
 msgid "DBus name lost"
 msgstr "DBus nomi yoʻqolgan"
 
-#: src/cli/tracker-endpoint.c:608 src/cli/tracker-export.c:214
-#: src/cli/tracker-import.c:196 src/cli/tracker-introspect.c:1025
-#: src/cli/tracker-query.c:486 src/cli/tracker-sql.c:239
+#: src/cli/tracker-endpoint.c:609 src/cli/tracker-export.c:219
+#: src/cli/tracker-import.c:201 src/cli/tracker-introspect.c:1030
+#: src/cli/tracker-query.c:490 src/cli/tracker-sql.c:247
 #: src/cli/tracker-webide.c:122 src/portal/tracker-main.c:108
 msgid "Unrecognized options"
 msgstr "Noma'lum variantlar"
 
-#: src/cli/tracker-endpoint.c:652
+#: src/cli/tracker-endpoint.c:655
 #, c-format
 msgid "Opening database at %s…"
 msgstr "Maʼlumotlar bazasi ochilmoqda: %s…"
 
-#: src/cli/tracker-endpoint.c:655
+#: src/cli/tracker-endpoint.c:658
 #, c-format
 msgid "Creating in-memory database"
 msgstr "Xotirada ma'lumotlar bazasini yaratish"
 
-#: src/cli/tracker-endpoint.c:683
+#: src/cli/tracker-endpoint.c:688
 #, c-format
 msgid ""
 "New database created. Use the “--dbus-service” option to share this database"
@@ -190,8 +190,8 @@ msgid "IRI"
 msgstr "IRI"
 
 #. TRANSLATORS: Those are commandline arguments
-#: src/cli/tracker-export.c:92 src/cli/tracker-import.c:88
-#: src/cli/tracker-introspect.c:164 src/cli/tracker-query.c:105
+#: src/cli/tracker-export.c:95 src/cli/tracker-import.c:91
+#: src/cli/tracker-introspect.c:167 src/cli/tracker-query.c:108
 #, c-format
 msgid ""
 "Specify one “--database”, “--dbus-service” or “--remote-service” option"
@@ -199,18 +199,18 @@ msgstr ""
 "Bitta “—database”, “--dbus-service” yoki “--remote-service” opsiyalarini "
 "belgilang"
 
-#: src/cli/tracker-export.c:116 src/cli/tracker-export.c:137
-#: src/cli/tracker-import.c:125 src/cli/tracker-introspect.c:829
-#: src/cli/tracker-query.c:345
+#: src/cli/tracker-export.c:121 src/cli/tracker-export.c:142
+#: src/cli/tracker-import.c:130 src/cli/tracker-introspect.c:834
+#: src/cli/tracker-query.c:350
 msgid "No error given"
 msgstr "Xato berilmagan"
 
-#: src/cli/tracker-export.c:136 src/cli/tracker-import.c:124
-#: src/cli/tracker-introspect.c:828 src/cli/tracker-query.c:344
+#: src/cli/tracker-export.c:141 src/cli/tracker-import.c:129
+#: src/cli/tracker-introspect.c:833 src/cli/tracker-query.c:349
 msgid "Could not establish a connection to Tracker"
 msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
-#: src/cli/tracker-export.c:179
+#: src/cli/tracker-export.c:184
 #, c-format
 msgid "Unsupported serialization format “%s”\n"
 msgstr "“%s” seriyali formati qoʻllab-quvvatlanmaydi\n"
@@ -219,7 +219,7 @@ msgstr "“%s” seriyali formati qoʻllab-quvvatlanmaydi\n"
 msgid "Read TriG format which includes named graph information"
 msgstr "Grafik ma'lumotlarini oʻz ichiga olgan TriG formatini oʻqing"
 
-#: src/cli/tracker-import.c:103 src/cli/tracker-import.c:141
+#: src/cli/tracker-import.c:108 src/cli/tracker-import.c:146
 msgid "Could not run import"
 msgstr "Importni amalga oshirib boʻlmadi"
 
@@ -276,68 +276,68 @@ msgstr ""
 msgid "CLASS/PROPERTY"
 msgstr "KLASS/MULK"
 
-#: src/cli/tracker-introspect.c:716
+#: src/cli/tracker-introspect.c:721
 msgid "Could not create tree: subclass query failed"
 msgstr "Daraxt yaratib boʻlmadi: pastki sinf soʻrovi bajarilmadi"
 
-#: src/cli/tracker-introspect.c:765
+#: src/cli/tracker-introspect.c:770
 msgid "Could not create tree: class properties query failed"
 msgstr "Daraxt yaratib boʻlmadi: sinf xususiyatlari soʻrovi amalga oshmadi"
 
-#: src/cli/tracker-introspect.c:848
+#: src/cli/tracker-introspect.c:853
 msgid "Could not search classes"
 msgstr "Sinflarni qidirib boʻlmadi"
 
-#: src/cli/tracker-introspect.c:856 src/cli/tracker-introspect.c:940
+#: src/cli/tracker-introspect.c:861 src/cli/tracker-introspect.c:945
 msgid "Classes"
 msgstr "Sinflar"
 
-#: src/cli/tracker-introspect.c:868
+#: src/cli/tracker-introspect.c:873
 msgid "Could not search properties"
 msgstr "Xususiyatlarni qidirib boʻlmadi"
 
-#: src/cli/tracker-introspect.c:876 src/cli/tracker-introspect.c:910
+#: src/cli/tracker-introspect.c:881 src/cli/tracker-introspect.c:915
 #, fuzzy
 msgid "Properties"
 msgstr "Xususiyatlari"
 
-#: src/cli/tracker-introspect.c:902
+#: src/cli/tracker-introspect.c:907
 msgid "Could not list properties"
 msgstr "Xususiyatlarni roʻyxatga kiritib boʻlmadi"
 
-#: src/cli/tracker-introspect.c:918
+#: src/cli/tracker-introspect.c:923
 msgid "Namespaces"
 msgstr "Nom maydonlari"
 
-#: src/cli/tracker-introspect.c:932
+#: src/cli/tracker-introspect.c:937
 msgid "Could not list classes"
 msgstr "Sinflar roʻyxatini kiritib boʻlmadi"
 
-#: src/cli/tracker-introspect.c:952
+#: src/cli/tracker-introspect.c:957
 msgid "Could not find notify classes"
 msgstr "Xabar berish sinflari topilmadi"
 
-#: src/cli/tracker-introspect.c:960
+#: src/cli/tracker-introspect.c:965
 msgid "Notifies"
 msgstr "Xabar beradi"
 
-#: src/cli/tracker-introspect.c:972
+#: src/cli/tracker-introspect.c:977
 msgid "Could not find indexed properties"
 msgstr "Indekslangan xususiyatlar topilmadi"
 
-#: src/cli/tracker-introspect.c:980
+#: src/cli/tracker-introspect.c:985
 msgid "Indexes"
 msgstr "Indekslar"
 
-#: src/cli/tracker-introspect.c:992
+#: src/cli/tracker-introspect.c:997
 msgid "Could not list named graphs"
 msgstr "Nomlangan grafiklarni roʻyxatga kiritib boʻlmadi"
 
-#: src/cli/tracker-introspect.c:1000
+#: src/cli/tracker-introspect.c:1005
 msgid "Named graphs"
 msgstr "Nomlangan grafikalar"
 
-#: src/cli/tracker-introspect.c:1034
+#: src/cli/tracker-introspect.c:1039
 msgid ""
 "The --list-properties argument can only be empty when used with the --tree "
 "argument"
@@ -418,51 +418,51 @@ msgstr "PARAMETER:TYPE:VALUE"
 #. * search results found. We use a "foo: None"
 #. * with multiple print statements, where "foo"
 #. * may be Music or Images, etc.
-#: src/cli/tracker-query.c:214 src/cli/tracker-query.c:262
+#: src/cli/tracker-query.c:219 src/cli/tracker-query.c:267
 msgid "None"
 msgstr "Hech biri"
 
-#: src/cli/tracker-query.c:282
+#: src/cli/tracker-query.c:287
 #, c-format
 msgid "Invalid argument string %s"
 msgstr "Argument qatori yaroqsiz %s"
 
-#: src/cli/tracker-query.c:292
+#: src/cli/tracker-query.c:297
 #, c-format
 msgid "Invalid parameter type for argument %s"
 msgstr "%s argumenti uchun parametr turi yaroqsiz"
 
-#: src/cli/tracker-query.c:360
+#: src/cli/tracker-query.c:365
 msgid "Could not get UTF-8 path from path"
 msgstr "Yoʻldan UTF-8 yoʻlini olib boʻlmadi"
 
-#: src/cli/tracker-query.c:372 src/cli/tracker-sql.c:75
+#: src/cli/tracker-query.c:376 src/cli/tracker-sql.c:75
 msgid "Could not read file"
 msgstr "Faylni oʻqib boʻlmadi"
 
-#: src/cli/tracker-query.c:403
+#: src/cli/tracker-query.c:407
 msgid "Could not run update"
 msgstr "Yangilashni ishga tushirib boʻlmadi"
 
-#: src/cli/tracker-query.c:410
+#: src/cli/tracker-query.c:414
 msgid "Done"
 msgstr "Bajarildi"
 
-#: src/cli/tracker-query.c:428 src/cli/tracker-sql.c:131
-#: src/cli/tracker-sql.c:164
+#: src/cli/tracker-query.c:433 src/cli/tracker-sql.c:134
+#: src/cli/tracker-sql.c:169
 msgid "Could not run query"
 msgstr "Soʻrovni bajarib boʻlmadi"
 
-#: src/cli/tracker-query.c:437 src/cli/tracker-query.c:439
+#: src/cli/tracker-query.c:442 src/cli/tracker-query.c:444
 msgid "No results found matching your query"
 msgstr "Soʻrovingizga mos keladigan natija topilmadi"
 
-#: src/cli/tracker-query.c:437 src/cli/tracker-query.c:439
-#: src/cli/tracker-sql.c:138
+#: src/cli/tracker-query.c:442 src/cli/tracker-query.c:444
+#: src/cli/tracker-sql.c:141
 msgid "Results"
 msgstr "Natijalar"
 
-#: src/cli/tracker-query.c:498 src/cli/tracker-sql.c:250
+#: src/cli/tracker-query.c:502 src/cli/tracker-sql.c:258
 msgid "File and query can not be used together"
 msgstr "Fayl va soʻrovni birgalikda ishlatib boʻlmaydi"
 
@@ -478,15 +478,15 @@ msgstr "SQL soʻrovi"
 msgid "SQL"
 msgstr "SQL"
 
-#: src/cli/tracker-sql.c:108
+#: src/cli/tracker-sql.c:109
 msgid "Failed to initialize data manager"
 msgstr "Maʼlumotlar menejerini ishga tushirib boʻlmadi"
 
-#: src/cli/tracker-sql.c:172
+#: src/cli/tracker-sql.c:177
 msgid "Empty result set"
 msgstr "Boʻsh natijalar toʻplami"
 
-#: src/cli/tracker-sql.c:248
+#: src/cli/tracker-sql.c:256
 msgid "A database path must be specified"
 msgstr "Ma'lumotlar bazasi yoʻli koʻrsatilishi kerak"
 
