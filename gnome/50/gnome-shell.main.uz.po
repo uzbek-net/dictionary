@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-04-10 20:38+0000\n"
+"POT-Creation-Date: 2026-04-17 14:40+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -95,7 +95,7 @@ msgid "Open new window of pinned app 9"
 msgstr "Qattiqlangan ilovaning yangi oynasini oching 9"
 
 #. Translators: name of the folder under ~/Pictures for screenshots.
-#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2296
+#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2334
 msgid "Screenshots"
 msgstr "Skrinshotlar"
 
@@ -1217,21 +1217,21 @@ msgstr "Rad etish"
 msgid "Allow"
 msgstr "Ruxsat bering"
 
-#: js/ui/appDisplay.js:1733
+#: js/ui/appDisplay.js:1734
 msgid "Unnamed Folder"
 msgstr "Nomsiz jild"
 
-#: js/ui/appFavorites.js:89
+#: js/ui/appFavorites.js:104
 #, javascript-format
 msgid "%s has been pinned to the dash."
 msgstr "%s chiziqchaga mahkamlangan."
 
-#: js/ui/appFavorites.js:120
+#: js/ui/appFavorites.js:135
 #, javascript-format
 msgid "%s has been unpinned from the dash."
 msgstr "%s chiziqchadan olib tashlandi."
 
-#: js/ui/appFavorites.js:134 js/ui/main.js:304
+#: js/ui/appFavorites.js:149 js/ui/main.js:304
 msgid "Undo"
 msgstr "Oldingi buyruqni bekor qilish"
 
@@ -1252,7 +1252,7 @@ msgstr "Ilova tafsilotlari"
 msgid "Quit"
 msgstr "Chiqish"
 
-#: js/ui/appMenu.js:160 js/ui/dash.js:245
+#: js/ui/appMenu.js:160 js/ui/dash.js:244
 msgid "Unpin"
 msgstr "Yechish"
 
@@ -1558,13 +1558,13 @@ msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 msgid "Windows"
 msgstr "Windows"
 
-#: js/ui/dash.js:201 js/ui/dash.js:247
+#: js/ui/dash.js:200 js/ui/dash.js:246
 msgid "Show Apps"
 msgstr "Ilovalarni koʻrsatish"
 
 #. Translators: this is the name of the dock/favorites area on
 #. the bottom of the overview
-#: js/ui/dash.js:405
+#: js/ui/dash.js:400
 msgid "Dash"
 msgstr "Dash"
 
@@ -2089,118 +2089,118 @@ msgstr "GNOME ekranni qulflashi kerak"
 msgid "Screen Capture"
 msgstr "Ekranni yozib olish"
 
-#: js/ui/screenshot.js:1267
+#: js/ui/screenshot.js:1305
 msgid "Selection"
 msgstr "Tanlash rejimi"
 
-#: js/ui/screenshot.js:1277
+#: js/ui/screenshot.js:1315
 msgid "Area Selection"
 msgstr "Hududni tanlash"
 
-#: js/ui/screenshot.js:1282
+#: js/ui/screenshot.js:1320
 msgid "Screen"
 msgstr "Ekran"
 
-#: js/ui/screenshot.js:1292
+#: js/ui/screenshot.js:1330
 msgid "Screen Selection"
 msgstr "Ekranni tanlash"
 
-#: js/ui/screenshot.js:1297
+#: js/ui/screenshot.js:1335
 msgid "Window"
 msgstr "Oyna"
 
-#: js/ui/screenshot.js:1307
+#: js/ui/screenshot.js:1345
 msgid "Window Selection"
 msgstr "Oyna tanlash"
 
-#: js/ui/screenshot.js:1332 js/ui/status/system.js:118
+#: js/ui/screenshot.js:1370 js/ui/status/system.js:118
 msgid "Take Screenshot"
 msgstr "Skrinshot oling"
 
-#: js/ui/screenshot.js:1348
+#: js/ui/screenshot.js:1386
 msgid "Record Screen"
 msgstr "Yozib olish ekrani"
 
 #. Translators: since this string refers to an action,
 #. it needs to be phrased as a verb.
-#: js/ui/screenshot.js:1365
+#: js/ui/screenshot.js:1403
 msgid "Capture"
 msgstr "Qoʻlga olish"
 
-#: js/ui/screenshot.js:1387
+#: js/ui/screenshot.js:1425
 msgid "Show Pointer"
 msgstr "Pointerni koʻrsatish"
 
 #. Translators: this is the folder where recorded
 #. screencasts are stored.
-#: js/ui/screenshot.js:2020
+#: js/ui/screenshot.js:2058
 msgid "Screencasts"
 msgstr "Ekran tasvirlari"
 
 #. Translators: this is a filename used for screencast
 #. * recording, where "%d" and "%t" date and time, e.g.
 #. * "Screencast From 07-17-2013 10:00:46 PM"
-#: js/ui/screenshot.js:2025
+#: js/ui/screenshot.js:2063
 #, no-c-format
 msgid "Screencast From %d %t"
 msgstr "Skrinshot: %d %t"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2071
+#: js/ui/screenshot.js:2109
 msgid "Screencast recorded"
 msgstr "Skrinshot yozib olingan"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2084
+#: js/ui/screenshot.js:2122
 msgid "Screencast failed to start"
 msgstr "Skrinshot boshlanmadi"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2090
+#: js/ui/screenshot.js:2128
 msgid "Screencast ended: Out of disk space"
 msgstr "Skrinshot tugadi: Diskda joy qolmadi"
 
 #. We can encourage user to try again on service crashes since the
 #. recorder will auto-blocklist the pipeline that crashed.
 #. Translators: notification title.
-#: js/ui/screenshot.js:2096
+#: js/ui/screenshot.js:2134
 msgid "Screencast ended unexpectedly, please try again"
 msgstr "Skrinshot kutilmaganda tugadi, qayta urinib koʻring"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2099
+#: js/ui/screenshot.js:2137
 msgid "Screencast ended unexpectedly"
 msgstr "Skrinshot kutilmaganda tugadi"
 
 #. Translators: notification body when a screencast was recorded.
-#: js/ui/screenshot.js:2112
+#: js/ui/screenshot.js:2150
 msgid "Click here to view the video"
 msgstr "Videoni koʻrish uchun bu yerga bosing"
 
 #. Translators: button on the screencast notification.
 #. Translators: button on the screenshot notification.
-#: js/ui/screenshot.js:2120 js/ui/screenshot.js:2363
+#: js/ui/screenshot.js:2158 js/ui/screenshot.js:2401
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 
 #. Translators: this is the name of the file that the screenshot is
 #. saved to. The placeholder is a timestamp, e.g. "2017-05-21 12-24-03".
-#: js/ui/screenshot.js:2309
+#: js/ui/screenshot.js:2347
 #, javascript-format
 msgid "Screenshot From %s"
 msgstr "Skrinshot: %s"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2353
+#: js/ui/screenshot.js:2391
 msgid "Screenshot captured"
 msgstr "Skrinshot olindi"
 
 #. Translators: notification body when a screenshot was captured.
-#: js/ui/screenshot.js:2355
+#: js/ui/screenshot.js:2393
 msgid "You can paste the image from the clipboard"
 msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 
-#: js/ui/screenshot.js:2413 js/ui/screenshot.js:2575
+#: js/ui/screenshot.js:2451 js/ui/screenshot.js:2613
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
@@ -2949,7 +2949,7 @@ msgctxt "program"
 msgid "Unknown"
 msgstr "Noma'lum"
 
-#: src/shell-app.c:517
+#: src/shell-app.c:516
 #, c-format
 msgid "Failed to launch “%s”"
 msgstr "“%s” ishga tushmadi"
@@ -2971,7 +2971,7 @@ msgstr "Autentifikatsiya dialogi foydalanuvchi tomonidan oʻchirildi"
 msgid "Icon '%s' not present in theme %s"
 msgstr "“%s” belgisi %s mavzusida mavjud emas"
 
-#: src/st/st-icon-theme.c:3450 src/st/st-icon-theme.c:3753
+#: src/st/st-icon-theme.c:3450 src/st/st-icon-theme.c:3754
 msgid "Failed to load icon"
 msgstr "Belgini yuklab boʻlmadi"
 
@@ -2993,15 +2993,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:64
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:65
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:68
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:69
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:72
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:73
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 

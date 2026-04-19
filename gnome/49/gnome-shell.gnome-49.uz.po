@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-03-14 18:24+0000\n"
+"POT-Creation-Date: 2026-04-14 15:00+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -1165,11 +1165,11 @@ msgstr "%-d-%B, %l:%M %p"
 msgid "%B %-d %Y, %l:%M %p"
 msgstr "%-d-%B %Y, %H:%M %p"
 
-#: js/portalHelper/main.js:98
+#: js/portalHelper/main.js:104
 msgid "Your connection seems to be secure"
 msgstr "Ulanishingiz xavfsiz koʻrinadi"
 
-#: js/portalHelper/main.js:104
+#: js/portalHelper/main.js:110
 msgid ""
 "Your connection to this hotspot login is not secure. Passwords or other "
 "information you enter on this page can be viewed by people nearby."
@@ -1177,7 +1177,7 @@ msgstr ""
 "Ushbu hotspot ulanishingiz xavfsiz emas. Ushbu sahifaga kiritgan parollar "
 "yoki boshqa maʼlumotlarni yaqin atrofdagi odamlar koʻrishi mumkin."
 
-#: js/portalHelper/main.js:115
+#: js/portalHelper/main.js:121
 msgid "Hotspot Login"
 msgstr "Hotspotga kirish"
 
@@ -1191,7 +1191,7 @@ msgstr "Rad etish"
 msgid "Allow"
 msgstr "Ruxsat bering"
 
-#: js/ui/appDisplay.js:1736
+#: js/ui/appDisplay.js:1737
 msgid "Unnamed Folder"
 msgstr "Nomsiz jild"
 
@@ -1878,7 +1878,7 @@ msgstr "Oʻchirib qoʻyish"
 msgid "Leave Off"
 msgstr "Oʻchirish"
 
-#: js/ui/keyboard.js:179 js/ui/status/keyboard.js:906
+#: js/ui/keyboard.js:179 js/ui/status/keyboard.js:905
 msgid "Keyboard Settings"
 msgstr "Klaviatura sozlamalari"
 
@@ -2389,7 +2389,7 @@ msgstr "Past"
 msgid "High"
 msgstr "Yuqori"
 
-#: js/ui/status/backlight.js:162 js/ui/status/keyboard.js:888
+#: js/ui/status/backlight.js:162 js/ui/status/keyboard.js:887
 msgid "Keyboard"
 msgstr "Klaviatura"
 
@@ -2472,7 +2472,7 @@ msgstr "Ikkilamchi bosing"
 msgid "Dwell Click"
 msgstr "Dwell bosing"
 
-#: js/ui/status/keyboard.js:905
+#: js/ui/status/keyboard.js:904
 msgid "Show Keyboard Layout"
 msgstr "Klaviatura tartibini koʻrsatish"
 
@@ -2942,21 +2942,21 @@ msgstr "Mumkin rejimlarni sanab oʻting"
 msgid "Force animations to be enabled"
 msgstr "Animatsiyalarni yoqish uchun majburlash"
 
-#: src/shell-app.c:267
+#: src/shell-app.c:266
 msgctxt "program"
 msgid "Unknown"
 msgstr "Noma'lum"
 
-#: src/shell-app.c:518
+#: src/shell-app.c:517
 #, c-format
 msgid "Failed to launch “%s”"
 msgstr "“%s” ishga tushmadi"
 
-#: src/shell-keyring-prompt.c:779
+#: src/shell-keyring-prompt.c:776
 msgid "Passwords do not match"
 msgstr "Parollar mos kelmaydi"
 
-#: src/shell-keyring-prompt.c:787
+#: src/shell-keyring-prompt.c:784
 msgid "Password cannot be blank"
 msgstr "Parol boʻsh boʻlishi mumkin emas"
 
@@ -2991,15 +2991,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:74
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:75
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:78
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:79
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:82
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:83
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 

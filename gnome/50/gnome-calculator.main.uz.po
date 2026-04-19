@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-calculator gnome-49\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-calculator/issues\n"
-"POT-Creation-Date: 2026-03-29 16:41+0000\n"
+"POT-Creation-Date: 2026-04-17 15:16+0000\n"
 "PO-Revision-Date: 2026-01-15 16:45+0500\n"
 "Last-Translator: Baxrom Raxmatov <>\n"
 "Language-Team: Uzbek (Latin) <support@floss.uz>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: data/org.gnome.Calculator.desktop.in:2
 #: data/org.gnome.Calculator.metainfo.xml.in:7 src/gnome-calculator.vala:76
-#: src/gnome-calculator.vala:284 src/ui/math-window.blp:118
+#: src/gnome-calculator.vala:306 src/ui/math-window.blp:118
 msgid "Calculator"
 msgstr "Kalkulyator"
 
@@ -118,7 +118,7 @@ msgid "Conversion Mode"
 msgstr "Aylantirish rejimi"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Calculator.metainfo.xml.in:84 src/gnome-calculator.vala:286
+#: data/org.gnome.Calculator.metainfo.xml.in:84 src/gnome-calculator.vala:308
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -594,7 +594,7 @@ msgstr "ga"
 msgid "Function “%s” is missing arguments"
 msgstr "“%s” funksiyasida argumentlar yetishmayapti"
 
-#: lib/equation-parser.vala:765 lib/number.vala:586
+#: lib/equation-parser.vala:765 lib/number.vala:588
 msgid "The zeroth root of a number is undefined"
 msgstr "Sonning nol darajali ildizi aniqlanmagan"
 
@@ -1019,70 +1019,70 @@ msgid "Overflow error"
 msgstr "Toʻlib ketish xatosi"
 
 #. Translators: Error display when attempting to take argument of zero
-#: lib/number.vala:390
+#: lib/number.vala:392
 msgid "Argument not defined for zero"
 msgstr "Nol uchun argument aniqlanmagan"
 
-#: lib/number.vala:460
+#: lib/number.vala:462
 msgid "Floor is only defined for real numbers"
 msgstr "Pastga yaxlitlash faqat haqiqiy sonlar uchun aniqlangan"
 
-#: lib/number.vala:475
+#: lib/number.vala:477
 msgid "Ceiling is only defined for real numbers"
 msgstr "Yuqoriga yaxlitlash faqat haqiqiy sonlar uchun aniqlangan"
 
-#: lib/number.vala:490
+#: lib/number.vala:492
 msgid "Round is only defined for real numbers"
 msgstr "Yaxlitlash faqat haqiqiy sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when attempted to raise 0 to a negative
 #. re_exponent
-#: lib/number.vala:524 lib/number.vala:554
+#: lib/number.vala:526 lib/number.vala:556
 msgid "The power of zero is undefined for a negative exponent"
 msgstr "Manfiy daraja uchun nolning darajasi aniqlanmagan"
 
 #. Translators: Error displayed when attempted to raise 0 to power of zero
-#: lib/number.vala:532 lib/number.vala:562
+#: lib/number.vala:534 lib/number.vala:564
 msgid "Zero raised to zero is undefined"
 msgstr "Nolning nol darajasi aniqlanmagan"
 
 #. Translators: Error displayed when attempting to take logarithm of zero
-#: lib/number.vala:616 lib/number.vala:647
+#: lib/number.vala:618 lib/number.vala:649
 msgid "Logarithm of zero is undefined"
 msgstr "Nolning logarifmi aniqlanmagan"
 
-#: lib/number.vala:652
+#: lib/number.vala:654
 msgid "Logarithm with base 0 or 1 is undefined"
 msgstr "Asosi 0 yoki 1 boʻlgan logarifm aniqlanmagan"
 
 #. TODO: Support factorial of complex numbers
-#: lib/number.vala:670
+#: lib/number.vala:672
 msgid "Factorial of complex numbers is not supported"
 msgstr ""
 
 #. Translators: Error displayed when attempted take the factorial of a
 #. negative integer
-#: lib/number.vala:677
+#: lib/number.vala:679
 #, fuzzy
 #| msgid "Factorial is only defined for non-negative real numbers"
 msgid "Factorial is undefined for negative integers"
 msgstr "Faktorial faqat manfiy boʻlmagan haqiqiy sonlar uchun aniqlangan"
 
 #. Translators: Error displayed attempted to divide by zero
-#: lib/number.vala:728
+#: lib/number.vala:730
 msgid "Division by zero is undefined"
 msgstr "Nolga boʻlish aniqlanmagan"
 
 #. Translators: Error displayed when attempting to do a modulus division on
 #. complex numbers
-#: lib/number.vala:749
+#: lib/number.vala:751
 #, fuzzy
 #| msgid "Modulus division is only defined for integers"
 msgid "Modulus division is only defined for real numbers"
 msgstr "Modulyar boʻlish faqat butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when tangent value is undefined
-#: lib/number.vala:829
+#: lib/number.vala:831
 msgid ""
 "Tangent is undefined for angles that are multiples of π (180°) from π∕2 "
 "(90°)"
@@ -1091,31 +1091,31 @@ msgstr ""
 "aniqlanmagan"
 
 #. Translators: Error displayed when inverse sine value is undefined
-#: lib/number.vala:848
+#: lib/number.vala:850
 msgid "Inverse sine is undefined for values outside [-1, 1]"
 msgstr "Arksinus [-1, 1] oraliqdan tashqaridagi qiymatlar uchun aniqlanmagan"
 
 #. Translators: Error displayed when inverse cosine value is undefined
-#: lib/number.vala:865
+#: lib/number.vala:867
 msgid "Inverse cosine is undefined for values outside [-1, 1]"
 msgstr ""
 "Arkkosinus [-1, 1] oraliqdan tashqaridagi qiymatlar uchun aniqlanmagan"
 
 #. Translators: Error displayed when trying to calculate undefined atan(i) or
 #. atan (-i)
-#: lib/number.vala:883
+#: lib/number.vala:885
 msgid "Inverse tangent is undefined for values i and -i"
 msgstr "Arktangens qiymatlar i va -i uchun aniqlanmagan"
 
 #. Translators: Error displayed when inverse hyperbolic cosine value is
 #. undefined
-#: lib/number.vala:934
+#: lib/number.vala:936
 msgid "Inverse hyperbolic cosine is undefined for values less than one"
 msgstr "Giperbolik arkkosinus 1 dan kichik qiymatlar uchun aniqlanmagan"
 
 #. Translators: Error displayed when inverse hyperbolic tangent value is
 #. undefined
-#: lib/number.vala:950
+#: lib/number.vala:952
 msgid "Inverse hyperbolic tangent is undefined for values outside [-1, 1]"
 msgstr ""
 "Giperbolik arktangens [-1, 1] oraliqdan tashqaridagi qiymatlar uchun "
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #. Translators: Error displayed when bitwise AND attempted on non-integer
 #. values
-#: lib/number.vala:965
+#: lib/number.vala:967
 #, fuzzy
 #| msgid "Boolean AND is only defined for non-negative integers"
 msgid "Bitwise AND is only defined for non-negative integers"
@@ -1131,7 +1131,7 @@ msgstr "Mantiqiy AND faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bitwise NAND attempted on non-integer
 #. values
-#: lib/number.vala:978
+#: lib/number.vala:980
 #, fuzzy
 #| msgid "Boolean NAND is only defined for non-negative integers"
 msgid "Bitwise NAND is only defined for non-negative integers"
@@ -1139,7 +1139,7 @@ msgstr "Mantiqiy NAND faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bitwise OR attempted on non-integer
 #. values
-#: lib/number.vala:991
+#: lib/number.vala:993
 #, fuzzy
 #| msgid "Boolean OR is only defined for non-negative integers"
 msgid "Bitwise OR is only defined for non-negative integers"
@@ -1147,7 +1147,7 @@ msgstr "Mantiqiy OR faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bitwise NOR attempted on non-integer
 #. values
-#: lib/number.vala:1004
+#: lib/number.vala:1006
 #, fuzzy
 #| msgid "Boolean NOR is only defined for non-negative integers"
 msgid "Bitwise NOR is only defined for non-negative integers"
@@ -1155,7 +1155,7 @@ msgstr "Mantiqiy NOR faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bitwise XOR attempted on non-integer
 #. values
-#: lib/number.vala:1017
+#: lib/number.vala:1019
 #, fuzzy
 #| msgid "Boolean XOR is only defined for non-negative integers"
 msgid "Bitwise XOR is only defined for non-negative integers"
@@ -1163,7 +1163,7 @@ msgstr "Mantiqiy XOR faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bitwise XNOR attempted on non-integer
 #. values
-#: lib/number.vala:1030
+#: lib/number.vala:1032
 #, fuzzy
 #| msgid "Boolean XNOR is only defined for non-negative integers"
 msgid "Bitwise XNOR is only defined for non-negative integers"
@@ -1171,63 +1171,63 @@ msgstr "Mantiqiy XNOR faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bitwise NOT attempted on non-integer
 #. values
-#: lib/number.vala:1043
+#: lib/number.vala:1045
 #, fuzzy
 #| msgid "Boolean NOT is only defined for non-negative integers"
 msgid "Bitwise NOT is only defined for non-negative integers"
 msgstr "Mantiqiy NOT faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
 #. Translators: Error displayed when bit shift attempted on non-integer values
-#: lib/number.vala:1105
+#: lib/number.vala:1107
 msgid "Shift is only possible on integers"
 msgstr "Siljitish faqat butun sonlarda amalga oshiriladi"
 
-#: lib/number.vala:1110 lib/number.vala:1138 lib/number.vala:1584
+#: lib/number.vala:1112 lib/number.vala:1140 lib/number.vala:1586
 msgid "Overflow. Try a bigger word size"
 msgstr "Toʻlib ketish. Kattaroq soʻz hajmini sinab koʻring"
 
-#: lib/number.vala:1121
+#: lib/number.vala:1123
 msgid "Two’s complement is only defined for non-negative integers"
 msgstr ""
 "Ikkilik toʻldiruvchisi faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
-#: lib/number.vala:1133
+#: lib/number.vala:1135
 msgid "Swap endianness is only possible on integers"
 msgstr "Bayt tartibini almashtirish faqat butun sonlarda mumkin"
 
-#: lib/number.vala:1161
+#: lib/number.vala:1163
 msgid "Combination is only defined for non-negative integers"
 msgstr "Kombinatsiya faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
-#: lib/number.vala:1166
+#: lib/number.vala:1168
 msgid "Combination is undefined if n is less than r"
 msgstr "Agar n r dan kichik boʻlsa, kombinatsiya aniqlanmagan"
 
-#: lib/number.vala:1179
+#: lib/number.vala:1181
 msgid "Permutation is only defined for non-negative integers"
 msgstr "Permutatsiya faqat manfiy boʻlmagan butun sonlar uchun aniqlangan"
 
-#: lib/number.vala:1184
+#: lib/number.vala:1186
 msgid "Permutation is undefined if n is less than r"
 msgstr "Agar n r dan kichik boʻlsa, permutatsiya aniqlanmagan"
 
-#: lib/number.vala:1205
+#: lib/number.vala:1207
 msgid "Greatest common divisor is only defined for integers"
 msgstr "Eng katta umumiy boʻluvchi faqat butun sonlar uchun aniqlangan"
 
-#: lib/number.vala:1225
+#: lib/number.vala:1227
 msgid "Least common multiple is only defined for integers"
 msgstr "Eng kichik umumiy koʻpaytuvchi faqat butun sonlar uchun aniqlangan"
 
-#: lib/number.vala:1282
+#: lib/number.vala:1284
 msgid "Median is only defined for real numbers"
 msgstr "Median faqat haqiqiy sonlar uchun aniqlangan"
 
-#: lib/number.vala:1302
+#: lib/number.vala:1304
 msgid "Minimum value is only defined for real numbers"
 msgstr "Minimal qiymat faqat haqiqiy sonlar uchun aniqlangan"
 
-#: lib/number.vala:1319
+#: lib/number.vala:1321
 msgid "Maximum value is only defined for real numbers"
 msgstr "Maksimal qiymat faqat haqiqiy sonlar uchun aniqlangan"
 
@@ -2538,36 +2538,36 @@ msgid "Show release version"
 msgstr "Chiqarish versiyasini koʻrsatish"
 
 #. Application Copyrights for the calculator authors
-#: src/gnome-calculator.vala:291
+#: src/gnome-calculator.vala:313
 #, c-format
 msgid "© 1986–%d The Calculator authors"
 msgstr "© 1986–%d Kalkulator mualliflari"
 
 #. The translator credits. Please translate this with your name (s).
-#: src/gnome-calculator.vala:297
+#: src/gnome-calculator.vala:319
 msgid "translator-credits"
 msgstr ""
 "bemeritus <bemerituss@gmail.com>\n"
 "Baxrom Raxmatov"
 
-#: src/gnome-calculator.vala:301
+#: src/gnome-calculator.vala:323
 msgid "Exchange Rate Data Providers"
 msgstr "Valyuta kursi ma'lumotlari provayderlari"
 
-#: src/gnome-calculator.vala:301
+#: src/gnome-calculator.vala:323
 #, c-format
 msgid "Exchange rates data by %s"
 msgstr "Valyuta kurslari ma'lumoti %s tomonidan"
 
-#: src/gnome-calculator.vala:309
+#: src/gnome-calculator.vala:331
 msgid "Close All?"
 msgstr "Hammasini yopish?"
 
-#: src/gnome-calculator.vala:309
+#: src/gnome-calculator.vala:331
 msgid "Are you sure you want to close all open windows?"
 msgstr "Barcha ochilgan oynalarni yopishni istaysizmi?"
 
-#: src/gnome-calculator.vala:310 src/ui/buttons-financial.blp:897
+#: src/gnome-calculator.vala:332 src/ui/buttons-financial.blp:897
 #: src/ui/buttons-financial.blp:953 src/ui/buttons-financial.blp:1009
 #: src/ui/buttons-financial.blp:1065 src/ui/buttons-financial.blp:1115
 #: src/ui/buttons-financial.blp:1171 src/ui/buttons-financial.blp:1227
@@ -2576,7 +2576,7 @@ msgstr "Barcha ochilgan oynalarni yopishni istaysizmi?"
 msgid "_Cancel"
 msgstr "Bekor qilish"
 
-#: src/gnome-calculator.vala:311
+#: src/gnome-calculator.vala:333
 msgid "Close _All"
 msgstr "Hammasini yopish"
 

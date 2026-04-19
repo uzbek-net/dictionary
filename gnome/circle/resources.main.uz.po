@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
 "Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
-"POT-Creation-Date: 2026-04-02 08:44+0000\n"
+"POT-Creation-Date: 2026-04-15 21:06+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -967,7 +967,8 @@ msgstr ""
 #: src/ui/pages/processes/mod.rs:1500 src/ui/pages/processes/mod.rs:2050
 #: src/ui/pages/processes/mod.rs:2052 src/utils/battery.rs:152
 #: src/utils/drive.rs:137 src/utils/gpu/mod.rs:279 src/utils/gpu/mod.rs:291
-#: src/utils/link/mod.rs:61 src/utils/npu/mod.rs:263 src/utils/npu/mod.rs:269
+#: src/utils/link/mod.rs:61 src/utils/link/wifi.rs:171
+#: src/utils/npu/mod.rs:263 src/utils/npu/mod.rs:269
 msgid "N/A"
 msgstr "M/E"
 
@@ -1999,6 +2000,17 @@ msgstr "{} ZFS ovoz"
 #, rust-format
 msgid "{} Drive"
 msgstr "{} Disk"
+
+#: src/utils/link/wifi.rs:158
+#, fuzzy, rust-format
+#| msgid "Receiving"
+msgid "Receive: {}"
+msgstr "Qabul qilish"
+
+#: src/utils/link/wifi.rs:159
+#, rust-format
+msgid "Send: {}"
+msgstr ""
 
 #: src/utils/network.rs:131
 msgid "Bluetooth Tether"
