@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2026-04-14 22:35+0000\n"
+"POT-Creation-Date: 2026-04-24 23:25+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -1680,7 +1680,7 @@ msgstr "Hech qanday zaxira fayllari topilmadi"
 msgid "Uploading…"
 msgstr "Yuklanmoqda…"
 
-#: libdeja/duplicity/DuplicityJob.vala:1539
+#: libdeja/duplicity/DuplicityJob.vala:1544
 msgid "could not restore test file"
 msgstr "sinov faylini qayta tiklab boʻlmadi"
 

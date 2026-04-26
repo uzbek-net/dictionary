@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
-"POT-Creation-Date: 2026-04-07 15:51+0000\n"
+"POT-Creation-Date: 2026-04-25 10:28+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -18,27 +18,23 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 
 #: data/gnome-initial-setup.desktop.in.in:2
-#: gnome-initial-setup/gis-driver.c:869
+#: gnome-initial-setup/gis-driver.c:864
 msgid "Initial Setup"
 msgstr "Dastlabki sozlash"
 
-#: gnome-initial-setup/gis-assistant.c:401
+#: gnome-initial-setup/gis-assistant.c:391
 msgid "_Next"
 msgstr "_Keyingisi"
 
-#: gnome-initial-setup/gis-assistant.c:402
-msgid "_Accept"
-msgstr "_Qabul qilmoq"
-
-#: gnome-initial-setup/gis-assistant.c:403
+#: gnome-initial-setup/gis-assistant.c:392
 msgid "_Skip"
 msgstr "_Oʻtkazib yuborish"
 
-#: gnome-initial-setup/gis-assistant.c:404
+#: gnome-initial-setup/gis-assistant.c:393
 msgid "_Previous"
 msgstr "_Oldingi"
 
-#: gnome-initial-setup/gis-assistant.c:405
+#: gnome-initial-setup/gis-assistant.c:394
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:254
 msgid "_Cancel"
 msgstr "_Bekor qilish"
@@ -215,26 +211,26 @@ msgstr "Parol notoʻgʻri, qayta urinib koʻring"
 msgid "Couldn’t connect to the %s domain: %s"
 msgstr "%s domeniga ulanib boʻlmadi: %s"
 
-#: gnome-initial-setup/pages/account/um-utils.c:153
+#: gnome-initial-setup/pages/account/um-utils.c:163
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr ""
 "Kechirasiz, bu foydalanuvchi nomi mavjud emas. Iltimos, boshqasini sinab "
 "koʻring."
 
-#: gnome-initial-setup/pages/account/um-utils.c:156
+#: gnome-initial-setup/pages/account/um-utils.c:166
 #, c-format
 msgid "The username is too long."
 msgstr "Foydalanuvchi nomi juda uzun."
 
-#: gnome-initial-setup/pages/account/um-utils.c:159
+#: gnome-initial-setup/pages/account/um-utils.c:169
 msgid "The username must start with a lower case letter from a-z."
 msgstr "Foydalanuvchi nomi a-z dan kichik harf bilan boshlanishi kerak."
 
-#: gnome-initial-setup/pages/account/um-utils.c:162
+#: gnome-initial-setup/pages/account/um-utils.c:172
 msgid "That username isn’t available. Please try another."
 msgstr "Bu foydalanuvchi nomi mavjud emas. Iltimos, boshqasini sinab koʻring."
 
-#: gnome-initial-setup/pages/account/um-utils.c:165
+#: gnome-initial-setup/pages/account/um-utils.c:175
 msgid ""
 "The username should only consist of lower case letters from a-z, digits, and"
 " the following characters: - _"
@@ -242,7 +238,7 @@ msgstr ""
 "Foydalanuvchi nomi faqat a-z gacha boʻlgan kichik harflar, raqamlar va "
 "quyidagi belgilardan iborat boʻlishi kerak: - _"
 
-#: gnome-initial-setup/pages/account/um-utils.c:169
+#: gnome-initial-setup/pages/account/um-utils.c:179
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr ""
 "Bu sizning uy jildingizni nomlash uchun ishlatiladi va uni oʻzgartirib "
@@ -280,7 +276,7 @@ msgstr "Klaviatura va kiritish usullarini qidirish"
 msgid "No languages found"
 msgstr "Hech qanday til topilmadi"
 
-#: gnome-initial-setup/pages/language/gis-language-page.c:268
+#: gnome-initial-setup/pages/language/gis-language-page.c:274
 #: gnome-initial-setup/pages/language/gis-language-page.ui:14
 msgid "Welcome"
 msgstr "Xush kelibsiz"
@@ -292,7 +288,7 @@ msgstr ""
 #. Translators: This is meant to be a warm, engaging welcome message,
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
-#: gnome-initial-setup/pages/language/gis-welcome-widget.c:132
+#: gnome-initial-setup/pages/language/gis-welcome-widget.c:131
 msgid "Welcome!"
 msgstr "Xush kelibsiz!"
 
@@ -689,8 +685,8 @@ msgstr "Shaharlarni qidirish"
 #. * 'London, United Kingdom'
 #. * You shouldn't need to translate this string unless the language has a
 #. different comma.
-#: gnome-initial-setup/pages/timezone/gis-location-entry.c:578
-#: gnome-initial-setup/pages/timezone/gis-location-entry.c:603
+#: gnome-initial-setup/pages/timezone/gis-location-entry.c:575
+#: gnome-initial-setup/pages/timezone/gis-location-entry.c:600
 #, c-format
 msgid "%s, %s"
 msgstr "%s, %s"
@@ -730,7 +726,7 @@ msgstr "%s (%s)"
 msgid "Current timezone: %s at %s; current time: %s"
 msgstr ""
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:505
+#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:504
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:16
 msgid "Time Zone"
 msgstr "Vaqt zonasi"
@@ -811,3 +807,6 @@ msgstr "${NAME} sinab koʻring"
 #, sh-format
 msgid "Install ${PRETTY_NAME}"
 msgstr "${PRETTY_NAME} oʻrnatish"
+
+#~ msgid "_Accept"
+#~ msgstr "_Qabul qilmoq"

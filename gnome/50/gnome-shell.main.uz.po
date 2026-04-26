@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-04-17 14:40+0000\n"
+"POT-Creation-Date: 2026-04-25 13:08+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -1443,16 +1443,16 @@ msgid "The installed udisks version does not support the PIM setting"
 msgstr "Oʻrnatilgan udisks versiyasi PIM sozlamalarini qoʻllab-quvvatlamaydi"
 
 #. Translators: %s is the name of a partition on a external drive
-#: js/ui/components/autorunManager.js:189
+#: js/ui/components/autorunManager.js:190
 #, javascript-format
 msgid "“%s” connected"
 msgstr "“%s” ulandi"
 
-#: js/ui/components/autorunManager.js:190
+#: js/ui/components/autorunManager.js:191
 msgid "Disk can now be used"
 msgstr "Endi diskdan foydalanish mumkin"
 
-#: js/ui/components/autorunManager.js:202
+#: js/ui/components/autorunManager.js:203
 #, javascript-format
 msgid "Open with %s"
 msgstr "%s bilan ochish"
@@ -1774,13 +1774,13 @@ msgid "Boot Options"
 msgstr "Yuklash parametrlari"
 
 #. Translators: Remote here refers to a remote session, like a ssh login
-#: js/ui/endSessionDialog.js:635
+#: js/ui/endSessionDialog.js:637
 #, javascript-format
 msgid "%s (remote)"
 msgstr "%s (masofaviy)"
 
 #. Translators: Console here refers to a tty like a VT console
-#: js/ui/endSessionDialog.js:638
+#: js/ui/endSessionDialog.js:640
 #, javascript-format
 msgid "%s (console)"
 msgstr "%s (konsol)"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
 "POT-Creation-Date: 2026-01-16 12:46+0000\n"
-"PO-Revision-Date: 2025-04-04 21:19+0500\n"
+"PO-Revision-Date: 2026-01-22 18:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
 "Language: uz\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 
 #: data/metainfo/org.gnome.Software.metainfo.xml.in:7 src/gs-shell.ui:35
 #: src/org.gnome.Software.desktop.in:2
@@ -1255,7 +1255,9 @@ msgstr "Mualliflik huquqi © 2016–2023 GNOME dasturiy ta'minot mualliflari"
 
 #: src/gs-application.c:278
 msgid "translator-credits"
-msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
+msgstr ""
+"Baxrom Raxmatov <magdiyevbahrom@gmail.com>\n"
+"Muhammad Gʻaniyev"
 
 #. TRANSLATORS: we tried to show an app that did not exist
 #: src/gs-application.c:517
@@ -2072,16 +2074,17 @@ msgid "Use the %s Service"
 msgstr "Tizim xizmatlaridan foydalanadi"
 
 #: src/gs-common.c:1542
+#, fuzzy
 msgid "Can see the non-portal service"
-msgstr ""
+msgstr "Portalga tegishli boʻlmagan xizmatni koʻrishi mumkin"
 
 #: src/gs-common.c:1544
 msgid "Can talk to the non-portal service"
-msgstr ""
+msgstr "No-portal xizmat bilan gaplasha oladi"
 
 #: src/gs-common.c:1546
 msgid "Can own the non-portal service"
-msgstr ""
+msgstr "No-portal xizmatga egalik qilishi mumkin"
 
 #: lib/gs-desktop-data.c:16
 msgctxt "Menu of Graphics & Photography"
@@ -2396,7 +2399,7 @@ msgstr "Mahalliylashtirish"
 #. Translators: this is a menu category
 #: lib/gs-desktop-data.c:285
 msgid "Create"
-msgstr "Яратиш"
+msgstr "Yaratish"
 
 #. Translators: this is a menu category
 #: lib/gs-desktop-data.c:287
@@ -2700,8 +2703,9 @@ msgstr "“%s” uchun sharhni yuborib boʻlmadi: %s"
 
 #. display a toast to the user
 #: src/gs-details-page.c:2449
+#, fuzzy
 msgid "Review submitted successfully"
-msgstr ""
+msgstr "Sharh muvaffaqiyatli yuborildi"
 
 #: src/gs-details-page.ui:7
 msgid "Details page"
@@ -2803,8 +2807,9 @@ msgid "_Donate"
 msgstr "_Xayriya qiling"
 
 #: src/gs-details-page.ui:956
+#, fuzzy
 msgid "Contribute _Translations"
-msgstr ""
+msgstr "_Tarjimalarga hissa qoʻshish"
 
 #: src/gs-details-page.ui:972
 msgid "_Report an Issue"
@@ -3641,8 +3646,11 @@ msgstr "Ishga kirishish"
 
 #. TRANSLATORS: only run app as non-root user
 #: src/gs-main.c:39
+#, fuzzy
 msgid "Software should be run as a non-root user. Exiting…"
 msgstr ""
+"Dastur root boʻlmagan (oddiy) foydalanuvchi nomidan ishga tushirilishi "
+"kerak. Chiqilmoqda..."
 
 #: src/gs-origin-popover-row.c:105
 msgid "Unknown source"
@@ -6578,46 +6586,46 @@ msgstr ""
 
 #. Translators: the '%s' is replaced with the key ID, usually a few hex digits
 #: plugins/packagekit/gs-packagekit-task.c:224
-#, c-format
+#, fuzzy, c-format
 msgid "Do you want to import key %s?"
-msgstr ""
+msgstr "%s kalitini import qilishni xohlaysizmi?"
 
 #. Translators: the '%s' is replaced with the key ID, usually a few hex digits
 #: plugins/packagekit/gs-packagekit-task.c:231
-#, c-format
+#, fuzzy, c-format
 msgid "Key %s"
-msgstr ""
+msgstr "%s kaliti"
 
 #. Translators: the '%s' is replaced with the key user name
 #: plugins/packagekit/gs-packagekit-task.c:245
-#, c-format
+#, fuzzy, c-format
 msgid "Key user: %s"
-msgstr ""
+msgstr "\"Asosiy foydalanuvchi: %s"
 
 #. Translators: the '%s' is replaced with the key fingerprint, a few hex
 #. digits
 #: plugins/packagekit/gs-packagekit-task.c:247
 #, c-format
 msgid "Fingerprint: %s"
-msgstr ""
+msgstr "Barmoq izi: %s"
 
 #. Translators: the '%s' is replaced with the local path or a URI to the key
 #: plugins/packagekit/gs-packagekit-task.c:249
-#, c-format
+#, fuzzy, c-format
 msgid "From: %s"
-msgstr ""
+msgstr "Manba: %s"
 
 #: plugins/packagekit/gs-packagekit-task.c:255
 msgid "Import Key"
-msgstr ""
+msgstr "Kalitni import qilish"
 
 #: plugins/packagekit/gs-packagekit-task.c:256
 msgid "Do you want to import keys?"
-msgstr ""
+msgstr "Kalitlarni kiritishni istaysizmi?"
 
 #: plugins/packagekit/gs-packagekit-task.c:258
 msgid "_Import Key"
-msgstr ""
+msgstr "_Import qilish"
 
 #: plugins/packagekit/gs-plugin-packagekit.c:1464
 msgid "Failed to install updates: "

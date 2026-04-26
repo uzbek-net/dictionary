@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-04-13 20:15+0000\n"
+"POT-Creation-Date: 2026-04-22 20:19+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1518,45 +1518,45 @@ msgstr "Turizm"
 msgid "Other"
 msgstr "Boshqa"
 
-#: src/osmTypes.js:210
+#: src/osmTypes.js:234
 msgid "Funicular station"
 msgstr ""
 
-#: src/osmTypes.js:212
+#: src/osmTypes.js:236
 msgid "Light rail stop"
 msgstr ""
 
-#: src/osmTypes.js:214
+#: src/osmTypes.js:238
 #, fuzzy
 #| msgid "More Information"
 msgid "Monorail station"
 msgstr "Koʻproq ma'lumot"
 
-#: src/osmTypes.js:216 src/osmTypes.js:226
+#: src/osmTypes.js:240 src/osmTypes.js:250
 #, fuzzy
 #| msgid "Railway"
 msgid "Railway station"
 msgstr "Temiryoʻl"
 
-#: src/osmTypes.js:218
+#: src/osmTypes.js:242
 #, fuzzy
 #| msgid "Train & Subway Stations"
 msgid "Subway station"
 msgstr "Poezd & Metro stansiyalari"
 
-#: src/osmTypes.js:222
+#: src/osmTypes.js:246
 #, fuzzy
 #| msgid "Railway"
 msgid "Railway halt"
 msgstr "Temiryoʻl"
 
-#: src/osmTypes.js:224
+#: src/osmTypes.js:248
 #, fuzzy
 #| msgid "_Trams"
 msgid "Tram stop"
 msgstr "_Tramvaylar"
 
-#: src/osmTypes.js:233 src/osmTypes.js:242
+#: src/osmTypes.js:257 src/osmTypes.js:266
 #, fuzzy
 #| msgid "Transportation"
 msgid "Public transportation stop"
