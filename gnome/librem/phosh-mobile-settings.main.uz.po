@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-04-05 06:51+0000\n"
+"POT-Creation-Date: 2026-04-30 11:20+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -24,7 +24,9 @@ msgstr "Mobil sozlamalar"
 #. Translators: Search terms to find this application. Do NOT translate or
 #. localize the semicolons. The list MUST also end with a semicolon.
 #: data/mobi.phosh.MobileSettings.desktop.in:12
-msgid "Mobile;Preferences;MobileSettings;"
+#, fuzzy
+#| msgid "Mobile;Preferences;MobileSettings;"
+msgid "Mobile;Preferences;MobileSettings;Tweaks;"
 msgstr "Mobil;Sozlamalar;Mobil sozlamalari;"
 
 #: data/mobi.phosh.MobileSettings.metainfo.xml.in:4
@@ -128,7 +130,8 @@ msgstr "Bekor qilish"
 msgid "Add"
 msgstr "Qoʻshish"
 
-#: libpms/ms-osk-add-layout-dialog.ui:40
+#: libpms/ms-osk-add-layout-dialog.ui:40 src/ui/ms-window.ui:316
+#: src/ui/ms-window.ui:324
 msgid "Language"
 msgstr "Til"
 
@@ -158,6 +161,130 @@ msgstr "Pastga siljiting"
 #: libpms/ms-osk-layout-row.ui:49
 msgid "Remove"
 msgstr "Oʻchirish"
+
+#: libpms/lang/ms-common-language.c:312
+msgid "Other…"
+msgstr ""
+
+#: libpms/lang/ms-language-chooser.ui:4
+#, fuzzy
+#| msgid "Language"
+msgid "Select Language"
+msgstr "Til"
+
+#: libpms/lang/ms-language-chooser.ui:15 src/ms-overview-panel.c:71
+#, fuzzy
+#| msgid "Cancel"
+msgid "_Cancel"
+msgstr "Bekor qilish"
+
+#: libpms/lang/ms-language-chooser.ui:23
+msgid "_Select"
+msgstr ""
+
+#: libpms/lang/ms-language-chooser.ui:44
+msgid "Language or country"
+msgstr ""
+
+#: libpms/lang/ms-language-chooser.ui:68
+#, fuzzy
+#| msgid "No Sensors found"
+msgid "No languages found"
+msgstr "Sensor topilmadi"
+
+#: libpms/lang/ms-language-chooser.ui:79
+#, fuzzy
+#| msgid "More options…"
+msgid "More…"
+msgstr "Boshqa variantlar…"
+
+#: libpms/lang/ms-util.c:130
+msgid "Today"
+msgstr ""
+
+#: libpms/lang/ms-util.c:134
+msgid "Yesterday"
+msgstr ""
+
+#. Translators: This is a date format string in the style of "Feb 24".
+#: libpms/lang/ms-util.c:142
+#, no-c-format
+msgid "%b %e"
+msgstr ""
+
+#. Translators: This is a date format string in the style of "Feb 24, 2013".
+#: libpms/lang/ms-util.c:147
+msgid "%b %e, %Y"
+msgstr ""
+
+#. TRANSLATORS: This is the datetime format in the style of
+#. "Aug 1, 10:10:10 PM", "Feb 24, 2013, 10:10:10 PM", "Today, 10:10:10 AM",
+#. and "Yesterday, 10:10:10 AM"
+#: libpms/lang/ms-util.c:166
+#, c-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: libpms/lang/ms-util.c:186
+#, c-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libpms/lang/ms-util.c:187
+#, c-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libpms/lang/ms-util.c:188
+#, c-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 5 hours 2 minutes 12 seconds
+#: libpms/lang/ms-util.c:195
+#, c-format
+msgctxt "hours minutes seconds"
+msgid "%s %s %s"
+msgstr ""
+
+#. 5 hours 2 minutes
+#: libpms/lang/ms-util.c:200
+#, c-format
+msgctxt "hours minutes"
+msgid "%s %s"
+msgstr ""
+
+#. 5 hours
+#: libpms/lang/ms-util.c:205
+#, c-format
+msgctxt "hours"
+msgid "%s"
+msgstr ""
+
+#. 2 minutes 12 seconds
+#: libpms/lang/ms-util.c:213
+#, c-format
+msgctxt "minutes seconds"
+msgid "%s %s"
+msgstr ""
+
+#. 2 minutes
+#: libpms/lang/ms-util.c:218
+#, c-format
+msgctxt "minutes"
+msgid "%s"
+msgstr ""
+
+#. 0 seconds
+#: libpms/lang/ms-util.c:229
+msgid "0 seconds"
+msgstr ""
 
 #: src/conf-tweaks/ms-tweaks-callback-handlers.c:61
 #, c-format
@@ -283,6 +410,12 @@ msgstr "mavjud emas"
 msgid "Mobile Settings Volume Control"
 msgstr "Mobil sozlamalar"
 
+#: src/ms-lang-panel.c:104
+#, fuzzy
+#| msgid "Failed to set lockscreen wallpaper"
+msgid "Failed to set system locale"
+msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
+
 #: src/ms-lockscreen-panel.c:62
 msgid "Failed to set lockscreen wallpaper"
 msgstr "Bloklangan ekran fon rasmini oʻrnatib boʻlmadi"
@@ -300,13 +433,13 @@ msgstr "OSK tomonidan tanlangan standart toʻldiruvchi"
 msgid "No information available for this completer"
 msgstr "Bu toʻldiruvchi uchun maʼlumot yoʻq"
 
-#: src/ms-overview-panel.c:66
+#: src/ms-overview-panel.c:65
 #, fuzzy
 #| msgid "Reset Favorites"
 msgid "Reset favorites?"
 msgstr "Sevimlilarni tiklash"
 
-#: src/ms-overview-panel.c:69
+#: src/ms-overview-panel.c:68
 #, fuzzy
 #| msgid "Set list of favorite apps back to the default"
 msgid "Reset list of favorite applications to the default?"
@@ -314,17 +447,11 @@ msgstr "Sevimli ilovalar roʻyxatini standart holatga qaytaring"
 
 #: src/ms-overview-panel.c:72
 #, fuzzy
-#| msgid "Cancel"
-msgid "_Cancel"
-msgstr "Bekor qilish"
-
-#: src/ms-overview-panel.c:73
-#, fuzzy
 #| msgid "Reset"
 msgid "_Reset"
 msgstr "Qayta tiklash"
 
-#: src/ms-overview-panel.c:328
+#: src/ms-overview-panel.c:327
 #, fuzzy
 #| msgid "Failed to set lockscreen wallpaper"
 msgid "Failed to set wallpaper for overview"
@@ -1261,19 +1388,23 @@ msgstr "Qurilmani toʻxtatib turish"
 msgid "Experimental"
 msgstr "Eksperimental xususiyatlar"
 
-#: src/ui/ms-window.ui:316 src/ui/ms-window.ui:324
+#: src/ui/ms-window.ui:325
+msgid "Locale"
+msgstr ""
+
+#: src/ui/ms-window.ui:336 src/ui/ms-window.ui:344
 msgid "About"
 msgstr ""
 
-#: src/ui/ms-window.ui:349
+#: src/ui/ms-window.ui:369
 msgid "_Show Configurable Tweaks"
 msgstr ""
 
-#: src/ui/ms-window.ui:356
+#: src/ui/ms-window.ui:376
 msgid "_Keyboard Shortcuts"
 msgstr "_Klaviatura yorliqlari"
 
-#: src/ui/ms-window.ui:360
+#: src/ui/ms-window.ui:380
 msgid "_About Mobile Settings"
 msgstr "_Mobil sozlamalari haqida"
 

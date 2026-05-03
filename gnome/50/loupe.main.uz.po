@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: loupe main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/loupe/-/issues\n"
-"POT-Creation-Date: 2026-03-13 14:05+0000\n"
+"POT-Creation-Date: 2026-04-27 11:32+0000\n"
 "PO-Revision-Date: 2025-04-04 11:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: data/org.gnome.Loupe.desktop.in.in:2
 #: data/org.gnome.Loupe.metainfo.xml.in.in:6 src/about.rs:32
-#: src/widgets/image_window.rs:898
+#: src/widgets/image_window.rs:880
 msgid "Image Viewer"
 msgstr "Tasvirni koʻruvchi"
 
@@ -653,52 +653,52 @@ msgstr "Maxsus masshtab darajasi"
 msgid "Zoom to Specified Level"
 msgstr "Belgilangan darajaga yaqinlashtirish"
 
-#: src/widgets/image_window.rs:528
+#: src/widgets/image_window.rs:510
 msgid "Supported image formats"
 msgstr "Qoʻllab-quvvatlanadigan rasm formatlari"
 
-#: src/widgets/image_window.rs:534
+#: src/widgets/image_window.rs:516
 msgid "All files"
 msgstr "Barcha fayllar"
 
-#: src/widgets/image_window.rs:541
+#: src/widgets/image_window.rs:523
 msgid "Open Image"
 msgstr "Rasmni oching"
 
-#: src/widgets/image_window.rs:633
+#: src/widgets/image_window.rs:615
 msgid "Image copied to clipboard"
 msgstr "Rasm vaqtinchalik xotiraga nusxalandi"
 
-#: src/widgets/image_window.rs:654
+#: src/widgets/image_window.rs:636
 msgid "Image moved to trash"
 msgstr "Rasm chiqitdonga tashlandi"
 
-#: src/widgets/image_window.rs:655
+#: src/widgets/image_window.rs:637
 msgid "Undo"
 msgstr "Oldingi buyruqni bekor qilish"
 
-#: src/widgets/image_window.rs:685
+#: src/widgets/image_window.rs:667
 msgid "Failed to move image to trash"
 msgstr "Rasmni chiqitdonga oʻtkazib boʻlmadi"
 
-#: src/widgets/image_window.rs:709
+#: src/widgets/image_window.rs:691
 msgid "Permanently Delete Image?"
 msgstr "Rasm butunlay oʻchirilsinmi?"
 
-#: src/widgets/image_window.rs:711
+#: src/widgets/image_window.rs:693
 #, rust-format
 msgid "After deleting the image “{}” it will be permanently lost."
 msgstr "“{}” tasviri oʻchirilgandan soʻng u butunlay yoʻqoladi."
 
-#: src/widgets/image_window.rs:719
+#: src/widgets/image_window.rs:701
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/widgets/image_window.rs:720
+#: src/widgets/image_window.rs:702
 msgid "Delete"
 msgstr "Oʻchirish"
 
-#: src/widgets/image_window.rs:731
+#: src/widgets/image_window.rs:713
 msgid "Failed to delete image"
 msgstr "Rasmni oʻchirib boʻlmadi"
 
@@ -967,7 +967,7 @@ msgstr "Fokus uzunligi"
 msgid "Maker, Model"
 msgstr "Ishlab chiqaruvchi, model"
 
-#: src/widgets/window.rs:206
+#: src/widgets/window.rs:225
 msgid "Show Details"
 msgstr "Tafsilotlarni koʻrsatish"
 

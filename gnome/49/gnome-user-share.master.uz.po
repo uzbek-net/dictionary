@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-share master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-user-share/issues\n"
-"POT-Creation-Date: 2025-10-30 00:03+0000\n"
+"POT-Creation-Date: 2026-04-30 19:52+0000\n"
 "PO-Revision-Date: 2025-03-20 18:28+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -60,7 +60,5 @@ msgstr "{} umumiy fayllari"
 msgid "{0}'s public files on {1}"
 msgstr "{0}ning umumiy fayllari {1}"
 
-#. Translators: Don't translate the name in quotes!
-#: src/http.rs:194
-msgid "Please log in as the user “guest”"
-msgstr "Iltimos, “mehmon” foydalanuvchisi sifatida tizimga kiring"
+#~ msgid "Please log in as the user “guest”"
+#~ msgstr "Iltimos, “mehmon” foydalanuvchisi sifatida tizimga kiring"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-04-22 20:19+0000\n"
+"POT-Creation-Date: 2026-04-30 21:00+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -364,7 +364,7 @@ msgid "Main Menu"
 msgstr "Asosiy menyu"
 
 #. Translators: This is a tooltip
-#: data/ui/main-window.blp:169 src/mainWindow.js:629
+#: data/ui/main-window.blp:169 src/mainWindow.js:633
 #, fuzzy
 #| msgid "More Information"
 msgid "View Place Information"
@@ -904,25 +904,25 @@ msgstr "Marshrut topilmadi."
 msgid "Start!"
 msgstr "Boshlash!"
 
-#: src/mainWindow.js:531
+#: src/mainWindow.js:535
 msgid "Failed to connect to location service"
 msgstr "Joylashuv xizmatiga ulanib boʻlmadi"
 
-#: src/mainWindow.js:536
+#: src/mainWindow.js:540
 msgid "Turn on location services"
 msgstr "Joylashuv xizmatini yoqish"
 
-#: src/mainWindow.js:537
+#: src/mainWindow.js:541
 msgid "Location Settings"
 msgstr "Joylashuv sozlamalari"
 
-#: src/mainWindow.js:648
+#: src/mainWindow.js:652
 #, fuzzy
 #| msgid "Route Planner"
 msgid "Show Route Planner"
 msgstr "Marshrut rejalashtiruvchi"
 
-#: src/mainWindow.js:663
+#: src/mainWindow.js:667
 #, fuzzy
 #| msgid ""
 #| "Copyright © 2011 – 2025 Red Hat, Inc. and The GNOME Maps authors"
@@ -930,22 +930,22 @@ msgid "Copyright © 2011 – 2026 Red Hat, Inc. and The GNOME Maps authors"
 msgstr ""
 "Mualliflik huquqi © 2011 – 2025 Red Hat, Inc. va The GNOME Maps mualliflari"
 
-#: src/mainWindow.js:664
+#: src/mainWindow.js:668
 msgid "translator-credits"
 msgstr ""
 "Asadbek Rajabov <asadbekrajabov1337@gmail.com>\n"
 "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: src/mainWindow.js:671
+#: src/mainWindow.js:675
 #, javascript-format
 msgid "Map data by %s and contributors"
 msgstr "Xarita ma'lumotlari %s va hissadorlar tomonidan taqdim etilgan"
 
-#: src/mainWindow.js:672
+#: src/mainWindow.js:676
 msgid "Map Data Provider"
 msgstr "Xarita ma'lumotlari taqdim etuvchi"
 
-#: src/mainWindow.js:675
+#: src/mainWindow.js:679
 msgid "Map Tile Provider"
 msgstr "Xarita boʻlaklarini taqdim etuvchi"
 
@@ -953,25 +953,25 @@ msgstr "Xarita boʻlaklarini taqdim etuvchi"
 #. * tile provider where the %s placeholder is replaced by either
 #. * the bare name of the tile provider, or a linkified URL if one
 #. * is available
-#: src/mainWindow.js:683
+#: src/mainWindow.js:687
 #, javascript-format
 msgid "Map tiles provided by %s"
 msgstr "Xarita boʻlaklari %s tomonidan taqdim etilgan"
 
-#: src/mainWindow.js:712
+#: src/mainWindow.js:716
 msgid "Search Provider"
 msgstr "Qidiruv xizmatchisi"
 
-#: src/mainWindow.js:715
+#: src/mainWindow.js:719
 #, javascript-format
 msgid "Search provided by %s using %s"
 msgstr "Qidiruv xizmatlari %s tomonidan %s yordamida taqdim etilgan"
 
-#: src/mainWindow.js:724
+#: src/mainWindow.js:728
 msgid "All Layer Files"
 msgstr "Barcha qatlam fayllari"
 
-#: src/mainWindow.js:737
+#: src/mainWindow.js:741
 msgid "Open Shape Layers"
 msgstr "Shakl qatlamlarini oching"
 

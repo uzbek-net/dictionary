@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: showtime main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/showtime/-/issues\n"
-"POT-Creation-Date: 2026-03-30 13:21+0000\n"
+"POT-Creation-Date: 2026-04-04 07:19+0000\n"
 "PO-Revision-Date: 2025-04-04 18:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -76,7 +76,7 @@ msgstr "Masalan, videoning umumiy davomiyligi yoki qolgan vaqt miqdori"
 msgid "Playing a video"
 msgstr "Video ijro etilmoqda"
 
-#: showtime/mpris.py:288 showtime/widgets/window.py:1061
+#: showtime/mpris.py:288 showtime/widgets/window.py:1080
 msgid "Unknown Title"
 msgstr "Noma'lum sarlavha"
 
@@ -108,70 +108,70 @@ msgstr "Aniqlanmagan til"
 msgid "Add Subtitle File…"
 msgstr "Subtitr faylini qoʻshish…"
 
-#: showtime/widgets/window.py:182 showtime/gtk/window.blp:161
+#: showtime/widgets/window.py:189 showtime/gtk/window.blp:161
 msgid "Play"
 msgstr "Oʻynang"
 
-#: showtime/widgets/window.py:182
+#: showtime/widgets/window.py:189
 msgid "Pause"
 msgstr "Pauza"
 
-#: showtime/widgets/window.py:754
+#: showtime/widgets/window.py:761
 msgid "Details copied"
 msgstr "Tafsilotlar nusxalandi"
 
-#: showtime/widgets/window.py:756
+#: showtime/widgets/window.py:763
 msgid "Copy Technical Details"
 msgstr "Texnik ma'lumotlarni nusxalash"
 
-#: showtime/widgets/window.py:759
+#: showtime/widgets/window.py:766
 #, fuzzy
 #| msgid "Start Again"
 msgid "Try Again"
 msgstr "Qaytadan boshlash"
 
-#: showtime/widgets/window.py:816
+#: showtime/widgets/window.py:823
 msgid "No plugin available for this media type"
 msgstr "Ushbu turdagi media uchun plagin mavjud emas"
 
-#: showtime/widgets/window.py:824
+#: showtime/widgets/window.py:831
 msgid "Unable to install the required plugin"
 msgstr "Kerakli plaginni oʻrnatib boʻlmadi"
 
-#: showtime/widgets/window.py:831
+#: showtime/widgets/window.py:838
 msgid "Installing…"
 msgstr "Oʻrnatilmoqda…"
 
-#: showtime/widgets/window.py:835
+#: showtime/widgets/window.py:842
 msgid "“{}” codecs are required to play this video"
 msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
 
-#: showtime/widgets/window.py:838
+#: showtime/widgets/window.py:845
 msgid "Install Plugin"
 msgstr "Plaginni oʻrnating"
 
-#: showtime/widgets/window.py:844
+#: showtime/widgets/window.py:851
 msgid "The “{}” codecs required to play this video could not be found"
 msgstr ""
 "Bu videoni ijro etish uchun zarur boʻlgan “{}” kodeklarini topib boʻlmadi"
 
-#: showtime/widgets/window.py:854
+#: showtime/widgets/window.py:861
 msgid "Try Anyway"
 msgstr ""
 
 #. Translators: Replace this with your name for it to show up in the about
 #. dialog
-#: showtime/widgets/window.py:1040
+#: showtime/widgets/window.py:1059
 #, fuzzy
 #| msgid "translator_credits"
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: showtime/widgets/window.py:1095
+#: showtime/widgets/window.py:1114
 msgid "Screenshot captured"
 msgstr "Skrinshot olindi"
 
-#: showtime/widgets/window.py:1097
+#: showtime/widgets/window.py:1116
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 

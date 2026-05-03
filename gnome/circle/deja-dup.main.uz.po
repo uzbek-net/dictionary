@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/issues\n"
-"POT-Creation-Date: 2026-04-24 23:25+0000\n"
+"POT-Creation-Date: 2026-04-27 18:27+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -449,7 +449,7 @@ msgstr "Versiyani koʻsatish"
 msgid "Immediately start a backup"
 msgstr "Darhol zaxiralashni boshlash"
 
-#: app/main.vala:289
+#: app/main.vala:297
 msgid "translator-credits"
 msgstr "Maftuna Vahidjanova"
 
@@ -458,7 +458,7 @@ msgstr "Maftuna Vahidjanova"
 #. context is itself a reference to both the underlying command line tool
 #. "duplicity" and the act of duplicating data for backup.  As a whole, the
 #. phrase "Déjà Dup" may not be very translatable.
-#: app/main.vala:349 data/app.metainfo.xml.in:11 data/ui/MainWindow.blp:11
+#: app/main.vala:357 data/app.metainfo.xml.in:11 data/ui/MainWindow.blp:11
 #: data/ui/OverviewPage.blp:11 data/ui/WelcomePage.blp:11
 msgid "Déjà Dup Backups"
 msgstr "Déjà Dup Zaxiralari"
@@ -958,23 +958,23 @@ msgstr ""
 "Aloqador zaxiralarni oʻchirib tashlamaslik uchun joy kam boʻlsa yoki uch "
 "oygacha saqlangan boʻlsa, eng eski zaxiralar avvalroq oʻchirib tashlanadi."
 
-#: data/ui/OverviewPage.blp:20
+#: data/ui/OverviewPage.blp:21
 msgid "_Schedule"
 msgstr "Jadval"
 
-#: data/ui/OverviewPage.blp:39
+#: data/ui/OverviewPage.blp:40
 msgid "_Folders"
 msgstr "Jildlar"
 
-#: data/ui/OverviewPage.blp:56
+#: data/ui/OverviewPage.blp:57
 msgid "Storage _Location"
 msgstr "Xotira manzili"
 
-#: data/ui/OverviewPage.blp:85
+#: data/ui/OverviewPage.blp:86
 msgid "Bro_wse Backups"
 msgstr "Zaxiralarni koʻrib chiqish"
 
-#: data/ui/OverviewPage.blp:94
+#: data/ui/OverviewPage.blp:95
 msgid "_Back Up Now"
 msgstr "Hozir zaxiralash"
 
@@ -1051,13 +1051,13 @@ msgstr "Zaxiralar quyidagi fayllarni qayta tiklash ruxsatiga ega emas:"
 msgid "Up"
 msgstr "Yuqori"
 
-#: data/ui/RestoreToolbarView.blp:30 data/ui/RestoreToolbarView.blp:79
+#: data/ui/RestoreToolbarView.blp:30 data/ui/RestoreToolbarView.blp:76
 msgid "_Restore…"
 msgstr "Qayta tiklash…"
 
-#: data/ui/RestoreToolbarView.blp:47 data/ui/RestoreToolbarView.blp:49
-#: data/ui/RestoreToolbarView.blp:71 data/ui/RestoreToolbarView.blp:94
-#: data/ui/RestoreToolbarView.blp:96
+#: data/ui/RestoreToolbarView.blp:44 data/ui/RestoreToolbarView.blp:46
+#: data/ui/RestoreToolbarView.blp:68 data/ui/RestoreToolbarView.blp:91
+#: data/ui/RestoreToolbarView.blp:93
 msgid "Search"
 msgstr "Qidiruv"
 
@@ -1126,19 +1126,19 @@ msgstr "sftp:// yoki ssh://"
 msgid "dav:// or davs://"
 msgstr "dav:// yoki davs://"
 
-#: data/ui/SnapshotsPage.blp:51
+#: data/ui/SnapshotsPage.blp:48
 msgid "No Backups Found"
 msgstr "Zaxiralar topilmadi"
 
-#: data/ui/SnapshotsPage.blp:52
+#: data/ui/SnapshotsPage.blp:49
 msgid "This storage location is empty"
 msgstr "Bu saqlash manzili boʻsh"
 
-#: data/ui/WelcomePage.blp:40
+#: data/ui/WelcomePage.blp:41
 msgid "Create Your First _Backup…"
 msgstr "Birinchi zaxirangizni yarating…"
 
-#: data/ui/WelcomePage.blp:63
+#: data/ui/WelcomePage.blp:64
 msgid "_Restore From a Previous Backup…"
 msgstr "Oldingi zaxiradan tiklash…"
 

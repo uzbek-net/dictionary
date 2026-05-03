@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
-"POT-Creation-Date: 2026-04-25 10:28+0000\n"
+"POT-Creation-Date: 2026-04-30 09:37+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -643,18 +643,18 @@ msgstr "_Uchinchi tomon repozitoriylarini oʻchirib qoʻying"
 msgid "_Enable Third-Party Repositories"
 msgstr "_Uchinchi tomon omborlarini yoqish"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:211
+#: gnome-initial-setup/pages/summary/gis-summary-page.c:210
 msgid "Setup Failed"
 msgstr "Sozlab boʻlmadi"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:213
+#: gnome-initial-setup/pages/summary/gis-summary-page.c:212
 msgid "Close"
 msgstr "Yopish"
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:239
+#: gnome-initial-setup/pages/summary/gis-summary-page.c:238
 #, c-format
 msgid "_Start Using %s"
 msgstr "_Foydalanishni boshlash: %s"
@@ -662,12 +662,12 @@ msgstr "_Foydalanishni boshlash: %s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:246
+#: gnome-initial-setup/pages/summary/gis-summary-page.c:245
 #, c-format
 msgid "%s is ready to be used."
 msgstr "%s foydalanishga tayyor."
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:270
+#: gnome-initial-setup/pages/summary/gis-summary-page.c:269
 msgid "Setup Complete"
 msgstr "Sozlash tugallandi"
 
