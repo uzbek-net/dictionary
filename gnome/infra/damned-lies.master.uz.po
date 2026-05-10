@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-01 09:14+0000\n"
+"POT-Creation-Date: 2026-05-05 21:23+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -4153,12 +4153,35 @@ msgid "The path given to initialize the POTFile does not exist: %(path)s."
 msgstr ""
 "POTFile faylini ishga tushirish uchun berilgan yoʻl mavjud emas: %(path)s."
 
-#: stats/services/pot/service.py:48
-#, python-format
-msgid "Error retrieving POT file from URL: %s."
+#: stats/services/pot/service.py:54
+msgid "Invalid URL format. Cannot parse the provided URL."
+msgstr ""
+
+#: stats/services/pot/service.py:60
+msgid "Invalid URL scheme. Only HTTP and HTTPS schemes are allowed."
+msgstr ""
+
+#: stats/services/pot/service.py:82
+msgid "URL resolves to a private/internal IP address. This is not allowed."
+msgstr ""
+
+#: stats/services/pot/service.py:103
+#, fuzzy
+#| msgid "Error retrieving POT file from URL: %s."
+msgid "Error retrieving POT file from URL."
 msgstr "URL manzilidan POT faylini olishda xatolik yuz berdi: %s."
 
-#: stats/services/pot/service.py:70
+#: stats/services/pot/service.py:107
+#, python-format
+msgid "POT file from URL larger than the accepted default (file is > %dMB)."
+msgstr ""
+
+#: stats/services/pot/service.py:145
+#, python-format
+msgid "POT file path traversal attempt detected: %(path)s"
+msgstr ""
+
+#: stats/services/pot/service.py:162
 #, fuzzy, python-format
 #| msgid ""
 #| "POT file not found in repository, while the configuration indicates it "
@@ -4173,11 +4196,11 @@ msgstr ""
 "manzilida joylashtirish kerakligini bildiradi. Shuningdek, biz “%(param)s”ni"
 " “%(path)s” yoʻli bilan ishlatishga harakat qildik, lekin fayl mavjud emas."
 
-#: stats/services/pot/service.py:92
+#: stats/services/pot/service.py:184
 msgid "No subtitle files found."
 msgstr "Hech qanday subtitr fayli topilmadi."
 
-#: stats/services/pot/service.py:107
+#: stats/services/pot/service.py:199
 #, python-format
 msgid ""
 "Error regenerating template file (POT) for %(file)s:\n"
@@ -4187,14 +4210,22 @@ msgstr ""
 "%(file)s uchun andoza faylini (POT) qayta tiklashda xatolik yuz berdi:<pre> %(cmd)s\n"
 "%(output)s</pre>"
 
-#: stats/services/pot/service.py:136
+#: stats/services/pot/service.py:228
 #, python-format
 msgid ""
 "Unable to generate an extraction command with xgettext for the file “%s”."
 msgstr ""
 "“%s” fayli uchun xgettext bilan chiqarish buyrugʻini yaratib boʻlmadi."
 
-#: stats/services/pot/service.py:183
+#: stats/services/pot/service.py:255
+msgid "Command injection detected: semicolon in pot_params not allowed."
+msgstr ""
+
+#: stats/services/pot/service.py:259
+msgid "Command injection detected: command substitution not allowed."
+msgstr ""
+
+#: stats/services/pot/service.py:293
 #, python-format
 msgid ""
 "Error regenerating POT file for document %(file)s:\n"
@@ -4204,12 +4235,12 @@ msgstr ""
 "%(file)s hujjati uchun POT faylini qayta tiklashda xatolik yuz berdi:<pre> %(cmd)s\n"
 "%(output)s</pre>"
 
-#: stats/services/pot/service.py:193
+#: stats/services/pot/service.py:303
 msgid ""
 "Unable to generate template file (POT). The output file does not exist."
 msgstr "Andoza faylini (POT) yaratib boʻlmadi. Chiqish fayli mavjud emas."
 
-#: stats/services/pot/service.py:207
+#: stats/services/pot/service.py:317
 #, fuzzy
 #| msgid ""
 #| "While refreshing the POT file for Damned Lies, an error happened with the "
@@ -4221,7 +4252,7 @@ msgstr ""
 "Damned Lies uchun POT faylini yangilashda “%(buyruq)” buyrugʻi bilan xatolik"
 " yuz berdi."
 
-#: stats/services/pot/service.py:250
+#: stats/services/pot/service.py:360
 msgid ""
 "Unable to generate template file (POT). The POT generation process itself "
 "did not fail, but the POT file does not exist on disk."
@@ -4229,7 +4260,7 @@ msgstr ""
 "Andoza faylini (POT) yaratib boʻlmadi. POT yaratish jarayonining oʻzi "
 "muvaffaqiyatsiz tugadi, lekin POT fayli diskda mavjud emas."
 
-#: stats/services/pot/service.py:490
+#: stats/services/pot/service.py:600
 #, python-format
 msgid ""
 "'xgettext' command cannot be built, the following error occurred: %(error)s"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libsoup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues/\n"
-"POT-Creation-Date: 2026-02-14 22:57+0000\n"
+"POT-Creation-Date: 2026-05-08 10:39+0000\n"
 "PO-Revision-Date: 2025-04-04 09:46+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -50,7 +50,7 @@ msgstr "SoupBodyInputStreamni kesib boʻlmadi"
 
 #: libsoup/http1/soup-client-message-io-http1.c:322
 #: libsoup/http1/soup-client-message-io-http1.c:776
-#: libsoup/http2/soup-body-input-stream-http2.c:221
+#: libsoup/http2/soup-body-input-stream-http2.c:248
 #: libsoup/server/http1/soup-server-message-io-http1.c:417
 #: libsoup/server/http1/soup-server-message-io-http1.c:899
 msgid "Operation would block"
@@ -66,8 +66,8 @@ msgstr "Nomaʼlum HTTP javob kodlash usuli"
 
 #: libsoup/http1/soup-client-message-io-http1.c:735
 #: libsoup/http1/soup-client-message-io-http1.c:761
-#: libsoup/http2/soup-client-message-io-http2.c:1774
-#: libsoup/http2/soup-client-message-io-http2.c:1800
+#: libsoup/http2/soup-client-message-io-http2.c:1792
+#: libsoup/http2/soup-client-message-io-http2.c:1818
 msgid "Operation was cancelled"
 msgstr "Operatsiya bekor qilindi"
 

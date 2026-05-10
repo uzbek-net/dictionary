@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phosh-mobile-settings main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/issues\n"
-"POT-Creation-Date: 2026-04-30 11:20+0000\n"
+"POT-Creation-Date: 2026-05-08 18:22+0000\n"
 "PO-Revision-Date: 2025-04-04 22:16+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1203,6 +1203,10 @@ msgstr "Yorugʻlik intensivligi chegarasi"
 #: src/ui/ms-sensor-panel.ui:85
 msgid "Theme will switch to high contrast above the threshold"
 msgstr "Mavzu chegaradan yuqori kontrastga oʻtadi"
+
+#: src/ui/ms-sound-row.ui:33
+msgid "Toggle Play"
+msgstr ""
 
 #: src/ui/ms-sound-row.ui:54
 msgid "Sound files (ogg)"

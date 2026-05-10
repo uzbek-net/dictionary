@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: yelp\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp/issues/\n"
-"POT-Creation-Date: 2025-09-13 19:38+0000\n"
+"POT-Creation-Date: 2026-05-06 16:40+0000\n"
 "PO-Revision-Date: 2025-04-02 21:58+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -29,16 +29,16 @@ msgstr ""
 msgid "Install <string/>"
 msgstr "Oʻrnatish<string/>"
 
-#: data/org.gnome.Yelp.metainfo.xml.in:19 org.gnome.Yelp.desktop.in:2
+#: data/org.gnome.Yelp.metainfo.xml.in:24 org.gnome.Yelp.desktop.in:2
 #: src/yelp-application.c:307 src/yelp-window.c:1112 src/yelp-window.c:1163
 msgid "Help"
 msgstr "Yordam"
 
-#: data/org.gnome.Yelp.metainfo.xml.in:20
+#: data/org.gnome.Yelp.metainfo.xml.in:25
 msgid "Help viewer for GNOME"
 msgstr "GNOME uchun koʻruvchiga yordam bering"
 
-#: data/org.gnome.Yelp.metainfo.xml.in:22
+#: data/org.gnome.Yelp.metainfo.xml.in:27
 msgid ""
 "Yelp is the GNOME help viewer. It is the default Mallard viewer, but it can "
 "also display DocBook, info, man, and HTML documentation."
@@ -46,7 +46,7 @@ msgstr ""
 "Yelp - bu GNOME yordam dasturi. Bu standart Mallard tomoshabinidir, lekin u "
 "DocBook, info, man va HTML hujjatlarini ham koʻrsatishi mumkin."
 
-#: data/org.gnome.Yelp.metainfo.xml.in:26
+#: data/org.gnome.Yelp.metainfo.xml.in:31
 msgid ""
 "It makes it easy to find the documentation you need, with interactive search"
 " and bookmarks."
@@ -54,7 +54,7 @@ msgstr ""
 "Bu interaktiv qidiruv va xatchoʻplar yordamida kerakli hujjatlarni topishni "
 "osonlashtiradi."
 
-#: data/org.gnome.Yelp.metainfo.xml.in:30
+#: data/org.gnome.Yelp.metainfo.xml.in:35
 msgid ""
 "It also has an editor mode, which shows editorial comments and revision "
 "statuses when editing Mallard documents."
@@ -63,11 +63,11 @@ msgstr ""
 "tahrirlashda tahririyat sharhlari va qayta koʻrib chiqish holatini "
 "koʻrsatadi."
 
-#: data/org.gnome.Yelp.metainfo.xml.in:37
+#: data/org.gnome.Yelp.metainfo.xml.in:42
 msgid "Main window"
 msgstr ""
 
-#: data/org.gnome.Yelp.metainfo.xml.in:56 src/yelp-window.c:1168
+#: data/org.gnome.Yelp.metainfo.xml.in:61 src/yelp-window.c:1168
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
