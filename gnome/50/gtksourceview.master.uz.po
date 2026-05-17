@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtksourceview master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
-"POT-Creation-Date: 2026-02-09 20:24+0000\n"
+"POT-Creation-Date: 2026-05-15 14:50+0000\n"
 "PO-Revision-Date: 2025-10-30 15:49+0500\n"
 "Last-Translator: BeMeritus <bemerituss@gmail.com>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -406,31 +406,39 @@ msgstr "Snippetlar"
 msgid "Document Words"
 msgstr "Hujjat soʻzlari"
 
-#: gtksourceview/gtksourcebufferoutputstream.c:920
+#: gtksourceview/gtksourcebufferoutputstream.c:607
+#: gtksourceview/gtksourcefileloader.c:242
+#: gtksourceview/gtksourcefileloader.c:275
+#: gtksourceview/gtksourcefileloader.c:285
+#: gtksourceview/gtksourcefileloader.c:753
+msgid "File too big."
+msgstr "Fayl juda katta."
+
+#: gtksourceview/gtksourcebufferoutputstream.c:949
 msgid "Invalid byte sequence in conversion input"
 msgstr "Konversiya kiritishda yaroqsiz bayt ketma-ketligi"
 
-#: gtksourceview/gtksourcebufferoutputstream.c:926
+#: gtksourceview/gtksourcebufferoutputstream.c:955
 #, c-format
 msgid "Error during conversion: %s"
 msgstr "Konvertatsiya paytida xatolik yuz berdi: %s"
 
-#: gtksourceview/gtksourcebufferoutputstream.c:1019
+#: gtksourceview/gtksourcebufferoutputstream.c:1048
 #, c-format
 msgid "Conversion from character set “%s” to “UTF-8” is not supported"
 msgstr ""
 "“%s” belgilar toʻplamidan “UTF-8”ga oʻzgartirish qoʻllab-quvvatlanmaydi"
 
-#: gtksourceview/gtksourcebufferoutputstream.c:1025
+#: gtksourceview/gtksourcebufferoutputstream.c:1054
 #, c-format
 msgid "Could not open converter from “%s” to “UTF-8”"
 msgstr "“%s” dan “UTF-8” ga konvertorni ochib boʻlmadi"
 
-#: gtksourceview/gtksourcebufferoutputstream.c:1085
+#: gtksourceview/gtksourcebufferoutputstream.c:1122
 msgid "Invalid object, not initialized"
 msgstr "Yaroqsiz obyekt, ishga tushirilmagan"
 
-#: gtksourceview/gtksourcebufferoutputstream.c:1293
+#: gtksourceview/gtksourcebufferoutputstream.c:1343
 #, c-format
 msgid "Incomplete UTF-8 sequence in input"
 msgstr "Kirishda toʻliq emas UTF-8 ketma-ketligi"
@@ -637,18 +645,14 @@ msgstr "Nomaʼlum"
 msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
 msgstr "[ʼUTF-8ʼ, ʼJORIYʼ, ʼISO-8859-15ʼ, ʼUTF-16ʼ]"
 
-#: gtksourceview/gtksourcefileloader.c:502
+#: gtksourceview/gtksourcefileloader.c:625
 msgid ""
 "There was an encoding conversion error so a fallback character was used."
 msgstr ""
 "Kodlashda konvertatsiya qilishda xatolik yuz berdi, shuning uchun zaxira "
 "belgidan foydalanildi."
 
-#: gtksourceview/gtksourcefileloader.c:616
-msgid "File too big."
-msgstr "Fayl juda katta."
-
-#: gtksourceview/gtksourcefileloader.c:771
+#: gtksourceview/gtksourcefileloader.c:890
 msgid "Not a regular file."
 msgstr "Oddiy fayl emas."
 

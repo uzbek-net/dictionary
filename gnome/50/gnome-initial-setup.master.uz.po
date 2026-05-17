@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
-"POT-Creation-Date: 2026-05-04 08:41+0000\n"
+"POT-Creation-Date: 2026-05-11 09:26+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -47,24 +47,24 @@ msgstr "Mavjud foydalanuvchi rejimini majburlash"
 msgid "— GNOME initial setup"
 msgstr "- GNOME-ni dastlabki sozlash"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:182
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:177
 msgid "Failed to cache account"
 msgstr "Hisobni keshlash amalga oshmadi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:232
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:227
 msgid "Failed to register account"
 msgstr "Hisob qaydnomasini roʻyxatdan oʻtkazib boʻlmadi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:421
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:416
 msgid "No supported way to authenticate with this domain"
 msgstr ""
 "Bu domen bilan autentifikatsiya qilishning qoʻllab-quvvatlanmaydigan usuli"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:460
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:455
 msgid "Failed to join domain"
 msgstr "Domenga qoʻshilmadi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:527
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:522
 msgid "Failed to log into domain"
 msgstr "Domenga kirib boʻlmadi"
 

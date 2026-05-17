@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: resources main\n"
-"Report-Msgid-Bugs-To: https://github.com/nokyan/resources/issues/\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/Incubator/resources/-/work_items\n"
 "POT-Creation-Date: 2026-05-09 21:14+0000\n"
 "PO-Revision-Date: 2025-10-14 13:11+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"

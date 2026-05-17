@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-04-27 21:22+0000\n"
+"POT-Creation-Date: 2026-05-14 18:26+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -744,20 +744,20 @@ msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
-#: js/gdm/util.js:496
+#: js/gdm/util.js:503
 msgid "Authentication error"
 msgstr "Autentifikatsiya xatosi"
 
 #. Translators: this message is shown below the password entry field
 #. to indicate the user can swipe their finger on the fingerprint reader
-#: js/gdm/util.js:731
+#: js/gdm/util.js:738
 msgid "(or swipe finger across reader)"
 msgstr "(yoki barmogʻingizni oʻquvchi boʻylab suring)"
 
 #. Translators: this message is shown below the password entry field
 #. to indicate the user can place their finger on the fingerprint reader
 #. instead
-#: js/gdm/util.js:736
+#: js/gdm/util.js:743
 msgid "(or place finger on reader)"
 msgstr "(yoki barmogʻingizni oʻquvchiga qoʻying)"
 
