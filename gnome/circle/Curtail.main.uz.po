@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Curtail master\n"
 "Report-Msgid-Bugs-To: https://github.com/Huluti/Curtail/issues\n"
-"POT-Creation-Date: 2026-05-15 20:01+0000\n"
+"POT-Creation-Date: 2026-05-25 09:13+0000\n"
 "PO-Revision-Date: 2025-10-03 16:38+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -28,7 +28,7 @@ msgstr "Curtail"
 msgid "Compress your images"
 msgstr "Rasmlaringizni zichlang"
 
-#: data/com.github.huluti.Curtail.appdata.xml.in:10
+#: data/com.github.huluti.Curtail.appdata.xml.in:11
 msgid ""
 "Optimize your images with Curtail, a useful image compressor that supports "
 "PNG, JPEG, WebP and SVG file types."
@@ -36,7 +36,7 @@ msgstr ""
 "Rasmlaringizni PNG, JPEG, WebP va SVG fayl turlarini qoʻllab-quvvatlaydigan "
 "Curtail yordamida optimallashtiring."
 
-#: data/com.github.huluti.Curtail.appdata.xml.in:12
+#: data/com.github.huluti.Curtail.appdata.xml.in:14
 msgid ""
 "It supports both lossless and lossy compression modes with an option to "
 "whether keep or not metadata of images."

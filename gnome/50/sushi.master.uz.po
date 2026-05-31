@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sushi master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/sushi/issues/\n"
-"POT-Creation-Date: 2026-04-28 15:56+0000\n"
+"POT-Creation-Date: 2026-05-30 18:22+0000\n"
 "PO-Revision-Date: 2025-03-24 19:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -34,54 +34,51 @@ msgstr ""
 "Sushi - bu GNOME ish stoli muhiti uchun fayllarni koʻrib chiqish dasturi. Bu"
 " GNOME Files (Nautilus) bilan integratsiyalashgan mustaqil komponent."
 
-#: src/ui/fallbackRenderer.js:244
+#: src/ui/fallbackRenderer.js:245
 msgid "Type"
 msgstr "Turi"
 
-#: src/ui/fallbackRenderer.js:254
+#: src/ui/fallbackRenderer.js:255
 #, javascript-format
 msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d element"
 
-#: src/ui/fallbackRenderer.js:259
+#: src/ui/fallbackRenderer.js:260
 msgid "Empty Folder"
 msgstr "Boʻsh papka"
 
-#: src/ui/fallbackRenderer.js:263
+#: src/ui/fallbackRenderer.js:264
 msgid "Size"
 msgstr "Oʻlcham"
 
-#: src/ui/fallbackRenderer.js:269
+#: src/ui/fallbackRenderer.js:270
 msgid "Modified"
 msgstr "Oʻzgartirilgan"
 
 #. TRANSLATORS: This is a filename, e.g. "image.jpg"
-#: src/ui/mainWindow.js:90
+#: src/ui/mainWindow.js:64
 #, javascript-format
 msgid "Unable to display %s"
 msgstr "%s koʻrsatilmadi"
 
-#. TRANSLATORS: This is the display name of an application, e.g. "Open With
-#. Image Viewer"
-#: src/ui/mainWindow.js:358
-#, javascript-format
-msgid "Open With %s"
-msgstr "%s bilan ochish"
-
-#: src/ui/mainWindow.js:364
+#: src/ui/mainWindow.js:111
 msgid "Open"
 msgstr "Oching"
 
-#: src/viewers/audio.js:401
+#: src/viewers/audio.js:342
 msgid "from"
 msgstr "internetdan saqlangan ilovalar va saytlar"
 
-#: src/viewers/audio.js:406
+#: src/viewers/audio.js:347
 msgid "by"
 msgstr "tomonidan"
 
-#: src/viewers/evince.js:111
+#: src/viewers/evince.js:137
 #, javascript-format
 msgid "%d of %d"
 msgstr "%d of %d"
+
+#, javascript-format
+#~ msgid "Open With %s"
+#~ msgstr "%s bilan ochish"

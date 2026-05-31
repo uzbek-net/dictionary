@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-04-10 11:58+0000\n"
+"POT-Creation-Date: 2026-05-25 11:00+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -618,55 +618,55 @@ msgstr "Betlarning chegarasini koʻrish"
 msgid "When enabled, a border will be drawn around each page."
 msgstr "Agar belgilansa, betning chegarasi boʻylab rasm chiziladi."
 
-#: libview/pps-print-operation.c:2006
+#: libview/pps-print-operation.c:2010
 msgid "Page Handling"
 msgstr "Sahifalarni qayta ishlash"
 
-#: libview/pps-view.c:2143
+#: libview/pps-view.c:2134
 msgid "Go to first page"
 msgstr "Birinchi sahifaga oʻtish"
 
-#: libview/pps-view.c:2145
+#: libview/pps-view.c:2136
 msgid "Go to previous page"
 msgstr "Oldingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2147
+#: libview/pps-view.c:2138
 msgid "Go to next page"
 msgstr "Keyingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2149
+#: libview/pps-view.c:2140
 msgid "Go to last page"
 msgstr "Soʻngi sahifaga oʻtish"
 
-#: libview/pps-view.c:2151
+#: libview/pps-view.c:2142
 msgid "Go to page"
 msgstr "Sahifaga oʻtish"
 
-#: libview/pps-view.c:2153
+#: libview/pps-view.c:2144
 msgid "Find"
 msgstr "Indekslangan xususiyatlar topilmadi"
 
-#: libview/pps-view.c:2182
+#: libview/pps-view.c:2173
 #, c-format
 msgid "Go to page %s"
 msgstr "%s sahifaga oʻtish"
 
-#: libview/pps-view.c:2188
+#: libview/pps-view.c:2179
 #, c-format
 msgid "Go to %s on file “%s”"
 msgstr "\"%s\" faylidagi %s ga oʻtish"
 
-#: libview/pps-view.c:2191
+#: libview/pps-view.c:2182
 #, c-format
 msgid "Go to file “%s”"
 msgstr "\"%s\" faylga oʻtish"
 
-#: libview/pps-view.c:2199
+#: libview/pps-view.c:2190
 #, c-format
 msgid "Launch %s"
 msgstr "%s ishga tushirish"
 
-#: libview/pps-view.c:2206
+#: libview/pps-view.c:2197
 #, c-format
 msgid "Reset form"
 msgstr "Shaklni tiklash"

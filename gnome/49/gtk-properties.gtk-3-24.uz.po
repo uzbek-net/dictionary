@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-05 16:05+0000\n"
+"POT-Creation-Date: 2026-05-25 12:09+0000\n"
 "PO-Revision-Date: 2008-12-30 22:10+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1497,54 +1497,54 @@ msgstr ""
 msgid "The default text appearing when there are no applications"
 msgstr ""
 
-#: gtk/gtkapplication.c:872
+#: gtk/gtkapplication.c:875
 msgid "Register session"
 msgstr ""
 
-#: gtk/gtkapplication.c:873
+#: gtk/gtkapplication.c:876
 msgid "Register with the session manager"
 msgstr ""
 
-#: gtk/gtkapplication.c:890
+#: gtk/gtkapplication.c:893
 msgid "Screensaver Active"
 msgstr ""
 
-#: gtk/gtkapplication.c:891
+#: gtk/gtkapplication.c:894
 #, fuzzy
 msgid "Whether the screensaver is active"
 msgstr "Birlamchi nishonchaning sezgirligi"
 
-#: gtk/gtkapplication.c:897
+#: gtk/gtkapplication.c:900
 #, fuzzy
 #| msgid "Selection mode"
 msgid "Application menu"
 msgstr "Tanlash usuli"
 
-#: gtk/gtkapplication.c:898
+#: gtk/gtkapplication.c:901
 #, fuzzy
 #| msgid "The model for the combo box"
 msgid "The GMenuModel for the application menu"
 msgstr "Kombo qutisi modeli"
 
-#: gtk/gtkapplication.c:904
+#: gtk/gtkapplication.c:907
 #, fuzzy
 #| msgid "Menu"
 msgid "Menubar"
 msgstr "Menyu"
 
-#: gtk/gtkapplication.c:905
+#: gtk/gtkapplication.c:908
 #, fuzzy
 #| msgid "The model for the combo box"
 msgid "The GMenuModel for the menubar"
 msgstr "Kombo qutisi modeli"
 
-#: gtk/gtkapplication.c:911
+#: gtk/gtkapplication.c:914
 #, fuzzy
 #| msgid "Active item"
 msgid "Active window"
 msgstr "Aktiv element"
 
-#: gtk/gtkapplication.c:912
+#: gtk/gtkapplication.c:915
 #, fuzzy
 #| msgid "The item which is currently active"
 msgid "The window which most recently had focus"

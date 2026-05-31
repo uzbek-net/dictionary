@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-04-13 07:29+0000\n"
+"POT-Creation-Date: 2026-05-29 07:54+0000\n"
 "PO-Revision-Date: 2025-10-13 17:32+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -6403,11 +6403,11 @@ msgstr ""
 "Qurilma xavfsizligi faqat jismoniy uskunada mavjud. Hech qanday jismoniy "
 "qurilma aniqlanmadi."
 
-#: panels/privacy/firmware-security/cc-firmware-security-page.blp:160
+#: panels/privacy/firmware-security/cc-firmware-security-page.blp:162
 msgid "Security Events"
 msgstr "Xavfsizlik tadbirlari"
 
-#: panels/privacy/firmware-security/cc-firmware-security-page.blp:167
+#: panels/privacy/firmware-security/cc-firmware-security-page.blp:169
 msgid "No Events"
 msgstr "Tadbir yoʻq"
 
@@ -9651,15 +9651,15 @@ msgstr ""
 "Bir muddat foydalanishdan keyin ekran vaqti haqidagi maʼlumotlar shu yerda "
 "paydo boʻladi"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:164
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:166
 msgid "Average Week"
 msgstr "Oʻrtacha hafta"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:208
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:212
 msgid "Previous Week"
 msgstr "Oldingi hafta"
 
-#: panels/wellbeing/cc-screen-time-statistics-row.blp:218
+#: panels/wellbeing/cc-screen-time-statistics-row.blp:222
 msgid "Next Week"
 msgstr "Keyingi hafta"
 

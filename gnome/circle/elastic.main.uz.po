@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elastic main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/elastic/-/issues\n"
-"POT-Creation-Date: 2026-04-20 18:20+0000\n"
+"POT-Creation-Date: 2026-05-18 12:24+0000\n"
 "PO-Revision-Date: 2025-10-17 17:12+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -32,7 +32,7 @@ msgstr "Prujina animatsiyalarini loyihalash"
 msgid "spring;animation;animations;GNOME;GTK;Adwaita;"
 msgstr "prujina;animatsiya;animatsiyalar;GNOME;GTK;Adwaita;"
 
-#: data/app.drey.Elastic.gschema.xml:14 src/preferences-dialog.blp:10
+#: data/app.drey.Elastic.gschema.xml:14 src/preferences-dialog.blp:12
 msgid "Use Damping"
 msgstr "Amortizatsiyalashdan foydalanish"
 
@@ -112,7 +112,7 @@ msgstr "Boshlangʻich tezlik"
 msgid "Information About Initial Velocity"
 msgstr "Boshlangʻich tezlik haqida ma’lumot"
 
-#: src/basic-view.blp:72
+#: src/basic-view.blp:73
 msgid ""
 "Initial velocity affects the beginning of the animation curve without "
 "changing duration. This is useful when finishing gestures with an animation,"
@@ -123,11 +123,11 @@ msgstr ""
 "ishoralarni animatsiya bilan yakunlashda yoki harakatni har ikki yoʻnalishda"
 " koʻproq sakratishda foydali hisoblanadi."
 
-#: src/basic-view.blp:90 src/shortcuts-dialog.blp:57
+#: src/basic-view.blp:92 src/shortcuts-dialog.blp:57
 msgid "Toggle Graph"
 msgstr "Grafikni yoqish/oʻchirish"
 
-#: src/basic-view.blp:102 src/shortcuts-dialog.blp:52
+#: src/basic-view.blp:104 src/shortcuts-dialog.blp:52
 msgid "Run Animation"
 msgstr "Animatsiyani ishga tushirish"
 
@@ -147,7 +147,7 @@ msgstr "Maksimum: %.2lf"
 msgid "Duration: %.0lf ms"
 msgstr "Davomiyligi: %.0lf ms"
 
-#: src/preferences-dialog.blp:7
+#: src/preferences-dialog.blp:8
 msgid ""
 "Damping determines how much the spring oscillates. Damping ratio is a more convenient parameter adjusted to behave the same way regardless of mass and stiffness, and most of the time it’s easier to work with.\n"
 "\n"
@@ -157,7 +157,7 @@ msgstr ""
 "\n"
 "Agar siz amortizatsiyalashdan foydalanadigan boshqa freymvorkdan qiymatlarni import qilishingiz kerak boʻlsa, uning oʻrniga amortizatsiyalashga oʻtishingiz mumkin."
 
-#: src/preferences-dialog.blp:11
+#: src/preferences-dialog.blp:13
 msgid "Prefer damping instead of damping ratio"
 msgstr "Amortizatsiya koeffitsiyenti oʻrniga amortizatsiyani afzal koʻring"
 
@@ -169,7 +169,7 @@ msgstr "Amortizatsiyalash"
 msgid "Information About Damping"
 msgstr "Amortizatsiya haqida ma’lumot"
 
-#: src/properties-view.blp:89
+#: src/properties-view.blp:90
 msgid ""
 "How much the spring oscillates. Set it to the marked value to bring the "
 "spring to rest as soon as possible with no oscillation, lower values to "
@@ -180,15 +180,15 @@ msgstr ""
 "uchun pastroq qiymatlarga, prujinani sekinlashtirish uchun yuqori "
 "qiymatlarga qoʻying."
 
-#: src/properties-view.blp:99
+#: src/properties-view.blp:101
 msgid "Damping Ratio"
 msgstr "Amortizatsiya koeffitsiyenti"
 
-#: src/properties-view.blp:100
+#: src/properties-view.blp:102
 msgid "Information About Damping Ratio"
 msgstr "Amortizatsiya darajasi haqida ma’lumot"
 
-#: src/properties-view.blp:101
+#: src/properties-view.blp:104
 msgid ""
 "How much the spring oscillates. Set it to 1 to bring the spring to rest as "
 "soon as possible with no oscillation, lower values to create oscillation, "
@@ -199,15 +199,15 @@ msgstr ""
 "qilish uchun kichik qiymatlarni, prujinani sekinlashtirish uchun yuqori "
 "qiymatlarni oʻrnating."
 
-#: src/properties-view.blp:115
+#: src/properties-view.blp:119
 msgid "Mass"
 msgstr "Massa"
 
-#: src/properties-view.blp:116
+#: src/properties-view.blp:120
 msgid "Information About Mass"
 msgstr "Massa haqida ma’lumot"
 
-#: src/properties-view.blp:117
+#: src/properties-view.blp:121
 msgid ""
 "The mass of the attached object. The higher the mass is, the longer the "
 "spring takes to stop."
@@ -215,15 +215,15 @@ msgstr ""
 "Biriktirilgan jismning massasi. Massa qancha yuqori boʻlsa, prujinaning "
 "toʻxtashi shuncha uzoq davom etadi."
 
-#: src/properties-view.blp:128
+#: src/properties-view.blp:132
 msgid "Stiffness"
 msgstr "Qattiqlik"
 
-#: src/properties-view.blp:129
+#: src/properties-view.blp:133
 msgid "Information About Stiffness"
 msgstr "Qattiqlik haqida ma’lumot"
 
-#: src/properties-view.blp:130
+#: src/properties-view.blp:134
 msgid ""
 "The stiffness of the spring. The higher the stiffness is, the faster the "
 "spring contracts."
@@ -231,15 +231,15 @@ msgstr ""
 "Prujinaning qattiqligi. Qattiqlik qanchalik yuqori boʻlsa, prujina shuncha "
 "tezroq qisqaradi."
 
-#: src/properties-view.blp:141
+#: src/properties-view.blp:145
 msgid "Epsilon"
 msgstr "Epsilon"
 
-#: src/properties-view.blp:142
+#: src/properties-view.blp:146
 msgid "Information About Epsilon"
 msgstr "Epsilon haqida ma’lumot"
 
-#: src/properties-view.blp:143
+#: src/properties-view.blp:148
 msgid ""
 "Determines when to stop the simulation. This value should be large enough "
 "that the animation doesn’t last too long, but small enough that there’s no "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: video-trimmer master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/YaLTeR/video-trimmer/-/issues\n"
-"POT-Creation-Date: 2026-03-21 07:21+0000\n"
+"POT-Creation-Date: 2026-05-26 05:57+0000\n"
 "PO-Revision-Date: 2025-10-20 18:20+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -155,12 +155,12 @@ msgid "Open video"
 msgstr "Videoni ochish"
 
 #. Translators: error dialog title.
-#: src/window.rs:271 src/window.rs:434 src/window.rs:677
+#: src/window.rs:271 src/window.rs:434 src/window.rs:694
 msgid "Error"
 msgstr "Xatolik"
 
 #. Translators: error dialog text.
-#: src/window.rs:274 src/window.rs:437 src/window.rs:680
+#: src/window.rs:274 src/window.rs:437 src/window.rs:697
 msgid ""
 "Video Trimmer can only operate on local files. Please choose another file."
 msgstr ""
@@ -168,8 +168,8 @@ msgstr ""
 "tanlang."
 
 #. Translators: error dialog button.
-#: src/window.rs:279 src/window.rs:442 src/window.rs:619 src/window.rs:641
-#: src/window.rs:685
+#: src/window.rs:279 src/window.rs:442 src/window.rs:636 src/window.rs:658
+#: src/window.rs:702
 msgid "_OK"
 msgstr "Hop"
 
@@ -179,18 +179,18 @@ msgid " ({} - {})"
 msgstr ""
 
 #. Translators: message dialog text.
-#: src/window.rs:529
+#: src/window.rs:546
 msgid "Trimming…"
 msgstr "Qirqilmoqda…"
 
 #. Translators: trimming dialog button.
-#: src/window.rs:532
+#: src/window.rs:549
 msgid "_Cancel"
 msgstr "Bekor qilish"
 
 #. Translators: text on the toast after trimming was done.
 #. The placeholder is the video filename.
-#: src/window.rs:552
+#: src/window.rs:569
 #, rust-format
 msgid "{} has been saved"
 msgstr "{} saqlandi"
@@ -198,77 +198,77 @@ msgstr "{} saqlandi"
 #. Translators: text on the button of the toast after
 #. trimming was done to show the output file in the file
 #. manager.
-#: src/window.rs:559
+#: src/window.rs:576
 msgid "Show in Files"
 msgstr "Fayllar ichida koʻrsatish"
 
 #. Translators: error dialog heading.
-#: src/window.rs:591
+#: src/window.rs:608
 msgid "Error trimming video"
 msgstr "Videoni qirqishda xatolik yuz berdi"
 
 #. Translators: error dialog text before the FFmpeg
 #. error output.
-#: src/window.rs:595
+#: src/window.rs:612
 msgid "Please attach the following information when reporting an issue."
 msgstr "Muammo haqida xabar berishda quyidagi ma’lumotlarni biriktiring."
 
-#: src/window.rs:606
+#: src/window.rs:623
 msgid "Could not communicate with the ffmpeg subprocess"
 msgstr "FFmpeg ichki jarayoni bilan aloqa oʻrnatib boʻlmadi"
 
 #. Translators: error dialog text.
-#: src/window.rs:637
+#: src/window.rs:654
 msgid "Could not create the ffmpeg subprocess"
 msgstr "FFmpeg ichki jarayoni yaratib boʻlmadi"
 
 #. Translators: shown in the About dialog, put your name here.
-#: src/window.rs:902
+#: src/window.rs:919
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
 #. Translators: link title in the About dialog.
-#: src/window.rs:905
+#: src/window.rs:922
 msgid "Contribute Translations"
 msgstr "Tarjimalarga hissa qoʻshish"
 
 #. Translators: name of https://gitlab.gnome.org/YaLTeR/identity
-#: src/window.rs:911
+#: src/window.rs:928
 msgid "Identity"
 msgstr "Identifikatsiya"
 
 #. Translators: summary of https://gitlab.gnome.org/YaLTeR/identity
-#: src/window.rs:913
+#: src/window.rs:930
 msgid "Compare images and videos"
 msgstr "Rasm va videolarni solishtirish"
 
-#: src/window.rs:920
+#: src/window.rs:937
 msgid ""
 "This release improves the default output file naming and adds command-line "
 "options."
 msgstr ""
 
-#: src/window.rs:921
+#: src/window.rs:938
 msgid "The default output filename now includes start and end timestamps."
 msgstr ""
 
-#: src/window.rs:922
+#: src/window.rs:939
 msgid ""
 "Added command-line flags for start and end timestamps, precise trimming, and"
 " removing audio."
 msgstr ""
 
-#: src/window.rs:923
+#: src/window.rs:940
 msgid "Increased the default window size to make the video 960×540."
 msgstr ""
 
-#: src/window.rs:924
+#: src/window.rs:941
 #, fuzzy
 #| msgid "Updated to the GNOME 48 platform."
 msgid "Updated to the GNOME 50 platform."
 msgstr "GNOME 48 platformasiga yangilandi."
 
-#: src/window.rs:925
+#: src/window.rs:942
 msgid "Updated translations."
 msgstr "Yangilangan tarjimalar."
 

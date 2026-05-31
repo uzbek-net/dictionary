@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-03-23 09:46+0000\n"
+"POT-Creation-Date: 2026-05-25 11:03+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -545,7 +545,7 @@ msgid "Your print range selection does not include any pages"
 msgstr "Chop qilish doirasi tarkibida sahifalar mavjud emas"
 
 #. show close if the certificate is null, or if no cert is found
-#: libview/pps-print-operation.c:1336 previewer/pps-previewer-window.blp:81
+#: libview/pps-print-operation.c:1336 previewer/pps-previewer-window.blp:83
 #: shell/resources/pps-document-view.blp:560
 #: shell/resources/pps-window.blp:138 shell/src/document_view/io.rs:555
 msgid "_Close"
@@ -618,55 +618,55 @@ msgstr "Betlarning chegarasini koʻrish"
 msgid "When enabled, a border will be drawn around each page."
 msgstr "Agar belgilansa, betning chegarasi boʻylab rasm chiziladi."
 
-#: libview/pps-print-operation.c:2006
+#: libview/pps-print-operation.c:2010
 msgid "Page Handling"
 msgstr "Sahifalarni qayta ishlash"
 
-#: libview/pps-view.c:2134
+#: libview/pps-view.c:2125
 msgid "Go to first page"
 msgstr "Birinchi sahifaga oʻtish"
 
-#: libview/pps-view.c:2136
+#: libview/pps-view.c:2127
 msgid "Go to previous page"
 msgstr "Oldingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2138
+#: libview/pps-view.c:2129
 msgid "Go to next page"
 msgstr "Keyingi sahifaga oʻtish"
 
-#: libview/pps-view.c:2140
+#: libview/pps-view.c:2131
 msgid "Go to last page"
 msgstr "Soʻngi sahifaga oʻtish"
 
-#: libview/pps-view.c:2142
+#: libview/pps-view.c:2133
 msgid "Go to page"
 msgstr "Sahifaga oʻtish"
 
-#: libview/pps-view.c:2144
+#: libview/pps-view.c:2135
 msgid "Find"
 msgstr "Indekslangan xususiyatlar topilmadi"
 
-#: libview/pps-view.c:2173
+#: libview/pps-view.c:2164
 #, c-format
 msgid "Go to page %s"
 msgstr "%s sahifaga oʻtish"
 
-#: libview/pps-view.c:2179
+#: libview/pps-view.c:2170
 #, c-format
 msgid "Go to %s on file “%s”"
 msgstr "\"%s\" faylidagi %s ga oʻtish"
 
-#: libview/pps-view.c:2182
+#: libview/pps-view.c:2173
 #, c-format
 msgid "Go to file “%s”"
 msgstr "\"%s\" faylga oʻtish"
 
-#: libview/pps-view.c:2190
+#: libview/pps-view.c:2181
 #, c-format
 msgid "Launch %s"
 msgstr "%s ishga tushirish"
 
-#: libview/pps-view.c:2197
+#: libview/pps-view.c:2188
 #, c-format
 msgid "Reset form"
 msgstr "Shaklni tiklash"
@@ -747,42 +747,42 @@ msgstr "Tanlangan printer \"%s\" topilmadi"
 msgid "Papers"
 msgstr "Qogʻozlar"
 
-#: previewer/pps-previewer-window.blp:19
+#: previewer/pps-previewer-window.blp:21
 msgid "Previous Page"
 msgstr "Oldingi sahifa"
 
-#: previewer/pps-previewer-window.blp:25
+#: previewer/pps-previewer-window.blp:27
 msgid "Next Page"
 msgstr "Keyingi sahifa"
 
-#: previewer/pps-previewer-window.blp:31
+#: previewer/pps-previewer-window.blp:33
 #: shell/resources/pps-document-view.blp:210
 msgid "Page Count"
 msgstr "Sahifalar soni"
 
-#: previewer/pps-previewer-window.blp:36
+#: previewer/pps-previewer-window.blp:38
 msgid "_Print"
 msgstr "_Chop etish"
 
-#: previewer/pps-previewer-window.blp:37
+#: previewer/pps-previewer-window.blp:39
 msgid "Print This Document"
 msgstr "Skanerlangan hujjatni chop etish"
 
-#: previewer/pps-previewer-window.blp:48
+#: previewer/pps-previewer-window.blp:50
 #: shell/resources/pps-document-view.blp:287
 msgid "Zoom Out"
 msgstr "Kichraytirish"
 
-#: previewer/pps-previewer-window.blp:55
+#: previewer/pps-previewer-window.blp:57
 msgid "Normal Size"
 msgstr "Oʻrtacha oʻlcham"
 
-#: previewer/pps-previewer-window.blp:62
+#: previewer/pps-previewer-window.blp:64
 #: shell/resources/pps-document-view.blp:275
 msgid "Zoom In"
 msgstr "Kattalashtirish"
 
-#: previewer/pps-previewer-window.blp:78 shell/src/document_view/print.rs:110
+#: previewer/pps-previewer-window.blp:80 shell/src/document_view/print.rs:110
 msgid "Failed to Print Document"
 msgstr "Hujjatni bosib chiqarish muvaffaqiyatsiz yakunlandi"
 

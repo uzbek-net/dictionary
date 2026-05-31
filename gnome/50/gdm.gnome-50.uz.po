@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdm/issues/\n"
-"POT-Creation-Date: 2026-03-13 22:31+0000\n"
+"POT-Creation-Date: 2026-05-28 14:15+0000\n"
 "PO-Revision-Date: 2025-12-26 17:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -35,23 +35,23 @@ msgstr "Joriy seansni aniqlab boʻlmadi: "
 msgid "Could not identify the current seat."
 msgstr "Joriy joyni aniqlab boʻlmadi."
 
-#: daemon/gdm-manager.c:668 daemon/gdm-manager.c:704
+#: daemon/gdm-manager.c:682 daemon/gdm-manager.c:718
 msgid "No display available"
 msgstr "Displey mavjud emas"
 
-#: daemon/gdm-manager.c:754 daemon/gdm-manager.c:1059
+#: daemon/gdm-manager.c:785 daemon/gdm-manager.c:1090
 msgid "No session available"
 msgstr "Seans mavjud emas"
 
-#: daemon/gdm-manager.c:770
+#: daemon/gdm-manager.c:801
 msgid "Can only be called before user is logged in"
 msgstr "Faqat foydalanuvchi kirishidan oldin chaqirilishi mumkin"
 
-#: daemon/gdm-manager.c:782
+#: daemon/gdm-manager.c:813
 msgid "Caller not GDM"
 msgstr "Chaqiruvchi GDM emas"
 
-#: daemon/gdm-manager.c:792
+#: daemon/gdm-manager.c:823
 msgid "Unable to open private communication channel"
 msgstr "Shaxsiy aloqa kanalini ochib boʻlmadi"
 
@@ -79,7 +79,7 @@ msgstr "Displey qurilmasi"
 msgid "The display device"
 msgstr "Displey qurilmasi"
 
-#: daemon/gdm-session.c:1442
+#: daemon/gdm-session.c:1446
 msgid "Could not create authentication helper process"
 msgstr "Autentifikatsiya yordamchi jarayoni yaratilmadi"
 
