@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mutter main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/mutter/issues/\n"
-"POT-Creation-Date: 2026-03-14 20:50+0000\n"
+"POT-Creation-Date: 2026-05-29 12:02+0000\n"
 "PO-Revision-Date: 2025-04-07 07:51+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -861,7 +861,7 @@ msgstr "Foydalanish uchun Mutter plagini"
 msgid "Workspace %d"
 msgstr "Ish maydoni %d"
 
-#: src/core/util.c:150
+#: src/core/util.c:149
 msgid "Mutter was compiled without support for verbose mode"
 msgstr "Mutter batafsil rejimni qoʻllab-quvvatlamasdan tuzilgan"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-25 12:09+0000\n"
+"POT-Creation-Date: 2026-06-06 21:45+0000\n"
 "PO-Revision-Date: 2025-05-23 11:38+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -676,17 +676,17 @@ msgid "_Close"
 msgstr "_Yopish"
 
 #: gtk/a11y/gtkimageaccessible.c:59 gtk/gtkheaderbar.c:415
-#: gtk/gtkwindow.c:9360
+#: gtk/gtkwindow.c:9362
 msgid "Minimize"
 msgstr ""
 
 #: gtk/a11y/gtkimageaccessible.c:60 gtk/gtkheaderbar.c:439
-#: gtk/gtkwindow.c:9369
+#: gtk/gtkwindow.c:9371
 msgid "Maximize"
 msgstr ""
 
 #: gtk/a11y/gtkimageaccessible.c:61 gtk/gtkheaderbar.c:439
-#: gtk/gtkwindow.c:9326
+#: gtk/gtkwindow.c:9328
 msgid "Restore"
 msgstr "Qayta tiklash"
 
@@ -1243,7 +1243,7 @@ msgstr ""
 #: gtk/gtkmountoperation.c:599 gtk/gtkpagesetupunixdialog.c:197
 #: gtk/gtkprintbackend.c:779 gtk/gtkprinteroptionwidget.c:545
 #: gtk/gtkprintunixdialog.c:674 gtk/gtkprintunixdialog.c:747
-#: gtk/gtkwindow.c:12834 gtk/inspector/css-editor.c:201
+#: gtk/gtkwindow.c:12836 gtk/inspector/css-editor.c:201
 #: gtk/ui/gtkappchooserdialog.ui:61 gtk/ui/gtkassistant.ui:125
 #: gtk/ui/gtkcolorchooserdialog.ui:34 gtk/ui/gtkfontchooserdialog.ui:31
 #, fuzzy
@@ -1303,7 +1303,7 @@ msgid "_Apply"
 msgstr "_Qoʻllash"
 
 #: gtk/deprecated/gtkfontsel.c:1698 gtk/gtkmessagedialog.c:963
-#: gtk/gtkmessagedialog.c:985 gtk/gtkprintbackend.c:780 gtk/gtkwindow.c:12835
+#: gtk/gtkmessagedialog.c:985 gtk/gtkprintbackend.c:780 gtk/gtkwindow.c:12837
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_OK"
@@ -2912,7 +2912,7 @@ msgstr ""
 msgid "Application menu"
 msgstr "Dastur"
 
-#: gtk/gtkheaderbar.c:458 gtk/gtkwindow.c:9396
+#: gtk/gtkheaderbar.c:458 gtk/gtkwindow.c:9398
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Close"
@@ -4270,24 +4270,24 @@ msgctxt "volume percentage"
 msgid "%d %%"
 msgstr ""
 
-#: gtk/gtkwindow.c:9344
+#: gtk/gtkwindow.c:9346
 msgid "Move"
 msgstr "Siljish"
 
-#: gtk/gtkwindow.c:9352
+#: gtk/gtkwindow.c:9354
 msgid "Resize"
 msgstr "Hajmini oʻzgartirish"
 
-#: gtk/gtkwindow.c:9383
+#: gtk/gtkwindow.c:9385
 msgid "Always on Top"
 msgstr ""
 
-#: gtk/gtkwindow.c:12822
+#: gtk/gtkwindow.c:12824
 #, c-format
 msgid "Do you want to use GTK+ Inspector?"
 msgstr ""
 
-#: gtk/gtkwindow.c:12824
+#: gtk/gtkwindow.c:12826
 #, c-format
 msgid ""
 "GTK+ Inspector is an interactive debugger that lets you explore and modify "
@@ -4295,7 +4295,7 @@ msgid ""
 " break or crash."
 msgstr ""
 
-#: gtk/gtkwindow.c:12829
+#: gtk/gtkwindow.c:12831
 msgid "Don't show this message again"
 msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2026-04-13 04:21+0000\n"
+"POT-Creation-Date: 2026-06-04 20:17+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -37,8 +37,8 @@ msgid ""
 msgstr ""
 "qaydlar;nextcloud;minimal;chalgʻitish;tahrirchi;fokuslangan;matn;yozish;markdaun;hujjat;gnome;gtk;"
 
-#. Translators: Button
-#: data/org.gnome.World.Iotas.desktop.in.in:22 data/ui/index.ui:47
+#. Translators: Button tooltip
+#: data/org.gnome.World.Iotas.desktop.in.in:22 data/ui/index.blp:45
 msgid "New Note"
 msgstr "Yangi qayd"
 
@@ -80,7 +80,7 @@ msgstr "Turkumni tahrirlash va filtrlash"
 #. Translators: Part of metainfo description
 #. Translators: Section title
 #: data/org.gnome.World.Iotas.metainfo.xml.in.in:64
-#: data/ui/index_note_list.ui:22
+#: data/ui/index_note_list.blp:20
 msgid "Favorites"
 msgstr "Sevimlilar"
 
@@ -205,7 +205,7 @@ msgstr ""
 #. Translators: A screenshot description.
 #. Translators: Title
 #: data/org.gnome.World.Iotas.metainfo.xml.in.in:113
-#: data/ui/keyboard_shortcuts_dialog.ui:12 data/ui/preferences_dialog.ui:143
+#: data/ui/keyboard_shortcuts_dialog.blp:10 data/ui/preferences_dialog.blp:142
 msgid "Index"
 msgstr "Indeks"
 
@@ -229,204 +229,206 @@ msgstr "Tungi uslubda indekslash"
 msgid "Mobile"
 msgstr "Mobil"
 
-#. Add your name to the translator credits list
-#: data/ui/about_dialog.ui.in:13
+#. Translators: Add your name to the translator credits list
+#: data/ui/about_dialog.blp:16
 msgid "translator-credits"
 msgstr ""
 "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>\n"
 "Baxrom Raxmatov"
 
 #. Translators: Button
-#: data/ui/category_header_bar.ui:21 data/ui/editor_rename_header_bar.ui:23
+#. Translators: Description, tooltip
+#: data/ui/category_header_bar.blp:21 data/ui/editor_rename_header_bar.blp:21
 msgid "Revert Changes"
 msgstr "Oʻzgarishlarni bekor qilish"
 
-#. Translators: Button tooltip
-#: data/ui/category_header_bar.ui:48 data/ui/editor_rename_header_bar.ui:46
-msgid "Apply Changes"
-msgstr "Oʻzgarishlarni qoʻllash"
-
 #. Translators: Button
-#: data/ui/category_header_bar.ui:50 data/ui/editor_rename_header_bar.ui:48
+#: data/ui/category_header_bar.blp:53 data/ui/editor_rename_header_bar.blp:43
 #: iotas/link_dialog.py:56
 msgid "Apply"
 msgstr "Qoʻllash"
 
+#. Translators: Button tooltip
+#. Translators: Description, tooltip
+#: data/ui/category_header_bar.blp:56 data/ui/editor_rename_header_bar.blp:46
+msgid "Apply Changes"
+msgstr "Oʻzgarishlarni qoʻllash"
+
 #. Translators: Button
-#: data/ui/category_header_bar.ui:64
+#: data/ui/category_header_bar.blp:70
 msgid "Clear and Apply"
 msgstr "Tozalash va qoʻllash"
 
 #. Translators: Placeholder text
-#: data/ui/editor_search_entry.ui:19
+#: data/ui/editor_search_entry.blp:15
 msgid "Find"
 msgstr "Toping"
 
+#. Translators: Description, tooltip
 #. Translators: Button
-#: data/ui/editor_search_header_bar.ui:22
-#: data/ui/index_search_header_bar.ui:17
-#: data/ui/render_search_header_bar.ui:21 data/ui/selection_header_bar.ui:22
+#. Translators: Button tooltip
+#: data/ui/editor_search_header_bar.blp:23
+#: data/ui/index_search_header_bar.blp:16
+#: data/ui/render_search_header_bar.blp:21 data/ui/selection_header_bar.blp:19
 msgid "Back"
 msgstr "Ortga qaytish"
 
-#. Translators: Button tooltip
+#. Translators: Description, tooltip
 #. Translators: Description, keyboard shortcut
 #. Translators: Button tooltip
-#: data/ui/editor_search_header_bar.ui:49
-#: data/ui/keyboard_shortcuts_dialog.ui:321
-#: data/ui/render_search_header_bar.ui:42
+#: data/ui/editor_search_header_bar.blp:49
+#: data/ui/keyboard_shortcuts_dialog.blp:273
+#: data/ui/render_search_header_bar.blp:41
 msgid "Previous Match"
 msgstr "Oldingi moslik"
 
-#. Translators: Button tooltip
+#. Translators: Description, tooltip
 #. Translators: Description, keyboard shortcut
 #. Translators: Button tooltip
-#: data/ui/editor_search_header_bar.ui:57
-#: data/ui/keyboard_shortcuts_dialog.ui:314
-#: data/ui/render_search_header_bar.ui:50
+#: data/ui/editor_search_header_bar.blp:56
+#: data/ui/keyboard_shortcuts_dialog.blp:267
+#: data/ui/render_search_header_bar.blp:48
 msgid "Next Match"
 msgstr "Keyingi moslik"
 
 #. Translators: Placeholder text
 #. Translators: Button
 #. Translators: Description, keyboard shortcut
-#: data/ui/editor_search_header_bar.ui:79
-#: data/ui/editor_search_header_bar.ui:88
-#: data/ui/keyboard_shortcuts_dialog.ui:307
+#: data/ui/editor_search_header_bar.blp:73
+#: data/ui/editor_search_header_bar.blp:83
+#: data/ui/keyboard_shortcuts_dialog.blp:261
 msgid "Replace"
 msgstr "Almashtiring"
 
 #. Translators: Menu item
 #. Translators: Description, keyboard shortcut
-#: data/ui/editor.ui:23 data/ui/keyboard_shortcuts_dialog.ui:334
+#: data/ui/editor.blp:23 data/ui/keyboard_shortcuts_dialog.blp:284
 msgid "Focus Mode"
 msgstr "Fokus rejimi"
 
 #. Translators: Menu item
-#: data/ui/editor.ui:30
+#: data/ui/editor.blp:31
 msgid "Find and Replace…"
 msgstr "Topish va almashtirish…"
 
 #. Translators: Menu item
-#: data/ui/editor.ui:35
+#: data/ui/editor.blp:37
 msgid "Jump To…"
 msgstr "Sahifaga oʻtish…"
 
 #. Translators: Menu item
-#: data/ui/editor.ui:42
+#: data/ui/editor.blp:45
 msgid "Edit Title…"
 msgstr "Sarlavhani tahrirlash…"
 
 #. Translators: Menu item
-#: data/ui/editor.ui:47
+#: data/ui/editor.blp:51
 msgid "Change Category…"
 msgstr "Toifani oʻzgartirish…"
 
 #. Translators: Menu item
 #. Translators: Description, keyboard shortcut
-#: data/ui/editor.ui:52 data/ui/keyboard_shortcuts_dialog.ui:100
+#: data/ui/editor.blp:57 data/ui/keyboard_shortcuts_dialog.blp:85
 msgid "Delete"
 msgstr "Oʻchirish"
 
 #. Translators: Menu item
-#: data/ui/editor.ui:59
+#: data/ui/editor.blp:65
 msgid "Export…"
 msgstr "Eksport…"
 
-#. Translators: Button
-#: data/ui/editor.ui:94
+#. Translators: Description, tooltip
+#: data/ui/editor.blp:108
 msgid "Back to Notes"
 msgstr "Qaydlarga qaytish"
 
-#. Translators: Description, tooltip
-#: data/ui/editor.ui:130
+#. Translators: Description, help
+#: data/ui/editor.blp:141
 msgid "Note is Read-Only"
 msgstr "Qayd faqat oʻqish uchun"
 
-#. Translators: Button
-#: data/ui/editor.ui:140
+#. Translators: Description, tooltip
+#: data/ui/editor.blp:150
 msgid "Editor Menu"
 msgstr "Tahrirchi menyusi"
 
-#. Translators: Button
+#. Translators: Description, tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/editor.ui:148 data/ui/keyboard_shortcuts_dialog.ui:127
+#: data/ui/editor.blp:159 data/ui/keyboard_shortcuts_dialog.blp:107
 msgid "Toggle Markdown Render"
 msgstr "Markdaun renderini yoqish/oʻchirish"
 
-#. Translators: Button
-#: data/ui/editor.ui:156
+#. Translators: Description, tooltip
+#: data/ui/editor.blp:166
 msgid "Edit Note"
 msgstr "Qaydni tahrirlash"
 
 #. Translators: Description, help
-#: data/ui/editor.ui:266
+#: data/ui/editor.blp:255
 msgid "Render Engine Loading"
 msgstr "Qaydni tahrirlash"
 
 #. Translators: Button
-#: data/ui/export_dialog.ui:27 data/ui/export_dialog.ui:55
-#: data/ui/export_dialog.ui:83 data/ui/export_dialog.ui:101
+#: data/ui/export_dialog.blp:23 data/ui/export_dialog.blp:49
+#: data/ui/export_dialog.blp:75 data/ui/export_dialog.blp:90
 #: iotas/preferences_dialog.py:350 iotas/preferences_dialog.py:375
 msgid "Cancel"
 msgstr "Bekor qilish"
 
 #. Translators: Title
-#: data/ui/export_dialog.ui:35
+#: data/ui/export_dialog.blp:30
 msgid "Export As…"
 msgstr "Eksport qilish…"
 
 #. Translators: Title
-#: data/ui/export_dialog.ui:63
+#: data/ui/export_dialog.blp:56
 msgid "Checking Attachments…"
 msgstr ""
 
 #. Translators: Title
-#: data/ui/export_dialog.ui:109
+#: data/ui/export_dialog.blp:97
 msgid "Exporting…"
 msgstr "Eksport qilinmoqda…"
 
 #. Translators: Button
-#. Translators: Title
-#. Translators: Button
-#: data/ui/export_dialog.ui:129 data/ui/export_dialog.ui:154
-#: data/ui/outline_dialog.ui:109 iotas/ui_utils.py:96
+#: data/ui/export_dialog.blp:116 data/ui/export_dialog.blp:140
+#: data/ui/outline_dialog.blp:99 iotas/ui_utils.py:96
 msgid "Close"
 msgstr "Yopish"
 
 #. Translators: Button
-#: data/ui/export_dialog.ui:136
+#: data/ui/export_dialog.blp:123
 msgid "Show"
 msgstr "Koʻrsatish"
 
 #. Translators: Button
-#: data/ui/export_dialog.ui:355
+#: data/ui/export_dialog.blp:319
 msgid "Retry"
 msgstr "Qayta urinish"
 
 #. Translators: Button
-#: data/ui/export_dialog.ui:364
+#: data/ui/export_dialog.blp:328
 msgid "Export Anyway"
 msgstr "Baribir eksport qiling"
 
 #. Translators: Title. Iotas is the application name and shouldn't be
 #. translated.
-#: data/ui/first_start_page.ui:15
+#: data/ui/first_start_page.blp:10
 msgid "Welcome to Iotas"
 msgstr "Iotas'ga xush kelibsiz"
 
 #. Translators: Description, introduction help
-#: data/ui/first_start_page.ui:25
+#: data/ui/first_start_page.blp:20
 msgid "Use the header bar above to…"
 msgstr "Yuqoridagi sarlavha panelidan foydalanib…"
 
 #. Translators: Description, introduction help
-#: data/ui/first_start_page.ui:48
+#: data/ui/first_start_page.blp:43
 msgid "Add a Note"
 msgstr "Qayd qoʻshish"
 
 #. Translators: Description, introduction help
-#: data/ui/first_start_page.ui:69
+#: data/ui/first_start_page.blp:64
 #, fuzzy
 #| msgid "Sync with Nextcloud Notes"
 msgctxt "first-start-view"
@@ -435,131 +437,136 @@ msgstr "Nextcloud qaydlar bilan sinxronlash"
 
 #. Translators: Button tooltip
 #. Translators: Button
-#: data/ui/font_size_selector.ui:20 data/ui/font_size_selector.ui:24
+#: data/ui/font_size_selector.blp:16 data/ui/font_size_selector.blp:22
 msgid "Zoom Out"
 msgstr "Kichraytirish"
 
 #. Translators: Button tooltip
 #. Translators: Button
-#: data/ui/font_size_selector.ui:40 data/ui/font_size_selector.ui:44
+#: data/ui/font_size_selector.blp:36 data/ui/font_size_selector.blp:42
 msgid "Zoom In"
 msgstr "Kattalashtirish"
 
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:12 data/ui/formatting_header_bar.ui:164
-#: data/ui/keyboard_shortcuts_dialog.ui:273
+#: data/ui/formatting_header_bar.blp:11 data/ui/formatting_header_bar.blp:165
+#: data/ui/keyboard_shortcuts_dialog.blp:232
 msgid "Horizontal Rule"
 msgstr "Gorizontal qoida"
 
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:17 data/ui/formatting_header_bar.ui:173
-#: data/ui/keyboard_shortcuts_dialog.ui:280
+#: data/ui/formatting_header_bar.blp:17 data/ui/formatting_header_bar.blp:173
+#: data/ui/keyboard_shortcuts_dialog.blp:238
 msgid "Quote"
 msgstr "Iqtibos"
 
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:22 data/ui/formatting_header_bar.ui:182
-#: data/ui/keyboard_shortcuts_dialog.ui:259
+#: data/ui/formatting_header_bar.blp:23 data/ui/formatting_header_bar.blp:181
+#: data/ui/keyboard_shortcuts_dialog.blp:220
 msgid "Code"
 msgstr "Kod"
 
 #. Translators: Menu item
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:27 data/ui/formatting_header_bar.ui:191
-#: data/ui/keyboard_shortcuts_dialog.ui:287
+#: data/ui/formatting_header_bar.blp:29 data/ui/formatting_header_bar.blp:189
+#: data/ui/keyboard_shortcuts_dialog.blp:244
 msgid "Table"
 msgstr "Jadval"
 
 #. Translators: Menu item
-#: data/ui/formatting_header_bar.ui:36
+#: data/ui/formatting_header_bar.blp:39
 msgid "Level 1"
 msgstr "1-daraja"
 
 #. Translators: Menu item
-#: data/ui/formatting_header_bar.ui:41
+#: data/ui/formatting_header_bar.blp:45
 msgid "Level 2"
 msgstr "2-daraja"
 
 #. Translators: Menu item
-#: data/ui/formatting_header_bar.ui:46
+#: data/ui/formatting_header_bar.blp:51
 msgid "Level 3"
 msgstr "4-daraja"
 
 #. Translators: Menu item
-#: data/ui/formatting_header_bar.ui:51
+#: data/ui/formatting_header_bar.blp:57
 msgid "Level 4"
 msgstr "4-daraja"
 
 #. Translators: Menu item
-#: data/ui/formatting_header_bar.ui:56
+#: data/ui/formatting_header_bar.blp:63
 msgid "Remove"
 msgstr "Olib tashlash"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:87
-#: data/ui/keyboard_shortcuts_dialog.ui:217
+#: data/ui/formatting_header_bar.blp:97
+#: data/ui/keyboard_shortcuts_dialog.blp:184
 msgid "Heading"
 msgstr "Sarlavha"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:96
-#: data/ui/keyboard_shortcuts_dialog.ui:203
+#: data/ui/formatting_header_bar.blp:105
+#: data/ui/keyboard_shortcuts_dialog.blp:172
 msgid "Bold"
 msgstr "Qalin"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:105
-#: data/ui/keyboard_shortcuts_dialog.ui:210
+#: data/ui/formatting_header_bar.blp:113
+#: data/ui/keyboard_shortcuts_dialog.blp:178
 msgid "Italic"
 msgstr "Italic"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:114
-#: data/ui/keyboard_shortcuts_dialog.ui:266
+#: data/ui/formatting_header_bar.blp:121
+#: data/ui/keyboard_shortcuts_dialog.blp:226
 msgid "Strikethrough"
 msgstr "Ustidan chizish"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:123
-#: data/ui/keyboard_shortcuts_dialog.ui:224
+#: data/ui/formatting_header_bar.blp:129
+#: data/ui/keyboard_shortcuts_dialog.blp:190
 msgid "Unordered List"
 msgstr "Tartibsiz roʻyxat"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:132
-#: data/ui/keyboard_shortcuts_dialog.ui:231
+#: data/ui/formatting_header_bar.blp:137
+#: data/ui/keyboard_shortcuts_dialog.blp:196
 msgid "Ordered List"
 msgstr "Tartibli roʻyxat"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:141
-#: data/ui/keyboard_shortcuts_dialog.ui:238
+#: data/ui/formatting_header_bar.blp:145
+#: data/ui/keyboard_shortcuts_dialog.blp:202
 msgid "Checkbox"
 msgstr "Belgilash katakchasi"
 
 #. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/formatting_header_bar.ui:150
-#: data/ui/keyboard_shortcuts_dialog.ui:252
+#: data/ui/formatting_header_bar.blp:153
+#: data/ui/keyboard_shortcuts_dialog.blp:214
 msgid "Link"
 msgstr "Havola"
 
+#. Translators: Button
+#: data/ui/index_menu_button.blp:8
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
 #. Translators: Menu item
-#: data/ui/index_menu_button.ui:18
+#: data/ui/index_menu_button.blp:21
 #, fuzzy
 #| msgid "Sync with Nextcloud Notes"
 msgctxt "index-menu"
@@ -567,95 +574,89 @@ msgid "Sync with Nextcloud Notes"
 msgstr "Nextcloud qaydlar bilan sinxronlash"
 
 #. Translators: Menu item
-#: data/ui/index_menu_button.ui:24
+#: data/ui/index_menu_button.blp:28
 msgid "Refresh"
 msgstr "Yangilash"
 
 #. Translators: Menu item
-#: data/ui/index_menu_button.ui:32
+#: data/ui/index_menu_button.blp:37
 msgid "Preferences"
 msgstr "Afzalliklar"
 
 #. Translators: Menu item
-#: data/ui/index_menu_button.ui:37
+#: data/ui/index_menu_button.blp:43
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
 #. Translators: Menu item, Iotas is the application name and shouldn't be
 #. translated
-#: data/ui/index_menu_button.ui:42
+#: data/ui/index_menu_button.blp:49
 msgid "About Iotas"
 msgstr "Iotas haqida"
 
-#. Translators: Button
-#: data/ui/index_menu_button.ui:49
-msgid "Main Menu"
-msgstr "Asosiy menyu"
-
 #. Translators: Section title
-#: data/ui/index_note_list.ui:64
+#: data/ui/index_note_list.blp:60
 msgid "Today"
 msgstr "Bugun"
 
 #. Translators: Section title
-#: data/ui/index_note_list.ui:96
+#: data/ui/index_note_list.blp:90
 msgid "Yesterday"
 msgstr "Kecha"
 
 #. Translators: Section title
-#: data/ui/index_note_list.ui:128
+#: data/ui/index_note_list.blp:120
 msgid "This Week"
 msgstr "Bu hafta"
 
 #. Translators: Section title
-#: data/ui/index_note_list.ui:160
+#: data/ui/index_note_list.blp:150
 msgid "This Month"
 msgstr "Bu oy"
 
 #. Translators: Section title
-#: data/ui/index_note_list.ui:192
+#: data/ui/index_note_list.blp:180
 msgid "Last Month"
 msgstr "Avvalgi oy"
 
-#. Translators: Button
-#: data/ui/index_note_list.ui:223
+#. Translators: Section title
+#: data/ui/index_note_list.blp:209
 msgid "Show Earlier Months"
 msgstr "Avvalgi oylarni koʻrsatish"
 
 #. Translators: Section title
-#: data/ui/index_note_list.ui:241
+#: data/ui/index_note_list.blp:225
 msgid "Before Last Month"
 msgstr "Oxirgi oydan oldin"
 
 #. Translators: Button
-#: data/ui/index_note_list.ui:289
+#: data/ui/index_note_list.blp:268
 msgid "Show More"
 msgstr "Koʻproq koʻrsatish"
 
-#. Translators: Button
-#: data/ui/index.ui:39
+#. Translators: Button tooltip
+#: data/ui/index.blp:37
 msgid "Open Categories"
 msgstr "Toifalarni ochish"
 
-#. Translators: Button
+#. Translators: Button tooltip
 #. Translators: Description, keyboard shortcut
-#: data/ui/index.ui:66 data/ui/keyboard_shortcuts_dialog.ui:45
-#: data/ui/keyboard_shortcuts_dialog.ui:300
+#: data/ui/index.blp:65 data/ui/keyboard_shortcuts_dialog.blp:38
+#: data/ui/keyboard_shortcuts_dialog.blp:255
 msgid "Search"
 msgstr "Qidirish"
 
-#. Translators: Button
-#: data/ui/index.ui:74
+#. Translators: Button tooltip
+#: data/ui/index.blp:73
 msgid "Select Notes"
 msgstr "Qaydlarni tanlash"
 
 #. Translators: Description
-#: data/ui/index.ui:92
+#: data/ui/index.blp:87
 msgid "Server connection offline"
 msgstr "Serverga ulanish oflayn"
 
-#. Translators: Description
-#: data/ui/index.ui:98
+#: data/ui/index.blp:94
 msgid ""
 "Due to behind-the-scenes changes (a new app id) Iotas needs to "
 "reauthenticate with your Nextcloud server"
@@ -665,12 +666,12 @@ msgstr ""
 "zarur"
 
 #. Translators: Button
-#: data/ui/index.ui:100 data/ui/index.ui:109
+#: data/ui/index.blp:98 data/ui/index.blp:109
 msgid "Authenticate"
 msgstr "Haqiqiylikni tasdiqlash"
 
 #. Translators: Description
-#: data/ui/index.ui:107
+#: data/ui/index.blp:106
 msgid ""
 "The authentication token for sync with Nextcloud Notes could not be "
 "retrieved"
@@ -678,75 +679,75 @@ msgstr ""
 "Nextcloud qaydlar bilan sinxronlash uchun autentifikatsiya tokeni olinmadi"
 
 #. Translators: Button
-#: data/ui/index.ui:116
+#: data/ui/index.blp:117
 msgid "Dismiss"
 msgstr "Rad etish"
 
 #. Translators: Description, help
-#: data/ui/index.ui:141
+#: data/ui/index.blp:135
 msgid "Note List Empty"
 msgstr "Qaydlar roʻyxati boʻsh"
 
 #. Translators: Description, help
-#: data/ui/index.ui:148
+#: data/ui/index.blp:141
 msgid "Enter Search Term"
 msgstr "Qidiruv iborasini kiriting"
 
 #. Translators: Description, help
-#: data/ui/index.ui:155
+#: data/ui/index.blp:147
 msgid "No Search Results"
 msgstr "Qidiruv natijalari topilmadi"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:17
+#: data/ui/keyboard_shortcuts_dialog.blp:14
 msgid "Create New Note"
 msgstr "Yangi qayd yaratish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:24
+#: data/ui/keyboard_shortcuts_dialog.blp:20
 msgid "Show Sidebar"
 msgstr "Yon panelni koʻrsatish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:31
+#: data/ui/keyboard_shortcuts_dialog.blp:26
 msgid "Move Up List"
 msgstr "Roʻyxatni yuqoriga koʻchirish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:38
+#: data/ui/keyboard_shortcuts_dialog.blp:32
 msgid "Move Down List"
 msgstr "Roʻyxatni pastga koʻchirish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:52
+#: data/ui/keyboard_shortcuts_dialog.blp:44
 msgid "Open First Search Result"
 msgstr "Birinchi qidiruv natijasini ochish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:59
+#: data/ui/keyboard_shortcuts_dialog.blp:50
 msgid "Reset Filter"
 msgstr "Filtrni asliga qaytarish"
 
 #. Translators: Title
-#: data/ui/keyboard_shortcuts_dialog.ui:67
+#: data/ui/keyboard_shortcuts_dialog.blp:57
 #, fuzzy
 #| msgid "Start Selection"
 msgid "Index Selection"
 msgstr "Tanlashni boshlash"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:72
+#: data/ui/keyboard_shortcuts_dialog.blp:61
 msgid "Start Selection"
 msgstr "Tanlashni boshlash"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:79
-#: data/ui/keyboard_shortcuts_dialog.ui:120
+#: data/ui/keyboard_shortcuts_dialog.blp:67
+#: data/ui/keyboard_shortcuts_dialog.blp:101
 msgid "Change Category"
 msgstr "Toifani oʻzgartirish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:86
+#: data/ui/keyboard_shortcuts_dialog.blp:73
 #, fuzzy
 #| msgid "Toggle Favorite for Selected"
 msgid "Toggle Favorite"
@@ -755,153 +756,153 @@ msgstr ""
 
 #. Translators: Description, keyboard shortcut
 #. Translators: Button
-#: data/ui/keyboard_shortcuts_dialog.ui:93
-#: data/ui/keyboard_shortcuts_dialog.ui:134 iotas/export_dialog.py:243
+#: data/ui/keyboard_shortcuts_dialog.blp:79
+#: data/ui/keyboard_shortcuts_dialog.blp:113 iotas/export_dialog.py:243
 msgid "Export"
 msgstr "Eksport"
 
 #. Translators: Title
-#: data/ui/keyboard_shortcuts_dialog.ui:108 data/ui/preferences_dialog.ui:19
+#: data/ui/keyboard_shortcuts_dialog.blp:91 data/ui/preferences_dialog.blp:15
 msgid "Editor"
 msgstr "Tahrirlovchi"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:113
+#: data/ui/keyboard_shortcuts_dialog.blp:95
 msgid "Edit Title"
 msgstr "Sarlavhani tahrirlash"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:141
+#: data/ui/keyboard_shortcuts_dialog.blp:119
 msgid "Jump to Section"
 msgstr "Boʻlimga oʻtish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:148
+#: data/ui/keyboard_shortcuts_dialog.blp:125
 msgid "Create New Note Including Selection"
 msgstr "Yangi qayd yaratish, jumladan, tanlash"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:155
+#: data/ui/keyboard_shortcuts_dialog.blp:131
 msgid "Undo Typing"
 msgstr "Yozishni bekor qilish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:162
+#: data/ui/keyboard_shortcuts_dialog.blp:137
 msgid "Redo Typing"
 msgstr "Qayta yozish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:169
+#: data/ui/keyboard_shortcuts_dialog.blp:143
 msgid "Insert Emoji"
 msgstr "Emoji kiritish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:176
+#: data/ui/keyboard_shortcuts_dialog.blp:149
 msgid "Focus Text View"
 msgstr "Fokuslangan matn koʻrinishi"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:183
+#: data/ui/keyboard_shortcuts_dialog.blp:155
 msgid "Focus Header Bar"
 msgstr "Fokus sarlavhasi paneli"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:190
+#: data/ui/keyboard_shortcuts_dialog.blp:161
 msgid "Focus Formatting Bar"
 msgstr "Fokusni formatlash paneli"
 
 #. Translators: Title
-#: data/ui/keyboard_shortcuts_dialog.ui:198
+#: data/ui/keyboard_shortcuts_dialog.blp:168
 msgid "Formatting"
 msgstr "Formatlash"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:245
+#: data/ui/keyboard_shortcuts_dialog.blp:208
 msgid "Toggle Checkbox"
 msgstr "Belgilash katakchasini yoqish/oʻchirish"
 
 #. Translators: Title
-#: data/ui/keyboard_shortcuts_dialog.ui:295
+#: data/ui/keyboard_shortcuts_dialog.blp:251
 msgid "Editor Search"
 msgstr "Tahrirchi qidiruvi"
 
 #. Translators: Title
-#: data/ui/keyboard_shortcuts_dialog.ui:329
+#: data/ui/keyboard_shortcuts_dialog.blp:280
 msgid "Editor Appearance"
 msgstr "Tahrirchi koʻrinishi"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:341
+#: data/ui/keyboard_shortcuts_dialog.blp:290
 msgid "Increase Line Length"
 msgstr "Satr uzunligini oshirish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:348
+#: data/ui/keyboard_shortcuts_dialog.blp:296
 msgid "Decrease Line Length"
 msgstr "Satr uzunligini qisqartirish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:355
+#: data/ui/keyboard_shortcuts_dialog.blp:302
 msgid "Increase Font Size"
 msgstr "Shrift oʻlchamini oshirish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:362
+#: data/ui/keyboard_shortcuts_dialog.blp:308
 msgid "Decrease Font Size"
 msgstr "Shrift oʻlchamini kichraytirish"
 
 #. Translators: Title
-#: data/ui/keyboard_shortcuts_dialog.ui:370
+#: data/ui/keyboard_shortcuts_dialog.blp:315
 msgid "General"
 msgstr "Umumiy"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:375
+#: data/ui/keyboard_shortcuts_dialog.blp:319
 msgid "Toggle Fullscreen"
 msgstr "Toʻliq ekran rejimini oʻchirish/yoqish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:382
+#: data/ui/keyboard_shortcuts_dialog.blp:325
 msgid "Show Preferences"
 msgstr "Afzalliklarni koʻrsatish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:389
+#: data/ui/keyboard_shortcuts_dialog.blp:331
 msgid "Show Shortcuts"
 msgstr "Yorliqlarni koʻrsatish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:396
+#: data/ui/keyboard_shortcuts_dialog.blp:337
 msgid "Open Previous Note"
 msgstr "Avvalgi qaydni ochish"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:403
+#: data/ui/keyboard_shortcuts_dialog.blp:343
 msgid "Go Back"
 msgstr "Ortga"
 
 #. Translators: Description, keyboard shortcut
-#: data/ui/keyboard_shortcuts_dialog.ui:410
+#: data/ui/keyboard_shortcuts_dialog.blp:349
 msgid "Quit"
 msgstr "Chiqish"
 
 #. Translators: Title
-#: data/ui/link_dialog.ui:24
+#: data/ui/link_dialog.blp:20
 msgid "URL"
 msgstr "URL"
 
 #. Translators: Title
-#: data/ui/link_dialog.ui:31
+#: data/ui/link_dialog.blp:26
 msgid "Text"
 msgstr "Matn"
 
 #. Translators: Title
-#: data/ui/nextcloud_login_dialog.ui:21
+#: data/ui/nextcloud_login_dialog.blp:18
 msgid "Nextcloud Notes Setup"
 msgstr "Nextcloud qaydlar sozlamasi"
 
 #. Translators: Description
-#: data/ui/nextcloud_login_dialog.ui:36
+#: data/ui/nextcloud_login_dialog.blp:29
 msgid ""
 "Press Continue to provide your Nextcloud server address and login via a web "
 "browser"
@@ -910,22 +911,21 @@ msgstr ""
 "uchun \"Davom etish\" tugmasini bosing"
 
 #. Translators: Button
-#: data/ui/nextcloud_login_dialog.ui:41 data/ui/nextcloud_login_dialog.ui:98
+#: data/ui/nextcloud_login_dialog.blp:38 data/ui/nextcloud_login_dialog.blp:90
 msgid "Continue"
 msgstr "Davom etish"
 
 #. Translators: Button tooltip
-#: data/ui/nextcloud_login_dialog.ui:43
+#: data/ui/nextcloud_login_dialog.blp:41
 msgid "Continue to URL Entry"
 msgstr "URL kiritish uchun davom etish"
 
 #. Translators: Title
-#: data/ui/nextcloud_login_dialog.ui:61
+#: data/ui/nextcloud_login_dialog.blp:55
 msgid "Secret Service Inaccessible"
 msgstr "Maxfiy xizmatdan foydalanish imkonsiz"
 
-#. Translators: Description
-#: data/ui/nextcloud_login_dialog.ui:63
+#: data/ui/nextcloud_login_dialog.blp:59
 msgid ""
 "The Secret Service could not be accessed for storing authentication details."
 " Ensure you have a provider such as gnome-keyring. A default keyring needs "
@@ -939,22 +939,21 @@ msgstr ""
 "ilovani qayta ishga tushiring."
 
 #. Translators: Description
-#: data/ui/nextcloud_login_dialog.ui:85
+#: data/ui/nextcloud_login_dialog.blp:78
 msgid "Server URL"
 msgstr "Server URL manzili"
 
 #. Translators: Button tooltip
-#: data/ui/nextcloud_login_dialog.ui:100
+#: data/ui/nextcloud_login_dialog.blp:93
 msgid "Start Login"
 msgstr "Kirishni boshlash"
 
 #. Translators: Title
-#: data/ui/nextcloud_login_dialog.ui:122
+#: data/ui/nextcloud_login_dialog.blp:113
 msgid "Self-Signed Certificate"
 msgstr "Oʻzi imzolagan guvohnoma"
 
-#. Translators: Description
-#: data/ui/nextcloud_login_dialog.ui:124
+#: data/ui/nextcloud_login_dialog.blp:117
 msgid ""
 "You appear to be using a self-signed SSL certificate resulting in the server"
 " identity not being verified. If this is expected please follow the "
@@ -966,72 +965,72 @@ msgstr ""
 "FAQʼdagi koʻrsatmalarga amal qiling."
 
 #. Translators: Button
-#: data/ui/nextcloud_login_dialog.ui:128
+#: data/ui/nextcloud_login_dialog.blp:128
 msgid "Open the FAQ"
 msgstr "FAQʼni ochish"
 
 #. Translators: Title
-#: data/ui/nextcloud_login_dialog.ui:159
+#: data/ui/nextcloud_login_dialog.blp:150
 msgid "Connection Established"
 msgstr "Aloqa oʻrnatildi"
 
 #. Translators: Button
-#: data/ui/nextcloud_login_dialog.ui:174
+#: data/ui/nextcloud_login_dialog.blp:164
 msgid "Done"
 msgstr "Bajarildi"
 
 #. Translators: Button tooltip
-#: data/ui/nextcloud_login_dialog.ui:176
+#: data/ui/nextcloud_login_dialog.blp:167
 msgid "Complete Sync Setup"
 msgstr "Toʻliq sinxronizatsiya qilish sozlamasi"
 
 #. Translators: Title
-#: data/ui/outline_dialog.ui:24
+#: data/ui/outline_dialog.blp:25
 msgid "Outline"
 msgstr "Rejali sarlavha"
 
 #. Translators: Title
-#: data/ui/outline_dialog.ui:95
+#: data/ui/outline_dialog.blp:81
 msgid "No headings matching filter"
 msgstr "Filtrga mos keladigan sarlavhalar yoʻq"
 
 #. Translators: Description
-#: data/ui/outline_dialog.ui:105
+#: data/ui/outline_dialog.blp:91
 msgid "No headings found for outline"
 msgstr "Rejaning sarlavhasi uchun sarlavhalar topilmadi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:15
+#: data/ui/preferences_dialog.blp:10
 msgid "Interface"
 msgstr "Interfeys"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:23
+#: data/ui/preferences_dialog.blp:19
 msgid "Use Monospace Font"
 msgstr "Monospace shriftidan foydalanish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:30
+#: data/ui/preferences_dialog.blp:25
 msgid "Check Spelling"
 msgstr "Imloni tekshirish"
 
-#. Translators: Description, help
-#: data/ui/preferences_dialog.ui:33
+#. Translators: Description, preference
+#: data/ui/preferences_dialog.blp:28
 msgid "Change language via the editor context menu"
 msgstr "Tahrirchi kontekst menyusi orqali tilni oʻzgartirish"
 
-#. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:39
+#. Translators: Title
+#: data/ui/preferences_dialog.blp:35
 msgid "Header Bar"
 msgstr "Sarlavha satri"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:45
+#: data/ui/preferences_dialog.blp:40
 msgid "Limit Line Length"
 msgstr "Chegaraviy chiziq uzunligi"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:48
+#: data/ui/preferences_dialog.blp:43
 msgid ""
 "Primarily for desktop. Use Ctrl + ↑ and Ctrl + ↓ on keyboard to fine tune."
 msgstr ""
@@ -1039,17 +1038,16 @@ msgstr ""
 "tugmalaridan foydalaning."
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:56
+#: data/ui/preferences_dialog.blp:51
 msgid "Markdown"
 msgstr "Markdaun"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:60
+#: data/ui/preferences_dialog.blp:55
 msgid "Detect Syntax"
 msgstr "Sintaksisni aniqlash"
 
-#. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:62
+#: data/ui/preferences_dialog.blp:59
 msgid ""
 "Required for syntax highlighting and formatting (toolbar and keyboard "
 "shortcuts). Disable for slightly improved performance."
@@ -1057,115 +1055,116 @@ msgstr ""
 "Sintaksisni belgilash va formatlash uchun zarur (uskunalar paneli va "
 "klaviatura yorliqlari). Unumdorlikni biroz oshirish uchun faolsizlantiring."
 
-#. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:69
+#. Translators: Title
+#: data/ui/preferences_dialog.blp:67
 msgid "Theme"
 msgstr "Mavzu"
 
-#. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:75
+#. Translators: Title
+#: data/ui/preferences_dialog.blp:72
 msgid "Formatting Bar"
 msgstr "Formatlash paneli"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:81
+#: data/ui/preferences_dialog.blp:77
 msgid "Enable Formatted View"
 msgstr "Formatlangan koʻrinishni yoqish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:83
+#: data/ui/preferences_dialog.blp:80
 msgid "Disable to reduce startup time"
 msgstr "Ishga tushish vaqtini qisqartirish uchun faolsizlantiring"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:90
+#: data/ui/preferences_dialog.blp:87
 msgid "Open In Formatted View"
 msgstr "Formatlangan koʻrinishda ochish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:92
+#: data/ui/preferences_dialog.blp:90
 msgid "Enabling opens all notes as rendered markdown"
 msgstr "Yoqish barcha qaydlarni tayyorlangan markdown sifatida ochadi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:99
+#: data/ui/preferences_dialog.blp:97
 msgid "Support Math Equations"
 msgstr "Matematik tenglamalarni qoʻllab-quvvatlash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:101
+#: data/ui/preferences_dialog.blp:100
 msgid "Slightly decreases render performance"
 msgstr "Tasvir chizish samaradorligi biroz pasayadi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:108
+#: data/ui/preferences_dialog.blp:107
 msgid "Render Using Monospace Font"
 msgstr "Monospace shrifti yordamida tasvirlash"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:115
+#: data/ui/preferences_dialog.blp:113
 msgid "Proportional To Monospace Font Size Ratio"
 msgstr "Monospace shrift oʻlchamiga mutanosib nisbat"
 
-#: data/ui/preferences_dialog.ui:116
+#. Translators: Description, preference
+#: data/ui/preferences_dialog.blp:116
 msgid "In render view. Use 1 for no adjustment."
 msgstr ""
 "Tasvirlash koʻrinishida. Hech qanday oʻzgartirish kiritmaslik uchun 1 ni "
 "tanlang."
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:132
+#: data/ui/preferences_dialog.blp:131
 msgid "Hold Engine In Memory"
 msgstr "Dvigatelni xotirada saqlang"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:134
+#: data/ui/preferences_dialog.blp:134
 msgid "Faster subsequent conversions for higher memory usage"
 msgstr ""
 "Koʻproq xotira sarflash evaziga keyingi oʻzgartirishlarni tezlashtirish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:147
+#: data/ui/preferences_dialog.blp:146
 msgid "Pin Sidebar"
 msgstr "Yon panelni mahkamlash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:149
+#: data/ui/preferences_dialog.blp:149
 msgid "On desktop, when there is space"
 msgstr "Kompyuter ekranida joy yetarli boʻlganda"
 
-#. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:157
+#. Translators: Title
+#: data/ui/preferences_dialog.blp:157
 msgid "Category Label Style"
 msgstr "Toifa yorligʻi uslubi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:168
+#: data/ui/preferences_dialog.blp:164
 msgid "Data"
 msgstr "Maʼlumotlar"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:174
+#: data/ui/preferences_dialog.blp:170
 msgid "Connect Nextcloud"
 msgstr "Nextcloud xizmatini ulash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:176
+#: data/ui/preferences_dialog.blp:173
 msgid "Establish sync with Nextcloud Notes"
 msgstr "Nextcloud qaydlar bilan sinxronlash"
 
 #. Translators: Button
-#: data/ui/preferences_dialog.ui:183
+#: data/ui/preferences_dialog.blp:179
 msgid "Log In"
 msgstr "Kirish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:192
+#: data/ui/preferences_dialog.blp:188
 msgid "Disconnect Nextcloud"
 msgstr "Nextcloud xizmatini uzish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:194
+#: data/ui/preferences_dialog.blp:191
 msgid ""
 "Signs out from Nextcloud Notes. All notes will be removed and the app will "
 "quit."
@@ -1174,107 +1173,106 @@ msgstr ""
 "yopiladi."
 
 #. Translators: Button
-#: data/ui/preferences_dialog.ui:201 iotas/preferences_dialog.py:377
+#: data/ui/preferences_dialog.blp:197 iotas/preferences_dialog.py:377
 msgid "Disconnect"
 msgstr "Aloqani uzish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:213
+#: data/ui/preferences_dialog.blp:210
 msgid "Reset Database"
 msgstr "Ma’lumotlar bazasini asliga qaytarish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:215
+#: data/ui/preferences_dialog.blp:213
 msgid "Delete all notes from the local database. The app will quit."
 msgstr ""
 "Mahalliy ma’lumotlar bazasidan barcha qaydlarni oʻchirish. Dastur yopiladi."
 
 #. Translators: Button
-#: data/ui/preferences_dialog.ui:222 iotas/preferences_dialog.py:352
+#: data/ui/preferences_dialog.blp:219 iotas/preferences_dialog.py:352
 msgid "Reset"
 msgstr "Qayta tiklash"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:240
+#: data/ui/preferences_dialog.blp:234
 msgid "Debug"
 msgstr "Xatoliklarni koʻrish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.ui:246
+#: data/ui/preferences_dialog.blp:240
 msgid "Clear Sync Timestamp"
 msgstr "Sinxronlash vaqtini tozalash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.ui:248
+#: data/ui/preferences_dialog.blp:243
 msgid "Forces a pull of all notes from the sync server"
 msgstr ""
 "Sinxronlash serveridan barcha qaydlarni majburiy ravishda yuklab olishni "
 "amalga oshiradi"
 
 #. Translators: Button
-#: data/ui/preferences_dialog.ui:255
+#: data/ui/preferences_dialog.blp:249
 msgid "Clear"
 msgstr "Tozalash"
 
-#. Translators: Button
-#: data/ui/selection_header_bar.ui:38
+#. Translators: Button tooltip
+#: data/ui/selection_header_bar.blp:36
 msgid "Delete Selected"
 msgstr "Tanlanganlarni oʻchirish"
 
-#. Translators: Button
-#: data/ui/selection_header_bar.ui:49
+#. Translators: Button tooltip
+#: data/ui/selection_header_bar.blp:48
 #, fuzzy
 #| msgid "{} Selected"
 msgid "Export Selected"
 msgstr "{} tanlangan"
 
-#. Translators: Button
-#: data/ui/selection_header_bar.ui:57
+#. Translators: Button tooltip
+#: data/ui/selection_header_bar.blp:56
 msgid "Toggle Favorite for Selected"
 msgstr ""
 "Tanlangan elementlar uchun sevimlilar roʻyxatiga qoʻshish/olib tashlash"
 
-#. Translators: Button
-#: data/ui/selection_header_bar.ui:65
+#. Translators: Button tooltip
+#: data/ui/selection_header_bar.blp:64
 msgid "Change Category for Selected"
 msgstr "Tanlangan elementlar uchun toifani oʻzgartirish"
 
-#. Translators: Button
-#: data/ui/sidebar.ui:18
+#. Translators: Button tooltip
+#: data/ui/sidebar.blp:14
 msgid "Close Categories"
 msgstr "Toifalarni yopish"
 
 #. Translators: Title
-#: data/ui/sidebar.ui:26
+#: data/ui/sidebar.blp:21
 msgid "Categories"
 msgstr "Toifalar"
 
 #. Translators: Title
-#: data/ui/table_dialog.ui:11
+#: data/ui/table_dialog.blp:9
 msgid "Insert Table"
 msgstr "Jadvalni kiritish"
 
-#. Translators: Title
 #. Translators: Button
-#: data/ui/table_dialog.ui:49 iotas/link_dialog.py:51
+#: data/ui/table_dialog.blp:44 iotas/link_dialog.py:51
 msgid "Create"
 msgstr "Yaratish"
 
 #. Translators: Description, tooltip
 #. Translators: Description, accessibility
-#: data/ui/theme_selector.ui:30 data/ui/theme_selector.ui:33
+#: data/ui/theme_selector.blp:20 data/ui/theme_selector.blp:29
 msgid "Follow System Style"
 msgstr "Tizim uslubiga rioya qiling"
 
 #. Translators: Description, tooltip
 #. Translators: Description, accessibility
-#: data/ui/theme_selector.ui:49 data/ui/theme_selector.ui:52
+#: data/ui/theme_selector.blp:40 data/ui/theme_selector.blp:55
 msgid "Light Style"
 msgstr "Yorugʻ uslub"
 
 #. Translators: Description, tooltip
 #. Translators: Description, accessibility
-#: data/ui/theme_selector.ui:68 data/ui/theme_selector.ui:71
+#: data/ui/theme_selector.blp:61 data/ui/theme_selector.blp:76
 msgid "Dark Style"
 msgstr "Qorongʻu uslub"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: decoder master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Decoder/-/issues\n"
-"POT-Creation-Date: 2026-05-24 17:32+0000\n"
+"POT-Creation-Date: 2026-06-01 21:00+0000\n"
 "PO-Revision-Date: 2025-10-02 13:35+0500\n"
 "Last-Translator: let_rec <https://github.com/let-rec>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -247,7 +247,7 @@ msgstr "Oʻchirish"
 
 #. TRANSLATORS This goes into a file name
 #: data/resources/ui/qrcode_scanned_page.ui:4 src/widgets/qrcode/widget.rs:70
-#: src/widgets/window.rs:275
+#: src/widgets/window.rs:282
 msgid "QR Code"
 msgstr "QR kod"
 
@@ -321,10 +321,10 @@ msgstr "QR kod tarixga saqlandi"
 msgid "Copied to clipboard"
 msgstr "Vaqtinchalik xotiraga nusxalandi"
 
-#: src/widgets/window.rs:273
+#: src/widgets/window.rs:280
 msgid "_Select"
 msgstr "Tanlash"
 
-#: src/widgets/window.rs:293
+#: src/widgets/window.rs:300
 msgid "QR code saved"
 msgstr "QR kod saqlandi"
