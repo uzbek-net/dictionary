@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2026-06-04 20:17+0000\n"
+"POT-Creation-Date: 2026-06-11 20:13+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -243,19 +243,19 @@ msgid "Revert Changes"
 msgstr "Oʻzgarishlarni bekor qilish"
 
 #. Translators: Button
-#: data/ui/category_header_bar.blp:53 data/ui/editor_rename_header_bar.blp:43
+#: data/ui/category_header_bar.blp:58 data/ui/editor_rename_header_bar.blp:43
 #: iotas/link_dialog.py:56
 msgid "Apply"
 msgstr "Qoʻllash"
 
 #. Translators: Button tooltip
 #. Translators: Description, tooltip
-#: data/ui/category_header_bar.blp:56 data/ui/editor_rename_header_bar.blp:46
+#: data/ui/category_header_bar.blp:61 data/ui/editor_rename_header_bar.blp:46
 msgid "Apply Changes"
 msgstr "Oʻzgarishlarni qoʻllash"
 
 #. Translators: Button
-#: data/ui/category_header_bar.blp:70
+#: data/ui/category_header_bar.blp:75
 msgid "Clear and Apply"
 msgstr "Tozalash va qoʻllash"
 
@@ -392,7 +392,7 @@ msgstr "Eksport qilinmoqda…"
 
 #. Translators: Button
 #: data/ui/export_dialog.blp:116 data/ui/export_dialog.blp:140
-#: data/ui/outline_dialog.blp:99 iotas/ui_utils.py:96
+#: data/ui/outline_dialog.blp:100 iotas/ui_utils.py:96
 msgid "Close"
 msgstr "Yopish"
 
@@ -990,12 +990,12 @@ msgid "Outline"
 msgstr "Rejali sarlavha"
 
 #. Translators: Title
-#: data/ui/outline_dialog.blp:81
+#: data/ui/outline_dialog.blp:82
 msgid "No headings matching filter"
 msgstr "Filtrga mos keladigan sarlavhalar yoʻq"
 
 #. Translators: Description
-#: data/ui/outline_dialog.blp:91
+#: data/ui/outline_dialog.blp:92
 msgid "No headings found for outline"
 msgstr "Rejaning sarlavhasi uchun sarlavhalar topilmadi"
 
@@ -1644,12 +1644,12 @@ msgid "All notes will be removed. Do you want to sign out?"
 msgstr "Barcha qaydlar olib tashlanadi. Hisobdan chiqasizmi?"
 
 #. Translators: Description, alert
-#: iotas/selection_header_bar.py:93 iotas/selection_header_bar.py:185
+#: iotas/selection_header_bar.py:93 iotas/selection_header_bar.py:201
 msgid "Unable to change category on read-only note"
 msgstr "Faqat oʻqish mumkin boʻlgan qaydda toifani oʻzgartirish imkonsiz"
 
 #. Translators: Description, {} is a number
-#: iotas/selection_header_bar.py:168
+#: iotas/selection_header_bar.py:184
 msgid "{} Selected"
 msgstr "{} tanlangan"
 
