@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtk/-/issues/\n"
-"POT-Creation-Date: 2026-05-08 20:38+0000\n"
+"POT-Creation-Date: 2026-06-25 16:39+0000\n"
 "PO-Revision-Date: 2025-12-17 11:49+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -2497,7 +2497,7 @@ msgstr "Qaysi turdagi fayllar koʻrsatilishini tanlang"
 #. Translators: the first string is a path and the second string
 #. * is a hostname. Nautilus and the panel contain the same string
 #. * to translate.
-#: gtk/gtkfilechooserutils.c:365
+#: gtk/gtkfilechooserutils.c:364
 #, fuzzy, c-format
 msgid "%1$s on %2$s"
 msgstr "{sender} {user}ʼning ushbu xonaga taklif etilish soʻrovini rad qildi."
