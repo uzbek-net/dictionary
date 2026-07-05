@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-27 09:02+0000\n"
+"POT-Creation-Date: 2026-07-04 18:40+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-#: api/views.py:1040
+#: api/views.py:1042
 msgid ""
 "You are not allowed to trigger a refresh on this branch. You do not have the"
 " required permissions. You need to be a site admin, a team coordinator, or a"
 " maintainer of the module."
 msgstr ""
 
-#: api/views.py:1049
+#: api/views.py:1051
 msgid "A refresh is already in progress."
 msgstr ""
 
-#: api/views.py:1059
+#: api/views.py:1061
 msgid "Refresh started."
 msgstr ""
 
@@ -2657,7 +2657,7 @@ msgstr ""
 msgid "Avatar provider"
 msgstr "Avatar provayderi"
 
-#: people/models.py:152 teams/admin.py:47 teams/models.py:90
+#: people/models.py:152 teams/admin.py:47 teams/models.py:95
 msgid "Web page"
 msgstr "Veb sahifa"
 
@@ -2801,7 +2801,7 @@ msgid "Choose"
 msgstr "Tanlang"
 
 #: people/templates/people/_includes/person_team_membership.html:3
-#: teams/templates/teams/team_detail.html:150
+#: teams/templates/teams/team_detail.html:153
 msgid "Team membership"
 msgstr "Jamoa aʼzoligi"
 
@@ -2821,7 +2821,7 @@ msgid "Are you sure you want to leave the %(team_name)s team?"
 msgstr "Haqiqatan ham %(team_name)s jamoasini tark etmoqchimisiz?"
 
 #: people/templates/people/_includes/person_team_membership.html:25
-#: teams/templates/teams/team_detail.html:44
+#: teams/templates/teams/team_detail.html:47
 msgid "Leave"
 msgstr "Tashlab ket"
 
@@ -3132,35 +3132,6 @@ msgstr ""
 "\n"
 "GNOME la'natlangan yolgʻon ma'murlari\n"
 
-#: people/templates/people/notifications/person_joined_team.html:1
-#, fuzzy, python-format
-#| msgid ""
-#| "\n"
-#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
-msgid ""
-"<p> This is an automated message sent from <a href=\"%(site_domain)s\">GNOME"
-" Damned Lies</a> to inform you that <a "
-"href=\"%(site_domain)s/%(person_slug_url)s\">%(username)s</a> has just "
-"joined the team <a href=\"%(site_domain)s/%(team_slug_url)s\">%(team)s</a> "
-"you coordinate. </p>"
-msgstr ""
-"\n"
-"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
-
-#: people/templates/people/notifications/person_joined_team.txt:1
-#, fuzzy, python-format
-#| msgid ""
-#| "\n"
-#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
-msgid ""
-"This is an automated message sent from GNOME Damned Lies (%(site_domain)s) "
-"to inform you that %(username)s (%(site_domain)s/%(person_slug_url)s) has "
-"just joined the team %(team)s (%(site_domain)s/%(team_slug_url)s) you "
-"coordinate."
-msgstr ""
-"\n"
-"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
-
 #: people/templates/people/person_base.html:4
 #, python-format
 msgid "%(username)s - GNOME Contributor"
@@ -3171,7 +3142,7 @@ msgid "Profile"
 msgstr "Profil"
 
 #: people/templates/people/person_base.html:16
-#: stats/templates/module_detail.html:93
+#: stats/templates/module_detail.html:100
 msgid "View on application’s backend"
 msgstr "Ilovaning orqa tomonida koʻrish"
 
@@ -3211,7 +3182,7 @@ msgstr "Tafsilotlaringizni oʻzgartiring"
 #: people/templates/people/person_detail_change_form.html:68
 #: people/templates/people/use_external_provider_or_create_account.html:66
 #: stats/templates/module_edit.html:17
-#: teams/templates/teams/team_detail.html:65
+#: teams/templates/teams/team_detail.html:68
 #: teams/templates/teams/team_edit.html:21
 msgid "Cancel"
 msgstr "Bekor qilish"
@@ -3357,6 +3328,35 @@ msgstr ""
 "allaqachon hisob qaydnomangiz boʻlsa, siz yaratgan yangi hisob mavjud "
 "hisobingizga bogʻlanmaydi. Bu hisobda mavjud hissalaringizni topa olmaysiz."
 
+#: people/templates/teams/notifications/person_joined_team.html:1
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
+msgid ""
+"<p> This is an automated message sent from <a href=\"%(site_domain)s\">GNOME"
+" Damned Lies</a> to inform you that <a "
+"href=\"%(site_domain)s/%(person_slug_url)s\">%(username)s</a> has just "
+"joined the team <a href=\"%(site_domain)s/%(team_slug_url)s\">%(team)s</a> "
+"you coordinate. </p>"
+msgstr ""
+"\n"
+"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
+
+#: people/templates/teams/notifications/person_joined_team.txt:1
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "This is an automated message sent from %(site_domain)s to inform you that %(name)s has just joined the team %(team)s you are coordinator of.\n"
+msgid ""
+"This is an automated message sent from GNOME Damned Lies (%(site_domain)s) "
+"to inform you that %(username)s (%(site_domain)s/%(person_slug_url)s) has "
+"just joined the team %(team)s (%(site_domain)s/%(team_slug_url)s) you "
+"coordinate."
+msgstr ""
+"\n"
+"Bu %(name)s siz koordinator boʻlgan %(team)s jamoasiga endigina qoʻshilganini bildirish uchun %(site_domain)s tomonidan yuborilgan avtomatik xabardir.\n"
+
 #: people/templatetags/people.py:21
 msgid ", "
 msgstr ", "
@@ -3375,13 +3375,13 @@ msgstr "umumiy shaxs belgisi"
 msgid "i18n coordination team member"
 msgstr "Nofaol jamoa aʼzolarini koʻrsatish yoki yashirish"
 
-#: people/views.py:65
+#: people/views.py:66
 #, fuzzy
 #| msgid "The file “%s” does not exist"
 msgid "The requested user does not exist."
 msgstr "“%s” fayli mavjud emas"
 
-#: people/views.py:89
+#: people/views.py:90
 #, python-format
 msgid ""
 "You did not register a GitLab account in your profile and are the "
@@ -3394,7 +3394,7 @@ msgstr ""
 "GNOME GitLab platformasida (%s) roʻyxatdan oʻting va Damned Lies "
 "profilingizda foydalanuvchi nomingizni koʻrsating."
 
-#: people/views.py:104
+#: people/views.py:105
 msgid ""
 "You did not fill your real name in your profile. Your work can only be added"
 " to the project in your name if you fill it in."
@@ -3403,7 +3403,7 @@ msgstr ""
 " nomingizdan loyihaga qoʻshilishi mumkin, agar siz uni toʻldirgan "
 "boʻlsangiz."
 
-#: people/views.py:117
+#: people/views.py:118
 #, python-format
 msgid ""
 "The GNOME GitLab username you set in your profile does not exist on %s. "
@@ -3413,20 +3413,20 @@ msgstr ""
 "Iltimos, foydalanuvchi nomingizni tekshiring yoki bu hali bajarilmagan "
 "boʻlsa, hisob yarating."
 
-#: people/views.py:129
+#: people/views.py:130
 msgid ""
 "Someone requested to change the email address of your Damned Lies account"
 msgstr ""
 "Kimdir Damned Lies akkauntingiz elektron pochta manzilini oʻzgartirishni "
 "soʻradi"
 
-#: people/views.py:150
+#: people/views.py:151
 #, fuzzy
 #| msgid "Confirm you new email address on Damned Lies"
 msgid "Confirm your new email address on Damned Lies"
 msgstr "Damned Lies-da yangi elektron pochta manzilingizni tasdiqlang"
 
-#: people/views.py:201
+#: people/views.py:202
 msgid ""
 "You asked to modify the email of your account. You will receive an email to "
 "confirm your identity."
@@ -3434,20 +3434,15 @@ msgstr ""
 "Hisobingiz elektron pochta manzilini oʻzgartirishni soʻragansiz. "
 "Shaxsingizni tasdiqlash uchun sizga elektron pochta xabari keladi."
 
-#: people/views.py:213
+#: people/views.py:214
 msgid "Sorry, the form is not valid."
 msgstr "Kechirasiz, shakl haqiqiy emas."
 
-#: people/views.py:231
-#, python-format
-msgid "A new person joined your team “%s”"
-msgstr "“%s” jamoangizga yangi odam qoʻshildi"
-
-#: people/views.py:268
+#: people/views.py:244
 msgid "You are already member of this team."
 msgstr "Siz allaqachon bu jamoa aʼzosisiz."
 
-#: people/views.py:273
+#: people/views.py:249
 #, python-format
 msgid ""
 "You have joined the team “%(team)s”. You are now able to contribute and "
@@ -3456,7 +3451,7 @@ msgstr ""
 "Siz “%(team)s” jamoasiga qoʻshildingiz. Endi siz oʻz tilingizda tarjimalar "
 "kiritishingiz va yuborishingiz mumkin."
 
-#: people/views.py:294
+#: people/views.py:276
 #, python-format
 msgid ""
 "You have left the team “%(team)s”. All your activity feed has been kept, but"
@@ -3465,15 +3460,15 @@ msgstr ""
 "Siz “%(team)s” jamoasini tark etdingiz. Barcha harakatlar tasmangiz "
 "saqlangan, lekin siz boshqa tarjimalarni yubora olmaysiz."
 
-#: people/views.py:300
+#: people/views.py:282
 msgid "You are not a member of this team."
 msgstr "Siz bu jamoa aʼzosi emassiz."
 
-#: people/views.py:309
+#: people/views.py:291
 msgid "Your Damned Lies account has been deleted"
 msgstr ""
 
-#: people/views.py:339
+#: people/views.py:321
 #, fuzzy, python-format
 #| msgid ""
 #| "%(username)s, your email has been successfully updated to %(new_email)s."
@@ -3483,7 +3478,7 @@ msgid ""
 msgstr ""
 "%(username)s, e-pochtangiz %(new_email)s ga muvaffaqiyatli yangilandi."
 
-#: people/views.py:398
+#: people/views.py:380
 #, python-format
 msgid ""
 "You have not joined any translation team yet. You can do it from <a "
@@ -3492,17 +3487,17 @@ msgstr ""
 "Siz hali hech qanday tarjimon jamoasiga qoʻshilmagansiz. Buni <a "
 "href=\"%(url)s\">profilingizdan</a> qilishingiz mumkin."
 
-#: people/views.py:406
+#: people/views.py:388
 msgid "Login unsuccessful. Please verify your username and password."
 msgstr ""
 "Kirish amalga oshmadi. Iltimos, foydalanuvchi nomingiz va parolingizni "
 "tasdiqlang."
 
-#: people/views.py:413
+#: people/views.py:395
 msgid "Your link to connect to Damned Lies"
 msgstr "Damned Lies-ga ulanish uchun havolangiz"
 
-#: people/views.py:450
+#: people/views.py:432
 msgid ""
 "We have sent, at the email address you provided, a magic link to connect to "
 "your account. Open this link and you will be automatically connected. "
@@ -3512,35 +3507,35 @@ msgstr ""
 " havola yubordik. Ushbu havolani oching va siz avtomatik ravishda ulanasiz. "
 "Ehtiyot boʻling, u 5 daqiqadan soʻng tugaydi."
 
-#: people/views.py:467
+#: people/views.py:449
 msgid "This magic link has expired. Please request a new one."
 msgstr ""
 
-#: people/views.py:468
+#: people/views.py:450
 msgid "The token you are trying to login with is invalid."
 msgstr "Siz kirishga urinayotgan token yaroqsiz."
 
-#: people/views.py:471
+#: people/views.py:453
 msgid "This magic link belongs to a different account."
 msgstr ""
 
-#: people/views.py:487
+#: people/views.py:469
 msgid "The token you are using to validate your email is invalid."
 msgstr ""
 "Elektron pochtangizni tasdiqlash uchun foydalanayotgan token yaroqsiz."
 
-#: people/views.py:489
+#: people/views.py:471
 msgid "This email update link belongs to a different account."
 msgstr ""
 
-#: people/views.py:494
+#: people/views.py:476
 #, python-format
 msgid ""
 "%(username)s, your email has been successfully updated to %(new_email)s."
 msgstr ""
 "%(username)s, e-pochtangiz %(new_email)s ga muvaffaqiyatli yangilandi."
 
-#: people/views.py:519
+#: people/views.py:501
 msgid ""
 "The authentication link you provided is invalid and cannot be used to login."
 " The authentication token may have expired or never existed."
@@ -4741,49 +4736,49 @@ msgstr ""
 msgid "Project Homepage"
 msgstr "Bosh sahifa"
 
-#: stats/templates/module_detail.html:99 stats/templates/module_edit.html:19
+#: stats/templates/module_detail.html:93 stats/templates/module_edit.html:19
 #, fuzzy
 #| msgid "Module"
 msgid "Update Module"
 msgstr "Modul"
 
-#: stats/templates/module_detail.html:110
+#: stats/templates/module_detail.html:112
 #, fuzzy
 #| msgid "Module maintenance"
 msgid "Maintenance"
 msgstr "Modulga texnik xizmat koʻrsatish"
 
-#: stats/templates/module_detail.html:121
+#: stats/templates/module_detail.html:123
 msgid "Bug reporting"
 msgstr "Xatolar haqida xabar berish"
 
-#: stats/templates/module_detail.html:124
+#: stats/templates/module_detail.html:126
 msgid "Sorry, no known locations to report bugs for this module."
 msgstr ""
 "Kechirasiz, ushbu modul uchun xatoliklar haqida xabar beradigan maʼlum joy "
 "yoʻq."
 
-#: stats/templates/module_detail.html:127
+#: stats/templates/module_detail.html:129
 msgid "Show existing i18n and l10n bugs"
 msgstr "Mavjud i18n va l10n xatolarini koʻrsatish"
 
-#: stats/templates/module_detail.html:130
+#: stats/templates/module_detail.html:132
 msgid "Report a bug"
 msgstr "Xato haqida xabar bering"
 
-#: stats/templates/module_detail.html:149
+#: stats/templates/module_detail.html:151
 msgid "Branches:"
 msgstr "Filiallar:"
 
-#: stats/templates/module_detail.html:165
+#: stats/templates/module_detail.html:167
 msgid "Expand or collapse statistics for this branch"
 msgstr "Ushbu filial uchun statistik maʼlumotlarni yoyish yoki yopish"
 
-#: stats/templates/module_detail.html:179
+#: stats/templates/module_detail.html:181
 msgid "Browse Repository"
 msgstr "Repozitoriyni koʻrib chiqish"
 
-#: stats/templates/module_detail.html:184
+#: stats/templates/module_detail.html:186
 msgid "Refresh branch statistics"
 msgstr "Filial statistikasini yangilash"
 
@@ -5166,19 +5161,25 @@ msgid ""
 "manually."
 msgstr ""
 
-#: teams/admin.py:69 teams/models.py:186
+#: teams/admin.py:69 teams/models.py:191
 msgid "Team"
 msgstr "Jamoa"
 
-#: teams/forms.py:33
+#: teams/forms.py:31
+#, fuzzy
+#| msgid "Manage teams membership"
+msgid "Hi new team member…"
+msgstr "Jamoa aʼzoligini boshqaring"
+
+#: teams/forms.py:43
 msgid "Mark as Inactive"
 msgstr "Faol emas deb belgilang"
 
-#: teams/forms.py:33
+#: teams/forms.py:43
 msgid "Remove From Team"
 msgstr "Jamoadan olib tashlash"
 
-#: teams/forms.py:82
+#: teams/forms.py:92
 msgid "A team must have at least one active coordinator."
 msgstr ""
 
@@ -5210,53 +5211,61 @@ msgid "A presentation of the team, its goals, its members…"
 msgstr "Jamoa taqdimoti, uning maqsadlari, a'zolari..."
 
 #: teams/models.py:88
+msgid "Presentation − Welcome Message"
+msgstr ""
+
+#: teams/models.py:90
+msgid "A welcome message for the new team members."
+msgstr ""
+
+#: teams/models.py:93
 msgid "Members"
 msgstr "Aʼzolar"
 
-#: teams/models.py:91
+#: teams/models.py:96
 msgid "Mailing list"
 msgstr "Pochta roʻyxati"
 
-#: teams/models.py:92
+#: teams/models.py:97
 msgid "URL to subscribe"
 msgstr "Obuna boʻlish uchun URL"
 
-#: teams/models.py:160
+#: teams/models.py:165
 #, python-format
 msgid "No team for locale %s"
 msgstr "%s tili boʻyicha jamoa yoʻq"
 
-#: teams/models.py:173
+#: teams/models.py:178
 msgid "Translator"
 msgstr "Tarjimon"
 
-#: teams/models.py:174
+#: teams/models.py:179
 msgid "Reviewer"
 msgstr "Taqrizchi"
 
-#: teams/models.py:175
+#: teams/models.py:180
 msgid "Committer"
 msgstr "Committer"
 
-#: teams/models.py:176
+#: teams/models.py:181
 msgid "Coordinator"
 msgstr "Muvofiqlashtiruvchi"
 
-#: teams/models.py:187 vertimus/admin.py:61 vertimus/admin.py:103
+#: teams/models.py:192 vertimus/admin.py:61 vertimus/admin.py:103
 #: vertimus/models.py:165 vertimus/models.py:634
 msgid "Person"
 msgstr "Shaxs"
 
-#: teams/models.py:189
+#: teams/models.py:194
 msgid "Role"
 msgstr "Rol"
 
 #. Translators: this refers to a person being active in a team or not
-#: teams/models.py:194
+#: teams/models.py:199
 msgid "Is active"
 msgstr "Faol emas"
 
-#: teams/models.py:196
+#: teams/models.py:201
 #, fuzzy
 #| msgid ""
 #| "Whether the person is active in the team or not. Account that have no recent"
@@ -5268,15 +5277,26 @@ msgstr ""
 "Inson jamoada faolmi yoki yoʻqmi. Oxirgi faoliyati boʻlmagan hisob nofaol "
 "qilib sozlangan."
 
-#: teams/notifications.py:29
+#: teams/notifications.py:31
 #, python-format
 msgid "Your role in the %(team)s team has been changed to %(role)s"
 msgstr "%(team)s jamoasidagi rolingiz %(role)s ga oʻzgartirildi"
 
-#: teams/notifications.py:58
+#: teams/notifications.py:60
 #, python-format
 msgid "You have been removed from the %(team)s team"
 msgstr "Siz %(team)s jamoasidan olib tashlangansiz"
+
+#: teams/notifications.py:88
+#, fuzzy, python-format
+#| msgid "You have been removed from the %(team)s team"
+msgid "You have joined the %(team)s team"
+msgstr "Siz %(team)s jamoasidan olib tashlangansiz"
+
+#: teams/notifications.py:113
+#, python-format
+msgid "A new person joined your team “%s”"
+msgstr "“%s” jamoangizga yangi odam qoʻshildi"
 
 #: teams/templates/teams/_includes/list_team_members.html:12
 #, python-format
@@ -5363,6 +5383,49 @@ msgid ""
 "The administration team of GNOME Damned Lies\n"
 msgstr ""
 
+#: teams/templates/teams/notifications/user_joined_team.html:4
+#, fuzzy, python-format
+#| msgid ""
+#| "You have joined the team “%(team)s”. You are now able to contribute and "
+#| "submit translations in your language."
+msgid ""
+"<p>You have joined the %(team)s team on %(site_domain)s. You can now "
+"contribute and submit translations in your language.</p>"
+msgstr ""
+"Siz “%(team)s” jamoasiga qoʻshildingiz. Endi siz oʻz tilingizda tarjimalar "
+"kiritishingiz va yuborishingiz mumkin."
+
+#: teams/templates/teams/notifications/user_joined_team.html:15
+#: teams/templates/teams/notifications/user_joined_team.txt:11
+#: vertimus/templates/vertimus/notifications/new_action_changed_module_state.html:19
+#, fuzzy, python-format
+#| msgid ""
+#| "This is an automatic message sent from %(site)s. Please do not answer."
+msgid ""
+"This is an automatic message sent from <a "
+"href=\"https://%(site_domain)s\">GNOME Damned Lies</a>. Please do not "
+"answer."
+msgstr ""
+"Bu %(site)s tomonidan yuborilgan avtomatik xabar. Iltimos javob bermang."
+
+#: teams/templates/teams/notifications/user_joined_team.html:20
+#: teams/templates/teams/notifications/user_joined_team.txt:15
+#: vertimus/templates/vertimus/notifications/new_action_changed_module_state.html:24
+msgid "The administration team of GNOME Damned Lies"
+msgstr ""
+
+#: teams/templates/teams/notifications/user_joined_team.txt:3
+#, fuzzy, python-format
+#| msgid ""
+#| "You have joined the team “%(team)s”. You are now able to contribute and "
+#| "submit translations in your language."
+msgid ""
+"You have joined the %(team)s team on %(site_domain)s. You can now contribute"
+" and submit translations in your language."
+msgstr ""
+"Siz “%(team)s” jamoasiga qoʻshildingiz. Endi siz oʻz tilingizda tarjimalar "
+"kiritishingiz va yuborishingiz mumkin."
+
 #: teams/templates/teams/team_base.html:6
 msgid "Details"
 msgstr "Tafsilotlar"
@@ -5423,48 +5486,48 @@ msgstr ""
 "GNOME tarjima loyihasining %(lang)s jamoasi tomonidan bajarilgan oxirgi "
 "harakatlar"
 
-#: teams/templates/teams/team_detail.html:53
+#: teams/templates/teams/team_detail.html:42
+#, python-format
+msgid "%(language)s Translation Team"
+msgstr "%(language)s Tarjimon jamoasi"
+
+#: teams/templates/teams/team_detail.html:56
 #, python-format
 msgid "Leave the “<b>%(language)s</b>” team"
 msgstr "“ <b>%(language)s</b> ” jamoasini tark eting"
 
-#: teams/templates/teams/team_detail.html:57
+#: teams/templates/teams/team_detail.html:60
 msgid "By leaving the team, you will:"
 msgstr "Jamoani tark etish orqali siz:"
 
-#: teams/templates/teams/team_detail.html:59
+#: teams/templates/teams/team_detail.html:62
 msgid "Stop being able to contribute."
 msgstr "Hissa qoʻshishni toʻxtating."
 
-#: teams/templates/teams/team_detail.html:60
+#: teams/templates/teams/team_detail.html:63
 msgid "Lose the right to translate."
 msgstr "Tarjima qilish huquqini yoʻqoting."
 
-#: teams/templates/teams/team_detail.html:61
+#: teams/templates/teams/team_detail.html:64
 msgid "Lose your rights as a reviewer or committer."
 msgstr "Taqrizchi yoki komitter sifatida huquqlaringizni yoʻqoting."
 
-#: teams/templates/teams/team_detail.html:70
+#: teams/templates/teams/team_detail.html:73
 msgid "Leave the team"
 msgstr "Jamoani tark eting"
 
-#: teams/templates/teams/team_detail.html:82
+#: teams/templates/teams/team_detail.html:85
 msgid "Join"
 msgstr "Qoʻshilish"
 
-#: teams/templates/teams/team_detail.html:88
+#: teams/templates/teams/team_detail.html:91
 #: teams/templates/teams/team_edit.html:23
 #, fuzzy
 #| msgid "Updated at"
 msgid "Update Team"
 msgstr "Yangilandi"
 
-#: teams/templates/teams/team_detail.html:91
-#, python-format
-msgid "%(language)s Translation Team"
-msgstr "%(language)s Tarjimon jamoasi"
-
-#: teams/templates/teams/team_detail.html:103
+#: teams/templates/teams/team_detail.html:107
 msgid ""
 "There is currently no established team for this language. See <a "
 "href=\"https://wiki.gnome.org/TranslationProject/StartingATeam\">the GTP "
@@ -5476,27 +5539,27 @@ msgstr ""
 "href=\"https://wiki.gnome.org/TranslationProject/StartingATeam\">GTP Wiki-"
 "ga</a> qarang."
 
-#: teams/templates/teams/team_detail.html:121
+#: teams/templates/teams/team_detail.html:124
 msgid "Plural forms:"
 msgstr "Koʻplik shakllari:"
 
-#: teams/templates/teams/team_detail.html:122
+#: teams/templates/teams/team_detail.html:125
 msgid "Current activities"
 msgstr "Joriy faoliyat"
 
-#: teams/templates/teams/team_detail.html:133
+#: teams/templates/teams/team_detail.html:136
 msgid "Show/hide archived translations"
 msgstr "Arxivlangan tarjimalarni koʻrsatish/yashirish"
 
-#: teams/templates/teams/team_detail.html:138
+#: teams/templates/teams/team_detail.html:141
 msgid "Archives"
 msgstr "Arxivlar"
 
-#: teams/templates/teams/team_detail.html:159
+#: teams/templates/teams/team_detail.html:162
 msgid "Show or hide inactive team members"
 msgstr "Nofaol jamoa aʼzolarini koʻrsatish yoki yashirish"
 
-#: teams/templates/teams/team_detail.html:177
+#: teams/templates/teams/team_detail.html:180
 msgid "Apply modifications"
 msgstr "Oʻzgartirishlarni qoʻllash"
 
@@ -6441,12 +6504,12 @@ msgstr ""
 "Ushbu ish jarayonida PO fayli bilan hech qanday harakat yoʻq. Hech narsa "
 "yuborish mumkin emas, avval PO faylini yuklang."
 
-#: vertimus/models.py:1169
+#: vertimus/models.py:1175
 #, python-format
 msgid "Creating commits is impossible: %(error)s"
 msgstr "Majburiyat yaratish mumkin emas: %(error)s"
 
-#: vertimus/models.py:1192
+#: vertimus/models.py:1198
 #, python-format
 msgid ""
 "An error occurred while trying to synchronize branch “%(main_branch)s” with "
@@ -6458,7 +6521,7 @@ msgstr ""
 "sinxronlashda xatolik yuz berdi. Asl PO fayli baribir bajarilgan. Iltimos, "
 "xuddi shu PO faylni maqsadli filialga (%(main_branch)s) yuklang."
 
-#: vertimus/models.py:1203
+#: vertimus/models.py:1209
 #, python-format
 msgid ""
 "It is impossible to cherry-pick the commit “%(commit_hash)s” from "
@@ -6539,21 +6602,6 @@ msgid ""
 msgstr ""
 "%(module)s — %(branch)s — %(domain)s (%(language)s) ning yangi holati endi "
 "“%(new_state)s”."
-
-#: vertimus/templates/vertimus/notifications/new_action_changed_module_state.html:19
-#, fuzzy, python-format
-#| msgid ""
-#| "This is an automatic message sent from %(site)s. Please do not answer."
-msgid ""
-"This is an automatic message sent from <a "
-"href=\"https://%(site_domain)s\">GNOME Damned Lies</a>. Please do not "
-"answer."
-msgstr ""
-"Bu %(site)s tomonidan yuborilgan avtomatik xabar. Iltimos javob bermang."
-
-#: vertimus/templates/vertimus/notifications/new_action_changed_module_state.html:24
-msgid "The administration team of GNOME Damned Lies"
-msgstr ""
 
 #: vertimus/templates/vertimus/notifications/new_action_changed_module_state.txt:1
 #, python-format

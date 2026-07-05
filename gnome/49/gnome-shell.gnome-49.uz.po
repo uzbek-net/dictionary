@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-06-25 16:25+0000\n"
+"POT-Creation-Date: 2026-06-29 18:44+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -2212,15 +2212,15 @@ msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
-#: js/ui/search.js:850
+#: js/ui/search.js:855
 msgid "Searching"
 msgstr "Qidirilmoqda"
 
-#: js/ui/search.js:853
+#: js/ui/search.js:858
 msgid "No results"
 msgstr "Natija yoʻq"
 
-#: js/ui/search.js:988
+#: js/ui/search.js:993
 #, javascript-format
 msgid "%d more"
 msgid_plural "%d more"
@@ -2942,12 +2942,12 @@ msgstr "Mumkin rejimlarni sanab oʻting"
 msgid "Force animations to be enabled"
 msgstr "Animatsiyalarni yoqish uchun majburlash"
 
-#: src/shell-app.c:266
+#: src/shell-app.c:267
 msgctxt "program"
 msgid "Unknown"
 msgstr "Noma'lum"
 
-#: src/shell-app.c:517
+#: src/shell-app.c:518
 #, c-format
 msgid "Failed to launch “%s”"
 msgstr "“%s” ishga tushmadi"
@@ -2991,15 +2991,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:76
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:77
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:80
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:81
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:84
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:85
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 

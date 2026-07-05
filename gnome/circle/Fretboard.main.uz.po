@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fretboard main\n"
 "Report-Msgid-Bugs-To: https://github.com/bragefuglseth/fretboard/issues\n"
-"POT-Creation-Date: 2025-04-13 23:39+0000\n"
+"POT-Creation-Date: 2026-06-30 23:16+0000\n"
 "PO-Revision-Date: 2025-10-13 11:09+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -19,6 +19,7 @@ msgstr ""
 
 #: data/dev.bragefuglseth.Fretboard.desktop.in.in:2
 #: data/dev.bragefuglseth.Fretboard.metainfo.xml.in.in:7
+#: src/widgets/window.blp:5 src/widgets/window.blp:13
 msgid "Fretboard"
 msgstr "Fretboard"
 
@@ -78,42 +79,79 @@ msgstr "Xatchoʻplar sahifasi"
 #. translators: "right-handed" and "left-handed" are enum values, and should
 #. not be translated
 #: data/dev.bragefuglseth.Fretboard.gschema.xml:16
-msgid "Can be either \"right-handed\" or \"left-handed\"."
+#, fuzzy
+#| msgid "Can be either \"right-handed\" or \"left-handed\"."
+msgid "Can be either “right-handed” or “left-handed”."
 msgstr "Oʻnaqay yoki chapaqay boʻlishi mumkin."
 
-#: data/resources/gtk/help-overlay.ui:12
+#: data/resources/shortcuts-dialog.ui:6
+#, fuzzy
+#| msgid "General"
+msgctxt "shortcut dialog"
 msgid "General"
 msgstr "Umumiy"
 
-#: data/resources/gtk/help-overlay.ui:15
+#: data/resources/shortcuts-dialog.ui:9
+#, fuzzy
+#| msgid "Main Menu"
+msgctxt "shortcut dialog"
+msgid "Open Menu"
+msgstr "Asosiy menyu"
+
+#. translators: "Empty" is a verb
+#: data/resources/shortcuts-dialog.ui:16
+#, fuzzy
+#| msgid "Empty Chord"
+msgctxt "shortcut dialog"
 msgid "Empty Chord"
 msgstr "Boʻsh akkord"
 
-#: data/resources/gtk/help-overlay.ui:21
-msgid "Bookmark Chord"
-msgstr "Xatchoʻp akkord"
-
-#: data/resources/gtk/help-overlay.ui:27
-msgid "View Bookmarks"
-msgstr "Xatchoʻplarni koʻrish"
-
-#: data/resources/gtk/help-overlay.ui:33
+#: data/resources/shortcuts-dialog.ui:22
+#, fuzzy
+#| msgid "View Chord Variants"
+msgctxt "shortcut dialog"
 msgid "View Chord Variants"
 msgstr "Akkord variantlarini koʻrish"
 
-#: data/resources/gtk/help-overlay.ui:39
+#: data/resources/shortcuts-dialog.ui:28
+#, fuzzy
+#| msgid "Focus Entry"
+msgctxt "shortcut dialog"
 msgid "Focus Entry"
 msgstr "Diqqat markazida"
 
-#: data/resources/gtk/help-overlay.ui:45
-msgid "View Shortcuts"
-msgstr "Yorliqlarni koʻrish"
+#: data/resources/shortcuts-dialog.ui:38
+#, fuzzy
+#| msgid "Bookmark Chord"
+msgctxt "shortcut dialog"
+msgid "Bookmark Chord"
+msgstr "Xatchoʻp akkord"
 
-#: data/resources/gtk/help-overlay.ui:51
+#: data/resources/shortcuts-dialog.ui:44
+#, fuzzy
+#| msgid "View Bookmarks"
+msgctxt "shortcut dialog"
+msgid "View Bookmarks"
+msgstr "Xatchoʻplarni koʻrish"
+
+#: data/resources/shortcuts-dialog.ui:54
+#, fuzzy
+#| msgid "_Keyboard Shortcuts"
+msgctxt "shortcut dialog"
+msgid "Keyboard Shortcuts"
+msgstr "Klaviatura yorliqlari"
+
+#: data/resources/shortcuts-dialog.ui:60
+#, fuzzy
+#| msgid "Close Window"
+msgctxt "shortcut dialog"
 msgid "Close Window"
 msgstr "Oynani yopish"
 
-#: data/resources/gtk/help-overlay.ui:57
+#: data/resources/shortcuts-dialog.ui:66
+#, fuzzy
+#| msgid "Quit"
+msgctxt "shortcut dialog"
 msgid "Quit"
 msgstr "Chiqish"
 
@@ -235,14 +273,21 @@ msgstr ""
 "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>\n"
 "Baxrom Raxmatov"
 
+#: src/widgets/window.rs:695
+msgid "Donate"
+msgstr ""
+
 #. Translators: Metainfo for the app Keypunch.
 #. <https://github.com/bragefuglseth/keypunch>
-#: src/widgets/window.rs:698
+#: src/widgets/window.rs:700
 msgid "Keypunch"
 msgstr "Keypunch"
 
 #. Translators: Metainfo for the app Keypunch.
 #. <https://github.com/bragefuglseth/keypunch>
-#: src/widgets/window.rs:700
+#: src/widgets/window.rs:702
 msgid "Practice your typing skills"
 msgstr "Yozuv mahoratingizni mashq qiling"
+
+#~ msgid "View Shortcuts"
+#~ msgstr "Yorliqlarni koʻrish"

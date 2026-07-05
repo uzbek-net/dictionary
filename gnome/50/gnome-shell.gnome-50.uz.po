@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-05-28 19:26+0000\n"
+"POT-Creation-Date: 2026-07-03 18:03+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -2009,47 +2009,47 @@ msgstr "Ilovalar"
 msgid "Overview"
 msgstr "Umumiy nuqtai"
 
-#: js/ui/padOsd.js:98
+#: js/ui/padOsd.js:99
 msgid "New shortcut…"
 msgstr "Yangi yorliq…"
 
-#: js/ui/padOsd.js:151
+#: js/ui/padOsd.js:152
 msgid "App defined"
 msgstr "Ilova aniqlandi"
 
-#: js/ui/padOsd.js:152
+#: js/ui/padOsd.js:153
 msgid "Show on-screen help"
 msgstr "Ekrandagi yordamni koʻrsatish"
 
-#: js/ui/padOsd.js:153
+#: js/ui/padOsd.js:154
 msgid "Switch monitor"
 msgstr "Monitorni almashtirish"
 
-#: js/ui/padOsd.js:154
+#: js/ui/padOsd.js:155
 msgid "Assign keystroke"
 msgstr "Klaviatura bosishni tayinlang"
 
-#: js/ui/padOsd.js:223
+#: js/ui/padOsd.js:224
 msgid "Done"
 msgstr "Bajarildi"
 
-#: js/ui/padOsd.js:743
+#: js/ui/padOsd.js:744
 msgid "Edit…"
 msgstr "Tahrirlash…"
 
-#: js/ui/padOsd.js:791
+#: js/ui/padOsd.js:792
 msgid "None"
 msgstr "Hech biri"
 
-#: js/ui/padOsd.js:868
+#: js/ui/padOsd.js:869
 msgid "Press a button to configure"
 msgstr "Sozlash uchun tugmani bosing"
 
-#: js/ui/padOsd.js:869
+#: js/ui/padOsd.js:870
 msgid "Press Esc to exit"
 msgstr "Chiqish uchun Esc tugmasini bosing"
 
-#: js/ui/padOsd.js:872
+#: js/ui/padOsd.js:873
 msgid "Press any key to exit"
 msgstr "Chiqish uchun istalgan tugmani bosing"
 
@@ -2204,15 +2204,15 @@ msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
-#: js/ui/search.js:850
+#: js/ui/search.js:855
 msgid "Searching"
 msgstr "Qidirilmoqda"
 
-#: js/ui/search.js:853
+#: js/ui/search.js:858
 msgid "No results"
 msgstr "Natija yoʻq"
 
-#: js/ui/search.js:989
+#: js/ui/search.js:994
 #, javascript-format
 msgid "%d more"
 msgid_plural "%d more"
@@ -2944,12 +2944,12 @@ msgstr "Mumkin rejimlarni sanab oʻting"
 msgid "Force animations to be enabled"
 msgstr "Animatsiyalarni yoqish uchun majburlash"
 
-#: src/shell-app.c:266
+#: src/shell-app.c:267
 msgctxt "program"
 msgid "Unknown"
 msgstr "Noma'lum"
 
-#: src/shell-app.c:516
+#: src/shell-app.c:517
 #, c-format
 msgid "Failed to launch “%s”"
 msgstr "“%s” ishga tushmadi"
@@ -2993,15 +2993,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:66
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:67
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:70
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:71
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:74
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:75
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 
