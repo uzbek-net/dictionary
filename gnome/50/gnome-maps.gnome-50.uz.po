@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-06-26 20:47+0000\n"
+"POT-Creation-Date: 2026-07-11 09:06+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -456,7 +456,7 @@ msgstr "Joylashuvni tahrirlash"
 msgid "Edit an existing location in OpenStreetMap"
 msgstr "OpenStreetMap dagi mavjud joylashuvni tahrirlash"
 
-#: data/ui/osm-edit-dialog.blp:50 src/mapView.js:740 src/motis.js:369
+#: data/ui/osm-edit-dialog.blp:50 src/mapView.js:740 src/motis.js:375
 msgid "Continue"
 msgstr "Davom etish"
 
@@ -1010,120 +1010,120 @@ msgstr "Joylashuv qoʻshish uchun kattalashtiring"
 msgid "Location was added in OpenStreetMap"
 msgstr "Joylashuv OpenStreetMap-ga qoʻshildi"
 
-#: src/motis.js:332 src/transit.js:33 src/transit.js:85
+#: src/motis.js:338 src/transit.js:33 src/transit.js:85
 msgid "Start"
 msgstr "Boshlash"
 
-#: src/motis.js:351 src/transit.js:41 src/transit.js:71
+#: src/motis.js:357 src/transit.js:41 src/transit.js:71
 msgid "Arrive"
 msgstr "Yetib kelish"
 
-#: src/motis.js:363
+#: src/motis.js:369
 #, javascript-format
 msgid "Take the stairs to level %s"
 msgstr "Zinadan %s-qavatga chiqing"
 
-#: src/motis.js:364
+#: src/motis.js:370
 msgid "Take the stairs"
 msgstr "Zinadan chiqing"
 
-#: src/motis.js:368
+#: src/motis.js:374
 #, javascript-format
 msgid "Continue on %s"
 msgstr "%s boʻylab davom eting"
 
-#: src/motis.js:373
+#: src/motis.js:379
 #, javascript-format
 msgid "Turn left on %s"
 msgstr "%s da chapga buriling"
 
-#: src/motis.js:374
+#: src/motis.js:380
 msgid "Turn left"
 msgstr "Chapga buriling"
 
-#: src/motis.js:378
+#: src/motis.js:384
 #, javascript-format
 msgid "Turn slightly left on %s"
 msgstr "%s da biroz chapga buriling"
 
-#: src/motis.js:379
+#: src/motis.js:385
 msgid "Turn slightly left"
 msgstr "Biroz chapga buriling"
 
-#: src/motis.js:383
+#: src/motis.js:389
 #, javascript-format
 msgid "Turn sharp left on %s"
 msgstr "%s da chapga keskin buriling"
 
-#: src/motis.js:384
+#: src/motis.js:390
 msgid "Turn sharp left"
 msgstr "Keskin chapga buriling"
 
-#: src/motis.js:388
+#: src/motis.js:394
 #, javascript-format
 msgid "Turn right on %s"
 msgstr "%s da oʻngga buriling"
 
-#: src/motis.js:389
+#: src/motis.js:395
 msgid "Turn right"
 msgstr "Oʻngga buriling"
 
-#: src/motis.js:393
+#: src/motis.js:399
 #, javascript-format
 msgid "Turn slightly right on %s"
 msgstr "%s da biroz oʻngga buriling"
 
-#: src/motis.js:394
+#: src/motis.js:400
 msgid "Turn slightly right"
 msgstr "Biroz oʻngga buriling"
 
-#: src/motis.js:398
+#: src/motis.js:404
 #, javascript-format
 msgid "Turn sharp right on %s"
 msgstr "%s da oʻngga keskin buriling"
 
-#: src/motis.js:399
+#: src/motis.js:405
 msgid "Turn sharp right"
 msgstr "Keskin oʻngga buriling"
 
-#: src/motis.js:406
+#: src/motis.js:412
 #, javascript-format
 msgid "At the roundabout, take exit %s"
 msgstr "Aylanmada, %s chiqish yoʻliga oʻting"
 
-#: src/motis.js:409
+#: src/motis.js:415
 #, javascript-format
 msgid "At the roundabout, take exit to %s"
 msgstr "Aylanma chorrahada, %s ga chiqishga harakatlaning"
 
-#: src/motis.js:411
+#: src/motis.js:417
 msgid "Take the roundabout"
 msgstr "Aylanma yoʻldan boring"
 
-#: src/motis.js:419
+#: src/motis.js:425
 #, javascript-format
 msgid "Take the elevator and get off at %s"
 msgstr "Liftga chiqing va %s da tushing"
 
-#: src/motis.js:420
+#: src/motis.js:426
 msgid "Take the elevator"
 msgstr "Liftga chiqing"
 
-#: src/motis.js:424
+#: src/motis.js:430
 #, javascript-format
 msgid "Make a left u-turn onto %s"
 msgstr "%s ga chap orqaga buriling"
 
-#: src/motis.js:425
+#: src/motis.js:431
 msgid "Make a left u-turn"
 msgstr "Chap orqaga buriling"
 
-#: src/motis.js:429
+#: src/motis.js:435
 #, javascript-format
 msgid "Make a right u-turn onto %s"
 msgstr "%sga oʻng orqaga  buriling"
 
-#: src/motis.js:430
+#: src/motis.js:436
 msgid "Make a right u-turn"
 msgstr "Oʻng orqaga buriling"
 

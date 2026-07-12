@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtksourceview master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
-"POT-Creation-Date: 2026-05-31 12:05+0000\n"
+"POT-Creation-Date: 2026-07-11 11:52+0000\n"
 "PO-Revision-Date: 2025-10-30 15:49+0500\n"
 "Last-Translator: BeMeritus <bemerituss@gmail.com>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -474,19 +474,19 @@ msgstr ""
 "Bitta qatorni ajratib koʻrsatish juda koʻp vaqtni oldi, sintaksisni ajratib "
 "koʻrsatish oʻchirib qoʻyiladi"
 
-#: gtksourceview/gtksourcecontextengine.c:5712
+#: gtksourceview/gtksourcecontextengine.c:5716
 #, c-format
 msgid "context “%s” cannot contain a \\%%{...@start} command"
 msgstr "“%s” kontekstida \\%%{...@start} buyrugʻi boʻlishi mumkin emas"
 
-#: gtksourceview/gtksourcecontextengine.c:5875
-#: gtksourceview/gtksourcecontextengine.c:5965
+#: gtksourceview/gtksourcecontextengine.c:5879
+#: gtksourceview/gtksourcecontextengine.c:5969
 #, c-format
 msgid "duplicated context id “%s”"
 msgstr "takrorlangan kontekst identifikatori “%s”"
 
-#: gtksourceview/gtksourcecontextengine.c:6079
-#: gtksourceview/gtksourcecontextengine.c:6139
+#: gtksourceview/gtksourcecontextengine.c:6083
+#: gtksourceview/gtksourcecontextengine.c:6143
 #, c-format
 msgid ""
 "style override used with wildcard context reference in language “%s” in ref "
@@ -495,18 +495,18 @@ msgstr ""
 "uslubni bekor qilish “%s” refidagi “%s” tilida joker kontekst havolasi bilan"
 " ishlatiladi"
 
-#: gtksourceview/gtksourcecontextengine.c:6153
+#: gtksourceview/gtksourcecontextengine.c:6157
 #, c-format
 msgid "invalid context reference “%s”"
 msgstr "“%s” kontekst havolasi notoʻgʻri"
 
-#: gtksourceview/gtksourcecontextengine.c:6172
-#: gtksourceview/gtksourcecontextengine.c:6182
+#: gtksourceview/gtksourcecontextengine.c:6176
+#: gtksourceview/gtksourcecontextengine.c:6186
 #, c-format
 msgid "unknown context “%s”"
 msgstr "nomaʼlum kontekst “%s”"
 
-#: gtksourceview/gtksourcecontextengine.c:6283
+#: gtksourceview/gtksourcecontextengine.c:6287
 #, c-format
 msgid "Missing main language definition (id = “%s”)."
 msgstr "Asosiy til ta’rifi yetishmayapti (id = \"%s\")."

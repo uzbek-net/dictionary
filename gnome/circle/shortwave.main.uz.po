@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shortwave main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Shortwave/issues\n"
-"POT-Creation-Date: 2026-01-12 20:45+0000\n"
+"POT-Creation-Date: 2026-06-25 23:19+0000\n"
 "PO-Revision-Date: 2025-10-24 19:45+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -236,7 +236,7 @@ msgid "SHORTWAVE INTERNET RADIO"
 msgstr "QISQA TOʻLQINLI INTERNET RADIO"
 
 #: data/gtk/player_gadget.ui:140 data/gtk/player_toolbar.ui:29
-#: data/gtk/player_view.ui:58 src/app.rs:254
+#: data/gtk/player_view.ui:58 src/app.rs:257
 msgid "No Playback"
 msgstr "Qayta ijro qilinmaydi"
 
@@ -534,24 +534,24 @@ msgstr "Davlat"
 msgid "State"
 msgstr "Shtat"
 
-#: data/gtk/station_dialog.ui:216
+#: data/gtk/station_dialog.ui:200
 msgid "Audio"
 msgstr "Audio"
 
-#: data/gtk/station_dialog.ui:219
+#: data/gtk/station_dialog.ui:203
 msgid "Bitrate"
 msgstr "Bitreyt"
 
-#: data/gtk/station_dialog.ui:230
+#: data/gtk/station_dialog.ui:214
 msgid "Codec"
 msgstr "Kodek"
 
 #. This is a noun/label for the station stream url
-#: data/gtk/station_dialog.ui:241
+#: data/gtk/station_dialog.ui:225
 msgid "Stream"
 msgstr "Oqim"
 
-#: data/gtk/station_dialog.ui:247
+#: data/gtk/station_dialog.ui:231
 msgid "Copy"
 msgstr "Nusxalash"
 
@@ -606,12 +606,7 @@ msgstr "Tarona endi mavjud emas"
 msgid "This track is currently not being recorded"
 msgstr "Bu tarona hozirda yozib olinmayapti"
 
-#: src/app.rs:259
-#, rust-format
-msgid "Playing “{}”"
-msgstr "“{}” ijro etilmoqda"
-
-#: src/app.rs:354
+#: src/app.rs:358
 msgid "Active Playback"
 msgstr "Faol ijro"
 
@@ -729,47 +724,50 @@ msgid "{} sec"
 msgid_plural "{} sec"
 msgstr[0] "{} soniya"
 
-#: src/ui/station_dialog.rs:207
+#: src/ui/station_dialog.rs:205
 #, rust-format
 msgid "{} kbit/s"
 msgstr "{} kbit/s"
 
-#: src/ui/station_dialog.rs:292
+#: src/ui/station_dialog.rs:307
 msgid "Copied"
 msgstr "Nusxa olingan"
 
-#: src/ui/window.rs:226
+#: src/ui/window.rs:231
 msgid "No Permission for Background Playback"
 msgstr "Orqa fonda ijro etish uchun ruxsat yoʻq"
 
-#: src/ui/window.rs:228
+#: src/ui/window.rs:233
 msgid "“Run in Background” must be allowed for this app in system settings."
 msgstr ""
 "Bu ilova uchun tizim sozlamalarida “Orqa fonda ishlash” ruxsatini berish "
 "zarur."
 
-#: src/ui/window.rs:232
+#: src/ui/window.rs:237
 msgid "Try Anyway"
 msgstr "Baribir urinish"
 
-#: src/ui/window.rs:233
+#: src/ui/window.rs:238
 msgid "Disable Background Playback"
 msgstr "Orqa fonda ijro etishni oʻchirish"
 
-#: src/utils.rs:51
+#: src/utils.rs:50
 #, rust-format
 msgid "{} hour"
 msgid_plural "{} hours"
 msgstr[0] "{} soat"
 
-#: src/utils.rs:57
+#: src/utils.rs:56
 #, rust-format
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
 
-#: src/utils.rs:62
+#: src/utils.rs:61
 #, rust-format
 msgid "{} second"
 msgid_plural "{} seconds"
 msgstr[0] "{} soniya"
+
+#~ msgid "Playing “{}”"
+#~ msgstr "“{}” ijro etilmoqda"

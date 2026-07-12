@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Manuals gnome-49\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/manuals/issues\n"
-"POT-Creation-Date: 2026-03-17 00:35+0000\n"
+"POT-Creation-Date: 2026-07-06 13:44+0000\n"
 "PO-Revision-Date: 2026-01-15 17:26+0500\n"
 "Last-Translator: Baxrom Raxmatov <>\n"
 "Language-Team: Uzbek (Latin) <support@floss.uz>\n"
@@ -182,15 +182,15 @@ msgstr "%u dan %u"
 msgid "Search"
 msgstr "Izlash"
 
-#: src/manuals-tab.c:149
+#: src/manuals-tab.c:150
 msgid "Open Link in New Tab"
 msgstr "Havolani yangi tabda ochish"
 
-#: src/manuals-tab.c:155
+#: src/manuals-tab.c:156
 msgid "Open Link in New Window"
 msgstr "Havolani yangi oynada ochish"
 
-#: src/manuals-tab.c:874
+#: src/manuals-tab.c:929
 msgid "Empty Page"
 msgstr "Boʻsh sahifa"
 
