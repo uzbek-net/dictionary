@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-04 18:40+0000\n"
+"POT-Creation-Date: 2026-07-19 00:16+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -2800,13 +2800,14 @@ msgstr "Sayt tili"
 msgid "Choose"
 msgstr "Tanlang"
 
-#: people/templates/people/_includes/person_team_membership.html:3
-#: teams/templates/teams/team_detail.html:153
-msgid "Team membership"
-msgstr "Jamoa aʼzoligi"
+#. Translators: header of the list of teams the user is member of
+#: people/templates/people/_includes/person_team_membership.html:4
+msgctxt "person_team_membership"
+msgid "Contributes to team"
+msgstr ""
 
 #. Translators: this string should only be translated for RTL languages
-#: people/templates/people/_includes/person_team_membership.html:13
+#: people/templates/people/_includes/person_team_membership.html:14
 #, python-format
 msgid ""
 "<span id=\"role-%(role_name)s-in-%(team_name)s-team\" class=\"badge text-bg-"
@@ -2815,12 +2816,12 @@ msgstr ""
 "<span id=\"role-%(role_name)s-in-%(team_name)s-team\" class=\"badge text-bg-"
 "secondary\">%(role_name_display)s</span> − %(team_name_url)s"
 
-#: people/templates/people/_includes/person_team_membership.html:22
+#: people/templates/people/_includes/person_team_membership.html:23
 #, python-format
 msgid "Are you sure you want to leave the %(team_name)s team?"
 msgstr "Haqiqatan ham %(team_name)s jamoasini tark etmoqchimisiz?"
 
-#: people/templates/people/_includes/person_team_membership.html:25
+#: people/templates/people/_includes/person_team_membership.html:26
 #: teams/templates/teams/team_detail.html:47
 msgid "Leave"
 msgstr "Tashlab ket"
@@ -5555,6 +5556,12 @@ msgstr "Arxivlangan tarjimalarni koʻrsatish/yashirish"
 msgid "Archives"
 msgstr "Arxivlar"
 
+#: teams/templates/teams/team_detail.html:153
+#, fuzzy
+#| msgid "Team membership"
+msgid "Team members"
+msgstr "Jamoa aʼzoligi"
+
 #: teams/templates/teams/team_detail.html:162
 msgid "Show or hide inactive team members"
 msgstr "Nofaol jamoa aʼzolarini koʻrsatish yoki yashirish"
@@ -5572,6 +5579,22 @@ msgstr "%(lang)s Tarjimon jamoasi"
 msgid ""
 "To manage coordinators and other team roles, please use the team membership "
 "section on the team page."
+msgstr ""
+
+#: teams/templates/teams/team_edit.html:31
+#, fuzzy
+#| msgid "Details"
+msgid "General Details"
+msgstr "Tafsilotlar"
+
+#: teams/templates/teams/team_edit.html:38
+msgid "Welcome Message"
+msgstr ""
+
+#: teams/templates/teams/team_edit.html:39
+msgid ""
+"A message is sent automatically to new team members if you write a welcome "
+"message. You can use Markdown syntax to write this message."
 msgstr ""
 
 #: teams/templates/teams/team_list.html:4
@@ -6224,6 +6247,7 @@ msgstr ""
 #: vertimus/models.py:98 vertimus/templates/vertimus/vertimus_detail.html:375
 #, fuzzy
 #| msgid "Merged file"
+msgctxt "merge_request_status"
 msgid "Merged"
 msgstr "Birlashtirilgan fayl"
 
@@ -6531,9 +6555,9 @@ msgstr ""
 "“%(commit_hash)s” ni “%(current_branch)s” dan “%(main_branch)s” maqsadli "
 "shoxchasiga oʻtish mumkin emas, chunki filiallar bir xil."
 
-#: vertimus/notifications.py:31
+#: vertimus/notifications.py:37
 #, python-format
-msgid "New action in module %(module)s:%(branch)s"
+msgid "%(datetime)s − New action in module %(module)s:%(branch)s"
 msgstr ""
 
 #: vertimus/templates/vertimus/_includes/module_branch_read_only_warning_message.html:9
@@ -6608,7 +6632,7 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"The new state of %(module)s — %(branch)s — %(domain)s (%(language)s) is now “%(new_state)s”.\n"
+"The state of %(module)s — %(branch)s — %(domain)s (%(language)s) is “%(new_state)s”.\n"
 "%(url)s\n"
 "\n"
 "%(comment)s\n"
@@ -6819,12 +6843,14 @@ msgid "Merge Request:"
 msgstr ""
 
 #: vertimus/templates/vertimus/vertimus_detail.html:377
+msgctxt "merge_request_status"
 msgid "Open"
 msgstr ""
 
 #: vertimus/templates/vertimus/vertimus_detail.html:379
 #, fuzzy
 #| msgid "Proofreading"
+msgctxt "merge_request_status"
 msgid "Pending"
 msgstr "Tekshirish"
 
