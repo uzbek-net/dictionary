@@ -19,6 +19,7 @@ msgstr ""
 
 #. Translators: Application name. Translate as "Lorem"
 #: data/org.gnome.design.Lorem.desktop.in.in:3
+#: data/org.gnome.design.Lorem.metainfo.xml.in.in:7
 msgid "Lorem"
 msgstr "Lorem"
 
@@ -54,11 +55,6 @@ msgstr "Mashhur Lorem Ipsum toʻldiruvchi matnini yaratish uchun sodda ilova."
 #: data/org.gnome.design.Lorem.metainfo.xml.in.in:15
 msgid "Main Window"
 msgstr "Asosiy oyna"
-
-#. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.design.Lorem.metainfo.xml.in.in:68
-msgid "Maximiliano Sandoval"
-msgstr "Maksimiliano Sandoval"
 
 #: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
@@ -135,3 +131,6 @@ msgstr "Tanlov nusxalandi"
 #: src/window.rs:248
 msgid "Copied"
 msgstr "Nusxalangan"
+
+#~ msgid "Maximiliano Sandoval"
+#~ msgstr "Maksimiliano Sandoval"

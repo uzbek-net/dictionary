@@ -58,6 +58,12 @@ msgstr ""
 msgid "Find LaTeX and Typst symbols"
 msgstr "LaTeX belgilarini topish"
 
+#. developer_name tag deprecated with Appstream 1.0
+#: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:11
+#: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:13
+msgid "FineFindus"
+msgstr ""
+
 #: data/io.github.finefindus.Hieroglyphic.metainfo.xml.in.in:18
 #, fuzzy
 #| msgid ""

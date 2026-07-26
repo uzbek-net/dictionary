@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fretboard main\n"
 "Report-Msgid-Bugs-To: https://github.com/bragefuglseth/fretboard/issues\n"
-"POT-Creation-Date: 2026-06-30 23:16+0000\n"
+"POT-Creation-Date: 2026-07-19 20:24+0000\n"
 "PO-Revision-Date: 2025-10-13 11:09+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -163,21 +163,21 @@ msgstr "Yuqoriga siljitish"
 msgid "Move Down"
 msgstr "Pastga siljitish"
 
-#: src/widgets/chord_diagram_top_toggle.rs:168
+#: src/widgets/chord_diagram_top_toggle.rs:169
 #, rust-format
 msgid "Not Open ({})"
 msgstr "Ochilmagan ({})"
 
 #. translators: The text between the `{}` markers is the note of the muted
 #. string.
-#: src/widgets/chord_diagram_top_toggle.rs:171
+#: src/widgets/chord_diagram_top_toggle.rs:172
 #, rust-format
 msgid "Muted ({})"
 msgstr "Ovozsiz ({})"
 
 #. translators: The text between the `{}` markers is the note of the open
 #. string. "Open" is an adjective, not a verb.
-#: src/widgets/chord_diagram_top_toggle.rs:175
+#: src/widgets/chord_diagram_top_toggle.rs:176
 #, rust-format
 msgid "Open ({})"
 msgstr "Ochish ({})"
@@ -212,7 +212,7 @@ msgstr "Variantlarni koʻrish"
 msgid "No Variants"
 msgstr "Variantlar yoʻq"
 
-#: src/widgets/window.blp:178 src/widgets/window.rs:374
+#: src/widgets/window.blp:178 src/widgets/window.rs:375
 msgid "Bookmarks"
 msgstr "Xatchoʻplar"
 
@@ -241,17 +241,17 @@ msgstr "Klaviatura yorliqlari"
 msgid "_About Fretboard"
 msgstr "Fretbord haqida"
 
-#: src/widgets/window.rs:297
+#: src/widgets/window.rs:298
 msgid "Remove Bookmark"
 msgstr "Xatchoʻpni olib tashlash"
 
-#: src/widgets/window.rs:299
+#: src/widgets/window.rs:300
 msgid "Bookmark"
 msgstr "Xatchoʻp"
 
 #. translators: The text between the `{}` markers becomes a link to the app's
 #. issue tracker. Include both of the markers.
-#: src/widgets/window.rs:310
+#: src/widgets/window.rs:311
 #, rust-format
 msgid ""
 "There are no chords with this name in Fretboard’s built-in chord set. If you"
@@ -261,31 +261,31 @@ msgstr ""
 "mavjud emas. Agar bu akkord boʻlishi kerak deb oʻylasangiz, {} biz bilan "
 "bogʻlaning {}."
 
-#: src/widgets/window.rs:372
+#: src/widgets/window.rs:373
 msgid "No Bookmarks"
 msgstr "Xatchoʻplar yoʻq"
 
 #. Translators: Replace "translator-credits" with your names, one name per
 #. line
-#: src/widgets/window.rs:693
+#: src/widgets/window.rs:696
 msgid "translator-credits"
 msgstr ""
 "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>\n"
 "Baxrom Raxmatov"
 
-#: src/widgets/window.rs:695
+#: src/widgets/window.rs:698
 msgid "Donate"
 msgstr ""
 
 #. Translators: Metainfo for the app Keypunch.
 #. <https://github.com/bragefuglseth/keypunch>
-#: src/widgets/window.rs:700
+#: src/widgets/window.rs:703
 msgid "Keypunch"
 msgstr "Keypunch"
 
 #. Translators: Metainfo for the app Keypunch.
 #. <https://github.com/bragefuglseth/keypunch>
-#: src/widgets/window.rs:702
+#: src/widgets/window.rs:705
 msgid "Practice your typing skills"
 msgstr "Yozuv mahoratingizni mashq qiling"
 

@@ -32,6 +32,60 @@ msgstr "Fayllarni tez va xavfsiz uzatish"
 msgid "Gnome;GTK;Wormhole;Magic-Wormhole;"
 msgstr "Gnome;GTK;Wormhole;Magic-Wormhole;"
 
+#: data/app.drey.Warp.metainfo.xml.in.in:9 src/ui/window.rs:304
+msgid "Fina Wilke"
+msgstr "Fina Wilke"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:22
+#, fuzzy
+#| msgid "File Transfer"
+msgid "files transfers"
+msgstr "Fayl uzatish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:23
+#, fuzzy
+#| msgid "File Transfer"
+msgid "file transfer"
+msgstr "Fayl uzatish"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:24
+msgid "file sharing"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:25
+msgid "filesharing"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:26
+msgid "peer-to-peer"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:27
+msgid "p2p"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:28
+#, fuzzy
+#| msgid "Network"
+msgid "local network"
+msgstr "Tarmoq"
+
+#: data/app.drey.Warp.metainfo.xml.in.in:29
+msgid "LAN"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:30
+msgid "Internet"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:31
+msgid "end-to-end encrypted"
+msgstr ""
+
+#: data/app.drey.Warp.metainfo.xml.in.in:32
+msgid "e2ee"
+msgstr ""
+
 #: data/app.drey.Warp.metainfo.xml.in.in:61
 msgid ""
 "Warp allows you to securely send files to each other via the internet or "
@@ -630,10 +684,6 @@ msgstr ""
 #, rust-format
 msgid "Error saving configuration file: {}"
 msgstr "Konfiguratsiya faylini saqlashda xatolik yuz berdi: {}"
-
-#: src/ui/window.rs:304
-msgid "Fina Wilke"
-msgstr "Fina Wilke"
 
 #: src/ui/window.rs:305
 msgid "Tobias Bernard"

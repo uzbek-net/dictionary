@@ -20,7 +20,6 @@ msgstr ""
 
 #. Translators: Iotas is the app name, do not translate
 #: data/org.gnome.World.Iotas.desktop.in.in:3
-#: data/org.gnome.World.Iotas.metainfo.xml.in.in:5
 msgid "Iotas"
 msgstr "Iotas"
 

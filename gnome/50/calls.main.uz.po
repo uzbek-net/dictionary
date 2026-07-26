@@ -62,6 +62,7 @@ msgstr ""
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Calls.metainfo.xml.in:25
+#: data/org.gnome.Calls.metainfo.xml.in:27
 msgid "Julian Sparber, Evangelos Ribeiro Tzaras"
 msgstr "Julian Sparber, Evangelos Ribeiro Tzaras"
 

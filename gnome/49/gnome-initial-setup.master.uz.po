@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
-"POT-Creation-Date: 2026-05-26 07:44+0000\n"
+"POT-Creation-Date: 2026-07-19 12:20+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -35,7 +35,7 @@ msgid "_Previous"
 msgstr "_Oldingi"
 
 #: gnome-initial-setup/gis-assistant.c:392
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:254
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:263
 msgid "_Cancel"
 msgstr "_Bekor qilish"
 
@@ -47,24 +47,24 @@ msgstr "Mavjud foydalanuvchi rejimini majburlash"
 msgid "— GNOME initial setup"
 msgstr "- GNOME-ni dastlabki sozlash"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:177
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:181
 msgid "Failed to cache account"
 msgstr "Hisobni keshlash amalga oshmadi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:227
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:231
 msgid "Failed to register account"
 msgstr "Hisob qaydnomasini roʻyxatdan oʻtkazib boʻlmadi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:416
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:420
 msgid "No supported way to authenticate with this domain"
 msgstr ""
 "Bu domen bilan autentifikatsiya qilishning qoʻllab-quvvatlanmaydigan usuli"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:455
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:459
 msgid "Failed to join domain"
 msgstr "Domenga qoʻshilmadi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:522
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:526
 msgid "Failed to log into domain"
 msgstr "Domenga kirib boʻlmadi"
 
@@ -84,7 +84,7 @@ msgstr ""
 "foydalanishingiz mumkin."
 
 #: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:27
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:153
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:162
 msgid "_Domain"
 msgstr "_Domen"
 
@@ -98,15 +98,15 @@ msgstr "_Resurs uchun foydalanuvchi nomi"
 msgid "_Password"
 msgstr "_Parol"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:99
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:108
 msgid "Enterprise domain or realm name"
 msgstr "Korxona domeni yoki hudud nomi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:126
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:135
 msgid "Domain Administrator Login"
 msgstr "Domen administratoriga kirish"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:141
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:150
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -116,19 +116,19 @@ msgstr ""
 "oʻtgan boʻlishi kerak. Iltimos, tarmoq ma'muringizdan domen parolini shu "
 "yerga kiriting va kompyuteringiz uchun noyob kompyuter nomini tanlang."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:179
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:188
 msgid "_Computer"
 msgstr "_Kompyuter"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:203
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:212
 msgid "Administrator _Name"
 msgstr "Administrator _Nomi"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:227
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:236
 msgid "Administrator Password"
 msgstr "Administrator paroli"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:260
+#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:269
 msgid "C_ontinue"
 msgstr "C_davom etish"
 
@@ -357,50 +357,50 @@ msgid "Parental Controls"
 msgstr "_Ota-ona nazorati"
 
 #. Translators: The placeholder is for the user’s full name.
-#: gnome-initial-setup/pages/password/gis-password-page.c:92
+#: gnome-initial-setup/pages/password/gis-password-page.c:97
 #, c-format
 msgid "Set a Password for %s"
 msgstr "%s uchun parol oʻrnating"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:94
+#: gnome-initial-setup/pages/password/gis-password-page.c:99
 msgid "Be careful not to lose your password."
 msgstr "Parolingizni yoʻqotmaslik uchun ehtiyot boʻling."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:99
+#: gnome-initial-setup/pages/password/gis-password-page.c:104
 msgid "Set a Parent Password"
 msgstr "Ota-ona parolini oʻrnating"
 
 #. Translators: The placeholder is the full name of the child user on the
 #. system.
-#: gnome-initial-setup/pages/password/gis-password-page.c:101
+#: gnome-initial-setup/pages/password/gis-password-page.c:106
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr "Bu parol %s uchun ota-ona nazoratiga kirishni nazorat qiladi."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:223
+#: gnome-initial-setup/pages/password/gis-password-page.c:228
 #, fuzzy, c-format
 #| msgid "Password _Hint"
 msgid "Password strength: %s."
 msgstr "Parolni eslatuvchi soʻz"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:249
-#: gnome-initial-setup/pages/password/gis-password-page.c:251
+#: gnome-initial-setup/pages/password/gis-password-page.c:254
+#: gnome-initial-setup/pages/password/gis-password-page.c:256
 msgid "The passwords do not match."
 msgstr "Parollar oʻxshash emas."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:424
+#: gnome-initial-setup/pages/password/gis-password-page.c:429
 msgid "Password"
 msgstr "Parol"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:68
+#: gnome-initial-setup/pages/password/gis-password-page.ui:71
 msgid "_Confirm Password"
 msgstr "_Parolni tasdiqlang"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:92
+#: gnome-initial-setup/pages/password/gis-password-page.ui:98
 msgid "Password _Hint"
 msgstr "Parolni eslatuvchi soʻz"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:103
+#: gnome-initial-setup/pages/password/gis-password-page.ui:109
 msgid "Password hint will be shown in case you forget your password."
 msgstr "Parolni unutganingizda parol boʻyicha eslatuvchi soʻz koʻrsatiladi."
 

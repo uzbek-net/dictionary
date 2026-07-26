@@ -110,6 +110,10 @@ msgstr "Yorugʻlik rejimida baraban naqshi yuklandi"
 msgid "Drum Pattern Loaded in Dark Mode"
 msgstr "Qorongʻi rejimda baraban naqshi yuklandi"
 
+#: data/io.github.revisto.drum-machine.metainfo.xml.in:49
+msgid "Revisto"
+msgstr ""
+
 #: src/application.py:74
 msgid ""
 "Drum Machine is a modern and intuitive application for creating, playing, "

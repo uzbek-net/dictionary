@@ -67,7 +67,8 @@ msgstr ""
 msgid "Main window"
 msgstr ""
 
-#: data/org.gnome.Yelp.metainfo.xml.in:61 src/yelp-window.c:1167
+#: data/org.gnome.Yelp.metainfo.xml.in:61
+#: data/org.gnome.Yelp.metainfo.xml.in:63 src/yelp-window.c:1167
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

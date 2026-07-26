@@ -17,12 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-#: data/com.github.huluti.Curtail.appdata.xml.in:7
-#: data/com.github.huluti.Curtail.desktop.in:2 data/ui/window.blp:29
-#: data/ui/window.blp:53 data/ui/window.blp:78
-msgid "Curtail"
-msgstr "Curtail"
-
 #: data/com.github.huluti.Curtail.appdata.xml.in:8
 #: data/com.github.huluti.Curtail.desktop.in:4
 msgid "Compress your images"
@@ -44,6 +38,11 @@ msgstr ""
 "Dastur tasvirlarning metama’lumotlarini saqlash yoki saqlamaslik tanlovini "
 "taqdim etgan holda, ma’lumot yoʻqotishsiz va ma’lumot yoʻqotish bilan "
 "zichlash rejimlarini qoʻllab-quvvatlaydi."
+
+#: data/com.github.huluti.Curtail.desktop.in:2 data/ui/window.blp:29
+#: data/ui/window.blp:53 data/ui/window.blp:78
+msgid "Curtail"
+msgstr "Curtail"
 
 #. Keywords, do not translate
 #: data/com.github.huluti.Curtail.desktop.in:15
