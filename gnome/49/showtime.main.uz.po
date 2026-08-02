@@ -60,6 +60,10 @@ msgstr ""
 "– toʻgʻridan-toʻgʻri koʻrish tajribasi uchun kerak boʻlgan barcha narsalarni"
 " oʻz ichiga oladi."
 
+#: data/org.gnome.Showtime.metainfo.xml.in:18
+msgid "The GNOME Project"
+msgstr ""
+
 #: data/org.gnome.Showtime.metainfo.xml.in:37
 msgid "The app playing a video"
 msgstr "Ilova video oʻynaydi"

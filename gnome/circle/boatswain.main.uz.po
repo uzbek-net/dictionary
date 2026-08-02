@@ -82,6 +82,10 @@ msgstr "Oʻyin ballaringizni kuzatib boring"
 msgid "Open files and launch applications"
 msgstr "Fayllarni ochish va ilovalarni ishga tushirish"
 
+#: data/com.feaneron.Boatswain.metainfo.xml.in.in:28
+msgid "Georges Basile Stavracas Neto"
+msgstr ""
+
 #. Translators: this is a product name. In most cases, it is not translated.
 #. * Please verify if Elgato translates their product names on your locale.
 #: lib/devices/elgato/elgato-stream-deck-mini.c:223

@@ -74,6 +74,7 @@ msgid "MPRIS integration"
 msgstr "MPRIS integratsiyasi"
 
 #: data/io.bassi.Amberol.metainfo.xml.in.in:48
+#: data/io.bassi.Amberol.metainfo.xml.in.in:50
 msgid "Emmanuele Bassi"
 msgstr "Emmanuel Bassi"
 

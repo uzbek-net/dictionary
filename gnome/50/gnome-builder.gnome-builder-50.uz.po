@@ -34,6 +34,7 @@ msgstr "GNOME uchun ilovalar yarating"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/appdata/org.gnome.Builder.metainfo.xml.in.in:10
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:12
 msgid "Christian Hergert"
 msgstr "Christian Hergert"
 
@@ -147,6 +148,123 @@ msgstr "Fayllar va belgilar boʻylab tezkor loyqa matn qidirish"
 #: data/appdata/org.gnome.Builder.metainfo.xml.in.in:45
 msgid "Arduino integration with arduino-cli"
 msgstr "Arduino bilan arduino-cli integratsiyasi"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:51
+#, fuzzy
+#| msgid "ID"
+msgid "IDE"
+msgstr "ID"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:52
+msgid "integrated development environment"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:53
+#, fuzzy
+#| msgid "The source code editor"
+msgid "code editor"
+msgstr "Asosiy manbadagi kodni tahrirlovchi"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:54
+#, fuzzy
+#| msgid "Loading…"
+msgid "coding"
+msgstr "Yuklanmoqda…"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:55
+#, fuzzy
+#| msgid "Programmer"
+msgid "programming"
+msgstr "Dasturchi"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:56
+msgid "software developers"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:57
+msgid "software development"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:58
+#, fuzzy
+#| msgid "Tooling"
+msgid "compiling"
+msgstr "Jihozlar"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:59
+#, fuzzy
+#| msgid "Building"
+msgid "building"
+msgstr "Qurilmoqda"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:60
+#, fuzzy
+#| msgid "Runtime"
+msgid "runtimes"
+msgstr "Ishlash vaqti"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:61
+#: src/libide/plugins/ide-plugin.c:337 src/plugins/sdkui/tweaks.ui:9
+msgid "SDKs"
+msgstr "SDKʼlar"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:62
+msgid "GTK inspector"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:63
+#, fuzzy
+#| msgid "D-Bus Inspector…"
+msgid "D-Bus inspector"
+msgstr "D-Bus inspektori…"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:64
+#, fuzzy
+#| msgid "Debugger"
+msgid "debugger"
+msgstr "Debugger"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:65
+#, fuzzy
+#| msgid "Debugging"
+msgid "debugging"
+msgstr "Debaglash"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:67
+msgid "memory leaks detector"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:69
+#, fuzzy
+#| msgid "Unit Tests"
+msgid "unit tests"
+msgstr "Modul testlar"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:70
+msgid "automated testing"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:71
+#, fuzzy
+#| msgid "Documentation"
+msgid "documentation"
+msgstr "Hujjatlar"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:72
+#, fuzzy
+#| msgid "Ctags based autocompletion"
+msgid "autocompletion"
+msgstr "Ctagʻlarga asoslangan avtomatik toʻldirish"
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:73
+msgid "profiler"
+msgstr ""
+
+#: data/appdata/org.gnome.Builder.metainfo.xml.in.in:74
+#, fuzzy
+#| msgid "Tooling"
+msgid "profiling"
+msgstr "Jihozlar"
 
 #: data/appdata/org.gnome.Builder.metainfo.xml.in.in:110
 msgid "Debug with the GNU debugger"
@@ -1810,10 +1928,6 @@ msgstr "Vebsayt"
 #: src/plugins/projectui/tweaks.ui:148
 msgid "Version Control"
 msgstr "Versiya boshqaruvi"
-
-#: src/libide/plugins/ide-plugin.c:337 src/plugins/sdkui/tweaks.ui:9
-msgid "SDKs"
-msgstr "SDKʼlar"
 
 #: src/libide/plugins/ide-plugin.c:338 src/plugins/buildui/tweaks.ui:244
 msgid "Language Servers"

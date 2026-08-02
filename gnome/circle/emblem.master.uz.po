@@ -46,6 +46,12 @@ msgstr ""
 msgid "Main window"
 msgstr "Asosiy oyna"
 
+#. developer_name tag deprecated with Appstream 1.0
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:89
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:91
+msgid "Maximiliano Sandoval"
+msgstr ""
+
 #: data/resources/ui/export.ui:11
 msgid "Preview"
 msgstr "Oldindan koʻrish"

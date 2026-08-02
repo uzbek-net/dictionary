@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-06-24 09:00+0000\n"
+"POT-Creation-Date: 2026-07-31 10:18+0000\n"
 "PO-Revision-Date: 2025-10-13 17:32+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -10535,6 +10535,7 @@ msgstr "Sozlamalar tizimingizni sozlash uchun asosiy interfeysdir."
 
 #. developer_name tag deprecated with Appstream 1.0
 #: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:40
+#: shell/appdata/org.gnome.Settings.metainfo.xml.in.in:42
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libadwaita libadwaita-1-8\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
-"POT-Creation-Date: 2026-05-24 17:02+0000\n"
+"POT-Creation-Date: 2026-07-31 18:25+0000\n"
 "PO-Revision-Date: 2025-10-13 17:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -617,7 +617,7 @@ msgid "View Open Tabs"
 msgstr "Ochiq tablarni koʻrish"
 
 #. Translators: Tab overview title, %u is the number of open tabs
-#: src/adw-tab-overview.c:965
+#: src/adw-tab-overview.c:967
 #, c-format
 msgid "%u Tab"
 msgid_plural "%u Tabs"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: decoder master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Decoder/-/issues\n"
-"POT-Creation-Date: 2026-06-21 07:07+0000\n"
+"POT-Creation-Date: 2026-07-20 19:14+0000\n"
 "PO-Revision-Date: 2025-10-02 13:35+0500\n"
 "Last-Translator: let_rec <https://github.com/let-rec>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -87,6 +87,12 @@ msgstr "Kamera yordamida QR kodni skanerlash"
 #: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:30
 msgid "History of the scanner/generated QR codes"
 msgstr "Skaner tarixi/hosil qilingan QR kodlar"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:181
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:183
+msgid "Bilal Elmoussaoui"
+msgstr ""
 
 #: data/resources/ui/camera_page.ui:22
 msgid "Missing Camera Permission"

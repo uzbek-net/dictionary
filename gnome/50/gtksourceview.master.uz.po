@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtksourceview master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
-"POT-Creation-Date: 2026-07-18 10:49+0000\n"
+"POT-Creation-Date: 2026-07-28 17:20+0000\n"
 "PO-Revision-Date: 2025-10-30 15:49+0500\n"
 "Last-Translator: BeMeritus <bemerituss@gmail.com>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -707,23 +707,23 @@ msgstr "Bekor qilish"
 msgid "_Select"
 msgstr "Tanlash"
 
-#: gtksourceview/gtksourceview.c:1984
+#: gtksourceview/gtksourceview.c:1977
 msgid "All _Upper Case"
 msgstr "Hammasi katta harfda"
 
-#: gtksourceview/gtksourceview.c:1988
+#: gtksourceview/gtksourceview.c:1981
 msgid "All _Lower Case"
 msgstr "Hammasi kichik harfda"
 
-#: gtksourceview/gtksourceview.c:1992
+#: gtksourceview/gtksourceview.c:1985
 msgid "_Invert Case"
 msgstr "Registrni oʻzgartiring"
 
-#: gtksourceview/gtksourceview.c:1996
+#: gtksourceview/gtksourceview.c:1989
 msgid "_Title Case"
 msgstr "Bosh harfli"
 
-#: gtksourceview/gtksourceview.c:2000
+#: gtksourceview/gtksourceview.c:1993
 msgid "C_hange Case"
 msgstr "Oʻzgartirish"
 
