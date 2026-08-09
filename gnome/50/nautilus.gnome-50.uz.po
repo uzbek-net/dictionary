@@ -448,6 +448,11 @@ msgstr ""
 "Tree List. Uning funktsiyalari plaginlar va skriptlar bilan kengaytirilishi "
 "mumkin."
 
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:47 src/nautilus-window.c:1734
+#: src/nautilus-window.c:1739 src/nautilus-window.c:1744
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
+
 #: data/org.gnome.Nautilus.metainfo.xml.in.in:61
 #: src/nautilus-files-view.c:9698
 msgid "Grid View"
@@ -4500,11 +4505,6 @@ msgstr[1] "%d fayl yulduzcha olib tashlandi"
 #: src/nautilus-window.c:824 src/resources/ui/nautilus-window.blp:30
 msgid "_Redo"
 msgstr "_Qayta qiling"
-
-#: src/nautilus-window.c:1734 src/nautilus-window.c:1739
-#: src/nautilus-window.c:1744
-msgid "The GNOME Project"
-msgstr "GNOME loyihasi"
 
 #: src/nautilus-window.c:1751
 msgid "No plugins currently installed."

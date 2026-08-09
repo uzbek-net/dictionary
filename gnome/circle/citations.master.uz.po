@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: citations master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/citations/-/issues\n"
-"POT-Creation-Date: 2026-07-10 21:37+0000\n"
+"POT-Creation-Date: 2026-07-19 21:21+0000\n"
 "PO-Revision-Date: 2025-10-07 20:57+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -151,11 +151,6 @@ msgstr "Bibliografiyalaringizni BibTeX formatida boshqaring."
 #: data/org.gnome.World.Citations.metainfo.xml.in.in:15
 msgid "Main window"
 msgstr "Asosiy oyna"
-
-#. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.World.Citations.metainfo.xml.in.in:147
-msgid "Maximiliano Sandoval"
-msgstr "Maksimiliano Sandoval"
 
 #. Translators: Selects a PDF file for the citation
 #: data/resources/ui/add_pdf_dialog.ui:8 data/resources/ui/entry_page.ui:256
@@ -740,6 +735,9 @@ msgstr "Saqlash va tark etish"
 #: src/window.rs:771
 msgid "Remove From Recent Files"
 msgstr "Oxirgi fayllardan olib tashlash"
+
+#~ msgid "Maximiliano Sandoval"
+#~ msgstr "Maksimiliano Sandoval"
 
 #~ msgid "PDF added"
 #~ msgstr "PDF kiritildi"

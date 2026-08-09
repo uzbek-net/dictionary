@@ -34,6 +34,28 @@ msgstr ""
 "Sushi - bu GNOME ish stoli muhiti uchun fayllarni koʻrib chiqish dasturi. Bu"
 " GNOME Files (Nautilus) bilan integratsiyalashgan mustaqil komponent."
 
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:18
+msgid "nautilus"
+msgstr ""
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:19
+#, fuzzy
+#| msgid "Sushi"
+msgid "sushi"
+msgstr "Sushi"
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:20
+msgid "view"
+msgstr ""
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:21
+msgid "previewer"
+msgstr ""
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:22
+msgid "preview"
+msgstr ""
+
 #: src/ui/fallbackRenderer.js:244
 msgid "Type"
 msgstr "Turi"

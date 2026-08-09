@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-06-29 18:44+0000\n"
+"POT-Creation-Date: 2026-08-02 18:11+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -613,19 +613,19 @@ msgstr "Xato tafsilotlari"
 msgid "Copy Error"
 msgstr "Xato xabarini nusxalash"
 
-#: js/gdm/authPrompt.js:157 js/gdm/loginDialog.js:516
+#: js/gdm/authPrompt.js:160 js/gdm/loginDialog.js:516
 #: js/ui/audioDeviceSelection.js:60 js/ui/components/networkAgent.js:114
 #: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:437
-#: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:382
-#: js/ui/shellMountOperation.js:392
+#: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:392
+#: js/ui/shellMountOperation.js:402
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: js/gdm/authPrompt.js:335 js/ui/components/networkAgent.js:214
+#: js/gdm/authPrompt.js:338 js/ui/components/networkAgent.js:214
 #: js/ui/components/networkAgent.js:234 js/ui/components/networkAgent.js:266
 #: js/ui/components/networkAgent.js:299 js/ui/components/networkAgent.js:338
 #: js/ui/components/networkAgent.js:351 js/ui/components/polkitAgent.js:286
-#: js/ui/shellMountOperation.js:332
+#: js/ui/shellMountOperation.js:342
 #: subprojects/extensions-tool/src/command-upload.c:252
 msgid "Password"
 msgstr "Parol"
@@ -1524,7 +1524,7 @@ msgstr "Autentifikatsiya"
 #. * requested authentication was not gained; this can happen
 #. * because of an authentication error (like invalid password),
 #. * for instance.
-#: js/ui/components/polkitAgent.js:263 js/ui/shellMountOperation.js:415
+#: js/ui/components/polkitAgent.js:263 js/ui/shellMountOperation.js:425
 msgid "Sorry, that didn’t work. Please try again."
 msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 
@@ -1792,11 +1792,11 @@ msgstr ""
 "extensions.gnome.org saytidan \"%s\" kengaytmasini yuklab olish va "
 "oʻrnatishni xohlaysizmi?"
 
-#: js/ui/extensionSystem.js:354
+#: js/ui/extensionSystem.js:353
 msgid "Extension Updates Available"
 msgstr "Kengaytma yangilanishlari mavjud"
 
-#: js/ui/extensionSystem.js:355
+#: js/ui/extensionSystem.js:354
 msgid "Extension updates are ready to be installed"
 msgstr "Kengaytma yangilanishlari oʻrnatishga tayyor"
 
@@ -1882,57 +1882,57 @@ msgstr "Oʻchirish"
 msgid "Keyboard Settings"
 msgstr "Klaviatura sozlamalari"
 
-#: js/ui/lookingGlass.js:742
+#: js/ui/lookingGlass.js:744
 msgid "No extensions installed"
 msgstr "Kengaytmalar oʻrnatilmagan"
 
 #. Translators: argument is an extension UUID.
-#: js/ui/lookingGlass.js:805
+#: js/ui/lookingGlass.js:807
 #, javascript-format
 msgid "%s has not emitted any errors"
 msgstr "%s hech qanday xatolik chiqarmadi"
 
-#: js/ui/lookingGlass.js:811
+#: js/ui/lookingGlass.js:813
 msgid "Hide Errors"
 msgstr "Xatolarni yashirish"
 
-#: js/ui/lookingGlass.js:815 js/ui/lookingGlass.js:895
+#: js/ui/lookingGlass.js:817 js/ui/lookingGlass.js:897
 msgid "Show Errors"
 msgstr "Xatolarni koʻrsatish"
 
-#: js/ui/lookingGlass.js:824
+#: js/ui/lookingGlass.js:826
 msgid "Active"
 msgstr "Aktiv"
 
-#: js/ui/lookingGlass.js:827
+#: js/ui/lookingGlass.js:829
 msgid "Inactive"
 msgstr "Aktiv emas"
 
-#: js/ui/lookingGlass.js:829
+#: js/ui/lookingGlass.js:831
 msgid "Error"
 msgstr "Xatolik"
 
-#: js/ui/lookingGlass.js:831
+#: js/ui/lookingGlass.js:833
 msgid "Out of date"
 msgstr "Yangilash talab qilinadi"
 
-#: js/ui/lookingGlass.js:833
+#: js/ui/lookingGlass.js:835
 msgid "Downloading"
 msgstr "Yuklab olinmoqda"
 
-#: js/ui/lookingGlass.js:835
+#: js/ui/lookingGlass.js:837
 msgid "Deactivating"
 msgstr "Faollashtiruvchi"
 
-#: js/ui/lookingGlass.js:837
+#: js/ui/lookingGlass.js:839
 msgid "Activating"
 msgstr "Faollashtirilmoqda"
 
-#: js/ui/lookingGlass.js:873
+#: js/ui/lookingGlass.js:875
 msgid "View Source"
 msgstr "Manbani koʻrish"
 
-#: js/ui/lookingGlass.js:884
+#: js/ui/lookingGlass.js:886
 msgid "Web Page"
 msgstr "Veb sahifa"
 
@@ -2068,15 +2068,15 @@ msgstr "Menyuni ochish"
 msgid "Run a Command"
 msgstr "Buyruqni ishga tushirish"
 
-#: js/ui/runDialog.js:79
+#: js/ui/runDialog.js:80
 msgid "Press ESC to close"
 msgstr "Yopish uchun ESC tugmasini bosing"
 
-#: js/ui/runDialog.js:256
+#: js/ui/runDialog.js:257
 msgid "Restart is not available on Wayland"
 msgstr "Qayta ishga tushirish Waylandda mavjud emas"
 
-#: js/ui/runDialog.js:261
+#: js/ui/runDialog.js:262
 msgid "Restarting…"
 msgstr "Qayta ishga tushirilmoqda…"
 
@@ -2212,15 +2212,15 @@ msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
-#: js/ui/search.js:855
+#: js/ui/search.js:858
 msgid "Searching"
 msgstr "Qidirilmoqda"
 
-#: js/ui/search.js:858
+#: js/ui/search.js:861
 msgid "No results"
 msgstr "Natija yoʻq"
 
-#: js/ui/search.js:993
+#: js/ui/search.js:996
 #, javascript-format
 msgid "%d more"
 msgid_plural "%d more"
@@ -2251,20 +2251,20 @@ msgstr "Matnni yashirish"
 msgid "Caps lock is on"
 msgstr "Caps lock yoqilgan"
 
-#: js/ui/shellMountOperation.js:286
+#: js/ui/shellMountOperation.js:296
 msgid "Hidden Volume"
 msgstr "Yashirin ovoz balandligi"
 
-#: js/ui/shellMountOperation.js:289
+#: js/ui/shellMountOperation.js:299
 msgid "Windows System Volume"
 msgstr "Windows tizimi ovozi"
 
-#: js/ui/shellMountOperation.js:292
+#: js/ui/shellMountOperation.js:302
 msgid "Uses Keyfiles"
 msgstr "Kalit fayllardan foydalanadi"
 
 #. Translators: %s is the Disks application
-#: js/ui/shellMountOperation.js:300
+#: js/ui/shellMountOperation.js:310
 #, javascript-format
 msgid ""
 "To unlock a volume that uses keyfiles, use the <i>%s</i> utility instead"
@@ -2272,7 +2272,7 @@ msgstr ""
 "Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun uning "
 "oʻrniga <i>%s</i> yordam dasturidan foydalaning"
 
-#: js/ui/shellMountOperation.js:304
+#: js/ui/shellMountOperation.js:314
 msgid ""
 "You need an external utility like <i>Disks</i> to unlock a volume that uses "
 "keyfiles"
@@ -2280,25 +2280,25 @@ msgstr ""
 "Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun sizga "
 "<i>Disklar</i> kabi tashqi yordamchi dastur kerak"
 
-#: js/ui/shellMountOperation.js:312
+#: js/ui/shellMountOperation.js:322
 msgid "PIM Number"
 msgstr "PIM raqami"
 
-#: js/ui/shellMountOperation.js:371
+#: js/ui/shellMountOperation.js:381
 msgid "Remember Password"
 msgstr "Parolni eslab qolish"
 
-#: js/ui/shellMountOperation.js:386
+#: js/ui/shellMountOperation.js:396
 msgid "Unlock"
 msgstr "Qulfni ochish"
 
 #. Translators: %s is the Disks application
-#: js/ui/shellMountOperation.js:400
+#: js/ui/shellMountOperation.js:410
 #, javascript-format
 msgid "Open %s"
 msgstr "%s oching"
 
-#: js/ui/shellMountOperation.js:436
+#: js/ui/shellMountOperation.js:446
 msgid "The PIM must be a number or empty"
 msgstr "PIM raqam yoki boʻsh boʻlishi kerak"
 
@@ -2922,7 +2922,7 @@ msgstr "Monitorning oʻng tomoniga siljiting"
 msgid "Close"
 msgstr "Yopish"
 
-#: src/main.c:517 subprojects/extensions-tool/src/main.c:336
+#: src/main.c:517 subprojects/extensions-tool/src/main.c:338
 msgid "Print version"
 msgstr "Chop etish versiyasi"
 
@@ -2979,6 +2979,7 @@ msgstr "GNOME kengaytmalaringizni boshqaring"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:20
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:22
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -2991,15 +2992,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:77
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:78
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:81
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:82
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:85
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:86
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 
@@ -3211,12 +3212,12 @@ msgid "Quit"
 msgstr "Chiqish"
 
 #. Translators: a file path to an extension directory
-#: subprojects/extensions-tool/src/command-create.c:284
+#: subprojects/extensions-tool/src/command-create.c:285
 #, c-format
 msgid "The new extension was successfully created in %s.\n"
 msgstr "Yangi kengaytma %s da muvaffaqiyatli yaratildi.\n"
 
-#: subprojects/extensions-tool/src/command-create.c:376
+#: subprojects/extensions-tool/src/command-create.c:377
 #, c-format
 msgid ""
 "Name should be a very short (ideally descriptive) string.\n"
@@ -3225,12 +3226,12 @@ msgstr ""
 "Ism juda qisqa (ideal tavsiflovchi) qator boʻlishi kerak.\n"
 "Misollar: %s"
 
-#: subprojects/extensions-tool/src/command-create.c:382
-#: subprojects/extensions-tool/src/main.c:243
+#: subprojects/extensions-tool/src/command-create.c:383
+#: subprojects/extensions-tool/src/main.c:245
 msgid "Name"
 msgstr "Ism"
 
-#: subprojects/extensions-tool/src/command-create.c:396
+#: subprojects/extensions-tool/src/command-create.c:397
 #, c-format
 msgid ""
 "Description is a single-sentence explanation of what your extension does.\n"
@@ -3239,12 +3240,12 @@ msgstr ""
 "Tavsif kengaytmangiz nima qilishini bir jumladan iborat tushuntirishdir.\n"
 "Misollar: %s"
 
-#: subprojects/extensions-tool/src/command-create.c:402
-#: subprojects/extensions-tool/src/main.c:246
+#: subprojects/extensions-tool/src/command-create.c:403
+#: subprojects/extensions-tool/src/main.c:248
 msgid "Description"
 msgstr "Ta'rif"
 
-#: subprojects/extensions-tool/src/command-create.c:416
+#: subprojects/extensions-tool/src/command-create.c:417
 #, c-format
 msgid ""
 "UUID is a globally-unique identifier for your extension.\n"
@@ -3253,128 +3254,128 @@ msgstr ""
 "UUID kengaytmangiz uchun global noyob identifikatordir.\n"
 "Bu elektron pochta manzili formatida boʻlishi kerak (clicktofocus@janedoe.example.com)\n"
 
-#: subprojects/extensions-tool/src/command-create.c:443
+#: subprojects/extensions-tool/src/command-create.c:444
 #, c-format
 msgid "Choose one of the available templates:\n"
 msgstr "Mavjud shablonlardan birini tanlang:\n"
 
-#: subprojects/extensions-tool/src/command-create.c:457
+#: subprojects/extensions-tool/src/command-create.c:458
 msgid "Template"
 msgstr "Shablon"
 
-#: subprojects/extensions-tool/src/command-create.c:515
+#: subprojects/extensions-tool/src/command-create.c:516
 msgid "The unique identifier of the new extension"
 msgstr "Yangi kengaytmaning noyob identifikatori"
 
-#: subprojects/extensions-tool/src/command-create.c:518
+#: subprojects/extensions-tool/src/command-create.c:519
 msgid "NAME"
 msgstr "NOMI"
 
-#: subprojects/extensions-tool/src/command-create.c:519
+#: subprojects/extensions-tool/src/command-create.c:520
 msgid "The user-visible name of the new extension"
 msgstr "Yangi kengaytmaning foydalanuvchiga koʻrinadigan nomi"
 
-#: subprojects/extensions-tool/src/command-create.c:521
+#: subprojects/extensions-tool/src/command-create.c:522
 msgid "DESCRIPTION"
 msgstr "TAVSIF"
 
-#: subprojects/extensions-tool/src/command-create.c:523
+#: subprojects/extensions-tool/src/command-create.c:524
 msgid "A short description of what the extension does"
 msgstr "Kengaytma nima qilishining qisqacha tavsifi"
 
-#: subprojects/extensions-tool/src/command-create.c:525
+#: subprojects/extensions-tool/src/command-create.c:526
 #: subprojects/extensions-tool/src/command-pack.c:455
 msgid "DOMAIN"
 msgstr "DOMAIN"
 
-#: subprojects/extensions-tool/src/command-create.c:527
+#: subprojects/extensions-tool/src/command-create.c:528
 msgid "The gettext domain used by the extension"
 msgstr "Kengaytma tomonidan ishlatiladigan gettext domeni"
 
-#: subprojects/extensions-tool/src/command-create.c:529
+#: subprojects/extensions-tool/src/command-create.c:530
 #: subprojects/extensions-tool/src/command-pack.c:448
 msgid "SCHEMA"
 msgstr "SHEMA"
 
-#: subprojects/extensions-tool/src/command-create.c:531
+#: subprojects/extensions-tool/src/command-create.c:532
 msgid "The GSettings schema used by the extension"
 msgstr "Kengaytma tomonidan ishlatiladigan GSettings sxemasi"
 
-#: subprojects/extensions-tool/src/command-create.c:534
+#: subprojects/extensions-tool/src/command-create.c:535
 msgid "TEMPLATE"
 msgstr "Shablon"
 
-#: subprojects/extensions-tool/src/command-create.c:535
+#: subprojects/extensions-tool/src/command-create.c:536
 msgid "The template to use for the new extension"
 msgstr "Yangi kengaytma uchun ishlatiladigan shablon"
 
-#: subprojects/extensions-tool/src/command-create.c:538
+#: subprojects/extensions-tool/src/command-create.c:539
 msgid "Include prefs.js template"
 msgstr "Prefs.js shablonini qoʻshing"
 
-#: subprojects/extensions-tool/src/command-create.c:544
+#: subprojects/extensions-tool/src/command-create.c:545
 msgid "Enter extension information interactively"
 msgstr "Kengaytma ma'lumotlarini interaktiv tarzda kiriting"
 
-#: subprojects/extensions-tool/src/command-create.c:552
+#: subprojects/extensions-tool/src/command-create.c:553
 msgid "Create a new extension"
 msgstr "Yangi kengaytma yarating"
 
-#: subprojects/extensions-tool/src/command-create.c:570
-#: subprojects/extensions-tool/src/command-list.c:190
+#: subprojects/extensions-tool/src/command-create.c:571
+#: subprojects/extensions-tool/src/command-list.c:191
 msgid "Unknown arguments"
 msgstr "Noma'lum argumentlar"
 
-#: subprojects/extensions-tool/src/command-create.c:595
+#: subprojects/extensions-tool/src/command-create.c:596
 msgid "UUID, name and description are required"
 msgstr "UUID, ism va tavsif talab qilinadi"
 
-#: subprojects/extensions-tool/src/command-disable.c:62
-#: subprojects/extensions-tool/src/command-enable.c:62
+#: subprojects/extensions-tool/src/command-disable.c:63
+#: subprojects/extensions-tool/src/command-enable.c:63
 #, c-format
 msgid "Extension “%s” does not exist\n"
 msgstr "“%s” kengaytmasi mavjud emas\n"
 
-#: subprojects/extensions-tool/src/command-disable.c:98
+#: subprojects/extensions-tool/src/command-disable.c:99
 msgid "Disable an extension"
 msgstr "Kengaytmani oʻchirib qoʻying"
 
-#: subprojects/extensions-tool/src/command-disable.c:116
-#: subprojects/extensions-tool/src/command-enable.c:116
-#: subprojects/extensions-tool/src/command-info.c:103
-#: subprojects/extensions-tool/src/command-prefs.c:105
-#: subprojects/extensions-tool/src/command-reset.c:76
-#: subprojects/extensions-tool/src/command-uninstall.c:104
+#: subprojects/extensions-tool/src/command-disable.c:117
+#: subprojects/extensions-tool/src/command-enable.c:117
+#: subprojects/extensions-tool/src/command-info.c:104
+#: subprojects/extensions-tool/src/command-prefs.c:106
+#: subprojects/extensions-tool/src/command-reset.c:77
+#: subprojects/extensions-tool/src/command-uninstall.c:105
 msgid "No UUID given"
 msgstr "UUID berilmagan"
 
-#: subprojects/extensions-tool/src/command-disable.c:121
-#: subprojects/extensions-tool/src/command-enable.c:121
-#: subprojects/extensions-tool/src/command-info.c:108
-#: subprojects/extensions-tool/src/command-prefs.c:110
-#: subprojects/extensions-tool/src/command-reset.c:81
-#: subprojects/extensions-tool/src/command-uninstall.c:109
+#: subprojects/extensions-tool/src/command-disable.c:122
+#: subprojects/extensions-tool/src/command-enable.c:122
+#: subprojects/extensions-tool/src/command-info.c:109
+#: subprojects/extensions-tool/src/command-prefs.c:111
+#: subprojects/extensions-tool/src/command-reset.c:82
+#: subprojects/extensions-tool/src/command-uninstall.c:110
 msgid "More than one UUID given"
 msgstr "Bir nechta UUID berilgan"
 
-#: subprojects/extensions-tool/src/command-enable.c:98
+#: subprojects/extensions-tool/src/command-enable.c:99
 msgid "Enable an extension"
 msgstr "Kengaytmani yoqing"
 
-#: subprojects/extensions-tool/src/command-info.c:50
-#: subprojects/extensions-tool/src/command-list.c:66
-#: subprojects/extensions-tool/src/main.c:150
+#: subprojects/extensions-tool/src/command-info.c:51
+#: subprojects/extensions-tool/src/command-list.c:67
+#: subprojects/extensions-tool/src/main.c:152
 #, c-format
 msgid "Failed to connect to GNOME Shell\n"
 msgstr "GNOME Shell’ga ulanib boʻlmadi\n"
 
-#: subprojects/extensions-tool/src/command-info.c:59
-#: subprojects/extensions-tool/src/main.c:159
+#: subprojects/extensions-tool/src/command-info.c:60
+#: subprojects/extensions-tool/src/main.c:161
 #, c-format
 msgid "Extension “%s” doesn't exist\n"
 msgstr "“%s” kengaytmasi mavjud emas\n"
 
-#: subprojects/extensions-tool/src/command-info.c:85
+#: subprojects/extensions-tool/src/command-info.c:86
 msgid "Show extensions info"
 msgstr "Kengaytmalar maʼlumotlarini koʻrsatish"
 
@@ -3398,43 +3399,43 @@ msgstr "Kengaytma toʻplami belgilanmagan"
 msgid "More than one extension bundle specified"
 msgstr "Bir nechta kengaytmalar toʻplami koʻrsatilgan"
 
-#: subprojects/extensions-tool/src/command-list.c:140
+#: subprojects/extensions-tool/src/command-list.c:141
 msgid "Show user-installed extensions"
 msgstr "Foydalanuvchi tomonidan oʻrnatilgan kengaytmalarni koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:143
+#: subprojects/extensions-tool/src/command-list.c:144
 msgid "Show system-installed extensions"
 msgstr "Tizimda oʻrnatilgan kengaytmalarni koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:146
+#: subprojects/extensions-tool/src/command-list.c:147
 msgid "Show enabled extensions"
 msgstr "Yoqilgan kengaytmalarni koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:149
+#: subprojects/extensions-tool/src/command-list.c:150
 msgid "Show disabled extensions"
 msgstr "Oʻchirilgan kengaytmalarni koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:152
+#: subprojects/extensions-tool/src/command-list.c:153
 msgid "Show extensions in active state"
 msgstr "Kengaytmalarni faol holatda koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:155
+#: subprojects/extensions-tool/src/command-list.c:156
 msgid "Show extensions in inactive state"
 msgstr "Kengaytmalarni nofaol holatda koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:158
+#: subprojects/extensions-tool/src/command-list.c:159
 msgid "Show extensions with preferences"
 msgstr "Kengaytmalarni afzalliklari bilan koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:161
+#: subprojects/extensions-tool/src/command-list.c:162
 msgid "Show extensions with updates"
 msgstr "Kengaytmalarni yangilanishlar bilan koʻrsatish"
 
-#: subprojects/extensions-tool/src/command-list.c:164
+#: subprojects/extensions-tool/src/command-list.c:165
 msgid "Print extension details"
 msgstr "Kengaytma tafsilotlarini chop eting"
 
-#: subprojects/extensions-tool/src/command-list.c:172
+#: subprojects/extensions-tool/src/command-list.c:173
 msgid "List installed extensions"
 msgstr "Oʻrnatilgan kengaytmalar roʻyxati"
 
@@ -3484,35 +3485,35 @@ msgstr "Kengaytma toʻplamini yarating"
 msgid "More than one source directory specified"
 msgstr "Bir nechta manba katalogi koʻrsatilgan"
 
-#: subprojects/extensions-tool/src/command-prefs.c:47
+#: subprojects/extensions-tool/src/command-prefs.c:48
 #, c-format
 msgid "Extension “%s” doesn't have preferences\n"
 msgstr "“%s” kengaytmasi sozlamalarga ega emas\n"
 
-#: subprojects/extensions-tool/src/command-prefs.c:62
+#: subprojects/extensions-tool/src/command-prefs.c:63
 #, c-format
 msgid "Failed to open prefs for extension “%s”: %s\n"
 msgstr "“%s” kengaytmasi uchun parametrlarni ochib boʻlmadi: %s\n"
 
-#: subprojects/extensions-tool/src/command-prefs.c:87
+#: subprojects/extensions-tool/src/command-prefs.c:88
 msgid "Opens extension preferences"
 msgstr "Kengaytma sozlamalarini ochadi"
 
-#: subprojects/extensions-tool/src/command-reset.c:58
+#: subprojects/extensions-tool/src/command-reset.c:59
 msgid "Reset an extension"
 msgstr "Kengaytmani tiklash"
 
-#: subprojects/extensions-tool/src/command-uninstall.c:49
+#: subprojects/extensions-tool/src/command-uninstall.c:50
 #, c-format
 msgid "Cannot uninstall system extensions\n"
 msgstr "Tizim kengaytmalarini oʻchirib boʻlmadi\n"
 
-#: subprojects/extensions-tool/src/command-uninstall.c:64
+#: subprojects/extensions-tool/src/command-uninstall.c:65
 #, c-format
 msgid "Failed to uninstall “%s”\n"
 msgstr "“%s” oʻchirib tashlanmadi\n"
 
-#: subprojects/extensions-tool/src/command-uninstall.c:86
+#: subprojects/extensions-tool/src/command-uninstall.c:87
 msgid "Uninstall an extension"
 msgstr "Kengaytmani olib tashlang"
 
@@ -3575,116 +3576,116 @@ msgstr ""
 msgid "No files given"
 msgstr "Hech qanday fayl berilmagan"
 
-#: subprojects/extensions-tool/src/main.c:76
+#: subprojects/extensions-tool/src/main.c:78
 msgid "Do not print error messages"
 msgstr "Xato xabarlarini chop qilmang"
 
-#: subprojects/extensions-tool/src/main.c:249
+#: subprojects/extensions-tool/src/main.c:251
 msgid "Path"
 msgstr "Yoʻl"
 
-#: subprojects/extensions-tool/src/main.c:252
+#: subprojects/extensions-tool/src/main.c:254
 msgid "URL"
 msgstr "URL"
 
-#: subprojects/extensions-tool/src/main.c:255
+#: subprojects/extensions-tool/src/main.c:257
 msgid "Original author"
 msgstr "Asl muallif"
 
-#: subprojects/extensions-tool/src/main.c:261
 #: subprojects/extensions-tool/src/main.c:263
 #: subprojects/extensions-tool/src/main.c:265
+#: subprojects/extensions-tool/src/main.c:267
 msgid "Version"
 msgstr "Versiya"
 
-#: subprojects/extensions-tool/src/main.c:268
+#: subprojects/extensions-tool/src/main.c:270
 msgid "Enabled"
 msgstr "Yoqilgan"
 
-#: subprojects/extensions-tool/src/main.c:268
+#: subprojects/extensions-tool/src/main.c:270
 msgid "Yes"
 msgstr "Xa"
 
-#: subprojects/extensions-tool/src/main.c:268
+#: subprojects/extensions-tool/src/main.c:270
 msgid "No"
 msgstr "Yoʻq"
 
-#: subprojects/extensions-tool/src/main.c:271
+#: subprojects/extensions-tool/src/main.c:273
 msgid "State"
 msgstr "Holat"
 
-#: subprojects/extensions-tool/src/main.c:309
+#: subprojects/extensions-tool/src/main.c:311
 msgid "“version” takes no arguments"
 msgstr "\"versiya\" hech qanday argument talab qilmaydi"
 
-#: subprojects/extensions-tool/src/main.c:311
-#: subprojects/extensions-tool/src/main.c:331
+#: subprojects/extensions-tool/src/main.c:313
+#: subprojects/extensions-tool/src/main.c:333
 msgid "Usage:"
 msgstr "Foydalanish:"
 
-#: subprojects/extensions-tool/src/main.c:314
+#: subprojects/extensions-tool/src/main.c:316
 msgid "Print version information and exit."
 msgstr "Versiya ma’lumotlarini chop eting va chiqing."
 
-#: subprojects/extensions-tool/src/main.c:329
-#: subprojects/extensions-tool/src/main.c:332
+#: subprojects/extensions-tool/src/main.c:331
+#: subprojects/extensions-tool/src/main.c:334
 msgid "COMMAND"
 msgstr "COMMAND"
 
-#: subprojects/extensions-tool/src/main.c:332
+#: subprojects/extensions-tool/src/main.c:334
 msgid "[ARGS…]"
 msgstr "[ARGS…]"
 
-#: subprojects/extensions-tool/src/main.c:334
+#: subprojects/extensions-tool/src/main.c:336
 msgid "Commands:"
 msgstr "Buyruqlar:"
 
-#: subprojects/extensions-tool/src/main.c:335
+#: subprojects/extensions-tool/src/main.c:337
 msgid "Print help"
 msgstr "Chop etish boʻyicha yordam"
 
-#: subprojects/extensions-tool/src/main.c:337
+#: subprojects/extensions-tool/src/main.c:339
 msgid "Enable extension"
 msgstr "Kengaytmani yoqish"
 
-#: subprojects/extensions-tool/src/main.c:338
+#: subprojects/extensions-tool/src/main.c:340
 msgid "Disable extension"
 msgstr "Kengaytmani oʻchiring"
 
-#: subprojects/extensions-tool/src/main.c:339
+#: subprojects/extensions-tool/src/main.c:341
 msgid "Reset extension"
 msgstr "Kengaytmani tiklash"
 
-#: subprojects/extensions-tool/src/main.c:340
+#: subprojects/extensions-tool/src/main.c:342
 msgid "Uninstall extension"
 msgstr "Kengaytmani olib tashlash"
 
-#: subprojects/extensions-tool/src/main.c:341
+#: subprojects/extensions-tool/src/main.c:343
 msgid "List extensions"
 msgstr "Roʻyxat kengaytmalari"
 
-#: subprojects/extensions-tool/src/main.c:342
-#: subprojects/extensions-tool/src/main.c:343
+#: subprojects/extensions-tool/src/main.c:344
+#: subprojects/extensions-tool/src/main.c:345
 msgid "Show extension info"
 msgstr "Kengaytma maʼlumotlarini koʻrsatish"
 
-#: subprojects/extensions-tool/src/main.c:344
+#: subprojects/extensions-tool/src/main.c:346
 msgid "Open extension preferences"
 msgstr "Kengaytma sozlamalarini oching"
 
-#: subprojects/extensions-tool/src/main.c:345
+#: subprojects/extensions-tool/src/main.c:347
 msgid "Create extension"
 msgstr "Kengaytma yarating"
 
-#: subprojects/extensions-tool/src/main.c:346
+#: subprojects/extensions-tool/src/main.c:348
 msgid "Package extension"
 msgstr "Paket kengaytmasi"
 
-#: subprojects/extensions-tool/src/main.c:347
+#: subprojects/extensions-tool/src/main.c:349
 msgid "Install extension bundle"
 msgstr "Kengaytma toʻplamini oʻrnating"
 
-#: subprojects/extensions-tool/src/main.c:349
+#: subprojects/extensions-tool/src/main.c:351
 #, c-format
 msgid "Use “%s” to get detailed help.\n"
 msgstr "Batafsil yordam olish uchun “%s” dan foydalaning.\n"

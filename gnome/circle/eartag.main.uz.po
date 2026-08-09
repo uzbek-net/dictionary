@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eartag main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/eartag/-/issues\n"
-"POT-Creation-Date: 2026-01-31 13:22+0000\n"
+"POT-Creation-Date: 2026-08-02 07:21+0000\n"
 "PO-Revision-Date: 2025-10-17 18:12+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -44,6 +44,11 @@ msgstr "Audio fayl teglarini tahrirlash"
 #: data/app.drey.EarTag.desktop.in:12
 msgid "music;audio;tag;tagging;tagger;"
 msgstr "musiqa;audio;teg;teglash;tegger;"
+
+#: data/app.drey.EarTag.metainfo.xml.in:11
+#: data/app.drey.EarTag.metainfo.xml.in:13
+msgid "knuxify"
+msgstr ""
 
 #: data/app.drey.EarTag.metainfo.xml.in:112
 msgid ""

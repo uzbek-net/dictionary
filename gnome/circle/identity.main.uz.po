@@ -56,6 +56,7 @@ msgstr "Dialogda videoning bir nechta xususiyatlarini tekshiring"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:219
+#: data/org.gnome.gitlab.YaLTeR.Identity.metainfo.xml.in.in:221
 msgid "Ivan Molodetskikh"
 msgstr "Ivan Molodetskikh"
 

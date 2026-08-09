@@ -84,6 +84,10 @@ msgstr "Audio fayllarni ijro qilish"
 msgid "music;player;media;audio;decibels;"
 msgstr "qoʻshiq;ijro vositasi;media;audio;desibellar;"
 
+#: data/org.gnome.Decibels.metainfo.xml.in.in:9
+msgid "The GNOME Project"
+msgstr ""
+
 #: data/org.gnome.Decibels.metainfo.xml.in.in:12
 msgid ""
 "An audio player that just plays audio files. It doesn't require an organized"

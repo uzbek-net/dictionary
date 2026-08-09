@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdm/issues/\n"
-"POT-Creation-Date: 2026-05-28 14:15+0000\n"
+"POT-Creation-Date: 2026-08-04 16:52+0000\n"
 "PO-Revision-Date: 2025-12-26 17:45+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek\n"
@@ -39,7 +39,7 @@ msgstr "Joriy joyni aniqlab boʻlmadi."
 msgid "No display available"
 msgstr "Displey mavjud emas"
 
-#: daemon/gdm-manager.c:785 daemon/gdm-manager.c:1090
+#: daemon/gdm-manager.c:785 daemon/gdm-manager.c:1096
 msgid "No session available"
 msgstr "Seans mavjud emas"
 
@@ -79,7 +79,7 @@ msgstr "Displey qurilmasi"
 msgid "The display device"
 msgstr "Displey qurilmasi"
 
-#: daemon/gdm-session.c:1446
+#: daemon/gdm-session.c:1453
 msgid "Could not create authentication helper process"
 msgstr "Autentifikatsiya yordamchi jarayoni yaratilmadi"
 

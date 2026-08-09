@@ -290,6 +290,10 @@ msgstr ""
 msgid "Read keys descriptions and edit their values"
 msgstr "Kalitlar tavsifini oʻqing va ularning qiymatlarini tahrirlang"
 
+#: editor/ca.desrt.dconf-editor.metainfo.xml.in:59
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
+
 #. see AdaptativeWindow.width-request at data/ui/adaptative-window.ui:22
 #. range min="350"/ FIXME
 #. Translators: summary of a settings key, see 'dconf-editor
@@ -2898,6 +2902,3 @@ msgstr "Koʻchiriladigan sxema"
 #: editor/setting-object.vala:417
 msgid "DConf backend"
 msgstr "DConf backend"
-
-#~ msgid "The GNOME Project"
-#~ msgstr "GNOME loyihasi"

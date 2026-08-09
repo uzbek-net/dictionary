@@ -79,6 +79,10 @@ msgstr "Hafta panjarasining kattalashtirish darajasi"
 msgid "The current zoom level of the week grid"
 msgstr "Hafta panjarasining joriy kattalashtirish darajasi"
 
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:10
+msgid "The GNOME Project"
+msgstr ""
+
 #: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:14
 msgid "Manage your schedule"
 msgstr "Taqvimlaringizni boshqaring"
@@ -126,6 +130,75 @@ msgstr ""
 " Taqvimi mahalliy va oflayn taqvimni ham qoʻllab-quvvatlaydi, shuning uchun "
 "siz undan istalgan joyda va istalgan vaqtda sayohat paytida (yoki "
 "tsivilizatsiya qulagandan keyin) foydalanishingiz mumkin."
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:39
+#, fuzzy
+#| msgid "Calendars"
+msgid "calendars"
+msgstr "Taqvimlar"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:40
+#, fuzzy
+#| msgid "Calendar"
+msgid "calendaring"
+msgstr "Taqvim"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:41
+#, fuzzy
+#| msgid "No events"
+msgid "events"
+msgstr "Tadbir yoʻq"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:42
+#, fuzzy
+#| msgid "Settings"
+msgid "meetings"
+msgstr "Sozlamalar"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:43
+msgid "appointments"
+msgstr ""
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:44
+#, fuzzy
+#| msgid "Schedule"
+msgid "scheduling"
+msgstr "Reja"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:45
+msgid "planning"
+msgstr ""
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:46
+#, fuzzy
+msgid "agenda"
+msgstr "Kun tartibi"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:47
+#, fuzzy
+#| msgid "Reminders"
+msgid "reminders"
+msgstr "Eslatmalar"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:48
+msgid "alarms"
+msgstr ""
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:49
+#, fuzzy
+#| msgid "Weather"
+msgid "weather"
+msgstr "Ob-havo"
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:50
+msgid "forecasting"
+msgstr ""
+
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:57
+#, fuzzy
+#| msgid "New Calendar"
+msgid "Google Calendar"
+msgstr "Yangi taqvim"
 
 #: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:63
 msgid "Month view"
@@ -1894,9 +1967,6 @@ msgstr "Bing Maps"
 #~ msgid "Undo"
 #~ msgstr "Ortga qaytarish"
 
-#~ msgid "Settings"
-#~ msgstr "Sozlamalar"
-
 #~ msgid "Calendar name"
 #~ msgstr "Taqvim nomi"
 
@@ -1924,9 +1994,6 @@ msgstr "Bing Maps"
 
 #~ msgid "Click to select the calendar"
 #~ msgstr "Taqvimni tanlash uchun bosish"
-
-#~ msgid "Schedule"
-#~ msgstr "Reja"
 
 #~ msgid "1 hour"
 #~ msgstr "1 soat"
