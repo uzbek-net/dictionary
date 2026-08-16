@@ -1,8 +1,9 @@
 import toml
 import polib
+from typing_extensions import Any
 
 
-data = toml.load("dictionary.toml")
+data: Any = toml.load("dictionary.toml")
 
 po = polib.POFile()
 
