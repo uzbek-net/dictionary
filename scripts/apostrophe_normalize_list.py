@@ -49,7 +49,7 @@ def normalize_apostrophes(folder_path: str):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Normalize apostrophes in a .po file.")
-    parser.add_argument(
+    _ = parser.add_argument(
         "--folder_path",
         help='''The folder path to the .po files. example: folder_path="locale"''',
         required=True,

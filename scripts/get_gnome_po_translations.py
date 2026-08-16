@@ -2,7 +2,7 @@
 source: https://gist.github.com/devhero/8ae2229d9ea1a59003ced4587c9cb236
 """
 
-from apostrophe_normalize_list import normalize_apostrophes
+from .apostrophe_normalize_list import normalize_apostrophes
 import requests
 import tarfile
 
