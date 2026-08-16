@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2026-04-17 00:20+0000\n"
+"POT-Creation-Date: 2026-08-13 19:43+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1042,7 +1042,8 @@ msgid "Web is often referred to by its code name, Epiphany."
 msgstr "Web koʻpincha kod nomi bilan — Epiphany deb ataladi."
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Epiphany.metainfo.xml.in.in:35 src/window-commands.c:1239
+#: data/org.gnome.Epiphany.metainfo.xml.in.in:35
+#: data/org.gnome.Epiphany.metainfo.xml.in.in:37 src/window-commands.c:1239
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
@@ -1158,7 +1159,7 @@ msgstr "%s uchun PIN kodini kiriting, %s:%d da autentifikatsiya qilish uchun."
 
 #: embed/ephy-client-certificate-manager.c:321
 #: embed/ephy-client-certificate-manager.c:446 embed/ephy-download.c:767
-#: embed/ephy-web-view.c:1378 src/ephy-history-dialog.c:867
+#: embed/ephy-web-view.c:1349 src/ephy-history-dialog.c:867
 #: src/ephy-passwords-view.c:158 src/ephy-shell.c:417 src/ephy-window.c:267
 #: src/ephy-window.c:2294 src/preferences/autofill-view.c:363
 #: src/preferences/extension-view.c:117
@@ -1698,58 +1699,58 @@ msgid "All supported types"
 msgstr "Barcha qoʻllab-quvvatlanadigan turlar"
 
 #. Translators: Message appears when insecure password form is focused.
-#: embed/ephy-web-view.c:626
+#: embed/ephy-web-view.c:597
 msgid "This form is not secure ‒ passwords will not be kept private"
 msgstr "Bu forma xavfsiz emas – parollar maxfiy saqlanmaydi"
 
-#: embed/ephy-web-view.c:627 embed/ephy-web-view.c:3645
+#: embed/ephy-web-view.c:598 embed/ephy-web-view.c:3616
 msgid "_Dismiss"
 msgstr "_Yopish"
 
-#: embed/ephy-web-view.c:803
+#: embed/ephy-web-view.c:774
 msgid "Web process crashed"
 msgstr "Web jarayoni ishdan chiqdi"
 
-#: embed/ephy-web-view.c:806
+#: embed/ephy-web-view.c:777
 msgid "Web process terminated due to exceeding memory limit"
 msgstr "Xotira limitidan oshib ketganligi sababli Web jarayoni tugatildi"
 
-#: embed/ephy-web-view.c:809
+#: embed/ephy-web-view.c:780
 msgid "Web process terminated by API request"
 msgstr "Web jarayoni API soʻrovi bilan tugatildi"
 
-#: embed/ephy-web-view.c:854
+#: embed/ephy-web-view.c:825
 msgid "Page Unresponsive"
 msgstr "Sahifa javob bermayapti"
 
-#: embed/ephy-web-view.c:857
+#: embed/ephy-web-view.c:828
 #, c-format
 msgid "The current page “%s” is not responding"
 msgstr "Joriy sahifa “%s” javob bermayapti"
 
-#: embed/ephy-web-view.c:861
+#: embed/ephy-web-view.c:832
 msgid "_Wait"
 msgstr "_Kutish"
 
-#: embed/ephy-web-view.c:862
+#: embed/ephy-web-view.c:833
 msgid "Force _Stop"
 msgstr "Majburiy _toʻxtatish"
 
 #. translators: %s here is the address of the web page
-#: embed/ephy-web-view.c:1108
+#: embed/ephy-web-view.c:1079
 #, c-format
 msgid "Loading “%s”…"
 msgstr "“%s” yuklab olinmoqda…"
 
-#: embed/ephy-web-view.c:1110 embed/ephy-web-view.c:1116
+#: embed/ephy-web-view.c:1081 embed/ephy-web-view.c:1087
 msgid "Loading…"
 msgstr "Yuklanmoqda…"
 
-#: embed/ephy-web-view.c:1371
+#: embed/ephy-web-view.c:1342
 msgid "Delete Web App?"
 msgstr "Veb-ilova oʻchirib tashlansinmi?"
 
-#: embed/ephy-web-view.c:1374
+#: embed/ephy-web-view.c:1345
 #, c-format
 msgid ""
 "“%s” will be removed. You will have to re-install the website as an app from"
@@ -1758,21 +1759,21 @@ msgstr ""
 "“%s” oʻchirib tashlanadi. Qaytadan ishlatish uchun veb-saytni ilova "
 "tariqasida menyudan qayta oʻrnatishingiz kerak."
 
-#: embed/ephy-web-view.c:1379 src/ephy-passwords-view.c:159
+#: embed/ephy-web-view.c:1350 src/ephy-passwords-view.c:159
 #: src/preferences/autofill-view.c:364
 #: src/resources/gtk/history-dialog.blp:144
 msgid "_Delete"
 msgstr "_Oʻchirish"
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1809
+#: embed/ephy-web-view.c:1780
 msgid ""
 "This website presented identification that belongs to a different website."
 msgstr ""
 "Ushbu veb-sayt boshqa veb-saytga tegishli identifikatsiyani taqdim etdi."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1814
+#: embed/ephy-web-view.c:1785
 msgid ""
 "This website’s identification is too old to trust. Check the date on your "
 "computer’s calendar."
@@ -1781,14 +1782,14 @@ msgstr ""
 "Kompyuteringiz taqvimidagi sanani tekshiring."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1819
+#: embed/ephy-web-view.c:1790
 msgid ""
 "This website’s identification was not issued by a trusted organization."
 msgstr ""
 "Ushbu veb-sayt identifikatori ishonchli tashkilot tomonidan berilmagan."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1824
+#: embed/ephy-web-view.c:1795
 msgid ""
 "This website’s identification could not be processed. It may be corrupted."
 msgstr ""
@@ -1796,7 +1797,7 @@ msgstr ""
 "mumkin."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1829
+#: embed/ephy-web-view.c:1800
 msgid ""
 "This website’s identification has been revoked by the trusted organization "
 "that issued it."
@@ -1805,7 +1806,7 @@ msgstr ""
 " bekor qilingan."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1834
+#: embed/ephy-web-view.c:1805
 msgid ""
 "This website’s identification cannot be trusted because it uses very weak "
 "encryption."
@@ -1814,7 +1815,7 @@ msgstr ""
 "foydalanilgan."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1839
+#: embed/ephy-web-view.c:1810
 msgid ""
 "This website’s identification is only valid for future dates. Check the date"
 " on your computer’s calendar."
@@ -1824,24 +1825,24 @@ msgstr ""
 
 #. Page title when a site cannot be loaded due to a network error.
 #. Page title when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1904 embed/ephy-web-view.c:1960
+#: embed/ephy-web-view.c:1875 embed/ephy-web-view.c:1931
 #, c-format
 msgid "Problem Loading Page"
 msgstr "Sahifani yuklashda muammo"
 
 #. Message title when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1907
+#: embed/ephy-web-view.c:1878
 msgid "Unable to display this website"
 msgstr "Ushbu vey-saytni koʻrsatib boʻlmadi"
 
 #. Error details when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1912
+#: embed/ephy-web-view.c:1883
 #, c-format
 msgid "The site at %s seems to be unavailable."
 msgstr "%s manzilidagi sayt ishlamayotganga oʻxshaydi."
 
 #. Further error details when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1916
+#: embed/ephy-web-view.c:1887
 msgid ""
 "It may be temporarily inaccessible or moved to a new address. You may wish "
 "to verify that your internet connection is working correctly."
@@ -1851,7 +1852,7 @@ msgstr ""
 "etamiz."
 
 #. Technical details when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1926
+#: embed/ephy-web-view.c:1897
 #, c-format
 msgid "The precise error was: %s"
 msgstr "Aynan ushbu xato: %s"
@@ -1862,26 +1863,26 @@ msgstr "Aynan ushbu xato: %s"
 #. The button on the unresponsive process error page. DO NOT ADD MNEMONICS
 #. HERE.
 #. Translators: tooltip for the refresh button
-#: embed/ephy-web-view.c:1931 embed/ephy-web-view.c:1984
-#: embed/ephy-web-view.c:2020 embed/ephy-web-view.c:2056
+#: embed/ephy-web-view.c:1902 embed/ephy-web-view.c:1955
+#: embed/ephy-web-view.c:1991 embed/ephy-web-view.c:2027
 #: src/ephy-action-bar-start.c:36 src/ephy-location-entry.c:1653
 msgid "Reload"
 msgstr "Qayta yuklash"
 
 #. Mnemonic for the Reload button on browser error pages.
-#: embed/ephy-web-view.c:1935 embed/ephy-web-view.c:1988
-#: embed/ephy-web-view.c:2024 embed/ephy-web-view.c:2060
+#: embed/ephy-web-view.c:1906 embed/ephy-web-view.c:1959
+#: embed/ephy-web-view.c:1995 embed/ephy-web-view.c:2031
 msgctxt "reload-access-key"
 msgid "R"
 msgstr "Q"
 
 #. Message title when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1963
+#: embed/ephy-web-view.c:1934
 msgid "Oops! There may be a problem"
 msgstr "Voy! Xatolik yuzaga kelgan boʻlishi mumkin"
 
 #. Error details when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1968
+#: embed/ephy-web-view.c:1939
 #, c-format
 msgid "The page %s may have caused Web to close unexpectedly."
 msgstr ""
@@ -1890,7 +1891,7 @@ msgstr ""
 
 #. Further error details when a site cannot be loaded due to a page crash
 #. error.
-#: embed/ephy-web-view.c:1975
+#: embed/ephy-web-view.c:1946
 #, c-format
 msgid "If this happens again, please report the problem to the %s developers."
 msgstr ""
@@ -1898,18 +1899,18 @@ msgstr ""
 "bering."
 
 #. Page title when a site cannot be loaded due to a process crash error.
-#: embed/ephy-web-view.c:2009
+#: embed/ephy-web-view.c:1980
 #, c-format
 msgid "Problem Displaying Page"
 msgstr "Sahifani koʻrsatishda muammo"
 
 #. Message title when a site cannot be loaded due to a process crash error.
-#: embed/ephy-web-view.c:2012
+#: embed/ephy-web-view.c:1983
 msgid "Oops!"
 msgstr "Voy!"
 
 #. Error details when a site cannot be loaded due to a process crash error.
-#: embed/ephy-web-view.c:2015
+#: embed/ephy-web-view.c:1986
 msgid ""
 "Something went wrong while displaying this page. Please reload or visit a "
 "different page to continue."
@@ -1918,18 +1919,18 @@ msgstr ""
 " boshqa sahifaga oʻting."
 
 #. Page title when web content has become unresponsive.
-#: embed/ephy-web-view.c:2045
+#: embed/ephy-web-view.c:2016
 #, c-format
 msgid "Unresponsive Page"
 msgstr "Sahifa javob bermadi"
 
 #. Message title when web content has become unresponsive.
-#: embed/ephy-web-view.c:2048
+#: embed/ephy-web-view.c:2019
 msgid "Uh-oh!"
 msgstr "Voy!"
 
 #. Error details when web content has become unresponsive.
-#: embed/ephy-web-view.c:2051
+#: embed/ephy-web-view.c:2022
 msgid ""
 "This page has been unresponsive for too long. Please reload or visit a "
 "different page to continue."
@@ -1938,18 +1939,18 @@ msgstr ""
 "yoki boshqa sahifaga oʻting."
 
 #. Page title when a site is not loaded due to an invalid TLS certificate.
-#: embed/ephy-web-view.c:2087
+#: embed/ephy-web-view.c:2058
 #, c-format
 msgid "Security Violation"
 msgstr "Xavfsizlik buzilishi"
 
 #. Message title when a site is not loaded due to an invalid TLS certificate.
-#: embed/ephy-web-view.c:2090
+#: embed/ephy-web-view.c:2061
 msgid "This Connection is Not Secure"
 msgstr "Bu ulanish xavfsiz emas"
 
 #. Error details when a site is not loaded due to an invalid TLS certificate.
-#: embed/ephy-web-view.c:2095
+#: embed/ephy-web-view.c:2066
 #, c-format
 msgid ""
 "This does not look like the real %s. Attackers might be trying to steal or "
@@ -1962,43 +1963,43 @@ msgstr ""
 #. The button on the invalid TLS certificate error page. DO NOT ADD MNEMONICS
 #. HERE.
 #. The button on no such file error page. DO NOT ADD MNEMONICS HERE.
-#: embed/ephy-web-view.c:2105 embed/ephy-web-view.c:2155
+#: embed/ephy-web-view.c:2076 embed/ephy-web-view.c:2126
 msgid "Go Back"
 msgstr "Orqaga qaytish"
 
 #. Mnemonic for the Go Back button on the invalid TLS certificate error page.
 #. Mnemonic for the Go Back button on the no such file error page.
-#: embed/ephy-web-view.c:2108 embed/ephy-web-view.c:2158
+#: embed/ephy-web-view.c:2079 embed/ephy-web-view.c:2129
 msgctxt "back-access-key"
 msgid "B"
 msgstr "O"
 
 #. The hidden button on the invalid TLS certificate error page. Do not add
 #. mnemonics here.
-#: embed/ephy-web-view.c:2111
+#: embed/ephy-web-view.c:2082
 msgid "Accept Risk and Proceed"
 msgstr "Tahlikani qabul qilish va davom etish"
 
 #. Mnemonic for the Accept Risk and Proceed button on the invalid TLS
 #. certificate error page.
-#: embed/ephy-web-view.c:2115
+#: embed/ephy-web-view.c:2086
 msgctxt "proceed-anyway-access-key"
 msgid "P"
 msgstr "D"
 
 #. Page title on no such file error page
 #. Message title on the no such file error page.
-#: embed/ephy-web-view.c:2138 embed/ephy-web-view.c:2141
+#: embed/ephy-web-view.c:2109 embed/ephy-web-view.c:2112
 #, c-format
 msgid "File not found"
 msgstr "Fayl topilmadi"
 
-#: embed/ephy-web-view.c:2146
+#: embed/ephy-web-view.c:2117
 #, c-format
 msgid "%s could not be found."
 msgstr "%sʼni topib boʻlmadi."
 
-#: embed/ephy-web-view.c:2148
+#: embed/ephy-web-view.c:2119
 #, c-format
 msgid ""
 "Please check the file name for capitalization or other typing errors. Also "
@@ -2008,11 +2009,11 @@ msgstr ""
 "tekshiring. Hamda koʻchirilgan, qayta nomlangan yoki oʻchirilganligini ham "
 "tekshiring."
 
-#: embed/ephy-web-view.c:2211
+#: embed/ephy-web-view.c:2182
 msgid "None specified"
 msgstr "Hech nima belgilanmagan"
 
-#: embed/ephy-web-view.c:2325
+#: embed/ephy-web-view.c:2296
 msgid "Technical information"
 msgstr "Texnik maʻlumotlar"
 

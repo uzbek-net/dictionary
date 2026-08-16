@@ -40,6 +40,10 @@ msgstr "Musiqa kollektsiyangizni oʻynang va tartibga soling"
 msgid "Music;Player;"
 msgstr "Musiqa; Pleyer;"
 
+#: data/org.gnome.Music.metainfo.xml.in.in:7 gnomemusic/about.py:145
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
+
 #: data/org.gnome.Music.metainfo.xml.in.in:12
 msgid "An easy and pleasant way to play your music."
 msgstr "Musiqangizni ijro etishning oson va yoqimli usuli."
@@ -375,10 +379,6 @@ msgstr "_Pleylistdan olib tashlash"
 #: data/ui/StatusNavigationPage.ui:36
 msgid "Welcome to Music"
 msgstr "Musiqaga xush kelibsiz"
-
-#: gnomemusic/about.py:145
-msgid "The GNOME Project"
-msgstr "GNOME loyihasi"
 
 #. Translators should localize the following string which
 #. will be displayed at the bottom of the about box to give

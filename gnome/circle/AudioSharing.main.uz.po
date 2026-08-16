@@ -66,6 +66,7 @@ msgstr ""
 # Branding o'zgarmasligi kerak, guruhda so'ralishi kerak shu narsa
 #. Branding
 #: data/de.haeckerfelix.AudioSharing.metainfo.xml.in.in:23
+#: data/de.haeckerfelix.AudioSharing.metainfo.xml.in.in:25
 msgid "Felix Häcker"
 msgstr "Feliks Xaker"
 

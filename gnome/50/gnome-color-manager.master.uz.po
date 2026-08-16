@@ -22,6 +22,7 @@ msgid "GNOME Color Manager"
 msgstr "GNOME rang boshqaruvchisi"
 
 #: data/appdata/org.gnome.ColorProfileViewer.metainfo.xml.in:8
+#: data/appdata/org.gnome.ColorProfileViewer.metainfo.xml.in:10
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

@@ -101,6 +101,11 @@ msgstr "Salomatlik"
 msgid "health;fitness;"
 msgstr "salomatlik;sogʻlomlik;"
 
+#: data/dev.Cogitri.Health.metainfo.xml.in.in:5
+#: data/dev.Cogitri.Health.metainfo.xml.in.in:7
+msgid "Rasmus “Cogitri” Thomsen"
+msgstr ""
+
 #: data/dev.Cogitri.Health.metainfo.xml.in.in:11
 msgid "Track your fitness goals"
 msgstr "Fitnes maqsadlaringizni kuzating"

@@ -40,6 +40,7 @@ msgstr "GNOME uchun ekskursiya va salomlashuv."
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/org.gnome.Tour.metainfo.xml.in.in:63
+#: data/org.gnome.Tour.metainfo.xml.in.in:65
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

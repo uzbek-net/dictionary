@@ -80,6 +80,10 @@ msgstr "Hafta panjarasining kattalashtirish darajasi"
 msgid "The current zoom level of the week grid"
 msgstr "Hafta panjarasining joriy kattalashtirish darajasi"
 
+#: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:10
+msgid "The GNOME Project"
+msgstr ""
+
 #: src/appdata/org.gnome.Calendar.metainfo.xml.in.in:14
 msgid "Manage your schedule"
 msgstr "Taqvimlaringizni boshqaring"

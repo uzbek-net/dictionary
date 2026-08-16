@@ -597,6 +597,10 @@ msgstr "Resurslar haqida umumiy ma’lumot"
 msgid "File Systems view"
 msgstr "Fayl tizimlari koʻrinishi"
 
+#: data/org.gnome.SystemMonitor.metainfo.xml.in.in:46
+msgid "The GNOME Project"
+msgstr ""
+
 #. Translators: Search terms to find this application. Do NOT translate or
 #. localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.SystemMonitor.desktop.in.in:16

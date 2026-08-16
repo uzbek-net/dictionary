@@ -37,6 +37,11 @@ msgstr "Matn fayllarini koʻrish va tahrirlash"
 msgid "New Window"
 msgstr "Yangi oyna"
 
+#: data/org.gnome.TextEditor.metainfo.xml.in.in:7
+#: src/editor-application-actions.c:202
+msgid "The GNOME Project"
+msgstr "GNOME loyihasi"
+
 #: data/org.gnome.TextEditor.metainfo.xml.in.in:12
 msgid "Edit text files"
 msgstr "Matn fayllarini tahrirlash"
@@ -303,10 +308,6 @@ msgstr "%s ichida %s xususiyati topilmadi"
 #, fuzzy, c-format
 msgid "Failed to retrieve va_list value: %s"
 msgstr "va_list qiymatini olib boʻlmadi: %s"
-
-#: src/editor-application-actions.c:202
-msgid "The GNOME Project"
-msgstr "GNOME loyihasi"
 
 #: src/editor-application-actions.c:215
 msgid "translator-credits"

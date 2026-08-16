@@ -423,7 +423,8 @@ msgstr ""
 msgid "Main Window"
 msgstr "_Yangi oyna"
 
-#: data/org.gnome.Logs.metainfo.xml.in:73 src/gl-application.c:141
+#: data/org.gnome.Logs.metainfo.xml.in:73
+#: data/org.gnome.Logs.metainfo.xml.in:75 src/gl-application.c:141
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 

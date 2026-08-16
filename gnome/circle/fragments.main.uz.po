@@ -68,6 +68,7 @@ msgstr ""
 
 #. Branding
 #: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:29
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:31
 msgid "Felix Häcker"
 msgstr "Felix Häcker"
 

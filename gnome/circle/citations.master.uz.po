@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: citations master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/citations/-/issues\n"
-"POT-Creation-Date: 2026-07-19 21:21+0000\n"
+"POT-Creation-Date: 2026-08-15 09:13+0000\n"
 "PO-Revision-Date: 2025-10-07 20:57+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -96,7 +96,7 @@ msgstr "Oddiy matn"
 #. NOTE: This is the app name
 #: data/org.gnome.World.Citations.desktop.in.in:2
 #: data/org.gnome.World.Citations.metainfo.xml.in.in:7
-#: data/resources/ui/window.ui:78 src/main.rs:38
+#: data/resources/ui/window.ui:78 src/main.rs:40
 msgid "Citations"
 msgstr "Iqtiboslar"
 

@@ -53,7 +53,8 @@ msgstr ""
 msgid "Terminal window"
 msgstr "Terminal oynasi"
 
-#: data/org.gnome.Console.metainfo.xml.in.in:621 src/kgx-about.c:166
+#: data/org.gnome.Console.metainfo.xml.in.in:621
+#: data/org.gnome.Console.metainfo.xml.in.in:623 src/kgx-about.c:166
 msgid "The GNOME Project"
 msgstr "GNOME Loyihasi"
 

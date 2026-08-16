@@ -50,6 +50,10 @@ msgstr "Oxirgi til"
 msgid "Last selected language."
 msgstr "Oxirgi tanlangan til."
 
+#: data/app.drey.Elastic.metainfo.xml.in:8
+msgid "Alice Mikhaylenko"
+msgstr ""
+
 #: data/app.drey.Elastic.metainfo.xml.in:15
 msgid ""
 "Elastic allows to design and export spring physics-based animations to use "

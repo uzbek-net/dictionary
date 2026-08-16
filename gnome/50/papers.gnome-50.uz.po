@@ -162,6 +162,10 @@ msgstr "Yon panelidagi katta miniatyuralar"
 msgid "All search actions are contained in the sidebar"
 msgstr "Qidirish amallari yon panelda joylashgan"
 
+#: data/org.gnome.Papers.metainfo.xml.in.in:60
+msgid "The GNOME Project"
+msgstr ""
+
 #: data/org.gnome.Papers-previewer.desktop.in.in:2
 msgid "Print Preview"
 msgstr "Bosib chiqarishni koʻrib chiqish"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: yelp\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp/issues/\n"
-"POT-Creation-Date: 2026-07-02 13:04+0000\n"
+"POT-Creation-Date: 2026-08-11 22:02+0000\n"
 "PO-Revision-Date: 2025-04-02 21:58+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -30,7 +30,7 @@ msgid "Install <string/>"
 msgstr "Oʻrnatish<string/>"
 
 #: data/org.gnome.Yelp.metainfo.xml.in:24 org.gnome.Yelp.desktop.in:2
-#: src/yelp-application.c:307 src/yelp-window.c:1111 src/yelp-window.c:1162
+#: src/yelp-application.c:308 src/yelp-window.c:1112 src/yelp-window.c:1163
 msgid "Help"
 msgstr "Yordam"
 
@@ -68,15 +68,15 @@ msgid "Main window"
 msgstr ""
 
 #: data/org.gnome.Yelp.metainfo.xml.in:61
-#: data/org.gnome.Yelp.metainfo.xml.in:63 src/yelp-window.c:1167
+#: data/org.gnome.Yelp.metainfo.xml.in:63 src/yelp-window.c:1168
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
-#: libyelp/yelp-bz2-decompressor.c:143 libyelp/yelp-lzma-decompressor.c:152
+#: libyelp/yelp-bz2-decompressor.c:145 libyelp/yelp-lzma-decompressor.c:154
 msgid "Invalid compressed data"
 msgstr "Siqilgan maʼlumotlar notoʻgʻri"
 
-#: libyelp/yelp-bz2-decompressor.c:149 libyelp/yelp-lzma-decompressor.c:158
+#: libyelp/yelp-bz2-decompressor.c:151 libyelp/yelp-lzma-decompressor.c:160
 msgid "Not enough memory"
 msgstr "Xotira yetishmayapti"
 
@@ -325,13 +325,13 @@ msgid "Browse all search results"
 msgstr ""
 
 #. Update label on the "Search for X" result
-#: src/yelp-search-entry.c:566
+#: src/yelp-search-entry.c:568
 #, c-format
 msgid "Search for “%s”"
 msgstr "“%s” ni qidiring"
 
 #. TRANSLATORS Credit yourself here. Appears in about dialog.
-#: src/yelp-window.c:1171
+#: src/yelp-window.c:1172
 msgid "translator-credits"
 msgstr "Nurali Abdurahmonov <mavnur@gmail.com>"
 

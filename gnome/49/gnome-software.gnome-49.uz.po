@@ -71,6 +71,7 @@ msgstr "Yangilanish tafsilotlari"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/metainfo/org.gnome.Software.metainfo.xml.in:2959
+#: data/metainfo/org.gnome.Software.metainfo.xml.in:2961
 #: src/gs-application.c:269
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
