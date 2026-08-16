@@ -15,8 +15,8 @@ gnome_infra: str = "https://l10n.gnome.org/languages/uz/gnome-infrastructure/ui.
 gnome_librem: str = "https://l10n.gnome.org/languages/uz/librem5/ui.tar.gz"
 
 archives: dict[str, str] = {
+    "51": gnome_51,
     "50": gnome_50,
-    "49": gnome_51,
     "circle": gnome_circle,
     "infra": gnome_infra,
     "librem": gnome_librem,
