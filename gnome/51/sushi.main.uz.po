@@ -1,0 +1,134 @@
+# Uzbek (Latin) translation for sushi.
+# Copyright (C) 2025 sushi's COPYRIGHT HOLDER
+# This file is distributed under the same license as the sushi package.
+# Baxrom Raxmatov <magdiyevbahrom@gmail.com>,  2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sushi master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/sushi/issues/\n"
+"POT-Creation-Date: 2026-08-14 01:33+0000\n"
+"PO-Revision-Date: 2025-03-24 19:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: Uzbek (Latin) <uz@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:9
+msgid "Sushi"
+msgstr "Sushi"
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:10
+msgid "Provide a facility for quickly viewing different kinds of files"
+msgstr "Turli xil fayllarni tezda koʻrish imkoniyatini taqdim eting"
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:12
+msgid ""
+"Sushi is a file previewer for the GNOME desktop environment. It is an "
+"independent component that integrates with GNOME Files (Nautilus)."
+msgstr ""
+"Sushi - bu GNOME ish stoli muhiti uchun fayllarni koʻrib chiqish dasturi. Bu"
+" GNOME Files (Nautilus) bilan integratsiyalashgan mustaqil komponent."
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:18
+msgid "nautilus"
+msgstr ""
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:19
+#, fuzzy
+#| msgid "Sushi"
+msgid "sushi"
+msgstr "Sushi"
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:20
+msgid "view"
+msgstr ""
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:21
+msgid "previewer"
+msgstr ""
+
+#: data/org.gnome.NautilusPreviewer.metainfo.xml.in.in:22
+msgid "preview"
+msgstr ""
+
+#: src/ui/error.blp:6
+msgid "Preview Failed"
+msgstr ""
+
+#: src/ui/error.blp:14
+msgid "Copy Full Error Message"
+msgstr ""
+
+#: src/ui/fallback.blp:29
+msgid "Size"
+msgstr "Oʻlcham"
+
+#: src/ui/fallback.blp:58
+msgid "Modified"
+msgstr "Oʻzgartirilgan"
+
+#: src/ui/html.blp:9
+msgid "Remote content is blocked to protect your privacy"
+msgstr ""
+
+#: src/ui/html.blp:10
+msgid "_Show Remote Content"
+msgstr ""
+
+#: src/ui/mainWindow.blp:16
+msgid "Toggle Fullscreen"
+msgstr ""
+
+#: src/ui/mainWindow.blp:23
+msgid "Open"
+msgstr "Oching"
+
+#: src/ui/pdf.blp:48
+msgid "Previous Page"
+msgstr ""
+
+#: src/ui/pdf.blp:70
+msgid "Next Page"
+msgstr ""
+
+#: src/viewers/audio.js:273
+msgid "by"
+msgstr "tomonidan"
+
+#: src/viewers/audio.js:278
+msgid "from"
+msgstr "internetdan saqlangan ilovalar va saytlar"
+
+#: src/viewers/fallback.js:186
+#, javascript-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+
+#: src/viewers/fallback.js:191
+msgid "Empty"
+msgstr ""
+
+#: src/viewers/pdf.js:134
+#, javascript-format
+msgid "%d of %d"
+msgstr "%d of %d"
+
+#~ msgid "Type"
+#~ msgstr "Turi"
+
+#~ msgid "Empty Folder"
+#~ msgstr "Boʻsh papka"
+
+#, javascript-format
+#~ msgid "Unable to display %s"
+#~ msgstr "%s koʻrsatilmadi"
+
+#, javascript-format
+#~ msgid "Open With %s"
+#~ msgstr "%s bilan ochish"
