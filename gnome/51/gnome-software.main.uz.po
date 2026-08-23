@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-software gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
-"POT-Creation-Date: 2026-08-05 10:17+0000\n"
+"POT-Creation-Date: 2026-08-21 21:24+0000\n"
 "PO-Revision-Date: 2026-01-22 18:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -3794,7 +3794,7 @@ msgstr "Boshqa toifalar"
 msgid "No App Data Found"
 msgstr "Ilova maʼlumotlari topilmadi"
 
-#: lib/gs-plugin-loader.c:2484
+#: lib/gs-plugin-loader.c:2489
 msgctxt "Distribution name"
 msgid "Unknown"
 msgstr "Nomaʼlum"
@@ -4135,7 +4135,7 @@ msgstr "Tanlangan uchinchi tomonlarning qoʻshimcha omborlari — %s."
 msgid "Fedora Third Party Repositories"
 msgstr "Fedora uchinchi tomon omborlari"
 
-#: src/gs-repos-dialog.c:777 src/gs-repos-dialog.c:800
+#: src/gs-repos-dialog.c:778 src/gs-repos-dialog.c:801
 #, fuzzy
 #| msgid "Fedora Third Party Repositories"
 msgid "Unable to load Fedora third party repositories"
@@ -4143,14 +4143,14 @@ msgstr "Fedora uchinchi tomon omborlari"
 
 #. TRANSLATORS: this is the fallback text we use if we can't
 #. figure out the name of the operating system
-#: src/gs-repos-dialog.c:860
+#: src/gs-repos-dialog.c:861
 msgid "the operating system"
 msgstr "operatsion tizim"
 
 #. TRANSLATORS: This is the description text displayed in the Software
 #. Repositories dialog.
 #. %s gets replaced by the name of the actual distro, e.g. Fedora.
-#: src/gs-repos-dialog.c:916
+#: src/gs-repos-dialog.c:917
 #, c-format
 msgid "These repositories supplement the default software provided by %s."
 msgstr ""
@@ -5657,25 +5657,29 @@ msgstr ""
 msgid "Storage"
 msgstr "Saqlash"
 
-#: src/gs-summary-tile.c:139
+#: src/gs-summary-tile.c:141
 #, c-format
 msgid "%s (Installed)"
 msgstr "%s (Oʻrnatilgan)"
 
-#: src/gs-summary-tile.c:144
+#: src/gs-summary-tile.c:146
 #, c-format
 msgid "%s (Installing)"
 msgstr "%s (Oʻrnatish)"
 
-#: src/gs-summary-tile.c:149
+#: src/gs-summary-tile.c:151
 #, c-format
 msgid "%s (Downloading)"
 msgstr "%s (Yuklab olinmoqda)"
 
-#: src/gs-summary-tile.c:154
+#: src/gs-summary-tile.c:156
 #, c-format
 msgid "%s (Removing)"
 msgstr "%s (Oʻchirish)"
+
+#: src/gs-summary-tile.c:177
+msgid "Driver indicates that it supports the current system"
+msgstr ""
 
 #: src/gs-toast.c:58 src/gs-toast.c:68
 msgid "_Details"

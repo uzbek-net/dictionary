@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-08-06 19:42+0000\n"
+"POT-Creation-Date: 2026-08-21 19:53+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1298,11 +1298,11 @@ msgstr "Ish vaqtlari"
 msgid "Phone"
 msgstr "Telefon raqam"
 
-#: src/osmEditDialog.js:151 src/placeView.js:639
+#: src/osmEditDialog.js:151 src/placeView.js:640
 msgid "Email"
 msgstr "Elektron pochta"
 
-#: src/osmEditDialog.js:158 src/placeView.js:606
+#: src/osmEditDialog.js:158 src/placeView.js:607
 msgid "Website"
 msgstr "Sayt"
 
@@ -1368,11 +1368,11 @@ msgstr "Vikipediya"
 #. * formatted string. Ideally it should be kept as an integer value
 #. * in the Place class. But this will also need to be handled by the
 #. * PlaceStore, possible in a backwards-compatible way
-#: src/osmEditDialog.js:204 src/placeView.js:840
+#: src/osmEditDialog.js:204 src/placeView.js:841
 msgid "Population"
 msgstr "Aholi"
 
-#: src/osmEditDialog.js:209 src/placeView.js:869
+#: src/osmEditDialog.js:209 src/placeView.js:870
 msgid "Altitude"
 msgstr "Balandlik"
 
@@ -1685,7 +1685,7 @@ msgstr "Geo URI ni tahlil qilishda xatolik yuz berdi"
 msgid "Failed to parse Maps URI"
 msgstr "Maps URI ni tahlil qilishda xatolik yuz berdi"
 
-#: src/placeFormatter.js:57 src/placeView.js:262 src/placeView.js:592
+#: src/placeFormatter.js:57 src/placeView.js:262 src/placeView.js:593
 msgid "Coordinates"
 msgstr "Koordinatalar"
 
@@ -1702,21 +1702,21 @@ msgctxt "short distance format string"
 msgid "< %s"
 msgstr "< %s"
 
-#: src/placeView.js:370
+#: src/placeView.js:371
 msgid "Arrival information provided by Transitous"
 msgstr ""
 
-#: src/placeView.js:371
+#: src/placeView.js:372
 msgid "Departure information provided by Transitous"
 msgstr ""
 
-#: src/placeView.js:417
+#: src/placeView.js:418
 #, fuzzy
 #| msgid "No results found"
 msgid "No arrivals found"
 msgstr "Natijalar topilmadi"
 
-#: src/placeView.js:418
+#: src/placeView.js:419
 #, fuzzy
 #| msgid "No route found."
 msgid "No departures found"
@@ -1724,19 +1724,19 @@ msgstr "Marshrut topilmadi."
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for airline flights
-#: src/placeView.js:448
+#: src/placeView.js:449
 msgid "Flights"
 msgstr ""
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for trains
-#: src/placeView.js:452
+#: src/placeView.js:453
 msgid "Trains"
 msgstr ""
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for ferries
-#: src/placeView.js:456
+#: src/placeView.js:457
 #, fuzzy
 #| msgid "_Ferries"
 msgid "Ferries"
@@ -1744,19 +1744,19 @@ msgstr "_Suv transportlari"
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for gondola (also known as aerial trams or telecabins)
-#: src/placeView.js:460
+#: src/placeView.js:461
 msgid "Gondola"
 msgstr ""
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for funicular railway trains
-#: src/placeView.js:464
+#: src/placeView.js:465
 msgid "Funicular"
 msgstr ""
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for subway (also known as metro or underground rail)
-#: src/placeView.js:468
+#: src/placeView.js:469
 #, fuzzy
 #| msgid "_Subway"
 msgid "Subway"
@@ -1764,7 +1764,7 @@ msgstr "_Metro"
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for trams
-#: src/placeView.js:472
+#: src/placeView.js:473
 #, fuzzy
 #| msgid "_Trams"
 msgid "Trams"
@@ -1772,7 +1772,7 @@ msgstr "_Tramvaylar"
 
 #. Translators: this is a tooltip for a toggle to show departures/
 #. * arrivals for buses
-#: src/placeView.js:476
+#: src/placeView.js:477
 #, fuzzy
 #| msgid "_Buses"
 msgid "Buses"
@@ -1780,18 +1780,18 @@ msgstr "_Avtobuslar"
 
 #. Translators: this refers to showing departures or arrivals
 #. * for all available public transit modes in a station/stop
-#: src/placeView.js:536
+#: src/placeView.js:537
 #, fuzzy
 #| msgid "Alcohol"
 msgid "All"
 msgstr "Alkogol"
 
-#: src/placeView.js:598
+#: src/placeView.js:599
 msgid "Accuracy"
 msgstr "Aniqlik"
 
 #. Translators: %s can be "Unknown", "Exact" or "%f km" (or ft/mi/m)
-#: src/placeView.js:601
+#: src/placeView.js:602
 #, javascript-format
 msgid "Accuracy: %s"
 msgstr "Aniqlik: %s"
@@ -1801,7 +1801,7 @@ msgstr "Aniqlik: %s"
 #. * with phone numbers in international format starting with a +
 #. * which is considered a "weak" character to determine Unicode
 #. * text direction
-#: src/placeView.js:620
+#: src/placeView.js:621
 msgid "Phone number"
 msgstr "Telefon raqam"
 
@@ -1810,16 +1810,16 @@ msgstr "Telefon raqam"
 #. Translators:
 #. * This is a reference to named building floor, using a label
 #. * or a code, as "displayed in the elevator"
-#: src/placeView.js:654 src/placeView.js:693
+#: src/placeView.js:655 src/placeView.js:694
 msgid "Floor"
 msgstr "Qavat"
 
-#: src/placeView.js:656
+#: src/placeView.js:657
 #, javascript-format
 msgid "Floor %s"
 msgstr "Qavat %s"
 
-#: src/placeView.js:668
+#: src/placeView.js:669
 msgid "At ground level"
 msgstr "Yer sathidan"
 
@@ -1827,7 +1827,7 @@ msgstr "Yer sathidan"
 #. * This is a reference to a number of floors above
 #. * ground level.
 #. * The %s placeholder is the integer relative number of floors
-#: src/placeView.js:677
+#: src/placeView.js:678
 #, javascript-format
 msgid "%s floor above ground level"
 msgid_plural "%s floors above ground level"
@@ -1837,7 +1837,7 @@ msgstr[0] "Yer sathidan %s qavat tepada"
 #. * This is a reference to a number of floors below
 #. * ground level.
 #. * The %s placeholder is the integer relative number of floors
-#: src/placeView.js:688
+#: src/placeView.js:689
 #, javascript-format
 msgid "%s floor below ground level"
 msgid_plural "%s floors below ground level"
@@ -1846,14 +1846,14 @@ msgstr[0] "Yer sathidan %s qavat pastda"
 #. Translators:
 #. * The establishment offers customers to purchase meals
 #. * (or similar) to be consumed elsewhere
-#: src/placeView.js:706
+#: src/placeView.js:707
 msgid "Offers takeout"
 msgstr "Olib ketish imkonini taklif etadi"
 
 #. Translators:
 #. * The establishment only offers customers to purchase
 #. * meals (or similar) to be consumed on-premise.
-#: src/placeView.js:714
+#: src/placeView.js:715
 msgid "Does not offer takeout"
 msgstr "Olib ketish imkonini taklif etmaydi"
 
@@ -1861,62 +1861,62 @@ msgstr "Olib ketish imkonini taklif etmaydi"
 #. * The establishment only offers customers to purchase
 #. * meals (or similar) to be consumed elsewhere. E.g.
 #. * there is no seating on-premise for eating/drinking
-#: src/placeView.js:723
+#: src/placeView.js:724
 msgid "Only offers takeout"
 msgstr "Faqat blib ketish imkonini taklif etadi"
 
-#: src/placeView.js:730
+#: src/placeView.js:731
 msgid "Opening hours"
 msgstr "Ish vaqtlari"
 
 #. Translators:
 #. * There is public internet access but the particular kind is unknown.
-#: src/placeView.js:740
+#: src/placeView.js:741
 msgid "Public internet access"
 msgstr "Jamoat internetiga kirish"
 
 #. Translators:
 #. * no internet access is offered in a place where
 #. * someone might expect it.
-#: src/placeView.js:749
+#: src/placeView.js:750
 msgid "No internet access"
 msgstr "Internetga mavjud emas"
 
 #. Translators:
 #. * This means a WLAN Hotspot, also known as wireless, wifi or Wi-Fi.
-#: src/placeView.js:757
+#: src/placeView.js:758
 msgid "Public Wi-Fi"
 msgstr "Jamoat Wi-Fi"
 
 #. Translators:
 #. * This means a a place where you can plug in your laptop with ethernet.
-#: src/placeView.js:765
+#: src/placeView.js:766
 msgid "Wired internet access"
 msgstr "SImli internetga kirish"
 
 #. Translators:
 #. * Like internet cafe or library where the computer is given.
-#: src/placeView.js:773
+#: src/placeView.js:774
 msgid "Computers available for use"
 msgstr "Ishlatish uchun kompyuterlar mavjud"
 
 #. Translators:
 #. * This means there is personnel which helps you in case of problems.
-#: src/placeView.js:781
+#: src/placeView.js:782
 msgid "Internet assistance available"
 msgstr "Internetdan foydalanish boʻyicha yordam mavjud"
 
-#: src/placeView.js:787
+#: src/placeView.js:788
 msgid "No toilets available"
 msgstr "Hojatxona mavjud emas"
 
-#: src/placeView.js:790
+#: src/placeView.js:791
 msgid "Toilets available"
 msgstr "Hojatxona mavjud"
 
 #. Translators:
 #. * This means wheelchairs have full unrestricted access.
-#: src/placeView.js:799
+#: src/placeView.js:800
 msgid "Wheelchair accessible"
 msgstr "Nogironlar aravachasi bilan kirish imkoniyati"
 
@@ -1924,14 +1924,14 @@ msgstr "Nogironlar aravachasi bilan kirish imkoniyati"
 #. * This means wheelchairs have partial access (e.g some areas
 #. * can be accessed and others not, areas requiring assistance
 #. * by someone pushing up a steep gradient).
-#: src/placeView.js:809
+#: src/placeView.js:810
 msgid "Limited wheelchair accessibility"
 msgstr "Nogironlar aravachasi uchun cheklangan kirish imkoniyati"
 
 #. Translators:
 #. * This means wheelchairs have no unrestricted access
 #. * (e.g. stair only access).
-#: src/placeView.js:818
+#: src/placeView.js:819
 msgid "Not wheelchair accessible"
 msgstr "Nogironlar aravachasi bilan kirib boʻlmaydi"
 
@@ -1939,7 +1939,7 @@ msgstr "Nogironlar aravachasi bilan kirib boʻlmaydi"
 #. * This means that the way or area is designated or purpose built
 #. * for wheelchairs (e.g. elevators designed for wheelchair access
 #. * only). This is rarely used.
-#: src/placeView.js:828
+#: src/placeView.js:829
 msgid "Designated for wheelchair users"
 msgstr "Nogironlar aravachasi foydalanuvchilari uchun maxsus ajratilgan"
 
@@ -1947,7 +1947,7 @@ msgstr "Nogironlar aravachasi foydalanuvchilari uchun maxsus ajratilgan"
 #. * Translators: this is a label indicating an altitude below
 #. * sea level, where the %s placeholder is the altitude relative
 #. * to mean sea level in the "negative direction"
-#: src/placeView.js:859
+#: src/placeView.js:860
 #, javascript-format
 msgid "%s below sea level"
 msgstr "Dengiz sathidan %s pastda"
@@ -1955,16 +1955,16 @@ msgstr "Dengiz sathidan %s pastda"
 #. *
 #. * Translators: this indicates a place is located at (or very
 #. * close to) mean sea level
-#: src/placeView.js:866
+#: src/placeView.js:867
 msgid "At sea level"
 msgstr "Dengiz sathida"
 
-#: src/placeView.js:878
+#: src/placeView.js:879
 msgid "Religion:"
 msgstr "Din:"
 
 #. Translators: This refers to motorway junction exit (freeway exit)
-#: src/placeView.js:883
+#: src/placeView.js:884
 #, javascript-format
 msgid "Exit %s"
 msgstr ""

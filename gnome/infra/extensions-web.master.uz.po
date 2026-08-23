@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extensions-web master\n"
 "Report-Msgid-Bugs-To: ykonotopov@gnome.org\n"
-"POT-Creation-Date: 2026-04-11 13:50+0000\n"
+"POT-Creation-Date: 2026-08-18 18:51+0000\n"
 "PO-Revision-Date: 2025-05-17 12:08+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -331,11 +331,17 @@ msgstr ""
 msgid "The `uuid` field is missing in `metadata.json`"
 msgstr "“Metadata.json”da “uuid” maydoni yoʻq"
 
-#: sweettooth/extensions/serializers.py:159 extensions-web-domain-django:1
+#: sweettooth/extensions/serializers.py:126 extensions-web-domain-django:1
+#, fuzzy
+#| msgid "The `uuid` field is missing in `metadata.json`"
+msgid "The `url` field is missing in `metadata.json`"
+msgstr "“Metadata.json”da “uuid” maydoni yoʻq"
+
+#: sweettooth/extensions/serializers.py:164 extensions-web-domain-django:1
 msgid "An extension with that UUID has already been added"
 msgstr "UUID bilan kengaytma allaqachon qoʻshilgan"
 
-#: sweettooth/extensions/serializers.py:175 extensions-web-domain-django:1
+#: sweettooth/extensions/serializers.py:180 extensions-web-domain-django:1
 #, fuzzy
 #| msgid "The `uuid` field is missing in `metadata.json`"
 msgid "The `version-name` field in `metadata.json` must be a string"

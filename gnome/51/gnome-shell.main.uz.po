@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-08-14 19:39+0000\n"
+"POT-Creation-Date: 2026-08-21 18:42+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -776,7 +776,7 @@ msgid "Force Stop"
 msgstr "Majburiy toʻxtatish"
 
 #: js/gdm/loginDialog.js:53 js/gdm/loginDialog.js:534
-#: js/ui/unlockDialog.js:678
+#: js/ui/unlockDialog.js:679
 #, fuzzy
 #| msgctxt "button"
 #| msgid "Boot Options"
@@ -816,7 +816,7 @@ msgstr "Kirish urinish vaqti tugadi"
 msgid "Login took too long, please try again"
 msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
-#: js/gdm/loginDialog.js:1534
+#: js/gdm/loginDialog.js:1535
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
@@ -2777,7 +2777,7 @@ msgstr "Oʻchirish…"
 msgid "Log Out…"
 msgstr "Chiqish…"
 
-#: js/ui/status/system.js:204 js/ui/unlockDialog.js:671
+#: js/ui/status/system.js:204 js/ui/unlockDialog.js:672
 msgid "Switch User…"
 msgstr "Foydalanuvchini almashtirish…"
 
@@ -2874,7 +2874,7 @@ msgstr "Faqat tashqi"
 msgid "Built-in Only"
 msgstr "Faqat oʻrnatilgan"
 
-#: js/ui/unlockDialog.js:24
+#: js/ui/unlockDialog.js:25
 #, fuzzy
 #| msgctxt "button"
 #| msgid "Boot Options"
@@ -2883,31 +2883,31 @@ msgstr "Yuklash parametrlari"
 
 #. Translators: This is a time format for a date in
 #. long format
-#: js/ui/unlockDialog.js:419
+#: js/ui/unlockDialog.js:420
 msgid "%A %B %-d"
 msgstr "%A %B %d"
 
-#: js/ui/unlockDialog.js:434
+#: js/ui/unlockDialog.js:435
 #, fuzzy
 #| msgid "Swipe up to unlock"
 msgid "Swipe up"
 msgstr "Qulfni ochish uchun tepaga suring"
 
-#: js/ui/unlockDialog.js:436
+#: js/ui/unlockDialog.js:437
 #, fuzzy
 #| msgid "Click or press a key to unlock"
 msgid "Click or press a key"
 msgstr "Qulfni ochish uchun tugmani bosing yoki bosing"
 
-#: js/ui/unlockDialog.js:652
+#: js/ui/unlockDialog.js:653
 msgid "Unlock Window"
 msgstr "Oyna qulfini ochish"
 
-#: js/ui/unlockDialog.js:666
+#: js/ui/unlockDialog.js:667
 msgid "Log in as another user"
 msgstr "Boshqa foydalanuvchi sifatida tizimga kiring"
 
-#: js/ui/unlockDialog.js:694
+#: js/ui/unlockDialog.js:695
 #, fuzzy
 #| msgid "Authentication error"
 msgid "Background Authentication Methods"

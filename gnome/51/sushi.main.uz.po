@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sushi master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/sushi/issues/\n"
-"POT-Creation-Date: 2026-08-14 01:33+0000\n"
+"POT-Creation-Date: 2026-08-20 16:43+0000\n"
 "PO-Revision-Date: 2025-03-24 19:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -96,11 +96,11 @@ msgstr ""
 msgid "Next Page"
 msgstr ""
 
-#: src/viewers/audio.js:273
+#: src/viewers/audio.js:272
 msgid "by"
 msgstr "tomonidan"
 
-#: src/viewers/audio.js:278
+#: src/viewers/audio.js:277
 msgid "from"
 msgstr "internetdan saqlangan ilovalar va saytlar"
 
@@ -114,7 +114,7 @@ msgstr[0] "%d element"
 msgid "Empty"
 msgstr ""
 
-#: src/viewers/pdf.js:134
+#: src/viewers/pdf.js:129
 #, javascript-format
 msgid "%d of %d"
 msgstr "%d of %d"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: at-spi2-core main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/at-spi2-core/issues/\n"
-"POT-Creation-Date: 2026-07-31 18:18+0000\n"
+"POT-Creation-Date: 2026-08-22 15:58+0000\n"
 "PO-Revision-Date: 2025-04-07 08:11+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -334,7 +334,7 @@ msgstr "juda yaxshi"
 msgid "best"
 msgstr "eng yaxshi"
 
-#: atspi/atspi-component.c:341 atspi/atspi-misc.c:1237 atspi/atspi-value.c:123
+#: atspi/atspi-component.c:341 atspi/atspi-misc.c:1238 atspi/atspi-value.c:123
 msgid "The application no longer exists"
 msgstr "Ilova endi mavjud emas"
 

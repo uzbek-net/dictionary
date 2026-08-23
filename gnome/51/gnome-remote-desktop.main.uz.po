@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-remote-desktop master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-remote-desktop/issues/\n"
-"POT-Creation-Date: 2026-06-25 20:33+0000\n"
+"POT-Creation-Date: 2026-08-19 18:35+0000\n"
 "PO-Revision-Date: 2025-03-25 11:00+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -49,19 +49,19 @@ msgstr ""
 msgid "Usage: %s [OPTIONS...] COMMAND [SUBCOMMAND]...\n"
 msgstr "Foydalanish: %s [OPTIONS...] COMMAND [SUBCOMMAND]...\n"
 
-#: src/grd-ctl.c:382
+#: src/grd-ctl.c:367
 msgid "Username: "
 msgstr "Foydalanuvchi nomi: "
 
-#: src/grd-ctl.c:394 src/grd-ctl.c:552
+#: src/grd-ctl.c:379 src/grd-ctl.c:537
 msgid "Password: "
 msgstr "Parol: "
 
-#: src/grd-ctl.c:682
+#: src/grd-ctl.c:667
 msgid "Commands:\n"
 msgstr "Buyruqlar:\n"
 
-#: src/grd-ctl.c:687
+#: src/grd-ctl.c:672
 #, fuzzy
 #| msgid ""
 #| "  rdp                                            - RDP subcommands:\n"
@@ -128,7 +128,7 @@ msgstr ""
 "                                                   boshqa port\n"
 "\n"
 
-#: src/grd-ctl.c:715
+#: src/grd-ctl.c:700
 msgid ""
 "  vnc                                        - VNC subcommands:\n"
 "    set-port                                 - Set port the server binds to\n"
@@ -164,7 +164,7 @@ msgstr ""
 "                                               boshqa port\n"
 "\n"
 
-#: src/grd-ctl.c:735
+#: src/grd-ctl.c:720
 #, fuzzy
 #| msgid ""
 #| "  status [--show-credentials]                - Show current status\n"

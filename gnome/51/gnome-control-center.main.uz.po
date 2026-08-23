@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-08-13 08:48+0000\n"
+"POT-Creation-Date: 2026-08-18 13:26+0000\n"
 "PO-Revision-Date: 2025-10-13 17:32+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -8511,8 +8511,10 @@ msgid "Pa_ssword"
 msgstr "Parol"
 
 #: panels/system/users/cc-user-page.blp:98
-msgid "_Fingerprint Login"
-msgstr "Barmoq izi bilan login"
+#, fuzzy
+#| msgid "Enterprise Authentication"
+msgid "_Fingerprint Authentication"
+msgstr "Korxona autentifikatsiyasi"
 
 #: panels/system/users/cc-user-page.blp:106
 msgid "A_utomatic Login"
@@ -10925,6 +10927,9 @@ msgstr "Tizim tovushlari"
 
 #~ msgid "The passwords do not match"
 #~ msgstr "Parollar mos kelmaydi"
+
+#~ msgid "_Fingerprint Login"
+#~ msgstr "Barmoq izi bilan login"
 
 #~ msgid "Co_nfigure"
 #~ msgstr "Sozlash"
