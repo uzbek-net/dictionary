@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sysprof sysprof-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/sysprof/issues/\n"
-"POT-Creation-Date: 2026-08-09 00:14+0000\n"
+"POT-Creation-Date: 2026-08-29 15:34+0000\n"
 "PO-Revision-Date: 2025-04-06 22:20+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -336,47 +336,47 @@ msgstr "Belgilar yuklab olinmoqda…"
 msgid "Allocation"
 msgstr "Ajratish"
 
-#: src/libsysprof/sysprof-document.c:577
+#: src/libsysprof/sysprof-document.c:578
 msgid "Unknown Process"
 msgstr "Noma'lum jarayon"
 
-#: src/libsysprof/sysprof-document.c:1649
-#: src/libsysprof/sysprof-document.c:1657
+#: src/libsysprof/sysprof-document.c:1682
+#: src/libsysprof/sysprof-document.c:1690
 msgid "Indexing capture data frames"
 msgstr "Ma'lumotlarni yozib olish ramkalarini indekslash"
 
-#: src/libsysprof/sysprof-document.c:1825
+#: src/libsysprof/sysprof-document.c:1858
 msgid "Discovering file system mounts"
 msgstr "Fayl tizimi ulanishlarini kashf qilish"
 
-#: src/libsysprof/sysprof-document.c:1828
+#: src/libsysprof/sysprof-document.c:1861
 msgid "Discovering process mount namespaces"
 msgstr "Jarayonni oʻrnatish nom maydonlarini kashf qilish"
 
-#: src/libsysprof/sysprof-document.c:1831
+#: src/libsysprof/sysprof-document.c:1866
 msgid "Analyzing process address layouts"
 msgstr "Jarayonning manzil sxemalarini tahlil qilish"
 
-#: src/libsysprof/sysprof-document.c:1834
+#: src/libsysprof/sysprof-document.c:1869
 msgid "Analyzing process command line"
 msgstr "Jarayon buyruq qatorini tahlil qilish"
 
-#: src/libsysprof/sysprof-document.c:1837
+#: src/libsysprof/sysprof-document.c:1872
 msgid "Analyzing file system overlays"
 msgstr "Fayl tizimining qoplamalarini tahlil qilish"
 
-#: src/libsysprof/sysprof-document.c:1840
+#: src/libsysprof/sysprof-document.c:1875
 msgid "Processing counters"
 msgstr "Hisoblagichlarni qayta ishlash"
 
-#: src/libsysprof/sysprof-document.c:2832
-#: src/libsysprof/sysprof-document.c:2851
+#: src/libsysprof/sysprof-document.c:2867
+#: src/libsysprof/sysprof-document.c:2886
 #, c-format
 msgid "Recording at %X %x"
 msgstr "Yozilmoqda: %X %x"
 
-#: src/libsysprof/sysprof-document.c:2835
-#: src/libsysprof/sysprof-document.c:2854
+#: src/libsysprof/sysprof-document.c:2870
+#: src/libsysprof/sysprof-document.c:2889
 #, c-format
 msgid "Recording at %s"
 msgstr "Yozilmoqda: %s"
@@ -449,155 +449,155 @@ msgstr ""
 "Kuzatuv “-finstrument-funksiyalari” bilan tuzilgan dasturni yaratishni talab"
 " qiladi. Kuzatuv mavjud boʻlmaydi."
 
-#: src/sysprof-cli/sysprof-cli.c:120
+#: src/sysprof-cli/sysprof-cli.c:122
 #, c-format
 msgid "--merge requires at least 2 filename arguments"
 msgstr "--merge kamida 2 ta fayl nomi argumentini talab qiladi"
 
-#: src/sysprof-cli/sysprof-cli.c:319
+#: src/sysprof-cli/sysprof-cli.c:326
 msgid ""
 "Disable CPU throttling while profiling [Deprecated for --power-profile]"
 msgstr ""
 "Profil yaratishda protsessorni oʻchirishni oʻchirib qoʻying [--power-profili"
 " uchun eskirgan]"
 
-#: src/sysprof-cli/sysprof-cli.c:320
+#: src/sysprof-cli/sysprof-cli.c:327
 msgid "Make sysprof specific to a task [Deprecated]"
 msgstr "Sysprofni vazifaga xos qilish [Eskirgan]"
 
-#: src/sysprof-cli/sysprof-cli.c:320 src/sysprof/sysprof-frame-utility.ui:109
+#: src/sysprof-cli/sysprof-cli.c:327 src/sysprof/sysprof-frame-utility.ui:109
 #: src/sysprof/sysprof-logs-section.ui:181
 #: src/sysprof/sysprof-processes-section.ui:283
 #: src/sysprof/sysprof-traceables-utility.ui:52
 msgid "PID"
 msgstr "PID (JID)"
 
-#: src/sysprof-cli/sysprof-cli.c:321
+#: src/sysprof-cli/sysprof-cli.c:328
 msgid "Run a command and profile the process"
 msgstr "Buyruqni ishga tushiring va jarayonni profilga kiriting"
 
-#: src/sysprof-cli/sysprof-cli.c:321
+#: src/sysprof-cli/sysprof-cli.c:328
 msgid "COMMAND"
 msgstr "COMMAND"
 
-#: src/sysprof-cli/sysprof-cli.c:322
+#: src/sysprof-cli/sysprof-cli.c:329
 msgid ""
 "Set environment variable for spawned process. Can be used multiple times."
 msgstr ""
 "Yaratilgan jarayon uchun muhit oʻzgaruvchisini oʻrnating. Bir necha marta "
 "foydalanish mumkin."
 
-#: src/sysprof-cli/sysprof-cli.c:322
+#: src/sysprof-cli/sysprof-cli.c:329
 msgid "VAR=VALUE"
 msgstr "VAR=VALUE"
 
-#: src/sysprof-cli/sysprof-cli.c:323
+#: src/sysprof-cli/sysprof-cli.c:330
 msgid "Force overwrite the capture file"
 msgstr "Suratga olish faylini majburan qayta yozish"
 
-#: src/sysprof-cli/sysprof-cli.c:324
+#: src/sysprof-cli/sysprof-cli.c:331
 msgid "Disable recording of battery statistics"
 msgstr "Batareya statistikasini yozib olishni oʻchirib qoʻying"
 
-#: src/sysprof-cli/sysprof-cli.c:325
+#: src/sysprof-cli/sysprof-cli.c:332
 msgid "Disable recording of CPU statistics"
 msgstr "CPU statistikasini yozib olishni oʻchirib qoʻying"
 
-#: src/sysprof-cli/sysprof-cli.c:326
+#: src/sysprof-cli/sysprof-cli.c:333
 msgid "Disable recording of Disk statistics"
 msgstr "Disk statistikasini yozib olishni oʻchirib qoʻying"
 
-#: src/sysprof-cli/sysprof-cli.c:327
+#: src/sysprof-cli/sysprof-cli.c:334
 msgid "Do not record stacktraces using Linux perf"
 msgstr "Linux perf yordamida stacktracelarni yozmang"
 
-#: src/sysprof-cli/sysprof-cli.c:328
+#: src/sysprof-cli/sysprof-cli.c:335
 msgid "Do not append symbol name information from local machine"
 msgstr "Mahalliy mashinadan belgi nomi ma'lumotlarini qoʻshmang"
 
-#: src/sysprof-cli/sysprof-cli.c:329
+#: src/sysprof-cli/sysprof-cli.c:336
 msgid "Disable recording of memory statistics"
 msgstr "Xotira statistikasini yozib olishni oʻchiring"
 
-#: src/sysprof-cli/sysprof-cli.c:330
+#: src/sysprof-cli/sysprof-cli.c:337
 msgid "Disable recording of network statistics"
 msgstr "Tarmoq statistikasini yozib olishni oʻchirib qoʻying"
 
-#: src/sysprof-cli/sysprof-cli.c:331
+#: src/sysprof-cli/sysprof-cli.c:338
 msgid "Set SYSPROF_TRACE_FD environment for subprocess"
 msgstr "Subprocess uchun SYSPROF_TRACE_FD muhitini oʻrnating"
 
-#: src/sysprof-cli/sysprof-cli.c:332
+#: src/sysprof-cli/sysprof-cli.c:339
 msgid "Track when processes are scheduled"
 msgstr "Jarayonlar qachon rejalashtirilganligini kuzatib boring"
 
-#: src/sysprof-cli/sysprof-cli.c:333
+#: src/sysprof-cli/sysprof-cli.c:340
 msgid "Profile the D-Bus session bus"
 msgstr "D-Bus seans avtobusining profilini oʻrnating"
 
-#: src/sysprof-cli/sysprof-cli.c:334
+#: src/sysprof-cli/sysprof-cli.c:341
 msgid "Profile the D-Bus system bus"
 msgstr "D-Bus tizim avtobusini profillang"
 
-#: src/sysprof-cli/sysprof-cli.c:335
+#: src/sysprof-cli/sysprof-cli.c:342
 msgid "Set GJS_TRACE_FD environment to trace GJS processes"
 msgstr "GJS jarayonlarini kuzatish uchun GJS_TRACE_FD muhitini sozlang"
 
-#: src/sysprof-cli/sysprof-cli.c:336
+#: src/sysprof-cli/sysprof-cli.c:343
 msgid "Set GTK_TRACE_FD environment to trace a GTK application"
 msgstr "GTK ilovasini kuzatish uchun GTK_TRACE_FD muhitini sozlang"
 
-#: src/sysprof-cli/sysprof-cli.c:337
+#: src/sysprof-cli/sysprof-cli.c:344
 msgid "Include RAPL energy statistics"
 msgstr "RAPL energiya statistikasini qoʻshing"
 
-#: src/sysprof-cli/sysprof-cli.c:338
+#: src/sysprof-cli/sysprof-cli.c:345
 msgid "Profile memory allocations and frees"
 msgstr "Profil xotirasini ajratish va boʻshatish"
 
-#: src/sysprof-cli/sysprof-cli.c:339
+#: src/sysprof-cli/sysprof-cli.c:346
 msgid "Connect to org.gnome.Shell for profiler statistics"
 msgstr "Profiler statistikasi uchun org.gnome.Shell ga ulaning"
 
-#: src/sysprof-cli/sysprof-cli.c:340
+#: src/sysprof-cli/sysprof-cli.c:347
 msgid "Track performance of the applications main loop"
 msgstr "Ilovalarning asosiy tsiklining ishlashini kuzatib boring"
 
-#: src/sysprof-cli/sysprof-cli.c:342
+#: src/sysprof-cli/sysprof-cli.c:349
 msgid "Merge all provided *.syscap files and write to stdout"
 msgstr ""
 "Barcha taqdim etilgan *.syscap fayllarini birlashtiring va stdout-ga yozing"
 
-#: src/sysprof-cli/sysprof-cli.c:343
+#: src/sysprof-cli/sysprof-cli.c:350
 msgid "Print the sysprof-cli version and exit"
 msgstr "Sysprof-cli versiyasini chop eting va chiqing"
 
-#: src/sysprof-cli/sysprof-cli.c:344
+#: src/sysprof-cli/sysprof-cli.c:351
 msgid "The size of the buffer in pages (1 = 1 page)"
 msgstr "Sahifalardagi bufer hajmi (1 = 1 sahifa)"
 
-#: src/sysprof-cli/sysprof-cli.c:345
+#: src/sysprof-cli/sysprof-cli.c:352
 msgid "Additional D-Bus address to monitor"
 msgstr "Monitoring uchun qoʻshimcha D-Bus manzili"
 
-#: src/sysprof-cli/sysprof-cli.c:346
+#: src/sysprof-cli/sysprof-cli.c:353
 msgid "Stack size to copy for unwinding in user-space"
 msgstr ""
 "Foydalanuvchi maydonida ochish uchun nusxa koʻchirish uchun stek hajmi"
 
-#: src/sysprof-cli/sysprof-cli.c:347
+#: src/sysprof-cli/sysprof-cli.c:354
 msgid "Do not use debuginfod to resolve symbols"
 msgstr "Belgilarni hal qilish uchun debuginfod ishlatmang"
 
-#: src/sysprof-cli/sysprof-cli.c:348
+#: src/sysprof-cli/sysprof-cli.c:355
 msgid "Do not use Sysprofd to acquire privileges"
 msgstr ""
 
-#: src/sysprof-cli/sysprof-cli.c:382
+#: src/sysprof-cli/sysprof-cli.c:386
 msgid "[CAPTURE_FILE] [-- COMMAND ARGS] — Sysprof"
 msgstr "[CAPTURE_FILE] [-- ARGS COMMAND] — Sysprof"
 
-#: src/sysprof-cli/sysprof-cli.c:385
+#: src/sysprof-cli/sysprof-cli.c:389
 msgid ""
 "\n"
 "Examples:\n"
@@ -627,13 +627,13 @@ msgstr ""
 "  # bu erda stek oʻlchami sahifa oʻlchamining koʻpligi\n"
 "  sysprof-cli --stack-size = 8192\n"
 
-#: src/sysprof-cli/sysprof-cli.c:425
+#: src/sysprof-cli/sysprof-cli.c:429
 #, c-format
 msgid "Too many arguments were passed to sysprof-cli:"
 msgstr "Sysprof-cli ga juda koʻp argumentlar uzatildi:"
 
 #. Translators: %s is a file name.
-#: src/sysprof-cli/sysprof-cli.c:482
+#: src/sysprof-cli/sysprof-cli.c:487
 #, c-format
 msgid "%s exists. Use --force to overwrite\n"
 msgstr "%s mavjud. Qayta yozish uchun --force tugmasidan foydalaning\n"

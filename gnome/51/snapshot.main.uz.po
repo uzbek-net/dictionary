@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: snapshot main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/snapshot/-/issues\n"
-"POT-Creation-Date: 2026-08-08 12:17+0000\n"
+"POT-Creation-Date: 2026-08-26 16:35+0000\n"
 "PO-Revision-Date: 2025-04-03 08:41+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: data/org.gnome.Snapshot.desktop.in.in:2
 #: data/resources/org.gnome.Snapshot.metainfo.xml.in.in:7
-#: data/resources/ui/window.ui:4 data/resources/ui/window.ui:11 src/main.rs:23
+#: data/resources/ui/window.ui:4 data/resources/ui/window.ui:11 src/main.rs:26
 msgid "Camera"
 msgstr "Kamera"
 

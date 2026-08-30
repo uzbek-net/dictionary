@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-initial-setup master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/\n"
-"POT-Creation-Date: 2026-07-30 01:13+0000\n"
+"POT-Creation-Date: 2026-08-24 08:37+0000\n"
 "PO-Revision-Date: 2025-04-04 11:34+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -568,7 +568,7 @@ msgstr ""
 
 #. Translators: the first parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu".
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:70
+#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:71
 #, c-format
 msgid ""
 "Sends technical reports that do not contain personal information. Data is "
@@ -580,7 +580,7 @@ msgstr ""
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu".
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:82
+#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:83
 #, c-format
 msgid ""
 "Sends technical reports that do not contain personal information. Data is "
@@ -589,11 +589,11 @@ msgstr ""
 "Shaxsiy ma'lumotlarni oʻz ichiga olmagan texnik hisobotlarni yuboradi. "
 "Maʼlumotlar %s tomonidan yigʻiladi."
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:125
+#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:126
 msgid "Allows apps to determine your geographical location."
 msgstr "Ilovalarga geografik joylashuvingizni aniqlashga ruxsat beradi."
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:171
+#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:172
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:15
 msgid "Privacy"
 msgstr "Maxfiylik"

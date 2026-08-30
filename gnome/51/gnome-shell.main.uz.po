@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-08-21 18:42+0000\n"
+"POT-Creation-Date: 2026-08-29 16:14+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -95,7 +95,7 @@ msgid "Open new window of pinned app 9"
 msgstr "Qattiqlangan ilovaning yangi oynasini oching 9"
 
 #. Translators: name of the folder under ~/Pictures for screenshots.
-#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2699
+#: data/50-gnome-shell-screenshots.xml:6 js/ui/screenshot.js:2692
 msgid "Screenshots"
 msgstr "Skrinshotlar"
 
@@ -775,7 +775,7 @@ msgstr "Bekor qilish"
 msgid "Force Stop"
 msgstr "Majburiy toʻxtatish"
 
-#: js/gdm/loginDialog.js:53 js/gdm/loginDialog.js:534
+#: js/gdm/loginDialog.js:53 js/gdm/loginDialog.js:537
 #: js/ui/unlockDialog.js:679
 #, fuzzy
 #| msgctxt "button"
@@ -791,32 +791,32 @@ msgstr ""
 msgid "Accessibility"
 msgstr "Foydalanish imkoniyati"
 
-#: js/gdm/loginDialog.js:450
+#: js/gdm/loginDialog.js:453
 msgid "Not listed?"
 msgstr "Roʻyxatga kiritilmaganmi?"
 
 #. Translators: this message is shown below the username entry field
 #. to clue the user in on how to login to the local network realm
-#: js/gdm/loginDialog.js:1100
+#: js/gdm/loginDialog.js:1103
 #, javascript-format
 msgid "(e.g., user or %s)"
 msgstr "(masalan, foydalanuvchi yoki %s)"
 
-#: js/gdm/loginDialog.js:1107 js/ui/components/networkAgent.js:258
+#: js/gdm/loginDialog.js:1110 js/ui/components/networkAgent.js:258
 #: js/ui/components/networkAgent.js:293 js/ui/components/networkAgent.js:327
 #: subprojects/extensions-tool/src/command-upload.c:234
 msgid "Username"
 msgstr "Foydalanuvchi nomi"
 
-#: js/gdm/loginDialog.js:1171
+#: js/gdm/loginDialog.js:1174
 msgid "Login Attempt Timed Out"
 msgstr "Kirish urinish vaqti tugadi"
 
-#: js/gdm/loginDialog.js:1172
+#: js/gdm/loginDialog.js:1175
 msgid "Login took too long, please try again"
 msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
-#: js/gdm/loginDialog.js:1535
+#: js/gdm/loginDialog.js:1538
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
@@ -1290,17 +1290,17 @@ msgstr "Ruxsat bering"
 msgid "App grid"
 msgstr "Ilova aniqlandi"
 
-#: js/ui/appDisplay.js:1737
+#: js/ui/appDisplay.js:1736
 msgid "Unnamed Folder"
 msgstr "Nomsiz jild"
 
-#: js/ui/appDisplay.js:2564
+#: js/ui/appDisplay.js:2563
 #, fuzzy
 #| msgid "Username"
 msgid "Folder name"
 msgstr "Foydalanuvchi nomi"
 
-#: js/ui/appDisplay.js:2587
+#: js/ui/appDisplay.js:2586
 msgid "Edit folder name"
 msgstr ""
 
@@ -1550,7 +1550,7 @@ msgstr ""
 "mumkin"
 
 #: js/ui/components/networkAgent.js:108 js/ui/status/bluetooth.js:245
-#: js/ui/status/network.js:361 js/ui/status/network.js:445
+#: js/ui/status/network.js:357 js/ui/status/network.js:441
 msgid "Connect"
 msgstr "Ulanish"
 
@@ -1639,7 +1639,7 @@ msgstr "Autentifikatsiya"
 msgid "Sorry, that didn’t work. Please try again."
 msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 
-#: js/ui/ctrlAltTab.js:23 js/ui/overviewControls.js:408
+#: js/ui/ctrlAltTab.js:23 js/ui/overviewControls.js:411
 msgid "Windows"
 msgstr "Windows"
 
@@ -1649,7 +1649,7 @@ msgstr "Ilovalarni koʻrsatish"
 
 #. Translators: this is the name of the dock/favorites area on
 #. the bottom of the overview
-#: js/ui/dash.js:400
+#: js/ui/dash.js:401
 msgid "Dash"
 msgstr "Dash"
 
@@ -1885,11 +1885,11 @@ msgstr ""
 "extensions.gnome.org saytidan \"%s\" kengaytmasini yuklab olish va "
 "oʻrnatishni xohlaysizmi?"
 
-#: js/ui/extensionSystem.js:354
+#: js/ui/extensionSystem.js:356
 msgid "Extension Updates Available"
 msgstr "Kengaytma yangilanishlari mavjud"
 
-#: js/ui/extensionSystem.js:355
+#: js/ui/extensionSystem.js:357
 msgid "Extension updates are ready to be installed"
 msgstr "Kengaytma yangilanishlari oʻrnatishga tayyor"
 
@@ -1963,7 +1963,7 @@ msgstr "Qoldirish"
 msgid "Turn On"
 msgstr "Yoqish; ishga tushirish"
 
-#: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:456
+#: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:452
 msgid "Turn Off"
 msgstr "Oʻchirib qoʻyish"
 
@@ -2080,11 +2080,11 @@ msgstr "Noma'lum sarlavha"
 #. in the search entry when no search is
 #. active; it should not exceed ~30
 #. characters.
-#: js/ui/overviewControls.js:331
+#: js/ui/overviewControls.js:332
 msgid "Type to search"
 msgstr "Qidirish uchun yozing"
 
-#: js/ui/overviewControls.js:396
+#: js/ui/overviewControls.js:399
 msgid "Apps"
 msgstr "Ilovalar"
 
@@ -2170,78 +2170,78 @@ msgstr "GNOME ekranni qulflashi kerak"
 msgid "Screen Capture"
 msgstr "Ekranni yozib olish"
 
-#: js/ui/screenshot.js:1690
+#: js/ui/screenshot.js:1683
 msgid "Selection"
 msgstr "Tanlash rejimi"
 
-#: js/ui/screenshot.js:1700
+#: js/ui/screenshot.js:1693
 msgid "Area Selection"
 msgstr "Hududni tanlash"
 
-#: js/ui/screenshot.js:1705
+#: js/ui/screenshot.js:1698
 msgid "Screen"
 msgstr "Ekran"
 
-#: js/ui/screenshot.js:1715
+#: js/ui/screenshot.js:1708
 msgid "Screen Selection"
 msgstr "Ekranni tanlash"
 
-#: js/ui/screenshot.js:1720
+#: js/ui/screenshot.js:1713
 msgid "Window"
 msgstr "Oyna"
 
-#: js/ui/screenshot.js:1730
+#: js/ui/screenshot.js:1723
 msgid "Window Selection"
 msgstr "Oyna tanlash"
 
-#: js/ui/screenshot.js:1755 js/ui/status/system.js:117
+#: js/ui/screenshot.js:1748 js/ui/status/system.js:117
 msgid "Take Screenshot"
 msgstr "Skrinshot oling"
 
-#: js/ui/screenshot.js:1771
+#: js/ui/screenshot.js:1764
 msgid "Record Screen"
 msgstr "Yozib olish ekrani"
 
 #. Translators: since this string refers to an action,
 #. it needs to be phrased as a verb.
-#: js/ui/screenshot.js:1788
+#: js/ui/screenshot.js:1781
 msgid "Capture"
 msgstr "Qoʻlga olish"
 
-#: js/ui/screenshot.js:1810
+#: js/ui/screenshot.js:1803
 msgid "Show Pointer"
 msgstr "Pointerni koʻrsatish"
 
 #. Translators: this is the folder where recorded
 #. screencasts are stored.
-#: js/ui/screenshot.js:2443
+#: js/ui/screenshot.js:2436
 msgid "Screencasts"
 msgstr "Ekran tasvirlari"
 
 #. Translators: this is a filename used for screencast
 #. * recording, where "%d" and "%t" date and time, e.g.
 #. * "Screencast From 07-17-2013 10:00:46 PM"
-#: js/ui/screenshot.js:2448
+#: js/ui/screenshot.js:2441
 #, no-c-format
 msgid "Screencast From %d %t"
 msgstr "Skrinshot: %d %t"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2494
+#: js/ui/screenshot.js:2487
 #, fuzzy
 #| msgid "Screencast recorded"
 msgid "Screencast Recorded"
 msgstr "Skrinshot yozib olingan"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2507
+#: js/ui/screenshot.js:2500
 #, fuzzy
 #| msgid "Screencast failed to start"
 msgid "Screencast Failed to Start"
 msgstr "Skrinshot boshlanmadi"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2513
+#: js/ui/screenshot.js:2506
 #, fuzzy
 #| msgid "Screencast ended: Out of disk space"
 msgid "Screencast Failed: Out of Disk Space"
@@ -2250,62 +2250,62 @@ msgstr "Skrinshot tugadi: Diskda joy qolmadi"
 #. We can encourage user to try again on service crashes since the
 #. recorder will auto-blocklist the pipeline that crashed.
 #. Translators: notification title.
-#: js/ui/screenshot.js:2519
+#: js/ui/screenshot.js:2512
 #, fuzzy
 #| msgid "Screencast ended unexpectedly, please try again"
 msgid "Screencast Failed, Please Try Again"
 msgstr "Skrinshot kutilmaganda tugadi, qayta urinib koʻring"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2522
+#: js/ui/screenshot.js:2515
 #, fuzzy
 #| msgid "Screencast failed to start"
 msgid "Screencast Failed"
 msgstr "Skrinshot boshlanmadi"
 
 #. Translators: notification body when a screencast was recorded.
-#: js/ui/screenshot.js:2535
+#: js/ui/screenshot.js:2528
 msgid "Click here to view the video"
 msgstr "Videoni koʻrish uchun bu yerga bosing"
 
 #. Translators: button on the screencast notification.
 #. Translators: button on the screenshot notification.
-#: js/ui/screenshot.js:2543 js/ui/screenshot.js:2766
+#: js/ui/screenshot.js:2536 js/ui/screenshot.js:2759
 msgid "Show in Files"
 msgstr "Fayllarda koʻrsatish"
 
 #. Translators: this is the name of the file that the screenshot is
 #. saved to. The placeholder is a timestamp, e.g. "2017-05-21 12-24-03".
-#: js/ui/screenshot.js:2712
+#: js/ui/screenshot.js:2705
 #, javascript-format
 msgid "Screenshot From %s"
 msgstr "Skrinshot: %s"
 
 #. Translators: notification title.
-#: js/ui/screenshot.js:2756
+#: js/ui/screenshot.js:2749
 #, fuzzy
 #| msgid "Screenshot captured"
 msgid "Screenshot Captured"
 msgstr "Skrinshot olindi"
 
 #. Translators: notification body when a screenshot was captured.
-#: js/ui/screenshot.js:2758
+#: js/ui/screenshot.js:2751
 msgid "You can paste the image from the clipboard"
 msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 
-#: js/ui/screenshot.js:2817 js/ui/screenshot.js:2980
+#: js/ui/screenshot.js:2810 js/ui/screenshot.js:2973
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
-#: js/ui/search.js:887
+#: js/ui/search.js:869
 msgid "Searching"
 msgstr "Qidirilmoqda"
 
-#: js/ui/search.js:890
+#: js/ui/search.js:872
 msgid "No results"
 msgstr "Natija yoʻq"
 
-#: js/ui/search.js:1026
+#: js/ui/search.js:1008
 #, javascript-format
 msgid "%d more"
 msgid_plural "%d more"
@@ -2473,26 +2473,26 @@ msgstr "Past"
 msgid "High"
 msgstr "Yuqori"
 
-#: js/ui/status/backlight.js:158 js/ui/status/keyboard.js:877
+#: js/ui/status/backlight.js:156 js/ui/status/keyboard.js:877
 msgid "Keyboard"
 msgstr "Klaviatura"
 
-#: js/ui/status/backlight.js:160
+#: js/ui/status/backlight.js:158
 msgid "Open keyboard brightness menu"
 msgstr "Klaviatura yoritish menyusini ochish"
 
-#: js/ui/status/bluetooth.js:245 js/ui/status/network.js:361
+#: js/ui/status/bluetooth.js:245 js/ui/status/network.js:357
 msgid "Disconnect"
 msgstr "Uzing"
 
 #. Translators: %s is a device name like "MyPhone"
-#: js/ui/status/bluetooth.js:266 js/ui/status/network.js:355
+#: js/ui/status/bluetooth.js:266 js/ui/status/network.js:351
 #, javascript-format
 msgid "Disconnect %s"
 msgstr "%s aloqasini uzing"
 
 #. Translators: %s is a device name like "MyPhone"
-#: js/ui/status/bluetooth.js:268 js/ui/status/network.js:357
+#: js/ui/status/bluetooth.js:268 js/ui/status/network.js:353
 #, javascript-format
 msgid "Connect to %s"
 msgstr "%s ga ulaning"
@@ -2505,7 +2505,7 @@ msgstr "Bluetooth"
 msgid "Open Bluetooth menu"
 msgstr "Bluetooth menyusini ochish"
 
-#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1939
+#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1935
 msgid "Bluetooth Settings"
 msgstr "Bluetooth sozlamalari"
 
@@ -2588,15 +2588,15 @@ msgstr "Ruxsat berish"
 msgid "<unknown>"
 msgstr "noma’lum turi"
 
-#: js/ui/status/network.js:1061
+#: js/ui/status/network.js:1057
 msgid "Secure"
 msgstr "Xavfsiz"
 
-#: js/ui/status/network.js:1061
+#: js/ui/status/network.js:1057
 msgid "Not secure"
 msgstr "Xavfsiz emas"
 
-#: js/ui/status/network.js:1062
+#: js/ui/status/network.js:1058
 #, javascript-format
 msgid "Signal strength %s%%"
 msgstr "Signal kuchi %s%%"
@@ -2604,98 +2604,98 @@ msgstr "Signal kuchi %s%%"
 #. translators: The first placeholder is the network name, the second and
 #. indication whether it is secure, and the last the signal strength
 #. indication
-#: js/ui/status/network.js:1064
+#: js/ui/status/network.js:1060
 #, javascript-format
 msgid "%s, %s, %s"
 msgstr "%s,%s,%s"
 
 #. Translators: %s is a network identifier
-#: js/ui/status/network.js:1167
+#: js/ui/status/network.js:1163
 #, javascript-format
 msgid "%s Hotspot"
 msgstr "%s Hotspot"
 
-#: js/ui/status/network.js:1448
+#: js/ui/status/network.js:1444
 #, javascript-format
 msgid "%d connected"
 msgid_plural "%d connected"
 msgstr[0] "%d ulandi"
 
-#: js/ui/status/network.js:1546 js/ui/status/network.js:1563
+#: js/ui/status/network.js:1542 js/ui/status/network.js:1559
 msgid "VPN"
 msgstr "VPN"
 
-#: js/ui/status/network.js:1547
+#: js/ui/status/network.js:1543
 msgid "Open VPN menu"
 msgstr "VPN menyusini ochish"
 
-#: js/ui/status/network.js:1548
+#: js/ui/status/network.js:1544
 msgid "VPN Settings"
 msgstr "VPN sozlamalari"
 
-#: js/ui/status/network.js:1808
+#: js/ui/status/network.js:1804
 msgid "Wi–Fi"
 msgstr "Wi-Fi"
 
-#: js/ui/status/network.js:1809
+#: js/ui/status/network.js:1805
 msgid "Open Wi–Fi menu"
 msgstr "Wi-Fi menyusini ochish"
 
-#: js/ui/status/network.js:1811
+#: js/ui/status/network.js:1807
 msgid "All Networks"
 msgstr "Barcha tarmoqlar"
 
-#: js/ui/status/network.js:1921
+#: js/ui/status/network.js:1917
 msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
-#: js/ui/status/network.js:1922
+#: js/ui/status/network.js:1918
 msgid "Open wired connections menu"
 msgstr "Simli ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1923
+#: js/ui/status/network.js:1919
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
-#: js/ui/status/network.js:1937
+#: js/ui/status/network.js:1933
 msgid "Bluetooth Tethers"
 msgstr "Bluetooth tethers"
 
-#: js/ui/status/network.js:1938
+#: js/ui/status/network.js:1934
 msgid "Open Bluetooth tethers menu"
 msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
-#: js/ui/status/network.js:1945
+#: js/ui/status/network.js:1941
 msgid "Tether"
 msgstr "Tether"
 
-#: js/ui/status/network.js:1958
+#: js/ui/status/network.js:1954
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
-#: js/ui/status/network.js:1959
+#: js/ui/status/network.js:1955
 msgid "Open mobile connections menu"
 msgstr "Mobil ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1961
+#: js/ui/status/network.js:1957
 msgid "Mobile Broadband Settings"
 msgstr "Keng polosali mobil moslamalar"
 
 #. Translators: "Mobile" from "Mobile Broadband"
-#: js/ui/status/network.js:1970
+#: js/ui/status/network.js:1966
 msgid "Mobile"
 msgstr "Mobil"
 
-#: js/ui/status/network.js:2004
+#: js/ui/status/network.js:2000
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
-#: js/ui/status/network.js:2191
+#: js/ui/status/network.js:2187
 msgid "Connection failed"
 msgstr "Ulanish amalga oshmadi"
 
-#: js/ui/status/network.js:2192
+#: js/ui/status/network.js:2188
 msgid "Activation of network connection failed"
 msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 
@@ -3083,7 +3083,7 @@ msgstr "Parollar mos kelmaydi"
 msgid "Password cannot be blank"
 msgstr "Parol boʻsh boʻlishi mumkin emas"
 
-#: src/shell-polkit-authentication-agent.c:342
+#: src/shell-polkit-authentication-agent.c:347
 msgid "Authentication dialog was dismissed by the user"
 msgstr "Autentifikatsiya dialogi foydalanuvchi tomonidan oʻchirildi"
 

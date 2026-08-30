@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-08-18 13:26+0000\n"
+"POT-Creation-Date: 2026-08-25 07:19+0000\n"
 "PO-Revision-Date: 2025-10-13 17:32+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -47,7 +47,7 @@ msgstr "Klaviatura yorliqlarini qoʻshing"
 #: panels/system/users/cc-add-user-dialog.blp:19
 #: panels/system/users/cc-avatar-chooser.c:90
 #: panels/system/users/cc-enterprise-login-dialog.blp:39
-#: panels/system/users/cc-fingerprint-dialog.blp:166
+#: panels/system/users/cc-fingerprint-dialog.blp:168
 #: panels/system/users/cc-password-dialog.blp:17
 #: panels/system/users/cc-user-page.blp:196
 #: panels/wwan/cc-wwan-mode-dialog.blp:27
@@ -1137,7 +1137,7 @@ msgstr "Pauza qilingan minerni davom ettirish uchun cookie tan olinmadi"
 #. Translators: This button returns the user back to the color control panel
 #: panels/color/cc-color-calibrate.blp:40
 #: panels/keyboard/cc-keyboard-shortcut-editor.blp:34
-#: panels/system/users/cc-fingerprint-dialog.blp:177
+#: panels/system/users/cc-fingerprint-dialog.blp:179
 msgid "_Done"
 msgstr "Bajarilgan"
 
@@ -8256,7 +8256,7 @@ msgstr "Barmoq izi bilan kirish"
 msgid "Add Fingerprint"
 msgstr "Barmoq izi bilan kirish"
 
-#: panels/system/users/cc-fingerprint-dialog.blp:136
+#: panels/system/users/cc-fingerprint-dialog.blp:137
 msgid "Touch the fingerprint reader to check the scanned fingers"
 msgstr ""
 
