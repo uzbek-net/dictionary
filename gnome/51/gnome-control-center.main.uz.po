@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-08-25 07:19+0000\n"
+"POT-Creation-Date: 2026-08-31 11:11+0000\n"
 "PO-Revision-Date: 2025-10-13 17:32+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -8889,13 +8889,13 @@ msgstr "Test Flash"
 
 #. Translators: This will be presented as the text of a link to the Sound
 #. panel
-#: panels/universal-access/cc-ua-hearing-page.c:154
+#: panels/universal-access/cc-ua-hearing-page.c:152
 msgctxt "Sound panel name"
 msgid "Sound"
 msgstr "Ovoz"
 
 #. Translators: %s is a link to the Sound panel with the label "Sound"
-#: panels/universal-access/cc-ua-hearing-page.c:156
+#: panels/universal-access/cc-ua-hearing-page.c:154
 #, c-format
 msgid "System volume can be adjusted in %s settings"
 msgstr "Tizim tovushini %s sozlamalarida sozlash mumkin"

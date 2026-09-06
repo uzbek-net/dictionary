@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: podcasts main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/podcasts/issues\n"
-"POT-Creation-Date: 2026-08-29 20:11+0000\n"
+"POT-Creation-Date: 2026-09-02 11:29+0000\n"
 "PO-Revision-Date: 2025-10-24 13:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -189,27 +189,23 @@ msgstr ""
 msgid "You’ve already listened to this episode."
 msgstr "Bu qismni allaqachon tinglagansiz."
 
-#: podcasts-gtk/resources/gtk/episode_widget.ui:230
-msgid "Calculating episode size…"
-msgstr "Epizod hajmi hisoblanmoqda…"
-
-#: podcasts-gtk/resources/gtk/episode_widget.ui:253
+#: podcasts-gtk/resources/gtk/episode_widget.ui:190
 msgid "Play this episode"
 msgstr "Bu epizodni ijro qilish"
 
-#: podcasts-gtk/resources/gtk/episode_widget.ui:268
+#: podcasts-gtk/resources/gtk/episode_widget.ui:205
 msgid "Pause playback"
 msgstr "Ijroni toʻxtatib turish"
 
-#: podcasts-gtk/resources/gtk/episode_widget.ui:282
+#: podcasts-gtk/resources/gtk/episode_widget.ui:219
 msgid "Cancel the download process"
 msgstr "Yuklab olish jarayonini bekor qilish"
 
-#: podcasts-gtk/resources/gtk/episode_widget.ui:296
+#: podcasts-gtk/resources/gtk/episode_widget.ui:233
 msgid "Add to Queue"
 msgstr ""
 
-#: podcasts-gtk/resources/gtk/episode_widget.ui:311
+#: podcasts-gtk/resources/gtk/episode_widget.ui:248
 msgid "Episode without audio"
 msgstr "Ovozsiz epizod"
 
@@ -798,7 +794,7 @@ msgstr "Koʻrsatuvlar"
 msgid "Download progress"
 msgstr "Yuklab olish jarayoni"
 
-#: podcasts-gtk/src/widgets/episode.rs:537
+#: podcasts-gtk/src/widgets/episode.rs:517
 #, rust-format
 msgid "{} min"
 msgstr "{} daq"
@@ -879,6 +875,9 @@ msgstr ""
 #: podcasts-gtk/src/widgets/sync_preferences.rs:439
 msgid "Never"
 msgstr ""
+
+#~ msgid "Calculating episode size…"
+#~ msgstr "Epizod hajmi hisoblanmoqda…"
 
 #~ msgid "Download this episode"
 #~ msgstr "Ushbu epizodni yuklab olish"

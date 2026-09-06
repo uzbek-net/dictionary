@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-settings-daemon master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-settings-daemon/issues/\n"
-"POT-Creation-Date: 2026-07-06 11:41+0000\n"
+"POT-Creation-Date: 2026-08-31 12:31+0000\n"
 "PO-Revision-Date: 2025-04-05 19:57+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1723,49 +1723,49 @@ msgstr[0] "daqiqa"
 msgstr[1] "daqiqa"
 
 #. TRANSLATORS: this is the sound description
-#: plugins/power/gpm-common.c:324 plugins/power/gsd-power-manager.c:941
-#: plugins/power/gsd-power-manager.c:1029
+#: plugins/power/gpm-common.c:324 plugins/power/gsd-power-manager.c:945
+#: plugins/power/gsd-power-manager.c:1033
 msgid "Battery is critically low"
 msgstr "Batareya juda past"
 
 #. TRANSLATORS: this is the notification application name
-#: plugins/power/gsd-power-manager.c:372
+#: plugins/power/gsd-power-manager.c:376
 msgid "Power"
 msgstr "Quvvat tugmasi"
 
 #. TRANSLATORS: UPS is now discharging
-#: plugins/power/gsd-power-manager.c:412
+#: plugins/power/gsd-power-manager.c:416
 msgid "UPS Discharging"
 msgstr "UPS zaryadsizlanishi"
 
 #. TRANSLATORS: tell the user how much time they have got
-#: plugins/power/gsd-power-manager.c:417
+#: plugins/power/gsd-power-manager.c:421
 #, c-format
 msgid "%s of UPS backup power remaining"
 msgstr "UPS zaxira quvvatining %s tasi qoldi"
 
-#: plugins/power/gsd-power-manager.c:420
+#: plugins/power/gsd-power-manager.c:424
 msgid "Unknown amount of UPS backup power remaining"
 msgstr "UPS zaxira quvvatining nomaʼlum miqdori qolgan"
 
 #. TRANSLATORS: notification title, a wireless mouse is low or very low on
 #. power
-#: plugins/power/gsd-power-manager.c:524
+#: plugins/power/gsd-power-manager.c:528
 msgid "Mouse battery low"
 msgstr "Sichqoncha batareyasi kam"
 
 #. TRANSLATORS: notification body, a wireless mouse is low on power
-#: plugins/power/gsd-power-manager.c:527
+#: plugins/power/gsd-power-manager.c:531
 #, c-format
 msgid "Wireless mouse is low on power (%.0f%%)"
 msgstr "Simsiz sichqonchaning quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:528
+#: plugins/power/gsd-power-manager.c:532
 msgid "Wireless mouse is low on power"
 msgstr "Simsiz sichqonchaning quvvati kam"
 
 #. TRANSLATORS: notification body, a wireless mouse is very low on power
-#: plugins/power/gsd-power-manager.c:530
+#: plugins/power/gsd-power-manager.c:534
 #, c-format
 msgid ""
 "Wireless mouse is very low on power (%.0f%%). This device will soon stop "
@@ -1774,7 +1774,7 @@ msgstr ""
 "Simsiz sichqonchaning quvvati juda kam (%.0f%%). Agar quvvatlanmasa, bu "
 "qurilma tez orada ishlamay qoladi."
 
-#: plugins/power/gsd-power-manager.c:532
+#: plugins/power/gsd-power-manager.c:536
 msgid ""
 "Wireless mouse is very low on power. This device will soon stop functioning "
 "if not charged."
@@ -1784,22 +1784,22 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a wireless keyboard is low or very low on
 #. power
-#: plugins/power/gsd-power-manager.c:537
+#: plugins/power/gsd-power-manager.c:541
 msgid "Keyboard battery low"
 msgstr "Klaviatura batareyasi kam"
 
 #. TRANSLATORS: notification body, a wireless keyboard is low on power
-#: plugins/power/gsd-power-manager.c:540
+#: plugins/power/gsd-power-manager.c:544
 #, c-format
 msgid "Wireless keyboard is low on power (%.0f%%)"
 msgstr "Simsiz klaviatura quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:541
+#: plugins/power/gsd-power-manager.c:545
 msgid "Wireless keyboard is low on power"
 msgstr "Simsiz klaviatura quvvati kam"
 
 #. TRANSLATORS: notification body, a wireless keyboard is very low on power
-#: plugins/power/gsd-power-manager.c:543
+#: plugins/power/gsd-power-manager.c:547
 #, c-format
 msgid ""
 "Wireless keyboard is very low on power (%.0f%%). This device will soon stop "
@@ -1808,7 +1808,7 @@ msgstr ""
 "Simsiz klaviatura quvvati juda kam (%.0f%%). Agar quvvatlanmasa, bu qurilma "
 "tez orada ishlamay qoladi."
 
-#: plugins/power/gsd-power-manager.c:545
+#: plugins/power/gsd-power-manager.c:549
 msgid ""
 "Wireless keyboard is very low on power. This device will soon stop "
 "functioning if not charged."
@@ -1818,24 +1818,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a PDA (Personal Digital Assistance device)
 #. is low or very on power
-#: plugins/power/gsd-power-manager.c:550
+#: plugins/power/gsd-power-manager.c:554
 msgid "PDA battery low"
 msgstr "PDA batareyasi kam"
 
 #. TRANSLATORS: notification body, a PDA (Personal Digital Assistance device)
 #. is low on power
-#: plugins/power/gsd-power-manager.c:553
+#: plugins/power/gsd-power-manager.c:557
 #, c-format
 msgid "PDA is low on power (%.0f%%)"
 msgstr "PDA quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:554
+#: plugins/power/gsd-power-manager.c:558
 msgid "PDA is low on power"
 msgstr "PDA quvvati kam"
 
 #. TRANSLATORS: notification body, a PDA (Personal Digital Assistance device)
 #. is very low on power
-#: plugins/power/gsd-power-manager.c:556
+#: plugins/power/gsd-power-manager.c:560
 #, c-format
 msgid ""
 "PDA is very low on power (%.0f%%). This device will soon stop functioning if"
@@ -1844,7 +1844,7 @@ msgstr ""
 "PDA quvvati juda kam (%.0f%%). Agar quvvatlanmasa, bu qurilma tez orada "
 "ishlamay qoladi."
 
-#: plugins/power/gsd-power-manager.c:558
+#: plugins/power/gsd-power-manager.c:562
 msgid ""
 "PDA is very low on power. This device will soon stop functioning if not "
 "charged."
@@ -1854,23 +1854,23 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a cell phone (mobile phone) is low or very
 #. low on power
-#: plugins/power/gsd-power-manager.c:563
+#: plugins/power/gsd-power-manager.c:567
 msgid "Cell phone battery low"
 msgstr "Mobil telefon batareyasi kam"
 
 #. TRANSLATORS: notification body, a cell phone (mobile phone) is low on power
-#: plugins/power/gsd-power-manager.c:566
+#: plugins/power/gsd-power-manager.c:570
 #, c-format
 msgid "Cell phone is low on power (%.0f%%)"
 msgstr "Mobil telefon quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:567
+#: plugins/power/gsd-power-manager.c:571
 msgid "Cell phone is low on power"
 msgstr "Mobil telefon quvvati kam"
 
 #. TRANSLATORS: notification body, a cell phone (mobile phone) is very low on
 #. power
-#: plugins/power/gsd-power-manager.c:569
+#: plugins/power/gsd-power-manager.c:573
 #, c-format
 msgid ""
 "Cell phone is very low on power (%.0f%%). This device will soon stop "
@@ -1879,7 +1879,7 @@ msgstr ""
 "Mobil telefon quvvati juda kam (%.0f%%). Agar quvvatlanmasa, bu qurilma tez "
 "orada ishlamay qoladi."
 
-#: plugins/power/gsd-power-manager.c:571
+#: plugins/power/gsd-power-manager.c:575
 msgid ""
 "Cell phone is very low on power. This device will soon stop functioning if "
 "not charged."
@@ -1889,24 +1889,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a media player (e.g. mp3 player) is low or
 #. very low on power
-#: plugins/power/gsd-power-manager.c:576
+#: plugins/power/gsd-power-manager.c:580
 msgid "Media player battery low"
 msgstr "Media pleer batareyasi kam"
 
 #. TRANSLATORS: notification body, a media player (e.g. mp3 player) is low on
 #. power
-#: plugins/power/gsd-power-manager.c:579
+#: plugins/power/gsd-power-manager.c:583
 #, c-format
 msgid "Media player is low on power (%.0f%%)"
 msgstr "Media pleer quvvati past (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:580
+#: plugins/power/gsd-power-manager.c:584
 msgid "Media player is low on power"
 msgstr "Media pleer quvvati kam"
 
 #. TRANSLATORS: notification body, a media player (e.g. mp3 player) is very
 #. low on power
-#: plugins/power/gsd-power-manager.c:582
+#: plugins/power/gsd-power-manager.c:586
 #, c-format
 msgid ""
 "Media player is very low on power (%.0f%%). This device will soon stop "
@@ -1915,7 +1915,7 @@ msgstr ""
 "Media pleer quvvati juda kam (%.0f%%). Agar quvvatlanmasa, bu qurilma tez "
 "orada ishlamay qoladi."
 
-#: plugins/power/gsd-power-manager.c:584
+#: plugins/power/gsd-power-manager.c:588
 msgid ""
 "Media player is very low on power. This device will soon stop functioning if"
 " not charged."
@@ -1925,24 +1925,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a graphics tablet (e.g. wacom) is low or
 #. very low on power
-#: plugins/power/gsd-power-manager.c:589
+#: plugins/power/gsd-power-manager.c:593
 msgid "Tablet battery low"
 msgstr "Planshet batareyasi kam"
 
 #. TRANSLATORS: notification body, a graphics tablet (e.g. wacom) is low on
 #. power
-#: plugins/power/gsd-power-manager.c:592
+#: plugins/power/gsd-power-manager.c:596
 #, c-format
 msgid "Tablet is low on power (%.0f%%)"
 msgstr "Planshet quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:593
+#: plugins/power/gsd-power-manager.c:597
 msgid "Tablet is low on power"
 msgstr "Planshet quvvati kam"
 
 #. TRANSLATORS: notification body, a graphics tablet (e.g. wacom) is very low
 #. on power
-#: plugins/power/gsd-power-manager.c:595
+#: plugins/power/gsd-power-manager.c:599
 #, c-format
 msgid ""
 "Tablet is very low on power (%.0f%%). This device will soon stop functioning"
@@ -1951,7 +1951,7 @@ msgstr ""
 "Planshet quvvati juda kam (%.0f%%). Agar quvvatlanmasa, bu qurilma tez orada"
 " ishlamay qoladi."
 
-#: plugins/power/gsd-power-manager.c:597
+#: plugins/power/gsd-power-manager.c:601
 msgid ""
 "Tablet is very low on power. This device will soon stop functioning if not "
 "charged."
@@ -1961,24 +1961,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, an attached computer (e.g. ipad) is low or
 #. very low on power
-#: plugins/power/gsd-power-manager.c:602
+#: plugins/power/gsd-power-manager.c:606
 msgid "Attached computer battery low"
 msgstr "Ulangan kompyuter batareyasi kam"
 
 #. TRANSLATORS: notification body, an attached computer (e.g. ipad) is low on
 #. power
-#: plugins/power/gsd-power-manager.c:605
+#: plugins/power/gsd-power-manager.c:609
 #, c-format
 msgid "Attached computer is low on power (%.0f%%)"
 msgstr "Biriktirilgan kompyuter quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:606
+#: plugins/power/gsd-power-manager.c:610
 msgid "Attached computer is low on power"
 msgstr "Ulangan kompyuter quvvati kam"
 
 #. TRANSLATORS: notification body, an attached computer (e.g. ipad) is very
 #. low on power
-#: plugins/power/gsd-power-manager.c:608
+#: plugins/power/gsd-power-manager.c:612
 #, c-format
 msgid ""
 "Attached computer is very low on power (%.0f%%). The device will soon "
@@ -1987,7 +1987,7 @@ msgstr ""
 "Ulangan kompyuter quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma "
 "tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:610
+#: plugins/power/gsd-power-manager.c:614
 msgid ""
 "Attached computer is very low on power. The device will soon shutdown if not"
 " charged."
@@ -1997,24 +1997,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a game controller (e.g. joystick or
 #. joypad) is low or very low on power
-#: plugins/power/gsd-power-manager.c:615
+#: plugins/power/gsd-power-manager.c:619
 msgid "Game controller battery low"
 msgstr "Oʻyin boshqaruvchisi batareyasi kam"
 
 #. TRANSLATORS: notification body, a game controller (e.g. joystick or joypad)
 #. is low on power
-#: plugins/power/gsd-power-manager.c:618
+#: plugins/power/gsd-power-manager.c:622
 #, c-format
 msgid "Game controller is low on power (%.0f%%)"
 msgstr "Oʻyin boshqaruvchisi quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:619
+#: plugins/power/gsd-power-manager.c:623
 msgid "Game controller is low on power"
 msgstr "Oʻyin boshqaruvchisi quvvati kam"
 
 #. TRANSLATORS: notification body, an attached game controller (e.g. joystick
 #. or joypad) is very low on power
-#: plugins/power/gsd-power-manager.c:621
+#: plugins/power/gsd-power-manager.c:625
 #, c-format
 msgid ""
 "Game controller is very low on power (%.0f%%). The device will soon shutdown"
@@ -2023,7 +2023,7 @@ msgstr ""
 "Oʻyin boshqaruvchisi quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, "
 "qurilma tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:623
+#: plugins/power/gsd-power-manager.c:627
 msgid ""
 "Game controller is very low on power. The device will soon shutdown if not "
 "charged."
@@ -2032,22 +2032,22 @@ msgstr ""
 "tez orada oʻchadi."
 
 #. TRANSLATORS: notification title, a pen is low or very low on power
-#: plugins/power/gsd-power-manager.c:628
+#: plugins/power/gsd-power-manager.c:632
 msgid "Pen battery low"
 msgstr "Qalam batareyasi kam"
 
 #. TRANSLATORS: notification body, a pen is low on power
-#: plugins/power/gsd-power-manager.c:631
+#: plugins/power/gsd-power-manager.c:635
 #, c-format
 msgid "Pen is low on power (%.0f%%)"
 msgstr "Qalamning quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:632
+#: plugins/power/gsd-power-manager.c:636
 msgid "Pen is low on power"
 msgstr "Qalamning quvvati kam"
 
 #. TRANSLATORS: notification body, a pen is very low on power
-#: plugins/power/gsd-power-manager.c:634
+#: plugins/power/gsd-power-manager.c:638
 #, c-format
 msgid ""
 "Pen is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2056,7 +2056,7 @@ msgstr ""
 "Qalamning quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez "
 "orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:636
+#: plugins/power/gsd-power-manager.c:640
 msgid ""
 "Pen is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2065,22 +2065,22 @@ msgstr ""
 
 #. TRANSLATORS: notification title, an external touchpad is low or very low on
 #. power
-#: plugins/power/gsd-power-manager.c:641
+#: plugins/power/gsd-power-manager.c:645
 msgid "Touchpad battery low"
 msgstr "Sensorli panel batareyasi kam"
 
 #. TRANSLATORS: notification body, an external touchpad is low on power
-#: plugins/power/gsd-power-manager.c:644
+#: plugins/power/gsd-power-manager.c:648
 #, c-format
 msgid "Touchpad is low on power (%.0f%%)"
 msgstr "Sensorli panel quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:645
+#: plugins/power/gsd-power-manager.c:649
 msgid "Touchpad is low on power"
 msgstr "Sensorli panel quvvati kam"
 
 #. TRANSLATORS: notification body, an external touchpad is very low on power
-#: plugins/power/gsd-power-manager.c:647
+#: plugins/power/gsd-power-manager.c:651
 #, c-format
 msgid ""
 "Touchpad is very low on power (%.0f%%). The device will soon shutdown if not"
@@ -2089,7 +2089,7 @@ msgstr ""
 "Sensorli panelning quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma"
 " tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:649
+#: plugins/power/gsd-power-manager.c:653
 msgid ""
 "Touchpad is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2098,24 +2098,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a headset (headphones + microphone) is low
 #. or very low on power
-#: plugins/power/gsd-power-manager.c:654
+#: plugins/power/gsd-power-manager.c:658
 msgid "Headset battery low"
 msgstr "Eshitish vositasi batareyasi kam"
 
 #. TRANSLATORS: notification body, a headset (headphones + microphone) is low
 #. on power
-#: plugins/power/gsd-power-manager.c:657
+#: plugins/power/gsd-power-manager.c:661
 #, c-format
 msgid "Headset is low on power (%.0f%%)"
 msgstr "Eshitish vositasi quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:658
+#: plugins/power/gsd-power-manager.c:662
 msgid "Headset is low on power"
 msgstr "Eshitish vositasi quvvati kam"
 
 #. TRANSLATORS: notification body, a headset (headphones + microphone) is very
 #. low on power
-#: plugins/power/gsd-power-manager.c:660
+#: plugins/power/gsd-power-manager.c:664
 #, c-format
 msgid ""
 "Headset is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2124,7 +2124,7 @@ msgstr ""
 "Eshitish vositasi quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma "
 "tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:662
+#: plugins/power/gsd-power-manager.c:666
 msgid ""
 "Headset is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2132,22 +2132,22 @@ msgstr ""
 " oʻchadi."
 
 #. TRANSLATORS: notification title, speaker is low or very low on power
-#: plugins/power/gsd-power-manager.c:667
+#: plugins/power/gsd-power-manager.c:671
 msgid "Speaker battery low"
 msgstr "Karnay batareyasi kam"
 
 #. TRANSLATORS: notification body, a speaker is low on power
-#: plugins/power/gsd-power-manager.c:670
+#: plugins/power/gsd-power-manager.c:674
 #, c-format
 msgid "Speaker is low on power (%.0f%%)"
 msgstr "Karnay quvvati past (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:671
+#: plugins/power/gsd-power-manager.c:675
 msgid "Speaker is low on power"
 msgstr "Karnay quvvati past"
 
 #. TRANSLATORS: notification body, a speaker is very low on power
-#: plugins/power/gsd-power-manager.c:673
+#: plugins/power/gsd-power-manager.c:677
 #, c-format
 msgid ""
 "Speaker is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2156,7 +2156,7 @@ msgstr ""
 "Karnay quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez orada "
 "oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:675
+#: plugins/power/gsd-power-manager.c:679
 msgid ""
 "Speaker is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2164,23 +2164,23 @@ msgstr ""
 
 #. TRANSLATORS: notification title, headphones (no microphone) are low or very
 #. low on power
-#: plugins/power/gsd-power-manager.c:680
+#: plugins/power/gsd-power-manager.c:684
 msgid "Headphones battery low"
 msgstr "Eshitish vositalarining batareyasi kam"
 
 #. TRANSLATORS: notification body, headphones (no microphone) are low on power
-#: plugins/power/gsd-power-manager.c:683
+#: plugins/power/gsd-power-manager.c:687
 #, c-format
 msgid "Headphones are low on power (%.0f%%)"
 msgstr "Quloqlik quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:684
+#: plugins/power/gsd-power-manager.c:688
 msgid "Headphones are low on power"
 msgstr "Eshitish vositalarining quvvati kam"
 
 #. TRANSLATORS: notification body, headphones (no microphone) are very low on
 #. power
-#: plugins/power/gsd-power-manager.c:686
+#: plugins/power/gsd-power-manager.c:690
 #, c-format
 msgid ""
 "Headphones are very low on power (%.0f%%). The device will soon shutdown if "
@@ -2189,7 +2189,7 @@ msgstr ""
 "Naushniklar quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez "
 "orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:688
+#: plugins/power/gsd-power-manager.c:692
 msgid ""
 "Headphones are very low on power. The device will soon shutdown if not "
 "charged."
@@ -2199,22 +2199,22 @@ msgstr ""
 
 #. TRANSLATORS: notification title, an audio device is low or very low on
 #. power
-#: plugins/power/gsd-power-manager.c:693
+#: plugins/power/gsd-power-manager.c:697
 msgid "Audio device battery low"
 msgstr "Audio qurilmaning batareyasi kam"
 
 #. TRANSLATORS: notification body, an audio device is low on power
-#: plugins/power/gsd-power-manager.c:696
+#: plugins/power/gsd-power-manager.c:700
 #, c-format
 msgid "Audio device is low on power (%.0f%%)"
 msgstr "Audio qurilma quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:697
+#: plugins/power/gsd-power-manager.c:701
 msgid "Audio device is low on power"
 msgstr "Audio qurilma quvvati kam"
 
 #. TRANSLATORS: notification body, an audio device is very low on power
-#: plugins/power/gsd-power-manager.c:699
+#: plugins/power/gsd-power-manager.c:703
 #, c-format
 msgid ""
 "Audio device is very low on power (%.0f%%). The device will soon shutdown if"
@@ -2223,7 +2223,7 @@ msgstr ""
 "Audio qurilmaning quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma "
 "tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:701
+#: plugins/power/gsd-power-manager.c:705
 msgid ""
 "Audio device is very low on power. The device will soon shutdown if not "
 "charged."
@@ -2233,22 +2233,22 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a remote control is low or very low on
 #. power
-#: plugins/power/gsd-power-manager.c:706
+#: plugins/power/gsd-power-manager.c:710
 msgid "Remote battery low"
 msgstr "Masofadagi batareya quvvati kam"
 
 #. TRANSLATORS: notification body, an remote control is low on power
-#: plugins/power/gsd-power-manager.c:709
+#: plugins/power/gsd-power-manager.c:713
 #, c-format
 msgid "Remote is low on power (%.0f%%)"
 msgstr "Pult quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:710
+#: plugins/power/gsd-power-manager.c:714
 msgid "Remote is low on power"
 msgstr "Pult quvvati kam"
 
 #. TRANSLATORS: notification body, a remote control is very low on power
-#: plugins/power/gsd-power-manager.c:712
+#: plugins/power/gsd-power-manager.c:716
 #, c-format
 msgid ""
 "Remote is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2257,7 +2257,7 @@ msgstr ""
 "Pult quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez orada "
 "oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:714
+#: plugins/power/gsd-power-manager.c:718
 msgid ""
 "Remote is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2265,22 +2265,22 @@ msgstr ""
 "qurilma tez orada oʻchadi."
 
 #. TRANSLATORS: notification title, a printer is low or very low on power
-#: plugins/power/gsd-power-manager.c:719
+#: plugins/power/gsd-power-manager.c:723
 msgid "Printer battery low"
 msgstr "Printer batareyasi kam"
 
 #. TRANSLATORS: notification body, a printer is low on power
-#: plugins/power/gsd-power-manager.c:722
+#: plugins/power/gsd-power-manager.c:726
 #, c-format
 msgid "Printer is low on power (%.0f%%)"
 msgstr "Printer quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:723
+#: plugins/power/gsd-power-manager.c:727
 msgid "Printer is low on power"
 msgstr "Printer quvvati kam"
 
 #. TRANSLATORS: notification body, a printer is very low on power
-#: plugins/power/gsd-power-manager.c:725
+#: plugins/power/gsd-power-manager.c:729
 #, c-format
 msgid ""
 "Printer is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2289,7 +2289,7 @@ msgstr ""
 "Printerning quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez "
 "orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:727
+#: plugins/power/gsd-power-manager.c:731
 msgid ""
 "Printer is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2297,22 +2297,22 @@ msgstr ""
 "oʻchadi."
 
 #. TRANSLATORS: notification title, a scanner is low or very low on power
-#: plugins/power/gsd-power-manager.c:732
+#: plugins/power/gsd-power-manager.c:736
 msgid "Scanner battery low"
 msgstr "Skaner batareyasi kam"
 
 #. TRANSLATORS: notification body, a scanner is low on power
-#: plugins/power/gsd-power-manager.c:735
+#: plugins/power/gsd-power-manager.c:739
 #, c-format
 msgid "Scanner is low on power (%.0f%%)"
 msgstr "Skaner quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:736
+#: plugins/power/gsd-power-manager.c:740
 msgid "Scanner is low on power"
 msgstr "Skaner quvvati kam"
 
 #. TRANSLATORS: notification body, a scanner is very low on power
-#: plugins/power/gsd-power-manager.c:738
+#: plugins/power/gsd-power-manager.c:742
 #, c-format
 msgid ""
 "Scanner is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2321,7 +2321,7 @@ msgstr ""
 "Skanerning quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez "
 "orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:740
+#: plugins/power/gsd-power-manager.c:744
 msgid ""
 "Scanner is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2329,22 +2329,22 @@ msgstr ""
 "oʻchadi."
 
 #. TRANSLATORS: notification title, a camera is low or very low on power
-#: plugins/power/gsd-power-manager.c:745
+#: plugins/power/gsd-power-manager.c:749
 msgid "Camera battery low"
 msgstr "Kamera batareyasi kam"
 
 #. TRANSLATORS: notification body, a camera is low on power
-#: plugins/power/gsd-power-manager.c:748
+#: plugins/power/gsd-power-manager.c:752
 #, c-format
 msgid "Camera is low on power (%.0f%%)"
 msgstr "Kamera quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:749
+#: plugins/power/gsd-power-manager.c:753
 msgid "Camera is low on power"
 msgstr "Kamera quvvati kam"
 
 #. TRANSLATORS: notification body, a camera is very low on power
-#: plugins/power/gsd-power-manager.c:751
+#: plugins/power/gsd-power-manager.c:755
 #, c-format
 msgid ""
 "Camera is very low on power (%.0f%%). The device will soon shutdown if not "
@@ -2353,7 +2353,7 @@ msgstr ""
 "Kamera quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, qurilma tez orada "
 "oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:753
+#: plugins/power/gsd-power-manager.c:757
 msgid ""
 "Camera is very low on power. The device will soon shutdown if not charged."
 msgstr ""
@@ -2361,22 +2361,22 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a Bluetooth device is low or very low on
 #. power
-#: plugins/power/gsd-power-manager.c:758
+#: plugins/power/gsd-power-manager.c:762
 msgid "Bluetooth device battery low"
 msgstr "Bluetooth qurilmasi batareyasi kam"
 
 #. TRANSLATORS: notification body, a Bluetooth device is low on power
-#: plugins/power/gsd-power-manager.c:761
+#: plugins/power/gsd-power-manager.c:765
 #, c-format
 msgid "Bluetooth device is low on power (%.0f%%)"
 msgstr "Bluetooth qurilmasi quvvati past (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:762
+#: plugins/power/gsd-power-manager.c:766
 msgid "Bluetooth device is low on power"
 msgstr "Bluetooth qurilmasi quvvati kam"
 
 #. TRANSLATORS: notification body, a Bluetooth device is very low on power
-#: plugins/power/gsd-power-manager.c:764
+#: plugins/power/gsd-power-manager.c:768
 #, c-format
 msgid ""
 "Bluetooth device is very low on power (%.0f%%). The device will soon "
@@ -2385,7 +2385,7 @@ msgstr ""
 "Bluetooth qurilmasi quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, "
 "qurilma tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:766
+#: plugins/power/gsd-power-manager.c:770
 msgid ""
 "Bluetooth device is very low on power. The device will soon shutdown if not "
 "charged."
@@ -2395,24 +2395,24 @@ msgstr ""
 
 #. TRANSLATORS: notification title, a connected (wireless) device or
 #. peripheral of unhandled type is low or very on power
-#: plugins/power/gsd-power-manager.c:772
+#: plugins/power/gsd-power-manager.c:776
 msgid "Connected device battery is low"
 msgstr "Ulangan qurilmaning batareya quvvati kam"
 
 #. TRANSLATORS: notification body, a connected (wireless) device or peripheral
 #. of unhandled type is low on power
-#: plugins/power/gsd-power-manager.c:775
+#: plugins/power/gsd-power-manager.c:779
 #, c-format
 msgid "A connected device is low on power (%.0f%%)"
 msgstr "Ulangan qurilma quvvati kam (%.0f%%)"
 
-#: plugins/power/gsd-power-manager.c:776
+#: plugins/power/gsd-power-manager.c:780
 msgid "A connected device is low on power"
 msgstr "Ulangan qurilma quvvati kam"
 
 #. TRANSLATORS: notification body, a connected (wireless) device or peripheral
 #. of unhandled type is very low on power
-#: plugins/power/gsd-power-manager.c:778
+#: plugins/power/gsd-power-manager.c:782
 #, c-format
 msgid ""
 "A connected device is very low on power (%.0f%%). The device will soon "
@@ -2421,7 +2421,7 @@ msgstr ""
 "Ulangan qurilmaning quvvati juda kam (%.0f%%). Zaryadlanmagan boʻlsa, "
 "qurilma tez orada oʻchadi."
 
-#: plugins/power/gsd-power-manager.c:780
+#: plugins/power/gsd-power-manager.c:784
 msgid ""
 "A connected device is very low on power. The device will soon shutdown if "
 "not charged."
@@ -2431,20 +2431,20 @@ msgstr ""
 
 #. TRANSLATORS: notification title, the battery of this laptop/tablet/phone is
 #. running low, shows percentage remaining
-#: plugins/power/gsd-power-manager.c:807
+#: plugins/power/gsd-power-manager.c:811
 msgid "Low Battery"
 msgstr "%s oʻchirib boʻlmadi: batareya quvvati kam"
 
 #. TRANSLATORS: notification body, the battery of this laptop/tablet/phone is
 #. running low, shows percentage remaining
-#: plugins/power/gsd-power-manager.c:810
+#: plugins/power/gsd-power-manager.c:814
 #, c-format
 msgid "%.0f%% battery remaining"
 msgstr "%.0f%% batareya qoldi"
 
 #. TRANSLATORS: notification title, an Uninterruptible Power Supply (UPS) is
 #. running low, shows percentage remaining
-#: plugins/power/gsd-power-manager.c:813
+#: plugins/power/gsd-power-manager.c:817
 msgid "UPS Low"
 msgstr "UPS past"
 
@@ -2452,38 +2452,38 @@ msgstr "UPS past"
 #. running low, shows percentage remaining
 #. TRANSLATORS: notification body, an Uninterruptible Power Supply (UPS) is
 #. running low, warning about action happening soon
-#: plugins/power/gsd-power-manager.c:816 plugins/power/gsd-power-manager.c:893
+#: plugins/power/gsd-power-manager.c:820 plugins/power/gsd-power-manager.c:897
 #, c-format
 msgid "%.0f%% UPS power remaining"
 msgstr "%.0f%% UPS quvvati qoldi"
 
 #. TRANSLATORS: this is the sound description
-#: plugins/power/gsd-power-manager.c:857
+#: plugins/power/gsd-power-manager.c:861
 msgid "Battery is low"
 msgstr "Batareya quvvati past"
 
 #. TRANSLATORS: notification title, the battery of this laptop/tablet/phone is
 #. critically low, advice on what the user should do
-#: plugins/power/gsd-power-manager.c:884
+#: plugins/power/gsd-power-manager.c:888
 msgid "Battery Almost Empty"
 msgstr "Batareya deyarli boʻsh"
 
 #. TRANSLATORS: notification body, the battery of this laptop/tablet/phone is
 #. critically running low, advice on what the user should do
-#: plugins/power/gsd-power-manager.c:887
+#: plugins/power/gsd-power-manager.c:891
 #, c-format
 msgid "Connect power now"
 msgstr "Hozir quvvatni ulang"
 
 #. TRANSLATORS: notification title, an Uninterruptible Power Supply (UPS) is
 #. running low, warning about action happening soon
-#: plugins/power/gsd-power-manager.c:890
+#: plugins/power/gsd-power-manager.c:894
 msgid "UPS Almost Empty"
 msgstr "UPS deyarli boʻsh"
 
 #. TRANSLATORS: notification title, the battery of this laptop/tablet/phone is
 #. critically low, warning about action happening now
-#: plugins/power/gsd-power-manager.c:965
+#: plugins/power/gsd-power-manager.c:969
 msgid "Battery is Empty"
 msgstr "Batareya boʻsh"
 
@@ -2491,58 +2491,58 @@ msgstr "Batareya boʻsh"
 #. critically low, warning about action about to happen
 #. TRANSLATORS: notification body, an Uninterruptible Power Supply (UPS) is
 #. critically low, warning about action about to happen
-#: plugins/power/gsd-power-manager.c:972 plugins/power/gsd-power-manager.c:992
+#: plugins/power/gsd-power-manager.c:976 plugins/power/gsd-power-manager.c:996
 msgid "This device is about to hibernate"
 msgstr "Bu qurilma kutish rejimida"
 
-#: plugins/power/gsd-power-manager.c:974 plugins/power/gsd-power-manager.c:994
+#: plugins/power/gsd-power-manager.c:978 plugins/power/gsd-power-manager.c:998
 msgid "This device is about to shutdown"
 msgstr "Bu qurilma oʻchmoqchi"
 
 #. TRANSLATORS: notification title, an Uninterruptible Power Supply (UPS) is
 #. critically low, warning about action about to happen
-#: plugins/power/gsd-power-manager.c:985
+#: plugins/power/gsd-power-manager.c:989
 msgid "UPS is Empty"
 msgstr "UPS boʻsh"
 
 #. TRANSLATORS: this is the sound description
-#: plugins/power/gsd-power-manager.c:1630
+#: plugins/power/gsd-power-manager.c:1634
 msgid "Lid has been opened"
 msgstr "Qopqoq ochildi"
 
 #. TRANSLATORS: this is the sound description
-#: plugins/power/gsd-power-manager.c:1668
+#: plugins/power/gsd-power-manager.c:1672
 msgid "Lid has been closed"
 msgstr "Qopqoq yopilgan"
 
 #. TRANSLATORS: this is the sound description
-#: plugins/power/gsd-power-manager.c:2335
+#: plugins/power/gsd-power-manager.c:2348
 msgid "On battery power"
 msgstr "Batareya quvvatida"
 
 #. TRANSLATORS: this is the sound description
-#: plugins/power/gsd-power-manager.c:2340
+#: plugins/power/gsd-power-manager.c:2353
 msgid "On AC power"
 msgstr "AC quvvatida"
 
-#: plugins/power/gsd-power-manager.c:2604
+#: plugins/power/gsd-power-manager.c:2621
 msgid "Automatic Logout"
 msgstr "Avtomatik chiqish"
 
-#: plugins/power/gsd-power-manager.c:2604
+#: plugins/power/gsd-power-manager.c:2621
 msgid "You will soon log out because of inactivity"
 msgstr "Tez orada harakatsizlik tufayli tizimdan chiqasiz"
 
-#: plugins/power/gsd-power-manager.c:2609
+#: plugins/power/gsd-power-manager.c:2626
 msgid "Automatic Suspend"
 msgstr "Avtomatik toʻxtatib turish"
 
-#: plugins/power/gsd-power-manager.c:2609
-#: plugins/power/gsd-power-manager.c:2614
+#: plugins/power/gsd-power-manager.c:2626
+#: plugins/power/gsd-power-manager.c:2631
 msgid "Suspending soon because of inactivity"
 msgstr "Tez orada harakatsizlik tufayli toʻxtatiladi"
 
-#: plugins/power/gsd-power-manager.c:2614
+#: plugins/power/gsd-power-manager.c:2631
 msgid "Automatic Hibernation"
 msgstr "Avtomatik kutish holati"
 

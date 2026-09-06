@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-calendar/issues\n"
-"POT-Creation-Date: 2026-08-28 23:31+0000\n"
+"POT-Creation-Date: 2026-09-05 10:07+0000\n"
 "PO-Revision-Date: 2026-01-22 17:47+0500\n"
 "Last-Translator: Umidjon Almasov <umidjon@almasov.uz>\n"
 "Language-Team: Uzbek\n"
@@ -774,6 +774,11 @@ msgstr "Tadbir tafsilotlari"
 msgid "Edit Event"
 msgstr "Tadbirni tahrirlash"
 
+#: src/gui/event-editor/gcal-notes-section.blp:40
+#: src/gui/event-editor/gcal-notes-section.blp:69
+msgid "Notes"
+msgstr "Izohlar"
+
 #: src/gui/event-editor/gcal-organizer-row.blp:5
 msgid "Organizer"
 msgstr ""
@@ -953,7 +958,7 @@ msgstr ""
 "Baxrom Raxmatov\n"
 "Muhammad Gʻaniyev"
 
-#: src/gui/gcal-application.c:246 src/gui/gcal-window.blp:391
+#: src/gui/gcal-application.c:247 src/gui/gcal-window.blp:391
 msgid "Weather"
 msgstr "Ob-havo"
 
@@ -1902,9 +1907,6 @@ msgstr "Bing Maps"
 
 #~ msgid "Toggle Alarm Sound"
 #~ msgstr "Signal tovushini oʻzgartirish"
-
-#~ msgid "Notes"
-#~ msgstr "Izohlar"
 
 #~ msgid "Add"
 #~ msgstr "Qoʻshish"

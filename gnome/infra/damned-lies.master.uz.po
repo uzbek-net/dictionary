@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-25 07:06+0000\n"
+"POT-Creation-Date: 2026-09-04 17:18+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -2388,6 +2388,12 @@ msgstr "GNOME ish stoli"
 msgid "Apps"
 msgstr "Ilovalar"
 
+#: database-content.py:548
+#, fuzzy
+#| msgid "Legacy Desktop"
+msgid "Legacy"
+msgstr "Eski ish stoli"
+
 #: feeds/templates/feeds/actions_description.html:5
 msgid "No comment"
 msgstr "Izohlsiz"
@@ -2924,7 +2930,7 @@ msgstr "Holat"
 msgid "Module maintenance"
 msgstr "Modulga texnik xizmat koʻrsatish"
 
-#: people/templates/people/_includes/person_overview.html:11
+#: people/templates/people/_includes/person_overview.html:10
 #, fuzzy, python-format
 #| msgid "Last login on %(last_login)s"
 msgid "Last login: %(last_login)s"
@@ -2937,33 +2943,33 @@ msgctxt "user status"
 msgid "No recent activity"
 msgstr "Joriy faoliyat"
 
-#: people/templates/people/_includes/person_overview.html:17
+#: people/templates/people/_includes/person_overview.html:18
 msgid "Web:"
 msgstr "Veb:"
 
-#: people/templates/people/_includes/person_overview.html:23
+#: people/templates/people/_includes/person_overview.html:24
 msgid "GitLab account:"
 msgstr "GitLab hisobi:"
 
-#: people/templates/people/_includes/person_overview.html:29
+#: people/templates/people/_includes/person_overview.html:30
 msgid "Discourse account:"
 msgstr "Diskurs hisobi:"
 
-#: people/templates/people/_includes/person_overview.html:35
+#: people/templates/people/_includes/person_overview.html:36
 msgid "Matrix account:"
 msgstr "Matritsa hisobi:"
 
-#: people/templates/people/_includes/person_overview.html:41
+#: people/templates/people/_includes/person_overview.html:42
 msgid "Authentication token:"
 msgstr "Autentifikatsiya belgisi:"
 
-#: people/templates/people/_includes/person_overview.html:44
+#: people/templates/people/_includes/person_overview.html:45
 #, fuzzy
 #| msgid "Show/hide archived translations"
 msgid "Show/hide the token"
 msgstr "Arxivlangan tarjimalarni koʻrsatish/yashirish"
 
-#: people/templates/people/_includes/person_overview.html:47
+#: people/templates/people/_includes/person_overview.html:48
 msgid "Copy the token"
 msgstr ""
 
@@ -5314,7 +5320,7 @@ msgid ""
 "manually."
 msgstr ""
 
-#: teams/admin.py:68 teams/models.py:188
+#: teams/admin.py:68 teams/models.py:192
 msgid "Team"
 msgstr "Jamoa"
 
@@ -5389,42 +5395,42 @@ msgstr "Pochta roʻyxati"
 msgid "URL to subscribe"
 msgstr "Obuna boʻlish uchun URL"
 
-#: teams/models.py:162
+#: teams/models.py:166
 #, python-format
 msgid "No team for locale %s"
 msgstr "%s tili boʻyicha jamoa yoʻq"
 
-#: teams/models.py:175
+#: teams/models.py:179
 msgid "Translator"
 msgstr "Tarjimon"
 
-#: teams/models.py:176
+#: teams/models.py:180
 msgid "Reviewer"
 msgstr "Taqrizchi"
 
-#: teams/models.py:177
+#: teams/models.py:181
 msgid "Committer"
 msgstr "Committer"
 
-#: teams/models.py:178
+#: teams/models.py:182
 msgid "Coordinator"
 msgstr "Muvofiqlashtiruvchi"
 
-#: teams/models.py:189 vertimus/admin.py:61 vertimus/admin.py:103
+#: teams/models.py:193 vertimus/admin.py:61 vertimus/admin.py:103
 #: vertimus/models.py:164 vertimus/models.py:633
 msgid "Person"
 msgstr "Shaxs"
 
-#: teams/models.py:191
+#: teams/models.py:195
 msgid "Role"
 msgstr "Rol"
 
 #. Translators: this refers to a person being active in a team or not
-#: teams/models.py:196
+#: teams/models.py:200
 msgid "Is active"
 msgstr "Faol emas"
 
-#: teams/models.py:198
+#: teams/models.py:202
 #, fuzzy
 #| msgid ""
 #| "Whether the person is active in the team or not. Account that have no recent"
@@ -7132,21 +7138,21 @@ msgstr "jumladan, <a href=\"%(img_url)s\">%(statistics)s ta rasm</a>"
 msgid "Latest POT file"
 msgstr "Eng soʻnggi POT fayl"
 
-#: vertimus/views.py:462
+#: vertimus/views.py:463
 msgid "No po file to check"
 msgstr "Tekshirish uchun po fayli yoʻq"
 
-#: vertimus/views.py:469
+#: vertimus/views.py:470
 #, python-format
 msgid ""
 "Sorry, the server was not able to run the quality checks on this file (%s)"
 msgstr "Kechirasiz, server ushbu fayl (%s) sifatini tekshira olmadi."
 
-#: vertimus/views.py:479
+#: vertimus/views.py:480
 msgid "The po file looks good!"
 msgstr "Po fayli yaxshi koʻrinadi!"
 
-#: vertimus/views.py:506
+#: vertimus/views.py:507
 msgid ""
 "WARNING: This file is <b>NOT</b> suitable as a base for completing this "
 "translation. It contains HTML markup to highlight differential parts of "
@@ -7156,11 +7162,11 @@ msgstr ""
 "<b>EMAS</b> . U oʻzgartirilgan satrlarning differentsial qismlarini ajratib "
 "koʻrsatish uchun HTML belgilarini oʻz ichiga oladi."
 
-#: vertimus/views.py:603
+#: vertimus/views.py:604
 msgid "No target po file for this action"
 msgstr "Ushbu amal uchun maqsadli po fayli yoʻq"
 
-#: vertimus/views.py:613
+#: vertimus/views.py:614
 msgid ""
 "You are not allowed to build the documentation. Only team members can "
 "perform this operation."

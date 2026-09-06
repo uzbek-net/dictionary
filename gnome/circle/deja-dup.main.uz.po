@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/work_items\n"
-"POT-Creation-Date: 2026-06-06 16:48+0000\n"
+"POT-Creation-Date: 2026-09-05 14:15+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -449,7 +449,7 @@ msgstr "Versiyani koʻsatish"
 msgid "Immediately start a backup"
 msgstr "Darhol zaxiralashni boshlash"
 
-#: app/main.vala:297
+#: app/main.vala:307
 msgid "translator-credits"
 msgstr "Maftuna Vahidjanova"
 
@@ -458,7 +458,7 @@ msgstr "Maftuna Vahidjanova"
 #. context is itself a reference to both the underlying command line tool
 #. "duplicity" and the act of duplicating data for backup.  As a whole, the
 #. phrase "Déjà Dup" may not be very translatable.
-#: app/main.vala:357 data/app.desktop.in:5 data/app.metainfo.xml.in:11
+#: app/main.vala:367 data/app.desktop.in:5 data/app.metainfo.xml.in:11
 #: data/ui/MainWindow.blp:11 data/ui/OverviewPage.blp:11
 #: data/ui/WelcomePage.blp:11
 msgid "Déjà Dup Backups"
@@ -1211,7 +1211,7 @@ msgid "Waiting for ‘%s’ to become connected…"
 msgstr "‘%s’ ulanishi kutilmoqda…"
 
 #: libdeja/BackendGoogle.vala:66 libdeja/BackendMicrosoft.vala:62
-#: libdeja/BackendRclone.vala:47 monitor/ReadyWatcher.vala:164
+#: libdeja/BackendRclone.vala:47 monitor/ReadyWatcher.vala:165
 msgid "Backup will begin when a network connection becomes available."
 msgstr "Zaxiralash tarmoq ulanishi mavjud boʻlganida boshlanadi."
 
@@ -1434,10 +1434,10 @@ msgstr "Fayllarni listlash…"
 msgid "Verifying backup…"
 msgstr "Zaxiralar tasdiqlanmoqda…"
 
-#: libdeja/Operation.vala:72 libdeja/duplicity/DuplicityJob.vala:305
-#: libdeja/duplicity/DuplicityJob.vala:316
-#: libdeja/duplicity/DuplicityJob.vala:344
-#: libdeja/duplicity/DuplicityJob.vala:358
+#: libdeja/Operation.vala:72 libdeja/duplicity/DuplicityJob.vala:309
+#: libdeja/duplicity/DuplicityJob.vala:320
+#: libdeja/duplicity/DuplicityJob.vala:348
+#: libdeja/duplicity/DuplicityJob.vala:362
 msgid "Preparing…"
 msgstr "Tayyorlanmoqda…"
 
@@ -1523,8 +1523,8 @@ msgstr ""
 msgid "Could not find storage location ‘%s’."
 msgstr "’%s’ xotirasi joylashuvi topilmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:79
-#: libdeja/duplicity/DuplicityJob.vala:139
+#: libdeja/duplicity/DuplicityJob.vala:83
+#: libdeja/duplicity/DuplicityJob.vala:143
 msgid "Paused (no network)"
 msgstr "Pauzaga qoʻyildi (tarmoq yoʻq)"
 
@@ -1533,22 +1533,22 @@ msgstr "Pauzaga qoʻyildi (tarmoq yoʻq)"
 #. If the user adds folders to their backup and the target is just too small,
 #. let them know.
 #. Tiny backup location.  Suggest they get a larger one.
-#: libdeja/duplicity/DuplicityJob.vala:483 libdeja/restic/ResticJob.vala:336
+#: libdeja/duplicity/DuplicityJob.vala:495 libdeja/restic/ResticJob.vala:336
 msgid "Backup location is too small."
 msgstr "Zaxira joylashuvi juda kichik."
 
-#: libdeja/duplicity/DuplicityJob.vala:484 libdeja/restic/ResticJob.vala:337
+#: libdeja/duplicity/DuplicityJob.vala:496 libdeja/restic/ResticJob.vala:337
 #, c-format
 msgid "Try using a location with at least %s."
 msgstr "Kamida %s boʻlgan joylashuvdan foydalanib koʻring."
 
-#: libdeja/duplicity/DuplicityJob.vala:485
+#: libdeja/duplicity/DuplicityJob.vala:497
 msgid "(Space for two full backups is required.)"
 msgstr "(Ikkita toʻliq zaxira uchun boʻsh joy kerak.)"
 
 #. Can't delete any more backup chains ourselves. Tell the user, so they can
 #. clear out space.
-#: libdeja/duplicity/DuplicityJob.vala:506
+#: libdeja/duplicity/DuplicityJob.vala:518
 #, c-format
 msgid ""
 "Backup location does not have enough free space. Please free up at least %s."
@@ -1556,7 +1556,7 @@ msgstr ""
 "Zaxira joylashuvida boʻsh joy yetarli emas. Iltimos, kamida %s joy "
 "boʻshating."
 
-#: libdeja/duplicity/DuplicityJob.vala:508
+#: libdeja/duplicity/DuplicityJob.vala:520
 #, c-format
 msgid ""
 "Backup location does not have enough free space. Try using a location with "
@@ -1565,8 +1565,8 @@ msgstr ""
 "Zaxira joylashuvida boʻsh joy yetarli emas. Kamida %s boʻsh joylashuvdan "
 "foydalanib koʻring."
 
-#: libdeja/duplicity/DuplicityJob.vala:528
-#: libdeja/duplicity/DuplicityJob.vala:542
+#: libdeja/duplicity/DuplicityJob.vala:540
+#: libdeja/duplicity/DuplicityJob.vala:554
 msgid "Cleaning up…"
 msgstr "Tozalanmoqda…"
 
@@ -1577,14 +1577,14 @@ msgstr "Tozalanmoqda…"
 #. frequently fix odd metadata errors with duplicity.  If we hit an error
 #. a second time, we'll show the unknown error message.
 #. Should emit some sort of error...
-#: libdeja/duplicity/DuplicityJob.vala:640
-#: libdeja/duplicity/DuplicityJob.vala:1041
+#: libdeja/duplicity/DuplicityJob.vala:671
+#: libdeja/duplicity/DuplicityJob.vala:1072
 #: libdeja/libtool/ToolJoblet.vala:102 libdeja/restic/ResticInstance.vala:177
 msgid "Failed with an unknown error."
 msgstr "Nomaʻlum xatolik bilan xatolik yuz berdi."
 
 #. notify upper layers, if they want to do anything
-#: libdeja/duplicity/DuplicityJob.vala:850
+#: libdeja/duplicity/DuplicityJob.vala:881
 msgid "Bad encryption password."
 msgstr "Yomon shifrlash maxfiy soʻzi."
 
@@ -1596,23 +1596,23 @@ msgstr "Yomon shifrlash maxfiy soʻzi."
 #. (bad configuration files or something).
 #. We also check the English string in case there's a language misconfig
 #. and gpg isn't giving us the translated strings.
-#: libdeja/duplicity/DuplicityJob.vala:863
+#: libdeja/duplicity/DuplicityJob.vala:894
 msgid "No secret key"
 msgstr "Maxfiy kalit yoʻq"
 
-#: libdeja/duplicity/DuplicityJob.vala:865
+#: libdeja/duplicity/DuplicityJob.vala:896
 msgid "Bad session key"
 msgstr "Yomon seans kalit"
 
 #. make text a little nicer than duplicity gives
 #. duplicity gives something like "home/blah/blah not found in archive,
 #. no files restored".
-#: libdeja/duplicity/DuplicityJob.vala:901
+#: libdeja/duplicity/DuplicityJob.vala:932
 #, c-format
 msgid "Could not restore ‘%s’: File not found in backup"
 msgstr "‘%s’ tiklab boʻlmadi. Fayl zaxirada topilmadi"
 
-#: libdeja/duplicity/DuplicityJob.vala:912
+#: libdeja/duplicity/DuplicityJob.vala:943
 #, c-format
 msgid ""
 "The existing backup is of a computer named %s, but the current computer’s "
@@ -1623,65 +1623,65 @@ msgstr ""
 "kompyuterning nomi %s. Agar bu kutilmagan boʻlsa, zaxira nusxasini boshqa "
 "joyga saqlashingiz kerak."
 
-#: libdeja/duplicity/DuplicityJob.vala:915
+#: libdeja/duplicity/DuplicityJob.vala:946
 msgid "Unexpected computer name encountered"
 msgstr "Kutilmagan kompyuter nomi topildi"
 
-#: libdeja/duplicity/DuplicityJob.vala:916
+#: libdeja/duplicity/DuplicityJob.vala:947
 msgid "Computer Name Changed"
 msgstr "Kompyuter nomi oʻzgartirildi"
 
-#: libdeja/duplicity/DuplicityJob.vala:954
+#: libdeja/duplicity/DuplicityJob.vala:985
 #, c-format
 msgid "Permission denied when trying to create ‘%s’."
 msgstr "‘%s’ yaratish payti ruxsat berilmadi."
 
 #. assume error is on backend side
-#: libdeja/duplicity/DuplicityJob.vala:958
-#: libdeja/duplicity/DuplicityJob.vala:962
+#: libdeja/duplicity/DuplicityJob.vala:989
+#: libdeja/duplicity/DuplicityJob.vala:993
 #, c-format
 msgid "Permission denied when trying to read ‘%s’."
 msgstr "‘%s’ oʻqish payti ruxsat berilmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:966
+#: libdeja/duplicity/DuplicityJob.vala:997
 #, c-format
 msgid "Permission denied when trying to delete ‘%s’."
 msgstr "‘%s’ oʻchirish payti ruxsat berilmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:973
+#: libdeja/duplicity/DuplicityJob.vala:1004
 #, c-format
 msgid "Backup location ‘%s’ does not exist."
 msgstr "Zaxira manzili ‘%s’ mavjud emas."
 
-#: libdeja/duplicity/DuplicityJob.vala:979
-#: libdeja/duplicity/DuplicityJob.vala:1012
+#: libdeja/duplicity/DuplicityJob.vala:1010
+#: libdeja/duplicity/DuplicityJob.vala:1043
 msgid "No space left."
 msgstr "Joy qolmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:1001
+#: libdeja/duplicity/DuplicityJob.vala:1032
 #, c-format
 msgid "Error reading file ‘%s’."
 msgstr "‘%s’ faylini oʻqishda xatolik."
 
-#: libdeja/duplicity/DuplicityJob.vala:1003
+#: libdeja/duplicity/DuplicityJob.vala:1034
 #, c-format
 msgid "Error writing file ‘%s’."
 msgstr "‘%s’ faylini yozishda xatolik."
 
-#: libdeja/duplicity/DuplicityJob.vala:1014
+#: libdeja/duplicity/DuplicityJob.vala:1045
 #, c-format
 msgid "No space left in ‘%s’."
 msgstr "‘%s’ joy qolmadi."
 
-#: libdeja/duplicity/DuplicityJob.vala:1022
+#: libdeja/duplicity/DuplicityJob.vala:1053
 msgid "No backup files found"
 msgstr "Hech qanday zaxira fayllari topilmadi"
 
-#: libdeja/duplicity/DuplicityJob.vala:1072
+#: libdeja/duplicity/DuplicityJob.vala:1103
 msgid "Uploading…"
 msgstr "Yuklanmoqda…"
 
-#: libdeja/duplicity/DuplicityJob.vala:1544
+#: libdeja/duplicity/DuplicityJob.vala:1575
 msgid "could not restore test file"
 msgstr "sinov faylini qayta tiklab boʻlmadi"
 
@@ -1761,11 +1761,11 @@ msgstr "Restikni versiyasini tushunib boʻlmadi."
 msgid "This storage location is not yet supported."
 msgstr "Bu saqlash joyi hali qoʻllab-quvvatlanmaydi."
 
-#: monitor/ReadyWatcher.vala:155
+#: monitor/ReadyWatcher.vala:156
 msgid "Backup will begin when power saver mode is no longer active."
 msgstr "Quvvat tejash rejimi faol emasligida zaxiralash boshlanadi."
 
-#: monitor/ReadyWatcher.vala:169
+#: monitor/ReadyWatcher.vala:170
 msgid ""
 "Backup will begin when an unmetered network connection becomes available."
 msgstr "Hisoblanmagan tarmoq aloqasi mavjudligida zaxiralash boshlanadi."
