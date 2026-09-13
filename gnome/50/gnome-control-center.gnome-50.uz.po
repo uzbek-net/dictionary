@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-control-center-2.0 trunk\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/issues\n"
-"POT-Creation-Date: 2026-07-31 10:18+0000\n"
+"POT-Creation-Date: 2026-09-08 12:16+0000\n"
 "PO-Revision-Date: 2025-10-13 17:32+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -7841,8 +7841,11 @@ msgstr "Parol"
 msgid "_Generate New Password"
 msgstr "Yangi parol yarating"
 
-#: panels/system/remote-desktop/cc-desktop-sharing-page.blp:140
-#: panels/system/remote-desktop/cc-remote-login-page.blp:131
+#. Translators: "Fingerprint" refers to verifying a TLS/cryptographic key
+#. fingerprint for Remote Desktop, not a fingerprint scanner for user
+#. authentication.
+#: panels/system/remote-desktop/cc-desktop-sharing-page.blp:141
+#: panels/system/remote-desktop/cc-remote-login-page.blp:132
 #, fuzzy
 #| msgid "_Delete Fingerprints"
 msgid "_Verify Fingerprint"

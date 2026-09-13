@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json-glib main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/json-glib/issues/\n"
-"POT-Creation-Date: 2025-10-21 23:33+0000\n"
+"POT-Creation-Date: 2026-09-09 21:21+0000\n"
 "PO-Revision-Date: 2025-04-08 08:04+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -193,27 +193,27 @@ msgstr "Ildiz tugunidan keyin notoʻgʻri belgi “%c” keldi"
 msgid "Missing member name or wildcard after . character"
 msgstr ". belgisidan keyin a’zo nomi yoki * belgisi boʻlishi kerak"
 
-#: json-glib/json-path.c:514
+#: json-glib/json-path.c:521
 #, c-format
 msgid "Malformed slice expression “%*s”"
 msgstr "Slice ifodasi notoʻgʻri tuzilgan: “%*s”"
 
-#: json-glib/json-path.c:558
+#: json-glib/json-path.c:565
 #, c-format
 msgid "Invalid set definition “%*s”"
 msgstr "Notoʻgʻri toʻplam aniqlanishi: “%*s”"
 
-#: json-glib/json-path.c:611
+#: json-glib/json-path.c:625
 #, c-format
 msgid "Invalid slice definition “%*s”"
 msgstr "Notoʻgʻri slice aniqlanishi: “%*s”"
 
-#: json-glib/json-path.c:639
+#: json-glib/json-path.c:653
 #, c-format
 msgid "Invalid array index definition “%*s”"
 msgstr "Notoʻgʻri massiv indeksi aniqlanishi: “%*s”"
 
-#: json-glib/json-path.c:658
+#: json-glib/json-path.c:672
 #, c-format
 msgid "Invalid first character “%c”"
 msgstr "Notoʻgʻri birinchi belgi: “%c”"

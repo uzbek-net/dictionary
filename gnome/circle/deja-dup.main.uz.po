@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/work_items\n"
-"POT-Creation-Date: 2026-09-05 14:15+0000\n"
+"POT-Creation-Date: 2026-09-07 21:51+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -683,13 +683,15 @@ msgstr ""
 
 #: data/app.gschema.xml.in:161 data/app.gschema.xml.in:184
 #: data/app.gschema.xml.in:197 data/app.gschema.xml.in:205
-#: data/app.gschema.xml.in:212 data/app.gschema.xml.in:224
+#: data/app.gschema.xml.in:213 data/app.gschema.xml.in:226
 msgid "The folder where backups are stored"
 msgstr "Ushbu jildlar har doim eʻtiborsiz qoldiriladi"
 
 #: data/app.gschema.xml.in:162
 msgid ""
-"The folder hierarchy where backups are stored. Paths can be absolute or "
+"The folder hierarchy where backups are stored. Reserved value $HOSTNAME is "
+"replaced by the local device’s hostname and $USER is replaced by the user’s "
+"username, and each can be anywhere in the path. Paths can be absolute or "
 "relative to your home directory."
 msgstr ""
 
@@ -720,12 +722,12 @@ msgid "The icon of the external drive, as a serialized GIcon."
 msgstr ""
 
 #: data/app.gschema.xml.in:185
-#, fuzzy
-#| msgid "The folder where backups are stored"
 msgid ""
-"The folder hierarchy where backups are stored. Paths are relative to the "
+"The folder hierarchy where backups are stored. Reserved value $HOSTNAME is "
+"replaced by the local device’s hostname and $USER is replaced by the user’s "
+"username, and each can be anywhere in the path. Paths are relative to the "
 "drive."
-msgstr "Ushbu jildlar har doim eʻtiborsiz qoldiriladi"
+msgstr ""
 
 #: data/app.gschema.xml.in:192
 msgid "The server address"
@@ -735,17 +737,26 @@ msgstr "Server manzili"
 msgid "The URI of the remote server location."
 msgstr ""
 
-#: data/app.gschema.xml.in:198 data/app.gschema.xml.in:225
+#: data/app.gschema.xml.in:198 data/app.gschema.xml.in:227
 msgid ""
-"The folder hierarchy where backups are stored. Paths can be absolute or "
+"The folder hierarchy where backups are stored. Reserved value $HOSTNAME is "
+"replaced by the local device’s hostname and $USER is replaced by the user’s "
+"username, and each can be anywhere in the path. Paths can be absolute or "
 "relative to the host."
 msgstr ""
 
-#: data/app.gschema.xml.in:219
+#: data/app.gschema.xml.in:206 data/app.gschema.xml.in:214
+msgid ""
+"The folder hierarchy where backups are stored. Reserved value $HOSTNAME is "
+"replaced by the local device’s hostname and $USER is replaced by the user’s "
+"username, and each can be anywhere in the path."
+msgstr ""
+
+#: data/app.gschema.xml.in:221
 msgid "The Rclone remote"
 msgstr ""
 
-#: data/app.gschema.xml.in:220
+#: data/app.gschema.xml.in:222
 msgid ""
 "The name of a pre-configured Rclone remote. See Rclone documentation for how"
 " to configure one."
@@ -1191,7 +1202,7 @@ msgstr "Barchasini tanlash"
 #. Translators: %2$s is the name of a removable drive, %1$s is a folder
 #. on that removable drive.
 #. translators: this is "folder-name on server-host"
-#: libdeja/BackendDrive.vala:75 libdeja/CommonUtils.vala:557
+#: libdeja/BackendDrive.vala:75 libdeja/CommonUtils.vala:561
 #, c-format
 msgid "%1$s on %2$s"
 msgstr "%1$s %2$sʼda"
@@ -1372,22 +1383,22 @@ msgid "Could not mount storage location."
 msgstr "Saqlash joyini oʻrnatib boʻlmadi."
 
 #. Translators: this is the home folder and %s is the user's username
-#: libdeja/CommonUtils.vala:614
+#: libdeja/CommonUtils.vala:618
 #, c-format
 msgid "Home (%s)"
 msgstr "Uy (%s)"
 
 #. Translators: this is the home folder
-#: libdeja/CommonUtils.vala:619
+#: libdeja/CommonUtils.vala:623
 msgid "Home"
 msgstr "Uy"
 
 #. Translators: this is the trash folder
-#: libdeja/CommonUtils.vala:624
+#: libdeja/CommonUtils.vala:628
 msgid "Trash"
 msgstr "Chiqindi"
 
-#: libdeja/CommonUtils.vala:688
+#: libdeja/CommonUtils.vala:692
 msgid "Backup encryption password"
 msgstr "Zaxira shifrlash paroli"
 

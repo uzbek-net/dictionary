@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
-"POT-Creation-Date: 2026-08-30 20:19+0000\n"
+"POT-Creation-Date: 2026-09-06 11:05+0000\n"
 "PO-Revision-Date: 2025-05-14 21:12+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -448,28 +448,28 @@ msgstr ""
 "Tree List. Uning funktsiyalari plaginlar va skriptlar bilan kengaytirilishi "
 "mumkin."
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:48 src/nautilus-window.c:1745
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:49 src/nautilus-window.c:1745
 #: src/nautilus-window.c:1750 src/nautilus-window.c:1755
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:62
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:63
 #: src/nautilus-files-view.c:9692
 msgid "Grid View"
 msgstr "Jadval shaklida"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:66
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:67
 #: src/nautilus-files-view.c:9699
 msgid "List View"
 msgstr "Roʻyxat koʻrinishi"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:70
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:71
 #: src/nautilus-search-directory-file.c:230
 #: src/nautilus-search-directory-file.c:269
 msgid "Search"
 msgstr "Qidirish"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:74
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:75
 msgid "Selection of Multiple Files"
 msgstr ""
 

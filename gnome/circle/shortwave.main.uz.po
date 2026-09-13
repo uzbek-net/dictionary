@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shortwave main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Shortwave/issues\n"
-"POT-Creation-Date: 2026-07-23 09:41+0000\n"
+"POT-Creation-Date: 2026-09-10 18:18+0000\n"
 "PO-Revision-Date: 2025-10-24 19:45+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -114,7 +114,7 @@ msgstr "Oqim URL manzili"
 msgid "Add Station"
 msgstr "Radiokanal qoʻshish"
 
-#: data/gtk/device_dialog.ui:7 data/gtk/player_view.ui:134
+#: data/gtk/device_dialog.ui:7 data/gtk/player_view.ui:135
 msgid "Connect Device"
 msgstr "Qurilmani ulash"
 
@@ -301,31 +301,31 @@ msgstr ""
 msgid "_Help"
 msgstr ""
 
-#: data/gtk/player_gadget.ui:40 data/gtk/player_toolbar.ui:92
-#: data/gtk/player_view.ui:158 data/gtk/station_row.ui:86
+#: data/gtk/player_gadget.ui:40 data/gtk/player_toolbar.ui:93
+#: data/gtk/player_view.ui:159 data/gtk/station_row.ui:86
 msgid "Play"
 msgstr "Oʻynash"
 
-#: data/gtk/player_gadget.ui:55 data/gtk/player_toolbar.ui:106
-#: data/gtk/player_view.ui:172
+#: data/gtk/player_gadget.ui:55 data/gtk/player_toolbar.ui:107
+#: data/gtk/player_view.ui:173
 msgid "Stop"
 msgstr "Toʻxtatish"
 
-#: data/gtk/player_gadget.ui:71 data/gtk/player_toolbar.ui:121
-#: data/gtk/player_view.ui:187
+#: data/gtk/player_gadget.ui:71 data/gtk/player_toolbar.ui:122
+#: data/gtk/player_view.ui:188
 msgid "Buffering…"
 msgstr "Yuklanmoqda…"
 
 #: data/gtk/player_gadget.ui:139 data/gtk/player_toolbar.ui:29
-#: data/gtk/player_view.ui:58 src/app.rs:269
+#: data/gtk/player_view.ui:58 src/app.rs:268
 msgid "No Playback"
 msgstr "Qayta ijro qilinmaydi"
 
-#: data/gtk/player_gadget.ui:198
+#: data/gtk/player_gadget.ui:199
 msgid "Close"
 msgstr "Yopish"
 
-#: data/gtk/player_gadget.ui:209
+#: data/gtk/player_gadget.ui:210
 msgid "Restore Window"
 msgstr "Oynani tiklash"
 
@@ -333,19 +333,19 @@ msgstr "Oynani tiklash"
 msgid "Enable Gadget Mode"
 msgstr "Gadjet rejimini yoqish"
 
-#: data/gtk/player_view.ui:217
+#: data/gtk/player_view.ui:218
 msgid "Show Station Details"
 msgstr "Radiokanal tafsilotlarini koʻrsatish"
 
-#: data/gtk/player_view.ui:268
+#: data/gtk/player_view.ui:269
 msgid "No Tracks"
 msgstr "Hech qanday tarona yoʻq"
 
-#: data/gtk/player_view.ui:279
+#: data/gtk/player_view.ui:280
 msgid "Played tracks will appear here"
 msgstr "Ijro etilgan taronalar shu yerda chiqadi"
 
-#: data/gtk/player_view.ui:313
+#: data/gtk/player_view.ui:314
 msgid "An error occurred"
 msgstr "Ichki xatolik yuz berdi"
 
@@ -663,20 +663,22 @@ msgstr "Saqlandi"
 msgid "Toggle Mute"
 msgstr "Ovozni oʻchirish/yoqish"
 
-#: src/app.rs:85
+#: src/app.rs:84
 msgid "Track no longer available"
 msgstr "Tarona endi mavjud emas"
 
-#: src/app.rs:109 src/app.rs:133
+#: src/app.rs:108 src/app.rs:132
 msgid "This track is currently not being recorded"
 msgstr "Bu tarona hozirda yozib olinmayapti"
 
-#: src/app.rs:370
+#: src/app.rs:365
 msgid "Active Playback"
 msgstr "Faol ijro"
 
 #: src/audio/player.rs:455
-msgid "Don't Record"
+#, fuzzy
+#| msgid "Don't Record"
+msgid "Don’t Record"
 msgstr "Yozib olinmasin"
 
 #: src/audio/recording_state.rs:53 src/audio/recording_state.rs:55
@@ -712,8 +714,11 @@ msgid "The track contains a word that is on the ignore list"
 msgstr "Taronada e’tiborsiz qoldirish roʻyxatidagi soʻz mavjud"
 
 #: src/audio/recording_state.rs:73
+#, fuzzy
+#| msgid ""
+#| "The track wasn't played from the beginning, so it can't be fully recorded"
 msgid ""
-"The track wasn't played from the beginning, so it can't be fully recorded"
+"The track wasn’t played from the beginning, so it can’t be fully recorded"
 msgstr ""
 "Tarona boshidan ijro qilinmadi, shuning uchun uni toʻliq yozib olish "
 "imkonsiz"
@@ -836,32 +841,32 @@ msgstr "{} kbit/s"
 msgid "Copied"
 msgstr "Nusxa olingan"
 
-#: src/utils.rs:50
+#: src/utils.rs:56
 #, rust-format
 msgid "{} hour"
 msgid_plural "{} hours"
 msgstr[0] "{} soat"
 
-#: src/utils.rs:56
+#: src/utils.rs:62
 #, rust-format
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "{} daqiqa"
 
-#: src/utils.rs:61
+#: src/utils.rs:67
 #, rust-format
 msgid "{} second"
 msgid_plural "{} seconds"
 msgstr[0] "{} soniya"
 
-#: src/utils.rs:71
+#: src/utils.rs:77
 #, rust-format
 msgid "{hours} {mins} {secs}"
 msgstr ""
 
 #. Translators: Do NOT translate the content between '{' and '}', this is a
 #. variable name.
-#: src/utils.rs:79
+#: src/utils.rs:85
 #, rust-format
 msgid "{mins} {secs}"
 msgstr ""

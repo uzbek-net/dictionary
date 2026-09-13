@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-09-03 22:31+0000\n"
+"POT-Creation-Date: 2026-09-11 18:59+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -763,8 +763,8 @@ msgstr ""
 "Majburiy toʻxtatish har qanday ishlayotgan ilova va jarayonlarni toʻxtatadi "
 "va ma’lumotlar yoʻqolishiga olib kelishi mumkin"
 
-#: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:191
-#: js/ui/audioDeviceSelection.js:60 js/ui/components/networkAgent.js:114
+#: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:192
+#: js/ui/audioDeviceSelection.js:61 js/ui/components/networkAgent.js:114
 #: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:406
 #: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:399
 #: js/ui/shellMountOperation.js:409
@@ -995,7 +995,7 @@ msgid "Break in %d second"
 msgid_plural "Break in %d seconds"
 msgstr[0] "%d soniyada tanaffus"
 
-#: js/misc/brightnessManager.js:292 js/ui/status/brightness.js:10
+#: js/misc/brightnessManager.js:294 js/ui/status/brightness.js:10
 msgid "Brightness"
 msgstr "Yorqinlik"
 
@@ -1353,23 +1353,23 @@ msgstr "Oʻrnatilgan grafik karta yordamida ishga tushiring"
 msgid "Launch Using Discrete Graphics Card"
 msgstr "Diskret grafik karta yordamida ishga tushirish"
 
-#: js/ui/audioDeviceSelection.js:46
+#: js/ui/audioDeviceSelection.js:47
 msgid "Select Audio Device"
 msgstr "Audio qurilmani tanlang"
 
-#: js/ui/audioDeviceSelection.js:67 js/ui/status/volume.js:81
+#: js/ui/audioDeviceSelection.js:68 js/ui/status/volume.js:81
 msgid "Sound Settings"
 msgstr "Ovoz sozlamalari"
 
-#: js/ui/audioDeviceSelection.js:75
+#: js/ui/audioDeviceSelection.js:76
 msgid "Headphones"
 msgstr "Quloqchinlar"
 
-#: js/ui/audioDeviceSelection.js:77
+#: js/ui/audioDeviceSelection.js:78
 msgid "Headset"
 msgstr "Quloqchin"
 
-#: js/ui/audioDeviceSelection.js:79 js/ui/status/volume.js:372
+#: js/ui/audioDeviceSelection.js:80 js/ui/status/volume.js:372
 msgid "Microphone"
 msgstr "Mikrofon"
 
@@ -1511,19 +1511,19 @@ msgstr "Majburiy chiqish"
 msgid "Wait"
 msgstr "Kutib turing"
 
-#: js/ui/components/automountManager.js:82
+#: js/ui/components/automountManager.js:87
 msgid "External drive connected"
 msgstr "Tashqi disk ulangan"
 
-#: js/ui/components/automountManager.js:95
+#: js/ui/components/automountManager.js:100
 msgid "External drive disconnected"
 msgstr "Tashqi disk uzildi"
 
-#: js/ui/components/automountManager.js:209
+#: js/ui/components/automountManager.js:214
 msgid "Unable to unlock volume"
 msgstr "Ovoz balandligini ochib boʻlmadi"
 
-#: js/ui/components/automountManager.js:210
+#: js/ui/components/automountManager.js:215
 msgid "The installed udisks version does not support the PIM setting"
 msgstr "Oʻrnatilgan udisks versiyasi PIM sozlamalarini qoʻllab-quvvatlamaydi"
 
@@ -1550,7 +1550,7 @@ msgstr ""
 "mumkin"
 
 #: js/ui/components/networkAgent.js:108 js/ui/status/bluetooth.js:245
-#: js/ui/status/network.js:357 js/ui/status/network.js:441
+#: js/ui/status/network.js:361 js/ui/status/network.js:445
 msgid "Connect"
 msgstr "Ulanish"
 
@@ -1963,7 +1963,7 @@ msgstr "Qoldirish"
 msgid "Turn On"
 msgstr "Yoqish; ishga tushirish"
 
-#: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:452
+#: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:456
 msgid "Turn Off"
 msgstr "Oʻchirib qoʻyish"
 
@@ -2060,7 +2060,7 @@ msgstr "Ekranni qulflash GNOME displey menejerini talab qiladi"
 
 #. Translators: this is the string displayed in the header when a message
 #. source doesn't have a name
-#: js/ui/messageList.js:406
+#: js/ui/messageList.js:409
 msgid "Unknown App"
 msgstr "Noma'lum ilova"
 
@@ -2297,15 +2297,15 @@ msgstr "Rasmni buferdan joylashtirishingiz mumkin"
 msgid "Screenshot taken"
 msgstr "Skrinshot olingan"
 
-#: js/ui/search.js:869
+#: js/ui/search.js:872
 msgid "Searching"
 msgstr "Qidirilmoqda"
 
-#: js/ui/search.js:872
+#: js/ui/search.js:875
 msgid "No results"
 msgstr "Natija yoʻq"
 
-#: js/ui/search.js:1008
+#: js/ui/search.js:1011
 #, javascript-format
 msgid "%d more"
 msgid_plural "%d more"
@@ -2481,18 +2481,18 @@ msgstr "Klaviatura"
 msgid "Open keyboard brightness menu"
 msgstr "Klaviatura yoritish menyusini ochish"
 
-#: js/ui/status/bluetooth.js:245 js/ui/status/network.js:357
+#: js/ui/status/bluetooth.js:245 js/ui/status/network.js:361
 msgid "Disconnect"
 msgstr "Uzing"
 
 #. Translators: %s is a device name like "MyPhone"
-#: js/ui/status/bluetooth.js:266 js/ui/status/network.js:351
+#: js/ui/status/bluetooth.js:266 js/ui/status/network.js:355
 #, javascript-format
 msgid "Disconnect %s"
 msgstr "%s aloqasini uzing"
 
 #. Translators: %s is a device name like "MyPhone"
-#: js/ui/status/bluetooth.js:268 js/ui/status/network.js:353
+#: js/ui/status/bluetooth.js:268 js/ui/status/network.js:357
 #, javascript-format
 msgid "Connect to %s"
 msgstr "%s ga ulaning"
@@ -2505,7 +2505,7 @@ msgstr "Bluetooth"
 msgid "Open Bluetooth menu"
 msgstr "Bluetooth menyusini ochish"
 
-#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1935
+#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1937
 msgid "Bluetooth Settings"
 msgstr "Bluetooth sozlamalari"
 
@@ -2588,15 +2588,15 @@ msgstr "Ruxsat berish"
 msgid "<unknown>"
 msgstr "noma’lum turi"
 
-#: js/ui/status/network.js:1057
+#: js/ui/status/network.js:1061
 msgid "Secure"
 msgstr "Xavfsiz"
 
-#: js/ui/status/network.js:1057
+#: js/ui/status/network.js:1061
 msgid "Not secure"
 msgstr "Xavfsiz emas"
 
-#: js/ui/status/network.js:1058
+#: js/ui/status/network.js:1062
 #, javascript-format
 msgid "Signal strength %s%%"
 msgstr "Signal kuchi %s%%"
@@ -2604,98 +2604,98 @@ msgstr "Signal kuchi %s%%"
 #. translators: The first placeholder is the network name, the second and
 #. indication whether it is secure, and the last the signal strength
 #. indication
-#: js/ui/status/network.js:1060
+#: js/ui/status/network.js:1064
 #, javascript-format
 msgid "%s, %s, %s"
 msgstr "%s,%s,%s"
 
 #. Translators: %s is a network identifier
-#: js/ui/status/network.js:1163
+#: js/ui/status/network.js:1165
 #, javascript-format
 msgid "%s Hotspot"
 msgstr "%s Hotspot"
 
-#: js/ui/status/network.js:1444
+#: js/ui/status/network.js:1446
 #, javascript-format
 msgid "%d connected"
 msgid_plural "%d connected"
 msgstr[0] "%d ulandi"
 
-#: js/ui/status/network.js:1542 js/ui/status/network.js:1559
+#: js/ui/status/network.js:1544 js/ui/status/network.js:1561
 msgid "VPN"
 msgstr "VPN"
 
-#: js/ui/status/network.js:1543
+#: js/ui/status/network.js:1545
 msgid "Open VPN menu"
 msgstr "VPN menyusini ochish"
 
-#: js/ui/status/network.js:1544
+#: js/ui/status/network.js:1546
 msgid "VPN Settings"
 msgstr "VPN sozlamalari"
 
-#: js/ui/status/network.js:1804
+#: js/ui/status/network.js:1806
 msgid "Wi–Fi"
 msgstr "Wi-Fi"
 
-#: js/ui/status/network.js:1805
+#: js/ui/status/network.js:1807
 msgid "Open Wi–Fi menu"
 msgstr "Wi-Fi menyusini ochish"
 
-#: js/ui/status/network.js:1807
+#: js/ui/status/network.js:1809
 msgid "All Networks"
 msgstr "Barcha tarmoqlar"
 
-#: js/ui/status/network.js:1917
+#: js/ui/status/network.js:1919
 msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
-#: js/ui/status/network.js:1918
+#: js/ui/status/network.js:1920
 msgid "Open wired connections menu"
 msgstr "Simli ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1919
+#: js/ui/status/network.js:1921
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
-#: js/ui/status/network.js:1933
+#: js/ui/status/network.js:1935
 msgid "Bluetooth Tethers"
 msgstr "Bluetooth tethers"
 
-#: js/ui/status/network.js:1934
+#: js/ui/status/network.js:1936
 msgid "Open Bluetooth tethers menu"
 msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
-#: js/ui/status/network.js:1941
+#: js/ui/status/network.js:1943
 msgid "Tether"
 msgstr "Tether"
 
-#: js/ui/status/network.js:1954
+#: js/ui/status/network.js:1956
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
-#: js/ui/status/network.js:1955
+#: js/ui/status/network.js:1957
 msgid "Open mobile connections menu"
 msgstr "Mobil ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1957
+#: js/ui/status/network.js:1959
 msgid "Mobile Broadband Settings"
 msgstr "Keng polosali mobil moslamalar"
 
 #. Translators: "Mobile" from "Mobile Broadband"
-#: js/ui/status/network.js:1966
+#: js/ui/status/network.js:1968
 msgid "Mobile"
 msgstr "Mobil"
 
-#: js/ui/status/network.js:2000
+#: js/ui/status/network.js:2002
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
-#: js/ui/status/network.js:2187
+#: js/ui/status/network.js:2189
 msgid "Connection failed"
 msgstr "Ulanish amalga oshmadi"
 
-#: js/ui/status/network.js:2188
+#: js/ui/status/network.js:2190
 msgid "Activation of network connection failed"
 msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 

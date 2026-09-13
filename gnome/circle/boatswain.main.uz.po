@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boatswain main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/boatswain/issues\n"
-"POT-Creation-Date: 2026-09-05 15:31+0000\n"
+"POT-Creation-Date: 2026-09-13 03:05+0000\n"
 "PO-Revision-Date: 2025-10-03 19:25+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -143,7 +143,7 @@ msgstr "Feaneron Hangar Mild"
 msgid "Feaneron Hangar XL"
 msgstr "Feaneron Hangar XL"
 
-#: lib/bs-device.c:366
+#: lib/bs-device.c:314
 msgid "Default"
 msgstr "Standart"
 
@@ -169,15 +169,15 @@ msgstr ""
 "Stream Deck harakatlarini aniqlash va bajarish uchun Boatswain fonda "
 "ishlashi kerak."
 
-#: src/bs-button-editor.c:327
+#: src/bs-button-editor.c:297
 msgid "All supported formats"
 msgstr "Barcha mos formatlar"
 
-#: src/bs-button-editor.c:336
+#: src/bs-button-editor.c:306
 msgid "Select icon"
 msgstr "Belgini tanlang"
 
-#: src/bs-button-editor.c:337
+#: src/bs-button-editor.c:307
 #: src/plugins/network/network-http-action-prefs.c:147
 msgid "Open"
 msgstr "Ochiq"

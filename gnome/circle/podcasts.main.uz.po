@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: podcasts main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/podcasts/issues\n"
-"POT-Creation-Date: 2026-09-02 11:29+0000\n"
+"POT-Creation-Date: 2026-09-09 19:02+0000\n"
 "PO-Revision-Date: 2025-10-24 13:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -103,6 +103,99 @@ msgstr "Tasma URL manzili orqali yangi shou qoʻshish"
 #: podcasts-gtk/resources/gtk/empty_view.ui:76
 msgid "Import shows from another device"
 msgstr "Boshqa qurilmadan koʻrsatuvlarni import qilish"
+
+#. Translators: (in a filter menu) sort "Newest" episodes on top of the list
+#: podcasts-gtk/resources/gtk/filter_menu.ui:28
+msgid "Newest First"
+msgstr ""
+
+#. Translators: (in a filter menu) sort "Oldest" episodes on top of the list
+#: podcasts-gtk/resources/gtk/filter_menu.ui:34
+msgid "Oldest First"
+msgstr ""
+
+#. Translators: (in a filter menu) list "All" episodes regardless of play
+#. status
+#. Translators: (in a filter menu) list "All" episodes regardless of download
+#. status
+#. Translators: (in a filter menu) list "All" Shows regardless of completion
+#. status
+#. Translators: (in a filter menu) list "All" Shows regardless if they have
+#. downloaded episodes
+#: podcasts-gtk/resources/gtk/filter_menu.ui:43
+#: podcasts-gtk/resources/gtk/filter_menu.ui:64
+#: podcasts-gtk/resources/gtk/filter_menu.ui:104
+#: podcasts-gtk/resources/gtk/filter_menu.ui:125
+msgid "All"
+msgstr ""
+
+#. Translators: (in a filter menu) list only "Played" episodes
+#: podcasts-gtk/resources/gtk/filter_menu.ui:49
+#, fuzzy
+#| msgid "Player"
+msgid "Played"
+msgstr "Pleyer"
+
+#. Translators: (in a filter menu) list only "Not Played" episodes
+#: podcasts-gtk/resources/gtk/filter_menu.ui:55
+#, fuzzy
+#| msgid "Player"
+msgid "Not Played"
+msgstr "Pleyer"
+
+#. Translators: (in a filter menu) list only "Downloaded" episodes
+#. Translators: (in a filter menu) filter for Shows with "Downloaded" episodes
+#: podcasts-gtk/resources/gtk/filter_menu.ui:70
+#: podcasts-gtk/resources/gtk/filter_menu.ui:131
+#, fuzzy
+#| msgid "_Download"
+msgid "Downloaded"
+msgstr "Yuklab olish"
+
+#. Translators: (in a filter menu) list only "Not Downloaded" episodes
+#. Translators: (in a filter menu) filter for Shows with no "Downloaded"
+#. episodes
+#: podcasts-gtk/resources/gtk/filter_menu.ui:76
+#: podcasts-gtk/resources/gtk/filter_menu.ui:137
+#, fuzzy
+#| msgid "_Download"
+msgid "Not Downloaded"
+msgstr "Yuklab olish"
+
+#. Translators: (in a filter menu) Sorting Shows in alphabetical
+#: podcasts-gtk/resources/gtk/filter_menu.ui:89
+msgid "Alphabetical"
+msgstr ""
+
+#. Translators: (in a filter menu) Sorting Shows in reverse alphabetical
+#: podcasts-gtk/resources/gtk/filter_menu.ui:95
+msgid "Reversed"
+msgstr ""
+
+#. Translators: (in a filter menu) filter for Shows where all episodes were
+#. played
+#: podcasts-gtk/resources/gtk/filter_menu.ui:110
+msgid "Completed"
+msgstr ""
+
+#. Translators: (in a filter menu) filter for Shows with unplayed episodes
+#: podcasts-gtk/resources/gtk/filter_menu.ui:116
+msgid "Not Completed"
+msgstr ""
+
+#. Translators: Tooltip text for a button that toggles the search bar
+#: podcasts-gtk/resources/gtk/filter_menu.ui:152
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Toggle Pause"
+msgid "Toggle Search"
+msgstr "Toʻxtatib turish"
+
+#. Translators: Tooltip text for a menu button that has filter, sorting, and
+#. search options
+#: podcasts-gtk/resources/gtk/filter_menu.ui:175
+msgid "Filter"
+msgstr ""
 
 #: podcasts-gtk/resources/gtk/episode_description.ui:33
 msgid "Episode Details"
@@ -208,6 +301,31 @@ msgstr ""
 #: podcasts-gtk/resources/gtk/episode_widget.ui:248
 msgid "Episode without audio"
 msgstr "Ovozsiz epizod"
+
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:53
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:66
+msgid "Today"
+msgstr "Bugun"
+
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:84
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:97
+msgid "Yesterday"
+msgstr "Kecha"
+
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:115
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:128
+msgid "This Week"
+msgstr "Bu hafta"
+
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:146
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:159
+msgid "This Month"
+msgstr "Bu oy"
+
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:178
+#: podcasts-gtk/resources/gtk/home_episode_list.ui:191
+msgid "Older"
+msgstr "Eskiroq"
 
 #: podcasts-gtk/resources/gtk/player_big.ui:43
 msgid "Rewind 10 seconds"
@@ -881,18 +999,3 @@ msgstr ""
 
 #~ msgid "Download this episode"
 #~ msgstr "Ushbu epizodni yuklab olish"
-
-#~ msgid "Today"
-#~ msgstr "Bugun"
-
-#~ msgid "Yesterday"
-#~ msgstr "Kecha"
-
-#~ msgid "This Week"
-#~ msgstr "Bu hafta"
-
-#~ msgid "This Month"
-#~ msgstr "Bu oy"
-
-#~ msgid "Older"
-#~ msgstr "Eskiroq"
