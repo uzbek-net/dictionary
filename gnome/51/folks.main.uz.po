@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: folks main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/folks/issues/\n"
-"POT-Creation-Date: 2026-01-13 15:01+0000\n"
+"POT-Creation-Date: 2026-09-18 20:08+0000\n"
 "PO-Revision-Date: 2025-04-05 20:02+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -239,60 +239,60 @@ msgstr "Ushbu kontaktga pochta manzillarini yozib boʻlmaydi."
 msgid "Full name is not writeable on this contact."
 msgstr "Ushbu kontaktda toʻliq ismni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:1901 folks/name-details.vala:492
+#: backends/eds/lib/edsf-persona-store.vala:1902 folks/name-details.vala:492
 msgid "Nickname is not writeable on this contact."
 msgstr "Bu kontaktga taxallusni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:1923 folks/note-details.vala:139
+#: backends/eds/lib/edsf-persona-store.vala:1924 folks/note-details.vala:139
 msgid "Notes are not writeable on this contact."
 msgstr "Ushbu kontaktga eslatma yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:1955
+#: backends/eds/lib/edsf-persona-store.vala:1956
 #: folks/birthday-details.vala:62
 msgid "Birthday is not writeable on this contact."
 msgstr "Bu kontaktda tugʻilgan kunni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:1999 folks/role-details.vala:280
+#: backends/eds/lib/edsf-persona-store.vala:2000 folks/role-details.vala:280
 msgid "Roles are not writeable on this contact."
 msgstr "Bu kontaktda rollarni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:2100 folks/name-details.vala:417
+#: backends/eds/lib/edsf-persona-store.vala:2101 folks/name-details.vala:417
 msgid "Structured name is not writeable on this contact."
 msgstr "Ushbu kontaktda tuzilgan ismni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:2139 folks/im-details.vala:136
+#: backends/eds/lib/edsf-persona-store.vala:2141 folks/im-details.vala:136
 msgid "IM addresses are not writeable on this contact."
 msgstr "Ushbu kontaktga IM manzillarini yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:2194 folks/group-details.vala:174
+#: backends/eds/lib/edsf-persona-store.vala:2196 folks/group-details.vala:174
 msgid "Groups are not writeable on this contact."
 msgstr "Guruhlarni bu kontaktga yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:2209
+#: backends/eds/lib/edsf-persona-store.vala:2211
 msgid "My Contacts is only available for Google Contacts"
 msgstr "Mening kontaktlarim faqat Google kontaktlari uchun mavjud"
 
-#: backends/eds/lib/edsf-persona-store.vala:2280 folks/gender-details.vala:79
+#: backends/eds/lib/edsf-persona-store.vala:2282 folks/gender-details.vala:79
 msgid "Gender is not writeable on this contact."
 msgstr "Bu kontaktda jinsni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:2318 folks/anti-linkable.vala:84
+#: backends/eds/lib/edsf-persona-store.vala:2320 folks/anti-linkable.vala:84
 msgid "Anti-links are not writeable on this contact."
 msgstr "Ushbu kontaktga anti-havolalarni yozib boʻlmaydi."
 
-#: backends/eds/lib/edsf-persona-store.vala:2361
+#: backends/eds/lib/edsf-persona-store.vala:2363
 #: folks/location-details.vala:135
 msgid "Location is not writeable on this contact."
 msgstr "Bu kontaktga joylashuvni yozib boʻlmaydi."
 
 #. Translators: the first parameter is an error message.
-#: backends/eds/lib/edsf-persona-store.vala:2707
+#: backends/eds/lib/edsf-persona-store.vala:2709
 #, c-format
 msgid "Permission denied when creating new contact: %s"
 msgstr "Yangi kontakt yaratishda ruxsat rad etildi: %s"
 
 #. Translators: the first parameter is an error message.
-#: backends/eds/lib/edsf-persona-store.vala:2712
+#: backends/eds/lib/edsf-persona-store.vala:2714
 #, c-format
 msgid "Address book is offline and a new contact cannot be created: %s"
 msgstr "Manzillar kitobi oflayn va yangi kontakt yaratib boʻlmaydi: %s"
@@ -300,19 +300,19 @@ msgstr "Manzillar kitobi oflayn va yangi kontakt yaratib boʻlmaydi: %s"
 #. Translators: the first parameter is a non-human-readable
 #. * property name and the second parameter is an error
 #. * message.
-#: backends/eds/lib/edsf-persona-store.vala:2721
+#: backends/eds/lib/edsf-persona-store.vala:2723
 #, c-format
 msgid "New contact is not writeable: %s"
 msgstr "Yangi kontaktni yozib boʻlmaydi: %s"
 
 #. Translators: the first parameter is an error message.
-#: backends/eds/lib/edsf-persona-store.vala:2725
+#: backends/eds/lib/edsf-persona-store.vala:2727
 #, c-format
 msgid "Invalid value in contact: %s"
 msgstr "Kontaktdagi qiymat notoʻgʻri: %s"
 
 #. Translators: the first parameter is an error message.
-#: backends/eds/lib/edsf-persona-store.vala:2749
+#: backends/eds/lib/edsf-persona-store.vala:2751
 #, c-format
 msgid "Unknown error adding contact: %s"
 msgstr "Kontaktni qoʻshishda noma’lum xatolik: %s"
@@ -320,7 +320,7 @@ msgstr "Kontaktni qoʻshishda noma’lum xatolik: %s"
 #. Translators: the first parameter is a non-human-readable
 #. * property name and the second parameter is an error
 #. * message.
-#: backends/eds/lib/edsf-persona-store.vala:2782
+#: backends/eds/lib/edsf-persona-store.vala:2784
 #, c-format
 msgid "Property ‘%s’ is not writeable: %s"
 msgstr "“%s” xususiyatini yozish mumkin emas: %s"
@@ -328,14 +328,14 @@ msgstr "“%s” xususiyatini yozish mumkin emas: %s"
 #. Translators: the first parameter is a non-human-readable
 #. * property name and the second parameter is an error
 #. * message.
-#: backends/eds/lib/edsf-persona-store.vala:2791
+#: backends/eds/lib/edsf-persona-store.vala:2793
 #, c-format
 msgid "Invalid value for property ‘%s’: %s"
 msgstr "“%s” xususiyati uchun notoʻgʻri qiymat: %s"
 
 #. Translators: the first parameter is a non-human-readable
 #. * property name and the second parameter is an error message.
-#: backends/eds/lib/edsf-persona-store.vala:2817
+#: backends/eds/lib/edsf-persona-store.vala:2819
 #, c-format
 msgid "Unknown error setting property ‘%s’: %s"
 msgstr "Noma’lum xatolik sozlamalari xususiyati “%s”: %s"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-09-11 14:33+0000\n"
+"POT-Creation-Date: 2026-09-19 02:01+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: data/org.gnome.Papers.metainfo.xml.in.in:9
 #: shell/resources/pps-document-view.blp:88
 #: shell/resources/pps-loader-view.blp:10 shell/src/application.rs:47
-#: shell/src/application.rs:389
+#: shell/src/application.rs:382
 #, fuzzy
 #| msgid "Document View"
 msgid "Document Viewer"
@@ -2150,46 +2150,46 @@ msgstr "© 1996–2024: Hujjatlar mualliflari"
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
-#: shell/src/application.rs:396
+#: shell/src/application.rs:389
 msgid "The page label of the document to display."
 msgstr "Koʻrsatiladigan hujjatning yorligʻi."
 
-#: shell/src/application.rs:397
+#: shell/src/application.rs:390
 #, fuzzy
 msgid "PAGE"
 msgstr "PAGE"
 
-#: shell/src/application.rs:405
+#: shell/src/application.rs:398
 msgid "The page number of the document to display."
 msgstr "Koʻrsatiladigan hujjatning sahifa raqami."
 
-#: shell/src/application.rs:406
+#: shell/src/application.rs:399
 #, fuzzy
 msgid "NUMBER"
 msgstr "NUMBER"
 
-#: shell/src/application.rs:414
+#: shell/src/application.rs:407
 msgid "Named destination to display."
 msgstr "Koʻrsatish uchun nomlangan manzil."
 
-#: shell/src/application.rs:415
+#: shell/src/application.rs:408
 #, fuzzy
 msgid "DEST"
 msgstr "DEST"
 
-#: shell/src/application.rs:423
+#: shell/src/application.rs:416
 msgid "Run papers in fullscreen mode."
 msgstr "Qogʻozlarni butun ekran usulida ishlating."
 
-#: shell/src/application.rs:432
+#: shell/src/application.rs:425
 msgid "Run papers in presentation mode."
 msgstr "Qogʻozlarni taqdimot usulida ishga tushirish."
 
-#: shell/src/application.rs:441
+#: shell/src/application.rs:434
 msgid "Show the version of the program."
 msgstr "Dastur versiyasini koʻrsatish."
 
-#: shell/src/application.rs:451
+#: shell/src/application.rs:444
 msgid "[FILE…]"
 msgstr "[FILE…]"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtk/-/issues/\n"
-"POT-Creation-Date: 2026-06-25 16:39+0000\n"
+"POT-Creation-Date: 2026-09-10 02:33+0000\n"
 "PO-Revision-Date: 2025-12-17 11:49+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -2473,8 +2473,8 @@ msgid "_Cancel"
 msgstr "Bekor qilish"
 
 #: gtk/gtkfilechoosernative.c:522 gtk/gtkfilechoosernative.c:588
-#: gtk/gtkfiledialog.c:886 gtk/gtkplacessidebar.c:3149
-#: gtk/gtkplacessidebar.c:3234 gtk/gtkplacesview.c:1646
+#: gtk/gtkfiledialog.c:886 gtk/gtkplacessidebar.c:3154
+#: gtk/gtkplacessidebar.c:3239 gtk/gtkplacesview.c:1646
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Open"
@@ -2613,8 +2613,8 @@ msgstr "Rasmni nusxalash"
 msgid "_Add to Bookmarks"
 msgstr "Xatchoʻplarga _qoʻshish"
 
-#: gtk/gtkfilechooserwidget.c:1844 gtk/gtkplacessidebar.c:2312
-#: gtk/gtkplacessidebar.c:3270 gtk/ui/gtkfilechooserwidget.ui:417
+#: gtk/gtkfilechooserwidget.c:1844 gtk/gtkplacessidebar.c:2317
+#: gtk/gtkplacessidebar.c:3275 gtk/ui/gtkfilechooserwidget.ui:417
 msgid "_Rename"
 msgstr "_Nomini oʻzgartirish"
 
@@ -2636,7 +2636,7 @@ msgstr ""
 msgid "Unknown"
 msgstr "Nomaʼlum"
 
-#: gtk/gtkfilechooserwidget.c:2073 gtk/gtkplacessidebar.c:1025
+#: gtk/gtkfilechooserwidget.c:2073 gtk/gtkplacessidebar.c:1030
 #, fuzzy
 #| msgctxt "keyboard label"
 #| msgid "Home"
@@ -2806,7 +2806,7 @@ msgstr ""
 msgid "_Time"
 msgstr ""
 
-#: gtk/gtkfilechooserwidget.c:7457 gtk/gtkplacessidebar.c:2306
+#: gtk/gtkfilechooserwidget.c:7457 gtk/gtkplacessidebar.c:2311
 #: gtk/inspector/a11y.ui:43 gtk/inspector/actions.ui:18
 #: gtk/inspector/css-node-tree.ui:22 gtk/inspector/prop-list.ui:24
 #: gtk/ui/gtkfilechooserwidget.ui:394 gtk/print/ui/gtkprintunixdialog.ui:80
@@ -3317,13 +3317,13 @@ msgid "_Show Text"
 msgstr "Nusxa olish"
 
 #. translators: %s is the name of a cloud provider for files
-#: gtk/gtkplacessidebar.c:912
+#: gtk/gtkplacessidebar.c:917
 #, fuzzy, c-format
 #| msgid "Open '%s'"
 msgid "Open %s"
 msgstr "Menyuni ochish"
 
-#: gtk/gtkplacessidebar.c:1003
+#: gtk/gtkplacessidebar.c:1008
 #, fuzzy
 #| msgid "Recently Used"
 msgid "Recent"
@@ -3335,221 +3335,221 @@ msgstr ""
 "qilishi mumkin, chunki xona aʼzolari yangi xonaga qoʻlda qoʻshilishlari "
 "kerak."
 
-#: gtk/gtkplacessidebar.c:1005
+#: gtk/gtkplacessidebar.c:1010
 #, fuzzy
 #| msgid "Recently Used"
 msgid "Recent files"
 msgstr "Yaqinda ishlatilganlar"
 
-#: gtk/gtkplacessidebar.c:1014
+#: gtk/gtkplacessidebar.c:1019
 msgid "Starred"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:1016
+#: gtk/gtkplacessidebar.c:1021
 msgid "Starred files"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:1027
+#: gtk/gtkplacessidebar.c:1032
 #, fuzzy
 msgid "Open your personal folder"
 msgstr "Ochish https://127.0.0.1:64443/"
 
-#: gtk/gtkplacessidebar.c:1040
+#: gtk/gtkplacessidebar.c:1045
 msgid "Desktop"
 msgstr "Ish stoli"
 
-#: gtk/gtkplacessidebar.c:1042
+#: gtk/gtkplacessidebar.c:1047
 #, fuzzy
 msgid "Open the contents of your desktop in a folder"
 msgstr "Fayl haqidagi maʼlumotni olib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:1056
+#: gtk/gtkplacessidebar.c:1061
 #, fuzzy
 #| msgid "Location"
 msgid "Enter Location"
 msgstr "Manzili"
 
-#: gtk/gtkplacessidebar.c:1058
+#: gtk/gtkplacessidebar.c:1063
 msgid "Manually enter a location"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:1068
+#: gtk/gtkplacessidebar.c:1073
 msgid "Trash"
 msgstr "Axlat qutisi"
 
-#: gtk/gtkplacessidebar.c:1070
+#: gtk/gtkplacessidebar.c:1075
 msgid "Open the trash"
 msgstr "Axlat qutisini ochish"
 
-#: gtk/gtkplacessidebar.c:1181 gtk/gtkplacessidebar.c:1209
-#: gtk/gtkplacessidebar.c:1409
+#: gtk/gtkplacessidebar.c:1186 gtk/gtkplacessidebar.c:1214
+#: gtk/gtkplacessidebar.c:1414
 #, fuzzy, c-format
 msgid "Mount and open “%s”"
 msgstr "Ochish https://127.0.0.1:64443/"
 
-#: gtk/gtkplacessidebar.c:1304
+#: gtk/gtkplacessidebar.c:1309
 #, fuzzy
 msgid "Open the contents of the file system"
 msgstr "Ochish https://127.0.0.1:64443/"
 
-#: gtk/gtkplacessidebar.c:1387
+#: gtk/gtkplacessidebar.c:1392
 msgid "New bookmark"
 msgstr "Yangi xatchoʻp"
 
-#: gtk/gtkplacessidebar.c:1389
+#: gtk/gtkplacessidebar.c:1394
 msgid "Add a new bookmark"
 msgstr "Yangi xatchoʻp qoʻshish"
 
-#: gtk/gtkplacessidebar.c:1454
+#: gtk/gtkplacessidebar.c:1459
 #, fuzzy
 #| msgid "Location"
 msgid "Other Locations"
 msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
-#: gtk/gtkplacessidebar.c:1455
+#: gtk/gtkplacessidebar.c:1460
 #, fuzzy
 msgid "Show other locations"
 msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
-#: gtk/gtkplacessidebar.c:1964 gtk/gtkplacessidebar.c:2984
+#: gtk/gtkplacessidebar.c:1969 gtk/gtkplacessidebar.c:2989
 #, c-format
 msgid "Unable to start “%s”"
 msgstr ""
 
 #. Translators: This means that unlocking an encrypted storage
 #. * device failed. %s is the name of the device.
-#: gtk/gtkplacessidebar.c:2000
+#: gtk/gtkplacessidebar.c:2005
 #, fuzzy, c-format
 #| msgid "Error loading icon: %s"
 msgid "Error unlocking “%s”"
 msgstr "Nishonchani yuklashda xatolik yuz berdi: %s"
 
-#: gtk/gtkplacessidebar.c:2002
+#: gtk/gtkplacessidebar.c:2007
 #, c-format
 msgid "Unable to access “%s”"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:2233
+#: gtk/gtkplacessidebar.c:2238
 #, fuzzy
 msgid "This name is already taken"
 msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:2525
+#: gtk/gtkplacessidebar.c:2530
 #, c-format
 msgid "Unable to unmount “%s”"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:2701
+#: gtk/gtkplacessidebar.c:2706
 #, c-format
 msgid "Unable to stop “%s”"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:2730
+#: gtk/gtkplacessidebar.c:2735
 #, c-format
 msgid "Unable to eject “%s”"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:2759 gtk/gtkplacessidebar.c:2788
+#: gtk/gtkplacessidebar.c:2764 gtk/gtkplacessidebar.c:2793
 #, c-format
 msgid "Unable to eject %s"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:2936
+#: gtk/gtkplacessidebar.c:2941
 #, c-format
 msgid "Unable to poll “%s” for media changes"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:3155 gtk/gtkplacessidebar.c:3242
+#: gtk/gtkplacessidebar.c:3160 gtk/gtkplacessidebar.c:3247
 #: gtk/gtkplacesview.c:1650
 msgid "Open in New _Tab"
 msgstr "Yangi _varaqda ochish"
 
-#: gtk/gtkplacessidebar.c:3161 gtk/gtkplacessidebar.c:3251
+#: gtk/gtkplacessidebar.c:3166 gtk/gtkplacessidebar.c:3256
 #: gtk/gtkplacesview.c:1655
 msgid "Open in New _Window"
 msgstr "Yangi o_ynada ochish"
 
-#: gtk/gtkplacessidebar.c:3262
+#: gtk/gtkplacessidebar.c:3267
 #, fuzzy
 #| msgid "_Add to Bookmarks"
 msgid "_Add Bookmark"
 msgstr "Qoʻshish"
 
-#: gtk/gtkplacessidebar.c:3266
+#: gtk/gtkplacessidebar.c:3271
 msgid "_Remove"
 msgstr "Olib _tashlash"
 
-#: gtk/gtkplacessidebar.c:3282 gtk/gtkplacesview.c:1680
+#: gtk/gtkplacessidebar.c:3287 gtk/gtkplacesview.c:1680
 msgid "_Mount"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:3291 gtk/gtkplacesview.c:1669
+#: gtk/gtkplacessidebar.c:3296 gtk/gtkplacesview.c:1669
 msgid "_Unmount"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:3298
+#: gtk/gtkplacessidebar.c:3303
 msgid "_Eject"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:3308
+#: gtk/gtkplacessidebar.c:3313
 msgid "_Detect Media"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:3317
+#: gtk/gtkplacessidebar.c:3322
 msgid "_Start"
 msgstr ""
 
-#: gtk/gtkplacessidebar.c:3319
+#: gtk/gtkplacessidebar.c:3324
 #, fuzzy
 msgid "_Power On"
 msgstr "Xonaning barcha aʻzolari uchun belgilangan quvvat darajalari"
 
-#: gtk/gtkplacessidebar.c:3320
+#: gtk/gtkplacessidebar.c:3325
 #, fuzzy
 #| msgid "Co_nnect"
 msgid "_Connect Drive"
 msgstr "Ula_nish"
 
-#: gtk/gtkplacessidebar.c:3321
+#: gtk/gtkplacessidebar.c:3326
 #, fuzzy
 msgid "_Start Multi-disk Device"
 msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:3322
+#: gtk/gtkplacessidebar.c:3327
 #, fuzzy
 #| msgid "_Device:"
 msgid "_Unlock Device"
 msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:3332
+#: gtk/gtkplacessidebar.c:3337
 #, fuzzy
 msgid "_Stop"
 msgstr "_Toʻxtatish"
 
-#: gtk/gtkplacessidebar.c:3334
+#: gtk/gtkplacessidebar.c:3339
 #, fuzzy
 msgid "_Safely Remove Drive"
 msgstr "Boshqa aʼzolarning xabarlarini olib tashlang"
 
-#: gtk/gtkplacessidebar.c:3335
+#: gtk/gtkplacessidebar.c:3340
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Disconnect"
 msgid "_Disconnect Drive"
 msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:3336
+#: gtk/gtkplacessidebar.c:3341
 #, fuzzy
 msgid "_Stop Multi-disk Device"
 msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:3337
+#: gtk/gtkplacessidebar.c:3342
 #, fuzzy
 #| msgid "_Device:"
 msgid "_Lock Device"
 msgstr "“{device_name}” sessiyasini uzib boʻlmadi"
 
-#: gtk/gtkplacessidebar.c:3828 gtk/gtkplacesview.c:1090
+#: gtk/gtkplacessidebar.c:3833 gtk/gtkplacesview.c:1090
 msgid "Computer"
 msgstr "Kompyuter"
 

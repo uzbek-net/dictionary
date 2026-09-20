@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2026-09-11 14:56+0000\n"
+"POT-Creation-Date: 2026-09-14 16:24+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1201,7 +1201,7 @@ msgstr "%s uchun PIN kodini kiriting, %s:%d da autentifikatsiya qilish uchun."
 #: src/ephy-window.c:2348 src/preferences/autofill-view.c:365
 #: src/preferences/extension-view.c:115
 #: src/resources/gtk/bookmark-properties.blp:29
-#: src/resources/gtk/firefox-sync-dialog.blp:100
+#: src/resources/gtk/firefox-sync-dialog.blp:101
 #: src/resources/gtk/history-dialog.blp:55
 #: src/resources/gtk/prefs-lang-dialog.blp:16 src/window-commands.c:364
 #: src/window-commands.c:569 src/window-commands.c:935
@@ -1262,7 +1262,7 @@ msgstr "Seans uchun"
 msgid "Permanently"
 msgstr "Butunlay"
 
-#: embed/ephy-download.c:713 src/preferences/prefs-general-page.c:589
+#: embed/ephy-download.c:713 src/preferences/prefs-general-page.c:590
 msgid "Select a Directory"
 msgstr "Katalogni tanlang"
 
@@ -1908,7 +1908,7 @@ msgstr "Aynan ushbu xato: %s"
 #. Translators: tooltip for the refresh button
 #: embed/ephy-web-view.c:1887 embed/ephy-web-view.c:1940
 #: embed/ephy-web-view.c:1976 embed/ephy-web-view.c:2012
-#: src/ephy-action-bar-start.c:37 src/ephy-location-entry.c:1599
+#: src/ephy-action-bar-start.c:37 src/ephy-location-entry.c:1604
 msgid "Reload"
 msgstr "Qayta yuklash"
 
@@ -2427,52 +2427,52 @@ msgstr "Omborxona versiyasini tekshirib boʻlmadi."
 msgid "Select current tag"
 msgstr "Joriy tegni belgilash"
 
-#: src/bookmarks/ephy-bookmark-properties.c:164
+#: src/bookmarks/ephy-bookmark-properties.c:165
 msgid "Remove current tag"
 msgstr "Joriy tegni olib tashlash"
 
-#: src/bookmarks/ephy-bookmark-properties.c:314
+#: src/bookmarks/ephy-bookmark-properties.c:315
 msgid "Add Bookmark"
 msgstr "Xatchoʻp qoʻshish"
 
-#: src/bookmarks/ephy-bookmark-properties.c:354
+#: src/bookmarks/ephy-bookmark-properties.c:355
 #: src/preferences/prefs-search-engine-page.c:91
 msgid "This field is required"
 msgstr "Bu maydonni toʻldirish majburiy"
 
-#: src/bookmarks/ephy-bookmark-properties.c:356
+#: src/bookmarks/ephy-bookmark-properties.c:357
 #: src/preferences/prefs-search-engine-page.c:96
 msgid "Address must start with either http:// or https://"
 msgstr "Manzil http:// yoki https:// bilan boshlanishi kerak"
 
-#: src/bookmarks/ephy-bookmark-properties.c:358
+#: src/bookmarks/ephy-bookmark-properties.c:359
 #: src/preferences/prefs-search-engine-page.c:117
 #, fuzzy
 #| msgid "Address is not a valid URI"
 msgid "Address is not a valid URL"
 msgstr "Manzil yaroqli URI emas"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:658
+#: src/bookmarks/ephy-bookmarks-dialog.c:660
 #: src/resources/gtk/bookmark-row.blp:66 src/resources/gtk/lang-row.blp:34
 msgid "Move Controls"
 msgstr "Harakatlanish boshqaruvlari"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:663
+#: src/bookmarks/ephy-bookmarks-dialog.c:665
 #: src/resources/gtk/bookmark-row.blp:7 src/resources/gtk/lang-row.blp:7
 msgid "Move Up"
 msgstr "Yuqoriga siljitish"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:664
+#: src/bookmarks/ephy-bookmarks-dialog.c:666
 #: src/resources/gtk/bookmark-row.blp:12 src/resources/gtk/lang-row.blp:12
 msgid "Move Down"
 msgstr "Pastga siljitish"
 
-#: src/bookmarks/ephy-bookmarks-dialog.c:849
+#: src/bookmarks/ephy-bookmarks-dialog.c:851
 msgid "Bookmark removed"
 msgstr "Xatchoʻp olib tashlandi"
 
 #. Undo, redo.
-#: src/bookmarks/ephy-bookmarks-dialog.c:851 src/ephy-window.c:1014
+#: src/bookmarks/ephy-bookmarks-dialog.c:853 src/ephy-window.c:1014
 #: src/preferences/prefs-features-page.c:277
 msgid "_Undo"
 msgstr "_Bekor qilish"
@@ -2543,7 +2543,7 @@ msgid "Save Media As"
 msgstr "Mediani quyidagidek saqlash"
 
 #. Translators: tooltip for the stop button
-#: src/ephy-action-bar-start.c:581 src/ephy-location-entry.c:1608
+#: src/ephy-action-bar-start.c:581 src/ephy-location-entry.c:1613
 msgid "Stop"
 msgstr "Toʻxtatish"
 
@@ -2724,21 +2724,21 @@ msgstr "Maxfiy rejimda ishlamaydi"
 msgid "Clear History"
 msgstr "Tarixni tozalash"
 
-#: src/ephy-location-entry.c:352 src/resources/gtk/location-entry.blp:77
+#: src/ephy-location-entry.c:355 src/resources/gtk/location-entry.blp:77
 msgid "Search for websites, bookmarks, and open tabs"
 msgstr "Veb-saytlar, xatchoʻplar va ochiq varaqlarni izlash"
 
-#: src/ephy-location-entry.c:377
+#: src/ephy-location-entry.c:380
 msgid "Not Secure — "
 msgstr ""
 
-#: src/ephy-location-entry.c:1333
+#: src/ephy-location-entry.c:1338
 #, fuzzy
 #| msgid "_Security"
 msgid "Secure Site"
 msgstr "_Xavfsizlik"
 
-#: src/ephy-location-entry.c:1335
+#: src/ephy-location-entry.c:1340
 #, fuzzy
 #| msgid "Insecure"
 msgid "Insecure Site"
@@ -2801,35 +2801,35 @@ msgid "This will clear all locally stored passwords, and can not be undone."
 msgstr ""
 "Barcha qurilmadagi parollar oʻchiriladi va bu amalni bekor qilib boʻlmaydi."
 
-#: src/ephy-passwords-view.c:253
+#: src/ephy-passwords-view.c:254
 msgid "Copy password"
 msgstr "Paroldan nusxa olish"
 
-#: src/ephy-passwords-view.c:260 src/ephy-window.c:4238
+#: src/ephy-passwords-view.c:261 src/ephy-window.c:4238
 msgid "Username"
 msgstr "Foydalanuvchi nomi"
 
-#: src/ephy-passwords-view.c:271
+#: src/ephy-passwords-view.c:272
 msgid "Copy username"
 msgstr "Foydalanuvchi nomidan nusxa olish"
 
-#: src/ephy-passwords-view.c:278 src/ephy-window.c:4245
+#: src/ephy-passwords-view.c:279 src/ephy-window.c:4245
 msgid "Password"
 msgstr "Parol"
 
-#: src/ephy-passwords-view.c:291
+#: src/ephy-passwords-view.c:292
 msgid "Remove Password"
 msgstr "Parolni olib tashlash"
 
-#: src/ephy-privacy-report.c:65
+#: src/ephy-privacy-report.c:66
 msgid "Blocked trackers on this site"
 msgstr "Ushbu veb-saytdagi bloklangan trekerlar"
 
-#: src/ephy-privacy-report.c:85
+#: src/ephy-privacy-report.c:86
 msgid "Sites this tracker was found on"
 msgstr "Ushbu treker aniqlangan saytlar"
 
-#: src/ephy-privacy-report.c:254
+#: src/ephy-privacy-report.c:256
 #, c-format
 msgid "GNOME Web prevented %u tracker from following you across websites"
 msgid_plural ""
@@ -2867,67 +2867,67 @@ msgstr "Ushbu veb-sayt ulanishingizni toʻgʻri himoya qilmagan"
 msgid "Your connection seems to be secure"
 msgstr "Ulanishingiz xavfsiz koʻrinadi"
 
-#: src/ephy-security-dialog.c:489
+#: src/ephy-security-dialog.c:490
 msgid "Allow"
 msgstr "Ruxsat berish"
 
-#: src/ephy-security-dialog.c:490
+#: src/ephy-security-dialog.c:491
 msgid "Deny"
 msgstr "Rad etish"
 
-#: src/ephy-security-dialog.c:492
+#: src/ephy-security-dialog.c:493
 msgid "Ask"
 msgstr "Soʻralsin"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:515
+#: src/ephy-security-dialog.c:516
 msgid "Advertisements"
 msgstr "Reklamalar"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:517
+#: src/ephy-security-dialog.c:518
 msgid "Notifications"
 msgstr "Bildirishnomalar"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:519
+#: src/ephy-security-dialog.c:520
 msgid "Password Saving"
 msgstr "Parolni saqlash"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:521
+#: src/ephy-security-dialog.c:522
 msgid "Location Access"
 msgstr "Lokatsiyaga ruxsat"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:523
+#: src/ephy-security-dialog.c:524
 msgid "Microphone Access"
 msgstr "Mikrofonga ruxsat"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:525
+#: src/ephy-security-dialog.c:526
 msgid "Webcam Access"
 msgstr "Veb-kameraga ruxsat"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:527
+#: src/ephy-security-dialog.c:528
 msgid "Display Access"
 msgstr "Displeyga ruxsat"
 
 #. TRANSLATORS: This is a permission toggle in the Security & Permissions
 #. dialog.
-#: src/ephy-security-dialog.c:529
+#: src/ephy-security-dialog.c:530
 msgid "Media Autoplay"
 msgstr "Media avtomatik ijrosi"
 
-#: src/ephy-security-dialog.c:529
+#: src/ephy-security-dialog.c:530
 msgid "Without Sound"
 msgstr "Ovozsiz"
 
@@ -3461,7 +3461,7 @@ msgstr "Yangi qidiruv tizimi"
 msgid "A_dd Search Engine"
 msgstr "Qidiruv tizimini qoʻshish"
 
-#: src/preferences/ephy-search-engine-row.c:126
+#: src/preferences/ephy-search-engine-row.c:127
 msgid "No search suggestions"
 msgstr "Qidiruv tavsiyalari yoʻq"
 
@@ -3528,14 +3528,14 @@ msgstr "Birlamchi sozlamalarga qaytarish"
 msgid "Add Language"
 msgstr "Til qoʻshish"
 
-#: src/preferences/prefs-general-page.c:402
-#: src/preferences/prefs-general-page.c:554
+#: src/preferences/prefs-general-page.c:403
+#: src/preferences/prefs-general-page.c:555
 #, c-format
 msgid "System language (%s)"
 msgid_plural "System languages (%s)"
 msgstr[0] "Tizim tili (%s)"
 
-#: src/preferences/prefs-general-page.c:766
+#: src/preferences/prefs-general-page.c:767
 msgid "Supported Image Files"
 msgstr "Qoʻllab-quvvatlanadigan tasvir fayllari"
 
@@ -3611,7 +3611,7 @@ msgstr "Qidiruv tizimi"
 msgid "Remove Search Engine"
 msgstr "Qidiruv tizimini olib tashlash"
 
-#: src/preferences/webapp-additional-urls-dialog.c:72
+#: src/preferences/webapp-additional-urls-dialog.c:73
 msgid "Remove URL"
 msgstr "URLʼni olib tashlash"
 
@@ -3927,47 +3927,47 @@ msgstr "Mozilla hisobi"
 msgid "Logged in"
 msgstr "Siz tizimga kirgansiz"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:50
+#: src/resources/gtk/firefox-sync-dialog.blp:51
 msgid "Sign _Out"
 msgstr "Tizimdan chi_qish"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:59
+#: src/resources/gtk/firefox-sync-dialog.blp:60
 msgid "Sync Options"
 msgstr "Sinxronlash parametrlari"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:62
+#: src/resources/gtk/firefox-sync-dialog.blp:63
 msgid "Sync _Bookmarks"
 msgstr "_Xatchoʻplarni sinxronlash"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:68
+#: src/resources/gtk/firefox-sync-dialog.blp:69
 msgid "Sync _Passwords"
 msgstr "_Parollarni sinxronlash"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:73
+#: src/resources/gtk/firefox-sync-dialog.blp:74
 msgid "Sync _History"
 msgstr "_Tarixni sinxronlash"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:78
+#: src/resources/gtk/firefox-sync-dialog.blp:79
 msgid "Sync Open _Tabs"
 msgstr "Ochiq _varaqlarni sinxronlash"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:82
+#: src/resources/gtk/firefox-sync-dialog.blp:83
 msgid "S_ynced Tabs"
 msgstr "S_inxronlangan varaqlar"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:90
+#: src/resources/gtk/firefox-sync-dialog.blp:91
 msgid "Frequency"
 msgstr "Chastota"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:96
+#: src/resources/gtk/firefox-sync-dialog.blp:97
 msgid "Device name"
 msgstr "Qurilma nomi"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:108
+#: src/resources/gtk/firefox-sync-dialog.blp:109
 msgid "_Save"
 msgstr "_Saqlash"
 
-#: src/resources/gtk/firefox-sync-dialog.blp:116
+#: src/resources/gtk/firefox-sync-dialog.blp:117
 msgid "_Change"
 msgstr "Oʻ_zgartirish"
 

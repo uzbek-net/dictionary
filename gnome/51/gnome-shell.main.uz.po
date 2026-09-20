@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-09-11 18:59+0000\n"
+"POT-Creation-Date: 2026-09-17 14:24+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -2505,7 +2505,7 @@ msgstr "Bluetooth"
 msgid "Open Bluetooth menu"
 msgstr "Bluetooth menyusini ochish"
 
-#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1937
+#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1939
 msgid "Bluetooth Settings"
 msgstr "Bluetooth sozlamalari"
 
@@ -2615,87 +2615,87 @@ msgstr "%s,%s,%s"
 msgid "%s Hotspot"
 msgstr "%s Hotspot"
 
-#: js/ui/status/network.js:1446
+#: js/ui/status/network.js:1448
 #, javascript-format
 msgid "%d connected"
 msgid_plural "%d connected"
 msgstr[0] "%d ulandi"
 
-#: js/ui/status/network.js:1544 js/ui/status/network.js:1561
+#: js/ui/status/network.js:1546 js/ui/status/network.js:1563
 msgid "VPN"
 msgstr "VPN"
 
-#: js/ui/status/network.js:1545
+#: js/ui/status/network.js:1547
 msgid "Open VPN menu"
 msgstr "VPN menyusini ochish"
 
-#: js/ui/status/network.js:1546
+#: js/ui/status/network.js:1548
 msgid "VPN Settings"
 msgstr "VPN sozlamalari"
 
-#: js/ui/status/network.js:1806
+#: js/ui/status/network.js:1808
 msgid "Wi–Fi"
 msgstr "Wi-Fi"
 
-#: js/ui/status/network.js:1807
+#: js/ui/status/network.js:1809
 msgid "Open Wi–Fi menu"
 msgstr "Wi-Fi menyusini ochish"
 
-#: js/ui/status/network.js:1809
+#: js/ui/status/network.js:1811
 msgid "All Networks"
 msgstr "Barcha tarmoqlar"
 
-#: js/ui/status/network.js:1919
+#: js/ui/status/network.js:1921
 msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
-#: js/ui/status/network.js:1920
+#: js/ui/status/network.js:1922
 msgid "Open wired connections menu"
 msgstr "Simli ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1921
+#: js/ui/status/network.js:1923
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
-#: js/ui/status/network.js:1935
+#: js/ui/status/network.js:1937
 msgid "Bluetooth Tethers"
 msgstr "Bluetooth tethers"
 
-#: js/ui/status/network.js:1936
+#: js/ui/status/network.js:1938
 msgid "Open Bluetooth tethers menu"
 msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
-#: js/ui/status/network.js:1943
+#: js/ui/status/network.js:1945
 msgid "Tether"
 msgstr "Tether"
 
-#: js/ui/status/network.js:1956
+#: js/ui/status/network.js:1958
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
-#: js/ui/status/network.js:1957
+#: js/ui/status/network.js:1959
 msgid "Open mobile connections menu"
 msgstr "Mobil ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1959
+#: js/ui/status/network.js:1961
 msgid "Mobile Broadband Settings"
 msgstr "Keng polosali mobil moslamalar"
 
 #. Translators: "Mobile" from "Mobile Broadband"
-#: js/ui/status/network.js:1968
+#: js/ui/status/network.js:1970
 msgid "Mobile"
 msgstr "Mobil"
 
-#: js/ui/status/network.js:2002
+#: js/ui/status/network.js:2004
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
-#: js/ui/status/network.js:2189
+#: js/ui/status/network.js:2191
 msgid "Connection failed"
 msgstr "Ulanish amalga oshmadi"
 
-#: js/ui/status/network.js:2190
+#: js/ui/status/network.js:2192
 msgid "Activation of network connection failed"
 msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 

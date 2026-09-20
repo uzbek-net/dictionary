@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 17:40+0000\n"
+"POT-Creation-Date: 2026-09-17 04:04+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -2238,15 +2238,15 @@ msgstr "Klaviatura konfiguratsiyasi ma'lumotlar bazasi."
 
 #: database-content.py:512
 #, fuzzy
-#| msgid "GNOME Developer Platform"
-msgid "GNOME 51 (development)"
-msgstr "GNOME dasturchi platformasi"
+#| msgid "GNOME 48 (stable)"
+msgid "GNOME 51 (stable)"
+msgstr "GNOME 48 (barqaror)"
 
 #: database-content.py:513
 #, fuzzy
-#| msgid "GNOME 48 (stable)"
-msgid "GNOME 50 (stable)"
-msgstr "GNOME 48 (barqaror)"
+#| msgid "GNOME 40 (old stable)"
+msgid "GNOME 50 (oldstable)"
+msgstr "GNOME 40 (eski barqaror)"
 
 #: database-content.py:514
 #, fuzzy
@@ -5291,39 +5291,39 @@ msgstr "Hujjat raqamlarini koʻrsatish"
 msgid "Error"
 msgstr "Xatolik"
 
-#: stats/utils.py:144
+#: stats/utils.py:145
 #, python-format
 msgid "When compiling the PO file, the error was “%(exception)s”."
 msgstr "PO faylini kompilyatsiya qilishda xatolik \"%(exception)s\" edi."
 
-#: stats/utils.py:157
+#: stats/utils.py:158
 #, python-format
 msgid "The file “%s” does not exist"
 msgstr "“%s” fayli mavjud emas"
 
-#: stats/utils.py:170
+#: stats/utils.py:171
 #, python-format
 msgid "Error running pofilter: %s"
 msgstr "Pofiltrni ishga tushirishda xatolik yuz berdi: %s"
 
-#: stats/utils.py:182
+#: stats/utils.py:183
 #, python-format
 msgid "PO file “%s” does not exist or cannot be read."
 msgstr "“%s” PO fayli mavjud emas yoki oʻqib boʻlmaydi."
 
-#: stats/utils.py:186
+#: stats/utils.py:187
 #, python-format
 msgid "Can’t get statistics for POT file “%s”."
 msgstr "“%s” POT fayli statistikasini olib boʻlmadi."
 
-#: stats/utils.py:370 stats/utils.py:385
+#: stats/utils.py:371 stats/utils.py:386
 msgid ""
 "Unable to initialize the GitLab client because the authentication failed."
 msgstr ""
 "GitLab mijozini ishga tushirib boʻlmadi, chunki autentifikatsiya amalga "
 "oshmadi."
 
-#: stats/utils.py:389
+#: stats/utils.py:390
 msgid "Unable to create GitLab issue."
 msgstr ""
 
@@ -7272,9 +7272,6 @@ msgstr ""
 
 #~ msgid "GNOME 41 (old stable)"
 #~ msgstr "GNOME 41 (eski barqaror)"
-
-#~ msgid "GNOME 40 (old stable)"
-#~ msgstr "GNOME 40 (eski barqaror)"
 
 #~ msgid "GNOME 3.38 (old stable)"
 #~ msgstr "GNOME 3.38 (eski barqaror)"

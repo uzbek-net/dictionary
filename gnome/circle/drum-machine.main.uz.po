@@ -174,14 +174,17 @@ msgid "Save Audio File"
 msgstr "Audio faylni saqlash"
 
 #: src/dialogs/audio_export_dialog.py:148
+#, python-brace-format
 msgid "Part “{}” is Silent"
 msgstr ""
 
 #: src/dialogs/audio_export_dialog.py:150
+#, python-brace-format
 msgid "Parts “{}” and “{}” are Silent"
 msgstr ""
 
 #: src/dialogs/audio_export_dialog.py:154
+#, python-brace-format
 msgid "{} Parts are Silent"
 msgstr ""
 
@@ -194,6 +197,7 @@ msgid "Select Cover Art"
 msgstr "Muqova san’atini tanlang"
 
 #: src/dialogs/audio_export_dialog.py:245
+#, python-brace-format
 msgid "Audio exported to {}"
 msgstr "Audio {} jildiga eksport qilindi"
 
@@ -405,6 +409,7 @@ msgid "Note Assignment"
 msgstr ""
 
 #: src/dialogs/midi_mapping_dialog.py:111
+#, python-brace-format
 msgid ""
 "Assign a MIDI note for '{}'. This ensures correct playback when exporting."
 msgstr ""
@@ -469,6 +474,7 @@ msgid "Selected item is not a file"
 msgstr ""
 
 #: src/handlers/drag_drop_handler.py:332
+#, python-brace-format
 msgid "File too large: {:.1f}MB (max 50MB)"
 msgstr ""
 
@@ -477,23 +483,28 @@ msgid "No valid audio files found"
 msgstr ""
 
 #: src/handlers/drag_drop_handler.py:402
+#, python-brace-format
 msgid "Error processing file: {}"
 msgstr ""
 
 #: src/handlers/drag_drop_handler.py:433
+#, python-brace-format
 msgid "Added {} drum part, {} files skipped"
 msgstr ""
 
 #: src/handlers/drag_drop_handler.py:439
+#, python-brace-format
 msgid "Added {} drum parts, {} files skipped"
 msgstr ""
 
 #: src/handlers/drag_drop_handler.py:444
+#, python-brace-format
 msgid "Added {} drum parts"
 msgstr ""
 
 #. Only show skipped message if no replacement happened
 #: src/handlers/drag_drop_handler.py:447
+#, python-brace-format
 msgid "{} files skipped"
 msgstr ""
 
@@ -621,6 +632,7 @@ msgid "Select New Sound"
 msgstr ""
 
 #: src/ui/drum_grid_builder.py:424
+#, python-brace-format
 msgid "Removed drum part: {}"
 msgstr ""
 
@@ -630,11 +642,13 @@ msgstr ""
 
 #. Update tooltip and accessibility with current BPM
 #: src/window.py:220
+#, python-brace-format
 msgid "{} Beats per Minute (BPM)"
 msgstr "Daqiqasiga {} ta zarba (DZ)"
 
 #. Update button tooltip to show current volume level
 #: src/window.py:229
+#, python-brace-format
 msgid "{:.0f}% Volume"
 msgstr "{:.0f}% ovoz balandligi"
 
@@ -651,6 +665,7 @@ msgid "Open"
 msgstr "Ochish"
 
 #: src/window.py:331
+#, python-brace-format
 msgid "Added: {}"
 msgstr ""
 
@@ -659,6 +674,7 @@ msgid "Failed to add custom sound"
 msgstr ""
 
 #: src/window.py:353
+#, python-brace-format
 msgid "Replaced drum with: {}"
 msgstr ""
 

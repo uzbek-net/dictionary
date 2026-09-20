@@ -892,6 +892,7 @@ msgid "Apostrophe experienced an error while trying to export:"
 msgstr "Apostrop eksport qilishda xatolik yuz berdi:"
 
 #: apostrophe/export_dialog.py:230
+#, python-brace-format
 msgid "Export to {}"
 msgstr "{} ga eksport qilish"
 
@@ -1044,46 +1045,56 @@ msgid "Windowed"
 msgstr "Oynali"
 
 #: apostrophe/stats_handler.py:122
+#, python-brace-format
 msgid "{:n} of {:n} Characters"
 msgstr "{:n}/{:n} ta belgilar"
 
 #: apostrophe/stats_handler.py:124
+#, python-brace-format
 msgid "{:n} Character"
 msgid_plural "{:n} Characters"
 msgstr[0] "{:n} ta belgilar"
 
 #: apostrophe/stats_handler.py:127
+#, python-brace-format
 msgid "{:n} of {:n} Words"
 msgstr "{:n}/{:n} ta soʻzlar"
 
 #: apostrophe/stats_handler.py:129
+#, python-brace-format
 msgid "{:n} Word"
 msgid_plural "{:n} Words"
 msgstr[0] "{:n} ta soʻzlar"
 
 #: apostrophe/stats_handler.py:132
+#, python-brace-format
 msgid "{:n} of {:n} Sentences"
 msgstr "{:n}/{:n} ta gaplar"
 
 #: apostrophe/stats_handler.py:134
+#, python-brace-format
 msgid "{:n} Sentence"
 msgid_plural "{:n} Sentences"
 msgstr[0] "{:n} ta gaplar"
 
 #: apostrophe/stats_handler.py:137
+#, python-brace-format
 msgid "{:n} of {:n} Paragraphs"
 msgstr "{:n}/{:n} ta xatboshi"
 
 #: apostrophe/stats_handler.py:139
+#, python-brace-format
 msgid "{:n} Paragraph"
 msgid_plural "{:n} Paragraphs"
 msgstr[0] "{:n} ta xatboshi"
 
 #: apostrophe/stats_handler.py:142
+#, python-brace-format
 msgid "{:d}:{:02d}:{:02d} of {:d}:{:02d}:{:02d} Read Time"
 msgstr "{:d}:{:02d}:{:02d} / {:d}:{:02d}:{:02d} Mutolaa vaqti"
 
 #: apostrophe/stats_handler.py:144
+#, python-brace-format
 msgid "{:d}:{:02d}:{:02d} Read Time"
 msgstr "{:d}:{:02d}:{:02d} Mutolaa vaqti"
 

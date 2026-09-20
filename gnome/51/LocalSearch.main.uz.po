@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LocalSearch main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/localsearch/issues/\n"
-"POT-Creation-Date: 2026-09-03 09:13+0000\n"
+"POT-Creation-Date: 2026-09-13 21:41+0000\n"
 "PO-Revision-Date: 2025-04-02 21:25+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -201,11 +201,11 @@ msgstr ""
 msgid "Show metadata extractor output"
 msgstr "Meta-maʼlumotlarni chiqarib boʻlmadi"
 
-#: src/cli/main.c:70 src/cli/tracker-index.c:390
+#: src/cli/main.c:70 src/cli/tracker-index.c:392
 msgid "List and change indexed folders"
 msgstr ""
 
-#: src/cli/main.c:71 src/cli/tracker-info.c:521
+#: src/cli/main.c:71 src/cli/tracker-info.c:523
 #, fuzzy
 #| msgid "Retrieve all information available for a certain file"
 msgid "Retrieve information available for files and resources"
@@ -215,42 +215,42 @@ msgstr "Muayyan fayl uchun mavjud boʻlgan barcha ma'lumotlarni oling"
 msgid "Inhibit indexing temporarily"
 msgstr ""
 
-#: src/cli/main.c:73 src/cli/tracker-reset.c:202
+#: src/cli/main.c:73 src/cli/tracker-reset.c:203
 msgid "Erase the indexed data"
 msgstr ""
 
-#: src/cli/main.c:74 src/cli/tracker-search.c:403
+#: src/cli/main.c:74 src/cli/main.c:75 src/cli/tracker-search.c:405
 msgid "Search for content"
 msgstr "Kontentni qidirish"
 
-#: src/cli/main.c:75 src/cli/tracker-status.c:649
+#: src/cli/main.c:76 src/cli/tracker-status.c:649
 msgid "Provide status and statistics on the data indexed"
 msgstr "Indekslangan ma'lumotlarning holati va statistikasini taqdim eting"
 
-#: src/cli/main.c:76 src/cli/tracker-tag.c:395
+#: src/cli/main.c:77 src/cli/tracker-tag.c:395
 msgid "Add, remove and list tags"
 msgstr "Teglarni qoʻshish, oʻchirish va roʻyxatga olish"
 
-#: src/cli/main.c:77
+#: src/cli/main.c:78
 msgid "Sandbox for a testing environment"
 msgstr "Sinov muhiti uchun Sandbox"
 
-#: src/cli/main.c:122
+#: src/cli/main.c:123
 msgid "Available localsearch commands are:"
 msgstr "Mavjud localsearch buyruqlari:"
 
-#: src/cli/main.c:141
+#: src/cli/main.c:142
 msgid "See “localsearch help <command>” to read about a specific subcommand."
 msgstr ""
 "\"Localsearch yordami\" ga qarang<command> ” ma'lum bir kichik buyruq haqida"
 " oʻqish uchun."
 
-#: src/cli/main.c:184
+#: src/cli/main.c:185
 #, c-format
 msgid "“%s” is not a localsearch command. See “localsearch --help”"
 msgstr "“%s” mahalliy qidiruv buyrugʻi emas. \"localsearch --help\" ga qarang"
 
-#: src/cli/tracker-cli-utils.c:194 src/cli/tracker-status.c:312
+#: src/cli/tracker-cli-utils.c:189 src/cli/tracker-status.c:312
 msgid "Message"
 msgstr "Xabar"
 
@@ -282,9 +282,9 @@ msgstr "Tracker-extractni ishga tushirib boʻlmadi: "
 msgid "Extract metadata from a file"
 msgstr "Fayldan metama'lumotlarni ajratib oling"
 
-#: src/cli/tracker-extract.c:138 src/cli/tracker-index.c:395
-#: src/cli/tracker-info.c:528 src/cli/tracker-inhibit.c:113
-#: src/cli/tracker-reset.c:207 src/cli/tracker-search.c:416
+#: src/cli/tracker-extract.c:138 src/cli/tracker-index.c:397
+#: src/cli/tracker-info.c:530 src/cli/tracker-inhibit.c:113
+#: src/cli/tracker-reset.c:208 src/cli/tracker-search.c:418
 #: src/cli/tracker-status.c:654 src/cli/tracker-tag.c:400
 msgid "Unrecognized options"
 msgstr "Noma'lum variantlar"
@@ -301,35 +301,35 @@ msgstr "FILE-ni indekslangan joylardan olib tashlaydi"
 msgid "Makes indexing recursive"
 msgstr "Indekslashni rekursiv qiladi"
 
-#: src/cli/tracker-index.c:211
+#: src/cli/tracker-index.c:213
 #, c-format
 msgid "“%s” is not a directory"
 msgstr "“%s” katalog emas"
 
 #. TRANSLATORS: These are commandline options
-#: src/cli/tracker-index.c:289
+#: src/cli/tracker-index.c:291
 msgid "Either --add or --remove must be provided"
 msgstr "Yoki --add yoki --remove koʻrsatilishi kerak"
 
 #. TRANSLATORS: These are commandline options
-#: src/cli/tracker-index.c:293
+#: src/cli/tracker-index.c:295
 msgid "--add and --remove are mutually exclusive"
 msgstr "--add va --remove bir-birini istisno qiladi"
 
 #. TRANSLATORS: These are commandline options
-#: src/cli/tracker-index.c:303
+#: src/cli/tracker-index.c:305
 msgid "--recursive requires --add"
 msgstr "--rekursiv --add talab qiladi"
 
-#: src/cli/tracker-index.c:361 src/cli/tracker-status.c:311
+#: src/cli/tracker-index.c:363 src/cli/tracker-status.c:311
 msgid "Path"
 msgstr "Yoʻl"
 
-#: src/cli/tracker-index.c:362
+#: src/cli/tracker-index.c:364
 msgid "Recursive"
 msgstr "Rekursiv"
 
-#: src/cli/tracker-index.c:404
+#: src/cli/tracker-index.c:406
 msgid "Please specify one or more locations to index."
 msgstr "Indekslash uchun bir yoki bir nechta joyni belgilang."
 
@@ -355,26 +355,26 @@ msgstr "FILE konfiguratsiya asosida qazib olishga yaroqliligini tekshiradi"
 msgid "Removable device mount point to query"
 msgstr ""
 
-#: src/cli/tracker-info.c:345 src/cli/tracker-search.c:358
+#: src/cli/tracker-info.c:347 src/cli/tracker-search.c:358
 #: src/cli/tracker-status.c:662
 #, fuzzy
 #| msgid "Could not establish a connection to Tracker"
 msgid "Could not connect to LocalSearch"
 msgstr "Tracker bilan aloqa oʻrnatib boʻlmadi"
 
-#: src/cli/tracker-info.c:393
+#: src/cli/tracker-info.c:395
 msgid "Unable to retrieve data for URI"
 msgstr "URI uchun maʼlumotlarni olib boʻlmadi"
 
-#: src/cli/tracker-info.c:400
+#: src/cli/tracker-info.c:402
 msgid "No metadata available for that URI"
 msgstr "Bu URI uchun metadata mavjud emas"
 
-#: src/cli/tracker-info.c:410 src/cli/tracker-info.c:487
+#: src/cli/tracker-info.c:412 src/cli/tracker-info.c:489
 msgid "Could not get eligible status: "
 msgstr "Muvofiq maqomga ega boʻlmadi: "
 
-#: src/cli/tracker-info.c:439 src/extractor/tracker-main.c:165
+#: src/cli/tracker-info.c:441 src/extractor/tracker-main.c:165
 #, c-format
 msgid "Unsupported serialization format “%s”\n"
 msgstr "“%s” seriyali formati qoʻllab-quvvatlanmaydi\n"
@@ -442,14 +442,14 @@ msgstr ""
 "Ushbu fayl uchun indekslangan ma'lumotlar oʻchirildi va yana qayta "
 "indekslanadi."
 
-#: src/cli/tracker-reset.c:223
+#: src/cli/tracker-reset.c:224
 msgid "The LocalSearch indexed data is about to be deleted, proceed? [y/N]"
 msgstr ""
 
 #. TRANSLATORS: this is our test for a [y|N] question in the command line.
 #. * A partial or full match will be considered an affirmative answer,
 #. * it is intentionally lowercase, so please keep it like this.
-#: src/cli/tracker-reset.c:231
+#: src/cli/tracker-reset.c:232
 msgid "yes"
 msgstr ""
 

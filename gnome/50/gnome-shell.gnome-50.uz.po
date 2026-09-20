@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-09-09 17:25+0000\n"
+"POT-Creation-Date: 2026-09-15 13:22+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -613,7 +613,7 @@ msgstr "Xato tafsilotlari"
 msgid "Copy Error"
 msgstr "Xato xabarini nusxalash"
 
-#: js/gdm/authPrompt.js:58 js/misc/timeLimitsManager.js:1427
+#: js/gdm/authPrompt.js:58 js/misc/timeLimitsManager.js:1443
 msgid "Screen Time Limit Reached"
 msgstr "Ekran vaqti chegarasiga yetdi"
 
@@ -629,8 +629,8 @@ msgid "Ignore"
 msgstr ""
 
 #: js/gdm/authPrompt.js:259 js/gdm/loginDialog.js:516
-#: js/ui/audioDeviceSelection.js:60 js/ui/components/networkAgent.js:114
-#: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:401
+#: js/ui/audioDeviceSelection.js:61 js/ui/components/networkAgent.js:114
+#: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:405
 #: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:392
 #: js/ui/shellMountOperation.js:402
 msgid "Cancel"
@@ -740,7 +740,7 @@ msgstr "Kirish urinish vaqti tugadi"
 msgid "Login took too long, please try again"
 msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
-#: js/gdm/loginDialog.js:1555
+#: js/gdm/loginDialog.js:1556
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
@@ -928,7 +928,7 @@ msgid "Break in %d second"
 msgid_plural "Break in %d seconds"
 msgstr[0] "%d soniyada tanaffus"
 
-#: js/misc/brightnessManager.js:171 js/ui/status/brightness.js:10
+#: js/misc/brightnessManager.js:173 js/ui/status/brightness.js:10
 msgid "Brightness"
 msgstr "Yorqinlik"
 
@@ -1033,18 +1033,18 @@ msgctxt "search-result"
 msgid "Lock Screen Rotation"
 msgstr "Ekranni aylantirish"
 
-#: js/misc/timeLimitsManager.js:468
+#: js/misc/timeLimitsManager.js:473
 msgid "GNOME needs to save screen time data"
 msgstr "GNOME ekran vaqti maʼlumotlarini tejashi kerak"
 
-#: js/misc/timeLimitsManager.js:1392
+#: js/misc/timeLimitsManager.js:1408
 #, fuzzy
 #| msgid "Screen Time Limit in %d Minute"
 #| msgid_plural "Screen Time Limit in %d Minutes"
 msgid "Screen Time Limit is almost up"
 msgstr "Ekran vaqti chegarasi %d daqiqada"
 
-#: js/misc/timeLimitsManager.js:1394
+#: js/misc/timeLimitsManager.js:1410
 #, fuzzy, javascript-format
 #| msgid "The system will restart automatically in %d second"
 #| msgid_plural "The system will restart automatically in %d seconds"
@@ -1052,17 +1052,17 @@ msgid "The computer will lock in %d second."
 msgid_plural "The computer will lock in %d seconds."
 msgstr[0] "Tizim %d soniyadan keyin avtomatik ravishda qayta ishga tushadi"
 
-#: js/misc/timeLimitsManager.js:1402
+#: js/misc/timeLimitsManager.js:1418
 #, javascript-format
 msgid "Screen Time Limit in %d Minute"
 msgid_plural "Screen Time Limit in %d Minutes"
 msgstr[0] "Ekran vaqti chegarasi %d daqiqada"
 
-#: js/misc/timeLimitsManager.js:1406
+#: js/misc/timeLimitsManager.js:1422
 msgid "Your screen time limit is approaching"
 msgstr "Foydalanish muddati yaqinlashmoqda"
 
-#: js/misc/timeLimitsManager.js:1428
+#: js/misc/timeLimitsManager.js:1444
 msgid "It’s time to stop using the device"
 msgstr "Qurilmadan foydalanishni toʻxtatish vaqti keldi"
 
@@ -1268,23 +1268,23 @@ msgstr "Oʻrnatilgan grafik karta yordamida ishga tushiring"
 msgid "Launch Using Discrete Graphics Card"
 msgstr "Diskret grafik karta yordamida ishga tushirish"
 
-#: js/ui/audioDeviceSelection.js:46
+#: js/ui/audioDeviceSelection.js:47
 msgid "Select Audio Device"
 msgstr "Audio qurilmani tanlang"
 
-#: js/ui/audioDeviceSelection.js:67 js/ui/status/volume.js:81
+#: js/ui/audioDeviceSelection.js:68 js/ui/status/volume.js:81
 msgid "Sound Settings"
 msgstr "Ovoz sozlamalari"
 
-#: js/ui/audioDeviceSelection.js:75
+#: js/ui/audioDeviceSelection.js:76
 msgid "Headphones"
 msgstr "Quloqchinlar"
 
-#: js/ui/audioDeviceSelection.js:77
+#: js/ui/audioDeviceSelection.js:78
 msgid "Headset"
 msgstr "Quloqchin"
 
-#: js/ui/audioDeviceSelection.js:79 js/ui/status/volume.js:371
+#: js/ui/audioDeviceSelection.js:80 js/ui/status/volume.js:371
 msgid "Microphone"
 msgstr "Mikrofon"
 
@@ -1426,19 +1426,19 @@ msgstr "Majburiy chiqish"
 msgid "Wait"
 msgstr "Kutib turing"
 
-#: js/ui/components/automountManager.js:81
+#: js/ui/components/automountManager.js:86
 msgid "External drive connected"
 msgstr "Tashqi disk ulangan"
 
-#: js/ui/components/automountManager.js:93
+#: js/ui/components/automountManager.js:98
 msgid "External drive disconnected"
 msgstr "Tashqi disk uzildi"
 
-#: js/ui/components/automountManager.js:207
+#: js/ui/components/automountManager.js:212
 msgid "Unable to unlock volume"
 msgstr "Ovoz balandligini ochib boʻlmadi"
 
-#: js/ui/components/automountManager.js:208
+#: js/ui/components/automountManager.js:213
 msgid "The installed udisks version does not support the PIM setting"
 msgstr "Oʻrnatilgan udisks versiyasi PIM sozlamalarini qoʻllab-quvvatlamaydi"
 
@@ -1465,7 +1465,7 @@ msgstr ""
 "mumkin"
 
 #: js/ui/components/networkAgent.js:108 js/ui/status/bluetooth.js:245
-#: js/ui/status/network.js:360 js/ui/status/network.js:444
+#: js/ui/status/network.js:361 js/ui/status/network.js:445
 msgid "Connect"
 msgstr "Ulanish"
 
@@ -1650,87 +1650,87 @@ msgstr "Ob-havo"
 msgid "Select Weather Location…"
 msgstr "Ob-havo joylashuvini tanlang…"
 
-#: js/ui/endSessionDialog.js:46
+#: js/ui/endSessionDialog.js:47
 #, javascript-format
 msgctxt "title"
 msgid "Log Out %s"
 msgstr "Chiqish %s"
 
-#: js/ui/endSessionDialog.js:47
+#: js/ui/endSessionDialog.js:48
 msgctxt "title"
 msgid "Log Out"
 msgstr "Chiqish"
 
-#: js/ui/endSessionDialog.js:50
+#: js/ui/endSessionDialog.js:51
 #, javascript-format
 msgid "%s will be logged out automatically in %d second"
 msgid_plural "%s will be logged out automatically in %d seconds"
 msgstr[0] "%s %d soniyadan so‘ng avtomatik ravishda chiqadi"
 
-#: js/ui/endSessionDialog.js:56
+#: js/ui/endSessionDialog.js:57
 #, javascript-format
 msgid "You will be logged out automatically in %d second"
 msgid_plural "You will be logged out automatically in %d seconds"
 msgstr[0] "Siz %d soniyadan keyin avtomatik ravishda chiqasiz"
 
-#: js/ui/endSessionDialog.js:63
+#: js/ui/endSessionDialog.js:64
 msgctxt "button"
 msgid "Log Out"
 msgstr "Chiqish"
 
-#: js/ui/endSessionDialog.js:69 js/ui/status/system.js:181
+#: js/ui/endSessionDialog.js:70 js/ui/status/system.js:181
 msgctxt "title"
 msgid "Power Off"
 msgstr "Oʻchirish"
 
-#: js/ui/endSessionDialog.js:70
+#: js/ui/endSessionDialog.js:71
 msgctxt "title"
 msgid "Install Updates & Power Off"
 msgstr "Yangilanishlarni oʻrnating va oʻchiring"
 
-#: js/ui/endSessionDialog.js:73
+#: js/ui/endSessionDialog.js:74
 #, javascript-format
 msgid "The system will power off automatically in %d second"
 msgid_plural "The system will power off automatically in %d seconds"
 msgstr[0] "Tizim %d soniyada avtomatik ravishda oʻchadi"
 
-#: js/ui/endSessionDialog.js:77 js/ui/endSessionDialog.js:96
+#: js/ui/endSessionDialog.js:78 js/ui/endSessionDialog.js:97
 msgctxt "checkbox"
 msgid "Install pending software updates"
 msgstr "Kutilayotgan dasturiy ta'minot yangilanishlarini oʻrnating"
 
-#: js/ui/endSessionDialog.js:81
+#: js/ui/endSessionDialog.js:82
 msgctxt "button"
 msgid "Power Off"
 msgstr "Oʻchirish"
 
-#: js/ui/endSessionDialog.js:88
+#: js/ui/endSessionDialog.js:89
 msgctxt "title"
 msgid "Restart"
 msgstr "Qayta ishga tushirish"
 
-#: js/ui/endSessionDialog.js:89
+#: js/ui/endSessionDialog.js:90
 msgctxt "title"
 msgid "Install Updates & Restart"
 msgstr "Yangilanishlarni oʻrnating va qayta ishga tushiring"
 
-#: js/ui/endSessionDialog.js:92
+#: js/ui/endSessionDialog.js:93
 #, javascript-format
 msgid "The system will restart automatically in %d second"
 msgid_plural "The system will restart automatically in %d seconds"
 msgstr[0] "Tizim %d soniyadan keyin avtomatik ravishda qayta ishga tushadi"
 
-#: js/ui/endSessionDialog.js:100
+#: js/ui/endSessionDialog.js:101
 msgctxt "button"
 msgid "Restart"
 msgstr "Qayta ishga tushirish"
 
-#: js/ui/endSessionDialog.js:108
+#: js/ui/endSessionDialog.js:109
 msgctxt "title"
 msgid "Restart & Install Updates"
 msgstr "Yangilanishlarni qayta ishga tushiring va oʻrnating"
 
-#: js/ui/endSessionDialog.js:111
+#: js/ui/endSessionDialog.js:112
 #, javascript-format
 msgid "The system will automatically restart and install updates in %d second"
 msgid_plural ""
@@ -1739,48 +1739,48 @@ msgstr[0] ""
 "Tizim avtomatik ravishda qayta ishga tushadi va yangilanishlarni %d soniyada"
 " oʻrnatadi"
 
-#: js/ui/endSessionDialog.js:118
+#: js/ui/endSessionDialog.js:119
 msgctxt "button"
 msgid "Restart & Install"
 msgstr "Qayta ishga tushirish va oʻrnatish"
 
-#: js/ui/endSessionDialog.js:120
+#: js/ui/endSessionDialog.js:121
 msgctxt "button"
 msgid "Install & Power Off"
 msgstr "Oʻrnatish va oʻchirish"
 
-#: js/ui/endSessionDialog.js:121
+#: js/ui/endSessionDialog.js:122
 msgctxt "checkbox"
 msgid "Power off after updates are installed"
 msgstr "Yangilanishlar oʻrnatilgandan keyin quvvatni oʻchiring"
 
-#: js/ui/endSessionDialog.js:262
+#: js/ui/endSessionDialog.js:263
 msgid "Low battery power: please plug in before installing updates"
 msgstr ""
 "Batareya quvvati kam: yangilanishlarni oʻrnatishdan oldin quvvatlang, "
 "iltimos"
 
-#: js/ui/endSessionDialog.js:271
+#: js/ui/endSessionDialog.js:272
 msgid "Some applications are busy or have unsaved work"
 msgstr "Ba'zi ilovalar band yoki saqlanmagan ishlarga ega"
 
-#: js/ui/endSessionDialog.js:276
+#: js/ui/endSessionDialog.js:277
 msgid "Other users are logged in"
 msgstr "Boshqa foydalanuvchilar tizimga kirishgan"
 
-#: js/ui/endSessionDialog.js:431
+#: js/ui/endSessionDialog.js:435
 msgctxt "button"
 msgid "Boot Options"
 msgstr "Yuklash parametrlari"
 
 #. Translators: Remote here refers to a remote session, like a ssh login
-#: js/ui/endSessionDialog.js:637
+#: js/ui/endSessionDialog.js:641
 #, javascript-format
 msgid "%s (remote)"
 msgstr "%s (masofaviy)"
 
 #. Translators: Console here refers to a tty like a VT console
-#: js/ui/endSessionDialog.js:640
+#: js/ui/endSessionDialog.js:644
 #, javascript-format
 msgid "%s (console)"
 msgstr "%s (konsol)"
@@ -1878,7 +1878,7 @@ msgstr "Qoldirish"
 msgid "Turn On"
 msgstr "Yoqish; ishga tushirish"
 
-#: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:455
+#: js/ui/kbdA11yDialog.js:67 js/ui/status/network.js:456
 msgid "Turn Off"
 msgstr "Oʻchirib qoʻyish"
 
@@ -1975,7 +1975,7 @@ msgstr "Ekranni qulflash GNOME displey menejerini talab qiladi"
 
 #. Translators: this is the string displayed in the header when a message
 #. source doesn't have a name
-#: js/ui/messageList.js:403
+#: js/ui/messageList.js:407
 msgid "Unknown App"
 msgstr "Noma'lum ilova"
 
@@ -2389,18 +2389,18 @@ msgstr "Klaviatura"
 msgid "Open keyboard brightness menu"
 msgstr "Klaviatura yoritish menyusini ochish"
 
-#: js/ui/status/bluetooth.js:245 js/ui/status/network.js:360
+#: js/ui/status/bluetooth.js:245 js/ui/status/network.js:361
 msgid "Disconnect"
 msgstr "Uzing"
 
 #. Translators: %s is a device name like "MyPhone"
-#: js/ui/status/bluetooth.js:266 js/ui/status/network.js:354
+#: js/ui/status/bluetooth.js:266 js/ui/status/network.js:355
 #, javascript-format
 msgid "Disconnect %s"
 msgstr "%s aloqasini uzing"
 
 #. Translators: %s is a device name like "MyPhone"
-#: js/ui/status/bluetooth.js:268 js/ui/status/network.js:356
+#: js/ui/status/bluetooth.js:268 js/ui/status/network.js:357
 #, javascript-format
 msgid "Connect to %s"
 msgstr "%s ga ulaning"
@@ -2413,7 +2413,7 @@ msgstr "Bluetooth"
 msgid "Open Bluetooth menu"
 msgstr "Bluetooth menyusini ochish"
 
-#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1925
+#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1939
 msgid "Bluetooth Settings"
 msgstr "Bluetooth sozlamalari"
 
@@ -2492,19 +2492,19 @@ msgstr "Kirishni rad etish"
 msgid "Grant Access"
 msgstr "Ruxsat berish"
 
-#: js/ui/status/network.js:62
+#: js/ui/status/network.js:63
 msgid "<unknown>"
 msgstr "noma’lum turi"
 
-#: js/ui/status/network.js:1060
+#: js/ui/status/network.js:1061
 msgid "Secure"
 msgstr "Xavfsiz"
 
-#: js/ui/status/network.js:1060
+#: js/ui/status/network.js:1061
 msgid "Not secure"
 msgstr "Xavfsiz emas"
 
-#: js/ui/status/network.js:1061
+#: js/ui/status/network.js:1062
 #, javascript-format
 msgid "Signal strength %s%%"
 msgstr "Signal kuchi %s%%"
@@ -2512,98 +2512,98 @@ msgstr "Signal kuchi %s%%"
 #. translators: The first placeholder is the network name, the second and
 #. indication whether it is secure, and the last the signal strength
 #. indication
-#: js/ui/status/network.js:1063
+#: js/ui/status/network.js:1064
 #, javascript-format
 msgid "%s, %s, %s"
 msgstr "%s,%s,%s"
 
 #. Translators: %s is a network identifier
-#: js/ui/status/network.js:1166
+#: js/ui/status/network.js:1165
 #, javascript-format
 msgid "%s Hotspot"
 msgstr "%s Hotspot"
 
-#: js/ui/status/network.js:1447
+#: js/ui/status/network.js:1448
 #, javascript-format
 msgid "%d connected"
 msgid_plural "%d connected"
 msgstr[0] "%d ulandi"
 
-#: js/ui/status/network.js:1545 js/ui/status/network.js:1562
+#: js/ui/status/network.js:1546 js/ui/status/network.js:1563
 msgid "VPN"
 msgstr "VPN"
 
-#: js/ui/status/network.js:1546
+#: js/ui/status/network.js:1547
 msgid "Open VPN menu"
 msgstr "VPN menyusini ochish"
 
-#: js/ui/status/network.js:1547
+#: js/ui/status/network.js:1548
 msgid "VPN Settings"
 msgstr "VPN sozlamalari"
 
-#: js/ui/status/network.js:1807
+#: js/ui/status/network.js:1808
 msgid "Wi–Fi"
 msgstr "Wi-Fi"
 
-#: js/ui/status/network.js:1808
+#: js/ui/status/network.js:1809
 msgid "Open Wi–Fi menu"
 msgstr "Wi-Fi menyusini ochish"
 
-#: js/ui/status/network.js:1810
+#: js/ui/status/network.js:1811
 msgid "All Networks"
 msgstr "Barcha tarmoqlar"
 
-#: js/ui/status/network.js:1907
+#: js/ui/status/network.js:1921
 msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
-#: js/ui/status/network.js:1908
+#: js/ui/status/network.js:1922
 msgid "Open wired connections menu"
 msgstr "Simli ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1909
+#: js/ui/status/network.js:1923
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
-#: js/ui/status/network.js:1923
+#: js/ui/status/network.js:1937
 msgid "Bluetooth Tethers"
 msgstr "Bluetooth tethers"
 
-#: js/ui/status/network.js:1924
+#: js/ui/status/network.js:1938
 msgid "Open Bluetooth tethers menu"
 msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
-#: js/ui/status/network.js:1931
+#: js/ui/status/network.js:1945
 msgid "Tether"
 msgstr "Tether"
 
-#: js/ui/status/network.js:1944
+#: js/ui/status/network.js:1958
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
-#: js/ui/status/network.js:1945
+#: js/ui/status/network.js:1959
 msgid "Open mobile connections menu"
 msgstr "Mobil ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1947
+#: js/ui/status/network.js:1961
 msgid "Mobile Broadband Settings"
 msgstr "Keng polosali mobil moslamalar"
 
 #. Translators: "Mobile" from "Mobile Broadband"
-#: js/ui/status/network.js:1956
+#: js/ui/status/network.js:1970
 msgid "Mobile"
 msgstr "Mobil"
 
-#: js/ui/status/network.js:1990
+#: js/ui/status/network.js:2004
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
-#: js/ui/status/network.js:2177
+#: js/ui/status/network.js:2191
 msgid "Connection failed"
 msgstr "Ulanish amalga oshmadi"
 
-#: js/ui/status/network.js:2178
+#: js/ui/status/network.js:2192
 msgid "Activation of network connection failed"
 msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 
@@ -2962,7 +2962,7 @@ msgstr "Parollar mos kelmaydi"
 msgid "Password cannot be blank"
 msgstr "Parol boʻsh boʻlishi mumkin emas"
 
-#: src/shell-polkit-authentication-agent.c:342
+#: src/shell-polkit-authentication-agent.c:347
 msgid "Authentication dialog was dismissed by the user"
 msgstr "Autentifikatsiya dialogi foydalanuvchi tomonidan oʻchirildi"
 
@@ -2994,15 +2994,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:68
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:69
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:72
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:73
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:76
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:77
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 

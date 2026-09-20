@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcr main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gcr/issues/\n"
-"POT-Creation-Date: 2025-09-09 00:33+0000\n"
+"POT-Creation-Date: 2026-09-01 14:04+0000\n"
 "PO-Revision-Date: 2025-06-21 17:21+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -727,7 +727,7 @@ msgstr "GnuPG jarayon ushbu signal bilan toʻxtatildi: %d"
 
 # Amal deb qo'yish mumkin menimcha
 #: gcr/gcr-gnupg-process.c:928 gcr/gcr-parser.c:1790 gcr/gcr-parser.c:2386
-#: gcr/gcr-system-prompt.c:916
+#: gcr/gcr-system-prompt.c:918
 msgid "The operation was cancelled"
 msgstr "Operatsiya bekor qilindi"
 
@@ -814,7 +814,7 @@ msgstr "Kalit uchun aniqlanmagan yoki mavjud boʻlmagan attributlar"
 msgid "Couldn’t build public key"
 msgstr "Ochiq kalitni yaratib boʻlmadi"
 
-#: gcr/gcr-system-prompt.c:896
+#: gcr/gcr-system-prompt.c:898
 msgid "Another prompt is already in progress"
 msgstr "Boshqa bir soʻrov allaqachon bajarilmoqda"
 

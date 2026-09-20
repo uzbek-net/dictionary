@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2026-09-05 00:49+0000\n"
+"POT-Creation-Date: 2026-09-19 21:42+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -204,7 +204,7 @@ msgstr ""
 #. Translators: A screenshot description.
 #. Translators: Title
 #: data/org.gnome.World.Iotas.metainfo.xml.in.in:113
-#: data/ui/keyboard_shortcuts_dialog.blp:10 data/ui/preferences_dialog.blp:142
+#: data/ui/keyboard_shortcuts_dialog.blp:10 data/ui/preferences_dialog.blp:152
 msgid "Index"
 msgstr "Indeks"
 
@@ -370,7 +370,7 @@ msgstr "Qaydni tahrirlash"
 #. Translators: Button
 #: data/ui/export_dialog.blp:23 data/ui/export_dialog.blp:49
 #: data/ui/export_dialog.blp:75 data/ui/export_dialog.blp:90
-#: iotas/preferences_dialog.py:350 iotas/preferences_dialog.py:375
+#: iotas/preferences_dialog.py:356 iotas/preferences_dialog.py:381
 msgid "Cancel"
 msgstr "Bekor qilish"
 
@@ -1066,104 +1066,114 @@ msgstr "Formatlash paneli"
 
 #. Translators: Title
 #: data/ui/preferences_dialog.blp:77
+msgid "Heading Markup To Margin"
+msgstr ""
+
+#. Translators: Description, preference
+#: data/ui/preferences_dialog.blp:80
+msgid "Markup becomes hanging punctuation when there is space"
+msgstr ""
+
+#. Translators: Title
+#: data/ui/preferences_dialog.blp:87
 msgid "Enable Formatted View"
 msgstr "Formatlangan koʻrinishni yoqish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:80
+#: data/ui/preferences_dialog.blp:90
 msgid "Disable to reduce startup time"
 msgstr "Ishga tushish vaqtini qisqartirish uchun faolsizlantiring"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:87
+#: data/ui/preferences_dialog.blp:97
 msgid "Open In Formatted View"
 msgstr "Formatlangan koʻrinishda ochish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:90
+#: data/ui/preferences_dialog.blp:100
 msgid "Enabling opens all notes as rendered markdown"
 msgstr "Yoqish barcha qaydlarni tayyorlangan markdown sifatida ochadi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:97
+#: data/ui/preferences_dialog.blp:107
 msgid "Support Math Equations"
 msgstr "Matematik tenglamalarni qoʻllab-quvvatlash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:100
+#: data/ui/preferences_dialog.blp:110
 msgid "Slightly decreases render performance"
 msgstr "Tasvir chizish samaradorligi biroz pasayadi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:107
+#: data/ui/preferences_dialog.blp:117
 msgid "Render Using Monospace Font"
 msgstr "Monospace shrifti yordamida tasvirlash"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:113
+#: data/ui/preferences_dialog.blp:123
 msgid "Proportional To Monospace Font Size Ratio"
 msgstr "Monospace shrift oʻlchamiga mutanosib nisbat"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:116
+#: data/ui/preferences_dialog.blp:126
 msgid "In render view. Use 1 for no adjustment."
 msgstr ""
 "Tasvirlash koʻrinishida. Hech qanday oʻzgartirish kiritmaslik uchun 1 ni "
 "tanlang."
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:131
+#: data/ui/preferences_dialog.blp:141
 msgid "Hold Engine In Memory"
 msgstr "Dvigatelni xotirada saqlang"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:134
+#: data/ui/preferences_dialog.blp:144
 msgid "Faster subsequent conversions for higher memory usage"
 msgstr ""
 "Koʻproq xotira sarflash evaziga keyingi oʻzgartirishlarni tezlashtirish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:146
+#: data/ui/preferences_dialog.blp:156
 msgid "Pin Sidebar"
 msgstr "Yon panelni mahkamlash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:149
+#: data/ui/preferences_dialog.blp:159
 msgid "On desktop, when there is space"
 msgstr "Kompyuter ekranida joy yetarli boʻlganda"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:157
+#: data/ui/preferences_dialog.blp:167
 msgid "Category Label Style"
 msgstr "Toifa yorligʻi uslubi"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:164
+#: data/ui/preferences_dialog.blp:174
 msgid "Data"
 msgstr "Maʼlumotlar"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:170
+#: data/ui/preferences_dialog.blp:180
 msgid "Connect Nextcloud"
 msgstr "Nextcloud xizmatini ulash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:173
+#: data/ui/preferences_dialog.blp:183
 msgid "Establish sync with Nextcloud Notes"
 msgstr "Nextcloud qaydlar bilan sinxronlash"
 
 #. Translators: Button
-#: data/ui/preferences_dialog.blp:179
+#: data/ui/preferences_dialog.blp:189
 msgid "Log In"
 msgstr "Kirish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:188
+#: data/ui/preferences_dialog.blp:198
 msgid "Disconnect Nextcloud"
 msgstr "Nextcloud xizmatini uzish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:191
+#: data/ui/preferences_dialog.blp:201
 msgid ""
 "Signs out from Nextcloud Notes. All notes will be removed and the app will "
 "quit."
@@ -1172,45 +1182,45 @@ msgstr ""
 "yopiladi."
 
 #. Translators: Button
-#: data/ui/preferences_dialog.blp:197 iotas/preferences_dialog.py:377
+#: data/ui/preferences_dialog.blp:207 iotas/preferences_dialog.py:383
 msgid "Disconnect"
 msgstr "Aloqani uzish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:210
+#: data/ui/preferences_dialog.blp:220
 msgid "Reset Database"
 msgstr "Ma’lumotlar bazasini asliga qaytarish"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:213
+#: data/ui/preferences_dialog.blp:223
 msgid "Delete all notes from the local database. The app will quit."
 msgstr ""
 "Mahalliy ma’lumotlar bazasidan barcha qaydlarni oʻchirish. Dastur yopiladi."
 
 #. Translators: Button
-#: data/ui/preferences_dialog.blp:219 iotas/preferences_dialog.py:352
+#: data/ui/preferences_dialog.blp:229 iotas/preferences_dialog.py:358
 msgid "Reset"
 msgstr "Qayta tiklash"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:234
+#: data/ui/preferences_dialog.blp:244
 msgid "Debug"
 msgstr "Xatoliklarni koʻrish"
 
 #. Translators: Title
-#: data/ui/preferences_dialog.blp:240
+#: data/ui/preferences_dialog.blp:250
 msgid "Clear Sync Timestamp"
 msgstr "Sinxronlash vaqtini tozalash"
 
 #. Translators: Description, preference
-#: data/ui/preferences_dialog.blp:243
+#: data/ui/preferences_dialog.blp:253
 msgid "Forces a pull of all notes from the sync server"
 msgstr ""
 "Sinxronlash serveridan barcha qaydlarni majburiy ravishda yuklab olishni "
 "amalga oshiradi"
 
 #. Translators: Button
-#: data/ui/preferences_dialog.blp:249
+#: data/ui/preferences_dialog.blp:259
 msgid "Clear"
 msgstr "Tozalash"
 
@@ -1352,17 +1362,17 @@ msgid "Uncategorized"
 msgstr "Toifalanmagan"
 
 #. Translators: Description, notification, {0} is a number
-#: iotas/editor.py:997
+#: iotas/editor.py:1005
 #, python-brace-format
 msgid "Line length now {0}px"
 msgstr "Qator uzunligi endi {0}px"
 
 #. Translators: Description, notification
-#: iotas/editor.py:1003
+#: iotas/editor.py:1011
 msgid "Line length limit disabled"
 msgstr "Qator uzunligi cheklovi oʻchirilgan"
 
-#: iotas/editor.py:1589
+#: iotas/editor.py:1613
 msgid "Opening link in browser"
 msgstr "Havola brauzerda ochilmoqda"
 
@@ -1383,17 +1393,19 @@ msgstr "Manziliga eksport qilindi {}"
 
 #. Translators: Description, {} is a format eg. PDF
 #: iotas/export_dialog.py:150
+#, python-brace-format
 msgid "Exported to {}"
 msgstr "Manziliga eksport qilindi {}"
 
 #. Translators: Description, notification, {} is a number
 #: iotas/export_dialog.py:192
+#, python-brace-format
 msgid "Transferring {} attachment"
 msgid_plural "Transferring {} attachments"
 msgstr[0] ""
 
 #: iotas/export_dialog.py:269
-#, fuzzy
+#, fuzzy, python-brace-format
 #| msgid "One or more attachments failed to transfer."
 msgid "{} attachment failed to transfer"
 msgid_plural "{} attachments failed to transfer"
@@ -1406,6 +1418,7 @@ msgstr "Oʻtkazma amalga oshmadi"
 
 #. Translators: Description, {} is a format eg. PDF
 #: iotas/export_dialog.py:403
+#, python-brace-format
 msgid "Failed to export to {}"
 msgstr "{}ʼga eksport qilish muvaffaqiyatsiz yakunlandi"
 
@@ -1449,6 +1462,7 @@ msgstr "Sinxronlash"
 
 #. Translators: Description, notification, {} is a number
 #: iotas/index.py:569
+#, python-brace-format
 msgid "{} change"
 msgid_plural "{} changes"
 msgstr[0] "{} ta o‘zgarish"
@@ -1468,6 +1482,7 @@ msgstr "Yuklanmoqda"
 
 #. Translators: Description, notification, {} is a positive number
 #: iotas/index.py:737
+#, python-brace-format
 msgid "{} notes deleted"
 msgstr "{} ta qayd oʻchirib tashlandi"
 
@@ -1530,115 +1545,115 @@ msgstr "Tizimga kirishni boshlab boʻlmadi. Manzil xatomi?"
 
 #. Translators: Description, a style name
 #. Translators: Description, a visual style (for category labels in index)
-#: iotas/preferences_dialog.py:75 iotas/preferences_dialog.py:107
+#: iotas/preferences_dialog.py:76 iotas/preferences_dialog.py:108
 msgid "Monochrome"
 msgstr "Monoxrom"
 
 #. Translators: Description, a style name
-#: iotas/preferences_dialog.py:77
+#: iotas/preferences_dialog.py:78
 msgid "Muted Markup"
 msgstr "Tovushsiz belgi"
 
 #. Translators: Description, a style name
-#: iotas/preferences_dialog.py:79
+#: iotas/preferences_dialog.py:80
 msgid "Bold Markup"
 msgstr "Qalin belgilash"
 
 #. Translators: Description, a style name
 #. Translators: Description, for preference option - a description of
 #. visibility
-#: iotas/preferences_dialog.py:81 iotas/preferences_dialog.py:134
+#: iotas/preferences_dialog.py:82 iotas/preferences_dialog.py:135
 msgid "Disabled"
 msgstr "Oʻchirilgan"
 
 #. Translators: Description, a visual style (for category labels in index)
-#: iotas/preferences_dialog.py:109
+#: iotas/preferences_dialog.py:110
 msgid "Muted"
 msgstr "Tovushsiz"
 
 #. Translators: Description, a visual style (for category labels in index)
-#: iotas/preferences_dialog.py:111
+#: iotas/preferences_dialog.py:112
 msgid "Blue"
 msgstr "Moviy"
 
 #. Translators: Description, a visual style (for category labels in index)
-#: iotas/preferences_dialog.py:113
+#: iotas/preferences_dialog.py:114
 msgid "Orange"
 msgstr "Olov rang"
 
 #. Translators: Description, a visual style (for category labels in index)
-#: iotas/preferences_dialog.py:115
+#: iotas/preferences_dialog.py:116
 msgid "Red"
 msgstr "Qizil"
 
 #. Translators: Description, a visual style (for category labels in index)
-#: iotas/preferences_dialog.py:117
+#: iotas/preferences_dialog.py:118
 msgid "None"
 msgstr "Hech biri"
 
 #. Translators: Description, for preference option - a description of
 #. visibility
-#: iotas/preferences_dialog.py:128 iotas/preferences_dialog.py:148
+#: iotas/preferences_dialog.py:129 iotas/preferences_dialog.py:149
 msgid "Always Visible"
 msgstr "Har doim koʻrinadigan"
 
 #. Translators: Description, for preference option - a description of
 #. visibility
-#: iotas/preferences_dialog.py:130 iotas/preferences_dialog.py:150
+#: iotas/preferences_dialog.py:131 iotas/preferences_dialog.py:151
 msgid "Automatically Hide"
 msgstr "Avtomatik berkitish"
 
 #. Translators: Description, for preference option - a description of
 #. visibility
-#: iotas/preferences_dialog.py:132 iotas/preferences_dialog.py:152
+#: iotas/preferences_dialog.py:133 iotas/preferences_dialog.py:153
 msgid "Auto Hide When Fullscreen"
 msgstr "Toʻliq ekran vaqtida avtomatik berkitish"
 
 #. Translators: Description, notification, {0} is a number
-#: iotas/preferences_dialog.py:285
+#: iotas/preferences_dialog.py:291
 #, python-brace-format
 msgid "Reducing in {0} presses"
 msgstr "{0} marta bosib kamaytirilmoqda"
 
 #. Translators: Description, notification, {0} is a number
-#: iotas/preferences_dialog.py:288
+#: iotas/preferences_dialog.py:294
 #, python-brace-format
 msgid "Extending in {0} presses"
 msgstr "{0} marta bosib kengaytirilmoqda"
 
 #. Translators: Description, notification
-#: iotas/preferences_dialog.py:293
+#: iotas/preferences_dialog.py:299
 msgid "Extended hidden"
 msgstr "Kengaytirilgan berkitilish"
 
 #. Translators: Description, notification
-#: iotas/preferences_dialog.py:296
+#: iotas/preferences_dialog.py:302
 msgid "Extended shown"
 msgstr "Kengaytirilgan koʻrinish"
 
 #. Translators: Description, notification. Needs to be short for toast.
-#: iotas/preferences_dialog.py:325
+#: iotas/preferences_dialog.py:331
 msgid "Hiding discouraged on mobile"
 msgstr "Mobil qurilmada berkitish tavsiya etilmaydi"
 
 #. Translators: Title
-#: iotas/preferences_dialog.py:345
+#: iotas/preferences_dialog.py:351
 msgid "Reset Database?"
 msgstr "Ma’lumotlar bazasi asliga qaytarilsinmi?"
 
 #. Translators: Description
-#: iotas/preferences_dialog.py:347
+#: iotas/preferences_dialog.py:353
 msgid "All notes will be deleted. Continue with the reset?"
 msgstr ""
 "Barcha qaydlar oʻchirib tashlanadi. Asliga qaytarish davom ettirilsinmi?"
 
 #. Translators: Title
-#: iotas/preferences_dialog.py:370
+#: iotas/preferences_dialog.py:376
 msgid "Disconnect Nextcloud?"
 msgstr "Nextcloud aloqasi uzilsinmi?"
 
 #. Translators: Description
-#: iotas/preferences_dialog.py:372
+#: iotas/preferences_dialog.py:378
 msgid "All notes will be removed. Do you want to sign out?"
 msgstr "Barcha qaydlar olib tashlanadi. Hisobdan chiqasizmi?"
 
@@ -1649,6 +1664,7 @@ msgstr "Faqat oʻqish mumkin boʻlgan qaydda toifani oʻzgartirish imkonsiz"
 
 #. Translators: Description, {} is a number
 #: iotas/selection_header_bar.py:184
+#, python-brace-format
 msgid "{} Selected"
 msgstr "{} tanlangan"
 

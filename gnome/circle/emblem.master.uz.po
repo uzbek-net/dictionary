@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: emblem master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/design/emblem/-/issues\n"
-"POT-Creation-Date: 2026-08-29 15:28+0000\n"
+"POT-Creation-Date: 2026-09-17 16:27+0000\n"
 "PO-Revision-Date: 2025-10-06 16:54+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -47,8 +47,8 @@ msgid "Main window"
 msgstr "Asosiy oyna"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.design.Emblem.metainfo.xml.in.in:89
-#: data/org.gnome.design.Emblem.metainfo.xml.in.in:91
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:94
+#: data/org.gnome.design.Emblem.metainfo.xml.in.in:96
 msgid "Maximiliano Sandoval"
 msgstr ""
 
