@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: showtime main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/showtime/-/issues\n"
-"POT-Creation-Date: 2026-04-04 07:19+0000\n"
+"POT-Creation-Date: 2026-09-22 14:19+0000\n"
 "PO-Revision-Date: 2025-04-04 18:58+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -87,6 +87,7 @@ msgstr "Noma'lum sarlavha"
 #. Translators: The variable is the number of channels
 #. in an audio track
 #: showtime/widgets/options.py:93
+#, python-brace-format
 msgid "Undetermined, {} Channel"
 msgid_plural "Undetermined, {} Channels"
 msgstr[0] "Aniqlanmagan, {} kanal"
@@ -147,6 +148,7 @@ msgid "Installing…"
 msgstr "Oʻrnatilmoqda…"
 
 #: showtime/widgets/window.py:842
+#, python-brace-format
 msgid "“{}” codecs are required to play this video"
 msgstr "Bu videoni ijro etish uchun “{}” kodeklari talab qilinadi"
 
@@ -155,6 +157,7 @@ msgid "Install Plugin"
 msgstr "Plaginni oʻrnating"
 
 #: showtime/widgets/window.py:851
+#, python-brace-format
 msgid "The “{}” codecs required to play this video could not be found"
 msgstr ""
 "Bu videoni ijro etish uchun zarur boʻlgan “{}” kodeklarini topib boʻlmadi"

@@ -469,6 +469,7 @@ msgid "Unable to play the file"
 msgstr "Faylni oʻynatib boʻlmadi"
 
 #: gnomemusic/gstplayer.py:461
+#, python-brace-format
 msgid "_Find in {}"
 msgstr "_Topish: {}"
 
@@ -483,6 +484,7 @@ msgid ", "
 msgstr ", "
 
 #: gnomemusic/gstplayer.py:476
+#, python-brace-format
 msgid "{} is required to play the file, but is not installed."
 msgid_plural "{} are required to play the file, but are not installed."
 msgstr[0] "Faylni ijro etish uchun {} zarur, lekin oʻrnatilmagan."
@@ -493,6 +495,7 @@ msgid "Playing music"
 msgstr "Musiqa ijro etilmoqda"
 
 #: gnomemusic/playlisttoast.py:55
+#, python-brace-format
 msgid "Playlist {} removed"
 msgstr "{} pleylist olib tashlandi"
 
@@ -501,6 +504,7 @@ msgid "Undo"
 msgstr "Oldingi buyruqni bekor qilish"
 
 #: gnomemusic/songtoast.py:64
+#, python-brace-format
 msgid "{} removed from {}"
 msgstr "{} {} roʻyxatidan olib tashlandi"
 
@@ -544,6 +548,9 @@ msgid "Try a different search"
 msgstr "Boshqa qidiruvni sinab koʻring"
 
 #: gnomemusic/widgets/albumwidget.py:244
+#, fuzzy, python-brace-format
+#| msgid "{} minute"
+#| msgid_plural "{} minutes"
 msgid "{} minute"
 msgid_plural "{} minutes"
 msgstr[0] "%d daqiqa"
@@ -554,6 +561,7 @@ msgid "Pause"
 msgstr "Pauza"
 
 #: gnomemusic/widgets/playlistcontrols.py:130
+#, python-brace-format
 msgid "{} Song"
 msgid_plural "{} Songs"
 msgstr[0] "{} Qoʻshiq"
@@ -590,6 +598,7 @@ msgstr "Musiqa papkasi"
 #. a user's music folder. {} will be replaced with the
 #. translated text 'Music folder'
 #: gnomemusic/widgets/statusnavigationpage.py:60
+#, python-brace-format
 msgid "The contents of your {} will appear here."
 msgstr "{} kontenti shu yerda chiqadi."
 

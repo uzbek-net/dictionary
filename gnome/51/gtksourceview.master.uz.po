@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtksourceview master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
-"POT-Creation-Date: 2026-07-28 17:20+0000\n"
+"POT-Creation-Date: 2026-09-22 02:15+0000\n"
 "PO-Revision-Date: 2025-10-30 15:49+0500\n"
 "Last-Translator: BeMeritus <bemerituss@gmail.com>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -408,9 +408,10 @@ msgstr "Hujjat soʻzlari"
 
 #: gtksourceview/gtksourcebufferoutputstream.c:607
 #: gtksourceview/gtksourcefileloader.c:242
-#: gtksourceview/gtksourcefileloader.c:275
-#: gtksourceview/gtksourcefileloader.c:285
-#: gtksourceview/gtksourcefileloader.c:753
+#: gtksourceview/gtksourcefileloader.c:271
+#: gtksourceview/gtksourcefileloader.c:284
+#: gtksourceview/gtksourcefileloader.c:294
+#: gtksourceview/gtksourcefileloader.c:762
 msgid "File too big."
 msgstr "Fayl juda katta."
 
@@ -645,14 +646,14 @@ msgstr "Nomaʼlum"
 msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
 msgstr "[ʼUTF-8ʼ, ʼJORIYʼ, ʼISO-8859-15ʼ, ʼUTF-16ʼ]"
 
-#: gtksourceview/gtksourcefileloader.c:625
+#: gtksourceview/gtksourcefileloader.c:634
 msgid ""
 "There was an encoding conversion error so a fallback character was used."
 msgstr ""
 "Kodlashda konvertatsiya qilishda xatolik yuz berdi, shuning uchun zaxira "
 "belgidan foydalanildi."
 
-#: gtksourceview/gtksourcefileloader.c:890
+#: gtksourceview/gtksourcefileloader.c:899
 msgid "Not a regular file."
 msgstr "Oddiy fayl emas."
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-09-19 02:01+0000\n"
+"POT-Creation-Date: 2026-09-26 10:52+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -503,7 +503,7 @@ msgstr "Ism yoʻq"
 #. encoding information or it is unknown.  Example:
 #. Encoding: None
 #: libdocument/backend/pdf/pps-poppler.c:958
-#: libview/pps-print-operation.c:1878 shell/src/properties_general.rs:85
+#: libview/pps-print-operation.c:1879 shell/src/properties_general.rs:85
 #: shell/src/properties_general.rs:235 shell/src/properties_general.rs:370
 msgid "None"
 msgstr "Hech biri"
@@ -788,19 +788,19 @@ msgstr "_Yopish"
 msgid "Print"
 msgstr "Chop etish"
 
-#: libview/pps-print-operation.c:1871
+#: libview/pps-print-operation.c:1872
 msgid "Page Scaling:"
 msgstr "Betni oʻldirish:"
 
-#: libview/pps-print-operation.c:1879
+#: libview/pps-print-operation.c:1880
 msgid "Shrink to Printable Area"
 msgstr "Chop qilish hududiga kengaytirish"
 
-#: libview/pps-print-operation.c:1880
+#: libview/pps-print-operation.c:1881
 msgid "Fit to Printable Area"
 msgstr "Chop qilish maydoniga joylashtirish"
 
-#: libview/pps-print-operation.c:1887
+#: libview/pps-print-operation.c:1888
 msgid ""
 "Scale document pages to fit the selected printer page. Select from one of the following:\n"
 "\n"
@@ -818,11 +818,11 @@ msgstr ""
 "\n"
 "• \"Chop etish maydoniga moslash\": Hujjat sahifalari printer sahifasining chop etiladigan maydoniga moslashish uchun zarur boʻlganda kattalashtiriladi yoki qisqartiriladi.\n"
 
-#: libview/pps-print-operation.c:1898
+#: libview/pps-print-operation.c:1899
 msgid "Auto Rotate and Center"
 msgstr "Avtomatik burish va markazlashtirish"
 
-#: libview/pps-print-operation.c:1901
+#: libview/pps-print-operation.c:1902
 msgid ""
 "Rotate printer page orientation of each page to match orientation of each "
 "document page. Document pages will be centered within the printer page."
@@ -830,11 +830,11 @@ msgstr ""
 "Har bir hujjat sahifasiga moslab printer sahifasini burish. Hujjat "
 "sahifalari printer sahifasida markazlashtiriladi."
 
-#: libview/pps-print-operation.c:1905
+#: libview/pps-print-operation.c:1906
 msgid "Select page size using document page size"
 msgstr "Hujjat beti oʻlchamidan foydalanib betning oʻlchamini tanlash"
 
-#: libview/pps-print-operation.c:1907
+#: libview/pps-print-operation.c:1908
 msgid ""
 "When enabled, each page will be printed on the same size paper as the "
 "document page."
@@ -842,15 +842,15 @@ msgstr ""
 "Agar yoqilsa, har bir sahifa hujjat sahifasi bilan bir xil qogʻoz hajmida "
 "chop qilinadi."
 
-#: libview/pps-print-operation.c:1911
+#: libview/pps-print-operation.c:1912
 msgid "Draw border around pages"
 msgstr "Betlarning chegarasini koʻrish"
 
-#: libview/pps-print-operation.c:1913
+#: libview/pps-print-operation.c:1914
 msgid "When enabled, a border will be drawn around each page."
 msgstr "Agar belgilansa, betning chegarasi boʻylab rasm chiziladi."
 
-#: libview/pps-print-operation.c:2010
+#: libview/pps-print-operation.c:2011
 msgid "Page Handling"
 msgstr "Sahifalarni qayta ishlash"
 

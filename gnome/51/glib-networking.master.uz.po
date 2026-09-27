@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: glib-networking master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib-networking/issues\n"
-"POT-Creation-Date: 2026-06-05 06:57+0000\n"
+"POT-Creation-Date: 2026-09-23 19:10+0000\n"
 "PO-Revision-Date: 2025-04-13 09:39+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -39,7 +39,7 @@ msgid "Cannot perform blocking operation during TLS handshake"
 msgstr "TLS bogʻlanish jarayonida bloklovchi operatsiyani bajarib boʻlmaydi"
 
 #: tls/base/gtlsconnection-base.c:754 tls/base/gtlsconnection-base.c:1300
-#: tls/openssl/gtlsconnection-openssl.c:356
+#: tls/openssl/gtlsconnection-openssl.c:379
 msgid "Socket I/O timed out"
 msgstr "Soket I/O javob bermadi"
 
@@ -53,8 +53,8 @@ msgid "Handshake is not finished, no channel binding information yet"
 msgstr "Bogʻlanish tugamagan, hali kanal biriktirish ma’lumoti mavjud emas"
 
 #: tls/base/gtlsconnection-base.c:1703 tls/gnutls/gtlsconnection-gnutls.c:484
-#: tls/openssl/gtlsconnection-openssl.c:183
-#: tls/openssl/gtlsconnection-openssl.c:793
+#: tls/openssl/gtlsconnection-openssl.c:184
+#: tls/openssl/gtlsconnection-openssl.c:816
 msgid "Unacceptable TLS certificate"
 msgstr "Qabulqilib boʻlmas TLS sertifikat"
 
@@ -129,18 +129,18 @@ msgstr "TLS ulanishini yaratish mumkin emas: %s"
 #: tls/gnutls/gtlsconnection-gnutls.c:436
 #: tls/gnutls/gtlsconnection-gnutls.c:445
 #: tls/gnutls/gtlsconnection-gnutls.c:455
-#: tls/openssl/gtlsconnection-openssl.c:158
+#: tls/openssl/gtlsconnection-openssl.c:159
 #, c-format
 msgid "Peer failed to perform TLS handshake: %s"
 msgstr "Peer TLSga bogʻlanishda xatolik yuzberdi : %s"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:462
-#: tls/openssl/gtlsconnection-openssl.c:207
+#: tls/openssl/gtlsconnection-openssl.c:208
 msgid "TLS connection closed unexpectedly"
 msgstr "TLS ulanishi kutilmaganda yopildi"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:477
-#: tls/openssl/gtlsconnection-openssl.c:176
+#: tls/openssl/gtlsconnection-openssl.c:177
 msgid "TLS connection peer did not send a certificate"
 msgstr "TLS ulanishdagi qarshi tomon sertifikat yubormadi"
 
@@ -187,22 +187,22 @@ msgid "Channel binding data is not yet available"
 msgstr "Kanal biriktirish ma’lumotlari hali mavjud emas"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:1187
-#: tls/openssl/gtlsconnection-openssl.c:768
+#: tls/openssl/gtlsconnection-openssl.c:791
 #, c-format
 msgid "Requested channel binding type is not implemented"
 msgstr "Soʻralgan kanal biriktirish turi implementatsiya qilinmagan"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:1208
 #: tls/gnutls/gtlsconnection-gnutls.c:1268
-#: tls/openssl/gtlsconnection-openssl.c:786
-#: tls/openssl/gtlsconnection-openssl.c:882
+#: tls/openssl/gtlsconnection-openssl.c:809
+#: tls/openssl/gtlsconnection-openssl.c:905
 msgid "Error reading data from TLS socket"
 msgstr "TLS socket'ida ma’lumot oʻqishda xatolik yuz berdi"
 
 #. flags
 #: tls/gnutls/gtlsconnection-gnutls.c:1290
 #: tls/gnutls/gtlsconnection-gnutls.c:1353
-#: tls/openssl/gtlsconnection-openssl.c:961
+#: tls/openssl/gtlsconnection-openssl.c:984
 msgid "Error writing data to TLS socket"
 msgstr "TLS soketiga ma’lumot yozishda xatolik yuz berdi"
 
@@ -291,55 +291,55 @@ msgstr "TLS ulanishini yaratish mumkin emas: %s"
 msgid "Could not create TLS context: %s"
 msgstr "TLS kontekstini yaratib boʻlmadi: %s"
 
-#: tls/openssl/gtlsconnection-openssl.c:190
+#: tls/openssl/gtlsconnection-openssl.c:191
 msgid "Unacceptable TLS certificate authority"
 msgstr "Qabul qilib boʻlmaydigan TLS sertifikat"
 
-#: tls/openssl/gtlsconnection-openssl.c:197
+#: tls/openssl/gtlsconnection-openssl.c:198
 msgid "Digest too big for RSA key"
 msgstr "Digest RSA kaliti uchun juda katta"
 
-#: tls/openssl/gtlsconnection-openssl.c:240
+#: tls/openssl/gtlsconnection-openssl.c:241
 #, c-format
 msgid "%s: The connection is broken"
 msgstr "%s: Ulanish uzilgan"
 
-#: tls/openssl/gtlsconnection-openssl.c:618
+#: tls/openssl/gtlsconnection-openssl.c:641
 msgid "The request is invalid."
 msgstr "Soʻrov yaroqsiz."
 
-#: tls/openssl/gtlsconnection-openssl.c:640
+#: tls/openssl/gtlsconnection-openssl.c:663
 msgid "Channel binding data tls-unique is not available"
 msgstr "Kanal tls-unique biriktirish ma’lumotlari mavjud emas"
 
-#: tls/openssl/gtlsconnection-openssl.c:663
+#: tls/openssl/gtlsconnection-openssl.c:686
 msgid "X.509 Certificate is not available on the connection"
 msgstr "Ulanishda X.509 sertifikati mavjud emas"
 
-#: tls/openssl/gtlsconnection-openssl.c:672
+#: tls/openssl/gtlsconnection-openssl.c:695
 msgid "Unable to obtain certificate signature algorithm"
 msgstr "Sertifikat imzo algoritmini olishning iloji yoʻq"
 
-#: tls/openssl/gtlsconnection-openssl.c:692
+#: tls/openssl/gtlsconnection-openssl.c:715
 msgid ""
 "Current X.509 certificate uses unknown or unsupported signature algorithm"
 msgstr ""
 "Amaldagi X.509 sertifikati noma’lum yoki qoʻllab-quvvatlanmaydigan imzo "
 "algoritmidan foydalanmoqda"
 
-#: tls/openssl/gtlsconnection-openssl.c:710
+#: tls/openssl/gtlsconnection-openssl.c:733
 msgid "Failed to generate X.509 certificate digest"
 msgstr "X.509 sertifikat hazm qilish jarayonida xatolik"
 
-#: tls/openssl/gtlsconnection-openssl.c:741
+#: tls/openssl/gtlsconnection-openssl.c:764
 msgid "TLS Connection does not support TLS-Exporter feature"
 msgstr "TLS ulanishi TLS-Exporter funksiyasini qoʻllab-quvvatlamaydi"
 
-#: tls/openssl/gtlsconnection-openssl.c:744
+#: tls/openssl/gtlsconnection-openssl.c:767
 msgid "Unexpected error while exporting keying data"
 msgstr "Kalit ma’lumotlarini eksport qilishda kutilmagan xatolik"
 
-#: tls/openssl/gtlsconnection-openssl.c:1022
+#: tls/openssl/gtlsconnection-openssl.c:1045
 msgid "Error performing TLS close"
 msgstr "TLS yopish jarayonida xatolik"
 

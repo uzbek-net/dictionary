@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-09-17 14:24+0000\n"
+"POT-Creation-Date: 2026-09-24 20:36+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -630,15 +630,15 @@ msgstr ""
 msgid "Ignore"
 msgstr ""
 
-#: js/gdm/authPrompt.js:269
+#: js/gdm/authPrompt.js:271
 msgid "Back"
 msgstr ""
 
-#: js/gdm/authPrompt.js:366
+#: js/gdm/authPrompt.js:368
 msgid "Submit"
 msgstr ""
 
-#: js/gdm/authPrompt.js:533 js/gdm/authServicesLegacy.js:25
+#: js/gdm/authPrompt.js:535 js/gdm/authServicesLegacy.js:25
 #: js/ui/components/networkAgent.js:214 js/ui/components/networkAgent.js:234
 #: js/ui/components/networkAgent.js:266 js/ui/components/networkAgent.js:299
 #: js/ui/components/networkAgent.js:338 js/ui/components/networkAgent.js:351
@@ -763,7 +763,7 @@ msgstr ""
 "Majburiy toʻxtatish har qanday ishlayotgan ilova va jarayonlarni toʻxtatadi "
 "va ma’lumotlar yoʻqolishiga olib kelishi mumkin"
 
-#: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:192
+#: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:234
 #: js/ui/audioDeviceSelection.js:61 js/ui/components/networkAgent.js:114
 #: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:406
 #: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:399
@@ -775,48 +775,48 @@ msgstr "Bekor qilish"
 msgid "Force Stop"
 msgstr "Majburiy toʻxtatish"
 
-#: js/gdm/loginDialog.js:53 js/gdm/loginDialog.js:537
-#: js/ui/unlockDialog.js:679
+#: js/gdm/loginDialog.js:54 js/gdm/loginDialog.js:538
+#: js/ui/unlockDialog.js:683
 #, fuzzy
 #| msgctxt "button"
 #| msgid "Boot Options"
 msgid "Login Options"
 msgstr "Yuklash parametrlari"
 
-#: js/gdm/loginDialog.js:54
+#: js/gdm/loginDialog.js:55
 msgid "Session Type"
 msgstr ""
 
-#: js/gdm/loginDialog.js:332 js/ui/status/accessibility.js:35
+#: js/gdm/loginDialog.js:333 js/ui/status/accessibility.js:35
 msgid "Accessibility"
 msgstr "Foydalanish imkoniyati"
 
-#: js/gdm/loginDialog.js:453
+#: js/gdm/loginDialog.js:454
 msgid "Not listed?"
 msgstr "Roʻyxatga kiritilmaganmi?"
 
 #. Translators: this message is shown below the username entry field
 #. to clue the user in on how to login to the local network realm
-#: js/gdm/loginDialog.js:1103
+#: js/gdm/loginDialog.js:1104
 #, javascript-format
 msgid "(e.g., user or %s)"
 msgstr "(masalan, foydalanuvchi yoki %s)"
 
-#: js/gdm/loginDialog.js:1110 js/ui/components/networkAgent.js:258
+#: js/gdm/loginDialog.js:1111 js/ui/components/networkAgent.js:258
 #: js/ui/components/networkAgent.js:293 js/ui/components/networkAgent.js:327
 #: subprojects/extensions-tool/src/command-upload.c:234
 msgid "Username"
 msgstr "Foydalanuvchi nomi"
 
-#: js/gdm/loginDialog.js:1174
+#: js/gdm/loginDialog.js:1175
 msgid "Login Attempt Timed Out"
 msgstr "Kirish urinish vaqti tugadi"
 
-#: js/gdm/loginDialog.js:1175
+#: js/gdm/loginDialog.js:1176
 msgid "Login took too long, please try again"
 msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
-#: js/gdm/loginDialog.js:1538
+#: js/gdm/loginDialog.js:1539
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
@@ -824,7 +824,7 @@ msgstr "Kirish oynasi"
 msgid "Authentication error"
 msgstr "Autentifikatsiya xatosi"
 
-#: js/gdm/webLogin.js:63
+#: js/gdm/webLogin.js:105
 msgid "Login code: "
 msgstr ""
 
@@ -2060,7 +2060,7 @@ msgstr "Ekranni qulflash GNOME displey menejerini talab qiladi"
 
 #. Translators: this is the string displayed in the header when a message
 #. source doesn't have a name
-#: js/ui/messageList.js:409
+#: js/ui/messageList.js:407
 msgid "Unknown App"
 msgstr "Noma'lum ilova"
 
@@ -2505,7 +2505,7 @@ msgstr "Bluetooth"
 msgid "Open Bluetooth menu"
 msgstr "Bluetooth menyusini ochish"
 
-#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1939
+#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1942
 msgid "Bluetooth Settings"
 msgstr "Bluetooth sozlamalari"
 
@@ -2610,92 +2610,92 @@ msgid "%s, %s, %s"
 msgstr "%s,%s,%s"
 
 #. Translators: %s is a network identifier
-#: js/ui/status/network.js:1165
+#: js/ui/status/network.js:1167
 #, javascript-format
 msgid "%s Hotspot"
 msgstr "%s Hotspot"
 
-#: js/ui/status/network.js:1448
+#: js/ui/status/network.js:1450
 #, javascript-format
 msgid "%d connected"
 msgid_plural "%d connected"
 msgstr[0] "%d ulandi"
 
-#: js/ui/status/network.js:1546 js/ui/status/network.js:1563
+#: js/ui/status/network.js:1548 js/ui/status/network.js:1565
 msgid "VPN"
 msgstr "VPN"
 
-#: js/ui/status/network.js:1547
+#: js/ui/status/network.js:1549
 msgid "Open VPN menu"
 msgstr "VPN menyusini ochish"
 
-#: js/ui/status/network.js:1548
+#: js/ui/status/network.js:1550
 msgid "VPN Settings"
 msgstr "VPN sozlamalari"
 
-#: js/ui/status/network.js:1808
+#: js/ui/status/network.js:1811
 msgid "Wi–Fi"
 msgstr "Wi-Fi"
 
-#: js/ui/status/network.js:1809
+#: js/ui/status/network.js:1812
 msgid "Open Wi–Fi menu"
 msgstr "Wi-Fi menyusini ochish"
 
-#: js/ui/status/network.js:1811
+#: js/ui/status/network.js:1814
 msgid "All Networks"
 msgstr "Barcha tarmoqlar"
 
-#: js/ui/status/network.js:1921
+#: js/ui/status/network.js:1924
 msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
-#: js/ui/status/network.js:1922
+#: js/ui/status/network.js:1925
 msgid "Open wired connections menu"
 msgstr "Simli ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1923
+#: js/ui/status/network.js:1926
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
-#: js/ui/status/network.js:1937
+#: js/ui/status/network.js:1940
 msgid "Bluetooth Tethers"
 msgstr "Bluetooth tethers"
 
-#: js/ui/status/network.js:1938
+#: js/ui/status/network.js:1941
 msgid "Open Bluetooth tethers menu"
 msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
-#: js/ui/status/network.js:1945
+#: js/ui/status/network.js:1948
 msgid "Tether"
 msgstr "Tether"
 
-#: js/ui/status/network.js:1958
+#: js/ui/status/network.js:1961
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
-#: js/ui/status/network.js:1959
+#: js/ui/status/network.js:1962
 msgid "Open mobile connections menu"
 msgstr "Mobil ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1961
+#: js/ui/status/network.js:1964
 msgid "Mobile Broadband Settings"
 msgstr "Keng polosali mobil moslamalar"
 
 #. Translators: "Mobile" from "Mobile Broadband"
-#: js/ui/status/network.js:1970
+#: js/ui/status/network.js:1973
 msgid "Mobile"
 msgstr "Mobil"
 
-#: js/ui/status/network.js:2004
+#: js/ui/status/network.js:2007
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
-#: js/ui/status/network.js:2191
+#: js/ui/status/network.js:2194
 msgid "Connection failed"
 msgstr "Ulanish amalga oshmadi"
 
-#: js/ui/status/network.js:2192
+#: js/ui/status/network.js:2195
 msgid "Activation of network connection failed"
 msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 
@@ -2777,7 +2777,7 @@ msgstr "Oʻchirish…"
 msgid "Log Out…"
 msgstr "Chiqish…"
 
-#: js/ui/status/system.js:204 js/ui/unlockDialog.js:672
+#: js/ui/status/system.js:204 js/ui/unlockDialog.js:676
 msgid "Switch User…"
 msgstr "Foydalanuvchini almashtirish…"
 
@@ -2883,31 +2883,31 @@ msgstr "Yuklash parametrlari"
 
 #. Translators: This is a time format for a date in
 #. long format
-#: js/ui/unlockDialog.js:420
+#: js/ui/unlockDialog.js:421
 msgid "%A %B %-d"
 msgstr "%A %B %d"
 
-#: js/ui/unlockDialog.js:435
+#: js/ui/unlockDialog.js:436
 #, fuzzy
 #| msgid "Swipe up to unlock"
 msgid "Swipe up"
 msgstr "Qulfni ochish uchun tepaga suring"
 
-#: js/ui/unlockDialog.js:437
+#: js/ui/unlockDialog.js:438
 #, fuzzy
 #| msgid "Click or press a key to unlock"
 msgid "Click or press a key"
 msgstr "Qulfni ochish uchun tugmani bosing yoki bosing"
 
-#: js/ui/unlockDialog.js:653
+#: js/ui/unlockDialog.js:657
 msgid "Unlock Window"
 msgstr "Oyna qulfini ochish"
 
-#: js/ui/unlockDialog.js:667
+#: js/ui/unlockDialog.js:671
 msgid "Log in as another user"
 msgstr "Boshqa foydalanuvchi sifatida tizimga kiring"
 
-#: js/ui/unlockDialog.js:695
+#: js/ui/unlockDialog.js:699
 #, fuzzy
 #| msgid "Authentication error"
 msgid "Background Authentication Methods"

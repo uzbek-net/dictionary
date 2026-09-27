@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boatswain main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/boatswain/issues\n"
-"POT-Creation-Date: 2026-09-13 03:05+0000\n"
+"POT-Creation-Date: 2026-09-18 20:15+0000\n"
 "PO-Revision-Date: 2025-10-03 19:25+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -550,10 +550,6 @@ msgstr "Ovozni yoqish/oʻchirish tugmasi"
 msgid "Show / Hide Source"
 msgstr "Manbani koʻrsatish / berkitish"
 
-#: src/plugins/obs-studio/obs-connection.c:800
-msgid "Invalid password"
-msgstr "Parol notoʻgʻri"
-
 #: src/plugins/obs-studio/obs-connection-settings.ui:8
 msgid "Connection Settings"
 msgstr "Ulanish sozlamalari"
@@ -570,7 +566,7 @@ msgstr "Port"
 msgid "Password"
 msgstr "Parol"
 
-#: src/plugins/obs-studio/obs-switch-scene-action.c:286
+#: src/plugins/obs-studio/obs-switch-scene-action.c:284
 msgid "Scene"
 msgstr "Manzara"
 
@@ -598,16 +594,16 @@ msgstr "Yashirish"
 msgid "Show"
 msgstr "Koʻrsatish"
 
-#: src/plugins/obs-studio/obs-toggle-source-action.c:482
+#: src/plugins/obs-studio/obs-toggle-source-action.c:480
 #: src/plugins/soundboard/soundboard-play-action-prefs.ui:22
 msgid "Behavior"
 msgstr "Xulq-atvor"
 
-#: src/plugins/obs-studio/obs-toggle-source-action.c:493
+#: src/plugins/obs-studio/obs-toggle-source-action.c:491
 msgid "Audio Source"
 msgstr "Audio manbasi"
 
-#: src/plugins/obs-studio/obs-toggle-source-action.c:495
+#: src/plugins/obs-studio/obs-toggle-source-action.c:493
 msgid "Source"
 msgstr "Manba"
 
@@ -692,3 +688,6 @@ msgstr "Tovush"
 #, fuzzy
 msgid "Soundboard"
 msgstr "Saundbord"
+
+#~ msgid "Invalid password"
+#~ msgstr "Parol notoʻgʻri"

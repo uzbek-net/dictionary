@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 04:04+0000\n"
+"POT-Creation-Date: 2026-09-24 13:29+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -7105,11 +7105,11 @@ msgstr "Yuborish"
 msgid "Diff between po files"
 msgstr "Po fayllar orasidagi farq"
 
-#: vertimus/templates/vertimus/vertimus_diff.html:16
+#: vertimus/templates/vertimus/vertimus_diff.html:21
 msgid "← Back to actions"
 msgstr "← Harakatlarga qaytish"
 
-#: vertimus/templates/vertimus/vertimus_diff.html:21
+#: vertimus/templates/vertimus/vertimus_diff.html:26
 msgid "Note: both files are merged with latest POT file."
 msgstr "Eslatma: ikkala fayl ham soʻnggi POT fayli bilan birlashtirilgan."
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dconf-editor master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/dconf-editor/issues/\n"
-"POT-Creation-Date: 2025-09-13 04:01+0000\n"
+"POT-Creation-Date: 2026-09-20 10:09+0000\n"
 "PO-Revision-Date: 2025-04-05 20:29+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1421,73 +1421,73 @@ msgstr "Noma'lum sxemalar yoʻq."
 
 #. Translators: command-line error message, when the user requests a specific
 #. path while there is already a window opened
-#: editor/dconf-editor.vala:454
+#: editor/dconf-editor.vala:455
 msgid "Only one window can be opened for now.\n"
 msgstr "Hozircha faqat bitta oynani ochish mumkin.\n"
 
 #. Translators: command-line error message, try 'dconf-editor a b c d'
-#: editor/dconf-editor.vala:474
+#: editor/dconf-editor.vala:475
 msgid "Cannot understand: too many arguments.\n"
 msgstr "Tushunib boʻlmaydi: juda koʻp dalillar.\n"
 
 #. Translators: command-line error message, try 'dconf-editor / a'
-#: editor/dconf-editor.vala:488
+#: editor/dconf-editor.vala:489
 msgid "Cannot understand second argument in this context.\n"
 msgstr "Bu kontekstda ikkinchi dalilni tushunib boʻlmaydi.\n"
 
 #. Translators: command-line error message, try 'dconf-editor org.example /'
-#: editor/dconf-editor.vala:509
+#: editor/dconf-editor.vala:510
 msgid "Cannot understand: slash character in second argument.\n"
 msgstr "Tushunib boʻlmaydi: ikkinchi argumentdagi chiziq belgisi.\n"
 
 #. Translators: command-line error message, try 'dconf-editor org.example:a'
-#: editor/dconf-editor.vala:524
+#: editor/dconf-editor.vala:525
 msgid "Schema path should start and end with a “/”.\n"
 msgstr "Sxema yoʻli \"/\" bilan boshlanishi va tugashi kerak.\n"
 
 #. Translators: command-line error message, try 'dconf-editor //'
-#: editor/dconf-editor.vala:540
+#: editor/dconf-editor.vala:541
 msgid "Cannot understand: given path contains “//”.\n"
 msgstr "Tushunib boʻlmadi: berilgan yoʻlda “//” mavjud.\n"
 
 #. Translators: command-line error message, try 'dconf-editor "org example" a'
-#: editor/dconf-editor.vala:548
+#: editor/dconf-editor.vala:549
 msgid "Cannot understand: space character in argument.\n"
 msgstr "Tushunib boʻlmaydi: argumentdagi boʻshliq belgisi.\n"
 
 #. Translators: notification header, try ctrl-c while in the keys list
-#: editor/dconf-editor.vala:576
+#: editor/dconf-editor.vala:577
 msgid "Copied to clipboard"
 msgstr "Buferga nusxalandi"
 
 #. Translators: about dialog text
-#: editor/dconf-editor.vala:653
+#: editor/dconf-editor.vala:654
 msgid "A graphical viewer and editor of applications’ internal settings."
 msgstr "Grafik koʻruvchi va ilovalarning ichki sozlamalari muharriri."
 
 #. Translators: text crediting a game author, seen in the About dialog
-#: editor/dconf-editor.vala:658
+#: editor/dconf-editor.vala:659
 msgid "Robert Ancell"
 msgstr "Robert Ansel"
 
 #. Translators: text crediting a game author, seen in the About dialog
-#: editor/dconf-editor.vala:662
+#: editor/dconf-editor.vala:663
 msgid "Arnaud Bonatti"
 msgstr "Arno Bonatti"
 
 #. Translators: text crediting a maintainer, seen in the About dialog
-#: editor/dconf-editor.vala:666
+#: editor/dconf-editor.vala:667
 msgid "Copyright © 2010-2014 – Canonical Ltd"
 msgstr "Mualliflik huquqi © 2010-2014 - Canonical Ltd"
 
 #. Translators: text crediting a maintainer, seen in the About dialog
-#: editor/dconf-editor.vala:670
+#: editor/dconf-editor.vala:671
 msgid "Copyright © 2017-2018 – Davi da Silva Böger"
 msgstr "Mualliflik huquqi © 2017-2018 - Davi da Silva Böger"
 
 #. Translators: text crediting a maintainer, seen in the About dialog; the %u
 #. are replaced with the years of start and end
-#: editor/dconf-editor.vala:674
+#: editor/dconf-editor.vala:675
 #, c-format
 msgid "Copyright © %u-%u – Arnaud Bonatti"
 msgstr "Mualliflik huquqi © %u-%u – Arnaud Bonatti"
@@ -1495,12 +1495,12 @@ msgstr "Mualliflik huquqi © %u-%u – Arnaud Bonatti"
 #. Translators: about dialog text; this string should be replaced by a text
 #. crediting yourselves and your translation team, or should be left empty. Do
 #. not translate literally!
-#: editor/dconf-editor.vala:681
+#: editor/dconf-editor.vala:682
 msgid "translator-credits"
 msgstr "Baxrom Raxmatov <magdiyevbahrom@gmail.com>"
 
 #. Translators: about dialog text; label of the website link
-#: editor/dconf-editor.vala:687
+#: editor/dconf-editor.vala:688
 msgid "Page on GNOME wiki"
 msgstr "GNOME wiki-dagi sahifa"
 
