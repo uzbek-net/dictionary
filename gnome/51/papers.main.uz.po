@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: papers gnome-47\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/papers/issues/\n"
-"POT-Creation-Date: 2026-09-26 10:52+0000\n"
+"POT-Creation-Date: 2026-09-27 17:21+0000\n"
 "PO-Revision-Date: 2025-04-05 20:14+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1660,19 +1660,19 @@ msgstr "Bekor qilish"
 msgid "Unlock"
 msgstr "Qulfni ochish"
 
-#: shell/resources/pps-password-dialog.blp:19
+#: shell/resources/pps-password-dialog.blp:24
 msgid "Password"
 msgstr "Parol"
 
-#: shell/resources/pps-password-dialog.blp:33
+#: shell/resources/pps-password-dialog.blp:38
 msgid "Invalid password"
 msgstr "Parol notoʻgʻri"
 
-#: shell/resources/pps-password-dialog.blp:48
+#: shell/resources/pps-password-dialog.blp:53
 msgid "Forget password _immediately"
 msgstr "Maxfiy soʻzni unutish _immediately"
 
-#: shell/resources/pps-password-dialog.blp:55
+#: shell/resources/pps-password-dialog.blp:60
 msgid "Remember _forever"
 msgstr "Eslab _forever"
 
@@ -2379,7 +2379,7 @@ msgstr ""
 msgid "of {}"
 msgstr "{}"
 
-#: shell/src/password_view.rs:146
+#: shell/src/password_view.rs:149
 #, rust-format
 msgid ""
 "The document “{}” is locked and requires a password before it can be opened"

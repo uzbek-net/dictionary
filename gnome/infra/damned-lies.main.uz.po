@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-24 13:29+0000\n"
+"POT-Creation-Date: 2026-10-02 14:51+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -1877,28 +1877,36 @@ msgid "Python GTK 3 Tutorial"
 msgstr "Python GTK 3 boʻyicha qoʻllanma"
 
 #: database-content.py:459
+msgid "Tweak various aspects of GNOME"
+msgstr ""
+
+#: database-content.py:460
 msgid "Shared MIME Info"
 msgstr "Umumiy MIME maʼlumotlari"
 
-#: database-content.py:460
+#: database-content.py:461
+msgid "Upscale and enhance images"
+msgstr ""
+
+#: database-content.py:462
 msgid "WebKitGTK"
 msgstr "WebKitGTK"
 
-#: database-content.py:461 templates/_includes/footer.html:23
+#: database-content.py:463 templates/_includes/footer.html:23
 msgid "Welcome to GNOME"
 msgstr "GNOME ga xush kelibsiz"
 
-#: database-content.py:462
+#: database-content.py:464
 #, fuzzy
 #| msgid "GNOME Library Web site"
 msgid "GNOME Website"
 msgstr "GNOME kutubxonasi veb-sayti"
 
-#: database-content.py:463
+#: database-content.py:465
 msgid "XKeyboard-Config"
 msgstr "XKeyboard-Config"
 
-#: database-content.py:464
+#: database-content.py:466
 msgid ""
 "D-Bus interface for user account query and manipulation. To submit your "
 "translation, <a "
@@ -1910,7 +1918,7 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/accountsservice/accountsservice/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:465
+#: database-content.py:467
 msgid ""
 "Apps for GNOME is the web application you can find at <a "
 "href=\"https://apps.gnome.org/\">https://apps.gnome.org/</a>."
@@ -1919,7 +1927,7 @@ msgstr ""
 "href=\"https://apps.gnome.org/\">https://apps.gnome.org/</a> saytida "
 "topishingiz mumkin boʻlgan veb-ilova."
 
-#: database-content.py:466
+#: database-content.py:468
 msgid ""
 "Utilities to generate, maintain and access the AppStream Xapian database and"
 " work with AppStream metadata."
@@ -1927,7 +1935,7 @@ msgstr ""
 "AppStream Xapian ma'lumotlar bazasini yaratish, saqlash va unga kirish va "
 "AppStream metama'lumotlari bilan ishlash uchun yordamchi dasturlar."
 
-#: database-content.py:467
+#: database-content.py:469
 msgid ""
 "There is a glossary that will help translators in Chronojump localization: "
 "<a "
@@ -1938,7 +1946,7 @@ msgstr ""
 "href=\"https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md\">https://gitlab.gnome.org/GNOME/chronojump/-/blob/master/glossary/chronojump_glossary_for_translators.md</a>"
 " ."
 
-#: database-content.py:468
+#: database-content.py:470
 msgid ""
 "colord is a system service that makes it easy to manage, install and "
 "generate color profiles to accurately color manage input and output devices."
@@ -1947,11 +1955,11 @@ msgstr ""
 "rang profillarini boshqarish, oʻrnatish va yaratishni osonlashtiradigan "
 "tizim xizmati."
 
-#: database-content.py:469
+#: database-content.py:471
 msgid "PolicyKit helper to configure CUPS with fine-grained privileges."
 msgstr "PolicyKit yordamchisi CUPSni nozik imtiyozlar bilan sozlash uchun."
 
-#: database-content.py:470
+#: database-content.py:472
 msgid ""
 "Translators: Please keep the “SPDX-License-Identifier:” line in the header "
 "of your .po files. Build will break if it’s missing."
@@ -1960,11 +1968,11 @@ msgstr ""
 "Identifier:” qatorini saqlang. Agar u etishmayotgan boʻlsa, qurilish "
 "buziladi."
 
-#: database-content.py:471
+#: database-content.py:473
 msgid "D-Bus service to access fingerprint readers."
 msgstr "Barmoq izlarini oʻqish qurilmalariga kirish uchun D-Bus xizmati."
 
-#: database-content.py:472
+#: database-content.py:474
 msgid ""
 "Please only translate the main branch. The other ones are only listed for "
 "stats and won’t accept commits."
@@ -1972,13 +1980,13 @@ msgstr ""
 "Iltimos, faqat asosiy filialni tarjima qiling. Qolganlari faqat statistika "
 "uchun berilgan va majburiyatlarni qabul qilmaydi."
 
-#: database-content.py:473
+#: database-content.py:475
 msgid "A simple daemon to allow session software to update UEFI firmware."
 msgstr ""
 "Seans dasturiga UEFI mikrodasturini yangilash imkonini beruvchi oddiy xizmat"
 " dasturi."
 
-#: database-content.py:474
+#: database-content.py:476
 msgid ""
 "See <a href=\"https://wiki.gnome.org/gbrainy/Localizing\">wiki</a> for "
 "recommendations when translating gbrainy."
@@ -1986,7 +1994,7 @@ msgstr ""
 "Gbrainy ni tarjima qilish boʻyicha tavsiyalar uchun <a "
 "href=\"https://wiki.gnome.org/gbrainy/Localizing\">wiki ga</a> qarang."
 
-#: database-content.py:475
+#: database-content.py:477
 msgid ""
 "glom is a user-friendly database application.<br>\n"
 "Apart from the UI messages and the documentation, there are additional example files that can be translated."
@@ -1995,7 +2003,7 @@ msgstr ""
 "xabarlari va dokumentatsiyadan tashqari, tarjima qilinishi mumkin boʻlgan "
 "qoʻshimcha misol fayllari mavjud."
 
-#: database-content.py:477
+#: database-content.py:479
 msgid ""
 "There is a limited number of supported locales. If you use an unsupported locale, the browser (at least Chromium-based) will ignore it. <b>Google Chrome/Chromium/Vivaldi support:</b>\n"
 "\n"
@@ -2027,7 +2035,7 @@ msgstr ""
 "pt_BR, pt_PT, rm, ro, ru, si, sk, sl, son, sq, sr, sv_SE, ta, te, th, tr, "
 "uk, uz, vi, xh, zh_CN, zh_TW</i>"
 
-#: database-content.py:488
+#: database-content.py:490
 msgid ""
 "Note that some strings visible in the gnome-tweaks interface are coming from"
 " the <a href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-"
@@ -2037,7 +2045,7 @@ msgstr ""
 "href=\"/module/gsettings-desktop-schemas/\">gsettings-desktop-schemas</a> "
 "modulidan keladi."
 
-#: database-content.py:489
+#: database-content.py:491
 msgid ""
 "To ease localization, gallery of GNOME Video Effects has been set up here: "
 "<a "
@@ -2048,7 +2056,7 @@ msgstr ""
 "href=\"https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects\">https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects</a>"
 " ."
 
-#: database-content.py:490
+#: database-content.py:492
 msgid ""
 "Useful information on localization of the Gnumeric analysis tools can be "
 "found in the <a href "
@@ -2066,7 +2074,7 @@ msgstr ""
 "Gnumeric funksiyalarini lokalizatsiya qilish boʻyicha foydali maʼlumotlarga "
 "ega."
 
-#: database-content.py:491
+#: database-content.py:493
 msgid ""
 "This a low-priority module to translate, as there are currently no user "
 "interface that show those strings."
@@ -2074,17 +2082,17 @@ msgstr ""
 "Bu tarjima qilish uchun past ustuvor modul, chunki hozirda ushbu satrlarni "
 "koʻrsatadigan foydalanuvchi interfeysi mavjud emas."
 
-#: database-content.py:492
+#: database-content.py:494
 msgid "GStreamer open-source multimedia framework core library."
 msgstr "GStreamer ochiq manbali multimedia ramkasining asosiy kutubxonasi."
 
-#: database-content.py:493
+#: database-content.py:495
 msgid ""
 "This module will be released on a regular basis and is not concerned by any "
 "string freeze limitation."
 msgstr ""
 
-#: database-content.py:494
+#: database-content.py:496
 msgid ""
 "malcontent implements support for restricting the type of content accessible"
 " to non-administrator accounts on a Linux system. To submit your "
@@ -2103,7 +2111,7 @@ msgstr ""
 "href=\"https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:495
+#: database-content.py:497
 msgid ""
 "Unified high-level API for communicating with mobile broadband modems. To "
 "submit your translation, <a href=\"https://gitlab.freedesktop.org/mobile-"
@@ -2115,7 +2123,7 @@ msgstr ""
 "broadband/ModemManager/merge_requests\">birlashtirish soʻrovini yarating</a>"
 " ."
 
-#: database-content.py:496
+#: database-content.py:498
 msgid ""
 "Network connection manager and user applications. To submit your "
 "translation, <a "
@@ -2127,11 +2135,11 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/NetworkManager/NetworkManager/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:497
+#: database-content.py:499
 msgid "PKCS#11 cryptography framework for multiple consumers."
 msgstr "Bir nechta iste'molchilar uchun PKCS#11 kriptografiya tizimi."
 
-#: database-content.py:498
+#: database-content.py:500
 msgid ""
 "System designed to make installing and updating software on your computer "
 "easier."
@@ -2139,7 +2147,7 @@ msgstr ""
 "Kompyuteringizga dasturiy ta'minotni oʻrnatish va yangilashni osonlashtirish"
 " uchun moʻljallangan tizim."
 
-#: database-content.py:499
+#: database-content.py:501
 msgid ""
 "Multimedia processing graphs. To submit your translation, <a "
 "href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">create"
@@ -2149,7 +2157,7 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:500
+#: database-content.py:502
 msgid ""
 "Plymouth provides the graphical boot-splash and offline-updates status "
 "splash on most distributions."
@@ -2157,7 +2165,7 @@ msgstr ""
 "Plymouth koʻpgina distribyutorlarda grafik yuklash va oflayn yangilanish "
 "holatini taqdim etadi."
 
-#: database-content.py:501
+#: database-content.py:503
 msgid ""
 "Toolkit for defining and handling authorizations. To submit your "
 "translation, <a href=\"https://github.com/polkit-org/polkit/pulls\">create a"
@@ -2167,7 +2175,7 @@ msgstr ""
 "Tarjimangizni yuborish uchun <a href=\"https://github.com/polkit-"
 "org/polkit/pulls\">birlashtirish soʻrovini yarating</a> ."
 
-#: database-content.py:502
+#: database-content.py:504
 msgid ""
 "PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for "
 "your sound applications."
@@ -2175,7 +2183,7 @@ msgstr ""
 "PulseAudio - bu POSIX operatsion tizimlari uchun ovoz tizimi, ya'ni u "
 "sizning ovoz ilovalaringiz uchun proksi-server hisoblanadi."
 
-#: database-content.py:503
+#: database-content.py:505
 msgid ""
 "D-Bus system service that manages discovery and enrollment in realms/domains"
 " like Active Directory or IPA."
@@ -2183,19 +2191,19 @@ msgstr ""
 "Active Directory yoki IPA kabi sohalarda/domenlarda kashfiyot va roʻyxatga "
 "olishni boshqaradigan D-Bus tizimi xizmati."
 
-#: database-content.py:504
+#: database-content.py:506
 msgid "Shared MIME information specification."
 msgstr "Umumiy MIME maʼlumotlari spetsifikatsiyasi."
 
-#: database-content.py:505
+#: database-content.py:507
 msgid "System and session manager."
 msgstr "Tizim va sessiya menejeri."
 
-#: database-content.py:506
+#: database-content.py:508
 msgid "Fast and secure file transfer"
 msgstr ""
 
-#: database-content.py:507
+#: database-content.py:509
 msgid ""
 "Translations should be submitted as <a "
 "href=\"https://bugs.webkit.org/enter_bug.cgi?product=WebKit&component=WebKitGTK\">bug"
@@ -2208,7 +2216,7 @@ msgstr ""
 "qolmasligi uchun komponent sifatida &quot;WebKitGTK&quot; ni tanlashni "
 "unutmang."
 
-#: database-content.py:508
+#: database-content.py:510
 msgid ""
 "Session / policy manager implementation for PipeWire. To submit your "
 "translation, <a "
@@ -2220,11 +2228,11 @@ msgstr ""
 "href=\"https://gitlab.freedesktop.org/pipewire/wireplumber/-/merge_requests\">birlashtirish"
 " soʻrovini yarating</a> ."
 
-#: database-content.py:509
+#: database-content.py:511
 msgid "GTK implementation of xdg-desktop-portal."
 msgstr ""
 
-#: database-content.py:510
+#: database-content.py:512
 msgid ""
 "Tool to help manage “well known” user directories like the desktop folder "
 "and the music folder."
@@ -2232,165 +2240,165 @@ msgstr ""
 "Ish stoli papkasi va musiqa papkasi kabi \"malum\" foydalanuvchi "
 "kataloglarini boshqarishga yordam beradigan vosita."
 
-#: database-content.py:511
+#: database-content.py:513
 msgid "Database of keyboard configuration data."
 msgstr "Klaviatura konfiguratsiyasi ma'lumotlar bazasi."
 
-#: database-content.py:512
+#: database-content.py:514
 #, fuzzy
 #| msgid "GNOME 48 (stable)"
 msgid "GNOME 51 (stable)"
 msgstr "GNOME 48 (barqaror)"
 
-#: database-content.py:513
+#: database-content.py:515
 #, fuzzy
 #| msgid "GNOME 40 (old stable)"
 msgid "GNOME 50 (oldstable)"
 msgstr "GNOME 40 (eski barqaror)"
 
-#: database-content.py:514
+#: database-content.py:516
 #, fuzzy
 #| msgid "GNOME 47 (old stable)"
 msgid "GNOME 49 (old stable)"
 msgstr "GNOME 47 (eski barqaror)"
 
-#: database-content.py:515
+#: database-content.py:517
 #, fuzzy
 #| msgid "GNOME 47 (old stable)"
 msgid "GNOME 48 (old stable)"
 msgstr "GNOME 47 (eski barqaror)"
 
-#: database-content.py:516
+#: database-content.py:518
 msgid "GNOME 47 (old stable)"
 msgstr "GNOME 47 (eski barqaror)"
 
-#: database-content.py:517
+#: database-content.py:519
 msgid "GNOME 46 (old stable)"
 msgstr "GNOME 46 (eski barqaror)"
 
-#: database-content.py:518
+#: database-content.py:520
 msgid "GNOME 45 (old stable)"
 msgstr "GNOME 45 (eski barqaror)"
 
-#: database-content.py:519
+#: database-content.py:521
 msgid "GNOME 44 (old stable)"
 msgstr "GNOME 44 (eski barqaror)"
 
-#: database-content.py:520
+#: database-content.py:522
 msgid "Phosh"
 msgstr ""
 
-#: database-content.py:521
+#: database-content.py:523
 msgid "Obsolete GNOME Applications"
 msgstr "Eskirgan GNOME ilovalari"
 
-#: database-content.py:522
+#: database-content.py:524
 #, fuzzy
 #| msgid "GNOME Incubator"
 msgid "Incubator"
 msgstr "GNOME inkubatori"
 
-#: database-content.py:523
+#: database-content.py:525
 msgid "GNOME Infrastructure"
 msgstr "GNOME infratuzilmasi"
 
-#: database-content.py:524
+#: database-content.py:526
 msgid "GIMP and Friends"
 msgstr "GIMP va boshqalar"
 
-#: database-content.py:525
+#: database-content.py:527
 msgid "Other Apps (stable)"
 msgstr "Boshqa ilovalar (barqaror)"
 
-#: database-content.py:526
+#: database-content.py:528
 msgid "Other Apps"
 msgstr "Boshqa ilovalar"
 
-#: database-content.py:527
+#: database-content.py:529
 msgid "GNOME Circle"
 msgstr "GNOME Circle"
 
-#: database-content.py:528
+#: database-content.py:530
 msgid "Evolution and friends"
 msgstr "Evolution va boshqalar"
 
-#: database-content.py:529
+#: database-content.py:531
 msgid "freedesktop.org (non-GNOME)"
 msgstr "freedesktop.org (GNOME boʻlmagan)"
 
-#: database-content.py:530
+#: database-content.py:532
 msgid "Default"
 msgstr "Odatiy"
 
-#: database-content.py:531
+#: database-content.py:533
 msgid "Administration Tools"
 msgstr "Boshqaruv vositalari"
 
-#: database-content.py:532
+#: database-content.py:534
 msgid "Development Tools"
 msgstr "Rivojlanish vositalari"
 
-#: database-content.py:533
+#: database-content.py:535
 msgid "GNOME Developer Platform"
 msgstr "GNOME dasturchi platformasi"
 
-#: database-content.py:534
+#: database-content.py:536
 msgid "New Module Proposals"
 msgstr "Yangi modul takliflari"
 
-#: database-content.py:535
+#: database-content.py:537
 msgid "Games"
 msgstr "Oʻyinlar"
 
-#: database-content.py:536
+#: database-content.py:538
 msgid "Backends"
 msgstr "Backends"
 
-#: database-content.py:537
+#: database-content.py:539
 msgid "Core Libraries"
 msgstr "Asosiy kutubxonalar"
 
-#: database-content.py:538
+#: database-content.py:540
 msgid "Extra Libraries"
 msgstr "Qoʻshimcha kutubxonalar"
 
-#: database-content.py:539
+#: database-content.py:541
 msgid "Legacy Desktop"
 msgstr "Eski ish stoli"
 
-#: database-content.py:540
+#: database-content.py:542
 msgid "Stable Branches"
 msgstr "Barqaror filiallar"
 
-#: database-content.py:541
+#: database-content.py:543
 msgid "Development Branches"
 msgstr "Rivojlanish filiallari"
 
-#: database-content.py:542
+#: database-content.py:544
 msgid "Office Apps"
 msgstr "Ofis ilovalari"
 
-#: database-content.py:543
+#: database-content.py:545
 msgid "Accessibility"
 msgstr "Maxsus imkoniyatlar"
 
-#: database-content.py:544
+#: database-content.py:546
 msgid "Utils"
 msgstr "Utils"
 
-#: database-content.py:545
+#: database-content.py:547
 msgid "Core"
 msgstr "Yadro"
 
-#: database-content.py:546
+#: database-content.py:548
 msgid "GNOME Desktop"
 msgstr "GNOME ish stoli"
 
-#: database-content.py:547
+#: database-content.py:549
 msgid "Apps"
 msgstr "Ilovalar"
 
-#: database-content.py:548
+#: database-content.py:550
 #, fuzzy
 #| msgid "Legacy Desktop"
 msgid "Legacy"
@@ -2414,8 +2422,8 @@ msgstr "GNOME tarjima loyihasining %s tili uchun soʻnggi harakatlari"
 msgid "Invalid plural form syntax."
 msgstr ""
 
-#: languages/models.py:37 stats/models.py:95 stats/models.py:406
-#: stats/models.py:836 stats/models.py:1341 stats/models.py:1434
+#: languages/models.py:37 stats/models.py:94 stats/models.py:407
+#: stats/models.py:837 stats/models.py:1342 stats/models.py:1435
 #: teams/models.py:64 vertimus/models.py:168 vertimus/models.py:637
 msgid "Name"
 msgstr "Ism"
@@ -2456,7 +2464,7 @@ msgid "Unknown"
 msgstr "Nomaʼlum"
 
 #: languages/templates/languages/_includes/language_release_summary.html:12
-#: stats/models.py:1445 stats/templates/module_edit.html:61
+#: stats/models.py:1446 stats/templates/module_edit.html:61
 msgid "Release"
 msgstr "Chiqarish"
 
@@ -2587,12 +2595,12 @@ msgstr "%(total_trans_perc)s%%"
 #: languages/templates/languages/language_release_stats.html:59
 #: people/admin.py:116
 #: people/templates/people/_includes/person_contribution_activity.html:35
-#: stats/models.py:833 vertimus/templates/vertimus/activity_summary.html:36
+#: stats/models.py:834 vertimus/templates/vertimus/activity_summary.html:36
 msgid "Module"
 msgstr "Modul"
 
 #: languages/templates/languages/language_release_stats.html:60
-#: stats/models.py:1446 stats/models.py:1644
+#: stats/models.py:1447 stats/models.py:1645
 #: stats/templates/module_edit.html:60 vertimus/admin.py:33
 #: vertimus/models.py:156 vertimus/templates/vertimus/activity_summary.html:37
 msgid "Branch"
@@ -2604,7 +2612,7 @@ msgid "Statistics"
 msgstr "Statistika"
 
 #: languages/templates/languages/language_release_stats.html:64
-#: stats/models.py:1360
+#: stats/models.py:1361
 msgid "Status"
 msgstr "Holati"
 
@@ -2621,7 +2629,7 @@ msgstr "%(categname)s (%(percentage)s%% tarjima qilingan)"
 
 #. Translators: flag to indicate that the category is priority
 #: languages/templates/languages/language_release_stats.html:87
-#: stats/models.py:1435
+#: stats/models.py:1436
 msgctxt "refers to a category"
 msgid "Priority"
 msgstr ""
@@ -2799,11 +2807,11 @@ msgstr ""
 "@%(username)s:gnome.org haqiqiy Matrix foydalanuvchi nomi, shuningdek "
 "@%(username)s:matrix.org."
 
-#: people/models.py:156
+#: people/models.py:152
 msgid "Image"
 msgstr "Rasm"
 
-#: people/models.py:158
+#: people/models.py:154
 #, python-format
 msgid ""
 "URL to an image file (.jpg, .png, …) of a hackergotchi (max. "
@@ -2812,24 +2820,24 @@ msgstr ""
 "Hackergotchi rasm fayli (.jpg, .png, …) URL manzili (maksimal "
 "%(width)d×%(height)d piksel)"
 
-#: people/models.py:162
+#: people/models.py:158
 msgid "Avatar provider"
 msgstr "Avatar provayderi"
 
-#: people/models.py:164 teams/admin.py:46 teams/models.py:88
+#: people/models.py:160 teams/admin.py:46 teams/models.py:88
 msgid "Web page"
 msgstr "Veb sahifa"
 
-#: people/models.py:164
+#: people/models.py:160
 msgid "URL to your personal web page."
 msgstr "Shaxsiy veb-sahifangizga URL."
 
-#: people/models.py:166 people/tests/test_models.py:15
-#: people/tests/test_models.py:23 people/tests/test_models.py:28
+#: people/models.py:162 people/tests/test_models.py:17
+#: people/tests/test_models.py:25 people/tests/test_models.py:30
 msgid "Matrix Account"
 msgstr "Matritsa hisobi"
 
-#: people/models.py:168
+#: people/models.py:164
 msgid ""
 "Your full Matrix username you use for GNOME. It has the form "
 "@user:domain.tld."
@@ -2837,17 +2845,17 @@ msgstr ""
 "GNOME uchun foydalanadigan toʻliq Matrix foydalanuvchi nomingiz. U "
 "@user:domain.tld shakliga ega."
 
-#: people/models.py:171
+#: people/models.py:167
 msgid "Discourse account"
 msgstr "Diskurs hisobi"
 
-#: people/models.py:175
+#: people/models.py:171
 msgid "Your username on the GNOME Discourse instance. For instance “user”."
 msgstr ""
 "GNOME Discourse misolidagi foydalanuvchi nomingiz. Masalan, "
 "\"foydalanuvchi\"."
 
-#: people/models.py:180
+#: people/models.py:176
 msgid ""
 "Enter a valid GNOME Discourse username consisting of letters, numbers, "
 "underscores dashes and dots."
@@ -2855,11 +2863,11 @@ msgstr ""
 "Harflar, raqamlar, pastki chiziq va nuqtalardan iborat haqiqiy GNOME "
 "Discourse foydalanuvchi nomini kiriting."
 
-#: people/models.py:187
+#: people/models.py:183
 msgid "GitLab account"
 msgstr "GitLab hisobi"
 
-#: people/models.py:194
+#: people/models.py:190
 #, fuzzy
 #| msgid ""
 #| "Your username on the GNOME GitLab forge instance. For instance “@user” or "
@@ -2871,7 +2879,7 @@ msgstr ""
 "GNOME GitLab forge misolidagi foydalanuvchi nomingiz. Masalan, \"@user\" "
 "yoki \"foydalanuvchi\"."
 
-#: people/models.py:201
+#: people/models.py:197
 #, fuzzy
 #| msgid ""
 #| "Enter a valid GNOME GitLab username consisting of letters, numbers, "
@@ -2884,17 +2892,17 @@ msgstr ""
 "Hech qanday maxsus belgisiz harflar, raqamlar, pastki chiziq, tire va "
 "nuqtalardan iborat haqiqiy GNOME GitLab foydalanuvchi nomini kiriting."
 
-#: people/models.py:219
+#: people/models.py:215
 msgid "people"
 msgstr "odamlar"
 
 #. Translators: a forge account is a username on a software forge platform
 #. like GitLab
-#: people/models.py:310
+#: people/models.py:306
 msgid "The forge account name is missing from the user profile."
 msgstr "Ish akkaunt nomi foydalanuvchi profilida yoʻq."
 
-#: people/models.py:319
+#: people/models.py:315
 msgid "The username on the GNOME forum is missing from the user profile."
 msgstr "GNOME forumidagi foydalanuvchi nomi foydalanuvchi profilida yoʻq."
 
@@ -3686,7 +3694,7 @@ msgstr ""
 msgid "Advanced"
 msgstr "Kengaytirilgan"
 
-#: stats/admin.py:94 stats/models.py:127 stats/templates/module_edit.html:35
+#: stats/admin.py:94 stats/models.py:126 stats/templates/module_edit.html:35
 msgid "Forge"
 msgstr ""
 
@@ -3750,7 +3758,7 @@ msgstr ""
 
 #. Translators: this is a property of a branch. It means the branch cannot
 #. accept translations.
-#: stats/forms.py:64 stats/models.py:426 stats/templates/module_edit.html:63
+#: stats/forms.py:64 stats/models.py:427 stats/templates/module_edit.html:63
 msgid "Locked"
 msgstr ""
 
@@ -3789,50 +3797,50 @@ msgid "Cannot clone repository for module: %s"
 msgstr ""
 
 #. Translators: this is the name of a forge hosting a module's repository.
-#: stats/models.py:68
+#: stats/models.py:67
 #, fuzzy
 #| msgid "GitLab account"
 msgid "GitLab"
 msgstr "GitLab hisobi"
 
 #. Translators: this is the name of a forge hosting a module's repository.
-#: stats/models.py:70 templates/login/authentication_providers.html:9
+#: stats/models.py:69 templates/login/authentication_providers.html:9
 msgid "GitHub"
 msgstr ""
 
 #. Translators: this is used when the forge hosting a module's repository is
 #. not recognized.
-#: stats/models.py:72
+#: stats/models.py:71
 msgid "Other / unknown forge"
 msgstr ""
 
 #. Translators: this is a description of a way to push changes for a module.
-#: stats/models.py:77
+#: stats/models.py:76
 #, fuzzy
 #| msgid "Submit to repository"
 msgid "Directly pushed to the repository"
 msgstr "Repozitariyga yuboring"
 
 #. Translators: this is a description of a way to push changes for a module
-#: stats/models.py:79
+#: stats/models.py:78
 msgid "Through a merge/pull request"
 msgstr ""
 
 #. Translators: this is a description of a type of checkout for a module.
-#: stats/models.py:84
+#: stats/models.py:83
 msgid "Single checkout shared by all branches"
 msgstr ""
 
 #. Translators: this is a description of a type of checkout for a module
-#: stats/models.py:86
+#: stats/models.py:85
 msgid "One worktree per branch"
 msgstr ""
 
-#: stats/models.py:97 stats/models.py:385
+#: stats/models.py:96 stats/models.py:386
 msgid "Homepage"
 msgstr "Bosh sahifa"
 
-#: stats/models.py:99
+#: stats/models.py:98
 msgid ""
 "The homepage URL is automatically updated if the module contains a .doap "
 "file."
@@ -3840,12 +3848,12 @@ msgstr ""
 "Agar modulda .doap fayli boʻlsa, bosh sahifa URL manzili avtomatik ravishda "
 "yangilanadi."
 
-#: stats/models.py:102 stats/models.py:839 stats/models.py:1350
+#: stats/models.py:101 stats/models.py:840 stats/models.py:1351
 #: teams/models.py:70 vertimus/templates/vertimus/activity_summary.html:38
 msgid "Description"
 msgstr "Ta'rif"
 
-#: stats/models.py:105
+#: stats/models.py:104
 msgid ""
 "A short description of the module. It will be displayed on the module page, "
 "close to the module name."
@@ -3853,11 +3861,11 @@ msgstr ""
 "Modulning qisqacha tavsifi. U modul sahifasida modul nomiga yaqin "
 "koʻrsatiladi."
 
-#: stats/models.py:109
+#: stats/models.py:108
 msgid "Comment & more"
 msgstr "Izoh va boshqalar"
 
-#: stats/models.py:112
+#: stats/models.py:111
 msgid ""
 "A comment about the module. It is used to display additional information on "
 "the module page such as context, explanation or put external links."
@@ -3865,11 +3873,11 @@ msgstr ""
 "Modul haqida sharh. U modul sahifasida kontekst, tushuntirish yoki tashqi "
 "havolalar kabi qoʻshimcha ma'lumotlarni koʻrsatish uchun ishlatiladi."
 
-#: stats/models.py:117
+#: stats/models.py:116
 msgid "Commit message template"
 msgstr ""
 
-#: stats/models.py:120
+#: stats/models.py:119
 msgid ""
 "A Django template used to render the title line of translation commits, "
 "overriding the default “Add/Update {{ language }} translation” message. "
@@ -3879,29 +3887,29 @@ msgid ""
 "message."
 msgstr ""
 
-#: stats/models.py:130
+#: stats/models.py:129
 #, fuzzy
 #| msgid "The URL to the module’s bug tracker."
 msgid "The forge hosting this module’s repository."
 msgstr "Modul xato kuzatuvchisining URL manzili."
 
-#: stats/models.py:133
+#: stats/models.py:132
 #, fuzzy
 #| msgid "Presentation"
 msgid "Push action"
 msgstr "Taqdimot"
 
-#: stats/models.py:137
+#: stats/models.py:136
 msgid ""
 "How changes are published to this module. Direct push is the default; "
 "opening a merge or pull request is only supported on GitLab and GitHub."
 msgstr ""
 
-#: stats/models.py:142
+#: stats/models.py:141
 msgid "Checkout type"
 msgstr ""
 
-#: stats/models.py:146
+#: stats/models.py:145
 msgid ""
 "How the module’s branches are checked out on disk. A single shared checkout "
 "is the default; one worktree per branch allows concurrent checkouts of the "
@@ -3909,19 +3917,19 @@ msgid ""
 "objects and checking out from one branch to another takes a very long time."
 msgstr ""
 
-#: stats/models.py:155
+#: stats/models.py:154
 msgid "Issue tracker URL"
 msgstr "Muammo kuzatuvchisi URL manzili"
 
-#: stats/models.py:155
+#: stats/models.py:154
 msgid "The URL to the module’s bug tracker."
 msgstr "Modul xato kuzatuvchisining URL manzili."
 
-#: stats/models.py:160 stats/models.py:386
+#: stats/models.py:159 stats/models.py:387
 msgid "Version Control System URL (SSH)"
 msgstr "Versiyani boshqarish tizimining URL manzili (SSH)"
 
-#: stats/models.py:163
+#: stats/models.py:162
 msgid ""
 "The URL to the module’s version control system. In order to commit changes, "
 "it has to be a SSH URL."
@@ -3929,35 +3937,35 @@ msgstr ""
 "Modul versiyasini boshqarish tizimining URL manzili. Oʻzgarishlarni amalga "
 "oshirish uchun u SSH URL manzili boʻlishi kerak."
 
-#: stats/models.py:167 stats/models.py:384
+#: stats/models.py:166 stats/models.py:385
 msgid "Version Control System URL (Web)"
 msgstr "Versiyani boshqarish tizimining URL manzili (veb)"
 
-#: stats/models.py:168
+#: stats/models.py:167
 msgid "The URL to the module’s version control system web interface."
 msgstr "Modul versiyasini boshqarish tizimining veb-interfeysi URL manzili."
 
-#: stats/models.py:171
+#: stats/models.py:170
 msgid "External platform"
 msgstr "Tashqi platforma"
 
-#: stats/models.py:174
+#: stats/models.py:173
 msgid ""
 "URL to external translation platform, if any. It has to be an unsupported "
 "platform, without Git access, the only supported protocol."
 msgstr ""
 
 #. Translators: this refers to a module
-#: stats/models.py:180
+#: stats/models.py:179
 msgid "Archived"
 msgstr "Arxivlangan"
 
-#: stats/models.py:182
+#: stats/models.py:181
 msgid ""
 "If checked, the module is considered as archived and will not be updated."
 msgstr "Belgilansa, modul arxivlangan deb hisoblanadi va yangilanmaydi."
 
-#: stats/models.py:191
+#: stats/models.py:190
 msgid ""
 "The list of maintainers is automatically updated if the module contains a "
 ".doap file."
@@ -3965,36 +3973,36 @@ msgstr ""
 "Modulda .doap fayli boʻlsa, texnik xizmat koʻrsatuvchilar roʻyxati avtomatik"
 " ravishda yangilanadi."
 
-#: stats/models.py:196
+#: stats/models.py:195
 msgid "Link check date"
 msgstr ""
 
-#: stats/models.py:200
+#: stats/models.py:199
 msgid "The date and time when the module’s links were last checked."
 msgstr ""
 
-#: stats/models.py:203
+#: stats/models.py:202
 #, fuzzy
 #| msgid "Quality check results"
 msgid "Link check result"
 msgstr "Sifatni tekshirish natijalari"
 
-#: stats/models.py:207
+#: stats/models.py:206
 msgid "The result of the last link check, as a JSON object."
 msgstr ""
 
-#: stats/models.py:221
+#: stats/models.py:220
 msgid ""
 "Opening a merge or pull request is only supported on GitLab and GitHub. Set "
 "the forge, or switch the push action to direct push."
 msgstr ""
 
-#: stats/models.py:230
+#: stats/models.py:229
 #, python-format
 msgid "Invalid template syntax: %(error)s"
 msgstr ""
 
-#: stats/models.py:288
+#: stats/models.py:287
 #, python-format
 msgid ""
 "Translations for this module are externally hosted. Please go to the <a "
@@ -4005,15 +4013,15 @@ msgstr ""
 "qanday topshirishingiz mumkinligini bilish uchun <a href=\"%(link)s\">tashqi"
 " platformaga</a> oʻting."
 
-#: stats/models.py:408
+#: stats/models.py:409
 msgid "The name of the branch, such as “master” or “gnome-3-10”."
 msgstr "Filialning nomi, masalan, \"master\" yoki \"gnome-3-10\"."
 
-#: stats/models.py:411
+#: stats/models.py:412
 msgid "VCS sub path"
 msgstr "VCS pastki yoʻli"
 
-#: stats/models.py:412
+#: stats/models.py:413
 msgid ""
 "Version Control System subpath. Where the .git is located for a Git managed "
 "project."
@@ -4021,52 +4029,52 @@ msgstr ""
 "Versiyani boshqarish tizimining pastki yoʻli. Git tomonidan boshqariladigan "
 "loyiha uchun .git qaerda joylashgan."
 
-#: stats/models.py:418 stats/models.py:1366
+#: stats/models.py:419 stats/models.py:1367
 msgid "Weight"
 msgstr "Ogʻirlik"
 
-#: stats/models.py:420
+#: stats/models.py:421
 msgid ""
 "Weight is used to order branches. The smaller weights are displayed first."
 msgstr ""
 "Ogʻirlik filiallarni buyurtma qilish uchun ishlatiladi. Avval kichikroq "
 "ogʻirliklar koʻrsatiladi."
 
-#: stats/models.py:423
+#: stats/models.py:424
 msgid "File Hashes"
 msgstr "Fayl xeshlari"
 
-#: stats/models.py:428
+#: stats/models.py:429
 msgid ""
 "Indicates whether the branch is locked. Locked branches cannot receive "
 "translations."
 msgstr ""
 
-#: stats/models.py:529
+#: stats/models.py:530
 msgid "This branch is not linked from any release."
 msgstr "Ushbu filial hech qanday reliz bilan bogʻlanmagan."
 
-#: stats/models.py:744
+#: stats/models.py:745
 msgid "There is no documentation statistics for this branch."
 msgstr "Ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
 
-#: stats/models.py:751
+#: stats/models.py:752
 msgid "There is no documentation statistics for this branch in this language."
 msgstr ""
 "Ushbu tilda ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
 
-#: stats/models.py:760
+#: stats/models.py:761
 msgid "There is no user interface statistics for this branch."
 msgstr "Ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud emas."
 
-#: stats/models.py:767
+#: stats/models.py:768
 msgid ""
 "There is no user interface statistics for this branch in this language."
 msgstr ""
 "Ushbu tilda ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud "
 "emas."
 
-#: stats/models.py:799
+#: stats/models.py:800
 #, python-format
 msgid ""
 "This branch name is ‘%(branch_name)s’ while there already exists a branch "
@@ -4075,7 +4083,7 @@ msgstr ""
 "Bu filial nomi “%(branch_name)s” boʻlib, HEAD ga ishora qiluvchi filial "
 "allaqachon mavjud (%(branch_head_names)s deb ataladi)."
 
-#: stats/models.py:807
+#: stats/models.py:808
 msgid ""
 "There are too many main branches for this module. Please report this issue "
 "to the coordination team, some cleanup is needed."
@@ -4083,22 +4091,22 @@ msgstr ""
 "Ushbu modul uchun juda koʻp asosiy filiallar mavjud. Iltimos, bu muammoni "
 "muvofiqlashtiruvchi guruhga xabar bering, biroz tozalash kerak."
 
-#: stats/models.py:836
+#: stats/models.py:837
 msgid "The name of the domain (ie. “po”, “help”…)"
 msgstr "Domen nomi (masalan, “po”, “help”…)"
 
-#: stats/models.py:842
+#: stats/models.py:843
 #, python-format
 msgid ""
 "A description of the domain. “%(ui)s” and “%(doc)s” are common descriptions "
 "for modules."
 msgstr "Domen tavsifi. “%(ui)s” va “%(doc)s” modullar uchun umumiy tavsifdir."
 
-#: stats/models.py:848
+#: stats/models.py:849
 msgid "Domain type"
 msgstr "Domen turi"
 
-#: stats/models.py:852
+#: stats/models.py:853
 #, fuzzy, python-format
 #| msgid ""
 #| "Whether the Domain is a for a user interface (%(ui)s) or a documentation "
@@ -4110,11 +4118,11 @@ msgstr ""
 "Domen foydalanuvchi interfeysi (%(ui)s) yoki dokumentatsiya (%(doc)s) "
 "uchunmi."
 
-#: stats/models.py:859
+#: stats/models.py:860
 msgid "PO files layout"
 msgstr "PO fayllari tartibi"
 
-#: stats/models.py:862
+#: stats/models.py:863
 #, python-format
 msgid ""
 "The standard for the user interface is “%(po_layout_for_ui)s”. For the "
@@ -4123,29 +4131,29 @@ msgstr ""
 "Foydalanuvchi interfeysi uchun standart “%(po_layout_for_ui)s”. "
 "Dokumentatsiya uchun bu “%(po_layout_for_help)s”."
 
-#: stats/models.py:868
+#: stats/models.py:869
 msgid "POT generation method"
 msgstr "POT ishlab chiqarish usuli"
 
-#: stats/models.py:872
+#: stats/models.py:873
 msgid "The method to generate the POT file."
 msgstr "POT faylini yaratish usuli."
 
-#: stats/models.py:875
+#: stats/models.py:876
 msgid "POT generation parameters"
 msgstr "POT ishlab chiqarish parametrlari"
 
-#: stats/models.py:879
+#: stats/models.py:880
 msgid ""
 "pot_method='url': URL, pot_method='shell': shell command, "
 "pot_method='gettext': optional params"
 msgstr ""
 
-#: stats/models.py:884
+#: stats/models.py:885
 msgid "Extra ITS directories"
 msgstr "Qoʻshimcha ITS kataloglari"
 
-#: stats/models.py:887
+#: stats/models.py:888
 #, fuzzy
 #| msgid ""
 #| "Colon-separated directories containing extra .its/.loc files for gettext"
@@ -4156,11 +4164,11 @@ msgstr ""
 "Gettext uchun qoʻshimcha .its/.loc fayllarni oʻz ichiga olgan ikki nuqta "
 "bilan ajratilgan kataloglar"
 
-#: stats/models.py:891
+#: stats/models.py:892
 msgid "LINGUAS file location"
 msgstr "LINGUAS fayl joylashuvi"
 
-#: stats/models.py:897
+#: stats/models.py:898
 #, python-format
 msgid ""
 "Use “%s” for no LINGUAS check, or path/to/file#variable for a non-standard location.\n"
@@ -4169,12 +4177,12 @@ msgstr ""
 "LINGUAS tekshiruvi uchun “%s” yoki nostandart joylashuv uchun path/to/file#variabledan foydalaning.\n"
 "Standart joylashuv uchun boʻsh qoldiring (UI uchun LINGUAS/configure.ac/.in da ALL_LINGUAS va DOC uchun Makefile.am da DOC_LINGUAS). Bu qiymat tilning LINGUAS faylida toʻgʻri koʻrsatilganligini tekshirish uchun ishlatiladi. Koʻpgina hollarda LINGUAS fayllari tarjimasi mavjud boʻlgan barcha tillarni oʻz ichiga olishi kerak."
 
-#: stats/models.py:907
+#: stats/models.py:908
 msgid "Reduced string filter"
 msgstr "Kamaytirilgan simli filtr"
 
 #. Translators: the placeholder is a filter name
-#: stats/models.py:912
+#: stats/models.py:913
 #, python-format
 msgid ""
 "A “%s” filter to strip po file from unprioritized strings (format: "
@@ -4183,36 +4191,36 @@ msgstr ""
 "Po faylini ustuvor boʻlmagan qatorlardan ajratib olish uchun “%s” filtri "
 "(format: joylashuv|string, filtrsiz uchun “-”)"
 
-#: stats/models.py:924
+#: stats/models.py:925
 msgid "Valid from branch"
 msgstr "Filialdan amal qiladi"
 
-#: stats/models.py:925
+#: stats/models.py:926
 msgid "The domain is valid from the branch given, for all branches otherwise."
 msgstr ""
 "Domen berilgan filialdan amal qiladi, aks holda barcha filiallar uchun."
 
-#: stats/models.py:933
+#: stats/models.py:934
 msgid "Valid to branch"
 msgstr "Filial uchun amal qiladi"
 
-#: stats/models.py:934
+#: stats/models.py:935
 msgid ""
 "If empty, the domain is valid for all branches or until the branch given."
 msgstr ""
 "Agar boʻsh boʻlsa, domen barcha filiallar uchun yoki berilgan filialga qadar"
 " amal qiladi."
 
-#: stats/models.py:1047
+#: stats/models.py:1048
 #, python-format
 msgid "Unable to determine the PO path for this domain in language “%(lang)s”"
 msgstr "“%(lang)s” tilida bu domen uchun PO yoʻlini aniqlab boʻlmadi"
 
-#: stats/models.py:1061
+#: stats/models.py:1062
 msgid "This domain is not a documentation domain."
 msgstr "Bu domen dokumentatsiya domeni emas."
 
-#: stats/models.py:1109
+#: stats/models.py:1110
 #, python-format
 msgid ""
 "No check of the LINGUAS file. The “%(linguas_location)s” value is set to "
@@ -4221,7 +4229,7 @@ msgstr ""
 "LINGUAS fayli tekshirilmagan. “%(linguas_location)s” qiymati “%(value)s” ga "
 "oʻrnatiladi."
 
-#: stats/models.py:1127
+#: stats/models.py:1128
 #, python-format
 msgid ""
 "The LINGUAS file is stored at “%(linguas_location)s” but does not exist on "
@@ -4229,7 +4237,7 @@ msgid ""
 "could be found and updated."
 msgstr ""
 
-#: stats/models.py:1149
+#: stats/models.py:1150
 #, python-format
 msgid ""
 "A “%(makefile)s” file was found and lists languages in a variable instead of"
@@ -4237,7 +4245,7 @@ msgid ""
 " yet. "
 msgstr ""
 
-#: stats/models.py:1214
+#: stats/models.py:1215
 #, python-format
 msgid ""
 "Entry for this language is not present in %(var)s variable in %(file)s file."
@@ -4245,12 +4253,12 @@ msgstr ""
 "Bu til uchun yozuv %(file)s faylidagi %(var)s oʻzgaruvchisida mavjud emas."
 
 #. Translators: do not translate dtype, it’s a technical term.
-#: stats/models.py:1227
+#: stats/models.py:1228
 #, python-format
 msgid "Domain dtype should be “%(dtype_ui)s” or “%(dtype_doc)s”."
 msgstr "Domen turi “%(dtype_ui)s” yoki “%(dtype_doc)s” boʻlishi kerak."
 
-#: stats/models.py:1345
+#: stats/models.py:1346
 msgid ""
 "The name of the release. You should use a slug, a unique identifier for this"
 " release, such as “gnome-40”. This information is used in URLs."
@@ -4259,100 +4267,100 @@ msgstr ""
 "boʻlgan slugdan foydalanishingiz kerak. Ushbu ma'lumotlar URL manzillarida "
 "ishlatiladi."
 
-#: stats/models.py:1352
+#: stats/models.py:1353
 msgid "The real name of the release, such as “GIMP 2.8” or “GNOME 40”"
 msgstr "“GIMP 2.8” yoki “GNOME 40” kabi nashrning haqiqiy nomi"
 
-#: stats/models.py:1355
+#: stats/models.py:1356
 msgid "String frozen"
 msgstr "String muzlatilgan"
 
-#: stats/models.py:1357
+#: stats/models.py:1358
 msgid "Whether the strings are frozen for this release."
 msgstr "Ushbu nashr uchun satrlar muzlatilganmi yoki yoʻqmi."
 
-#: stats/models.py:1363
+#: stats/models.py:1364
 msgid "The status of the release: whether it is official or not."
 msgstr "Chiqarish holati: rasmiymi yoki yoʻqmi."
 
-#: stats/models.py:1368
+#: stats/models.py:1369
 msgid ""
 "The weight is used to sort releases, higher on top, below 0 in archives."
 msgstr ""
 "Ogʻirligi arxivda 0 dan pastroq boʻlgan yuqoriroqdagi nashrlarni saralash "
 "uchun ishlatiladi."
 
-#: stats/models.py:1372 stats/templates/module_edit.html:56
+#: stats/models.py:1373 stats/templates/module_edit.html:56
 msgid "Branches"
 msgstr "Filiallar"
 
-#: stats/models.py:1447
+#: stats/models.py:1448
 msgid "Category name"
 msgstr "Turkum nomi"
 
-#: stats/models.py:1645 vertimus/admin.py:42 vertimus/models.py:157
+#: stats/models.py:1646 vertimus/admin.py:42 vertimus/models.py:157
 msgid "Domain"
 msgstr "Domen"
 
-#: stats/models.py:1646 stats/templates/release_detail.html:19
+#: stats/models.py:1647 stats/templates/release_detail.html:19
 #: stats/templates/stats_show.html:86 vertimus/admin.py:52
 #: vertimus/models.py:158
 msgid "Language"
 msgstr "Til"
 
-#: stats/models.py:1649
+#: stats/models.py:1650
 msgid "Full PO file"
 msgstr "Toʻliq PO fayli"
 
-#: stats/models.py:1656
+#: stats/models.py:1657
 msgid "Partial PO file"
 msgstr "Qisman PO fayli"
 
-#: stats/models.py:1763 stats/models.py:2371
+#: stats/models.py:1764 stats/models.py:2376
 #, python-format
 msgid "%(lang_name)s (%(lang_locale)s)"
 msgstr "%(lang_name)s (%(lang_locale)s)"
 
-#: stats/models.py:1825
+#: stats/models.py:1826
 #, python-format
 msgid "%(count)s message"
 msgid_plural "%(count)s messages"
 msgstr[0] "%(count)s xabar"
 msgstr[1] "%(count)s ta xabarlar"
 
-#: stats/models.py:1826
+#: stats/models.py:1827
 #, python-format
 msgid "%(count)s word"
 msgid_plural "%(count)s words"
 msgstr[0] "%(count)s soʻz"
 msgstr[1] "%(count)s ta soʻzlar"
 
-#: stats/models.py:1828
+#: stats/models.py:1829
 #, python-format
 msgid "%(count)s figure"
 msgid_plural "%(count)s figures"
 msgstr[0] "%(count)s raqam"
 msgstr[1] "%(count)s ta raqamlar"
 
-#: stats/models.py:1829
+#: stats/models.py:1830
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s, %(figures)s)"
 msgstr "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 
-#: stats/models.py:1835
+#: stats/models.py:1836
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s)"
 msgstr "(%(messages)s — %(words)s) — %(updated)s"
 
-#: stats/models.py:1840
+#: stats/models.py:1841
 #, fuzzy
 #| msgid "Unable to summarise the POT statistics, the file is missing."
 msgid "Unable to summarize the POT statistics, the file is missing."
 msgstr "POT statistikasini umumlashtirib boʻlmadi, fayl yoʻq."
 
-#: stats/models.py:1999
+#: stats/models.py:2000
 msgid ""
 "Error while updating statistics using “%(file_path)”. The file may not exist"
 " on disk or is unreadable."
@@ -5287,7 +5295,7 @@ msgstr "Tarjima qilingan"
 msgid "Display document figures"
 msgstr "Hujjat raqamlarini koʻrsatish"
 
-#: stats/templatetags/stats_extras.py:200
+#: stats/templatetags/stats_extras.py:201
 msgid "Error"
 msgstr "Xatolik"
 

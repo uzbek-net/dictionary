@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Curtail master\n"
 "Report-Msgid-Bugs-To: https://github.com/Huluti/Curtail/issues\n"
-"POT-Creation-Date: 2026-05-25 09:13+0000\n"
+"POT-Creation-Date: 2026-10-03 10:05+0000\n"
 "PO-Revision-Date: 2025-10-03 16:38+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -426,8 +426,8 @@ msgstr "WebP rasmlar"
 msgid "SVG images"
 msgstr "SVG rasmlar"
 
-#: src/tools.py:123 src/tools.py:130 src/tools.py:137 src/tools.py:144
-#: src/tools.py:151 src/tools.py:176
+#: src/tools.py:109 src/tools.py:116 src/tools.py:123 src/tools.py:130
+#: src/tools.py:137 src/tools.py:162
 msgid "Version not found"
 msgstr "Versiya topilmadi"
 

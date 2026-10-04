@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: d-spy main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/d-spy/issues\n"
-"POT-Creation-Date: 2026-03-16 21:12+0000\n"
+"POT-Creation-Date: 2026-10-02 14:19+0000\n"
 "PO-Revision-Date: 2025-03-27 02:07+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -104,7 +104,7 @@ msgstr "faqat-yozish"
 msgid "read-only"
 msgstr "faqat-oʻqish"
 
-#: src/dspy-property.c:207
+#: src/dspy-property.c:211
 msgid "Error"
 msgstr ""
 

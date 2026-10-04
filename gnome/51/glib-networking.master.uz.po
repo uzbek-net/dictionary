@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: glib-networking master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib-networking/issues\n"
-"POT-Creation-Date: 2026-09-23 19:10+0000\n"
+"POT-Creation-Date: 2026-10-02 07:26+0000\n"
 "PO-Revision-Date: 2025-04-13 09:39+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -236,7 +236,7 @@ msgstr ""
 "Tizim toʻgʻri omborini yuklash muvaffaqiyatsiz tugadi: GnuTLS tizim toʻgʻri "
 "sozlanmagan"
 
-#: tls/gnutls/gtlsdatabase-gnutls.c:598 tls/openssl/gtlsdatabase-openssl.c:385
+#: tls/gnutls/gtlsdatabase-gnutls.c:598 tls/openssl/gtlsdatabase-openssl.c:388
 #, c-format
 msgid "Failed to load system trust store: %s"
 msgstr "Tizim toʻgʻri omborini yuklash muvaffaqiyatsiz tugadi: %s"
@@ -343,23 +343,23 @@ msgstr "Kalit ma’lumotlarini eksport qilishda kutilmagan xatolik"
 msgid "Error performing TLS close"
 msgstr "TLS yopish jarayonida xatolik"
 
-#: tls/openssl/gtlsdatabase-openssl.c:174
+#: tls/openssl/gtlsdatabase-openssl.c:176
 msgid "Could not get trust settings for certificate"
 msgstr "Sertifikat uchun toʻgʻri sozlamalarini olishning iloji yoʻq"
 
-#: tls/openssl/gtlsdatabase-openssl.c:261
+#: tls/openssl/gtlsdatabase-openssl.c:264
 msgid "Could not retrieve certificates"
 msgstr "Sertifikatlarni olishning iloji yoʻq"
 
-#: tls/openssl/gtlsdatabase-openssl.c:361
+#: tls/openssl/gtlsdatabase-openssl.c:364
 msgid "Could not get root certificate store"
 msgstr "Ildiz sertifikatlar omborini olishning iloji yoʻq"
 
-#: tls/openssl/gtlsdatabase-openssl.c:368
+#: tls/openssl/gtlsdatabase-openssl.c:371
 msgid "Could not get CA certificate store"
 msgstr "CA sertifikatlar omborini olishning iloji yoʻq"
 
-#: tls/openssl/gtlsdatabase-openssl.c:434
+#: tls/openssl/gtlsdatabase-openssl.c:437
 msgid "Could not create CA store"
 msgstr "CA omborini yaratib boʻlmadi"
 

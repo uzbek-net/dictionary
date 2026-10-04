@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
-"POT-Creation-Date: 2026-09-25 15:25+0000\n"
+"POT-Creation-Date: 2026-09-27 05:49+0000\n"
 "PO-Revision-Date: 2025-05-14 21:12+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -1533,7 +1533,7 @@ msgid_plural "%'u files"
 msgstr[0] "%'u fayl"
 msgstr[1] "%'u fayl"
 
-#: src/nautilus-file.c:6259 src/nautilus-properties.c:2114
+#: src/nautilus-file.c:6259 src/nautilus-properties.c:2108
 #, c-format
 msgid "%s byte"
 msgid_plural "%s bytes"
@@ -1711,7 +1711,7 @@ msgid_plural "%'d hours"
 msgstr[0] "%'d soat"
 msgstr[1] "%'d soat"
 
-#: src/nautilus-file-operations.c:473 src/nautilus-properties.c:949
+#: src/nautilus-file-operations.c:473 src/nautilus-properties.c:943
 msgid "unknown"
 msgstr "noma'lum"
 
@@ -3381,7 +3381,7 @@ msgid "Select Copy Destination"
 msgstr "Nusxa olish manzilini tanlang"
 
 #: src/nautilus-files-view.c:5876 src/nautilus-files-view.c:6244
-#: src/nautilus-portal.c:478 src/nautilus-properties.c:3992
+#: src/nautilus-portal.c:478 src/nautilus-properties.c:3986
 #: src/resources/ui/nautilus-files-view-select-items.blp:24
 msgid "_Select"
 msgstr "_Tanlash"
@@ -3979,7 +3979,7 @@ msgstr "Joriy jild menyusi"
 
 #. Translators: This is the label used in the pathbar when seeing
 #. * the root directory (also known as /)
-#: src/nautilus-pathbar.c:408 src/nautilus-properties.c:896
+#: src/nautilus-pathbar.c:408 src/nautilus-properties.c:890
 msgid "Operating System"
 msgstr "Operatsion tizim"
 
@@ -4118,38 +4118,38 @@ msgstr "Oldingi buyruqni bekor qilish"
 msgid "Cannot Use This File"
 msgstr "Fayllarni Oxirgi faylga joylab boʻlmadi"
 
-#: src/nautilus-properties.c:633 src/nautilus-properties.c:718
+#: src/nautilus-properties.c:633 src/nautilus-properties.c:712
 msgid "You can only use local images as custom icons."
 msgstr ""
 "Siz faqat mahalliy tasvirlarni maxsus piktogramma sifatida ishlatishingiz "
 "mumkin."
 
-#: src/nautilus-properties.c:703
+#: src/nautilus-properties.c:697
 msgid "You cannot assign more than one custom icon at a time!"
 msgstr "Siz bir vaqtning oʻzida bir nechta maxsus belgini tayinlay olmaysiz!"
 
-#: src/nautilus-properties.c:704
+#: src/nautilus-properties.c:698
 msgid "Please drop just one image to set a custom icon."
 msgstr "Maxsus belgi oʻrnatish uchun faqat bitta rasmni qoldiring."
 
-#: src/nautilus-properties.c:717
+#: src/nautilus-properties.c:711
 msgid "The file that you dropped is not local."
 msgstr "Siz tashlagan fayl mahalliy emas."
 
 #. Unmarks a file as starred (starred)
-#: src/nautilus-properties.c:765 src/nautilus-star-cell.c:72
+#: src/nautilus-properties.c:759 src/nautilus-star-cell.c:72
 #: src/resources/menu/nautilus-files-view-context-menus.ui:251
 msgid "Unstar"
 msgstr "Yulduzchani olib tashlash"
 
-#: src/nautilus-properties.c:765 src/nautilus-star-cell.c:72
+#: src/nautilus-properties.c:759 src/nautilus-star-cell.c:72
 #, fuzzy
 #| msgid "Star"
 msgctxt "Verb"
 msgid "Star"
 msgstr "Yulduz"
 
-#: src/nautilus-properties.c:861
+#: src/nautilus-properties.c:855
 #, fuzzy, c-format
 #| msgid "Rename selected item"
 msgid "%d Selected Item"
@@ -4157,50 +4157,50 @@ msgid_plural "%d Selected Items"
 msgstr[0] "Tanlangan element nomini oʻzgartirish"
 msgstr[1] "Tanlangan element nomini oʻzgartirish"
 
-#: src/nautilus-properties.c:1607
+#: src/nautilus-properties.c:1601
 msgid "Cancel Group Change?"
 msgstr "Guruh oʻzgarishi bekor qilinsinmi?"
 
-#: src/nautilus-properties.c:1752
+#: src/nautilus-properties.c:1746
 msgid "Cancel Owner Change?"
 msgstr "Egasini almashtirish bekor qilinsinmi?"
 
-#: src/nautilus-properties.c:1900 src/nautilus-properties.c:1947
+#: src/nautilus-properties.c:1894 src/nautilus-properties.c:1941
 msgid "Multiple"
 msgstr "Bir nechta"
 
-#: src/nautilus-properties.c:2081
+#: src/nautilus-properties.c:2075
 msgid "Empty folder"
 msgstr "Boʻsh papka"
 
-#: src/nautilus-properties.c:2085
+#: src/nautilus-properties.c:2079
 msgid "Contents unreadable"
 msgstr "Tarkibni oʻqib boʻlmaydi"
 
-#: src/nautilus-properties.c:2097
+#: src/nautilus-properties.c:2091
 #, c-format
 msgid "%'d item, with size %s"
 msgid_plural "%'d items, totalling %s"
 msgstr[0] "%'d ta element, hajmi %s"
 msgstr[1] "%'d ta element, hajmi %s"
 
-#: src/nautilus-properties.c:2107
+#: src/nautilus-properties.c:2101
 msgid "(some contents unreadable)"
 msgstr "(ba'zi tarkiblarni oʻqib boʻlmaydi)"
 
 #. Translators: %s will be filled with a filesystem type, such as 'ext4' or
 #. 'msdos'.
-#: src/nautilus-properties.c:2436
+#: src/nautilus-properties.c:2430
 #, c-format
 msgid "%s Filesystem"
 msgstr "%s Fayl tizimi"
 
-#: src/nautilus-properties.c:3538
+#: src/nautilus-properties.c:3532
 #, c-format
 msgid "The permissions of “%s” could not be determined."
 msgstr "“%s” ruxsatlarini aniqlab boʻlmadi."
 
-#: src/nautilus-properties.c:3991
+#: src/nautilus-properties.c:3985
 msgid "Select Custom Icon"
 msgstr "Maxsus belgini tanlang"
 
