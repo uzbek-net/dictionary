@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Curtail master\n"
 "Report-Msgid-Bugs-To: https://github.com/Huluti/Curtail/issues\n"
-"POT-Creation-Date: 2026-10-03 10:05+0000\n"
+"POT-Creation-Date: 2026-10-09 12:08+0000\n"
 "PO-Revision-Date: 2025-10-03 16:38+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-#: data/com.github.huluti.Curtail.appdata.xml.in:8
-#: data/com.github.huluti.Curtail.desktop.in:4
+#: data/com.github.huluti.Curtail.metainfo.xml.in.in:8
+#: data/com.github.huluti.Curtail.desktop.in.in:4
 msgid "Compress your images"
 msgstr "Rasmlaringizni zichlang"
 
-#: data/com.github.huluti.Curtail.appdata.xml.in:11
+#: data/com.github.huluti.Curtail.metainfo.xml.in.in:11
 msgid ""
 "Optimize your images with Curtail, a useful image compressor that supports "
 "PNG, JPEG, WebP and SVG file types."
@@ -30,7 +30,7 @@ msgstr ""
 "Rasmlaringizni PNG, JPEG, WebP va SVG fayl turlarini qoʻllab-quvvatlaydigan "
 "Curtail yordamida optimallashtiring."
 
-#: data/com.github.huluti.Curtail.appdata.xml.in:14
+#: data/com.github.huluti.Curtail.metainfo.xml.in.in:14
 msgid ""
 "It supports both lossless and lossy compression modes with an option to "
 "whether keep or not metadata of images."
@@ -39,13 +39,13 @@ msgstr ""
 "taqdim etgan holda, ma’lumot yoʻqotishsiz va ma’lumot yoʻqotish bilan "
 "zichlash rejimlarini qoʻllab-quvvatlaydi."
 
-#: data/com.github.huluti.Curtail.desktop.in:2 data/ui/window.blp:29
+#: data/com.github.huluti.Curtail.desktop.in.in:2 data/ui/window.blp:29
 #: data/ui/window.blp:53 data/ui/window.blp:78
 msgid "Curtail"
 msgstr "Curtail"
 
 #. Keywords, do not translate
-#: data/com.github.huluti.Curtail.desktop.in:15
+#: data/com.github.huluti.Curtail.desktop.in.in:15
 msgid "compress;optimize;image;photo;"
 msgstr "zichlash;optimallash;tasvir;foto;"
 
@@ -350,7 +350,7 @@ msgstr "Tezkor tugmalar"
 msgid "About Curtail"
 msgstr "Curtail haqida"
 
-#: data/ui/window.blp:41 src/window.py:217
+#: data/ui/window.blp:41 src/window.py:220
 msgid "Browse Files"
 msgstr "Fayllarni koʻrish"
 
@@ -431,31 +431,31 @@ msgstr "SVG rasmlar"
 msgid "Version not found"
 msgstr "Versiya topilmadi"
 
-#: src/window.py:146
+#: src/window.py:149
 msgid "Skipped"
 msgstr "Tashlab ketildi"
 
-#: src/window.py:178
+#: src/window.py:181
 msgid "Open Image"
 msgstr "Rasmni ochish"
 
-#: src/window.py:179
+#: src/window.py:182
 msgid "Show in Folder"
 msgstr "Jildda koʻrsatish"
 
-#: src/window.py:207
+#: src/window.py:210
 msgid "Overwrite mode"
 msgstr "Ustidan yozish usuli"
 
-#: src/window.py:235
+#: src/window.py:238
 msgid "Browse Directories"
 msgstr "Direktoriyalarni koʻrish"
 
-#: src/window.py:261 src/window.py:270
+#: src/window.py:264 src/window.py:273
 msgid "Are you sure you want to compress images in these directories?"
 msgstr "Haqiqatan ham bu kataloglardagi rasmlarni zichlamoqchimisiz?"
 
-#: src/window.py:263
+#: src/window.py:266
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed. The original images will not be modified."
@@ -463,7 +463,7 @@ msgstr ""
 "Belgilangan direktoriyalar va ularning quyi direktoriyalaridagi barcha "
 "rasmlar zichlashtiriladi. Asl rasmlar oʻzgarmaydi."
 
-#: src/window.py:272
+#: src/window.py:275
 msgid ""
 "All of the images in the directories selected and their subdirectories will "
 "be compressed and overwritten!"
@@ -471,23 +471,23 @@ msgstr ""
 "Tanlangan direktoriyalar va ularning quyi direktoriyalaridagi barcha rasmlar"
 " zichlanadi va ustidan yoziladi!"
 
-#: src/window.py:277
+#: src/window.py:280
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: src/window.py:278
+#: src/window.py:281
 msgid "Compress"
 msgstr "Zichlamoq"
 
-#: src/window.py:316
+#: src/window.py:319
 msgid "No files found"
 msgstr "Hech qanday fayllar topilmadi"
 
-#: src/window.py:367
+#: src/window.py:370
 msgid "translator-credits"
 msgstr "Hamidulloh Toʻxtayev <toxtayevhamidulloh6997@gmail.com>"
 
-#: src/window.py:371
+#: src/window.py:374
 msgid "Contributors"
 msgstr "Hissa qoʻshuvchilar"
 

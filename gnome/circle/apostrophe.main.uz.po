@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: apostrophe main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/apostrophe/issues\n"
-"POT-Creation-Date: 2025-09-25 15:19+0000\n"
+"POT-Creation-Date: 2026-10-08 17:19+0000\n"
 "PO-Revision-Date: 2025-10-03 14:42+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) uzbek-net\n"
@@ -371,7 +371,7 @@ msgid "Main Menu"
 msgstr "Asosiy menyu"
 
 #: data/ui/HeaderbarNarrow.ui:51 data/ui/Headerbar.ui:10
-#: apostrophe/main_window.py:891 apostrophe/main_window.py:906
+#: apostrophe/main_window.py:894 apostrophe/main_window.py:909
 msgid "New File"
 msgstr "Yangi fayl"
 
@@ -486,7 +486,7 @@ msgstr "Markdaun koʻrinishi boʻyicha qoʻllanma"
 msgid "Desired level of security when rendering the preview"
 msgstr "Oldindan koʻrish vaqtida talab qilinadigan xavfsizlik darajasi"
 
-#: data/ui/PreviewLayoutSwitcher.ui:7 apostrophe/preview_handler.py:212
+#: data/ui/PreviewLayoutSwitcher.ui:7 apostrophe/preview_handler.py:214
 #: apostrophe/preview_window.py:32
 msgid "Preview"
 msgstr "Oldindan koʻrish"
@@ -533,164 +533,250 @@ msgstr "Almashtiring"
 msgid "Replace All"
 msgstr "Hammasini almashtirish"
 
-#: data/ui/Shortcuts.ui:11
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:6
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "General"
+msgctxt "shortcuts dialog"
 msgid "General"
 msgstr "General"
 
-#: data/ui/Shortcuts.ui:14
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:9
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "New"
+msgctxt "shortcuts dialog"
 msgid "New"
 msgstr "Yangi"
 
-#: data/ui/Shortcuts.ui:20
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:15
+#, fuzzy
+#| msgid "Open"
+msgctxt "shortcuts dialog"
 msgid "Open"
 msgstr "Ochish"
 
-#: data/ui/Shortcuts.ui:26
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:21
+#, fuzzy
+#| msgid "Save"
+msgctxt "shortcuts dialog"
 msgid "Save"
 msgstr "Saqlash"
 
-#: data/ui/Shortcuts.ui:32
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:27
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Save As"
+msgctxt "shortcuts dialog"
 msgid "Save As"
 msgstr "Boshqacha saqlash"
 
-#: data/ui/Shortcuts.ui:38
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:33
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Close Document"
+msgctxt "shortcuts dialog"
 msgid "Close Document"
 msgstr "Hujjatni yopish"
 
-#: data/ui/Shortcuts.ui:44
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:39
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Show Preferences"
+msgctxt "shortcuts dialog"
 msgid "Show Preferences"
 msgstr "Afzalliklarni koʻrsatish"
 
-#: data/ui/Shortcuts.ui:50
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:45
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Keyboard Shortcuts"
+msgctxt "shortcuts dialog"
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
-#: data/ui/Shortcuts.ui:56
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:51
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Quit Application"
+msgctxt "shortcuts dialog"
 msgid "Quit Application"
 msgstr "Dasturdan chiqish"
 
-#: data/ui/Shortcuts.ui:64
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:59
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Modes"
+msgctxt "shortcuts dialog"
 msgid "Modes"
 msgstr "Rejimlar"
 
-#: data/ui/Shortcuts.ui:67
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:62
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Focus Mode"
+msgctxt "shortcuts dialog"
 msgid "Focus Mode"
 msgstr "Fokus rejimi"
 
-#: data/ui/Shortcuts.ui:73
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:68
+#, fuzzy
+#| msgid "Hemingway Mode"
+msgctxt "shortcuts dialog"
 msgid "Hemingway Mode"
 msgstr "Xeminguey uslubi"
 
-#: data/ui/Shortcuts.ui:80
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:74
+#, fuzzy
+#| msgid "Preview"
+msgctxt "shortcuts dialog"
 msgid "Preview"
 msgstr "Oldindan koʻrish"
 
-#: data/ui/Shortcuts.ui:86
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:80
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Fullscreen"
+msgctxt "shortcuts dialog"
 msgid "Fullscreen"
 msgstr "Toʻliq ekran"
 
-#: data/ui/Shortcuts.ui:94 data/ui/Shortcuts.ui:97
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:88 data/ui/Shortcuts.ui:91
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Find"
+msgctxt "shortcuts dialog"
 msgid "Find"
 msgstr "Qidirish"
 
-#: data/ui/Shortcuts.ui:103
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:97
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Find and Replace"
+msgctxt "shortcuts dialog"
 msgid "Find and Replace"
 msgstr "Qidirish va almashtirish"
 
-#: data/ui/Shortcuts.ui:111
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:105
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Markdown"
+msgctxt "shortcuts dialog"
 msgid "Markdown"
 msgstr "Markdaun"
 
-#: data/ui/Shortcuts.ui:114
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:108
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Separator"
+msgctxt "shortcuts dialog"
 msgid "Separator"
 msgstr "Ajratuvchi"
 
-#: data/ui/Shortcuts.ui:120
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:114
+#, fuzzy
+#| msgid "Header"
+msgctxt "shortcuts dialog"
 msgid "Header"
 msgstr "Sarlavha"
 
-#: data/ui/Shortcuts.ui:126
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:120
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "List Item"
+msgctxt "shortcuts dialog"
 msgid "List Item"
 msgstr "Roʻyxat elementi"
 
-#: data/ui/Shortcuts.ui:133
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:126
+#, fuzzy
+#| msgid "Italic"
+msgctxt "shortcuts dialog"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: data/ui/Shortcuts.ui:139
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:132
+#, fuzzy
+#| msgid "Bold"
+msgctxt "shortcuts dialog"
 msgid "Bold"
 msgstr "Qalin"
 
-#: data/ui/Shortcuts.ui:145
+#: data/ui/Shortcuts.ui:138
 #, fuzzy
-msgctxt "shortcut window"
+msgctxt "shortcuts dialog"
 msgid "Strikeout"
 msgstr "Zabastovka"
 
-#: data/ui/Shortcuts.ui:153
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:146
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Copy and Paste"
+msgctxt "shortcuts dialog"
 msgid "Copy and Paste"
 msgstr "Nusxalash va Qoʻyish"
 
-#: data/ui/Shortcuts.ui:156
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:149
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Copy"
+msgctxt "shortcuts dialog"
 msgid "Copy"
 msgstr "Nusxalash"
 
-#: data/ui/Shortcuts.ui:162
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:155
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Cut"
+msgctxt "shortcuts dialog"
 msgid "Cut"
 msgstr "Qirqish"
 
-#: data/ui/Shortcuts.ui:168
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:161
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Paste"
+msgctxt "shortcuts dialog"
 msgid "Paste"
 msgstr "Qoʻyish"
 
-#: data/ui/Shortcuts.ui:176
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:169
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Undo and Redo"
+msgctxt "shortcuts dialog"
 msgid "Undo and Redo"
 msgstr "Bekor qilish va qayta bajarish"
 
-#: data/ui/Shortcuts.ui:179
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:172
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Undo Previous Command"
+msgctxt "shortcuts dialog"
 msgid "Undo Previous Command"
 msgstr "Oldingi buyruqni bekor qilish"
 
-#: data/ui/Shortcuts.ui:185
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:178
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Redo Previous Command"
+msgctxt "shortcuts dialog"
 msgid "Redo Previous Command"
 msgstr "Oldingi buyruqni takrorlang"
 
-#: data/ui/Shortcuts.ui:193
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:186
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Selection"
+msgctxt "shortcuts dialog"
 msgid "Selection"
 msgstr "Tanlash"
 
-#: data/ui/Shortcuts.ui:196
-msgctxt "shortcut window"
+#: data/ui/Shortcuts.ui:189
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Select All Text"
+msgctxt "shortcuts dialog"
 msgid "Select All Text"
 msgstr "Barcha matnlarni tanlash"
 
@@ -860,11 +946,11 @@ msgstr "Fayl boshqa dastur tomonidan oʻzgartirilgan"
 msgid "_Discard Changes and Reload"
 msgstr "Oʻzgarishlarni bekor qiling va qayta yuklang"
 
-#: apostrophe/application.py:305
+#: apostrophe/application.py:314
 msgid "Donate"
 msgstr "Xayriya qiling"
 
-#: apostrophe/application.py:306
+#: apostrophe/application.py:315
 msgid "Translations"
 msgstr "Tarjimalar"
 
@@ -882,8 +968,8 @@ msgid "Export to %s"
 msgstr "%s ga eksport qilish"
 
 #: apostrophe/export_dialog.py:122 apostrophe/export_dialog.py:324
-#: apostrophe/export_dialog.py:329 apostrophe/main_window.py:446
-#: apostrophe/main_window.py:532 apostrophe/main_window.py:655
+#: apostrophe/export_dialog.py:329 apostrophe/main_window.py:447
+#: apostrophe/main_window.py:533 apostrophe/main_window.py:656
 msgid "Cancel"
 msgstr "Bekor qilish"
 
@@ -960,31 +1046,31 @@ msgstr "Xeminguey rejimida matnni oʻchirish imkonsiz"
 msgid "Tell me more"
 msgstr "Batafsil aytib bering"
 
-#: apostrophe/main_window.py:442
+#: apostrophe/main_window.py:443
 msgid "Save your File"
 msgstr "Faylingizni saqlang"
 
-#: apostrophe/main_window.py:445 apostrophe/main_window.py:657
+#: apostrophe/main_window.py:446 apostrophe/main_window.py:658
 msgid "Save"
 msgstr "Saqlash"
 
-#: apostrophe/main_window.py:521
+#: apostrophe/main_window.py:522
 msgid "Markdown Files"
 msgstr "Belgilash fayllari"
 
-#: apostrophe/main_window.py:525
+#: apostrophe/main_window.py:526
 msgid "Plain Text Files"
 msgstr "Oddiy matn fayllari"
 
-#: apostrophe/main_window.py:528
+#: apostrophe/main_window.py:529
 msgid "Open a .md file"
 msgstr ".md faylni ochish"
 
-#: apostrophe/main_window.py:531
+#: apostrophe/main_window.py:532
 msgid "Open"
 msgstr "Ochish"
 
-#: apostrophe/main_window.py:609
+#: apostrophe/main_window.py:610
 #, python-brace-format
 msgid ""
 "Failed to detect encoding for file:\n"
@@ -999,11 +1085,11 @@ msgstr ""
 "Xatolik:\n"
 "{err_msg}"
 
-#: apostrophe/main_window.py:649
+#: apostrophe/main_window.py:650
 msgid "Save Changes?"
 msgstr "Oʻzgarishlar saqlansinmi?"
 
-#: apostrophe/main_window.py:650
+#: apostrophe/main_window.py:651
 #, python-format
 msgid ""
 "“%s” contains unsaved changes. If you don’t save, all your changes will be "
@@ -1012,7 +1098,7 @@ msgstr ""
 "\"%s\" faylida saqlanmagan oʻzgarishlar mavjud. Agar saqlamasangiz, barcha "
 "oʻzgarishlar butunlay oʻchib ketadi."
 
-#: apostrophe/main_window.py:656
+#: apostrophe/main_window.py:657
 msgid "Discard"
 msgstr "Bekor qilish"
 
@@ -1156,3 +1242,31 @@ msgstr ""
 #: apostrophe/text_view.py:212 apostrophe/text_view.py:214
 msgid "web page"
 msgstr "veb sahifa"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Open"
+#~ msgstr "Ochish"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Save"
+#~ msgstr "Saqlash"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Hemingway Mode"
+#~ msgstr "Xeminguey uslubi"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Preview"
+#~ msgstr "Oldindan koʻrish"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Header"
+#~ msgstr "Sarlavha"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Italic"
+#~ msgstr "Kursiv"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Bold"
+#~ msgstr "Qalin"

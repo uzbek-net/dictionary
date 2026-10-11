@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chess-clock main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/chess-clock/-/issues/\n"
-"POT-Creation-Date: 2025-10-31 12:28+0000\n"
+"POT-Creation-Date: 2026-10-10 19:39+0000\n"
 "PO-Revision-Date: 2025-03-29 16:42+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -18,19 +18,21 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 #: data/eu.fortysixandtwo.chessclock.desktop.in:2
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:6 src/gtk/window.ui:6
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:9 src/gtk/window.ui:6
 msgid "Chess Clock"
 msgstr "Shaxmat soati"
 
 #: data/eu.fortysixandtwo.chessclock.desktop.in:8
-msgid "chess;game;clock;timer;"
+#, fuzzy
+#| msgid "chess;game;clock;timer;"
+msgid "GNOME;GTK;chess;game;clock;timer;"
 msgstr "shaxmat;oʻyin;soat;taymer;"
 
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:7
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:10
 msgid "Time games of over-the-board chess"
 msgstr "Doskadan tashqari shaxmat boʻyicha vaqt oʻyinlari"
 
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:9
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:12
 msgid ""
 "Chess Clock is a simple application to provide time control for over-the-"
 "board chess games. Intended for mobile use, players select the time control "
@@ -47,7 +49,7 @@ msgstr ""
 " tugaguniga qadar yoki soatlardan biri nolga yetguncha raqibni boshlash "
 "uchun soatni bosadilar."
 
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:18
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:21
 msgid ""
 "The main screen, showing timers for the white and black players of a chess "
 "game"
@@ -55,37 +57,17 @@ msgstr ""
 "Shaxmat oʻyini oq va qora oʻyinchilar uchun taymerlarni koʻrsatadigan asosiy"
 " ekran"
 
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:22
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:25
 msgid "The time control selection screen"
 msgstr "Vaqtni boshqarishni tanlash ekrani"
 
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:26
+#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:29
 msgid ""
 "The main screen in a portrait aspect ratio, showing one timer rotated 180 "
 "degrees"
 msgstr ""
 "Portret nisbatdagi asosiy ekran, bitta taymer 180 daraja aylantirilganini "
 "koʻrsatadi"
-
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:37
-msgid "chess"
-msgstr ""
-
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:38
-msgid "game"
-msgstr ""
-
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:39
-msgid "clock"
-msgstr ""
-
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:40
-msgid "timer"
-msgstr ""
-
-#: data/eu.fortysixandtwo.chessclock.metainfo.xml.in:49
-msgid "Evangelos Ribeiro Tzaras"
-msgstr ""
 
 #: src/gtk/timecontrolentry.ui:23
 msgid "One minute per side, plus zero seconds per turn"

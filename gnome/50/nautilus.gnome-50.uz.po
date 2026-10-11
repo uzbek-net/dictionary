@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
-"POT-Creation-Date: 2026-09-06 11:05+0000\n"
+"POT-Creation-Date: 2026-10-10 22:28+0000\n"
 "PO-Revision-Date: 2025-05-14 21:12+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -448,28 +448,28 @@ msgstr ""
 "Tree List. Uning funktsiyalari plaginlar va skriptlar bilan kengaytirilishi "
 "mumkin."
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:49 src/nautilus-window.c:1745
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:50 src/nautilus-window.c:1745
 #: src/nautilus-window.c:1750 src/nautilus-window.c:1755
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:63
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:64
 #: src/nautilus-files-view.c:9692
 msgid "Grid View"
 msgstr "Jadval shaklida"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:67
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:68
 #: src/nautilus-files-view.c:9699
 msgid "List View"
 msgstr "Roʻyxat koʻrinishi"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:71
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:72
 #: src/nautilus-search-directory-file.c:230
 #: src/nautilus-search-directory-file.c:269
 msgid "Search"
 msgstr "Qidirish"
 
-#: data/org.gnome.Nautilus.metainfo.xml.in.in:75
+#: data/org.gnome.Nautilus.metainfo.xml.in.in:76
 msgid "Selection of Multiple Files"
 msgstr ""
 
@@ -1033,7 +1033,7 @@ msgstr "Nautilus clipboardda boʻsh qatorlar boʻlmasligi kerak."
 msgid "View More"
 msgstr "Koʻproq"
 
-#: src/nautilus-column-utilities.c:69 src/nautilus-sidebar.c:2004
+#: src/nautilus-column-utilities.c:69 src/nautilus-sidebar.c:2006
 msgid "Name"
 msgstr "Ism"
 
@@ -1401,37 +1401,37 @@ msgstr "Kechirasiz, “%s” nomini “%s” qilib oʻzgartirib boʻlmadi: %s"
 msgid "The item could not be renamed."
 msgstr "Element nomini oʻzgartirib boʻlmadi."
 
-#: src/nautilus-file.c:1210 src/nautilus-vfs-file.c:271
+#: src/nautilus-file.c:1211 src/nautilus-vfs-file.c:271
 msgid "This file cannot be mounted"
 msgstr "Bu faylni oʻrnatib boʻlmaydi"
 
-#: src/nautilus-file.c:1264
+#: src/nautilus-file.c:1265
 msgid "This file cannot be unmounted"
 msgstr "Bu faylni uzib boʻlmaydi"
 
-#: src/nautilus-file.c:1311
+#: src/nautilus-file.c:1312
 msgid "This file cannot be ejected"
 msgstr "Bu faylni chiqarib boʻlmaydi"
 
-#: src/nautilus-file.c:1356 src/nautilus-vfs-file.c:462
+#: src/nautilus-file.c:1357 src/nautilus-vfs-file.c:462
 msgid "This file cannot be started"
 msgstr "Bu faylni ishga tushirish mumkin emas"
 
-#: src/nautilus-file.c:1415 src/nautilus-file.c:1454
+#: src/nautilus-file.c:1416 src/nautilus-file.c:1455
 msgid "This file cannot be stopped"
 msgstr "Bu faylni toʻxtatib boʻlmaydi"
 
-#: src/nautilus-file.c:1795
+#: src/nautilus-file.c:1790
 #, c-format
 msgid "Slashes are not allowed in filenames"
 msgstr "Fayl nomlarida qiya chiziqlarga ruxsat berilmaydi"
 
-#: src/nautilus-file.c:1838
+#: src/nautilus-file.c:1833
 #, c-format
 msgid "Toplevel files cannot be renamed"
 msgstr "Yuqori darajadagi fayllar nomini oʻzgartirib boʻlmaydi"
 
-#: src/nautilus-file.c:1918
+#: src/nautilus-file.c:1913
 #, c-format
 msgid "File not found"
 msgstr "Fayl topilmadi"
@@ -1494,7 +1494,7 @@ msgid_plural "%'u files"
 msgstr[0] "%'u fayl"
 msgstr[1] "%'u fayl"
 
-#: src/nautilus-file.c:6409 src/nautilus-properties.c:2114
+#: src/nautilus-file.c:6409 src/nautilus-properties.c:2116
 #, c-format
 msgid "%s byte"
 msgid_plural "%s bytes"
@@ -1672,7 +1672,7 @@ msgid_plural "%'d hours"
 msgstr[0] "%'d soat"
 msgstr[1] "%'d soat"
 
-#: src/nautilus-file-operations.c:475 src/nautilus-properties.c:921
+#: src/nautilus-file-operations.c:475 src/nautilus-properties.c:922
 msgid "unknown"
 msgstr "noma'lum"
 
@@ -1896,7 +1896,7 @@ msgstr "_Boʻsh"
 
 #. Translators: %s is a file name formatted for display
 #: src/nautilus-file-operations.c:2424 src/nautilus-files-view.c:6513
-#: src/nautilus-sidebar.c:1779
+#: src/nautilus-sidebar.c:1777
 #, c-format
 msgid "Unable to access “%s”"
 msgstr "“%s”ga kirish imkoni yoʻq"
@@ -3341,7 +3341,7 @@ msgid "Select Copy Destination"
 msgstr "Nusxa olish manzilini tanlang"
 
 #: src/nautilus-files-view.c:5799 src/nautilus-files-view.c:6164
-#: src/nautilus-portal.c:477 src/nautilus-properties.c:3952
+#: src/nautilus-portal.c:477 src/nautilus-properties.c:3958
 #: src/resources/ui/nautilus-files-view-select-items.blp:24
 msgid "_Select"
 msgstr "_Tanlash"
@@ -3365,8 +3365,7 @@ msgid "Unable to stop drive"
 msgstr "Haydovchini toʻxtatib boʻlmadi"
 
 #. Translators: %s is a file name formatted for display
-#: src/nautilus-files-view.c:6691 src/nautilus-sidebar.c:1730
-#: src/nautilus-sidebar.c:2608
+#: src/nautilus-files-view.c:6691 src/nautilus-sidebar.c:1728
 #, c-format
 msgid "Unable to start “%s”"
 msgstr "“%s”ni ishga tushirib boʻlmadi"
@@ -3401,7 +3400,7 @@ msgstr "Koʻchirma…"
 msgid "Open"
 msgstr "Oching"
 
-#: src/nautilus-files-view.c:7944 src/nautilus-sidebar.c:3054
+#: src/nautilus-files-view.c:7944 src/nautilus-sidebar.c:3025
 #: src/resources/menu/nautilus-files-view-context-menus.ui:164
 msgid "_Start"
 msgstr "Boshlash"
@@ -3422,7 +3421,7 @@ msgstr "Drive qulfini ochish"
 msgid "Stop Drive"
 msgstr "Drive toʻxtating"
 
-#: src/nautilus-files-view.c:7986 src/nautilus-sidebar.c:3085
+#: src/nautilus-files-view.c:7986 src/nautilus-sidebar.c:3056
 msgid "_Safely Remove Drive"
 msgstr "_Diskni xavfsiz olib tashlang"
 
@@ -3471,7 +3470,7 @@ msgstr "Joriy joylashuvni koʻrish"
 #. Translators: this refers to captions under icons.
 #. Translators: this is referred to the permissions the user has in a
 #. directory.
-#: src/nautilus-grid-view-captions-dialog.c:36 src/nautilus-properties.c:403
+#: src/nautilus-grid-view-captions-dialog.c:36 src/nautilus-properties.c:404
 msgid "None"
 msgstr "Hech biri"
 
@@ -3526,7 +3525,7 @@ msgstr ""
 msgid "_Learn More"
 msgstr "_Batafsil ma'lumot"
 
-#: src/nautilus-location-banner.c:272 src/nautilus-sidebar.c:3008
+#: src/nautilus-location-banner.c:272 src/nautilus-sidebar.c:2979
 msgid "_Empty Trash…"
 msgstr "_Chiqindini boʻshatish…"
 
@@ -3931,7 +3930,7 @@ msgstr "Joriy jild menyusi"
 
 #. Translators: This is the label used in the pathbar when seeing
 #. * the root directory (also known as /)
-#: src/nautilus-pathbar.c:406 src/nautilus-properties.c:868
+#: src/nautilus-pathbar.c:406 src/nautilus-properties.c:869
 msgid "Operating System"
 msgstr "Operatsion tizim"
 
@@ -3941,8 +3940,8 @@ msgstr "Operatsion tizim"
 msgid "Administrator Root"
 msgstr "Administrator ildizi"
 
-#: src/nautilus-portal.c:477 src/nautilus-sidebar.c:2836
-#: src/nautilus-sidebar.c:2949
+#: src/nautilus-portal.c:477 src/nautilus-sidebar.c:2807
+#: src/nautilus-sidebar.c:2920
 #: src/resources/menu/nautilus-files-view-context-menus.ui:92
 #: src/resources/ui/nautilus-app-chooser.blp:27
 msgid "_Open"
@@ -4027,87 +4026,87 @@ msgstr[1] "%'d ta fayl operatsiyasi faol"
 msgid "All file operations have been completed"
 msgstr "Barcha fayl operatsiyalari tugallandi"
 
-#: src/nautilus-properties.c:354
+#: src/nautilus-properties.c:355
 msgid "Read and Write"
 msgstr "Oʻqing va yozing"
 
-#: src/nautilus-properties.c:358
+#: src/nautilus-properties.c:359
 msgid "Create and Delete Files"
 msgstr "Fayllarni yaratish va oʻchirish"
 
-#: src/nautilus-properties.c:362
+#: src/nautilus-properties.c:363
 msgid "Read and Write, No Access"
 msgstr "Oʻqish va yozish, kirish yoʻq"
 
-#: src/nautilus-properties.c:369
+#: src/nautilus-properties.c:370
 msgid "Read-Only"
 msgstr "Faqat oʻqish uchun"
 
-#: src/nautilus-properties.c:373
+#: src/nautilus-properties.c:374
 msgid "Access Files"
 msgstr "Bosh papkangizdagi fayllarga kiring"
 
-#: src/nautilus-properties.c:377
+#: src/nautilus-properties.c:378
 msgid "List Files Only"
 msgstr "Faqat fayllar roʻyxati"
 
-#: src/nautilus-properties.c:387
+#: src/nautilus-properties.c:388
 msgid "Write-Only"
 msgstr "Faqat yozish"
 
-#: src/nautilus-properties.c:391
+#: src/nautilus-properties.c:392
 msgid "Write-Only, No Access"
 msgstr "Faqat yozish, ruxsat yoʻq"
 
-#: src/nautilus-properties.c:398
+#: src/nautilus-properties.c:399
 msgid "Access-Only"
 msgstr "Faqat kirish uchun"
 
-#: src/nautilus-properties.c:631
+#: src/nautilus-properties.c:632
 msgid "Custom icon removed"
 msgstr "Maxsus belgi olib tashlandi"
 
-#: src/nautilus-properties.c:632 src/nautilus-window.c:821
+#: src/nautilus-properties.c:633 src/nautilus-window.c:821
 #: src/resources/ui/nautilus-window.blp:25
 msgid "_Undo"
 msgstr "Oldingi buyruqni bekor qilish"
 
-#: src/nautilus-properties.c:666
+#: src/nautilus-properties.c:667
 msgid "You cannot assign more than one custom icon at a time!"
 msgstr "Siz bir vaqtning oʻzida bir nechta maxsus belgini tayinlay olmaysiz!"
 
-#: src/nautilus-properties.c:667
+#: src/nautilus-properties.c:668
 msgid "Please drop just one image to set a custom icon."
 msgstr "Maxsus belgi oʻrnatish uchun faqat bitta rasmni qoldiring."
 
-#: src/nautilus-properties.c:682
+#: src/nautilus-properties.c:683
 msgid "The file that you dropped is not local."
 msgstr "Siz tashlagan fayl mahalliy emas."
 
-#: src/nautilus-properties.c:683 src/nautilus-properties.c:689
+#: src/nautilus-properties.c:684 src/nautilus-properties.c:690
 msgid "You can only use local images as custom icons."
 msgstr ""
 "Siz faqat mahalliy tasvirlarni maxsus piktogramma sifatida ishlatishingiz "
 "mumkin."
 
-#: src/nautilus-properties.c:688
+#: src/nautilus-properties.c:689
 msgid "The file that you dropped is not an image."
 msgstr "Siz tashlagan fayl rasm emas."
 
 #. Unmarks a file as starred (starred)
-#: src/nautilus-properties.c:737 src/nautilus-star-cell.c:72
+#: src/nautilus-properties.c:738 src/nautilus-star-cell.c:72
 #: src/resources/menu/nautilus-files-view-context-menus.ui:261
 msgid "Unstar"
 msgstr "Yulduzchani olib tashlash"
 
-#: src/nautilus-properties.c:737 src/nautilus-star-cell.c:72
+#: src/nautilus-properties.c:738 src/nautilus-star-cell.c:72
 #, fuzzy
 #| msgid "Star"
 msgctxt "Verb"
 msgid "Star"
 msgstr "Yulduz"
 
-#: src/nautilus-properties.c:833
+#: src/nautilus-properties.c:834
 #, fuzzy, c-format
 #| msgid "Rename selected item"
 msgid "%d Selected Item"
@@ -4115,50 +4114,50 @@ msgid_plural "%d Selected Items"
 msgstr[0] "Tanlangan element nomini oʻzgartirish"
 msgstr[1] "Tanlangan element nomini oʻzgartirish"
 
-#: src/nautilus-properties.c:1603
+#: src/nautilus-properties.c:1605
 msgid "Cancel Group Change?"
 msgstr "Guruh oʻzgarishi bekor qilinsinmi?"
 
-#: src/nautilus-properties.c:1750
+#: src/nautilus-properties.c:1752
 msgid "Cancel Owner Change?"
 msgstr "Egasini almashtirish bekor qilinsinmi?"
 
-#: src/nautilus-properties.c:1900 src/nautilus-properties.c:1947
+#: src/nautilus-properties.c:1902 src/nautilus-properties.c:1949
 msgid "Multiple"
 msgstr "Bir nechta"
 
-#: src/nautilus-properties.c:2081
+#: src/nautilus-properties.c:2083
 msgid "Empty folder"
 msgstr "Boʻsh papka"
 
-#: src/nautilus-properties.c:2085
+#: src/nautilus-properties.c:2087
 msgid "Contents unreadable"
 msgstr "Tarkibni oʻqib boʻlmaydi"
 
-#: src/nautilus-properties.c:2097
+#: src/nautilus-properties.c:2099
 #, c-format
 msgid "%'d item, with size %s"
 msgid_plural "%'d items, totalling %s"
 msgstr[0] "%'d ta element, hajmi %s"
 msgstr[1] "%'d ta element, hajmi %s"
 
-#: src/nautilus-properties.c:2107
+#: src/nautilus-properties.c:2109
 msgid "(some contents unreadable)"
 msgstr "(ba'zi tarkiblarni oʻqib boʻlmaydi)"
 
 #. Translators: %s will be filled with a filesystem type, such as 'ext4' or
 #. 'msdos'.
-#: src/nautilus-properties.c:2428
+#: src/nautilus-properties.c:2430
 #, c-format
 msgid "%s Filesystem"
 msgstr "%s Fayl tizimi"
 
-#: src/nautilus-properties.c:3534
+#: src/nautilus-properties.c:3536
 #, c-format
 msgid "The permissions of “%s” could not be determined."
 msgstr "“%s” ruxsatlarini aniqlab boʻlmadi."
 
-#: src/nautilus-properties.c:3951
+#: src/nautilus-properties.c:3957
 msgid "Select Custom Icon"
 msgstr "Maxsus belgini tanlang"
 
@@ -4322,16 +4321,16 @@ msgstr "Yangi xatchoʻp qoʻshing"
 
 #. Translators: This means that unlocking an encrypted storage
 #. * device failed. %s is the name of the device.
-#: src/nautilus-sidebar.c:1775
+#: src/nautilus-sidebar.c:1773
 #, c-format
 msgid "Error unlocking “%s”"
 msgstr "“%s” qulfini ochishda xatolik yuz berdi"
 
-#: src/nautilus-sidebar.c:1929
+#: src/nautilus-sidebar.c:1931
 msgid "This name is already taken"
 msgstr "Bu nom allaqachon olingan"
 
-#: src/nautilus-sidebar.c:2010 src/nautilus-sidebar.c:2983
+#: src/nautilus-sidebar.c:2012 src/nautilus-sidebar.c:2954
 #: src/resources/ui/nautilus-batch-rename-dialog.blp:147
 #: src/resources/ui/nautilus-file-conflict-dialog.blp:31
 #: src/resources/ui/nautilus-rename-file-popover.blp:44
@@ -4348,103 +4347,103 @@ msgstr "“%s” toʻxtatib boʻlmadi"
 msgid "Unable to poll “%s” for media changes"
 msgstr "Media oʻzgarishlari uchun “%s” soʻrovini oʻtkazib boʻlmadi"
 
-#: src/nautilus-sidebar.c:2844 src/nautilus-sidebar.c:2957
+#: src/nautilus-sidebar.c:2815 src/nautilus-sidebar.c:2928
 #: src/resources/menu/nautilus-files-view-context-menus.ui:103
 #: src/resources/menu/nautilus-pathbar-context-menu.ui:10
 msgid "Open in New _Tab"
 msgstr "Yangi _tabda oching"
 
-#: src/nautilus-sidebar.c:2851 src/nautilus-sidebar.c:2966
+#: src/nautilus-sidebar.c:2822 src/nautilus-sidebar.c:2937
 #: src/resources/menu/nautilus-files-view-context-menus.ui:108
 #: src/resources/menu/nautilus-pathbar-context-menu.ui:6
 msgid "Open in New _Window"
 msgstr "Yangi oyna oching"
 
-#: src/nautilus-sidebar.c:2978
+#: src/nautilus-sidebar.c:2949
 msgid "_Remove from Bookmarks"
 msgstr "_Xatchoʻplardan olib tashlash"
 
-#: src/nautilus-sidebar.c:2996
+#: src/nautilus-sidebar.c:2967
 msgid "File History _Settings…"
 msgstr ""
 
-#: src/nautilus-sidebar.c:3006
+#: src/nautilus-sidebar.c:2977
 #, fuzzy
 #| msgid "_Trash Settings"
 msgid "Trash _Settings…"
 msgstr "_Axlat qutisi sozlamalari"
 
-#: src/nautilus-sidebar.c:3019
+#: src/nautilus-sidebar.c:2990
 #: src/resources/menu/nautilus-files-view-context-menus.ui:149
 msgid "_Mount"
 msgstr "_Mount"
 
-#: src/nautilus-sidebar.c:3028
+#: src/nautilus-sidebar.c:2999
 #: src/resources/menu/nautilus-files-view-context-menus.ui:154
 msgid "_Unmount"
 msgstr "_Oʻchirish"
 
-#: src/nautilus-sidebar.c:3035
+#: src/nautilus-sidebar.c:3006
 #: src/resources/menu/nautilus-files-view-context-menus.ui:159
 msgid "_Eject"
 msgstr "_Chiqartirish"
 
-#: src/nautilus-sidebar.c:3045
+#: src/nautilus-sidebar.c:3016
 #: src/resources/menu/nautilus-files-view-context-menus.ui:174
 msgid "_Detect Media"
 msgstr "_Mediani aniqlash"
 
-#: src/nautilus-sidebar.c:3058
+#: src/nautilus-sidebar.c:3029
 msgid "_Power On"
 msgstr "_Quvvatni yoqish"
 
-#: src/nautilus-sidebar.c:3062
+#: src/nautilus-sidebar.c:3033
 msgid "_Connect Drive"
 msgstr "_Driveni ulang"
 
-#: src/nautilus-sidebar.c:3066
+#: src/nautilus-sidebar.c:3037
 msgid "_Start Multi-disk Device"
 msgstr "_Koʻp diskli qurilmani ishga tushiring"
 
-#: src/nautilus-sidebar.c:3070
+#: src/nautilus-sidebar.c:3041
 msgid "_Unlock Device"
 msgstr "_Qurilmani qulfdan chiqarish"
 
-#: src/nautilus-sidebar.c:3081
+#: src/nautilus-sidebar.c:3052
 #: src/resources/menu/nautilus-files-view-context-menus.ui:169
 msgid "_Stop"
 msgstr "_Stop"
 
-#: src/nautilus-sidebar.c:3089
+#: src/nautilus-sidebar.c:3060
 msgid "_Disconnect Drive"
 msgstr "_Drayvni uzing"
 
-#: src/nautilus-sidebar.c:3093
+#: src/nautilus-sidebar.c:3064
 msgid "_Stop Multi-disk Device"
 msgstr "_Koʻp diskli qurilmani toʻxtatish"
 
-#: src/nautilus-sidebar.c:3097
+#: src/nautilus-sidebar.c:3068
 msgid "_Lock Device"
 msgstr "_Qurilmani qulflash"
 
-#: src/nautilus-sidebar.c:3107
+#: src/nautilus-sidebar.c:3078
 msgid "Format…"
 msgstr "Formatlash…"
 
-#: src/nautilus-sidebar.c:3118
+#: src/nautilus-sidebar.c:3089
 #: src/resources/ui/nautilus-properties-widget.blp:36
 msgid "Properties"
 msgstr "Xususiyatlari"
 
-#: src/nautilus-sidebar.c:3646
+#: src/nautilus-sidebar.c:3610
 msgid "Device"
 msgstr "Qurilma"
 
-#: src/nautilus-sidebar.c:3688
+#: src/nautilus-sidebar.c:3652
 msgid "Sidebar"
 msgstr "Yon panel"
 
-#: src/nautilus-sidebar.c:3690
+#: src/nautilus-sidebar.c:3654
 msgid "List of common shortcuts, mountpoints, and bookmarks."
 msgstr "Umumiy yorliqlar, ulanish nuqtalari va xatchoʻplar roʻyxati."
 

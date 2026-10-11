@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-09-24 20:36+0000\n"
+"POT-Creation-Date: 2026-10-10 23:08+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -642,7 +642,7 @@ msgstr ""
 #: js/ui/components/networkAgent.js:214 js/ui/components/networkAgent.js:234
 #: js/ui/components/networkAgent.js:266 js/ui/components/networkAgent.js:299
 #: js/ui/components/networkAgent.js:338 js/ui/components/networkAgent.js:351
-#: js/ui/components/polkitAgent.js:286 js/ui/shellMountOperation.js:349
+#: js/ui/components/polkitAgent.js:286 js/ui/shellMountOperation.js:347
 #: subprojects/extensions-tool/src/command-upload.c:252
 msgid "Password"
 msgstr "Parol"
@@ -680,28 +680,28 @@ msgstr "(yoki barmogʻingizni oʻquvchi boʻylab suring)"
 msgid "(or place finger on reader)"
 msgstr "(yoki barmogʻingizni oʻquvchiga qoʻying)"
 
-#: js/gdm/authServicesSSSDSwitchable.js:467
+#: js/gdm/authServicesSSSDSwitchable.js:471
 msgid "Insert Smartcard"
 msgstr ""
 
-#: js/gdm/authServicesSSSDSwitchable.js:468
+#: js/gdm/authServicesSSSDSwitchable.js:472
 #, fuzzy
 #| msgid "Identity"
 msgid "Select Identity"
 msgstr "Identifikatsiya"
 
-#: js/gdm/authServicesSSSDSwitchable.js:507
+#: js/gdm/authServicesSSSDSwitchable.js:511
 msgid "Organization"
 msgstr ""
 
-#: js/gdm/authServicesSSSDSwitchable.js:534
+#: js/gdm/authServicesSSSDSwitchable.js:538
 #, javascript-format
 msgid ""
 "You have %d attempts left. If the passkey gets locked, you may not able to "
 "access your account."
 msgstr ""
 
-#: js/gdm/authServicesSSSDSwitchable.js:561 js/ui/padOsd.js:223
+#: js/gdm/authServicesSSSDSwitchable.js:565 js/ui/padOsd.js:223
 msgid "Done"
 msgstr "Bajarildi"
 
@@ -766,8 +766,8 @@ msgstr ""
 #: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:234
 #: js/ui/audioDeviceSelection.js:61 js/ui/components/networkAgent.js:114
 #: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:406
-#: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:399
-#: js/ui/shellMountOperation.js:409
+#: js/ui/extensionDownloader.js:308 js/ui/shellMountOperation.js:397
+#: js/ui/shellMountOperation.js:407
 msgid "Cancel"
 msgstr "Bekor qilish"
 
@@ -1635,7 +1635,7 @@ msgstr "Autentifikatsiya"
 #. * requested authentication was not gained; this can happen
 #. * because of an authentication error (like invalid password),
 #. * for instance.
-#: js/ui/components/polkitAgent.js:263 js/ui/shellMountOperation.js:432
+#: js/ui/components/polkitAgent.js:263 js/ui/shellMountOperation.js:430
 msgid "Sorry, that didn’t work. Please try again."
 msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 
@@ -1870,15 +1870,15 @@ msgstr "%s (masofaviy)"
 msgid "%s (console)"
 msgstr "%s (konsol)"
 
-#: js/ui/extensionDownloader.js:280
+#: js/ui/extensionDownloader.js:312
 msgid "Install"
 msgstr "Oʻrnatish"
 
-#: js/ui/extensionDownloader.js:286
+#: js/ui/extensionDownloader.js:318
 msgid "Install Extension"
 msgstr "Kengaytmani oʻrnatish"
 
-#: js/ui/extensionDownloader.js:287
+#: js/ui/extensionDownloader.js:319
 #, javascript-format
 msgid "Download and install “%s” from extensions.gnome.org?"
 msgstr ""
@@ -2335,20 +2335,20 @@ msgstr "Matnni yashirish"
 msgid "Caps lock is on"
 msgstr "Caps lock yoqilgan"
 
-#: js/ui/shellMountOperation.js:303
+#: js/ui/shellMountOperation.js:301
 msgid "Hidden Volume"
 msgstr "Yashirin ovoz balandligi"
 
-#: js/ui/shellMountOperation.js:306
+#: js/ui/shellMountOperation.js:304
 msgid "Windows System Volume"
 msgstr "Windows tizimi ovozi"
 
-#: js/ui/shellMountOperation.js:309
+#: js/ui/shellMountOperation.js:307
 msgid "Uses Keyfiles"
 msgstr "Kalit fayllardan foydalanadi"
 
 #. Translators: %s is the Disks application
-#: js/ui/shellMountOperation.js:317
+#: js/ui/shellMountOperation.js:315
 #, javascript-format
 msgid ""
 "To unlock a volume that uses keyfiles, use the <i>%s</i> utility instead"
@@ -2356,7 +2356,7 @@ msgstr ""
 "Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun uning "
 "oʻrniga <i>%s</i> yordam dasturidan foydalaning"
 
-#: js/ui/shellMountOperation.js:321
+#: js/ui/shellMountOperation.js:319
 msgid ""
 "You need an external utility like <i>Disks</i> to unlock a volume that uses "
 "keyfiles"
@@ -2364,25 +2364,25 @@ msgstr ""
 "Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun sizga "
 "<i>Disklar</i> kabi tashqi yordamchi dastur kerak"
 
-#: js/ui/shellMountOperation.js:329
+#: js/ui/shellMountOperation.js:327
 msgid "PIM Number"
 msgstr "PIM raqami"
 
-#: js/ui/shellMountOperation.js:388
+#: js/ui/shellMountOperation.js:386
 msgid "Remember Password"
 msgstr "Parolni eslab qolish"
 
-#: js/ui/shellMountOperation.js:403
+#: js/ui/shellMountOperation.js:401
 msgid "Unlock"
 msgstr "Qulfni ochish"
 
 #. Translators: %s is the Disks application
-#: js/ui/shellMountOperation.js:417
+#: js/ui/shellMountOperation.js:415
 #, javascript-format
 msgid "Open %s"
 msgstr "%s oching"
 
-#: js/ui/shellMountOperation.js:453
+#: js/ui/shellMountOperation.js:451
 msgid "The PIM must be a number or empty"
 msgstr "PIM raqam yoki boʻsh boʻlishi kerak"
 

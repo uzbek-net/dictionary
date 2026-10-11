@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Decibels main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/decibels/-/issues\n"
-"POT-Creation-Date: 2026-04-11 17:13+0000\n"
+"POT-Creation-Date: 2026-07-20 21:08+0000\n"
 "PO-Revision-Date: 2025-04-10 08:01+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -33,8 +33,8 @@ msgstr "Audio fayllarni bu yerga sudrab olib tashlang"
 msgid "_Open…"
 msgstr "_Ochish..."
 
-#: data/error.blp:11 src/drag-overlay.ts:69 src/window.ts:126
-#: src/window.ts:177 src/window.ts:196 src/window.ts:216
+#: data/error.blp:11 src/drag-overlay.ts:70 src/window.ts:110
+#: src/window.ts:161 src/window.ts:180 src/window.ts:201
 msgid "File Cannot Be Played"
 msgstr "Faylni ijro qilib boʻlmadi"
 
@@ -205,7 +205,7 @@ msgstr ""
 msgid "translator-credits"
 msgstr "Asadbek Rajabov <asadbekrajabov1337@gmail.com>"
 
-#: src/drag-overlay.ts:70
+#: src/drag-overlay.ts:71
 msgid "Unable to access dropped files"
 msgstr "Tashlangan fayllarga ruxsat olib boʻlmadi"
 
@@ -213,15 +213,15 @@ msgstr "Tashlangan fayllarga ruxsat olib boʻlmadi"
 msgid "An unknown error happened"
 msgstr "Noma'lum xatolik yuz berdi"
 
-#: src/player.ts:127
+#: src/player.ts:123
 msgid "Pause"
 msgstr "Pauza"
 
-#: src/player.ts:127
+#: src/player.ts:123
 msgid "Play"
 msgstr "Ijro qilish"
 
-#: src/stream.ts:262
+#: src/stream.ts:261
 msgid ""
 "File uses a format that cannot be played. Additional media codecs may be "
 "required."
@@ -229,7 +229,7 @@ msgstr ""
 "Fayl ijro qilib boʻlmaydigan formatdan foydalanmoqda. Qoʻshimcha media "
 "kodeklari talab qilinishi mumkin."
 
-#: src/stream.ts:274
+#: src/stream.ts:273
 msgid ""
 "An error happened while trying to get information about the file. Please try"
 " again."
@@ -237,28 +237,28 @@ msgstr ""
 "Fayl haqida ma'lumot olishga urinishda xatolik yuz berdi. Iltimos, qayta "
 "urinib koʻring."
 
-#: src/stream.ts:285
+#: src/stream.ts:284
 msgid "File uses an invalid URI"
 msgstr "Fayl notoʻgʻri URI ishlatilgan"
 
-#: src/stream.ts:296
+#: src/stream.ts:295
 msgid "Reading the file’s information timed out. Please try again."
 msgstr ""
 "Fayl ma'lumotlarini oʻqish vaqti tugadi. Iltimos, qayta urinib koʻring."
 
-#: src/stream.ts:404
+#: src/stream.ts:403
 msgid "Unknown File"
 msgstr "Noma'lum fayl"
 
-#: src/stream.ts:649
+#: src/stream.ts:641
 msgid "The selected file doesn’t contain any audio"
 msgstr "Tanlangan faylda hech qanday audio mavjud emas"
 
-#: src/volume-button.ts:57
+#: src/volume-button.ts:56
 msgid "Muted"
 msgstr "Ovossiz"
 
-#: src/volume-button.ts:58
+#: src/volume-button.ts:57
 msgid "Full Volume"
 msgstr "Toʻliq ovoz"
 
@@ -266,36 +266,36 @@ msgstr "Toʻliq ovoz"
 #. * as used in the tooltip, eg. "49 %".
 #. * Translate the "%d" to "%Id" if you want to use localised digits,
 #. * or otherwise translate the "%d" to "%d".
-#: src/volume-button.ts:66
+#: src/volume-button.ts:65
 #, javascript-format
 msgctxt "volume percentage"
 msgid "%d %%"
 msgstr "%d %%"
 
-#: src/window.ts:132
+#: src/window.ts:116
 msgid "Audio files"
 msgstr "Audio fayllar"
 
-#: src/window.ts:139
+#: src/window.ts:123
 msgid "Open File"
 msgstr "Faylni ochish"
 
-#: src/window.ts:178
+#: src/window.ts:162
 msgid "No available audio file found"
 msgstr "Hech qanday mavjud audio fayl topilmadi"
 
-#: src/window.ts:190
+#: src/window.ts:174
 msgid "Directories Cannot Be Played"
 msgstr "Kataloglarni ijro qilib boʻlmaydi"
 
-#: src/window.ts:191
+#: src/window.ts:175
 msgid "Please select a file."
 msgstr "Iltimos faylni tanlang."
 
-#: src/window.ts:197
+#: src/window.ts:181
 msgid "The selected file is not a regular file."
 msgstr "Tanlangan fayl oddiy fayl emas."
 
-#: src/window.ts:217
+#: src/window.ts:202
 msgid "No file was selected"
 msgstr "Hech qanday fayl tanlanmagan"

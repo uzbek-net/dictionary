@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Manuals gnome-49\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/manuals/issues\n"
-"POT-Creation-Date: 2026-08-06 19:14+0000\n"
+"POT-Creation-Date: 2026-09-21 15:16+0000\n"
 "PO-Revision-Date: 2026-01-15 17:26+0500\n"
 "Last-Translator: Baxrom Raxmatov <>\n"
 "Language-Team: Uzbek (Latin) <support@floss.uz>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Gtranslator 49.0\n"
 
 #: data/org.gnome.Manuals.desktop.in.in:2
-#: data/org.gnome.Manuals.metainfo.xml.in.in:9 src/manuals-application.c:238
+#: data/org.gnome.Manuals.metainfo.xml.in.in:9 src/manuals-application.c:239
 #: src/manuals-window.c:916 src/manuals-window.ui:6 src/manuals-window.ui:472
 #: src/manuals-window.ui:508
 msgid "Manuals"
@@ -96,22 +96,22 @@ msgstr "Mobil qidiruv"
 msgid "Adaptable Documentation"
 msgstr "Moslashuvchan qoʻllanma"
 
-#: src/manuals-application.c:248
+#: src/manuals-application.c:249
 msgid "translator-credits"
 msgstr ""
 "saidkamol Jamolov <imsdkl@outlook.com>\\\n"
 "Baxrom Raxmatov"
 
-#: src/manuals-application.c:253
+#: src/manuals-application.c:254
 #, fuzzy
 msgid "Builder"
 msgstr "Builder"
 
-#: src/manuals-application.c:254
+#: src/manuals-application.c:255
 msgid "Create GNOME Applications"
 msgstr "GNOME uchun ilovalar yaratish"
 
-#: src/manuals-application.c:290
+#: src/manuals-application.c:291
 msgid "Open a new Manuals window"
 msgstr "Yangi qoʻllanmalar oynasini ochish"
 
