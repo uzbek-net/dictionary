@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-settings-daemon master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-settings-daemon/issues/\n"
-"POT-Creation-Date: 2026-08-31 12:31+0000\n"
+"POT-Creation-Date: 2026-10-13 13:26+0000\n"
 "PO-Revision-Date: 2025-04-05 19:57+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -1599,21 +1599,11 @@ msgstr ""
 msgid "This computer has only %s disk space remaining."
 msgstr "Bu kompyuterda faqat %s disk maydoni qoldi."
 
-#: plugins/housekeeping/gsd-donation-reminder.c:72
-msgid "Support GNOME"
-msgstr ""
-
-#: plugins/housekeeping/gsd-donation-reminder.c:73
-msgid ""
-"GNOME needs your help. Your donation will sustain our open source project "
-"for future generations."
-msgstr ""
-
-#: plugins/housekeeping/gsd-donation-reminder.c:81
+#: plugins/housekeeping/gsd-donation-reminder.c:133
 msgid "GNOME"
 msgstr ""
 
-#: plugins/housekeeping/gsd-donation-reminder.c:88
+#: plugins/housekeeping/gsd-donation-reminder.c:140
 msgid "Donate"
 msgstr ""
 

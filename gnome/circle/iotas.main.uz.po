@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iotas main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/iotas/issues\n"
-"POT-Creation-Date: 2026-10-01 22:02+0000\n"
+"POT-Creation-Date: 2026-10-16 08:20+0000\n"
 "PO-Revision-Date: 2025-10-10 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -1392,22 +1392,22 @@ msgid "Uncategorized"
 msgstr "Toifalanmagan"
 
 #. Translators: Description, toast
-#: iotas/editor.py:692
+#: iotas/editor.py:694
 msgid "Failed to store attachment"
 msgstr ""
 
 #. Translators: Description, notification, {0} is a number
-#: iotas/editor.py:1123
+#: iotas/editor.py:1125
 #, python-brace-format
 msgid "Line length now {0}px"
 msgstr "Qator uzunligi endi {0}px"
 
 #. Translators: Description, notification
-#: iotas/editor.py:1129
+#: iotas/editor.py:1131
 msgid "Line length limit disabled"
 msgstr "Qator uzunligi cheklovi oʻchirilgan"
 
-#: iotas/editor.py:1731
+#: iotas/editor.py:1733
 msgid "Opening link in browser"
 msgstr "Havola brauzerda ochilmoqda"
 
@@ -1471,20 +1471,20 @@ msgid "Update Nextcloud Notes to v6.1.0+ for images"
 msgstr ""
 
 #. Translators: Button
-#: iotas/image_attacher.py:104
+#: iotas/image_attacher.py:109
 #, fuzzy
 #| msgid "Export"
 msgid "Import"
 msgstr "Eksport"
 
 #. Translators: Description, toast, {} is a number
-#: iotas/image_attacher.py:216
+#: iotas/image_attacher.py:221
 #, python-brace-format
 msgid "Image over {} MB limit"
 msgstr ""
 
 #. Translators: Description, toast
-#: iotas/image_attacher.py:222
+#: iotas/image_attacher.py:227
 msgid "Failed to attach image"
 msgstr ""
 

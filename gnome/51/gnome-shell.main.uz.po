@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-10-10 23:08+0000\n"
+"POT-Creation-Date: 2026-10-15 20:53+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -630,15 +630,15 @@ msgstr ""
 msgid "Ignore"
 msgstr ""
 
-#: js/gdm/authPrompt.js:271
+#: js/gdm/authPrompt.js:270
 msgid "Back"
 msgstr ""
 
-#: js/gdm/authPrompt.js:368
+#: js/gdm/authPrompt.js:367
 msgid "Submit"
 msgstr ""
 
-#: js/gdm/authPrompt.js:535 js/gdm/authServicesLegacy.js:25
+#: js/gdm/authPrompt.js:534 js/gdm/authServicesLegacy.js:25
 #: js/ui/components/networkAgent.js:214 js/ui/components/networkAgent.js:234
 #: js/ui/components/networkAgent.js:266 js/ui/components/networkAgent.js:299
 #: js/ui/components/networkAgent.js:338 js/ui/components/networkAgent.js:351
@@ -763,7 +763,7 @@ msgstr ""
 "Majburiy toʻxtatish har qanday ishlayotgan ilova va jarayonlarni toʻxtatadi "
 "va ma’lumotlar yoʻqolishiga olib kelishi mumkin"
 
-#: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:234
+#: js/gdm/conflictingSessionDialog.js:94 js/gdm/webLogin.js:232
 #: js/ui/audioDeviceSelection.js:61 js/ui/components/networkAgent.js:114
 #: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:406
 #: js/ui/extensionDownloader.js:308 js/ui/shellMountOperation.js:397
@@ -775,48 +775,48 @@ msgstr "Bekor qilish"
 msgid "Force Stop"
 msgstr "Majburiy toʻxtatish"
 
-#: js/gdm/loginDialog.js:54 js/gdm/loginDialog.js:538
-#: js/ui/unlockDialog.js:683
+#: js/gdm/loginDialog.js:53 js/gdm/loginDialog.js:537
+#: js/ui/unlockDialog.js:724
 #, fuzzy
 #| msgctxt "button"
 #| msgid "Boot Options"
 msgid "Login Options"
 msgstr "Yuklash parametrlari"
 
-#: js/gdm/loginDialog.js:55
+#: js/gdm/loginDialog.js:54
 msgid "Session Type"
 msgstr ""
 
-#: js/gdm/loginDialog.js:333 js/ui/status/accessibility.js:35
+#: js/gdm/loginDialog.js:332 js/ui/status/accessibility.js:35
 msgid "Accessibility"
 msgstr "Foydalanish imkoniyati"
 
-#: js/gdm/loginDialog.js:454
+#: js/gdm/loginDialog.js:453
 msgid "Not listed?"
 msgstr "Roʻyxatga kiritilmaganmi?"
 
 #. Translators: this message is shown below the username entry field
 #. to clue the user in on how to login to the local network realm
-#: js/gdm/loginDialog.js:1104
+#: js/gdm/loginDialog.js:1079
 #, javascript-format
 msgid "(e.g., user or %s)"
 msgstr "(masalan, foydalanuvchi yoki %s)"
 
-#: js/gdm/loginDialog.js:1111 js/ui/components/networkAgent.js:258
+#: js/gdm/loginDialog.js:1086 js/ui/components/networkAgent.js:258
 #: js/ui/components/networkAgent.js:293 js/ui/components/networkAgent.js:327
 #: subprojects/extensions-tool/src/command-upload.c:234
 msgid "Username"
 msgstr "Foydalanuvchi nomi"
 
-#: js/gdm/loginDialog.js:1175
+#: js/gdm/loginDialog.js:1150
 msgid "Login Attempt Timed Out"
 msgstr "Kirish urinish vaqti tugadi"
 
-#: js/gdm/loginDialog.js:1176
+#: js/gdm/loginDialog.js:1151
 msgid "Login took too long, please try again"
 msgstr "Kirish juda uzoq davom etdi, qayta urinib koʻring"
 
-#: js/gdm/loginDialog.js:1539
+#: js/gdm/loginDialog.js:1514
 msgid "Login Window"
 msgstr "Kirish oynasi"
 
@@ -824,7 +824,7 @@ msgstr "Kirish oynasi"
 msgid "Authentication error"
 msgstr "Autentifikatsiya xatosi"
 
-#: js/gdm/webLogin.js:105
+#: js/gdm/webLogin.js:104
 msgid "Login code: "
 msgstr ""
 
@@ -2777,7 +2777,7 @@ msgstr "Oʻchirish…"
 msgid "Log Out…"
 msgstr "Chiqish…"
 
-#: js/ui/status/system.js:204 js/ui/unlockDialog.js:676
+#: js/ui/status/system.js:204 js/ui/unlockDialog.js:717
 msgid "Switch User…"
 msgstr "Foydalanuvchini almashtirish…"
 
@@ -2883,31 +2883,31 @@ msgstr "Yuklash parametrlari"
 
 #. Translators: This is a time format for a date in
 #. long format
-#: js/ui/unlockDialog.js:421
+#: js/ui/unlockDialog.js:420
 msgid "%A %B %-d"
 msgstr "%A %B %d"
 
-#: js/ui/unlockDialog.js:436
+#: js/ui/unlockDialog.js:435
 #, fuzzy
 #| msgid "Swipe up to unlock"
 msgid "Swipe up"
 msgstr "Qulfni ochish uchun tepaga suring"
 
-#: js/ui/unlockDialog.js:438
+#: js/ui/unlockDialog.js:437
 #, fuzzy
 #| msgid "Click or press a key to unlock"
 msgid "Click or press a key"
 msgstr "Qulfni ochish uchun tugmani bosing yoki bosing"
 
-#: js/ui/unlockDialog.js:657
+#: js/ui/unlockDialog.js:698
 msgid "Unlock Window"
 msgstr "Oyna qulfini ochish"
 
-#: js/ui/unlockDialog.js:671
+#: js/ui/unlockDialog.js:712
 msgid "Log in as another user"
 msgstr "Boshqa foydalanuvchi sifatida tizimga kiring"
 
-#: js/ui/unlockDialog.js:699
+#: js/ui/unlockDialog.js:740
 #, fuzzy
 #| msgid "Authentication error"
 msgid "Background Authentication Methods"

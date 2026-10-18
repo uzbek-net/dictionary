@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues/\n"
-"POT-Creation-Date: 2026-09-15 13:22+0000\n"
+"POT-Creation-Date: 2026-10-14 11:15+0000\n"
 "PO-Revision-Date: 2025-12-24 19:40+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: uzbek-net\n"
@@ -628,19 +628,19 @@ msgstr ""
 msgid "Ignore"
 msgstr ""
 
-#: js/gdm/authPrompt.js:259 js/gdm/loginDialog.js:516
+#: js/gdm/authPrompt.js:261 js/gdm/loginDialog.js:516
 #: js/ui/audioDeviceSelection.js:61 js/ui/components/networkAgent.js:114
 #: js/ui/components/polkitAgent.js:144 js/ui/endSessionDialog.js:405
-#: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:392
-#: js/ui/shellMountOperation.js:402
+#: js/ui/extensionDownloader.js:276 js/ui/shellMountOperation.js:390
+#: js/ui/shellMountOperation.js:400
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: js/gdm/authPrompt.js:437 js/ui/components/networkAgent.js:214
+#: js/gdm/authPrompt.js:439 js/ui/components/networkAgent.js:214
 #: js/ui/components/networkAgent.js:234 js/ui/components/networkAgent.js:266
 #: js/ui/components/networkAgent.js:299 js/ui/components/networkAgent.js:338
 #: js/ui/components/networkAgent.js:351 js/ui/components/polkitAgent.js:286
-#: js/ui/shellMountOperation.js:342
+#: js/ui/shellMountOperation.js:340
 #: subprojects/extensions-tool/src/command-upload.c:252
 msgid "Password"
 msgstr "Parol"
@@ -1550,7 +1550,7 @@ msgstr "Autentifikatsiya"
 #. * requested authentication was not gained; this can happen
 #. * because of an authentication error (like invalid password),
 #. * for instance.
-#: js/ui/components/polkitAgent.js:263 js/ui/shellMountOperation.js:425
+#: js/ui/components/polkitAgent.js:263 js/ui/shellMountOperation.js:423
 msgid "Sorry, that didn’t work. Please try again."
 msgstr "Kechirasiz, bu ishlamadi. Iltimos, qayta urinib koʻring."
 
@@ -1975,7 +1975,7 @@ msgstr "Ekranni qulflash GNOME displey menejerini talab qiladi"
 
 #. Translators: this is the string displayed in the header when a message
 #. source doesn't have a name
-#: js/ui/messageList.js:407
+#: js/ui/messageList.js:405
 msgid "Unknown App"
 msgstr "Noma'lum ilova"
 
@@ -2243,20 +2243,20 @@ msgstr "Matnni yashirish"
 msgid "Caps lock is on"
 msgstr "Caps lock yoqilgan"
 
-#: js/ui/shellMountOperation.js:296
+#: js/ui/shellMountOperation.js:294
 msgid "Hidden Volume"
 msgstr "Yashirin ovoz balandligi"
 
-#: js/ui/shellMountOperation.js:299
+#: js/ui/shellMountOperation.js:297
 msgid "Windows System Volume"
 msgstr "Windows tizimi ovozi"
 
-#: js/ui/shellMountOperation.js:302
+#: js/ui/shellMountOperation.js:300
 msgid "Uses Keyfiles"
 msgstr "Kalit fayllardan foydalanadi"
 
 #. Translators: %s is the Disks application
-#: js/ui/shellMountOperation.js:310
+#: js/ui/shellMountOperation.js:308
 #, javascript-format
 msgid ""
 "To unlock a volume that uses keyfiles, use the <i>%s</i> utility instead"
@@ -2264,7 +2264,7 @@ msgstr ""
 "Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun uning "
 "oʻrniga <i>%s</i> yordam dasturidan foydalaning"
 
-#: js/ui/shellMountOperation.js:314
+#: js/ui/shellMountOperation.js:312
 msgid ""
 "You need an external utility like <i>Disks</i> to unlock a volume that uses "
 "keyfiles"
@@ -2272,25 +2272,25 @@ msgstr ""
 "Kalit fayllardan foydalanadigan tovushni qulfdan chiqarish uchun sizga "
 "<i>Disklar</i> kabi tashqi yordamchi dastur kerak"
 
-#: js/ui/shellMountOperation.js:322
+#: js/ui/shellMountOperation.js:320
 msgid "PIM Number"
 msgstr "PIM raqami"
 
-#: js/ui/shellMountOperation.js:381
+#: js/ui/shellMountOperation.js:379
 msgid "Remember Password"
 msgstr "Parolni eslab qolish"
 
-#: js/ui/shellMountOperation.js:396
+#: js/ui/shellMountOperation.js:394
 msgid "Unlock"
 msgstr "Qulfni ochish"
 
 #. Translators: %s is the Disks application
-#: js/ui/shellMountOperation.js:410
+#: js/ui/shellMountOperation.js:408
 #, javascript-format
 msgid "Open %s"
 msgstr "%s oching"
 
-#: js/ui/shellMountOperation.js:446
+#: js/ui/shellMountOperation.js:444
 msgid "The PIM must be a number or empty"
 msgstr "PIM raqam yoki boʻsh boʻlishi kerak"
 
@@ -2413,7 +2413,7 @@ msgstr "Bluetooth"
 msgid "Open Bluetooth menu"
 msgstr "Bluetooth menyusini ochish"
 
-#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1939
+#: js/ui/status/bluetooth.js:303 js/ui/status/network.js:1942
 msgid "Bluetooth Settings"
 msgstr "Bluetooth sozlamalari"
 
@@ -2518,92 +2518,92 @@ msgid "%s, %s, %s"
 msgstr "%s,%s,%s"
 
 #. Translators: %s is a network identifier
-#: js/ui/status/network.js:1165
+#: js/ui/status/network.js:1167
 #, javascript-format
 msgid "%s Hotspot"
 msgstr "%s Hotspot"
 
-#: js/ui/status/network.js:1448
+#: js/ui/status/network.js:1450
 #, javascript-format
 msgid "%d connected"
 msgid_plural "%d connected"
 msgstr[0] "%d ulandi"
 
-#: js/ui/status/network.js:1546 js/ui/status/network.js:1563
+#: js/ui/status/network.js:1548 js/ui/status/network.js:1565
 msgid "VPN"
 msgstr "VPN"
 
-#: js/ui/status/network.js:1547
+#: js/ui/status/network.js:1549
 msgid "Open VPN menu"
 msgstr "VPN menyusini ochish"
 
-#: js/ui/status/network.js:1548
+#: js/ui/status/network.js:1550
 msgid "VPN Settings"
 msgstr "VPN sozlamalari"
 
-#: js/ui/status/network.js:1808
+#: js/ui/status/network.js:1811
 msgid "Wi–Fi"
 msgstr "Wi-Fi"
 
-#: js/ui/status/network.js:1809
+#: js/ui/status/network.js:1812
 msgid "Open Wi–Fi menu"
 msgstr "Wi-Fi menyusini ochish"
 
-#: js/ui/status/network.js:1811
+#: js/ui/status/network.js:1814
 msgid "All Networks"
 msgstr "Barcha tarmoqlar"
 
-#: js/ui/status/network.js:1921
+#: js/ui/status/network.js:1924
 msgid "Wired Connections"
 msgstr "Simli ulanishlar"
 
-#: js/ui/status/network.js:1922
+#: js/ui/status/network.js:1925
 msgid "Open wired connections menu"
 msgstr "Simli ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1923
+#: js/ui/status/network.js:1926
 msgid "Wired Settings"
 msgstr "Simli sozlamalar"
 
-#: js/ui/status/network.js:1937
+#: js/ui/status/network.js:1940
 msgid "Bluetooth Tethers"
 msgstr "Bluetooth tethers"
 
-#: js/ui/status/network.js:1938
+#: js/ui/status/network.js:1941
 msgid "Open Bluetooth tethers menu"
 msgstr "Bluetooth tethers menyusini ochish"
 
 #. Translators: "Tether" from "Bluetooth Tether"
-#: js/ui/status/network.js:1945
+#: js/ui/status/network.js:1948
 msgid "Tether"
 msgstr "Tether"
 
-#: js/ui/status/network.js:1958
+#: js/ui/status/network.js:1961
 msgid "Mobile Connections"
 msgstr "Mobil ulanishlar"
 
-#: js/ui/status/network.js:1959
+#: js/ui/status/network.js:1962
 msgid "Open mobile connections menu"
 msgstr "Mobil ulanishlar menyusini ochish"
 
-#: js/ui/status/network.js:1961
+#: js/ui/status/network.js:1964
 msgid "Mobile Broadband Settings"
 msgstr "Keng polosali mobil moslamalar"
 
 #. Translators: "Mobile" from "Mobile Broadband"
-#: js/ui/status/network.js:1970
+#: js/ui/status/network.js:1973
 msgid "Mobile"
 msgstr "Mobil"
 
-#: js/ui/status/network.js:2004
+#: js/ui/status/network.js:2007
 msgid "Sign in to Network"
 msgstr "Wi-Fi tarmogʻiga kiring"
 
-#: js/ui/status/network.js:2191
+#: js/ui/status/network.js:2194
 msgid "Connection failed"
 msgstr "Ulanish amalga oshmadi"
 
-#: js/ui/status/network.js:2192
+#: js/ui/status/network.js:2195
 msgid "Activation of network connection failed"
 msgstr "Tarmoq ulanishini faollashtirish amalga oshmadi"
 
@@ -2994,15 +2994,15 @@ msgstr ""
 "sozlash va keraksiz kengaytmalarni oʻchirish yoki oʻchirish bilan "
 "shugʻullanadi."
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:69
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:70
 msgid "Main Window"
 msgstr "Asosiy oyna maksimal darajada ochilishi kerak"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:73
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:74
 msgid "Available Updates"
 msgstr "Mavjud yangilanishlar"
 
-#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:77
+#: subprojects/extensions-app/data/metainfo/org.gnome.Extensions.metainfo.xml.in:78
 msgid "Search View"
 msgstr "Qidiruv koʻrinishi"
 

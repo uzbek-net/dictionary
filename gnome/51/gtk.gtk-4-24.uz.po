@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtk/-/issues/\n"
-"POT-Creation-Date: 2026-10-01 12:32+0000\n"
+"POT-Creation-Date: 2026-10-13 12:44+0000\n"
 "PO-Revision-Date: 2025-12-17 11:49+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -2374,7 +2374,7 @@ msgid "_Edit"
 msgstr "Tahrirlash"
 
 #: gtk/gtkeditablelabel.c:171 gtk/gtklabel.c:5896 gtk/gtktext.c:6387
-#: gtk/gtktextview.c:9264
+#: gtk/gtktextview.c:9262
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Copy"
@@ -2382,7 +2382,7 @@ msgid "_Copy"
 msgstr "Nusxa olish"
 
 #: gtk/gtkeditablelabel.c:342 gtk/gtklabel.c:5956 gtk/gtktext.c:2867
-#: gtk/gtktextview.c:9342
+#: gtk/gtktextview.c:9340
 #, fuzzy
 msgid "Context menu"
 msgstr "Menyuni ochish"
@@ -2570,7 +2570,7 @@ msgid "If you delete an item, it will be permanently lost."
 msgstr ""
 
 #: gtk/gtkfilechooserwidget.c:1251 gtk/gtkfilechooserwidget.c:1850
-#: gtk/gtklabel.c:5898 gtk/gtktext.c:6395 gtk/gtktextview.c:9272
+#: gtk/gtklabel.c:5898 gtk/gtktext.c:6395 gtk/gtktextview.c:9270
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Delete"
@@ -2990,21 +2990,21 @@ msgstr "_Yopish"
 msgid "Close the infobar"
 msgstr ""
 
-#: gtk/gtklabel.c:5895 gtk/gtktext.c:6383 gtk/gtktextview.c:9260
+#: gtk/gtklabel.c:5895 gtk/gtktext.c:6383 gtk/gtktextview.c:9258
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "Cu_t"
 msgid "Cu_t"
 msgstr "Ke_sish"
 
-#: gtk/gtklabel.c:5897 gtk/gtktext.c:6391 gtk/gtktextview.c:9268
+#: gtk/gtklabel.c:5897 gtk/gtktext.c:6391 gtk/gtktextview.c:9266
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Paste"
 msgid "_Paste"
 msgstr "_Qoʻyish"
 
-#: gtk/gtklabel.c:5903 gtk/gtktext.c:6404 gtk/gtktextview.c:9293
+#: gtk/gtklabel.c:5903 gtk/gtktext.c:6404 gtk/gtktextview.c:9291
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "Select _All"
@@ -4746,7 +4746,7 @@ msgstr ""
 msgid "Change di_rection"
 msgstr ""
 
-#: gtk/gtktext.c:6414 gtk/gtktextview.c:9298
+#: gtk/gtktext.c:6414 gtk/gtktextview.c:9296
 #, fuzzy
 #| msgctxt "keyboard label"
 #| msgid "Insert"
@@ -4927,14 +4927,14 @@ msgctxt "Line ending name"
 msgid "Mac OS Classic"
 msgstr ""
 
-#: gtk/gtktextview.c:9280
+#: gtk/gtktextview.c:9278
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Undo"
 msgid "_Undo"
 msgstr "_Bekor qilish"
 
-#: gtk/gtktextview.c:9284
+#: gtk/gtktextview.c:9282
 #, fuzzy
 #| msgctxt "Stock label"
 #| msgid "_Redo"
