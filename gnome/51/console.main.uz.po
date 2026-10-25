@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: console main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/console/-/issues/\n"
-"POT-Creation-Date: 2026-09-14 14:31+0000\n"
+"POT-Creation-Date: 2026-10-24 01:31+0000\n"
 "PO-Revision-Date: 2025-03-27 10:23+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -376,7 +376,7 @@ msgctxt "toast-message"
 msgid "Couldn't Open Link"
 msgstr "_Havolani ochish"
 
-#: src/kgx-terminal.c:360
+#: src/kgx-terminal.c:362
 #, c-format
 msgctxt "spad-message"
 msgid ""
@@ -384,7 +384,7 @@ msgid ""
 "are installed."
 msgstr ""
 
-#: src/kgx-terminal.c:373
+#: src/kgx-terminal.c:375
 #, c-format
 msgctxt "spad-message"
 msgid ""
@@ -393,13 +393,13 @@ msgid ""
 "the error."
 msgstr ""
 
-#: src/kgx-terminal.c:421
+#: src/kgx-terminal.c:423
 #, c-format
 msgctxt "spad-message"
 msgid "The link “<a href=\"%s\">%s</a>” is malformed."
 msgstr ""
 
-#: src/kgx-terminal.c:440
+#: src/kgx-terminal.c:442
 #, c-format
 msgctxt "spad-message"
 msgid ""
@@ -408,43 +408,43 @@ msgid ""
 "This device is “%s” and the location is on “%s”."
 msgstr ""
 
-#: src/kgx-terminal.c:511
+#: src/kgx-terminal.c:513
 msgctxt "toast-message"
 msgid "Couldn't Paste Text"
 msgstr ""
 
-#: src/kgx-terminal.c:514
+#: src/kgx-terminal.c:516
 msgctxt "spad-message"
 msgid ""
 "An unexpected error occurred whilst reading the clipboard. Please include "
 "the following information if you report the error."
 msgstr ""
 
-#: src/kgx-terminal.c:575
+#: src/kgx-terminal.c:577
 msgctxt "toast-message"
 msgid "Couldn't Show File"
 msgstr ""
 
-#: src/kgx-terminal.c:578
+#: src/kgx-terminal.c:580
 msgctxt "spad-message"
 msgid ""
 "An unexpected error occurred whilst showing the file. Please include the "
 "following information if you report the error."
 msgstr ""
 
-#: src/kgx-terminal.c:599
+#: src/kgx-terminal.c:601
 msgctxt "toast-message"
 msgid "Couldn't Open Folder"
 msgstr ""
 
-#: src/kgx-terminal.c:602
+#: src/kgx-terminal.c:604
 msgctxt "spad-message"
 msgid ""
 "An unexpected error occurred whilst opening the folder. Please include the "
 "following information if you report the error."
 msgstr ""
 
-#: src/kgx-terminal.c:696
+#: src/kgx-terminal.c:698
 #, c-format
 msgid ""
 "Ctrl-click to open:\n"
@@ -453,12 +453,12 @@ msgstr ""
 "Ochish uchun Ctrl bilan bosing: \n"
 "%s"
 
-#: src/kgx-terminal.c:984
+#: src/kgx-terminal.c:1009
 msgctxt "toast-message"
 msgid "Couldn't Paste"
 msgstr ""
 
-#: src/kgx-terminal.c:987
+#: src/kgx-terminal.c:1012
 msgctxt "spad-message"
 msgid ""
 "An unexpected error occurred whilst processing the clipboard. Please include"
@@ -479,15 +479,15 @@ msgstr "_Havolani Nusxalash"
 msgid "_Copy"
 msgstr "_Nusxalash"
 
-#: src/kgx-terminal.ui:29
+#: src/kgx-terminal.ui:28
 msgid "_Select All"
 msgstr "_Barchasini belgilash"
 
-#: src/kgx-terminal.ui:36 src/kgx-window.ui:285
+#: src/kgx-terminal.ui:35 src/kgx-window.ui:285
 msgid "Leave _Fullscreen"
 msgstr ""
 
-#: src/kgx-terminal.ui:43
+#: src/kgx-terminal.ui:42
 msgid "Show in _Files"
 msgstr "_Fayllarda ochish"
 

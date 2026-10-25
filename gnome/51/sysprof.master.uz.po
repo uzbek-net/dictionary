@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sysprof sysprof-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/sysprof/issues/\n"
-"POT-Creation-Date: 2026-09-13 21:33+0000\n"
+"POT-Creation-Date: 2026-10-18 13:27+0000\n"
 "PO-Revision-Date: 2025-04-06 22:20+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -336,47 +336,47 @@ msgstr "Belgilar yuklab olinmoqda…"
 msgid "Allocation"
 msgstr "Ajratish"
 
-#: src/libsysprof/sysprof-document.c:578
+#: src/libsysprof/sysprof-document.c:594
 msgid "Unknown Process"
 msgstr "Noma'lum jarayon"
 
-#: src/libsysprof/sysprof-document.c:1682
-#: src/libsysprof/sysprof-document.c:1690
+#: src/libsysprof/sysprof-document.c:1698
+#: src/libsysprof/sysprof-document.c:1706
 msgid "Indexing capture data frames"
 msgstr "Ma'lumotlarni yozib olish ramkalarini indekslash"
 
-#: src/libsysprof/sysprof-document.c:1858
+#: src/libsysprof/sysprof-document.c:1874
 msgid "Discovering file system mounts"
 msgstr "Fayl tizimi ulanishlarini kashf qilish"
 
-#: src/libsysprof/sysprof-document.c:1861
+#: src/libsysprof/sysprof-document.c:1877
 msgid "Discovering process mount namespaces"
 msgstr "Jarayonni oʻrnatish nom maydonlarini kashf qilish"
 
-#: src/libsysprof/sysprof-document.c:1866
+#: src/libsysprof/sysprof-document.c:1882
 msgid "Analyzing process address layouts"
 msgstr "Jarayonning manzil sxemalarini tahlil qilish"
 
-#: src/libsysprof/sysprof-document.c:1869
+#: src/libsysprof/sysprof-document.c:1885
 msgid "Analyzing process command line"
 msgstr "Jarayon buyruq qatorini tahlil qilish"
 
-#: src/libsysprof/sysprof-document.c:1872
+#: src/libsysprof/sysprof-document.c:1888
 msgid "Analyzing file system overlays"
 msgstr "Fayl tizimining qoplamalarini tahlil qilish"
 
-#: src/libsysprof/sysprof-document.c:1875
+#: src/libsysprof/sysprof-document.c:1891
 msgid "Processing counters"
 msgstr "Hisoblagichlarni qayta ishlash"
 
-#: src/libsysprof/sysprof-document.c:2867
-#: src/libsysprof/sysprof-document.c:2886
+#: src/libsysprof/sysprof-document.c:2897
+#: src/libsysprof/sysprof-document.c:2916
 #, c-format
 msgid "Recording at %X %x"
 msgstr "Yozilmoqda: %X %x"
 
-#: src/libsysprof/sysprof-document.c:2870
-#: src/libsysprof/sysprof-document.c:2889
+#: src/libsysprof/sysprof-document.c:2900
+#: src/libsysprof/sysprof-document.c:2919
 #, c-format
 msgid "Recording at %s"
 msgstr "Yozilmoqda: %s"
@@ -385,7 +385,7 @@ msgstr "Yozilmoqda: %s"
 msgid "D-Bus Message"
 msgstr "D-avtobus xabari"
 
-#: src/libsysprof/sysprof-document-frame.c:139
+#: src/libsysprof/sysprof-document-frame.c:140
 msgid "Frame"
 msgstr "Romka"
 

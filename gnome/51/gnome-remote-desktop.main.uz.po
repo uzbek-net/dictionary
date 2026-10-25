@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-remote-desktop master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-remote-desktop/issues/\n"
-"POT-Creation-Date: 2026-08-19 18:35+0000\n"
+"POT-Creation-Date: 2026-10-21 05:05+0000\n"
 "PO-Revision-Date: 2025-03-25 11:00+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -237,17 +237,17 @@ msgstr ""
 "Ish stolini ulashish porti <b>%i</b> dan <b>%i</b> ga almashtirildi.\n"
 "Bunga Masofaviy seanslar xizmati faollashtirilgani va uning <b>%i</b> portini ishlatish ustuvorligi yuqori ekanligi sabab boʻldi."
 
-#: src/grd-daemon-user.c:107 src/grd-session-vnc.c:323
+#: src/grd-daemon-user.c:107 src/grd-session-vnc.c:325
 #, c-format
 msgid "Accept"
 msgstr "Qabul qilish"
 
-#: src/grd-session-vnc.c:318
+#: src/grd-session-vnc.c:320
 #, c-format
 msgid "Do you want to share your desktop?"
 msgstr "Desktopingizni ulashishni xohlaysizmi?"
 
-#: src/grd-session-vnc.c:320
+#: src/grd-session-vnc.c:322
 #, c-format
 msgid ""
 "A user on the computer '%s' is trying to remotely view or control your "
@@ -256,7 +256,7 @@ msgstr ""
 "’%s’ kompyuteridagi foydalanuvchi ish stolingizni masofadan koʻrishga yoki "
 "boshqarishga harakat qilmoqda."
 
-#: src/grd-session-vnc.c:322
+#: src/grd-session-vnc.c:324
 #, c-format
 msgid "Refuse"
 msgstr "Rad etish"
