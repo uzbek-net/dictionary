@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boatswain main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/boatswain/issues\n"
-"POT-Creation-Date: 2026-09-18 20:15+0000\n"
+"POT-Creation-Date: 2026-10-31 15:56+0000\n"
 "PO-Revision-Date: 2025-10-03 19:25+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -380,14 +380,26 @@ msgstr "Stream Deck"
 msgid "Profile"
 msgstr "Profil"
 
-#: src/plugins/desktop/desktop-action-factory.c:38
+#: src/plugins/desktop/desktop-action-factory.c:39
+msgid "Color Picker"
+msgstr ""
+
+#: src/plugins/desktop/desktop-action-factory.c:40
+msgid "Pick colors from screen"
+msgstr ""
+
+#: src/plugins/desktop/desktop-action-factory.c:45
 #: src/plugins/desktop/desktop-keyboard-shortcut-action.c:277
 msgid "Keyboard Shortcut"
 msgstr "Klaviatura yorligʻi"
 
-#: src/plugins/desktop/desktop-action-factory.c:39
+#: src/plugins/desktop/desktop-action-factory.c:46
 msgid "Trigger a keyboard shortcut"
 msgstr "Tezkor tugmani ishga tushirish"
+
+#: src/plugins/desktop/desktop-color-picker-action.c:204
+msgid "Copy to Clipboard"
+msgstr ""
 
 #: src/plugins/desktop/desktop-shortcut-dialog.ui:7
 msgid "Set Shortcut"

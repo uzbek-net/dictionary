@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 18:24+0000\n"
+"POT-Creation-Date: 2026-10-31 09:35+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-#: api/views.py:1041
+#: api/views.py:1156
 msgid ""
 "You are not allowed to trigger a refresh on this branch. You do not have the"
 " required permissions. You need to be a site admin, a team coordinator, or a"
 " maintainer of the module."
 msgstr ""
 
-#: api/views.py:1050
+#: api/views.py:1165
 msgid "A refresh is already in progress."
 msgstr ""
 
-#: api/views.py:1060
+#: api/views.py:1175
 msgid "Refresh started."
 msgstr ""
 
@@ -4316,7 +4316,7 @@ msgstr "Toʻliq PO fayli"
 msgid "Partial PO file"
 msgstr "Qisman PO fayli"
 
-#: stats/models.py:1617 stats/models.py:2226
+#: stats/models.py:1617 stats/models.py:2229
 #, python-format
 msgid "%(lang_name)s (%(lang_locale)s)"
 msgstr "%(lang_name)s (%(lang_locale)s)"

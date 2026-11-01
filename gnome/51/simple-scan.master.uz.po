@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: simple-scan\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/simple-scan/issues\n"
-"POT-Creation-Date: 2026-10-06 21:00+0000\n"
+"POT-Creation-Date: 2026-10-31 05:14+0000\n"
 "PO-Revision-Date: 2025-03-28 11:06+0500\n"
 "Last-Translator: Umidjon Almasov <umidjon@almasov.uz>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -1154,24 +1154,24 @@ msgid "%d dpi"
 msgstr "%d dpi"
 
 #. Error displayed when no scanners to scan with
-#: src/scanner.vala:901
+#: src/scanner.vala:913
 msgid "No scanners available.  Please connect a scanner."
 msgstr "Hech qanday skaner mavjud emas. Iltimos, skanerni ulang."
 
 #. Error displayed when cannot connect to scanner
-#: src/scanner.vala:931
+#: src/scanner.vala:943
 msgid "Unable to connect to scanner"
 msgstr "Skanerga ulanib boʻlmadi"
 
 #. Error displayed when no documents at the start of scanning
-#: src/scanner.vala:1376 src/scanner.vala:1511
+#: src/scanner.vala:1388 src/scanner.vala:1523
 msgid "Document feeder empty"
 msgstr "Hujjatni yuboruvchi boʻsh"
 
 #. Out of memory error message with help instruction.
 #. Message written in Pango text markup language,
 #. A carriage return makes a line break, <tt> tag makes a monospace font
-#: src/scanner.vala:1385
+#: src/scanner.vala:1397
 msgid ""
 "Insufficient memory to perform scan.\n"
 "Try to decrease <tt>Resolution</tt> or <tt>Page Size</tt> in <tt>Preferences</tt> menu. For some scanners when scanning in high resolution, the scan size is restricted."
@@ -1180,12 +1180,12 @@ msgstr ""
 "<tt>Preferences</tt> menyusida <tt>Resolution</tt> yoki <tt>Sahifa hajmi</tt> ni kamaytirishga harakat qiling. Ba’zi skanerlar uchun yuqori aniqlikda skanerlashda skanerlash hajmi cheklangan."
 
 #. Error display when unable to start scan
-#: src/scanner.vala:1398
+#: src/scanner.vala:1410
 msgid "Unable to start scan"
 msgstr "Skanerlashni boshlash imkonsiz"
 
 #. Error displayed when communication with scanner broken
-#: src/scanner.vala:1411 src/scanner.vala:1521
+#: src/scanner.vala:1423 src/scanner.vala:1533
 msgid "Error communicating with scanner"
 msgstr "Skaner bilan bogʻlanishda xatolik yuz berdi"
 
@@ -1204,22 +1204,22 @@ msgid "Fix PDF files generated with older versions of this app"
 msgstr "Ushbu ilovaning eski versiyalarida yaratilgan PDF fayllarni tuzating"
 
 #. Title of error dialog when scan failed
-#: src/simple-scan.vala:1779
+#: src/simple-scan.vala:1783
 msgid "Failed to scan"
 msgstr "Skanerlash amalga oshmadi"
 
 #. Attempt to inhibit the screensaver when scanning
-#: src/simple-scan.vala:1794
+#: src/simple-scan.vala:1798
 msgid "Scan in progress"
 msgstr "Skanerlash davom etmoqda"
 
 #. Arguments and description for --help text
-#: src/simple-scan.vala:1978
+#: src/simple-scan.vala:1982
 msgid "[DEVICE…] — Scanning utility"
 msgstr "[DEVICE…] — Skanerlash yordam dasturi"
 
 #. Text printed out when an unknown command-line argument provided
-#: src/simple-scan.vala:1988
+#: src/simple-scan.vala:1992
 #, c-format
 msgid "Run “%s --help” to see a full list of available command line options."
 msgstr ""

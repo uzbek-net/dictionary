@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-music master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-music/issues\n"
-"POT-Creation-Date: 2026-10-15 18:50+0000\n"
+"POT-Creation-Date: 2026-10-31 12:14+0000\n"
 "PO-Revision-Date: 2025-04-02 22:04+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: data/org.gnome.Music.desktop.in.in:2
 #: data/org.gnome.Music.metainfo.xml.in.in:9
 #: data/ui/StatusNavigationPage.blp:5 gnomemusic/about.py:143
-#: gnomemusic/application.py:43 gnomemusic/window.py:42
+#: gnomemusic/application.py:43 gnomemusic/window.py:48
 msgid "Music"
 msgstr "Musiqa"
 
@@ -121,21 +121,35 @@ msgstr "Musiqa tinglashda tizimni toʻxtatib turishni yoqadi yoki oʻchiradi"
 msgid "Albums"
 msgstr "Albomlar"
 
-#: data/ui/AlbumWidget.blp:83 data/ui/PlayerToolbar.blp:83
+#: data/ui/AlbumWidget.blp:47 data/ui/AlbumWidget.blp:56
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Go to Albums"
+msgid "Go to album page"
+msgstr "Albomlarga oʻting"
+
+#: data/ui/AlbumWidget.blp:79 data/ui/AlbumWidget.blp:87
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Go to Artists"
+msgid "Go to artist page"
+msgstr "Rassomlarga oʻting"
+
+#: data/ui/AlbumWidget.blp:123 data/ui/PlayerToolbar.blp:83
 #: data/ui/PlaylistControls.blp:99 gnomemusic/widgets/playertoolbar.py:127
 msgid "Play"
 msgstr "Oʻynang"
 
-#: data/ui/AlbumWidget.blp:125 data/ui/PlaylistControls.blp:5
+#: data/ui/AlbumWidget.blp:165 data/ui/PlaylistControls.blp:5
 #: data/ui/SongWidgetMenu.blp:12
 msgid "_Play"
 msgstr "_Oʻynang"
 
-#: data/ui/AlbumWidget.blp:130
+#: data/ui/AlbumWidget.blp:170
 msgid "Add to _Favorite Songs"
 msgstr "_Sevimli qoʻshiqlarga qoʻshing"
 
-#: data/ui/AlbumWidget.blp:135 data/ui/SongWidgetMenu.blp:17
+#: data/ui/AlbumWidget.blp:175 data/ui/SongWidgetMenu.blp:17
 msgid "_Add to Playlist…"
 msgstr "_Pleylistga qoʻshish…"
 
@@ -241,7 +255,7 @@ msgstr "Qoʻshiq"
 msgid "All"
 msgstr "Barchasi"
 
-#: data/ui/PreferencesDialog.blp:19 gnomemusic/utils.py:73
+#: data/ui/PreferencesDialog.blp:19 gnomemusic/utils.py:74
 msgid "Shuffle"
 msgstr "Aralash"
 
@@ -509,19 +523,19 @@ msgid "{} removed from {}"
 msgstr "{} {} roʻyxatidan olib tashlandi"
 
 #. Translators: "shuffle" causes tracks to play in random order.
-#: gnomemusic/utils.py:70
+#: gnomemusic/utils.py:71
 msgid "Shuffle/Repeat Off"
 msgstr "Aralash/takrorlash oʻchirilgan"
 
-#: gnomemusic/utils.py:71
+#: gnomemusic/utils.py:72
 msgid "Repeat Song"
 msgstr "Qoʻshiqni takrorlash"
 
-#: gnomemusic/utils.py:72
+#: gnomemusic/utils.py:73
 msgid "Repeat All"
 msgstr "Hammasini takrorlash"
 
-#: gnomemusic/utils.py:119
+#: gnomemusic/utils.py:134
 msgid "Unknown Artist"
 msgstr "Noma'lum rassom"
 
@@ -547,7 +561,7 @@ msgstr "Hech qanday natija topilmadi"
 msgid "Try a different search"
 msgstr "Boshqa qidiruvni sinab koʻring"
 
-#: gnomemusic/widgets/albumwidget.py:244
+#: gnomemusic/widgets/albumwidget.py:251
 #, fuzzy, python-brace-format
 #| msgid "{} minute"
 #| msgid_plural "{} minutes"

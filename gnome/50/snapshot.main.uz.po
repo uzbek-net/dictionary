@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: snapshot main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/snapshot/-/issues\n"
-"POT-Creation-Date: 2026-09-14 15:21+0000\n"
+"POT-Creation-Date: 2026-10-31 11:43+0000\n"
 "PO-Revision-Date: 2025-04-03 08:41+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -136,72 +136,72 @@ msgstr "Kamera galereyasi tomoshabin"
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
-#: data/resources/ui/camera.ui:75 data/resources/ui/camera.ui:139
-#: data/resources/ui/camera.ui:545
+#: data/resources/ui/camera.ui:72 data/resources/ui/camera.ui:136
+#: data/resources/ui/camera.ui:542
 msgid "Main Menu"
 msgstr "Asosiy menyu"
 
-#: data/resources/ui/camera.ui:84
+#: data/resources/ui/camera.ui:81
 msgid "No Camera Found"
 msgstr "Hech qanday kamera topilmadi"
 
-#: data/resources/ui/camera.ui:85
+#: data/resources/ui/camera.ui:82
 msgid "Connect a camera device"
 msgstr "Kamera qurilmasini ulang"
 
-#: data/resources/ui/camera.ui:127 data/resources/ui/camera.ui:567
+#: data/resources/ui/camera.ui:124 data/resources/ui/camera.ui:564
 msgid "Countdown"
 msgstr "Ortga hisoblash"
 
-#: data/resources/ui/camera.ui:164
+#: data/resources/ui/camera.ui:161
 msgid "Picture Mode"
 msgstr "Rasm rejimi"
 
-#: data/resources/ui/camera.ui:170
+#: data/resources/ui/camera.ui:167
 msgid "Recording Mode"
 msgstr "Yozib olish rejimi"
 
-#: data/resources/ui/camera.ui:177
+#: data/resources/ui/camera.ui:174
 msgid "QR Code Scanning Mode"
 msgstr "QR kodini skanerlash rejimi"
 
-#: data/resources/ui/camera.ui:554
+#: data/resources/ui/camera.ui:551
 msgid "Missing Camera Permission"
 msgstr "Kamera ruxsati etishmayapti"
 
-#: data/resources/ui/camera.ui:555
+#: data/resources/ui/camera.ui:552
 msgid "Allow camera usage in Settings"
 msgstr "Sozlamalar orqali kameradan foydalanishga ruxsat bering"
 
 #. TRANSLATORS this indicates the countdown is disabled
-#: data/resources/ui/camera.ui:570
+#: data/resources/ui/camera.ui:567
 msgid "None"
 msgstr "Hech biri"
 
 #. TRANSLATORS this is time for a countdown in seconds
-#: data/resources/ui/camera.ui:575
+#: data/resources/ui/camera.ui:572
 msgid "3s"
 msgstr "3s"
 
 #. TRANSLATORS this is time for a countdown in seconds
-#: data/resources/ui/camera.ui:580
+#: data/resources/ui/camera.ui:577
 msgid "5s"
 msgstr "5s"
 
 #. TRANSLATORS this is time for a countdown in seconds
-#: data/resources/ui/camera.ui:585
+#: data/resources/ui/camera.ui:582
 msgid "10s"
 msgstr "10s"
 
-#: data/resources/ui/camera.ui:593
+#: data/resources/ui/camera.ui:590
 msgid "_Preferences"
 msgstr "_Afzalliklar"
 
-#: data/resources/ui/camera.ui:597
+#: data/resources/ui/camera.ui:594
 msgid "_Keyboard Shortcuts"
 msgstr "_Klaviatura yorliqlari"
 
-#: data/resources/ui/camera.ui:601
+#: data/resources/ui/camera.ui:598
 msgid "_About Camera"
 msgstr "_Kamera haqida"
 
@@ -423,7 +423,7 @@ msgstr "_Videoni nusxalash"
 msgid "_Delete"
 msgstr "_Oʻchirish"
 
-#: src/widgets/camera.rs:655
+#: src/widgets/camera.rs:648
 msgid "Could not play camera stream"
 msgstr "Kamera oqimini oʻynatib boʻlmadi"
 
