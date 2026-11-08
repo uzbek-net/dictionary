@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deja-dup\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/deja-dup/-/work_items\n"
-"POT-Creation-Date: 2026-09-07 21:51+0000\n"
+"POT-Creation-Date: 2026-11-06 21:26+0000\n"
 "PO-Revision-Date: 2025-10-28 18:50+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
@@ -112,7 +112,7 @@ msgstr "Bekor qilish"
 msgid "Rese_t"
 msgstr "Qayta tiklash"
 
-#: app/ConfigFolderRow.vala:51
+#: app/ConfigFolderRow.vala:53
 #, fuzzy
 #| msgid "Cleaning up…"
 msgctxt "scanning a folder for its disk usage"
@@ -121,18 +121,18 @@ msgstr "Tozalanmoqda…"
 
 #. Keep this list of rules in sync with OperationBackup's
 #. filter on include/excludes.
-#: app/ConfigFolderRow.vala:82
+#: app/ConfigFolderRow.vala:85
 msgid "This folder cannot be backed up because it is a network folder."
 msgstr "Bu jild tarmoq jildi boʻlgani uchun uni zaxiralash imkonsiz."
 
-#: app/ConfigFolderRow.vala:85
+#: app/ConfigFolderRow.vala:88
 msgid ""
 "This folder cannot be backed up because Backups does not have access to it."
 msgstr ""
 "Bu jildni zaxiralab boʻlmaydi, chunki zaxiralar unga kirish huquqiga ega "
 "emas."
 
-#: app/ConfigFolderRow.vala:91
+#: app/ConfigFolderRow.vala:94
 msgid "This folder does not exist."
 msgstr ""
 
@@ -391,7 +391,7 @@ msgstr "Davom etish"
 msgid "Automatic backups disabled"
 msgstr "Avtomatik ravishda zaxiralash oʻchirilgan"
 
-#: app/OverviewPage.vala:128
+#: app/OverviewPage.vala:123
 msgid "None"
 msgstr "Hech narsa"
 
@@ -429,11 +429,11 @@ msgstr "Maxfiy soʻzni eslay olmadi"
 msgid "Your desktop session does not support saving passwords."
 msgstr "Desktop seansingiz parollarni saqlashni quvvatlamaydi."
 
-#: app/SnapshotsPage.vala:136
+#: app/SnapshotsPage.vala:140
 msgid "Try closing any open file manager windows and trying again."
 msgstr "Ochiq fayl boshqaruvchisi oynalarini yopib, qaytadan urinib koʻring."
 
-#: app/SnapshotsPage.vala:156
+#: app/SnapshotsPage.vala:160
 msgid "Failed to Open Backup"
 msgstr "Zaxiralashni ochib boʻlmadi"
 
@@ -877,7 +877,7 @@ msgstr "Jildlar"
 msgid "Re_set All Folders…"
 msgstr "Hamma jildlarni qayta tiklash…"
 
-#: data/ui/ConfigFolderRow.blp:39
+#: data/ui/ConfigFolderRow.blp:45
 msgid "Remove"
 msgstr "Oʻchirish"
 
@@ -979,8 +979,8 @@ msgid "Storage _Location"
 msgstr "Xotira manzili"
 
 #: data/ui/OverviewPage.blp:86
-msgid "Bro_wse Backups"
-msgstr "Zaxiralarni koʻrib chiqish"
+msgid "Browse &amp; _Restore Files"
+msgstr ""
 
 #: data/ui/OverviewPage.blp:95
 msgid "_Back Up Now"
@@ -1145,6 +1145,13 @@ msgstr "Zaxiralar topilmadi"
 #: data/ui/SnapshotsPage.blp:49
 msgid "This storage location is empty"
 msgstr "Bu saqlash manzili boʻsh"
+
+#: data/ui/SnapshotsPage.blp:68
+msgid ""
+"Choose a date below to browse your backed up files from that date in your "
+"file manager. You can then open files directly or copy them elsewhere to "
+"restore them."
+msgstr ""
 
 #: data/ui/WelcomePage.blp:41
 msgid "Create Your First _Backup…"
@@ -1383,22 +1390,17 @@ msgid "Could not mount storage location."
 msgstr "Saqlash joyini oʻrnatib boʻlmadi."
 
 #. Translators: this is the home folder and %s is the user's username
-#: libdeja/CommonUtils.vala:618
+#: libdeja/CommonUtils.vala:607
 #, c-format
 msgid "Home (%s)"
 msgstr "Uy (%s)"
 
-#. Translators: this is the home folder
-#: libdeja/CommonUtils.vala:623
-msgid "Home"
-msgstr "Uy"
-
 #. Translators: this is the trash folder
-#: libdeja/CommonUtils.vala:628
+#: libdeja/CommonUtils.vala:611
 msgid "Trash"
 msgstr "Chiqindi"
 
-#: libdeja/CommonUtils.vala:692
+#: libdeja/CommonUtils.vala:687
 msgid "Backup encryption password"
 msgstr "Zaxira shifrlash paroli"
 
@@ -1780,6 +1782,12 @@ msgstr "Quvvat tejash rejimi faol emasligida zaxiralash boshlanadi."
 msgid ""
 "Backup will begin when an unmetered network connection becomes available."
 msgstr "Hisoblanmagan tarmoq aloqasi mavjudligida zaxiralash boshlanadi."
+
+#~ msgid "Bro_wse Backups"
+#~ msgstr "Zaxiralarni koʻrib chiqish"
+
+#~ msgid "Home"
+#~ msgstr "Uy"
 
 #, c-format
 #~ msgid ""

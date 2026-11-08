@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtksourceview master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
-"POT-Creation-Date: 2026-10-28 11:32+0000\n"
+"POT-Creation-Date: 2026-11-06 14:58+0000\n"
 "PO-Revision-Date: 2025-10-30 15:49+0500\n"
 "Last-Translator: BeMeritus <bemerituss@gmail.com>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -458,7 +458,7 @@ msgstr "Tafsilotlar"
 #. * named sub-patterns with the same name or if resulting regex is
 #. * too long. In this case fixing lang file helps (e.g. renaming
 #. * subpatterns, making huge keywords use bigger prefixes, etc.)
-#: gtksourceview/gtksourcecontextengine.c:3128
+#: gtksourceview/gtksourcecontextengine.c:3525
 #, c-format
 msgid ""
 "Cannot create a regex for all the transitions, the syntax highlighting process will be slower than usual.\n"
@@ -467,7 +467,7 @@ msgstr ""
 "Barcha oʻtishlar uchun regex yaratib boʻlmaydi, sintaksisni taʼkidlash jarayoni odatdagidan sekinroq boʻladi.\n"
 "Xato: %s"
 
-#: gtksourceview/gtksourcecontextengine.c:4462
+#: gtksourceview/gtksourcecontextengine.c:5034
 msgid ""
 "Highlighting a single line took too much time, syntax highlighting will be "
 "disabled"
@@ -475,19 +475,19 @@ msgstr ""
 "Bitta qatorni ajratib koʻrsatish juda koʻp vaqtni oldi, sintaksisni ajratib "
 "koʻrsatish oʻchirib qoʻyiladi"
 
-#: gtksourceview/gtksourcecontextengine.c:5716
+#: gtksourceview/gtksourcecontextengine.c:6349
 #, c-format
 msgid "context “%s” cannot contain a \\%%{...@start} command"
 msgstr "“%s” kontekstida \\%%{...@start} buyrugʻi boʻlishi mumkin emas"
 
-#: gtksourceview/gtksourcecontextengine.c:5879
-#: gtksourceview/gtksourcecontextengine.c:5969
+#: gtksourceview/gtksourcecontextengine.c:6532
+#: gtksourceview/gtksourcecontextengine.c:6622
 #, c-format
 msgid "duplicated context id “%s”"
 msgstr "takrorlangan kontekst identifikatori “%s”"
 
-#: gtksourceview/gtksourcecontextengine.c:6083
-#: gtksourceview/gtksourcecontextengine.c:6143
+#: gtksourceview/gtksourcecontextengine.c:6736
+#: gtksourceview/gtksourcecontextengine.c:6798
 #, c-format
 msgid ""
 "style override used with wildcard context reference in language “%s” in ref "
@@ -496,18 +496,18 @@ msgstr ""
 "uslubni bekor qilish “%s” refidagi “%s” tilida joker kontekst havolasi bilan"
 " ishlatiladi"
 
-#: gtksourceview/gtksourcecontextengine.c:6157
+#: gtksourceview/gtksourcecontextengine.c:6812
 #, c-format
 msgid "invalid context reference “%s”"
 msgstr "“%s” kontekst havolasi notoʻgʻri"
 
-#: gtksourceview/gtksourcecontextengine.c:6176
-#: gtksourceview/gtksourcecontextengine.c:6186
+#: gtksourceview/gtksourcecontextengine.c:6831
+#: gtksourceview/gtksourcecontextengine.c:6841
 #, c-format
 msgid "unknown context “%s”"
 msgstr "nomaʼlum kontekst “%s”"
 
-#: gtksourceview/gtksourcecontextengine.c:6287
+#: gtksourceview/gtksourcecontextengine.c:6942
 #, c-format
 msgid "Missing main language definition (id = “%s”)."
 msgstr "Asosiy til ta’rifi yetishmayapti (id = \"%s\")."
@@ -681,12 +681,12 @@ msgstr "Buferda yaroqsiz belgilar mavjud."
 msgid "Others"
 msgstr "Boshqalar"
 
-#: gtksourceview/gtksourcelanguage-parser-2.c:946
+#: gtksourceview/gtksourcelanguage-parser-2.c:961
 #, c-format
 msgid "Unknown id “%s” in regex “%s”"
 msgstr "“%s” regexdagi nomaʼlum identifikator “%s”"
 
-#: gtksourceview/gtksourcelanguage-parser-2.c:1176
+#: gtksourceview/gtksourcelanguage-parser-2.c:1195
 #, c-format
 msgid "in regex “%s”: backreferences are not supported"
 msgstr "“%s” regexda: orqaga havolalar qoʻllab-quvvatlanmaydi"
@@ -708,63 +708,63 @@ msgstr "Bekor qilish"
 msgid "_Select"
 msgstr "Tanlash"
 
-#: gtksourceview/gtksourceview.c:1977
+#: gtksourceview/gtksourceview.c:1998
 msgid "All _Upper Case"
 msgstr "Hammasi katta harfda"
 
-#: gtksourceview/gtksourceview.c:1981
+#: gtksourceview/gtksourceview.c:2002
 msgid "All _Lower Case"
 msgstr "Hammasi kichik harfda"
 
-#: gtksourceview/gtksourceview.c:1985
+#: gtksourceview/gtksourceview.c:2006
 msgid "_Invert Case"
 msgstr "Registrni oʻzgartiring"
 
-#: gtksourceview/gtksourceview.c:1989
+#: gtksourceview/gtksourceview.c:2010
 msgid "_Title Case"
 msgstr "Bosh harfli"
 
-#: gtksourceview/gtksourceview.c:1993
+#: gtksourceview/gtksourceview.c:2014
 msgid "C_hange Case"
 msgstr "Oʻzgartirish"
 
-#: gtksourceview/implregex.c:615
+#: gtksourceview/implregex.c:702
 msgid "hexadecimal digit or “}” expected"
 msgstr "oʻn oltilik raqam yoki \"}\" kutilmoqda"
 
-#: gtksourceview/implregex.c:631
+#: gtksourceview/implregex.c:718
 msgid "hexadecimal digit expected"
 msgstr "oʻn oltilik raqam kutilmoqda"
 
-#: gtksourceview/implregex.c:671
+#: gtksourceview/implregex.c:758
 msgid "missing “<” in symbolic reference"
 msgstr "ramziy ma’lumotnomada \"<\" yetishmayapti"
 
-#: gtksourceview/implregex.c:680
+#: gtksourceview/implregex.c:767
 msgid "unfinished symbolic reference"
 msgstr "tugallanmagan ramziy ishora"
 
-#: gtksourceview/implregex.c:687
+#: gtksourceview/implregex.c:774
 msgid "zero-length symbolic reference"
 msgstr "nol uzunlikdagi simvolik havola"
 
-#: gtksourceview/implregex.c:698
+#: gtksourceview/implregex.c:785
 msgid "digit expected"
 msgstr "raqam kutilmoqda"
 
-#: gtksourceview/implregex.c:716
+#: gtksourceview/implregex.c:803
 msgid "illegal symbolic reference"
 msgstr "noqonuniy ramziy havola"
 
-#: gtksourceview/implregex.c:779
+#: gtksourceview/implregex.c:866
 msgid "stray final “\\”"
 msgstr "adashgan final \"\\\""
 
-#: gtksourceview/implregex.c:783
+#: gtksourceview/implregex.c:870
 msgid "unknown escape sequence"
 msgstr "noma’lum qochish ketma-ketligi"
 
-#: gtksourceview/implregex.c:793
+#: gtksourceview/implregex.c:880
 #, c-format
 msgid "Error while parsing replacement text “%s” at char %lu: %s"
 msgstr "Almashtirish matni \"%s\" char %lu da tahlil qilinmadi: %s"

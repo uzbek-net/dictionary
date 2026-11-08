@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues/\n"
-"POT-Creation-Date: 2026-10-30 22:40+0000\n"
+"POT-Creation-Date: 2026-11-05 20:14+0000\n"
 "PO-Revision-Date: 2025-06-26 19:34+0900\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -2278,27 +2278,27 @@ msgstr "%b %d %I∶%M %p"
 msgid "Unknown"
 msgstr "Nomaʼlum"
 
-#: lib/ephy-web-app-utils.c:374
+#: lib/ephy-web-app-utils.c:386
 #, c-format
 msgid "Failed to get desktop filename for webapp id %s"
 msgstr "Veb-ilova identifikatori %s uchun ish stoli fayl nomini olib boʻlmadi"
 
-#: lib/ephy-web-app-utils.c:401
+#: lib/ephy-web-app-utils.c:407
 #, c-format
 msgid "Failed to install desktop file %s: "
 msgstr "%s ish stoli faylini oʻrnatishda xatolik yuz berdi: "
 
-#: lib/ephy-web-app-utils.c:440
+#: lib/ephy-web-app-utils.c:446
 #, c-format
 msgid "Profile directory %s already exists"
 msgstr "%s profil katalogi allaqachon mavjud"
 
-#: lib/ephy-web-app-utils.c:447
+#: lib/ephy-web-app-utils.c:453
 #, c-format
 msgid "Failed to create directory %s"
 msgstr "“%s” katalogini yaratib boʻlmadi"
 
-#: lib/ephy-web-app-utils.c:459
+#: lib/ephy-web-app-utils.c:465
 #, c-format
 msgid "Failed to create .app file: %s"
 msgstr "Quyidagi .app faylini yaratib boʻlmadi: “%s”"

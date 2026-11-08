@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-31 09:35+0000\n"
+"POT-Creation-Date: 2026-11-07 17:27+0000\n"
 "PO-Revision-Date: 2025-10-13 18:59+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek\n"
@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 
-#: api/views.py:1156
+#: api/views.py:1158
 msgid ""
 "You are not allowed to trigger a refresh on this branch. You do not have the"
 " required permissions. You need to be a site admin, a team coordinator, or a"
 " maintainer of the module."
 msgstr ""
 
-#: api/views.py:1165
+#: api/views.py:1167
 msgid "A refresh is already in progress."
 msgstr ""
 
-#: api/views.py:1175
+#: api/views.py:1177
 msgid "Refresh started."
 msgstr ""
 
@@ -1325,7 +1325,7 @@ msgstr "Oʻzbekcha (lotincha)"
 msgid "AppStream"
 msgstr "AppStream"
 
-#: database-content.py:318 database-content.py:334 languages/views.py:18
+#: database-content.py:318 database-content.py:334 languages/views.py:19
 msgid "UI Translations"
 msgstr "Foydalanuvchi interfeysi tarjimalari"
 
@@ -1540,7 +1540,7 @@ msgstr "muloqot oynalari"
 #: database-content.py:374 database-content.py:397 database-content.py:399
 #: database-content.py:433
 #: languages/templates/languages/language_release.html:20
-#: languages/views.py:20 vertimus/templates/vertimus/vertimus_detail.html:62
+#: languages/views.py:21 vertimus/templates/vertimus/vertimus_detail.html:62
 msgid "User Guide"
 msgstr "Foydalanuvchi qoʻllanmasi"
 
@@ -1642,7 +1642,7 @@ msgstr "GNOME kutubxonasi yordami"
 
 #: database-content.py:401
 #: languages/templates/languages/_includes/language_release_summary.html:18
-#: stats/templates/branch_detail.html:21
+#: stats/templates/branch_detail.html:17
 #: stats/templates/release_detail.html:29 templates/_includes/footer.html:51
 msgid "Documentation"
 msgstr "Dokumentatsiya"
@@ -2418,53 +2418,54 @@ msgstr "%(site)s — %(lang)s tili uchun ish jarayoni amallari"
 msgid "Latest actions of the GNOME Translation Project for the %s language"
 msgstr "GNOME tarjima loyihasining %s tili uchun soʻnggi harakatlari"
 
-#: languages/models.py:27
+#: languages/models.py:15
 msgid "Invalid plural form syntax."
 msgstr ""
 
-#: languages/models.py:37 stats/models.py:103 stats/models.py:416
-#: stats/models.py:845 stats/models.py:1372 stats/models.py:1446
+#: languages/models.py:25 stats/models/modules.py:109
+#: stats/models/modules.py:422 stats/models/modules.py:686
+#: stats/models/modules.py:1206 stats/models/modules.py:1279
 #: teams/models.py:64 vertimus/models.py:169 vertimus/models.py:638
 msgid "Name"
 msgstr "Ism"
 
-#: languages/models.py:37
+#: languages/models.py:25
 msgid "Natural name of the language, such as French, English…"
 msgstr "Tilning tabiiy nomi, masalan, frantsuz, ingliz..."
 
-#: languages/models.py:40
+#: languages/models.py:28
 msgid "Locale"
 msgstr "Mahaliy til"
 
-#: languages/models.py:40
+#: languages/models.py:28
 msgid "Locale code (ISO-639), such as fr, en_GB…"
 msgstr "Mahalliy kod (ISO-639), masalan, fr, en_GB…"
 
-#: languages/models.py:48
+#: languages/models.py:36
 msgid "The team that manages the translations in this language."
 msgstr "Ushbu tildagi tarjimalarni boshqaradigan jamoa."
 
-#: languages/models.py:51
+#: languages/models.py:39
 msgid "Plural form"
 msgstr "Koʻplik shakli"
 
-#: languages/models.py:54
+#: languages/models.py:42
 msgid ""
 "The plural form of the language, such as ‘nplurals=2; plural=(n != 1);’"
 msgstr "Tilning koʻplik shakli, masalan, ‘nplurals=2; koʻplik=(n != 1);’"
 
-#: languages/models.py:94
+#. Translators: this concerns an unknown plural form
+#: languages/models.py:86
+msgid "Unknown"
+msgstr "Nomaʼlum"
+
+#: languages/services.py:54
 #, python-format
 msgid "No corresponding Language was found for this IANA BCP47 code (%s)."
 msgstr "Ushbu IANA BCP47 kodi (%s) uchun mos til topilmadi."
 
-#. Translators: this concerns an unknown plural form
-#: languages/models.py:134
-msgid "Unknown"
-msgstr "Nomaʼlum"
-
 #: languages/templates/languages/_includes/language_release_summary.html:12
-#: stats/models.py:1457 stats/templates/module_edit.html:61
+#: stats/models/modules.py:1290 stats/templates/module_edit.html:61
 msgid "Release"
 msgstr "Chiqarish"
 
@@ -2595,12 +2596,13 @@ msgstr "%(total_trans_perc)s%%"
 #: languages/templates/languages/language_release_stats.html:59
 #: people/admin.py:116
 #: people/templates/people/_includes/person_contribution_activity.html:35
-#: stats/models.py:842 vertimus/templates/vertimus/activity_summary.html:36
+#: stats/models/modules.py:683
+#: vertimus/templates/vertimus/activity_summary.html:36
 msgid "Module"
 msgstr "Modul"
 
 #: languages/templates/languages/language_release_stats.html:60
-#: stats/models.py:1458 stats/models.py:1498
+#: stats/models/modules.py:1291 stats/models/statistics.py:149
 #: stats/templates/module_edit.html:60 vertimus/admin.py:33
 #: vertimus/models.py:157 vertimus/templates/vertimus/activity_summary.html:37
 msgid "Branch"
@@ -2612,7 +2614,7 @@ msgid "Statistics"
 msgstr "Statistika"
 
 #: languages/templates/languages/language_release_stats.html:64
-#: stats/models.py:1391
+#: stats/models/modules.py:1225
 msgid "Status"
 msgstr "Holati"
 
@@ -2629,7 +2631,7 @@ msgstr "%(categname)s (%(percentage)s%% tarjima qilingan)"
 
 #. Translators: flag to indicate that the category is priority
 #: languages/templates/languages/language_release_stats.html:87
-#: stats/models.py:1447
+#: stats/models/modules.py:1280
 msgctxt "refers to a category"
 msgid "Priority"
 msgstr ""
@@ -2661,11 +2663,11 @@ msgstr "Ushbu hujjat Mallard hujjatlari formatida yozilgan"
 msgid "Error summary"
 msgstr "Xato xulosasi"
 
-#: languages/views.py:19
+#: languages/views.py:20
 msgid "UI Translations (reduced)"
 msgstr "UI tarjimalari (qisqartirilgan)"
 
-#: languages/views.py:80
+#: languages/views.py:81
 msgid "Original strings"
 msgstr "Asl iplar"
 
@@ -3694,7 +3696,8 @@ msgstr ""
 msgid "Advanced"
 msgstr "Kengaytirilgan"
 
-#: stats/admin.py:94 stats/models.py:135 stats/templates/module_edit.html:35
+#: stats/admin.py:94 stats/models/modules.py:141
+#: stats/templates/module_edit.html:35
 msgid "Forge"
 msgstr ""
 
@@ -3758,7 +3761,8 @@ msgstr ""
 
 #. Translators: this is a property of a branch. It means the branch cannot
 #. accept translations.
-#: stats/forms.py:64 stats/models.py:436 stats/templates/module_edit.html:63
+#: stats/forms.py:64 stats/models/modules.py:442
+#: stats/templates/module_edit.html:63
 msgid "Locked"
 msgstr ""
 
@@ -3797,50 +3801,50 @@ msgid "Cannot clone repository for module: %s"
 msgstr ""
 
 #. Translators: this is the name of a forge hosting a module's repository.
-#: stats/models.py:76
+#: stats/models/modules.py:82
 #, fuzzy
 #| msgid "GitLab account"
 msgid "GitLab"
 msgstr "GitLab hisobi"
 
 #. Translators: this is the name of a forge hosting a module's repository.
-#: stats/models.py:78 templates/login/authentication_providers.html:9
+#: stats/models/modules.py:84 templates/login/authentication_providers.html:9
 msgid "GitHub"
 msgstr ""
 
 #. Translators: this is used when the forge hosting a module's repository is
 #. not recognized.
-#: stats/models.py:80
+#: stats/models/modules.py:86
 msgid "Other / unknown forge"
 msgstr ""
 
 #. Translators: this is a description of a way to push changes for a module.
-#: stats/models.py:85
+#: stats/models/modules.py:91
 #, fuzzy
 #| msgid "Submit to repository"
 msgid "Directly pushed to the repository"
 msgstr "Repozitariyga yuboring"
 
 #. Translators: this is a description of a way to push changes for a module
-#: stats/models.py:87
+#: stats/models/modules.py:93
 msgid "Through a merge/pull request"
 msgstr ""
 
 #. Translators: this is a description of a type of checkout for a module.
-#: stats/models.py:92
+#: stats/models/modules.py:98
 msgid "Single checkout shared by all branches"
 msgstr ""
 
 #. Translators: this is a description of a type of checkout for a module
-#: stats/models.py:94
+#: stats/models/modules.py:100
 msgid "One worktree per branch"
 msgstr ""
 
-#: stats/models.py:105 stats/models.py:395
+#: stats/models/modules.py:111 stats/models/modules.py:401
 msgid "Homepage"
 msgstr "Bosh sahifa"
 
-#: stats/models.py:107
+#: stats/models/modules.py:113
 msgid ""
 "The homepage URL is automatically updated if the module contains a .doap "
 "file."
@@ -3848,12 +3852,13 @@ msgstr ""
 "Agar modulda .doap fayli boʻlsa, bosh sahifa URL manzili avtomatik ravishda "
 "yangilanadi."
 
-#: stats/models.py:110 stats/models.py:848 stats/models.py:1381
-#: teams/models.py:70 vertimus/templates/vertimus/activity_summary.html:38
+#: stats/models/modules.py:116 stats/models/modules.py:689
+#: stats/models/modules.py:1215 teams/models.py:70
+#: vertimus/templates/vertimus/activity_summary.html:38
 msgid "Description"
 msgstr "Ta'rif"
 
-#: stats/models.py:113
+#: stats/models/modules.py:119
 msgid ""
 "A short description of the module. It will be displayed on the module page, "
 "close to the module name."
@@ -3861,11 +3866,11 @@ msgstr ""
 "Modulning qisqacha tavsifi. U modul sahifasida modul nomiga yaqin "
 "koʻrsatiladi."
 
-#: stats/models.py:117
+#: stats/models/modules.py:123
 msgid "Comment & more"
 msgstr "Izoh va boshqalar"
 
-#: stats/models.py:120
+#: stats/models/modules.py:126
 msgid ""
 "A comment about the module. It is used to display additional information on "
 "the module page such as context, explanation or put external links."
@@ -3873,11 +3878,11 @@ msgstr ""
 "Modul haqida sharh. U modul sahifasida kontekst, tushuntirish yoki tashqi "
 "havolalar kabi qoʻshimcha ma'lumotlarni koʻrsatish uchun ishlatiladi."
 
-#: stats/models.py:125
+#: stats/models/modules.py:131
 msgid "Commit message template"
 msgstr ""
 
-#: stats/models.py:128
+#: stats/models/modules.py:134
 msgid ""
 "A Django template used to render the title line of translation commits, "
 "overriding the default “Add/Update {{ language }} translation” message. "
@@ -3887,29 +3892,29 @@ msgid ""
 "message."
 msgstr ""
 
-#: stats/models.py:138
+#: stats/models/modules.py:144
 #, fuzzy
 #| msgid "The URL to the module’s bug tracker."
 msgid "The forge hosting this module’s repository."
 msgstr "Modul xato kuzatuvchisining URL manzili."
 
-#: stats/models.py:141
+#: stats/models/modules.py:147
 #, fuzzy
 #| msgid "Presentation"
 msgid "Push action"
 msgstr "Taqdimot"
 
-#: stats/models.py:145
+#: stats/models/modules.py:151
 msgid ""
 "How changes are published to this module. Direct push is the default; "
 "opening a merge or pull request is only supported on GitLab and GitHub."
 msgstr ""
 
-#: stats/models.py:150
+#: stats/models/modules.py:156
 msgid "Checkout type"
 msgstr ""
 
-#: stats/models.py:154
+#: stats/models/modules.py:160
 msgid ""
 "How the module’s branches are checked out on disk. A single shared checkout "
 "is the default; one worktree per branch allows concurrent checkouts of the "
@@ -3917,19 +3922,19 @@ msgid ""
 "objects and checking out from one branch to another takes a very long time."
 msgstr ""
 
-#: stats/models.py:163
+#: stats/models/modules.py:169
 msgid "Issue tracker URL"
 msgstr "Muammo kuzatuvchisi URL manzili"
 
-#: stats/models.py:163
+#: stats/models/modules.py:169
 msgid "The URL to the module’s bug tracker."
 msgstr "Modul xato kuzatuvchisining URL manzili."
 
-#: stats/models.py:168 stats/models.py:396
+#: stats/models/modules.py:174 stats/models/modules.py:402
 msgid "Version Control System URL (SSH)"
 msgstr "Versiyani boshqarish tizimining URL manzili (SSH)"
 
-#: stats/models.py:171
+#: stats/models/modules.py:177
 msgid ""
 "The URL to the module’s version control system. In order to commit changes, "
 "it has to be a SSH URL."
@@ -3937,35 +3942,35 @@ msgstr ""
 "Modul versiyasini boshqarish tizimining URL manzili. Oʻzgarishlarni amalga "
 "oshirish uchun u SSH URL manzili boʻlishi kerak."
 
-#: stats/models.py:175 stats/models.py:394
+#: stats/models/modules.py:181 stats/models/modules.py:400
 msgid "Version Control System URL (Web)"
 msgstr "Versiyani boshqarish tizimining URL manzili (veb)"
 
-#: stats/models.py:176
+#: stats/models/modules.py:182
 msgid "The URL to the module’s version control system web interface."
 msgstr "Modul versiyasini boshqarish tizimining veb-interfeysi URL manzili."
 
-#: stats/models.py:179
+#: stats/models/modules.py:185
 msgid "External platform"
 msgstr "Tashqi platforma"
 
-#: stats/models.py:182
+#: stats/models/modules.py:188
 msgid ""
 "URL to external translation platform, if any. It has to be an unsupported "
 "platform, without Git access, the only supported protocol."
 msgstr ""
 
 #. Translators: this refers to a module
-#: stats/models.py:188
+#: stats/models/modules.py:194
 msgid "Archived"
 msgstr "Arxivlangan"
 
-#: stats/models.py:190
+#: stats/models/modules.py:196
 msgid ""
 "If checked, the module is considered as archived and will not be updated."
 msgstr "Belgilansa, modul arxivlangan deb hisoblanadi va yangilanmaydi."
 
-#: stats/models.py:199
+#: stats/models/modules.py:205
 msgid ""
 "The list of maintainers is automatically updated if the module contains a "
 ".doap file."
@@ -3973,36 +3978,36 @@ msgstr ""
 "Modulda .doap fayli boʻlsa, texnik xizmat koʻrsatuvchilar roʻyxati avtomatik"
 " ravishda yangilanadi."
 
-#: stats/models.py:204
+#: stats/models/modules.py:210
 msgid "Link check date"
 msgstr ""
 
-#: stats/models.py:208
+#: stats/models/modules.py:214
 msgid "The date and time when the module’s links were last checked."
 msgstr ""
 
-#: stats/models.py:211
+#: stats/models/modules.py:217
 #, fuzzy
 #| msgid "Quality check results"
 msgid "Link check result"
 msgstr "Sifatni tekshirish natijalari"
 
-#: stats/models.py:215
+#: stats/models/modules.py:221
 msgid "The result of the last link check, as a JSON object."
 msgstr ""
 
-#: stats/models.py:229
+#: stats/models/modules.py:235
 msgid ""
 "Opening a merge or pull request is only supported on GitLab and GitHub. Set "
 "the forge, or switch the push action to direct push."
 msgstr ""
 
-#: stats/models.py:238
+#: stats/models/modules.py:244
 #, python-format
 msgid "Invalid template syntax: %(error)s"
 msgstr ""
 
-#: stats/models.py:296
+#: stats/models/modules.py:302
 #, python-format
 msgid ""
 "Translations for this module are externally hosted. Please go to the <a "
@@ -4013,15 +4018,15 @@ msgstr ""
 "qanday topshirishingiz mumkinligini bilish uchun <a href=\"%(link)s\">tashqi"
 " platformaga</a> oʻting."
 
-#: stats/models.py:418
+#: stats/models/modules.py:424
 msgid "The name of the branch, such as “master” or “gnome-3-10”."
 msgstr "Filialning nomi, masalan, \"master\" yoki \"gnome-3-10\"."
 
-#: stats/models.py:421
+#: stats/models/modules.py:427
 msgid "VCS sub path"
 msgstr "VCS pastki yoʻli"
 
-#: stats/models.py:422
+#: stats/models/modules.py:428
 msgid ""
 "Version Control System subpath. Where the .git is located for a Git managed "
 "project."
@@ -4029,52 +4034,32 @@ msgstr ""
 "Versiyani boshqarish tizimining pastki yoʻli. Git tomonidan boshqariladigan "
 "loyiha uchun .git qaerda joylashgan."
 
-#: stats/models.py:428 stats/models.py:1397
+#: stats/models/modules.py:434 stats/models/modules.py:1231
 msgid "Weight"
 msgstr "Ogʻirlik"
 
-#: stats/models.py:430
+#: stats/models/modules.py:436
 msgid ""
 "Weight is used to order branches. The smaller weights are displayed first."
 msgstr ""
 "Ogʻirlik filiallarni buyurtma qilish uchun ishlatiladi. Avval kichikroq "
 "ogʻirliklar koʻrsatiladi."
 
-#: stats/models.py:433
+#: stats/models/modules.py:439
 msgid "File Hashes"
 msgstr "Fayl xeshlari"
 
-#: stats/models.py:438
+#: stats/models/modules.py:444
 msgid ""
 "Indicates whether the branch is locked. Locked branches cannot receive "
 "translations."
 msgstr ""
 
-#: stats/models.py:539 stats/tests/tests.py:378
+#: stats/models/modules.py:545 stats/tests/tests.py:375
 msgid "This branch is not linked from any release."
 msgstr "Ushbu filial hech qanday reliz bilan bogʻlanmagan."
 
-#: stats/models.py:753
-msgid "There is no documentation statistics for this branch."
-msgstr "Ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
-
-#: stats/models.py:760
-msgid "There is no documentation statistics for this branch in this language."
-msgstr ""
-"Ushbu tilda ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
-
-#: stats/models.py:769
-msgid "There is no user interface statistics for this branch."
-msgstr "Ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud emas."
-
-#: stats/models.py:776
-msgid ""
-"There is no user interface statistics for this branch in this language."
-msgstr ""
-"Ushbu tilda ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud "
-"emas."
-
-#: stats/models.py:808
+#: stats/models/modules.py:661
 #, python-format
 msgid ""
 "This branch name is ‘%(branch_name)s’ while there already exists a branch "
@@ -4083,7 +4068,7 @@ msgstr ""
 "Bu filial nomi “%(branch_name)s” boʻlib, HEAD ga ishora qiluvchi filial "
 "allaqachon mavjud (%(branch_head_names)s deb ataladi)."
 
-#: stats/models.py:816
+#: stats/models/modules.py:669
 msgid ""
 "There are too many main branches for this module. Please report this issue "
 "to the coordination team, some cleanup is needed."
@@ -4091,22 +4076,22 @@ msgstr ""
 "Ushbu modul uchun juda koʻp asosiy filiallar mavjud. Iltimos, bu muammoni "
 "muvofiqlashtiruvchi guruhga xabar bering, biroz tozalash kerak."
 
-#: stats/models.py:845
+#: stats/models/modules.py:686
 msgid "The name of the domain (ie. “po”, “help”…)"
 msgstr "Domen nomi (masalan, “po”, “help”…)"
 
-#: stats/models.py:851
+#: stats/models/modules.py:692
 #, python-format
 msgid ""
 "A description of the domain. “%(ui)s” and “%(doc)s” are common descriptions "
 "for modules."
 msgstr "Domen tavsifi. “%(ui)s” va “%(doc)s” modullar uchun umumiy tavsifdir."
 
-#: stats/models.py:857
+#: stats/models/modules.py:698
 msgid "Domain type"
 msgstr "Domen turi"
 
-#: stats/models.py:861
+#: stats/models/modules.py:702
 #, fuzzy, python-format
 #| msgid ""
 #| "Whether the Domain is a for a user interface (%(ui)s) or a documentation "
@@ -4118,11 +4103,11 @@ msgstr ""
 "Domen foydalanuvchi interfeysi (%(ui)s) yoki dokumentatsiya (%(doc)s) "
 "uchunmi."
 
-#: stats/models.py:868
+#: stats/models/modules.py:709
 msgid "PO files layout"
 msgstr "PO fayllari tartibi"
 
-#: stats/models.py:871
+#: stats/models/modules.py:712
 #, python-format
 msgid ""
 "The standard for the user interface is “%(po_layout_for_ui)s”. For the "
@@ -4131,29 +4116,29 @@ msgstr ""
 "Foydalanuvchi interfeysi uchun standart “%(po_layout_for_ui)s”. "
 "Dokumentatsiya uchun bu “%(po_layout_for_help)s”."
 
-#: stats/models.py:877
+#: stats/models/modules.py:718
 msgid "POT generation method"
 msgstr "POT ishlab chiqarish usuli"
 
-#: stats/models.py:881
+#: stats/models/modules.py:722
 msgid "The method to generate the POT file."
 msgstr "POT faylini yaratish usuli."
 
-#: stats/models.py:884
+#: stats/models/modules.py:725
 msgid "POT generation parameters"
 msgstr "POT ishlab chiqarish parametrlari"
 
-#: stats/models.py:888
+#: stats/models/modules.py:729
 msgid ""
 "pot_method='url': URL, pot_method='shell': shell command, "
 "pot_method='gettext': optional params"
 msgstr ""
 
-#: stats/models.py:893
+#: stats/models/modules.py:734
 msgid "Extra ITS directories"
 msgstr "Qoʻshimcha ITS kataloglari"
 
-#: stats/models.py:896
+#: stats/models/modules.py:737
 #, fuzzy
 #| msgid ""
 #| "Colon-separated directories containing extra .its/.loc files for gettext"
@@ -4164,11 +4149,11 @@ msgstr ""
 "Gettext uchun qoʻshimcha .its/.loc fayllarni oʻz ichiga olgan ikki nuqta "
 "bilan ajratilgan kataloglar"
 
-#: stats/models.py:900
+#: stats/models/modules.py:741
 msgid "LINGUAS file location"
 msgstr "LINGUAS fayl joylashuvi"
 
-#: stats/models.py:906
+#: stats/models/modules.py:747
 #, python-format
 msgid ""
 "Use “%s” for no LINGUAS check, or path/to/file#variable for a non-standard location.\n"
@@ -4177,12 +4162,12 @@ msgstr ""
 "LINGUAS tekshiruvi uchun “%s” yoki nostandart joylashuv uchun path/to/file#variabledan foydalaning.\n"
 "Standart joylashuv uchun boʻsh qoldiring (UI uchun LINGUAS/configure.ac/.in da ALL_LINGUAS va DOC uchun Makefile.am da DOC_LINGUAS). Bu qiymat tilning LINGUAS faylida toʻgʻri koʻrsatilganligini tekshirish uchun ishlatiladi. Koʻpgina hollarda LINGUAS fayllari tarjimasi mavjud boʻlgan barcha tillarni oʻz ichiga olishi kerak."
 
-#: stats/models.py:916
+#: stats/models/modules.py:757
 msgid "Reduced string filter"
 msgstr "Kamaytirilgan simli filtr"
 
 #. Translators: the placeholder is a filter name
-#: stats/models.py:921
+#: stats/models/modules.py:762
 #, python-format
 msgid ""
 "A “%s” filter to strip po file from unprioritized strings (format: "
@@ -4191,36 +4176,36 @@ msgstr ""
 "Po faylini ustuvor boʻlmagan qatorlardan ajratib olish uchun “%s” filtri "
 "(format: joylashuv|string, filtrsiz uchun “-”)"
 
-#: stats/models.py:933
+#: stats/models/modules.py:774
 msgid "Valid from branch"
 msgstr "Filialdan amal qiladi"
 
-#: stats/models.py:934
+#: stats/models/modules.py:775
 msgid "The domain is valid from the branch given, for all branches otherwise."
 msgstr ""
 "Domen berilgan filialdan amal qiladi, aks holda barcha filiallar uchun."
 
-#: stats/models.py:942
+#: stats/models/modules.py:783
 msgid "Valid to branch"
 msgstr "Filial uchun amal qiladi"
 
-#: stats/models.py:943
+#: stats/models/modules.py:784
 msgid ""
 "If empty, the domain is valid for all branches or until the branch given."
 msgstr ""
 "Agar boʻsh boʻlsa, domen barcha filiallar uchun yoki berilgan filialga qadar"
 " amal qiladi."
 
-#: stats/models.py:1056
+#: stats/models/modules.py:893
 #, python-format
 msgid "Unable to determine the PO path for this domain in language “%(lang)s”"
 msgstr "“%(lang)s” tilida bu domen uchun PO yoʻlini aniqlab boʻlmadi"
 
-#: stats/models.py:1070
+#: stats/models/modules.py:907
 msgid "This domain is not a documentation domain."
 msgstr "Bu domen dokumentatsiya domeni emas."
 
-#: stats/models.py:1124
+#: stats/models/modules.py:961
 #, python-format
 msgid ""
 "No check of the LINGUAS file. The “%(linguas_location)s” value is set to "
@@ -4229,7 +4214,7 @@ msgstr ""
 "LINGUAS fayli tekshirilmagan. “%(linguas_location)s” qiymati “%(value)s” ga "
 "oʻrnatiladi."
 
-#: stats/models.py:1142
+#: stats/models/modules.py:979
 #, python-format
 msgid ""
 "The LINGUAS file is stored at “%(linguas_location)s” but does not exist on "
@@ -4237,7 +4222,7 @@ msgid ""
 "could be found and updated."
 msgstr ""
 
-#: stats/models.py:1164
+#: stats/models/modules.py:1001
 #, python-format
 msgid ""
 "A “%(makefile)s” file was found and lists languages in a variable instead of"
@@ -4245,7 +4230,7 @@ msgid ""
 " yet. "
 msgstr ""
 
-#: stats/models.py:1235
+#: stats/models/modules.py:1072
 #, python-format
 msgid ""
 "Entry for this language is not present in %(var)s variable in %(file)s file."
@@ -4253,12 +4238,12 @@ msgstr ""
 "Bu til uchun yozuv %(file)s faylidagi %(var)s oʻzgaruvchisida mavjud emas."
 
 #. Translators: do not translate dtype, it’s a technical term.
-#: stats/models.py:1248
+#: stats/models/modules.py:1085
 #, python-format
 msgid "Domain dtype should be “%(dtype_ui)s” or “%(dtype_doc)s”."
 msgstr "Domen turi “%(dtype_ui)s” yoki “%(dtype_doc)s” boʻlishi kerak."
 
-#: stats/models.py:1376
+#: stats/models/modules.py:1210
 msgid ""
 "The name of the release. You should use a slug, a unique identifier for this"
 " release, such as “gnome-40”. This information is used in URLs."
@@ -4267,100 +4252,100 @@ msgstr ""
 "boʻlgan slugdan foydalanishingiz kerak. Ushbu ma'lumotlar URL manzillarida "
 "ishlatiladi."
 
-#: stats/models.py:1383
+#: stats/models/modules.py:1217
 msgid "The real name of the release, such as “GIMP 2.8” or “GNOME 40”"
 msgstr "“GIMP 2.8” yoki “GNOME 40” kabi nashrning haqiqiy nomi"
 
-#: stats/models.py:1386
+#: stats/models/modules.py:1220
 msgid "String frozen"
 msgstr "String muzlatilgan"
 
-#: stats/models.py:1388
+#: stats/models/modules.py:1222
 msgid "Whether the strings are frozen for this release."
 msgstr "Ushbu nashr uchun satrlar muzlatilganmi yoki yoʻqmi."
 
-#: stats/models.py:1394
+#: stats/models/modules.py:1228
 msgid "The status of the release: whether it is official or not."
 msgstr "Chiqarish holati: rasmiymi yoki yoʻqmi."
 
-#: stats/models.py:1399
+#: stats/models/modules.py:1233
 msgid ""
 "The weight is used to sort releases, higher on top, below 0 in archives."
 msgstr ""
 "Ogʻirligi arxivda 0 dan pastroq boʻlgan yuqoriroqdagi nashrlarni saralash "
 "uchun ishlatiladi."
 
-#: stats/models.py:1403 stats/templates/module_edit.html:56
+#: stats/models/modules.py:1237 stats/templates/module_edit.html:56
 msgid "Branches"
 msgstr "Filiallar"
 
-#: stats/models.py:1459
+#: stats/models/modules.py:1292
 msgid "Category name"
 msgstr "Turkum nomi"
 
-#: stats/models.py:1499 vertimus/admin.py:42 vertimus/models.py:158
+#: stats/models/statistics.py:150 vertimus/admin.py:42 vertimus/models.py:158
 msgid "Domain"
 msgstr "Domen"
 
-#: stats/models.py:1500 stats/templates/release_detail.html:19
+#: stats/models/statistics.py:151 stats/templates/release_detail.html:19
 #: stats/templates/stats_show.html:86 vertimus/admin.py:52
 #: vertimus/models.py:159
 msgid "Language"
 msgstr "Til"
 
-#: stats/models.py:1503
+#: stats/models/statistics.py:154
 msgid "Full PO file"
 msgstr "Toʻliq PO fayli"
 
-#: stats/models.py:1510
+#: stats/models/statistics.py:161
 msgid "Partial PO file"
 msgstr "Qisman PO fayli"
 
-#: stats/models.py:1617 stats/models.py:2229
+#: stats/models/statistics.py:268 stats/models/statistics.py:878
 #, python-format
 msgid "%(lang_name)s (%(lang_locale)s)"
 msgstr "%(lang_name)s (%(lang_locale)s)"
 
-#: stats/models.py:1679
+#: stats/models/statistics.py:330
 #, python-format
 msgid "%(count)s message"
 msgid_plural "%(count)s messages"
 msgstr[0] "%(count)s xabar"
 msgstr[1] "%(count)s ta xabarlar"
 
-#: stats/models.py:1680
+#: stats/models/statistics.py:331
 #, python-format
 msgid "%(count)s word"
 msgid_plural "%(count)s words"
 msgstr[0] "%(count)s soʻz"
 msgstr[1] "%(count)s ta soʻzlar"
 
-#: stats/models.py:1682
+#: stats/models/statistics.py:333
 #, python-format
 msgid "%(count)s figure"
 msgid_plural "%(count)s figures"
 msgstr[0] "%(count)s raqam"
 msgstr[1] "%(count)s ta raqamlar"
 
-#: stats/models.py:1683
+#: stats/models/statistics.py:334
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s, %(figures)s)"
 msgstr "(%(messages)s — %(words)s, %(figures)s) — %(updated)s"
 
-#: stats/models.py:1689
+#: stats/models/statistics.py:340
 #, fuzzy, python-format
 #| msgid "(%(messages)s — %(words)s) — %(updated)s"
 msgid "(%(messages)s — %(words)s)"
 msgstr "(%(messages)s — %(words)s) — %(updated)s"
 
-#: stats/models.py:1694
+#: stats/models/statistics.py:345
 #, fuzzy
 #| msgid "Unable to summarise the POT statistics, the file is missing."
 msgid "Unable to summarize the POT statistics, the file is missing."
 msgstr "POT statistikasini umumlashtirib boʻlmadi, fayl yoʻq."
 
-#: stats/models.py:1853
+#: stats/models/statistics.py:504
 msgid ""
 "Error while updating statistics using “%(file_path)”. The file may not exist"
 " on disk or is unreadable."
@@ -4368,27 +4353,30 @@ msgstr ""
 "“%(file_path)” yordamida statistikani yangilashda xatolik yuz berdi. Fayl "
 "diskda mavjud boʻlmasligi yoki oʻqib boʻlmaydigan boʻlishi mumkin."
 
-#: stats/notifications.py:23
+#: stats/notifications.py:37
 #, python-format
 msgid "Broken links detected for module ‘%(module_name)s’"
 msgstr ""
 
-#: stats/notifications.py:51
+#: stats/notifications.py:65
 #, python-format
 msgid "Module ‘%(module_name)s’ was automatically archived"
 msgstr ""
 
-#: stats/notifications.py:78
+#: stats/notifications.py:92
 msgid "New branches automatically added to database"
 msgstr ""
 
-#: stats/services/pot.py:64
+#: stats/notifications.py:169 stats/notifications.py:188
 msgid ""
-"Unable to generate template file (POT). The POT generation process itself "
-"did not fail, but the POT file does not exist on disk."
+"Unable to initialize the GitLab client because the authentication failed."
 msgstr ""
-"Andoza faylini (POT) yaratib boʻlmadi. POT yaratish jarayonining oʻzi "
-"muvaffaqiyatsiz tugadi, lekin POT fayli diskda mavjud emas."
+"GitLab mijozini ishga tushirib boʻlmadi, chunki autentifikatsiya amalga "
+"oshmadi."
+
+#: stats/notifications.py:192
+msgid "Unable to create GitLab issue."
+msgstr ""
 
 #: stats/services/refresh/service.py:54 stats/services/refresh/service.py:104
 msgid "The refresh process has not started yet."
@@ -4418,7 +4406,7 @@ msgid "The refresh process completed successfully."
 msgstr "Foydalanuvchining roli muvaffaqiyatli oʻzgartirildi."
 
 #: stats/services/refresh/service.py:278
-#: stats/services/refresh/tests/test_service.py:283
+#: stats/services/refresh/tests/test_service.py:284
 msgid "The task failed without a specific error message."
 msgstr ""
 
@@ -4434,28 +4422,28 @@ msgid ""
 "the problem persists, contact the site administration."
 msgstr ""
 
-#: stats/services/refresh/steps.py:59
+#: stats/services/refresh/steps.py:58
 msgid "Checking domain presence…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:72
+#: stats/services/refresh/steps.py:71
 msgid "Checking out the branch…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:87
+#: stats/services/refresh/steps.py:86
 msgid "Checking POT files…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:102
+#: stats/services/refresh/steps.py:101
 msgid "Errors while running “intltool-update -m” check."
 msgstr "\"intltool-update -m\" tekshiruvini bajarishda xatolar."
 
-#: stats/services/refresh/steps.py:107
+#: stats/services/refresh/steps.py:106
 #, python-format
 msgid "There are some missing files from POTFILES.in: %s"
 msgstr "POTFILES.in saytida ba'zi fayllar etishmayotgan: %s"
 
-#: stats/services/refresh/steps.py:115
+#: stats/services/refresh/steps.py:114
 #, python-format
 msgid ""
 "Following files are referenced in either POTFILES.in or POTFILES.skip, yet "
@@ -4464,29 +4452,29 @@ msgstr ""
 "Quyidagi fayllar POTFILES.in yoki POTFILES.skip saytlarida havola qilingan, "
 "ammo ular mavjud emas: %s"
 
-#: stats/services/refresh/steps.py:124
+#: stats/services/refresh/steps.py:123
 #, fuzzy
 #| msgid "The method to generate the POT file."
 msgid "Generating the POT file…"
 msgstr "POT faylini yaratish usuli."
 
-#: stats/services/refresh/steps.py:141
+#: stats/services/refresh/steps.py:140
 msgid "Reading the LINGUAS file…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:155
+#: stats/services/refresh/steps.py:154
 msgid "Refreshing the POT file…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:173
+#: stats/services/refresh/steps.py:172
 msgid "Can’t generate template file (POT), using old one."
 msgstr "Eskisini ishlatib, andoza faylini (POT) yaratib boʻlmadi."
 
-#: stats/services/refresh/steps.py:175
+#: stats/services/refresh/steps.py:174
 msgid "Can’t generate template file (POT), statistics aborted."
 msgstr "Andoza faylini (POT) yaratib boʻlmadi, statistika toʻxtatildi."
 
-#: stats/services/refresh/steps.py:203
+#: stats/services/refresh/steps.py:202
 #, fuzzy, python-format
 #| msgid ""
 #| "Unable to authenticate to GitLab, hence, no notification was sent to GitLab."
@@ -4500,24 +4488,24 @@ msgstr ""
 "qanday bildirishnoma yuborilmadi. Ushbu muammo haqida ma'murlar xabardor "
 "qilinadi."
 
-#: stats/services/refresh/steps.py:226
+#: stats/services/refresh/steps.py:225
 msgid "Replacing the old POT file with the new one…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:233
+#: stats/services/refresh/steps.py:232
 msgid "Can’t copy new template file (POT) to public location."
 msgstr "Yangi andoza faylini (POT) hammaga ochiq joyga nusxalab boʻlmadi."
 
-#: stats/services/refresh/steps.py:248
+#: stats/services/refresh/steps.py:247
 #, python-format
 msgid "Updating PO files in languages: “%(locale)s”…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:249
+#: stats/services/refresh/steps.py:248
 msgid "Updating PO files in languages…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:301
+#: stats/services/refresh/steps.py:300
 #, python-format
 msgid ""
 "Unable to update the PO file in “%(locale)s” using the newly created POT for"
@@ -4526,7 +4514,7 @@ msgstr ""
 "%(module)s/%(branch)s uchun yangi yaratilgan POT yordamida “%(locale)s”dagi "
 "PO faylini yangilab boʻlmadi"
 
-#: stats/services/refresh/steps.py:338
+#: stats/services/refresh/steps.py:337
 #, python-format
 msgid ""
 "The language “%(language)s” is not listed in the LINGUAS file for the domain"
@@ -4535,29 +4523,29 @@ msgstr ""
 "“%(language)s” tili “%(domain)s” domeni uchun LINGUAS faylida "
 "koʻrsatilmagan."
 
-#: stats/services/refresh/steps.py:349 stats/services/refresh/steps.py:360
+#: stats/services/refresh/steps.py:348 stats/services/refresh/steps.py:359
 #, python-format
 msgid "PO file “%s” is not UTF-8 encoded."
 msgstr "“%s” PO fayli UTF-8 bilan kodlanmagan."
 
-#: stats/services/refresh/steps.py:353
+#: stats/services/refresh/steps.py:352
 msgid "This PO file has an executable bit set."
 msgstr "Ushbu PO faylida bajariladigan bitlar toʻplami mavjud."
 
-#: stats/services/refresh/steps.py:364
+#: stats/services/refresh/steps.py:363
 #, python-format
 msgid "PO file “%s” does not pass “msgfmt -vc” checks."
 msgstr "“%s” PO fayli “msgfmt -vc” tekshiruvidan oʻtmaydi."
 
-#: stats/services/refresh/steps.py:368
+#: stats/services/refresh/steps.py:367
 msgid "PO File is not found on the system."
 msgstr "PO fayli tizimda topilmadi."
 
-#: stats/services/refresh/steps.py:375
+#: stats/services/refresh/steps.py:374
 msgid "Cleaning up obsolete statistics…"
 msgstr ""
 
-#: stats/services/refresh/steps.py:398
+#: stats/services/refresh/steps.py:397
 msgid "Updating module information with DOAP file…"
 msgstr ""
 
@@ -4645,6 +4633,14 @@ msgstr ""
 msgid "The PO file path could not be determined. No commit will be emitted."
 msgstr "PO fayl yoʻlini aniqlab boʻlmadi. Hech qanday majburiyat berilmaydi."
 
+#: stats/services/statistics/refresh_pot_file.py:64
+msgid ""
+"Unable to generate template file (POT). The POT generation process itself "
+"did not fail, but the POT file does not exist on disk."
+msgstr ""
+"Andoza faylini (POT) yaratib boʻlmadi. POT yaratish jarayonining oʻzi "
+"muvaffaqiyatsiz tugadi, lekin POT fayli diskda mavjud emas."
+
 #: stats/templates/_includes/module_archive_warning_message.html:3
 msgid ""
 "This module has been archived. It is only kept for statistical purposes. "
@@ -4708,13 +4704,13 @@ msgctxt "refers to a module"
 msgid "Maintained"
 msgstr "Ta'minotchilar"
 
-#: stats/templates/branch_detail.html:4
+#: stats/templates/branch_detail.html:2
 msgid ""
 "This branch has been locked. Please don't translate it anymore and report "
 "your efforts on other branches."
 msgstr ""
 
-#: stats/templates/branch_detail.html:12
+#: stats/templates/branch_detail.html:9
 msgid "Translation"
 msgstr "Tarjima"
 
@@ -4958,7 +4954,7 @@ msgid ""
 msgstr ""
 
 #: stats/templates/release_compare.html:4
-#: stats/templates/release_compare.html:16 stats/tests/tests.py:1132
+#: stats/templates/release_compare.html:16 stats/tests/tests.py:990
 msgid "Releases Comparison"
 msgstr "Chiqarishlarni taqqoslash"
 
@@ -5173,28 +5169,17 @@ msgstr "Tarjima qilingan"
 msgid "Display document figures"
 msgstr "Hujjat raqamlarini koʻrsatish"
 
-#: stats/templatetags/stats_extras.py:202
+#: stats/templatetags/stats_extras.py:210
 msgid "Error"
 msgstr "Xatolik"
 
-#: stats/utils.py:222 stats/utils.py:237
-msgid ""
-"Unable to initialize the GitLab client because the authentication failed."
-msgstr ""
-"GitLab mijozini ishga tushirib boʻlmadi, chunki autentifikatsiya amalga "
-"oshmadi."
-
-#: stats/utils.py:241
-msgid "Unable to create GitLab issue."
-msgstr ""
-
-#: stats/views.py:99
+#: stats/views/modules.py:113
 msgid ""
 "You do not have the rights to edit this module. Module edition is restricted"
 " to people responsible for module maintenance."
 msgstr ""
 
-#: stats/views.py:119
+#: stats/views/modules.py:133
 msgid ""
 "Module properties have been updated. If you modified branches, domain or "
 "repository for instance, you will have to trigger statistics refresh "
@@ -6473,6 +6458,10 @@ msgstr "Ushbu amal uchun fayl kerak."
 msgid "Please, don’t send a file with a “Reserve” action."
 msgstr "Iltimos, “Zaxiralash” amali bilan fayl yubormang."
 
+#: vertimus/listeners.py:93
+msgid "Reservation cancelled: this person left the team."
+msgstr ""
+
 #: vertimus/models.py:93
 msgid "URL of the Merge Request"
 msgstr ""
@@ -7317,6 +7306,19 @@ msgstr ""
 
 #~ msgid "Join a new team"
 #~ msgstr "Yangi jamoaga qoʻshiling"
+
+#~ msgid "There is no documentation statistics for this branch in this language."
+#~ msgstr ""
+#~ "Ushbu tilda ushbu filial uchun dokumentatsiya statistikasi mavjud emas."
+
+#~ msgid "There is no user interface statistics for this branch."
+#~ msgstr "Ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud emas."
+
+#~ msgid ""
+#~ "There is no user interface statistics for this branch in this language."
+#~ msgstr ""
+#~ "Ushbu tilda ushbu filial uchun foydalanuvchi interfeysi statistikasi mavjud "
+#~ "emas."
 
 #, python-format
 #~ msgid "updated on %(date)s"
