@@ -20,6 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 
 #: common/gdm-common.c:324
+#, c-format
 msgid "/dev/urandom is not a character device"
 msgstr "/dev/urandom belgi qurilmasi emas"
 
@@ -32,6 +33,7 @@ msgid "Could not identify the current session: "
 msgstr "Joriy seansni aniqlab boʻlmadi: "
 
 #: common/gdm-common.c:564
+#, c-format
 msgid "Could not identify the current seat."
 msgstr "Joriy joyni aniqlab boʻlmadi."
 
@@ -137,6 +139,7 @@ msgid "Username:"
 msgstr "Foydalanuvchi nomi:"
 
 #: daemon/gdm-session-worker.c:1726 daemon/gdm-session-worker.c:1743
+#, c-format
 msgid "no user account available"
 msgstr "biron-bir foydalanuvchi hisobi mavjud emas"
 
@@ -448,7 +451,7 @@ msgid "“%s” is not a valid %s “%s” value"
 msgstr "“%s” yaroqli %s “%s” qiymati emas"
 
 #: utils/gdm-config.c:633
-#, fuzzy
+#, fuzzy, c-format
 msgid "No distro detected, no hook to run"
 msgstr "Hech qanday distro aniqlanmadi, ishga tushirish uchun ilgak yoʻq"
 
@@ -496,10 +499,12 @@ msgid "Failed to create directory %s"
 msgstr "%s katalogini yaratib boʻlmadi"
 
 #: utils/gdm-config.c:844
+#, c-format
 msgid "dconf profile not found"
 msgstr "dconf profili topilmadi"
 
 #: utils/gdm-config.c:934
+#, c-format
 msgid "dconf has no system-db configured"
 msgstr "dconfʼda system-db konfiguratsiyasi yoʻq"
 
@@ -629,11 +634,13 @@ msgid "n"
 msgstr "n"
 
 #: utils/gdm-config.c:1900
+#, c-format
 msgctxt "Interactive question"
 msgid "Do you want to continue? [Y/n]? "
 msgstr "Davom etishni xohlaysizmi? [Y/n]? "
 
 #: utils/gdm-config.c:1918
+#, c-format
 msgid "User cancelled the request"
 msgstr "Foydalanuvchi soʻrovni bekor qildi"
 

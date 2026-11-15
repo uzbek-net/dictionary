@@ -68,6 +68,7 @@ msgstr "Maxsus brauzerda ishni davom ettirish uchun URL ni nusxalang."
 
 #: src/goabackend/goadavclient.c:778 src/goabackend/goakerberosprovider.c:318
 #: src/goabackend/goaprovider.c:1078
+#, c-format
 msgid "Unknown error"
 msgstr "Noma’lum xatolik"
 
@@ -76,6 +77,7 @@ msgstr "Noma’lum xatolik"
 #: src/goabackend/goakerberosprovider.c:290
 #: src/goabackend/goakerberosprovider.c:312 src/goabackend/goasmtpauth.c:102
 #: src/goabackend/goasmtpauth.c:473 src/goabackend/goautils.c:808
+#, c-format
 msgid "Authentication failed"
 msgstr "Autentifikatsiya amalga oshmadi"
 
@@ -92,6 +94,7 @@ msgstr "Notoʻgʻri URI: %s"
 
 #. TODO: more specific
 #: src/goabackend/goaewsclient.c:278
+#, c-format
 msgid "Failed to parse autodiscover response XML"
 msgstr ""
 "Avtomatik topish javobining XML formatini tahlil qilish amalga oshmadi"
@@ -106,6 +109,7 @@ msgstr "\"%s\" elementi topilmadi"
 
 #. TODO: more specific
 #: src/goabackend/goaewsclient.c:340
+#, c-format
 msgid "Failed to find ASUrl in autodiscover response"
 msgstr "Avtomatik aniqlash javobida ASUrl topilmadi"
 
@@ -219,16 +223,19 @@ msgstr ""
 #: src/goabackend/goaowncloudprovider.c:538
 #: src/goabackend/goaowncloudprovider.c:548
 #: src/goabackend/goaowncloudprovider.c:568 src/goabackend/goautils.c:136
+#, c-format
 msgid "Could not parse response"
 msgstr "Javobni tahlil qilib boʻlmadi"
 
 #. TODO: more specific
 #: src/goabackend/goaimapauthlogin.c:84
 #: src/goabackend/goaoauth2provider.c:1346 src/goabackend/goasmtpauth.c:149
+#, c-format
 msgid "Service not available"
 msgstr "Xizmat mavjud emas"
 
 #: src/goabackend/goaimapauthlogin.c:157 src/goabackend/goasmtpauth.c:616
+#, c-format
 msgid "Server does not support STARTTLS"
 msgstr "Server STARTTLS-ni qoʻllab-quvvatlamaydi"
 
@@ -348,6 +355,7 @@ msgid "Example principal: user@EXAMPLE.COM"
 msgstr "Asosiyga misol: user@ EXAMPLE.COM"
 
 #: src/goabackend/goakerberosprovider.c:1249
+#, c-format
 msgid "Ticketing is disabled for account"
 msgstr "Hisob uchun chipta olish faolsizlantirilgan"
 
@@ -381,6 +389,7 @@ msgid "Operation was cancelled"
 msgstr "Amaliyot bekor qilindi"
 
 #: src/goabackend/goakerberosprovider.c:1672
+#, c-format
 msgid "Identity service returned invalid key"
 msgstr "Identifikatsiya xizmati yaroqsiz kalit qaytardi"
 
@@ -467,6 +476,7 @@ msgid "Was asked to log in as %s, but logged in as %s"
 msgstr "%s sifatida kirish soʻraldi, lekin %s sifatida kirildi"
 
 #: src/goabackend/goaoauth2provider.c:1980
+#, c-format
 msgid "Credentials do not contain access_token"
 msgstr "Hisob ma’lumotlarida kirish_tokeni mavjud emas"
 
@@ -623,10 +633,12 @@ msgstr "Muloqot rad etildi"
 
 #. TODO: more specific
 #: src/goabackend/goasmtpauth.c:164
+#, c-format
 msgid "TLS not available"
 msgstr "TLS mavjud emas"
 
 #: src/goabackend/goasmtpauth.c:481
+#, c-format
 msgid "Unknown authentication mechanism"
 msgstr "Noma’lum autentifikatsiya mexanizmi"
 
@@ -774,6 +786,7 @@ msgid "Could not finish up sifting through identity credentials in cache: "
 msgstr "Keshdagi shaxsiy ma’lumotlarni saralash yakunlanmadi: "
 
 #: src/goaidentity/goakerberosidentity.c:1407
+#, c-format
 msgid "No associated identification found"
 msgstr "Hech qanday aloqador identifikatsiya topilmadi"
 
@@ -790,6 +803,7 @@ msgid "Could not store new credentials in credentials cache: "
 msgstr "Yangi hisob ma’lumotlari hisob ma’lumotlari keshiga saqlanmadi: "
 
 #: src/goaidentity/goakerberosidentity.c:1825
+#, c-format
 msgid "Not signed in"
 msgstr "Kirilmagan"
 

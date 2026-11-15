@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shortwave main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Shortwave/issues\n"
-"POT-Creation-Date: 2026-09-10 18:18+0000\n"
+"POT-Creation-Date: 2026-10-25 13:06+0000\n"
 "PO-Revision-Date: 2025-10-24 19:45+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -316,16 +316,16 @@ msgstr "Toʻxtatish"
 msgid "Buffering…"
 msgstr "Yuklanmoqda…"
 
-#: data/gtk/player_gadget.ui:139 data/gtk/player_toolbar.ui:29
-#: data/gtk/player_view.ui:58 src/app.rs:268
+#: data/gtk/player_gadget.ui:138 data/gtk/player_toolbar.ui:29
+#: data/gtk/player_view.ui:58 src/app.rs:360
 msgid "No Playback"
 msgstr "Qayta ijro qilinmaydi"
 
-#: data/gtk/player_gadget.ui:199
+#: data/gtk/player_gadget.ui:198
 msgid "Close"
 msgstr "Yopish"
 
-#: data/gtk/player_gadget.ui:210
+#: data/gtk/player_gadget.ui:209
 msgid "Restore Window"
 msgstr "Oynani tiklash"
 
@@ -629,7 +629,7 @@ msgid "The recorded track has been saved"
 msgstr "Yozib olingan tarona saqlandi"
 
 #: data/gtk/track_dialog.ui:139 data/gtk/track_dialog.ui:210
-#: data/gtk/track_row.ui:10 src/audio/player.rs:445
+#: data/gtk/track_row.ui:10 src/app.rs:266
 msgid "Save Track"
 msgstr "Taronani saqlash"
 
@@ -671,15 +671,15 @@ msgstr "Tarona endi mavjud emas"
 msgid "This track is currently not being recorded"
 msgstr "Bu tarona hozirda yozib olinmayapti"
 
-#: src/app.rs:365
-msgid "Active Playback"
-msgstr "Faol ijro"
-
-#: src/audio/player.rs:455
+#: src/app.rs:276
 #, fuzzy
 #| msgid "Don't Record"
 msgid "Don’t Record"
 msgstr "Yozib olinmasin"
+
+#: src/app.rs:303
+msgid "Active Playback"
+msgstr "Faol ijro"
 
 #: src/audio/recording_state.rs:53 src/audio/recording_state.rs:55
 msgid "Not Recorded"

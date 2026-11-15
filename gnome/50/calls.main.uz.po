@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calls main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/calls/issues/\n"
-"POT-Creation-Date: 2026-10-22 17:43+0000\n"
+"POT-Creation-Date: 2026-11-08 18:06+0000\n"
 "PO-Revision-Date: 2025-04-02 18:08+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 #: data/org.gnome.Calls.desktop.in:2 data/org.gnome.Calls.metainfo.xml.in:6
-#: src/calls-application.c:482 src/ui/call-window.ui:4 src/ui/main-window.ui:4
+#: src/calls-application.c:488 src/ui/call-window.ui:4 src/ui/main-window.ui:4
 msgid "Calls"
 msgstr "Qoʻngʻiroqlar"
 
@@ -223,37 +223,37 @@ msgstr "Yangi hisob qoʻshing"
 msgid "VoIP Accounts"
 msgstr "VoIP hisoblari"
 
-#: src/calls-application.c:362
+#: src/calls-application.c:368
 #, c-format
 msgid "Tried dialing invalid tel URI `%s'"
 msgstr "“%s” raqamini notoʻgʻri terishga harakat qilindi"
 
-#: src/calls-application.c:746
+#: src/calls-application.c:752
 #, c-format
 msgid "Don't know how to open `%s'"
 msgstr "“%s”ni qanday ochishni bilmayman"
 
-#: src/calls-application.c:817
+#: src/calls-application.c:823
 msgid "The name of the plugins to load"
 msgstr "Yuklanadigan plaginlarning nomi"
 
-#: src/calls-application.c:818
+#: src/calls-application.c:824
 msgid "PLUGIN"
 msgstr "PLUGIN"
 
-#: src/calls-application.c:823
+#: src/calls-application.c:829
 msgid "Dial a telephone number"
 msgstr "Telefon raqamini tering"
 
-#: src/calls-application.c:824
+#: src/calls-application.c:830
 msgid "NUMBER"
 msgstr "NUMBER"
 
-#: src/calls-application.c:829
+#: src/calls-application.c:835
 msgid "Enable verbose debug messages"
 msgstr "Batafsil disk raskadrovka xabarlarini yoqing"
 
-#: src/calls-application.c:835
+#: src/calls-application.c:841
 msgid "Print current version"
 msgstr "Joriy versiyani chop eting"
 
@@ -503,7 +503,7 @@ msgstr "Shifrlash yoʻq"
 msgid "Force encryption"
 msgstr "Majburiy shifrlash"
 
-#: plugins/provider/sip/calls-sip-call.c:122
+#: plugins/provider/sip/calls-sip-call.c:124
 msgid "Cryptographic key exchange unsuccessful"
 msgstr "Kriptografik kalit almashinuvi muvaffaqiyatsiz tugadi"
 
