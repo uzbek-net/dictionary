@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-music master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-music/issues\n"
-"POT-Creation-Date: 2026-10-31 12:14+0000\n"
+"POT-Creation-Date: 2026-11-20 14:54+0000\n"
 "PO-Revision-Date: 2025-04-02 22:04+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -440,27 +440,27 @@ msgid "© The GNOME Music Developers"
 msgstr "© GNOME musiqa dasturchilari"
 
 #. TRANSLATORS: this is a playlist name
-#: gnomemusic/grilowrappers/smartplaylist.py:96
+#: gnomemusic/grilowrappers/smartplaylist.py:116
 msgid "Most Played"
 msgstr "Eng koʻp oʻynagan"
 
 #. TRANSLATORS: this is a playlist name
-#: gnomemusic/grilowrappers/smartplaylist.py:148
+#: gnomemusic/grilowrappers/smartplaylist.py:168
 msgid "Never Played"
 msgstr "Hech qachon oʻynamagan"
 
 #. TRANSLATORS: this is a playlist name
-#: gnomemusic/grilowrappers/smartplaylist.py:199
+#: gnomemusic/grilowrappers/smartplaylist.py:219
 msgid "Recently Played"
 msgstr "Yaqinda oʻynagan"
 
 #. TRANSLATORS: this is a playlist name
-#: gnomemusic/grilowrappers/smartplaylist.py:276
+#: gnomemusic/grilowrappers/smartplaylist.py:296
 msgid "Recently Added"
 msgstr "Yaqinda qoʻshilgan"
 
 #. TRANSLATORS: this is a playlist name
-#: gnomemusic/grilowrappers/smartplaylist.py:337
+#: gnomemusic/grilowrappers/smartplaylist.py:357
 #, fuzzy
 #| msgid "Favorite Songs"
 msgid "Starred Songs"
@@ -469,12 +469,12 @@ msgstr "Sevimli Qoʻshiqlar"
 #. TRANSLATORS: this is a playlist name indicating that the
 #. files are not tagged enough to be displayed in the albums
 #. or artists views.
-#: gnomemusic/grilowrappers/smartplaylist.py:389
+#: gnomemusic/grilowrappers/smartplaylist.py:409
 msgid "Insufficiently Tagged"
 msgstr "Etarlicha teglanmagan"
 
 #. TRANSLATORS: this is a playlist name
-#: gnomemusic/grilowrappers/smartplaylist.py:450
+#: gnomemusic/grilowrappers/smartplaylist.py:463
 msgid "All Songs"
 msgstr "Barcha qoʻshiqlar"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-maps gnome-48\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
-"POT-Creation-Date: 2026-09-11 12:59+0000\n"
+"POT-Creation-Date: 2026-11-21 11:02+0000\n"
 "PO-Revision-Date: 2025-03-29 22:17+0500\n"
 "Last-Translator: Baxrom Raxmatov\n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -225,32 +225,32 @@ msgid "Public transit itinerary"
 msgstr ""
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/org.gnome.Maps.metainfo.xml.in.in:711
-#: data/org.gnome.Maps.metainfo.xml.in.in:713
+#: data/org.gnome.Maps.metainfo.xml.in.in:719
+#: data/org.gnome.Maps.metainfo.xml.in.in:721
 msgid "The GNOME Project"
 msgstr "GNOME loyihasi"
 
-#: data/org.gnome.Maps.metainfo.xml.in.in:732
+#: data/org.gnome.Maps.metainfo.xml.in.in:740
 msgid "maps"
 msgstr ""
 
-#: data/org.gnome.Maps.metainfo.xml.in.in:733
+#: data/org.gnome.Maps.metainfo.xml.in.in:741
 #, fuzzy
 #| msgid "Location Type"
 msgid "location finder"
 msgstr "Joylashuv tuvri"
 
-#: data/org.gnome.Maps.metainfo.xml.in.in:734
+#: data/org.gnome.Maps.metainfo.xml.in.in:742
 msgid "place search"
 msgstr ""
 
-#: data/org.gnome.Maps.metainfo.xml.in.in:735
+#: data/org.gnome.Maps.metainfo.xml.in.in:743
 #, fuzzy
 #| msgid "Load later alternatives"
 msgid "google maps alternative"
 msgstr "Keyingi variantlarni yuklash"
 
-#: data/org.gnome.Maps.metainfo.xml.in.in:736
+#: data/org.gnome.Maps.metainfo.xml.in.in:744
 msgid "free map app"
 msgstr ""
 

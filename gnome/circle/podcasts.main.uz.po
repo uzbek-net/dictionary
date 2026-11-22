@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: podcasts main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/podcasts/issues\n"
-"POT-Creation-Date: 2026-09-09 19:02+0000\n"
+"POT-Creation-Date: 2026-11-19 15:09+0000\n"
 "PO-Revision-Date: 2025-10-24 13:39+0500\n"
 "Last-Translator: Baxrom Raxmatov <https://t.me/bahrom04>\n"
 "Language-Team: Uzbek (Latin) <Uzbek>\n"
@@ -183,17 +183,9 @@ msgstr ""
 msgid "Not Completed"
 msgstr ""
 
-#. Translators: Tooltip text for a button that toggles the search bar
-#: podcasts-gtk/resources/gtk/filter_menu.ui:152
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Toggle Pause"
-msgid "Toggle Search"
-msgstr "Toʻxtatib turish"
-
 #. Translators: Tooltip text for a menu button that has filter, sorting, and
 #. search options
-#: podcasts-gtk/resources/gtk/filter_menu.ui:175
+#: podcasts-gtk/resources/gtk/filter_menu.ui:165
 msgid "Filter"
 msgstr ""
 
@@ -209,41 +201,41 @@ msgstr "Epizod menyusi"
 msgid "Podcast Title"
 msgstr "Podkast sarlavhasi"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:114
+#: podcasts-gtk/resources/gtk/episode_description.ui:115
 msgid "Duration - Date"
 msgstr "Davomiyligi - Sana"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:151
+#: podcasts-gtk/resources/gtk/episode_description.ui:152
 msgid "_Stream"
 msgstr "Oqim"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:169
+#: podcasts-gtk/resources/gtk/episode_description.ui:170
 msgid "_Play"
 msgstr "Ijro etish"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:188
+#: podcasts-gtk/resources/gtk/episode_description.ui:189
 msgid "_Pause"
 msgstr "Pauza"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:206
+#: podcasts-gtk/resources/gtk/episode_description.ui:207
 msgid "_Download"
 msgstr "Yuklab olish"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:234
+#: podcasts-gtk/resources/gtk/episode_description.ui:235
 msgid "Cancel"
 msgstr "Bekor qilish"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:266
+#: podcasts-gtk/resources/gtk/episode_description.ui:267
 #: podcasts-gtk/resources/gtk/episode_menu.ui:60
 msgid "Delete"
 msgstr "Oʻchirish"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:285
+#: podcasts-gtk/resources/gtk/episode_description.ui:286
 #: podcasts-gtk/resources/gtk/sheet_description.ui:48
 msgid "Episode Description"
 msgstr "Epizod tavsifi"
 
-#: podcasts-gtk/resources/gtk/episode_description.ui:307
+#: podcasts-gtk/resources/gtk/episode_description.ui:308
 msgid "Episode Cover"
 msgstr "Epizod muqovasi"
 
@@ -398,7 +390,7 @@ msgid "Add episodes from the New view or Shows views"
 msgstr ""
 
 #: podcasts-gtk/resources/gtk/queue_view.ui:63
-#: podcasts-gtk/src/widgets/content_stack.rs:78
+#: podcasts-gtk/src/widgets/content_stack.rs:83
 msgid "Queue"
 msgstr ""
 
@@ -540,11 +532,20 @@ msgstr "Hammasi oʻynalgan deb belgilash"
 msgid "Unsubscribe"
 msgstr "Obunani bekor qilish"
 
-#: podcasts-gtk/resources/gtk/show_widget.ui:42
+#: podcasts-gtk/resources/gtk/show_widget.ui:45
 msgid "Podcast Menu"
 msgstr "Podkast menyusi"
 
-#: podcasts-gtk/resources/gtk/show_widget.ui:112
+#. Translators: Tooltip text for a button that toggles the search bar
+#: podcasts-gtk/resources/gtk/show_widget.ui:53
+#: podcasts-gtk/resources/gtk/window.ui:166
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Toggle Pause"
+msgid "Toggle Search"
+msgstr "Toʻxtatib turish"
+
+#: podcasts-gtk/resources/gtk/show_widget.ui:119
 msgid "Episodes"
 msgstr "Epizodlar"
 
@@ -667,12 +668,12 @@ msgstr "Podkastlar"
 msgid "Add a New Feed"
 msgstr "Yangi tasma qoʻshish"
 
-#: podcasts-gtk/resources/gtk/window.ui:131
+#: podcasts-gtk/resources/gtk/window.ui:157
 msgid "Main Menu"
 msgstr "Asosiy Menyu"
 
 #. Translators: Show as a noun, meaning a Podcast-Show.
-#: podcasts-gtk/resources/gtk/window.ui:173
+#: podcasts-gtk/resources/gtk/window.ui:178
 msgid "Show"
 msgstr "Koʻrsatish"
 
@@ -776,13 +777,13 @@ msgstr "Podkastlar ishlab chiquvchilari"
 msgid "Copied URL to clipboard!"
 msgstr "URL manzili vaqtinchalik xotiraga nusxalandi!"
 
-#: podcasts-gtk/src/episode_description_parser.rs:320
+#: podcasts-gtk/src/episode_description_parser.rs:329
 #, fuzzy, rust-format
 #| msgid "Jump to {}:{}:{}"
 msgid "Jump to {hours}:{minutes}:{seconds}"
 msgstr "{}:{}:{} ga sakrash"
 
-#: podcasts-gtk/src/episode_description_parser.rs:338
+#: podcasts-gtk/src/episode_description_parser.rs:347
 #, fuzzy, rust-format
 #| msgid "Jump to {}:{}"
 msgid "Jump to {minutes}:{seconds}"
@@ -894,16 +895,16 @@ msgstr "BeMeritus <bemerituss@gmail.com>"
 msgid "Currently playing chapter"
 msgstr "Hozirda bob ijro etilmoqda"
 
-#: podcasts-gtk/src/widgets/content_stack.rs:69
+#: podcasts-gtk/src/widgets/content_stack.rs:74
 msgid "Fetching feeds…"
 msgstr "Tasmalar olinmoqda…"
 
-#: podcasts-gtk/src/widgets/content_stack.rs:76
+#: podcasts-gtk/src/widgets/content_stack.rs:81
 msgid "New"
 msgstr "Yangi"
 
 #. Translators: Shows as a noun, meaning Podcast-Shows.
-#: podcasts-gtk/src/widgets/content_stack.rs:77
+#: podcasts-gtk/src/widgets/content_stack.rs:82
 #: podcasts-gtk/src/widgets/shows_view.rs:127
 msgid "Shows"
 msgstr "Koʻrsatuvlar"

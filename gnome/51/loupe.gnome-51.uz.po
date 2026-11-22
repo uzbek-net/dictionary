@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: loupe main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/loupe/-/issues\n"
-"POT-Creation-Date: 2026-11-09 16:24+0000\n"
+"POT-Creation-Date: 2026-11-20 13:21+0000\n"
 "PO-Revision-Date: 2025-04-04 11:52+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -962,80 +962,80 @@ msgstr "_Boʻsh joyni toʻldirish"
 msgid "H_eight"
 msgstr "H_sakkiz"
 
-#: src/widgets/properties_view.rs:284
+#: src/widgets/properties_view.rs:292
 msgid "Unknown"
 msgstr "Nomaʼlum"
 
 #. Translators: Addition of image being transparent to format name
-#: src/widgets/properties_view.rs:288
+#: src/widgets/properties_view.rs:296
 msgid ", transparent"
 msgstr ", shaffof"
 
 #. Translators: Addition of image being grayscale to format name
-#: src/widgets/properties_view.rs:293
+#: src/widgets/properties_view.rs:301
 msgid ", grayscale"
 msgstr "_Kulrang rang"
 
 #. Translators: Addition of bit size to format name
-#: src/widgets/properties_view.rs:298
+#: src/widgets/properties_view.rs:306
 msgid ", {}\\u{202F}bit"
 msgstr ", {}\\u{202F}bit"
 
-#: src/widgets/properties_view.rs:315
+#: src/widgets/properties_view.rs:323
 msgid "{}\\u{202F}\\u{D7}\\u{202F}{}"
 msgstr "{}\\u{202F}\\u{D7}\\u{202F}{}"
 
 #. Translators: Shorthand for centimeter
-#: src/widgets/properties_view.rs:354
+#: src/widgets/properties_view.rs:362
 msgid " cm"
 msgstr ""
 
 #. Translators: Shorthand for inch
-#: src/widgets/properties_view.rs:358
+#: src/widgets/properties_view.rs:366
 msgid "″"
 msgstr ""
 
 #. Translators: Shorthand for meter
-#: src/widgets/properties_view.rs:362
+#: src/widgets/properties_view.rs:370
 #, fuzzy
 #| msgid "{} %"
 msgid " m"
 msgstr "{}%"
 
 #. Translators: Shorthand for millimeter
-#: src/widgets/properties_view.rs:366
+#: src/widgets/properties_view.rs:374
 msgid " mm"
 msgstr ""
 
 #. Translators: Shorthand for pica (unit)
-#: src/widgets/properties_view.rs:370
+#: src/widgets/properties_view.rs:378
 msgid " pc"
 msgstr ""
 
 #. Translators: Shorthand for pica (unit)
-#: src/widgets/properties_view.rs:374
+#: src/widgets/properties_view.rs:382
 msgid " pt"
 msgstr ""
 
-#: src/widgets/properties_view.rs:386
+#: src/widgets/properties_view.rs:394
 #, fuzzy
 #| msgid "{}\\u{202F}\\u{D7}\\u{202F}{}"
 msgid "{}{}\\u{202F}\\u{D7}\\u{202F}{}{}"
 msgstr "{}\\u{202F}\\u{D7}\\u{202F}{}"
 
-#: src/widgets/properties_view.rs:403
+#: src/widgets/properties_view.rs:411
 #, fuzzy
 #| msgid "{}\\u{202F}s"
 msgid "{}\\u{202F}DPI"
 msgstr "{}\\u{202F}s"
 
-#: src/widgets/properties_view.rs:407
+#: src/widgets/properties_view.rs:415
 #, fuzzy
 #| msgid "{}\\u{202F}\\u{D7}\\u{202F}{}"
 msgid "{}\\u{202F}DPI\\u{202F}\\u{D7}\\u{202F}{}\\u{202F}DPI"
 msgstr "{}\\u{202F}\\u{D7}\\u{202F}{}"
 
-#: src/widgets/properties_view.rs:435
+#: src/widgets/properties_view.rs:443
 msgid "Image Coordinates Copied"
 msgstr "Rasm koordinatalari nusxalandi"
 

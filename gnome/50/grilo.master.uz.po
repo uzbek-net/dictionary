@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grilo master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/grilo/issues/\n"
-"POT-Creation-Date: 2025-03-20 18:11+0000\n"
+"POT-Creation-Date: 2026-11-21 13:28+0000\n"
 "PO-Revision-Date: 2025-05-07 12:21+0500\n"
 "Last-Translator: \n"
 "Language-Team: Uzbek (Latin) <uz@li.org>\n"
@@ -111,73 +111,73 @@ msgstr "Qidiriladigan manbalar mavjud emas"
 msgid "Could not resolve media for URI “%s”"
 msgstr "URI “%s” uchun media manbasini topib boʻlmadi"
 
-#: src/grl-registry.c:499 src/grl-registry.c:1538
+#: src/grl-registry.c:498 src/grl-registry.c:1537
 #, c-format
 msgid "Plugin “%s” is already loaded"
 msgstr "“%s” plagini allaqachon yuklangan"
 
-#: src/grl-registry.c:523
+#: src/grl-registry.c:522
 #, c-format
 msgid "Failed to initialize plugin from %s"
 msgstr "%s manzilidan plagin ishga tushirishda xato yuz berdi"
 
-#: src/grl-registry.c:565
+#: src/grl-registry.c:564
 #, c-format
 msgid "Metadata key “%s” already registered in different format"
 msgstr ""
 "“%s” metamaʼlumotlar kaliti allaqachon boshqa formatda roʻyxatdan oʻtgan"
 
-#: src/grl-registry.c:578
+#: src/grl-registry.c:577
 #, c-format
 msgid "Metadata key “%s” cannot be registered"
 msgstr "“%s” metamaʼlumotlar kalitini roʻyxatdan oʻtkazib boʻlmaydi"
 
-#: src/grl-registry.c:1144
+#: src/grl-registry.c:1143
 #, c-format
 msgid "Source with id “%s” was not found"
 msgstr "\"%s\" identifikatoriga ega manba topilmadi"
 
-#: src/grl-registry.c:1218
+#: src/grl-registry.c:1217
 #, c-format
 msgid "Failed to load plugin from %s"
 msgstr "%s manzilidan plagin yuklab olib boʻlmadi"
 
-#: src/grl-registry.c:1227
+#: src/grl-registry.c:1226
 #, c-format
 msgid "Invalid plugin file %s"
 msgstr "Notoʻgʻri plagin fayli: %s"
 
-#: src/grl-registry.c:1238
+#: src/grl-registry.c:1237
 #, c-format
 msgid "“%s” is not a valid plugin file"
 msgstr "“%s” toʻgʻri plagin fayli emas"
 
-#: src/grl-registry.c:1257
+#: src/grl-registry.c:1256
 #, c-format
 msgid "Plugin “%s” already exists"
 msgstr "Plagin “%s” allaqachon mavjud"
 
-#: src/grl-registry.c:1420
+#: src/grl-registry.c:1419
 #, c-format
 msgid "Invalid path %s"
 msgstr "Notoʻgʻri fayl yoʻli: %s"
 
-#: src/grl-registry.c:1487
+#: src/grl-registry.c:1486
 #, c-format
 msgid "All configured plugin paths are invalid"
 msgstr "Sozlangan barcha plagin yoʻllari notoʻgʻri"
 
-#: src/grl-registry.c:1527
+#: src/grl-registry.c:1526
 #, c-format
 msgid "Plugin “%s” not available"
 msgstr "“%s” plagini mavjud emas"
 
-#: src/grl-registry.c:1755
+#: src/grl-registry.c:1754
 #, c-format
 msgid "Plugin not found: “%s”"
 msgstr "“%s” plagin topilmadi"
 
-#: src/grl-registry.c:2066
+#: src/grl-registry.c:2065
 #, c-format
 msgid "Plugin configuration does not contain “plugin-id” reference"
 msgstr "Plagin konfiguratsiyasida “plugin-id” havolasi topilmadi"
